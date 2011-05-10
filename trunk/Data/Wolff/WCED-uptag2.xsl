@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE xsl:stylesheet [
 
+<!ENTITY cr          "&#x0D;"           >
+<!ENTITY lf          "&#x0A;"           >
 <!ENTITY larr        "&#x2190;"         >
 <!ENTITY rarr        "&#x2192;"         >
 <!ENTITY glots       "&#x0294;"         >
@@ -32,10 +34,13 @@
 
     <xsl:template match="/">
         <xsl:processing-instruction name="xml-stylesheet">href="WCED-view.xsl" type="text/xsl"</xsl:processing-instruction>
+
+        <!-- uptag the main dictionary -->
         <dictionary lang="en-US">
             <xsl:apply-templates/>
         </dictionary>
 
+        <!-- Create list of cross-references in separate document -->
         <xsl:result-document 
                 href="xrefs.xml"
                 method="xml" 
@@ -52,14 +57,15 @@
         <xref>
             <xsl:value-of select="."/>
         </xref>
-        <xsl:text>
-</xsl:text>
+        <xsl:text>&lf;</xsl:text>
     </xsl:template>
 
 
+    <!-- Eliminate the TEI header -->
     <xsl:template match="teiHeader"/>
 
 
+    <!-- Process each entry -->
     <xsl:template match="entry|p">
         <entry>
             <xsl:call-template name="split-entry">
@@ -68,6 +74,8 @@
         </entry>
     </xsl:template>
 
+
+    <!--== INFER LOGICAL STRUCTURE ==-->
 
     <!--
 
@@ -133,6 +141,9 @@
                 <hom>
                     <xsl:choose>
                         <xsl:when test="name(.) = 'pos'">
+                            <xsl:attribute name="role">
+                                <xsl:value-of select="."/>
+                            </xsl:attribute>
                             <xsl:apply-templates select="."/>
                             <xsl:call-template name="split-role">
                                 <xsl:with-param name="nodes" select="current-group() except ."/>
@@ -165,10 +176,19 @@
         <xsl:param name="nodes" as="node()*"/>
 
         <xsl:for-each-group select="$nodes" group-starting-with="number">
-            <!-- ignore spurious empty groups (caused by spaces in source text) -->
+            <!-- eliminate spurious empty groups (caused by spaces in source text) -->
             <xsl:if test="not(local:is-empty(current-group()))">
                 <sense>
-                    <xsl:call-template name="split-samples">
+                    <xsl:attribute name="n">
+                        <xsl:choose>
+                            <xsl:when test="name(.) = 'number'">
+                                <xsl:value-of select="."/>
+                            </xsl:when>
+                            <xsl:otherwise>0</xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:attribute>
+ 
+                    <xsl:call-template name="split-examples">
                         <xsl:with-param name="nodes" select="current-group()"/>
                     </xsl:call-template>
                 </sense>
@@ -177,7 +197,15 @@
     </xsl:template>
 
 
-    <xsl:template name="split-samples">
+    <!-- 
+
+    Each sense starts with a translation or description of the sense, followed
+    by zero or more examples, where the Cebuano is given in italics, and
+    the English translation in upright letters.
+
+    -->
+
+    <xsl:template name="split-examples">
         <xsl:param name="nodes" as="node()*"/>
 
         <xsl:for-each-group select="$nodes" group-starting-with="i">
@@ -227,34 +255,38 @@
     </xsl:template>
 
 
-    <xsl:template match="*">
+    <xsl:template match="@*|node()">
         <xsl:copy>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
 
 
+
+
+
+    <!--== SUPPORT FUNCTIONS ==-->
+
     <!-- Turn a word into a string usable as id -->
     <xsl:function name="local:make-id" as="xs:string">
-        <xsl:param name="w0" as="xs:string"/>
+        <xsl:param name="word" as="xs:string"/>
 
-        <xsl:variable name="w1" as="xs:string"><xsl:value-of select="replace($w0, 'á', 'ax')"/></xsl:variable>
-        <xsl:variable name="w2" as="xs:string"><xsl:value-of select="replace($w1, 'í', 'ix')"/></xsl:variable>
-        <xsl:variable name="w3" as="xs:string"><xsl:value-of select="replace($w2, 'ú', 'ux')"/></xsl:variable>
-        <xsl:variable name="w4" as="xs:string"><xsl:value-of select="replace($w3, 'à', 'aq')"/></xsl:variable>
-        <xsl:variable name="w5" as="xs:string"><xsl:value-of select="replace($w4, 'ì', 'iq')"/></xsl:variable>
-        <xsl:variable name="w6" as="xs:string"><xsl:value-of select="replace($w5, 'ù', 'uq')"/></xsl:variable>
-        <xsl:variable name="w7" as="xs:string"><xsl:value-of select="replace($w6, '&larr;', 'lx')"/></xsl:variable>
-        <xsl:variable name="w8" as="xs:string"><xsl:value-of select="replace($w7, '&rarr;', 'rx')"/></xsl:variable>
-        <xsl:variable name="w9" as="xs:string"><xsl:value-of select="replace($w8, '[ ,/]+', '_')"/></xsl:variable>
-        <xsl:variable name="w10" as="xs:string"><xsl:value-of select="replace($w9, '&mdash;', '--')"/></xsl:variable>
-        <xsl:variable name="w11" as="xs:string"><xsl:value-of select="replace($w10, '^-', 'x-')"/></xsl:variable>
-        <xsl:variable name="w12" as="xs:string"><xsl:value-of select="replace($w11, '[ ()\[\],]', '')"/></xsl:variable>
-        <xsl:variable name="w13" as="xs:string"><xsl:value-of select="replace($w12, '\*', 'xx')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'á',          'ax')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'í',          'ix')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ú',          'ux')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'à',          'aq')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ì',          'iq')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ù',          'uq')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&larr;',     'lx')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&rarr;',     'rx')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ,/]+',     '_')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&mdash;',    '--')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '^-',         'x-')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ()\[\],]', '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '\*',         'xx')"/></xsl:variable>
 
-        <xsl:value-of select="$w13"/>
+        <xsl:value-of select="$word"/>
     </xsl:function>
-
 
 
     <!-- Flatten a sequence of nodes to a string -->
@@ -270,6 +302,7 @@
         <xsl:value-of select="$string"/>
     </xsl:function>
 
+
     <!-- Determine whether a sequence of nodes has no text content -->
     <xsl:function name="local:is-empty" as="xs:boolean">
         <xsl:param name="sequence" as="node()*"/>
@@ -284,7 +317,7 @@
     </xsl:function>
 
 
-    <!-- Determine whether a sequence of nodes has no text content -->
+    <!-- Remove initial empty nodes from a sequence -->
     <xsl:function name="local:remove-initial-empty" as="node()*">
         <xsl:param name="sequence" as="node()*"/>
 
