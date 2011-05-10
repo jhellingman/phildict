@@ -57,6 +57,7 @@
         <language id=de>German</language>
         <language id=fr>French</language>
         <language id=la>Latin</language>
+        <language id=ceb>Cebuano</language>
     </langUsage>
     <textClass>
         <keywords>
@@ -242,25 +243,25 @@ in general.
 
 
 <pb n=v>
-<div1 type=Contents id=contents>
+<div1 type=Contents id=toc>
 <head>CONTENTS</head>
 
 
 <list>
-<item><hi rend=bold>PREFACE</hi>                            iii
-<item><hi rend=bold>LIST OF ABBREVIATIONS</hi>               vi
+<item><hi rend=bold>PREFACE</hi>                            <ab type=tocPageNum>iii</ab>
+<item><hi rend=bold>LIST OF ABBREVIATIONS</hi>               <ab type=tocPageNum>vi</ab>
 <item><hi rend=bold>INTRODUCTION</hi>
-  <item>Cebuano                            vii
-  <item>Dialects                           vii
-  <item>Basis of this Work                viii
-  <item>Phonology and Transcription         ix
-  <item>Conventions of Listing              xi
-  <item>Alternations                       xii
-  <item>Inflection and Derivation           xv
-  <item>Classification of Roots           xvii
-<item><hi rend=bold>ENTRIES</hi>                              1
-<item><hi rend=bold>ADDENDA</hi>                           1141
-<item><hi rend=bold>BIBLIOGRAPHY</hi>                      1164
+  <item>Cebuano                            <ab type=tocPageNum>vii</ab>
+  <item>Dialects                           <ab type=tocPageNum>vii</ab>
+  <item>Basis of this Work                <ab type=tocPageNum>viii</ab>
+  <item>Phonology and Transcription         <ab type=tocPageNum>ix</ab>
+  <item>Conventions of Listing              <ab type=tocPageNum>xi</ab>
+  <item>Alternations                       <ab type=tocPageNum>xii</ab>
+  <item>Inflection and Derivation           <ab type=tocPageNum>xv</ab>
+  <item>Classification of Roots           <ab type=tocPageNum>xvii</ab>
+<item><hi rend=bold>ENTRIES</hi>                              <ab type=tocPageNum>1</ab>
+<item><hi rend=bold>ADDENDA</hi>                           <ab type=tocPageNum>1141</ab>
+<item><hi rend=bold>BIBLIOGRAPHY</hi>                      <ab type=tocPageNum>1164</ab>
 </list>
 
 
@@ -311,7 +312,7 @@ in general.
 <div1 type=Introduction id=intro>
 <head>INTRODUCTION</head>
 
-<div2 type=Section>
+<div2 n=1.0 id=s1 type=Section>
 <head>1.0 Cebuano</head>
 
 
@@ -355,7 +356,7 @@ but the influential classes that have grown up knowing only a dilute and inartic
 are ever increasing in number, proportion, and prestige.
 
 
-<div3 type=subsection>
+<div3 n=1.1 id=s1.1 type=subsection>
 <head>1.1 Dialects</head>
 
 <p>The Cebuano language is remarkably uniform. There are differences, to be sure, but these
@@ -368,7 +369,7 @@ but marked &lsquo;dialectal&rsquo;. Otherwise whatever forms we have found we ha
 whether or not they are in current use throughout the Cebuano speech area.
 
 <pb n=viii>
-<div4 type=Subsection>
+<div4 n=1.12 id=s1.12 type=Subsection>
 <head>1.12 Correct and incorrect speech</head>
 
 <p>A happy consequence of the low regard which Cebuano speakers have of their own language is
@@ -408,7 +409,7 @@ occupations or life styles; <hi rend=sc>COLLOQUIAL</hi> indicates forms avoided 
 but commonly used in normal speech even among non-intimates.
 
 
-<div2>
+<div2 n=2.0 id=s2>
 <head>2.0 Basis of this work</head>
 
 <p>This dictionary is a comprehensive listing of approximately 25,000 Cebuano roots with English
@@ -430,7 +431,7 @@ that could not be confirmed directly from our texts or informants.
 
 
 <pb n=ix>
-<div3>
+<div3 n=2.1 id=s2.1>
 <head>2.1 Personnel</head>
 
 <p>The collection, transcription, and classification of the texts was carried out by a large staff in
@@ -443,7 +444,7 @@ of Guihulngan, Negros Oriental; Everett Mendoza, of Maasin, Leyte; Mrs. D. Ag. V
 Cebu, but also a long time resident of Ozamis City, and Molave, Zamboanga del Sur.
 
 
-<div3>
+<div3 n=2.2 id=s2.2>
 <head>2.2 Other sources</head>
 
 <p>The scientific names for plants and shells are based upon specimens which were gathered and
@@ -462,7 +463,7 @@ checked all information incorporated and used terminology listed in them only in
 could corroborate it.
 
 
-<div2>
+<div2 n=3.0 id=s3>
 <head>3.0 Phonology and transcription</head>
 
 <p>The following chart gives the Cebuano phonemes and the articulation:
@@ -525,7 +526,7 @@ between the stress on the first mora and stress on the second mora of the long v
 [nahúug] &lsquo;fell&rsquo;; <hi>húg</hi> [huúg] &lsquo;woof&rsquo;. This contrast does not obtain in all dialects.
 
 
-<div3>
+<div3 n=3.2 id=s3.2>
 <head>3.2 Transcription</head>
 
 
@@ -536,7 +537,7 @@ the phonemic symbols given in the Chart 3.0 with the exceptions listed in the fo
 
 
 
-<div4>
+<div4 n=3.21 id=s3.21>
 <head>3.21 Vowels</head>
 
 
@@ -558,7 +559,7 @@ of a long mark and acute accent: <hi>nah&umacracu;g</hi> [nahúug] &lsquo;fell&rs
 
 
 
-<div4>
+<div4 n=3.22 id=s3.22>
 <head>3.22 Glottal stop /&glots;/</head>
 
 
@@ -580,14 +581,14 @@ unlike vowels there is either a [&glots;] or a [w] or [y] glide.</note> <hi>maáy
 
 
 
-<div4>
-<head>3.23 /n/, /c/, /j/, /dy/, /ty/</head>
+<div4 n=3.23 id=s3.23>
+<head>3.23 /&eng;/, /c/, /j/, /dy/, /ty/</head>
 
 
 <p>The phoneme /&eng;/ is transcribed <hi>ng</hi>, as in Cebuano publications: <hi>bángun</hi> /bá&eng;un/ &lsquo;get up&rsquo;. The
 sequence /ng/ is transcribed n-g: <hi>san-glas</hi> /sanglas/ &lsquo;sunglasses&rsquo;.
 
-/c/ is transcribed <hi>ts</hi>, as in Cebuano publications: <hi>tsinílas</hi> /cinílas/ &lsquo;slippers&rsquo;<note n=3>[ts] does not contrast with [c]. Morphologically, when a suffix <hi>-s</hi> is added to a base which ends in /t/ the
+<p>/c/ is transcribed <hi>ts</hi>, as in Cebuano publications: <hi>tsinílas</hi> /cinílas/ &lsquo;slippers&rsquo;<note n=3>[ts] does not contrast with [c]. Morphologically, when a suffix <hi>-s</hi> is added to a base which ends in /t/ the
 combination <hi>ts</hi> automatically becomes [c]: <hi>Rit</hi> &lsquo;name&rsquo; plus <hi>-s</hi> &lsquo;diminutive suffix&rsquo; = <hi>Rits</hi> [ric].</note>. The sequence /ty/
 is transcribed <hi>ty</hi> (as in Cebuano publications): <hi>tyanggi</hi> /tyánggi/ &lsquo;market&rsquo;.
 
@@ -602,7 +603,7 @@ to [dy].</note>
 
 
 
-<div4>
+<div4 n=3.24 id=s3.24>
 <head>3.24 <hi>Ciy</hi> and <hi>Cy</hi>; <hi>Cuw</hi> and <hi>Cw</hi>; <hi>ayi</hi> and <hi>ay</hi>; <hi>awu</hi> and <hi>aw</hi></head>
 
 
@@ -623,7 +624,7 @@ and <hi>Vuw</hi> in open syllables: <hi>bayinti</hi> &lsquo;twenty&rsquo; but <h
 
 
 
-<div2>
+<div2 n=4.0 id=s4>
 <head>4.0 Listing of Entries</head>
 
 
@@ -666,11 +667,11 @@ secondary aim of exemplifying the morphological characteristics of the affixed f
 
 
 <pb n=xii>
-<div2>
+<div2 n=5.0 id=s5>
 <head>5.0 Alternations</head>
 
 
-<div3 type=Subsection>
+<div3 n=5.1 id=s5.1 type=Subsection>
 <head>5.1 Morphophonemic alternations</head>
 
 
@@ -680,7 +681,7 @@ indicated by writing the affixed forms out.
 
 
 
-<div4>
+<div4 n=5.11 id=s5.11>
 <head>5.11 Shift of stress</head>
 
 
@@ -713,7 +714,7 @@ said to be by the addition of an affix consisting of shift of stress alone:
 
 
 
-<div4>
+<div4 n=5.12 id=s5.12>
 <head>5.12 Dropping of vowels</head>
 
 
@@ -734,7 +735,7 @@ of the final syllable of the root:
 
 
 
-<div4>
+<div4 n=5.13 id=s5.13>
 <head>5.13   Adding of /h/ or /&glots;/ to roots ending in a vowel when a suffix is added</head>
 
 
@@ -750,7 +751,7 @@ either /&glots;/ or /h/ (depending on which suffix):
 </table>
 
 
-<div4>
+<div4 n=5.14 id=s5.14>
 <head>5.14  Metathesis</head>
 
 
@@ -783,7 +784,7 @@ the vowel of the final syllable of the root is dropped.
 /hal&glots;u/ &lsquo;pestle&rsquo;; <hi>kalamunggay</hi> and <hi>kamalunggay</hi> &lsquo;k.o. tree&rsquo;.
 
 
-<div4>
+<div4 n=5.15 id=s5.15>
 <head>5.15 Change of /r/ or /l/ to /d, g, h/</head>
 
 <p>Intervocalically, /d/ usually becomes /r/ or, less frequently, /l/:
@@ -807,7 +808,7 @@ on a consonant.
 <row><cell>haluk   <cell>/halúk/     <cell><hi>kiss</hi>        <cell>+  <cell>-an  <cell>=  <cell>hagkan   <cell>/hágkan/     <cell><hi>kiss it</hi>
 </table>
 
-/r/ or, occasionally, /l/ at the end of a root may change to /h/ when suffixes are added. These are
+<p>/r/ or, occasionally, /l/ at the end of a root may change to /h/ when suffixes are added. These are
 almost always words of Spanish provenience.
 
 <table>
@@ -816,7 +817,7 @@ almost always words of Spanish provenience.
 </table>
 
 
-<div3>
+<div3 n=5.2 id=s5.2>
 <head>5.2 Competing forms</head>
 
 <p>Because of sound changes which took place over portions of the Cebuano-speaking areas but
@@ -839,10 +840,10 @@ statement to the contrary is made.
 
 
 <pb n=xiv>
-<div4>
+<div4 n=5.21 id=s5.21>
 <head>5.21   Dropping of /l/</head>
 
-<div5 type=Subsection>
+<div5 n=5.211 id=s5.211 type=Subsection>
 <head>5.211   Intervocalic /l/</head>
 
 <p>Most (but not all) roots which contain an /l/ between /a/&apos;s and /u/&apos;s compete with roots which
@@ -869,7 +870,7 @@ listing of <hi>salámat</hi>. But for <hi>balay</hi> &lsquo;house&rsquo;, for exa
 <hi>balay</hi> with no further comment alone the reader may deduce a form <hi>báy</hi>.</note>
 
 
-<div5>
+<div5 n=5.212 id=s5.212>
 <head>5.212   Post-consonantal /l/</head>
 
 <p>There is a tendency to drop post-consonantal /l/ usually (but not always) with compensatory
@@ -879,14 +880,14 @@ areas which drop intervocalic /l/. The dropping of post-consonantal /l/ is by no
 as dropping of intervocalic /l/, and alternative forms are listed.
 
 
-<div5>
+<div5 n=5.213 id=s5.213>
 <head>5.213   Final /l/</head>
 
 <p>In Bohol and southern Leyte there is a tendency for /al/ at the end of a word to become /aw/
 and /ul/ to become /u/: <hi>bagal</hi> or <hi>bagaw</hi> &lsquo;shell&rsquo;. In this case alternative forms are listed.
 
 
-<div5>
+<div5 n=5.214 id=s5.214>
 <head>5.214  Change of /l/ to /y/</head>
 
 <p>Historically, intervocalic /l/ in isolated dialects became /y/. Forms with /y/ for /l/ have spread
@@ -895,7 +896,7 @@ throughout the Cebuano-speaking area, and some are in competition with /l/-retai
 arms&rsquo;. In this case, competing forms are listed with cross reference.
 
 
-<div4>
+<div4 n=5.22 id=s5.22>
 <head>5.22   Assimilation and metathesis</head>
 
 <p>There is a tendency for nasal consonants which abut on consonants to be assimilated: <hi>bungdul</hi>
@@ -912,7 +913,7 @@ Section 5.14.) Competing forms that differ by virtue of metathesis are listed ex
 containing a sequence /C&glots;/ which invariably compete with forms containing /&glots;C/.
 
 
-<div4>
+<div4 n=5.23 id=s5.23>
 <head>5.23   Change of vowels</head>
 
 <p>The vowel of the antepenult sporadically may change to /a/: <hi>kumusta</hi> or <hi>kamusta</hi> &lsquo;how are, is&rsquo;;
@@ -922,7 +923,7 @@ listed.
 
 
 <pb n=xv>
-<div4>
+<div4 n=5.24 id=s5.24>
 <head>5.24  Change of /y/ to /dy/</head>
 
 <p>In Bohol and Southern Leyte /y/ becomes /j/ (written <hi>dy</hi>). Some forms with <hi>dy</hi> have spread
@@ -931,7 +932,7 @@ forms are listed with <hi>dy</hi>.<note n=1>There are also forms with <hi>dy</hi
 that these forms have /dy/ in Bohol and Southern Leyte.
 
 
-<div4>
+<div4 n=5.25 id=s5.25>
 <head>5.25   Competing forms where no sound change is involved</head>
 
 <p>Roots which are not relatable by the above rules are given separate definitions. The exception
@@ -940,7 +941,7 @@ same cultural forms: e.g. <hi>gwayabanu, labanu, malabanu, síku karabaw</hi> are
 (<hi rend=bold><hi>Anona muricata</hi></hi>); <hi>humagbus</hi> and <hi>hinablus</hi> both refer to the same relationship.
 
 
-<div2>
+<div2 n=6.1 id=s6.1>
 <head>6.1  Inflection</head>
 
 <p>Verb forms are subject to the addition of a small list of affixes which we call <hi rend=bold><hi rend=sc>INFLECTIONAL
@@ -1044,7 +1045,7 @@ used in colloquial speech.
 </table>
 
 
-<div3>
+<div3 n=6.2 id=s6.2>
 <head>6.2 Verbal derivation</head>
 
 <p>The inflectional affixes are added not only to roots (forms containing no other affixes) but also
@@ -1084,7 +1085,7 @@ prefixes, they undergo morphophonemic alternations as shown in the following cha
 
 
 
-<div2>
+<div2 n=7.0 id=s7.0>
 <head>7.0 Classification of roots according to their system of affixation</head>
 
 
@@ -1118,10 +1119,10 @@ affixations.
 
 
 
-<div3>
+<div3 n=7.1 id=s7.1>
 <head>7.1 Active verb classes</head>
 
-<div4>
+<div4 n=7.11 id=s7.11>
 <head>7.11 Class <hi>A</hi> conjugation, the action verbs</head>
 
 <p>Verbs of class <hi>A</hi> refer to an action. If they are the predicate of the sentence, the subject is the
@@ -1134,7 +1135,7 @@ from noun roots, and the entry for <hi>hapit,2</hi> &lsquo;drop in s.w.&rsquo; i
 motion.
 
 
-<div5>
+<div5 n=7.111 id=s7.111>
 <head>7.111 Subclasses of the class A conjugation</head>
 
 <p>The numbers which follow the letter <hi>A</hi> indicate nonoccurrence of affixes. The symbol <hi>A1</hi>
@@ -1174,7 +1175,7 @@ root of the <hi>AN</hi> conjugation is <hi>sanghid</hi> &lsquo;ask permission&rs
 
 
 
-<div4>
+<div4 n=7.12 id=s7.12>
 <head>7.12  Class <hi>B</hi> conjugation, the stative verbs</head>
 
 <p>Verbs of class <hi>B</hi> refer to s.t. that happened to s.o. or s.t. If they are the predicate of the sentence,
@@ -1185,7 +1186,7 @@ alternatively, <hi rend=bold>makapa-</hi> (<hi rend=bold>nakapa-</hi>) with a me
 &lsquo;doctor&rsquo; illustrates a verb of this class formed from a noun root.
 
 
-<div5>
+<div5 n=7.121 id=s7.121>
 <head>7.121 Subclasses of verbs of the <hi>B</hi> conjugation</head>
 
 <p>Verbs of class <hi>B1</hi> lack <hi rend=bold>mu-</hi>, e.g. <hi>págud</hi> &lsquo;get burnt&rsquo;. Verbs of class <hi>B2</hi> lack <hi rend=bold>mag-</hi>, e.g. <hi>palanas</hi> &lsquo;be
@@ -1205,7 +1206,7 @@ example of a verb of conjugation <hi>BN</hi> is <hi>pula</hi>.
 
 
 
-<div4>
+<div4 n=7.13 id=s7.13>
 <head>7.13 Class <hi>C</hi> conjugation, the mutual action verbs</head>
 
 <p>Verbs of class <hi>C</hi> refer to an action which two or more agents engage in mutually. Verbs in this
@@ -1215,7 +1216,7 @@ meaning <hi>5</hi>, with the potential prefix <hi rend=bold>magka-<hi rend=sub>1
 entry for <hi>sábut</hi> &lsquo;come to an understanding&rsquo; (under <hi>sabut (&larr;)</hi>) illustrates a verb of class <hi>C</hi> conjugation.
 
 
-<div5>
+<div5 n=7.131 id=s7.131>
 <head>7.131  Subclasses of the class C conjugation</head>
 
 <p>The symbol <hi>C1</hi> refers to verbs which lack the durative set, <hi rend=bold>mag-</hi>. The symbol <hi>C2</hi> refers to verbs
@@ -1226,11 +1227,11 @@ The entry <hi>púyù</hi> &lsquo;live together&rsquo; illustrates a verb of class 
 
 
 
-<div3>
+<div3 n=7.2 id=s7.2>
 <head>7.2 Passive verb classes</head>
 
 
-<div4>
+<div4 n=7.21 id=s7.21>
 <head>7.21  Class a verbs</head>
 
 <p>Verbs of class a occur with direct passive affixes (see the entry for <hi rend=bold>-un<hi rend=sub>1</hi></hi>), and the direct passive
@@ -1255,7 +1256,7 @@ referring to mutual action. <hi>Dakù</hi> illustrates an adjective with class <h
 and <hi>duktur</hi> illustrate two different kinds of nouns with class <hi>a</hi> conjugation.
 
 
-<div5>
+<div5 n=7.211 id=s7.211>
 <head>7.211 Subclasses of the class <hi>a</hi> conjugation</head>
 
 <p>Verbs in class <hi>a1</hi> lack a local passive; verbs in class <hi>a2</hi> lack an instrumental passive (except in
@@ -1266,7 +1267,7 @@ are subject). Verbs in class <hi>a12</hi> lack both the local and the instrument
 the thing referred to by the verb (<hi rend=bold>-un<hi rend=sub>1</hi>,</hi> meaning <hi rend=bold>2</hi>), e.g. <hi>malarya</hi> &lsquo;get malaria&rsquo;.
 
 
-<div4>
+<div4 n=7.22 id=s7.22>
 <head>7.22 Class <hi>b</hi> verbs</head>
 
 <p>Verbs of class <hi>b</hi> occur with a local passive affix, and the local passive refers to a focus which is
@@ -1275,7 +1276,7 @@ instrumental passive affixes (see <hi rend=bold>i-<hi rend=sub>1</hi></hi>) in t
 meanings <hi>2, 3,</hi> and <hi>4</hi>). <hi>Haluk</hi> &lsquo;kiss&rsquo; illustrates a verb of class <hi>b</hi> conjugation.
 
 
-<div5>
+<div5 n=7.221 id=s7.221>
 <head>7.221  Subclasses of class <hi>b</hi></head>
 
 <p>The symbol <hi>b(1)</hi> indicates verbs of class <hi>b</hi> which lack the instrumental passive conjugation (in
@@ -1322,7 +1323,7 @@ under <hi>mau</hi>) is a verb of class <hi>b8</hi>.
 
 
 
-<div4>
+<div4 n=7.23 id=s7.23>
 <head>7.23 Class <hi>c</hi> verbs</head>
 
 <p>Verbs of class <hi>c</hi> have instrumental passive affixes which refer to a focus which is the thing
@@ -1333,7 +1334,7 @@ the beneficiary of the action (<hi rend=bold>-an<hi rend=sub>1</hi></hi>, meanin
 
 
 
-<div5>
+<div5 n=7.231 id=s7.231>
 <head>7.231 Subclasses of class <hi>c</hi> verbs</head>
 
 <p>The symbol <hi>c1</hi> indicates verbs for which the direct and the instrumental passive are synonymous
@@ -1367,13 +1368,16 @@ meaning <hi>2</hi>). <hi>Lípay</hi> &lsquo;be happy&rsquo; is an example of a ve
 </front>
 <body>
 
+<!-- Omitted, as placed in separate file for special processing -->
+
 </body>
 <back>
 
+
 <divGen type=toc>
 
-
 <divGen type=Colophon>
+
 
 </back>
 </text>
