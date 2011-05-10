@@ -1,0 +1,289 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY gtilde CDATA "&#x0192;" -- g with tilde -->
+
+<!ENTITY ait	CDATA "a" -- italic a			or a withacute -->
+<!ENTITY aacit	CDATA "a" -- italic a with grave or a with circumflex -->
+<!ENTITY eit	CDATA "e" -- italic e			or e withacute -->
+<!ENTITY eacit	CDATA "e" -- italic e with grave or e with circumflex -->
+<!ENTITY iit	CDATA "i" -- italic i			or i withacute -->
+<!ENTITY iacit	CDATA "i" -- italic i with grave or i with circumflex -->
+<!ENTITY oit	CDATA "o" -- italic o			or o withacute -->
+<!ENTITY oacit	CDATA "o" -- italic o with grave or o with circumflex -->
+<!ENTITY uit	CDATA "u" -- italic u			or u withacute -->
+<!ENTITY uacit	CDATA "u" -- italic u with grave or u with circumflex -->
+
+
+]><TEI.2 lang=en>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Visayan-English Dictionary</title>
+<author>John Kaufmann</author>
+<respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=PGclearance>#####</idno>
+<idno type=PGDPProjectId>projectID4402861541e20</idno>
+<idno type=PGnum>#####</idno>
+<date>#####</date>
+<availability>
+<p>&availability.en;
+
+<p>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>John Kaufmann</author>
+<title>Visayan-English Dictionary</title>
+<date>[1934]</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p>
+
+</encodingDesc>
+<profileDesc>
+	<langUsage>
+		<language id=en>English</language>
+		<language id=en-US>English (United States)</language>
+		<language id=en-UK>English (United Kingdom)</language>
+		<language id=de>German</language>
+		<language id=fr>French</language>
+		<language id=la>Latin</language>
+		<language id=es>Spanish</language>
+		<language id=hil>Hiligaynon</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<list>
+		<item>2008-10-23 Started.
+	</list>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+
+
+
+<pb n=1>
+<div1 type=FrenchTitle>
+
+
+<p rend="align(center)">VISAYAN-ENGLISH DICTIONARY
+
+<p rend="align(center)" lang=hil>(KAPUL&Uacute;&Ntilde;GAN BINISAY&Aacute;-ININGL&Iacute;S)
+
+
+
+
+<pb n=2>
+<div1 type=FrenchTitle>
+
+
+<p rend="align(center)"><hi rend=sc>Copyright</hi>
+
+<p rend="align(center)"><hi rend=sc>By</hi> J. KAUFMANN, M.H.M.
+<lb><hi rend=sc>All rights reserved</hi>
+
+<p rend="align(center)">FIRST EDITION
+
+
+
+
+
+<pb n=3>
+<titlePage>
+<docTitle>
+<titlePart>VISAYAN-ENGLISH DICTIONARY</titlePart>
+
+<lb><titlePart lang=hil>(KAPUL&Uacute;&Ntilde;GAN BINISAY&Aacute;-ININGL&Iacute;S)</titlePart>
+
+<titlePart type=sub>Containing more than eighteen thousand words of the Hilig&aacute;ynon and Hinir&aacute;ya dialects as spoken in and around Iloilo, besides many Spanish words, which on account of being frequently used by the Visayans may be said to have become part of the Visayan language.</titlePart>
+</docTitle>
+
+<byline>
+By
+<lb><docAuthor>The REV. J. KAUFMANN, M.H.M.</docAuthor>
+<lb>Parish Priest of Igbar&aacute;s, Iloilo, P.I.
+</byline>
+
+
+<docImprint>PERMISSU SUPERIORUM
+
+<lb>Printed by
+<lb>LA EDITORIAL
+<lb>Iloilo, P.I.
+</docImprint>
+</titlePage>
+
+
+
+<pb n=4>
+<div1 type=Preface>
+<head>Preface</head>
+
+
+<p>This Dictionary, by far the most complete Visayan-English Dictionary that has yet appeared, is offered to the English speaking residents of Iloilo and the surrounding districts, who wish to have a book at hand, where they can find the meaning of Visayan terms, which they hear and read.
+
+<p>It is offered also to the ever increasing number of Visayans, who are learning to speak and write English. These will find in this work not merely a definition of the meaning of each Visayan term, a definition, which in their case might be superfluous, but English equivalents in abundance. It has been thought better, in translating the Visayan sentences, not to depart too far from the literal meaning; nevertheless English words and phrases have been introduced, which will be most useful to a student of English.
+
+<p>Owing to modern facilities of intercommunication the Hilig&aacute;ynon and Hinir&aacute;ya dialects are becoming more and more mingled, and the line of demarcation between the districts, where one or the other is spoken, is growing less and less distinct. In their laudable desire to enrich their mother-tongue, many Visayan writers are drawing on the store of Hinir&aacute;ya words, and avoiding the use of foreign terms, when a Visayan term will serve just as well. They recognize that, whilst it is of immense advantage to know a foreign language, still the cultivation of one&apos;s own language should not be neglected. The reader will note that in this Dictionary Hinir&aacute;ya takes an honourable place beside Hilig&aacute;ynon.
+
+
+<p><hi rend=sc>The Author</hi>.
+
+
+
+
+<pb n=5>
+<div1 type=Acknowledgments>
+<head>Acknowledgments</head>
+
+
+<p>Acknowledgment is due, and is here gratefully accorded to all who have helped in the making of this Dictionary.
+
+<p>The author wishes to thank especially the Rev. T. O&apos;Brien, M.H.M. Parish Priest of Oton, Mr. Gabino Espe, Miss Natividad Ezpeleta, Miss Rosario Ezpeleta, and all the Teachers of the Igbar&aacute;s Parochial School.
+
+<p>In a first edition of a work of this kind omissions and errors are inevitable. These imperfections can be amended to a great extent in a second edition by the help of benevolent critics, who will be doing a great service, if they write to the Author, offering suggestions and supplying missing words.
+
+<p>J.K.
+
+
+<div1 type=Abbreviations>
+<head>Abbreviations Used in this Dictionary</head>
+
+
+<p>(H) When a word is followed by (H), it means that the word is Hilig&aacute;ynon, i.e. that it belongs to the dialect spoken almost exclusively in and around Iloilo; e.g. &ldquo;<foreign lang=hil>l&aacute;b&ait;</foreign>&rdquo;, (H) means that &ldquo;<foreign lang=hil>l&aacute;b&ait;</foreign>&rdquo; is a Hilig&aacute;ynon word.
+
+<p>(B) When a word is followed by (B), it means that the word is Hinir&aacute;ya or Binuk&iacute;dnon, i.e. that it belongs to the dialect spoken almost exclusively in districts away from Iloilo; e.g. &ldquo;<foreign lang=hil>kabur&uacute;dn&gtilde;an</foreign>&rdquo; (B) means that &ldquo;<foreign lang=hil>kabur&uacute;dn&gtilde;an</foreign>&rdquo; is a Hinir&aacute;ya word.
+
+<p>When a word is followed by neither (H) nor (B) it is common to both dialects.
+
+
+<table>
+<row><cell rend="width(20%)">cf.     <cell>Confer, followed by synonyms, antonyms, derivatives, kindred or related terms.
+<row><cell>contr.  <cell>Contraction, contracted.
+<row><cell>Caus.   <cell>Causative.
+<row><cell>Dim.    <cell>Diminutive.
+<row><cell>Freq.   <cell><corr resp=errata sic=Frequentive>Frequentative</corr>.
+<row><cell>e.g.    <cell><foreign lang=la>Exempli gratia</foreign> (Latin), for example, for instance.
+<row><cell>i.e.    <cell><foreign lang=la>Id est</foreign> (Latin), that is.
+<row><cell>etc.    <cell><foreign lang=la>Et cetera</foreign> (Latin), and the rest.
+<row><cell>id.     <cell><foreign lang=la>Idem</foreign> (Latin), the same.
+<row><cell>N.B.    <cell><foreign lang=la>Nota bene</foreign> (Latin), note well.
+<row><cell>Sp.     <cell>Spanish.
+</table>
+
+
+
+
+<pb n=6>
+<div1>
+<head>The Hyphen</head>
+
+
+<p>The hyphen is used in this Dictionary:
+
+<p>1.) to show that the syllables of a word are abnormally divided; e.g. in &ldquo;<foreign lang=hil>s&aacute;l-ay</foreign>&rdquo; the &ldquo;l&rdquo; belongs to the first syllable, and must be given its full value, a slight pause being made before pronouncing the second syllable. Otherwise &ldquo;<foreign lang=hil>s&aacute;l-ay</foreign>&rdquo;, which means &ldquo;to support upon one&apos;s arm&rdquo;, might be taken for &ldquo;<foreign lang=hil>s&aacute;lay</foreign>&rdquo;, which means &ldquo;to roast&rdquo;. In like manner faulty pronunciation of &ldquo;<foreign lang=hil>p&aacute;t-aw</foreign>&rdquo;&mdash;&ldquo;to skip, omit&rdquo; might cause it to be taken for &ldquo;<foreign lang=hil>p&aacute;taw</foreign>&rdquo;&mdash;&ldquo;solid ingredients in broth&rdquo;.
+
+<p>2.) in reduplicated words, e.g. &ldquo;<foreign lang=hil>am&aacute;t-am&aacute;t</foreign>&rdquo;. This hyphen is printed in this Dictionary to make the word easier to read at a glance. &ldquo;<foreign lang=hil>Uy&aacute;k-&uacute;yak</foreign>&rdquo; is easier to read than &ldquo;<foreign lang=hil>uy&aacute;k&uacute;yak</foreign>&rdquo;. In practice this hyphen may be omitted.
+
+<p>3.) in English phrases to avoid printing the same word or words over and over again, e.g. In one&apos;s &mdash;hand, &mdash;grasp, &mdash;possession. Printed in full this would read: In one&apos;s hand, in one&apos;s grasp, in one&apos;s possession. In like manner with the hyphen looking forward: to hurt&mdash;, wound&mdash;, grate upon&mdash;, jar upon&mdash;, the feelings, would be in full: to hurt the feelings, to wound the feelings, to grate upon the feelings, to jar upon the feelings.
+
+
+
+<div1>
+<head>Accentuation</head>
+
+
+<p>The reader will notice that only one sign appears on the top of Visayan words in this Dictionary, namely the sharp or acute accent. This accent is employed for only one purpose, viz. to point out the syllable that must be stressed in pronouncing a word. In speaking Visayan it is very important to stress the right syllable in a word. Words spelt the same may mean totally different things if the stress is changed. For example &ldquo;<foreign lang=hil>&aacute;pas</foreign>&rdquo; with the stress on the first syllable means &ldquo;to follow&rdquo;, whilst &ldquo;<foreign lang=hil>ap&aacute;s</foreign>&rdquo; with the stress on the second syllable means &ldquo;to cut short&rdquo;.
+
+<p>The Author of this work attaches so much importance to the proper stressing of syllables in Visayan words, that he has accentuated not only the words in the vocabulary, but also all the words in the Visayan sentences, which illustrate the use of terms.
+
+
+
+<pb n=7>
+<div1>
+<head>The Cut Short Vowel</head>
+
+
+<p>The Visayan language has a peculiar abrupt or cut short vowel, the pronunciation of which can be learned only by hearing.
+
+<p>When a vowel is to be pronounced in this way, it is italicized thus: <foreign lang=hil><hi>a</hi>, <hi>e</hi>, <hi>i</hi>, <hi>o</hi>, <hi>u</hi></foreign> throughout this Dictionary.
+
+<p>It is very important in speaking Visayan to observe this sound, as may be seen from the following example, &ldquo;<foreign lang=hil>&aacute;nt&ait;</foreign>&rdquo;, with final &ldquo;a&rdquo; cut short means &ldquo;to tame&rdquo;, whilst &ldquo;<foreign lang=hil>&aacute;nta</foreign>&rdquo; with the final &ldquo;a&rdquo; given its ordinary value means &ldquo;to smell of burning&rdquo;. Many similar examples might be given.
+
+
+
+<div1>
+<head>The Letters &ldquo;O&rdquo; and &ldquo;U&rdquo; in Hinir&aacute;ya Terms</head>
+
+
+<p>The letters O and U in Hinir&aacute;ya terms are often pronounced with a peculiar sound of their own which can be learned only by hearing. It has been suggested that &ldquo;oe&rdquo; should be written wherever that peculiar sound occurs, e.g. &ldquo;<foreign lang=hil>boek&oacute;en</foreign>&rdquo; for &ldquo;<foreign lang=hil>bok&oacute;n</foreign> (B)&rdquo;, but the author has declined to adopt that suggestion, because there is too little uniformity of pronunciation in the various localities where the Hinir&aacute;ya dialect is spoken.
+
+
+
+<div2 type=Note>
+<head>Note</head>
+
+
+<p>In writing Visayan three accents are used, viz. the acute &apos;, the grave ` and the circumflex ^. The rule is, that the acute accent points out the stressed syllable in a word, the grave accent indicates that a vowel is to be pronounced with a short sound, whilst the circumflex accent is a combination of the acute and grave showing that a short vowel is stressed, or, in other words, the circumflex accent is used when the stress and the cut short vowel coincide.
+
+<p>The Author has no desire to criticize this system of accentuation, or to advocate any change. Why, then, does he not use the system in this dictionary? Because writers in Visayan do not observe the rule strictly. There is no uniformity in their way of marking the accents. Consequently a momentary doubt may arise as to the meaning of an accent. A Visayan needs very few accents to enable him to understand what is written in his language. A discrepancy in the use of an accent matters little to him. It is otherwise with a learner of Visayan, especially when he is consulting a dictionary. He wants to see at once not only the meaning but also the pronunciation of a word. It is for this reason that <hi rend=bold>for the purposes of the dictionary only</hi> no other accent is employed except the acute. For the cut short sound of a vowel a totally different sign is used, viz. the vowel is printed in italics. The two signs are on a different level, and so do not interfere with each other when they occur in the same syllable.
+
+
+
+<pb n=1037>
+<div1>
+<head>Concluding Remark</head>
+
+
+<p>The language as spoken and written in and around Iloilo is not only rich in Visayan roots, but extremely elastic and well-nigh inexhaustible in derivatives and compound words. The many prefixes, suffixes, inserted syllables, diminutive forms, etc. allow great scope for innumerable combinations with various shades of meaning. It is neither possible nor necessary to give a complete list of such words. For those advanced in the study of Visayan, and even for beginners with a good grammatical foundation, it will be easy with the help of this Dictionary to make out the meaning of many terms they may hear or read, although such terms are not explicitly mentioned in the Dictionary, e.g. <foreign lang=hil>alalas&oacute;n (l, -on, &aacute;las); bolobakyas&oacute;n (-olo-, -on, b&aacute;kyas); man&gtilde;inmabolob&uacute;g-at (man&gtilde;in-, ma-, -olo-, b&uacute;g-at); dalangh&oacute;san (l, -an, d&aacute;nghos); paggilin&uacute;al (pag-, ilin-, g&uacute;al); hinaluk&aacute;y hinadkan&aacute;y, hinagkan&aacute;y (-in-, -ay, hal&uacute;k, h&aacute;dkan, h&aacute;gkan); hinun&gtilde;&aacit;t&uacute;n&gtilde;&ait; (hi-, tun&gtilde;&aacit;); hulum&aacute;non (l,-on, hum&aacute;n); makatil&iacute;n-ad (maka-, t&iacute;n-ad); kaisd&aacute;an (ka-, -an, &iacute;sd&ait;); maulu&aacute;lwag (ma-, -ulu-, &aacute;lwag); malun&aacute;nglun&aacute;n&gtilde;on (ma-,-on, l&uacute;nang); (ma) limb&oacute;limb&oacute;hon (ma-,-on, l&iacute;mbo); minaninay&aacute;y (in-,-ay, man&iacute;nay); pamil&iacute;nb&iacute;lin (pan-, b&iacute;lin); paminungh&aacute;yb&uacute;nghay (pan-, b&uacute;nghay); pamul&oacute;ngp&uacute;long (pan-, p&uacute;long); panak&aacit;sak&aacit; (pan-, s&aacute;k&ait;); pagsilin&aacute;ut (pag-,-ilin-, s&aacute;ut); salakd&aacute;gon (l, -on, s&aacute;kdag); tal&aacute;kpan (l, -an, tak&oacute;p); talal-&uacute;san (l,-an, t&aacute;l-us); walahig&oacute;n (l, -on, w&aacute;hig); wil&iacute;skan (l, -an, wis&iacute;k)</foreign>, etc. etc.
+
+<p><hi rend=bold>O.A.M.D.G</hi>.
+
+
+
+
+<div1>
+<head>Transcriber notes</head>
+
+<p>Kaufmann&apos;s Visayan-English Dictionary is probably one of the best dictionaries ever produced for Hiligaynon. At the same time, this work, printed around 1934, is extremely rare, and almost impossible to obtain. This electronic reprint resolves that issue. To further increase its accessibility, a searchable interface has been made available on-line at <xref url="http://www.bohol.ph/kved.php">http://www.bohol.ph/kved.php</xref>.
+
+<p>Since it was printed in 1934, it certainly shows its age: some of the words mentioned are no longer used and numerous new words have been added to the language (However, those new words mainly are English words that replace Spanish terms, and thus do not introduce problems for students who already know English.) One of this dictionary&apos;s strengths is that it gives sample sentences for almost every words, which is a great aid to learners.
+
+<p>This edition of Kaufmann&apos;s Visayan-English Dictionary is a complete transcription of the original text, without any addition and with the following editorial changes:
+
+<list rend="list-style-type(disc)">
+	<item>The tildes on <hi>n</hi> and <hi>g</hi> have been removed. The original dictionary was inconsistent in their usage, and they do not occur in the normal orthography of Hiligaynon.
+	<item>The use of italic vowels to indicate a following glottal stop (cut-short vowel) has been replaced by the system conventionally used in the Philippines. That is, the acute accent (&acute;) is used to indicate stress, the grave accent (`) to indicate a following glottal stop, and the circumflex (^) when both occur together.
+	<item>The entries in the supplement have been sorted into the main dictionary.
+	<item>The corrections given in the errata have been applied.
+	<item>Further obvious typographic errors have been corrected. 
+</list>
+
+
+
+</front>
+<body>
+
+
+<xi:include href="KVED-Body.tei" parse="xml"></xi:include>
+
+
+</body>
+<back>
+
+
+
+<divGen type=Colophon>
+
+</back>
+</text>
+</TEI.2>

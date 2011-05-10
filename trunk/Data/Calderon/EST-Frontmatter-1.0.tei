@@ -1,0 +1,110 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY gtilde CDATA "g" -- g with tilde -->
+
+]>
+<TEI.2 lang=es>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Diccionario Ingles-Espa&ntilde;ol-Tagalog</title>
+<author>Sofronio G. Calder&oacute;n</author>
+<respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=PGclearance>20040908133150calderon</idno>
+<idno type=PGDPProjectId>projectID4142e5469dd03</idno>
+<idno type=PGnum>20738</idno>
+<date>2007-03-04</date>
+<availability lang=en-UK>
+<p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url="http://www.gutenberg.org/">www.gutenberg.org</xref>.
+
+<p>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p>This dictionary contains a lot of obsolete words that may make one wonder how they ever landed in this dictionary, such as the word Ettin for a Giant, which is obsolete in English since the 16th century. Be aware of this, especially when using this dictionary in &ldquo;reverse.&rdquo;
+
+<p>Numerous, but not all, misspellings and older spellings have been silently corrected or modernized. Some misspellings seem to be taken from other contemporary English-Spanish dictionaries. (Internet search-engines are wonderful in revealing such things.)
+
+<p>The pronuciations sometimes reveal a Spanish influx.
+
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Sofronio G. Calder&oacute;n</author>
+<title>Diccionario Ingles-Espa&ntilde;ol-Tagalog</title>
+<date>1915</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p>
+
+</encodingDesc>
+<profileDesc lang=en>
+	<langUsage>
+		<language id=en>English</language>
+		<language id=en-US>English (United States)</language>
+		<language id=en-UK>English (United Kingdom)</language>
+		<language id=es>Spanish</language>
+		<language id=tl>Tagalog</language>
+		<language id=und>Undetermined</language>
+	</langUsage>
+</profileDesc>
+<revisionDesc>
+	<list>
+		<item>28-FEB-2007 Started.
+	</list>
+</revisionDesc>
+</teiHeader>
+<text>
+<front>
+<pb n=1>
+<titlePage>
+<docTitle><titlePart>Diccionario</titlePart>
+<titlePart>Ingles-Espa&ntilde;ol-Tagalog</titlePart>
+<titlePart>(Con partes de la oracion y pronunciacion figurada)</titlePart>
+</docTitle>
+
+
+<byline>
+<lb>Por
+
+<lb><docAuthor>Sofronio G. Calder&oacute;n</docAuthor>
+
+<lb>Presidente de la sociedad literaria &ldquo;<hi rend=sc>Aklatang Kasilawan</hi>&rdquo;; 2.<hi rend=sup>o</hi> Vice-Presidente de la &ldquo;<hi rend=sc>Samahan n&gtilde; m&gtilde;a M&aacute;nanagalog</hi>&rdquo; (&oacute; Asociaci&oacute;n de Tagalistas); Colaborador de la &rdquo;<hi rend=sc>Aklatang Bayan</hi>&rdquo;; Miembro honorario de la "<hi rend=sc>Aklatang Barusog</hi>&rdquo;; Miembro de la &ldquo;<hi rend=sc>University Extension Institute</hi>&rdquo;; Miembro de la &ldquo;<hi rend=sc>Philipphine Academy</hi>&rdquo; etc.
+</byline>
+
+<docImprint>
+Primera Edici&oacute;n.
+
+<lb>Manila
+<lb>Libreria y Papeleria
+<lb>&ndash;:de:&ndash;
+<lb>J. Martinez
+
+<lb>Plaza P. Moraga 34/36, Plaza Calder&oacute;n 108 y Real 153/155, Intramuros.
+<lb><docDate>1915</docDate>
+</docImprint>
+</titlePage>
+
+
+
+<pb n=2>
+<div1 type=Colophon>
+
+<p rend="align(center)"><hi>Es propiedad de la Imprenta, Librer&iacute;a y Papeler&iacute;a de J. Mart&iacute;nez.</hi>
+
+<p rend="align(center)">Imprenta de J. Mart&iacute;nez, Estraude 7, Binondo.
+
+
+</front>
+<pb n=3>
+<body lang=en-UK>
+
+<!-- DICCIONARIO
+
+Ingles-Espa&ntilde;ol-Tagalog -->
+

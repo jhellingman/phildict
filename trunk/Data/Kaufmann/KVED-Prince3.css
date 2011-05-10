@@ -1,0 +1,178 @@
+
+@page:right 
+{
+    size: A4;
+    margin: 15mm 10mm;
+    padding: 5mm 0;
+    
+    @top-right 
+    {
+        content: string(termstr, first) " \2013\0020 " string(termstr, last);
+        font-size: 10pt;
+        text-align: outside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @top-left 
+    {
+        content: "Visayan-English Dictionary";
+        font-size: 10pt;
+        text-align: inside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @bottom-right
+    {
+        content: counter(page);
+        font-size: 10pt;
+        text-align: outside;
+        border-top: solid black thin
+    }
+}
+
+@page:left
+{
+    size: A4;
+    margin: 15mm 10mm;
+    padding: 5mm 0;
+    
+    @top-right 
+    {
+        content: "Visayan-English Dictionary";
+        font-size: 10pt;
+        text-align: inside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @top-left 
+    {
+        content: string(termstr, first) " \2013\0020 " string(termstr, last);
+        font-size: 10pt;
+        text-align: outside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @bottom-left
+    {
+        content: counter(page);
+        font-size: 10pt;
+        text-align: outside;
+        border-top: solid black thin
+    }  
+}
+
+
+@page cover 
+{
+    @top { content: normal }
+    @bottom { content: normal }
+}
+
+
+/*=== Formatting Elements ===*/
+
+:root
+{
+    font-family: Georgia, serif;
+    prince-text-replace: "fi" "\fb01" "fl" "\fb02";  /* ligatures available in Georgia */
+}
+
+dictionary
+{
+    font-family: Georgia, serif;
+    prince-text-replace: "fi" "\fb01" "fl" "\fb02";  /* Georgia */
+    font-size: 9pt;
+}
+
+
+
+dictionaryX
+{
+    font-family: Times New Roman, serif;
+    prince-text-replace: "fi" "\fb01" "fl" "\fb02";  /* Just these in Times New Roman */
+    font-size: 9pt;
+}
+
+dictionaryX
+{
+    font-family: Linux Libertine, serif;
+    font-size: 9pt;
+
+    prince-text-replace: "ffi" "\fb03" "ffl" "\fb04" "fi" "\fb01" "fl" "\fb02" "ff" "\fb00" ; /* All these in Linux Libertine */
+    /*                   "ft" "\e039" "fk" "\e038" "Th" "\e049" "Qu" "\e048"; */ /* And these as well in private use area */
+}
+
+
+
+col
+{
+    display: block;
+    column-count: 3;
+    column-gap: 30;
+    column-rule: solid black thin;
+}
+
+
+entry, p
+{
+    display: block;
+}
+
+
+b, hw, head
+{
+    font-family: Verdana, sans-serif;
+    prince-text-replace: none;
+
+}
+
+b, hw
+{
+    font-weight: bold;
+    font-size: 9pt;
+}
+
+hw
+{
+    display: inline;
+    page-break-after: avoid;
+    string-set: termstr content()
+}
+
+b > s[lang="hil"], hw > s[lang="hil"]
+{
+    font-style: normal;
+}
+
+s[lang="hil"]
+{
+    font-style: italic;
+}
+
+div1 > head
+{
+    display: block;
+    page-break-before: always;
+    font-size: 24pt;
+    margin-top: 4cm;
+    margin-bottom: 2cm;
+    text-align: center;
+}
+
+div2 > head
+{
+    display: block;
+    font-weight: bold;
+    font-size: 56pt;
+    margin-top: 1.5cm;
+    text-align: center;
+    page-break-after: avoid;
+}
