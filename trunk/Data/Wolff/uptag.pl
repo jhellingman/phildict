@@ -7,8 +7,7 @@ my $filename = $ARGV[0];
 my $stylesheet = $ARGV[1];
 
 
-system ("$saxon WCED-body.xml WCED-uptag2.xsl > intermediate.xml");
-system ("$saxon intermediate.xml WCED-uptag3.xsl > output.xml");
+system ("$saxon WCED-body.xml WCED-uptag2.xsl > output.xml");
 system ("$saxon output.xml WCED-view.xsl > structural.html");
 
 system ("$saxon WCED-body.xml WCED-downtag.xsl > typographical.xml");

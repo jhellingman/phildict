@@ -67,11 +67,20 @@
 
     <!-- Process each entry -->
     <xsl:template match="entry|p">
-        <entry>
-            <xsl:call-template name="split-entry">
-                <xsl:with-param name="nodes" select="*|text()"/>
-            </xsl:call-template>
-        </entry>
+
+        <xsl:variable name="entry">
+            <xsl:text>&lf;&lf;</xsl:text>
+            <entry>
+                <xsl:call-template name="split-entry">
+                    <xsl:with-param name="nodes" select="*|text()"/>
+                </xsl:call-template>
+            </entry>
+        </xsl:variable>
+
+
+        <xsl:apply-templates mode="phase2" select="$entry"/>
+
+
     </xsl:template>
 
 
@@ -108,6 +117,7 @@
                 </xsl:when>
                 <!-- Following groups are sub-entries -->
                 <xsl:otherwise>
+                    <xsl:text>&lf;</xsl:text>
                     <entry>
                         <xsl:apply-templates select="."/>
                         <xsl:call-template name="split-subentry">
@@ -138,6 +148,7 @@
         <xsl:for-each-group select="$nodes" group-starting-with="pos">
             <!-- ignore spurious empty groups (caused by spaces in source text) -->
             <xsl:if test="not(local:is-empty(current-group()))">
+                <xsl:text>&lf;</xsl:text>
                 <hom>
                     <xsl:choose>
                         <xsl:when test="name(.) = 'pos'">
@@ -178,6 +189,7 @@
         <xsl:for-each-group select="$nodes" group-starting-with="number">
             <!-- eliminate spurious empty groups (caused by spaces in source text) -->
             <xsl:if test="not(local:is-empty(current-group()))">
+                <xsl:text>&lf;</xsl:text>
                 <sense>
                     <xsl:attribute name="n">
                         <xsl:choose>
@@ -211,10 +223,17 @@
         <xsl:for-each-group select="$nodes" group-starting-with="i">
             <xsl:choose>
                 <xsl:when test="position() = 1">
-                    <xsl:apply-templates select="."/>
-                    <trans>
-                        <xsl:apply-templates select="current-group() except ."/>
-                    </trans>
+                    <xsl:choose>
+                        <xsl:when test="name(.) = 'number'">
+                            <xsl:apply-templates select="."/>
+                            <trans>
+                                <xsl:apply-templates select="current-group() except ."/>
+                            </trans>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <trans><xsl:apply-templates select="current-group()"/></trans>
+                        </xsl:otherwise>
+                    </xsl:choose>
                 </xsl:when>
                 <xsl:otherwise>
                     <eg>
@@ -223,6 +242,7 @@
                     </eg>
                 </xsl:otherwise>
             </xsl:choose>
+            <xsl:text>&lf;</xsl:text>
         </xsl:for-each-group>
     </xsl:template>
 
@@ -261,7 +281,28 @@
         </xsl:copy>
     </xsl:template>
 
+    <!--== PHASE 2 ==-->
 
+    <xsl:template mode="phase2" match="@*|node()">
+        <xsl:copy>
+            <xsl:apply-templates mode="phase2" select="@*|node()"/>
+        </xsl:copy>
+    </xsl:template>
+
+    <!-- lift grammar information from trans -->
+    <xsl:template mode="phaseXXX" match="trans">
+        <xsl:copy-of select="itype"/>
+        <xsl:copy>
+            <xsl:apply-templates mode="phase2"/>
+        </xsl:copy>
+    </xsl:template>
+
+    <!-- eliminate the itype copied in the rule above. -->
+    <xsl:template mode="phaseXXX" match="itype[parent::trans]"/>
+
+
+    <!-- remove empty trans -->
+    <xsl:template mode="phase2" match="trans[normalize-space(.) = '']"/>
 
 
 

@@ -23,6 +23,12 @@ The previews are of the processed parts on DP, in various states of completion. 
 
 All parts in a [http://www.bohol.ph/wolff.php searchable database]. Note that this is work in progress, and the interface may still have some bugs.
 
+All parts that completed F1 combined and corrected:
+
+* [http://www.gutenberg.ph/previews/wolff/WCED-frontmatter.html Front Matter].
+* [http://www.gutenberg.ph/previews/wolff/typographical.html Original layout].
+* [http://www.gutenberg.ph/previews/wolff/structural.html Analyzed layout].
+
 Note that the author of this dictionary sometimes has thrown in some funny examples (see for example the entry for [http://seapdatapapers.library.cornell.edu/cgi/t/text/pageviewer-idx?c=seap;cc=seap;idno=seap085a;node=seap085a%3A11;frm=frameset;view=image;seq=111;page=root;size=s bákud] or dígù, and imagine the scenes unfolding), and does not hesitate to use American idiom at times. So you can expect to learn some English as well. Furthermore, unlike older dictionaries, this dictionary is not censored. All vulgar words and expressions the author could collect have found their place, including examples of reversing slang.
 
 [[/Good Words|Good Words]] | [[/Bad Words|Bad Words]]
@@ -269,6 +275,46 @@ From the dictionary data, I plan to produce the following
 * A TEI tagged SGML/XML master file.
 * An XDXF formatted dictionary file, so it can be used on various applications and gadgets using that format.
 * A searchable database to be published on www.bohol.ph and www.gutenberg.ph, to provide students and speakers with an interactive learning and reference resource, similar to [http://www.bohol.ph/kved.php Kaufmann's Visayan-English Dictionary] currently available.
+
+=== Steps ===
+
+Note that I start post-processing after completion of round F1. The reason for this is that my intensive post-processing steps will catch most, if not all remaining formatting issues, often by automated tools, and that the interest for this type of work is rather low, so allowing this work to complete F2 will take considerable time.
+
+==== Uptag1 ====
+
+Perl script to add semantic tagging to various elements of the dictionary, based on the typographic tagging added during formatting.
+
+This script is run several times, fixing the various issues found in the PGDP output, until the output is reasonably clean.
+
+This script has the following assumptions (with some refinements):
+
+* single number or number followed by letter formatted bold: <number>.
+* single a, n, v formatted italic: <pos>.
+* bold formatted words: <form>.
+* small-caps formatted items: <xref>.
+
+Things that will need manual intervention here:
+
+* sense-numbers not marked bold (common).
+* sense-numbers marked bold, but as part of a following or preceding headword.
+* pos-codes not marked italic (common).
+* pos-codes marked italic as part of a preceding italic word.
+* sense-numbers and pos-codes that are supposed to be part of a cross reference (common).
+* head-words that are actually used as part of a sense (occasionally, but wrecks havoc on the tagging algorithm).
+* italic words that are not examples (common).
+
+==== Uptag2 ====
+
+XSLT style-sheets to add high-level structure to the entries, based on the semantic tagged elements of the previous round.
+
+This style-sheet derives the dictionary structure in the following way.
+
+* groups elements starting with <form> into sub-entries.
+* within each sub-entry: groups elements starting with <pos> into homonyms.
+* within each homonym: groups elements starting with <number> into senses.
+* within each sense: groups elements starting with &lt;i> into examples.
+
+During this process, in some cases, the various formatting may not be relevant for the structure. In those cases, the formatting element-name is temporarily changed to the element-name followed by an x, e.g., &lt;i> tags that do not start an example sentence are changed to <ix>.
 
 === Tools. ===
 
@@ -627,6 +673,17 @@ Another sample tagged according to TEI:
         </entry>
     </superEntry>
 
+
+=== Issues in the dictionary structure ===
+
+In a few cases, the structure of dictionary entries has some complexities.
+
+* cross references sometimes point to an entry, sometimes to an entry in a certain role, and sometimes to a specific meaning. This is normally not an issue, except that correctly matching the typographic layout with the intended meaning is sometimes complex, and the typography is inconsistent. Note that cross references can point to sub-entries as well as other entries.
+* sub-entries under a sense. Sometimes sub-entries (in bold) are part of a sense, whereas the regular location would be at the end of the entry. This typically happens with short phrases entered as entries.
+* position of verb conjugation patterns. These sometimes appear before the sense numbers, and sometimes after. I take this to mean that in the first case the scope is all senses, and in the second case only the indicated sense (overriding any higher level pattern).
+* numbering of senses. The numbering of senses is not always strictly 1, 2, 3, ..., but the exact semantics of the numbering system are not always clear. For verbs, they probably help to identify the scope of a verb conjugation pattern.
+* additional parts of speech. Besides nouns, verbs, and adverbs/adjectives, the dictionary contains entries for particles and affixes and phrases. These are either not identified as such, or in prose.
+
 === Verb Conjugation Codes ===
 
 Wolff's dictionary uses short-hand codes to indicate how a verb can be used. Those codes take some time to get used to. For a computer based dictionary, we do not have the space-constrains of a printed dictionary, so can present this information in a more comprehensive, template-based style.
@@ -640,70 +697,70 @@ The meaning of these codes is explained in the [http://seapdatapapers.library.co
 ! Past
 ! Subjunctive
 |-
-| Active
+| ''Active''
 |-
-| Punctual
+| ''Punctual''
 | mu-
 | mi-, ni-, ning-, ming-
 | mu-
 |-
-| Durative
+| ''Durative''
 | mag-, maga-
 | nag-, naga-, ga-
 | mag-, maga-
 |-
-| Potential
+| ''Potential''
 | maka-, ka-
 | naka-, ka-
 | maka-, ka-
 |-
-| Direct Passive
+| ''Direct Passive''
 |-
-| Punctual
+| ''Punctual''
 | -un
 | gi-
 | -a
 |-
-| Durative
+| ''Durative''
 | paga-un*
 | gina-*
 | paga-a*
 |-
-| Potential
+| ''Potential''
 | ma-
 | na-
 | ma-
 |-
-| Local Passive
+| ''Local Passive''
 |-
-| Punctual
+| ''Punctual''
 | -an
 | gi-an
 | -i
 |-
-| Durative
+| ''Durative''
 | paga-an*
 | gina-an*
 | paga-i*
 |-
-| Potential
+| ''Potential''
 | ma-an, ka-an
 | na-an
 | ma-i, ka-i
 |-
-| Instrumental Passive
+| ''Instrumental Passive''
 |-
-| Punctual
+| ''Punctual''
 | i-
 | gi-
 | i-
 |-
-| Durative
+| ''Durative''
 | iga-*
 | gina-*
 | iga-*
 |-
-| Potential
+| ''Potential''
 | ma-, ika-
 | na-, gika-
 | ma-, ika-
@@ -764,6 +821,71 @@ Second part: passive verbs
 ** '''4''' - optionally take ig-
 ** '''5''' - focus is reason for agent to become in certain state
 ** '''6''' - without local passive affixes
+
+== Encarnacion's Diccionario Español-Bisaya ==
+
+Juan Felis de la Encarnacion's ''[[projectpage:projectID49ee0f93a735d|Diccionario Español-Bisaya]]'' first appeared in 1866, and went through several reprints. Although mostly of historical interest, we are also processing this dictionary through this site.
+
+To translate the Spanish based orthography to the style used by John U. Wolff, you'll need to apply the following replacements:
+
+{| class="wikitable" border="0"
+|-
+! Encarnacion
+! Wolff
+! Note
+|-
+| ao
+| aw
+|-
+| ao
+| ay
+|-
+| c 
+| k
+|-
+| e
+| i
+|-
+| gui
+| gi
+|-
+| j
+| h
+|-
+| ñ
+| ny
+|-
+| n[~g]
+| ng
+| ''depends on context''
+|-
+| ng
+| ngg
+| ''depends on context, not before consonants.''
+|-
+| o
+| u
+|-
+| oa 
+| wa
+| ''depends on context, typically not when one of the pair is accented.''
+|-
+| ua 
+| wa
+| ''depends on context, typically not when one of the pair is accented.''
+|-
+| qu
+| k
+|}
+
+Note that the accents are used differently in this dictionary.
+
+The glottal stop is not indicated by Encarnacion.
+
+Encarnacion is highly inconsistent in his use of ''o'' versus ''u'', often using different spellings for the same word in a single entry. To remedy this, I propose to do the following during PP:
+
+1. Follow the Spanish orthography for words derived from Spanish.
+2. Follow the rules as given in Cabonce's dictionary for other words.
 
 
 [[Category: DP Projects]]
