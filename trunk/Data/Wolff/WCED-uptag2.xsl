@@ -289,6 +289,36 @@
         </xsl:copy>
     </xsl:template>
 
+
+    <!-- split up forms -->
+    <xsl:template mode="phase2" match="form">
+        <form>
+            <xsl:apply-templates mode="splitoncommas" select="@*|node()"/>
+        </form>
+    </xsl:template>
+
+    <xsl:template mode="splitoncommas" match="*|@*">
+        <xsl:copy-of select="."/>
+    </xsl:template>
+
+    <xsl:template mode="splitoncommas" match="text()">
+        <xsl:analyze-string select="." regex="(, )">
+            <xsl:matching-substring>
+                <xsl:value-of select="."/>                
+            </xsl:matching-substring>
+            <xsl:non-matching-substring>
+                <f>
+                    <xsl:value-of select="."/>
+                </f>
+            </xsl:non-matching-substring>
+        </xsl:analyze-string>
+    </xsl:template>
+
+
+    <!-- remove empty trans -->
+    <xsl:template mode="phase2" match="trans[normalize-space(.) = '']"/>
+
+
     <!-- lift grammar information from trans -->
     <xsl:template mode="phaseXXX" match="trans">
         <xsl:copy-of select="itype"/>
@@ -300,9 +330,6 @@
     <!-- eliminate the itype copied in the rule above. -->
     <xsl:template mode="phaseXXX" match="itype[parent::trans]"/>
 
-
-    <!-- remove empty trans -->
-    <xsl:template mode="phase2" match="trans[normalize-space(.) = '']"/>
 
 
 
