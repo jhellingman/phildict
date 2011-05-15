@@ -262,7 +262,7 @@
 
 
     <xsl:template match="form">
-        <form lang="ceb" id="{local:make-id(.)}">
+        <form lang="ceb">
             <xsl:apply-templates/>
         </form>
     </xsl:template>
@@ -302,12 +302,12 @@
     </xsl:template>
 
     <xsl:template mode="splitoncommas" match="text()">
-        <xsl:analyze-string select="." regex="(, )">
+        <xsl:analyze-string select="." regex="(, |\*)">
             <xsl:matching-substring>
                 <xsl:value-of select="."/>                
             </xsl:matching-substring>
             <xsl:non-matching-substring>
-                <f>
+                <f id="{local:make-id(.)}">
                     <xsl:value-of select="."/>
                 </f>
             </xsl:non-matching-substring>

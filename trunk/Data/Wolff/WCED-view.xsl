@@ -102,9 +102,15 @@
 
 
     <xsl:template match="form">
-        <b class="form" id="{@id}">
+        <b class="form">
             <xsl:apply-templates/>
         </b>
+    </xsl:template>
+
+    <xsl:template match="f">
+        <span id="{@id}">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
 
     <xsl:template match="number">
