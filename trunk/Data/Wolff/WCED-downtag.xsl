@@ -82,6 +82,13 @@
     </xsl:template>
 
 
+    <xsl:template match="r">
+        <hi rend="rm">
+            <xsl:apply-templates/>
+        </hi>
+    </xsl:template>
+
+
     <xsl:template match="tr">
         <xsl:apply-templates/>
     </xsl:template>

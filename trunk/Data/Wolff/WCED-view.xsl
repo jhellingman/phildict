@@ -54,6 +54,8 @@
                     .gramGrp { background-color: yellow; }
                     .exp { color: grey; }
 
+                    .rm { font-style: normal; font-weight: normal; }
+
                 </style>
             </head>
             <body>
@@ -229,6 +231,12 @@
         <b>
             <xsl:apply-templates/>
         </b>
+    </xsl:template>
+
+    <xsl:template match="r">
+        <span class="rm">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
 
     <xsl:template match="ix">

@@ -302,7 +302,7 @@
     </xsl:template>
 
     <xsl:template mode="splitoncommas" match="text()">
-        <xsl:analyze-string select="." regex="(, |\*)">
+        <xsl:analyze-string select="." regex="(, |\*|[/])">
             <xsl:matching-substring>
                 <xsl:value-of select="."/>                
             </xsl:matching-substring>
