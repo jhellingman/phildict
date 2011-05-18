@@ -31,7 +31,6 @@ while (<INPUTFILE>)
 }
 
 
-
 #
 # getAttrVal: Get an attribute value from a tag (if the attribute is present)
 #

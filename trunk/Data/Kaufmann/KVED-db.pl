@@ -2,12 +2,9 @@
 
 use strict;
 
-
 my $prefix = "kved_";
-
 my $pageNum = 0;
 my $nextPageNum = 0;
-
 my $entryId = 0;
 my $wordId = 0;
 
@@ -23,10 +20,9 @@ sub main()
 
 	open (INPUTFILE, $infile) || die("Could not open input file $infile");
 
-	open (ENTRY, ">entry.sql") || die("Could not create output file 'entry.sql'");
-	open (WORD, ">word.sql") || die("Could not create output file 'word.sql'");
-	open (WORDENTRY, ">wordentry.sql") || die("Could not create output file 'wordentry.sql'");
-
+	open (ENTRY,		">entry.sql")		|| die ("Could not create output file 'entry.sql'");
+	open (WORD,			">word.sql")		|| die ("Could not create output file 'word.sql'");
+	open (WORDENTRY,	">wordentry.sql")	|| die ("Could not create output file 'wordentry.sql'");
 
 	while (<INPUTFILE>)
 	{
@@ -99,12 +95,10 @@ sub handleEntry()
 	while (<INPUTFILE>)
 	{
 		my $line = $_;
-
 		if ($line =~ /<pb n=\"([0-9]+)\"\/>/)
 		{
 			$nextPageNum = $1;
 		}
-
 		if ($line =~ /<\/entry>/)
 		{
 			last;

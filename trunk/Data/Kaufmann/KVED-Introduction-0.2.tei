@@ -23,12 +23,7 @@
 <respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
-<publisher>Project Gutenberg</publisher>
-<pubPlace>Urbana, Illinois, USA.</pubPlace>
-<idno type=PGclearance>#####</idno>
-<idno type=PGDPProjectId>projectID4402861541e20</idno>
-<idno type=PGnum>#####</idno>
-<date>#####</date>
+<idno type=PGDPEUProjectId>projectID4402861541e20</idno>
 <availability>
 <p>&availability.en;
 
@@ -67,11 +62,7 @@
 </revisionDesc>
 </teiHeader>
 <text>
-<front>
-
-
-
-<pb n=1>
+<front id=frontmatter>
 <div1 type=FrenchTitle>
 
 
@@ -82,13 +73,13 @@
 
 
 
-<pb n=2>
+<pb n=VII>
 <div1 type=FrenchTitle>
 
 
 <p rend="align(center)"><hi rend=sc>Copyright</hi>
 
-<p rend="align(center)"><hi rend=sc>By</hi> J. KAUFMANN, M.H.M.
+<p rend="align(center)"><hi rend=sc>By</hi> J. KAUFMANN, <abrr expan="Mill Hill Missionaries">M.H.M.</abbr>
 <lb><hi rend=sc>All rights reserved</hi>
 
 <p rend="align(center)">FIRST EDITION
@@ -97,7 +88,7 @@
 
 
 
-<pb n=3>
+<pb n=IX>
 <titlePage>
 <docTitle>
 <titlePart>VISAYAN-ENGLISH DICTIONARY</titlePart>
@@ -124,7 +115,7 @@ By
 
 
 
-<pb n=4>
+<pb n=XI>
 <div1 type=Preface>
 <head>Preface</head>
 
@@ -136,12 +127,12 @@ By
 <p>Owing to modern facilities of intercommunication the Hilig&aacute;ynon and Hinir&aacute;ya dialects are becoming more and more mingled, and the line of demarcation between the districts, where one or the other is spoken, is growing less and less distinct. In their laudable desire to enrich their mother-tongue, many Visayan writers are drawing on the store of Hinir&aacute;ya words, and avoiding the use of foreign terms, when a Visayan term will serve just as well. They recognize that, whilst it is of immense advantage to know a foreign language, still the cultivation of one&apos;s own language should not be neglected. The reader will note that in this Dictionary Hinir&aacute;ya takes an honourable place beside Hilig&aacute;ynon.
 
 
-<p><hi rend=sc>The Author</hi>.
+<p rend="class(signed)"><hi rend=sc>The Author</hi>.
 
 
 
 
-<pb n=5>
+<pb n=XII>
 <div1 type=Acknowledgments>
 <head>Acknowledgments</head>
 
@@ -152,7 +143,7 @@ By
 
 <p>In a first edition of a work of this kind omissions and errors are inevitable. These imperfections can be amended to a great extent in a second edition by the help of benevolent critics, who will be doing a great service, if they write to the Author, offering suggestions and supplying missing words.
 
-<p>J.K.
+<p rend="class(signed)">J. K.
 
 
 <div1 type=Abbreviations>
@@ -183,7 +174,7 @@ By
 
 
 
-<pb n=6>
+<pb n=XIII>
 <div1>
 <head>The Hyphen</head>
 
@@ -208,7 +199,7 @@ By
 
 
 
-<pb n=7>
+<pb n=XIV>
 <div1>
 <head>The Cut Short Vowel</head>
 
@@ -233,7 +224,7 @@ By
 <head>Note</head>
 
 
-<p>In writing Visayan three accents are used, viz. the acute &apos;, the grave ` and the circumflex ^. The rule is, that the acute accent points out the stressed syllable in a word, the grave accent indicates that a vowel is to be pronounced with a short sound, whilst the circumflex accent is a combination of the acute and grave showing that a short vowel is stressed, or, in other words, the circumflex accent is used when the stress and the cut short vowel coincide.
+<p>In writing Visayan three accents are used, viz. the acute &acute;, the grave ` and the circumflex ^. The rule is, that the acute accent points out the stressed syllable in a word, the grave accent indicates that a vowel is to be pronounced with a short sound, whilst the circumflex accent is a combination of the acute and grave showing that a short vowel is stressed, or, in other words, the circumflex accent is used when the stress and the cut short vowel coincide.
 
 <p>The Author has no desire to criticize this system of accentuation, or to advocate any change. Why, then, does he not use the system in this dictionary? Because writers in Visayan do not observe the rule strictly. There is no uniformity in their way of marking the accents. Consequently a momentary doubt may arise as to the meaning of an accent. A Visayan needs very few accents to enable him to understand what is written in his language. A discrepancy in the use of an accent matters little to him. It is otherwise with a learner of Visayan, especially when he is consulting a dictionary. He wants to see at once not only the meaning but also the pronunciation of a word. It is for this reason that <hi rend=bold>for the purposes of the dictionary only</hi> no other accent is employed except the acute. For the cut short sound of a vowel a totally different sign is used, viz. the vowel is printed in italics. The two signs are on a different level, and so do not interfere with each other when they occur in the same syllable.
 
@@ -246,7 +237,7 @@ By
 
 <p>The language as spoken and written in and around Iloilo is not only rich in Visayan roots, but extremely elastic and well-nigh inexhaustible in derivatives and compound words. The many prefixes, suffixes, inserted syllables, diminutive forms, etc. allow great scope for innumerable combinations with various shades of meaning. It is neither possible nor necessary to give a complete list of such words. For those advanced in the study of Visayan, and even for beginners with a good grammatical foundation, it will be easy with the help of this Dictionary to make out the meaning of many terms they may hear or read, although such terms are not explicitly mentioned in the Dictionary, e.g. <foreign lang=hil>alalas&oacute;n (l, -on, &aacute;las); bolobakyas&oacute;n (-olo-, -on, b&aacute;kyas); man&gtilde;inmabolob&uacute;g-at (man&gtilde;in-, ma-, -olo-, b&uacute;g-at); dalangh&oacute;san (l, -an, d&aacute;nghos); paggilin&uacute;al (pag-, ilin-, g&uacute;al); hinaluk&aacute;y hinadkan&aacute;y, hinagkan&aacute;y (-in-, -ay, hal&uacute;k, h&aacute;dkan, h&aacute;gkan); hinun&gtilde;&aacit;t&uacute;n&gtilde;&ait; (hi-, tun&gtilde;&aacit;); hulum&aacute;non (l,-on, hum&aacute;n); makatil&iacute;n-ad (maka-, t&iacute;n-ad); kaisd&aacute;an (ka-, -an, &iacute;sd&ait;); maulu&aacute;lwag (ma-, -ulu-, &aacute;lwag); malun&aacute;nglun&aacute;n&gtilde;on (ma-,-on, l&uacute;nang); (ma) limb&oacute;limb&oacute;hon (ma-,-on, l&iacute;mbo); minaninay&aacute;y (in-,-ay, man&iacute;nay); pamil&iacute;nb&iacute;lin (pan-, b&iacute;lin); paminungh&aacute;yb&uacute;nghay (pan-, b&uacute;nghay); pamul&oacute;ngp&uacute;long (pan-, p&uacute;long); panak&aacit;sak&aacit; (pan-, s&aacute;k&ait;); pagsilin&aacute;ut (pag-,-ilin-, s&aacute;ut); salakd&aacute;gon (l, -on, s&aacute;kdag); tal&aacute;kpan (l, -an, tak&oacute;p); talal-&uacute;san (l,-an, t&aacute;l-us); walahig&oacute;n (l, -on, w&aacute;hig); wil&iacute;skan (l, -an, wis&iacute;k)</foreign>, etc. etc.
 
-<p><hi rend=bold>O.A.M.D.G</hi>.
+<p rend="class(signed)"><hi rend=bold>O.A.M.D.G</hi>.
 
 
 
