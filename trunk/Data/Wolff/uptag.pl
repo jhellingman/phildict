@@ -11,3 +11,5 @@ system ("$saxon WCED-body.xml WCED-uptag2.xsl > output.xml");
 system ("$saxon output.xml WCED-view.xsl > structural.html");
 
 system ("$saxon WCED-body.xml WCED-downtag.xsl > typographical.xml");
+
+system ("$saxon output.xml WCED-db.xsl > dummy.xml");

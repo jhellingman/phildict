@@ -38,6 +38,7 @@
         <!-- uptag the main dictionary -->
         <dictionary lang="en-US">
             <xsl:apply-templates/>
+            <xsl:text>&lf;&lf;</xsl:text>
         </dictionary>
 
         <!-- Create list of cross-references in separate document -->
@@ -61,8 +62,17 @@
     </xsl:template>
 
 
-    <!-- Eliminate the TEI header -->
+    <!-- Eliminate the TEI header, front, back and headings -->
     <xsl:template match="teiHeader"/>
+    <xsl:template match="front"/>
+    <xsl:template match="back"/>
+    <xsl:template match="head"/>
+
+
+    <!-- Remove various tags -->
+    <xsl:template match="TEI.2|text|body|div1">
+        <xsl:apply-templates/>
+    </xsl:template>
 
 
     <!-- Process each entry -->
@@ -77,9 +87,7 @@
             </entry>
         </xsl:variable>
 
-
         <xsl:apply-templates mode="phase2" select="$entry"/>
-
 
     </xsl:template>
 
@@ -307,9 +315,9 @@
                 <xsl:value-of select="."/>                
             </xsl:matching-substring>
             <xsl:non-matching-substring>
-                <f id="{local:make-id(.)}">
+                <w id="{local:make-id(.)}">
                     <xsl:value-of select="."/>
-                </f>
+                </w>
             </xsl:non-matching-substring>
         </xsl:analyze-string>
     </xsl:template>

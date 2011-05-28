@@ -101,15 +101,13 @@
         </div>
     </xsl:template>
 
-
-
     <xsl:template match="form">
         <b class="form">
             <xsl:apply-templates/>
         </b>
     </xsl:template>
 
-    <xsl:template match="f">
+    <xsl:template match="w">
         <span id="{@id}">
             <xsl:apply-templates/>
         </span>
@@ -248,7 +246,7 @@
 
     <!-- Discard unwanted stuff -->
 
-    <xsl:template match="TEI.2|text|body|trans|div1|sc|corr|head|foreign|back|divGen">
+    <xsl:template match="TEI.2|text|body|trans|div1|sc|corr|head|foreign|back|divGen|sic">
         <xsl:apply-templates/>
     </xsl:template>
 

@@ -1,8 +1,8 @@
-# KVED-db.pl -- create database structure from KVED xml file.
+# WCED-db.pl -- create database structure from WCED xml file.
 
 use strict;
 
-my $prefix = "kved_";
+my $prefix = "wced_";
 my $pageNum = 0;
 my $nextPageNum = 0;
 my $entryId = 0;
@@ -43,7 +43,7 @@ sub main()
     # write collected words to SQL.
     writeLanguageWords("HW");
     writeLanguageWords("EN");
-    writeLanguageWords("HIL");
+    writeLanguageWords("CEB");
 }
 
 
@@ -61,9 +61,9 @@ sub writeLanguageWords($)
         {
             $wordId++;
             my $normalizedWord = "";
-            if ($lang eq "HIL" || $lang eq "HW")
+            if ($lang eq "ceb")
             {
-                $normalizedWord = normalizeHiligaynon($word);
+                $normalizedWord = normalizeWolff($word);
             }
 
             print WORD "INSERT INTO `" . $prefix . "word` VALUES ($wordId, " .
@@ -99,7 +99,7 @@ sub handleEntry()
         {
             $nextPageNum = $1;
         }
-        if ($line =~ /<\/entry>/)
+        if ($line =~ /^\s*$/) # empty line marks end of entry.
         {
             last;
         }
@@ -112,8 +112,8 @@ sub handleEntry()
         ", " . $pageNum .
         ");\n";
 
-    handleHeadWords($entry);
-    handleWords($entry);
+    # handleHeadWords($entry);
+    # handleWords($entry);
 }
 
 
@@ -161,7 +161,7 @@ sub handleWords($)
         my $phrase = $1;
         $remainder = $';
         handleFragmentWords($before, "EN");
-        handleFragmentWords($phrase, "HIL");
+        handleFragmentWords($phrase, "CEB");
     }
     handleFragmentWords($remainder, "EN");
 }
@@ -221,9 +221,9 @@ sub handleWord($$$)
 
 
 #
-# normalizeHiligaynon() -- normalize the spelling of Hiligaynon words.
+# normalizeWolff() -- normalize the spelling of Cebuano words (as written by Wolff).
 #
-sub normalizeHiligaynon($)
+sub normalizeWolff($)
 {
     my $word = shift;
 
