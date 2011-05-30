@@ -76,11 +76,14 @@
 
 
     <!-- Process each entry -->
-    <xsl:template match="entry|p">
+    <xsl:template match="p">
 
         <xsl:variable name="entry">
             <xsl:text>&lf;&lf;</xsl:text>
             <entry>
+                <xsl:attribute name="id">
+                    <xsl:number format="1" level="any" count="p"/>
+                </xsl:attribute>
                 <xsl:call-template name="split-entry">
                     <xsl:with-param name="nodes" select="*|text()"/>
                 </xsl:call-template>

@@ -2,6 +2,17 @@
 
 use strict;
 
+use XML::LibXML;
+# use XML::LibXSLT;
+
+require Encode;
+use Unicode::Normalize;
+use DBI;
+
+# use utf8;
+binmode(STDOUT, ":utf8");
+use open ':utf8';
+
 my $prefix = "wced_";
 my $pageNum = 0;
 my $nextPageNum = 0;
@@ -18,32 +29,50 @@ sub main()
 {
     my $infile = $ARGV[0];
 
-    open (INPUTFILE, $infile) || die("Could not open input file $infile");
-
     open (ENTRY,        ">entry.sql")       || die ("Could not create output file 'entry.sql'");
     open (WORD,         ">word.sql")        || die ("Could not create output file 'word.sql'");
     open (WORDENTRY,    ">wordentry.sql")   || die ("Could not create output file 'wordentry.sql'");
 
-    while (<INPUTFILE>)
-    {
-        my $line = $_;
-        if ($line =~ /<pb n=\"([0-9]+)\"\/>/)
-        {
-            $nextPageNum = $1;
-        }
+	my $dom = XML::LibXML->load_xml(location => $infile);
+	my @entries = $dom->findnodes("/dictionary/entry");
 
-        if ($line =~ /<entry\b(.*?)>/)
-        {
-            handleEntry();
-        }
+	foreach my $entry (@entries) 
+	{
+		handleEntry($entry);
+	}
+}
 
-        $pageNum = $nextPageNum;
-    }
 
-    # write collected words to SQL.
-    writeLanguageWords("HW");
-    writeLanguageWords("EN");
-    writeLanguageWords("CEB");
+#
+# handleEntry() -- print the SQL statment for an entry.
+#
+sub handleEntry($)
+{
+    my $entry = shift;
+
+	my $entryId = $entry->find('@id')->to_literal;
+	# print $entryId;
+
+    print ENTRY "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
+        quoteSql($entry->toString()) .
+        ", " . $pageNum .
+        ");\n";
+
+	# Forms
+	my @words = $entry->findnodes(".//w");
+	my $firstWord = '';
+	foreach my $word (@words) 
+	{
+		if ($firstWord eq '') 
+		{
+			$firstWord = $word->textContent;
+			# print "\n\n" . $word->textContent . "\n";
+		}
+		else
+		{
+			# print $firstWord . " + " . $word->textContent . "\n";
+		}
+	}
 }
 
 
@@ -84,37 +113,6 @@ sub writeLanguageWords($)
     }
 }
 
-
-#
-# handleEntry() -- print the SQL statment for an entry.
-#
-sub handleEntry()
-{
-    my $entry = "";
-
-    while (<INPUTFILE>)
-    {
-        my $line = $_;
-        if ($line =~ /<pb n=\"([0-9]+)\"\/>/)
-        {
-            $nextPageNum = $1;
-        }
-        if ($line =~ /^\s*$/) # empty line marks end of entry.
-        {
-            last;
-        }
-        $entry .= $line;
-    }
-
-    $entryId++;
-    print ENTRY "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
-        quoteSql("<entry>$entry</entry>") .
-        ", " . $pageNum .
-        ");\n";
-
-    # handleHeadWords($entry);
-    # handleWords($entry);
-}
 
 
 #
