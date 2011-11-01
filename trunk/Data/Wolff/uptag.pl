@@ -7,10 +7,13 @@ my $filename = $ARGV[0];
 my $stylesheet = $ARGV[1];
 
 
-system ("$saxon WCED-body.xml WCED-uptag2.xsl > output.xml");
+system ("$saxon pt6.xml WCED-uptag2.xsl > output.xml");
 system ("$saxon output.xml WCED-view.xsl > structural.html");
 
-system ("$saxon WCED-body.xml WCED-downtag.xsl > typographical.xml");
+# system ("$saxon WCED-body.xml WCED-uptag2.xsl > output.xml");
+# system ("$saxon output.xml WCED-view.xsl > structural.html");
 
-system ("$saxon output.xml WCED-db.xsl");
+# system ("$saxon WCED-body.xml WCED-downtag.xsl > typographical.xml");
+
+# system ("$saxon output.xml WCED-db.xsl");
 
