@@ -7,8 +7,13 @@ my $filename = $ARGV[0];
 my $stylesheet = $ARGV[1];
 
 
-system ("$saxon pt6.xml WCED-uptag2.xsl > output.xml");
+
+system ("perl WCED-uptag1.pl part6.tei > part6-ut.tei");
+system ("perl -S tei2html.pl -x part6-ut.tei");
+system ("$saxon part6-ut.xml WCED-uptag2.xsl > output.xml");
 system ("$saxon output.xml WCED-view.xsl > structural.html");
+
+
 
 # system ("$saxon WCED-body.xml WCED-uptag2.xsl > output.xml");
 # system ("$saxon output.xml WCED-view.xsl > structural.html");
