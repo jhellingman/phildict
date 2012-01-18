@@ -21,6 +21,7 @@ CHECKLIST:
 [ ] tag pos: a
 [ ] remove redundant tags near commas.
 [ ] handle sup tags
+[ ] verify starred entries (sub-entry immediately after headword)
 [ ] handle [**proofer notes]
 [ ] handle quotes. look for " '", etc.
 
@@ -6112,8 +6113,7 @@ CHECKLIST:
 
 <p><b>*milk</b> <b>pawdir &mdash;</b> <i>n</i> @{powdered milk}.
 
-<p><b>milma</b>b <i>v</i> [B; a] @lessen, @{slow down}. <i>Bísan tigúlang na siya wà mumilma ang íyang kusug,</i> Even when he was old, his strength did not decrease. <i>Nagmilma na ang dágan sa trák,</i> The truck slowed down. <i>Hilánat ang nakamilma sa íyang gána sa pagkáun,</i> Fever has lessened his appetite. <i>Milmáhan ta ang paggastugastu,</i> We will go slow on spending.
-
+<p><b>milma</b>b <i>v</i> [B; a] @lessen, @{slow down}. <i>Bísan tigúlang na siya wà mumilma ang íyang kusug,</i> Even when he was old, his strength did not decrease. <i>Nagmilma na ang dágan sa trák,</i> The truck slowed down. <i>Hilánat ang nakamilma sa íyang gána sa pagkáun,</i> Fever has lessened his appetite. <i>Milmáhan ta ang paggastugastu,</i> We will go slow on spending. <pb n=1401><i>Unsa kahay imilma ku niánang íyang pagkahimabáyi,</i> I wonder what I can do to discourage his amorous activities.
 
 
 </body>
