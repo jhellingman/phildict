@@ -42,9 +42,9 @@
         </dictionary>
 
         <!-- Create list of cross-references in separate document -->
-        <xsl:result-document 
+        <xsl:result-document
                 href="xrefs.xml"
-                method="xml" 
+                method="xml"
                 encoding="UTF-8">
 
             <xrefs>
@@ -210,7 +210,7 @@
                             <xsl:otherwise>0</xsl:otherwise>
                         </xsl:choose>
                     </xsl:attribute>
- 
+
                     <xsl:call-template name="split-examples">
                         <xsl:with-param name="nodes" select="current-group()"/>
                     </xsl:call-template>
@@ -220,7 +220,7 @@
     </xsl:template>
 
 
-    <!-- 
+    <!--
 
     Each sense starts with a translation or description of the sense, followed
     by zero or more examples, where the Cebuano is given in italics, and
@@ -315,7 +315,7 @@
     <xsl:template mode="splitoncommas" match="text()">
         <xsl:analyze-string select="." regex="(, |\*|[/])">
             <xsl:matching-substring>
-                <xsl:value-of select="."/>                
+                <xsl:value-of select="."/>
             </xsl:matching-substring>
             <xsl:non-matching-substring>
                 <w id="{local:make-id(.)}">

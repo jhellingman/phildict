@@ -23,6 +23,8 @@ The previews are of the processed parts on DP, in various states of completion. 
 
 All parts in a [http://www.bohol.ph/wolff.php searchable database]. Note that this is work in progress, and the interface may still have some bugs.
 
+All work-in-progress files and related processing and presentation tools are maintained using Google Code, in the [http://code.google.com/p/phildict/ phildict] project.
+
 All parts that completed F1 combined and corrected:
 
 * [http://www.gutenberg.ph/previews/wolff/WCED-frontmatter.html Front Matter].
@@ -108,27 +110,27 @@ Note that a mid-word hyphen in Cebuano indicates a syllable starting with a glot
 
 Proper formatting of this text will be very important to be able to parse the text and turn it into an easy-to-use linguistic resource. 
 
-Since most entries are well-structured, and the structure is indicated with typographic features, it should not be to difficult to obtain the structure from the formatting. It is important though that the formatting is correct. After the F-rounds, I will use some specifically tuned programs to add semantic tags to it, based on the typography of this dictionary. After fine-tuning, this should be able to get at least 90% of the structure of this dictionary explicitly coded.
+Since most entries are well-structured, and the structure is indicated with typographic features, it should not be too difficult to obtain the structure from the formatting. It is important though that the formatting is correct. After the F-rounds, I will use some specifically tuned programs to add semantic tags to it, based on the typography of this dictionary. After fine-tuning, this should be able to get at least 90% of the structure of this dictionary explicitly coded.
 
 Typically, a head word (root entry) is followed by a number of meanings, sorted by part-of-speech, then numbered meanings, and followed by one or more examples. After that, a range of sub-entries (derived words, often only indicated by an affixation pattern), with the same structure.
 
 '''Headwords''' We rely on headwords being bold to recognize them. This includes patterns and phrases used in sub-entries. For this reason, the stress-shift symbols (<-) and (->), and dash representing the headword in a sub-entry should be within the bold markup.
 
-'''Homonym Numbers''' We rely on the Homonym numbers being sub-script to recognize them. The subscript formatting should already been added during the P* rounds. Note that these numbers are to be included in the bold formatting of the headword.
+'''Homonym Numbers''' We rely on the Homonym numbers being sub-script to recognize them. The subscript formatting should have already been added during the P* rounds. Note that these numbers are to be included in the bold formatting of the headword.
 
 '''Part-of-Speech.''' We rely on the PoS abbreviations being in italic to recognize them. Please wrap them in their own set of italic tags, even if they are preceded or followed by italics.
 
 '''Sense Numbers.''' We rely on the sense numbers being bold to recognize them. Please wrap them in their own set of bold tags, even if they are preceded or followed by bold.
 
-'''Cross References.''' All cross references are small-caps, we just rely on the typography to identify them (That is, an equals sign, followed by a phrase in small caps.) Note that although they are bold small-caps, it is sufficient to tag them as small-caps only, saving some clicks.
+'''Cross References.''' All cross references are small-caps; we just rely on the typography to identify them (That is, an equals sign, followed by a phrase in small caps.) Note that although they are bold small-caps, it is sufficient to tag them as small-caps only, saving some clicks.
 
 '''Binomial Scientific Names.''' All binomial scientific names are in bold italic. We rely on this formatting to recognize them as such.
 
 '''English Equivalents.''' One feature that would make the dictionary considerably more useful would be the identification of direct translations or equivalents of the head word. These typically come quite early on in a meaning. The idea is that if you use the dictionary in reverse (that is, looking for a Cebuano equivalent of an English word), you want to find entries where that English word is given as an equivalent, not all entries where an English word just happens to be present in an example.
 
-All English equivalents should be preceded by an at-sign, for example:  @yellow. If an equivalent is more than one word, group them with braces, as follows: @{wine bottle}
+All English equivalents should be preceded by an at-sign, for example:  @yellow. If an equivalent contains more than one word, group them with braces, as follows: @{wine bottle}
 
-Note that this requires some editorial judgment, but no knowledge of Cebuano will be required. Prefer to add @ to single words, as they appear, above phrases, unless such phrases as a whole is an appropriate English equivalent. Do not include the word <i>to</i> with verbs, just place an @ on the verb. If you feel unsure, then better not place an at-sgin.
+Note that this requires some editorial judgment, but no knowledge of Cebuano will be required. Prefer adding @ to single words, as they appear, rather than phrases, unless such a phrase as a whole is an appropriate English equivalent. Do not include the word <i>to</i> with verbs, just place an @ on the verb. If you feel unsure, then better not place an at-sign.
 
 === Sample Entries ===
 
@@ -270,8 +272,8 @@ thick if you add yams.
 
 From the dictionary data, I plan to produce the following
 
-* A monolithic plain text and HTML file, as per Project Gutenberg standards.
-* A printable PDF file.
+* A monolithic plain text and HTML file, as per Project Gutenberg standards, about 5-6 megabytes of text.
+* A printable PDF file, formatted for A4 print-out in two columns.
 * A TEI tagged SGML/XML master file.
 * An XDXF formatted dictionary file, so it can be used on various applications and gadgets using that format.
 * A searchable database to be published on www.bohol.ph and www.gutenberg.ph, to provide students and speakers with an interactive learning and reference resource, similar to [http://www.bohol.ph/kved.php Kaufmann's Visayan-English Dictionary] currently available.
@@ -460,7 +462,21 @@ The following principles will be followed:
 ** entry: en
 ** form, q: ceb
 
-'''TEI P4 versus TEI P5''' The latests TEI P5 standard removes a number of tags proposed below. To accommodate TEI P5, the following changes can be made:
+==== Intermediate tagging ====
+
+The `uptag` scripts used to add tagging, use existing (typographic) tags combined with some heuristics to determine the structure of entry. This will not always work, as sometimes, the typographic tags are not used in the expected way. To resolve this, "offending" tags are changed to the same tag followed by an 'x', for example `&lt;i>` becomes `<ix>` if the italics do not represent a sample, and `<form>` becomes `<formx>` when the recognized form is not in a normal position of a head-word.
+
+Later in the process, such tags will be changed back to the original tag.
+
+==== Cross references ====
+
+Cross references are encoded using `<xr>` for the entire cross-referencing phrase, and `<ref>` for the exact word. When there is no cross reference phrase, the `<xr>` is not required. Note that small-caps are used to formally indicate a cross reference, but many more cross references are implied by words in italics.
+
+The formatting of cross-references to entries, pos, and meanings is highly inconsistent. I will attempt to normalize this, and link to the proper element directly.
+
+==== TEI P4 versus TEI P5 ==== 
+
+The latest TEI P5 standard removes a number of tags proposed below. To accommodate TEI P5, the following changes can be made:
 
     <eg>
        <q>Ispísung Usminyista,</q>
@@ -518,6 +534,8 @@ A collection of references to projects that use TEI for the encoding of dictiona
 : A Cebuano grammar written in Cebuano.
 
 === Sample TEI Tagged Texts ===
+
+==== Single Entry ====
 
 A possible way of tagging the sample entry would be (not yet validated against TEI!):
 
@@ -593,6 +611,8 @@ A possible way of tagging the sample entry would be (not yet validated against T
             </eg>
         </hom>
     </entry>
+
+==== Double Entry ====
 
 Another sample tagged according to TEI:
 
@@ -673,13 +693,50 @@ Another sample tagged according to TEI:
         </entry>
     </superEntry>
 
+==== Cross References ====
+
+Cross references are treated as additional senses. They can appear as part of a larger entry, or stand-alone, as in this example.
+
+    <entry>
+        <form>nan</form>
+        <number>1</number>
+        <hom>
+            <sense>
+                <number>1</number> <xr>= <ref>DAN</ref></xr>. 
+            </sense>
+            <sense>
+                <number>2</number> 
+                <trans>in narrations, particle preceding a statement that is off the subject but important for the course of the story. 
+                    <eq>
+                        <q>Nan, kadtu si Antunyu, palainan ta lang, ákù tung ámu,</q> 
+                        <trans>Now, this Antonio, to change the subject, was my employer.</trans>
+                    </eq>
+            </sense>
+        </hom>
+    </entry>
+
+The stand-alone cross reference.
+
+    <entry>
+        <form>nan</form>
+        <number>2</number>
+        <hom>
+            <sense>
+                <xr>= <ref>UG</ref>, <i>1</i> (dialectal).</xr>
+            </sense>
+        </hom>
+    </entry>
+
+==== Phrasal Sub-entries ====
+
+Sometimes, phrases are entered as sub-entries.
 
 === Issues in the dictionary structure ===
 
 In a few cases, the structure of dictionary entries has some complexities.
 
 * cross references sometimes point to an entry, sometimes to an entry in a certain role, and sometimes to a specific meaning. This is normally not an issue, except that correctly matching the typographic layout with the intended meaning is sometimes complex, and the typography is inconsistent. Note that cross references can point to sub-entries as well as other entries.
-* sub-entries under a sense. Sometimes sub-entries (in bold) are part of a sense, whereas the regular location would be at the end of the entry. This typically happens with short phrases entered as entries.
+* sub-entries under a sense. Sometimes sub-entries (in bold) are part of a sense, whereas the regular location would be at the end of the entry. This typically happens with short phrases entered as entries. They are sometimes numbered, sometimes not.
 * position of verb conjugation patterns. These sometimes appear before the sense numbers, and sometimes after. I take this to mean that in the first case the scope is all senses, and in the second case only the indicated sense (overriding any higher level pattern).
 * numbering of senses. The numbering of senses is not always strictly 1, 2, 3, ..., but the exact semantics of the numbering system are not always clear. For verbs, they probably help to identify the scope of a verb conjugation pattern.
 * additional parts of speech. Besides nouns, verbs, and adverbs/adjectives, the dictionary contains entries for particles and affixes and phrases. These are either not identified as such, or in prose.
@@ -837,7 +894,7 @@ To translate the Spanish based orthography to the style used by John U. Wolff, y
 | ao
 | aw
 |-
-| ao
+| ai
 | ay
 |-
 | c 
