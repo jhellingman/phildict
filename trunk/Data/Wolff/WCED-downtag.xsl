@@ -97,7 +97,7 @@
     <xsl:template match="note"/>
 
 
-    <xsl:template match="xref">
+    <xsl:template match="xr">
         <xsl:apply-templates/>
     </xsl:template>
 

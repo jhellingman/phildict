@@ -86,24 +86,24 @@ sub handleEntry($)
 
 
     # Recognize cross references
-    $entry =~ s/(see *|= *)?<sc>([^<]+)<\/sc>(, (?:<pos>[anv]<\/pos> ?)?(?:<number>[0-9]+[a-z]?<\/number>))?/<xref>\1<sc>\2<\/sc>\3<\/xref>/sg;
+    $entry =~ s/(see *|= *)?<sc>([^<]+)<\/sc>(, (?:<pos>[anv]<\/pos> ?)?(?:<number>[0-9]+[a-z]?<\/number>))?/<xr>\1<sc>\2<\/sc>\3<\/xr>/sg;
 
 
     # Clear-out pos and numbers within cross references.
     my $remainder = $entry;
     $entry = '';
-    while ($remainder =~ /<xref>.*?<\/xref>/)
+    while ($remainder =~ /<xr>.*?<\/xr>/)
     {
         $entry .= $`;
-        my $xref = $&;
+        my $xr = $&;
         $remainder = $';
 
-        $xref =~ s/<\/?gramGrp>//sg;
-        $xref =~ s/<pos>/<ix>/sg;
-        $xref =~ s/<\/pos>/<\/ix>/sg;
-        $xref =~ s/<number>/<bx>/sg;
-        $xref =~ s/<\/number>/<\/bx>/sg;
-        $entry .= $xref;
+        $xr =~ s/<\/?gramGrp>//sg;
+        $xr =~ s/<pos>/<ix>/sg;
+        $xr =~ s/<\/pos>/<\/ix>/sg;
+        $xr =~ s/<number>/<bx>/sg;
+        $xr =~ s/<\/number>/<\/bx>/sg;
+        $entry .= $xr;
     }
     $entry .= $remainder;
 

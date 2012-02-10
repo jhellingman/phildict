@@ -49,7 +49,7 @@
                     .note { background-color: orange; }
                     .bio { background-color: #BFFF92; font-style: italic; font-weight: bold; }
                     .tr { background-color: #CCFFFF; }
-                    .xref { background-color: #FFFFAA; }
+                    .xr { background-color: #FFFFAA; }
                     .pb { color: red; font-weight: bold; }
                     .gramGrp { background-color: yellow; }
                     .exp { color: grey; }
@@ -137,11 +137,11 @@
         </i>
     </xsl:template>
 
-    <xsl:template match="pos[parent::xref]">
+    <xsl:template match="pos[parent::xr]">
         <i><xsl:apply-templates/></i>
     </xsl:template>
 
-    <xsl:template match="number[parent::xref]">
+    <xsl:template match="number[parent::xr]">
         <b><xsl:apply-templates/></b>
     </xsl:template>
 
@@ -179,14 +179,14 @@
         </span>
     </xsl:template>
 
-    <xsl:template match="xref">
+    <xsl:template match="xr">
         <span>
             <xsl:choose>
                 <xsl:when test="key('id', substring(@target, 2))">
                     <a href="{@target}"><xsl:apply-templates/></a>
                 </xsl:when>
                 <xsl:otherwise>
-                    <xsl:attribute name="class">xref</xsl:attribute>
+                    <xsl:attribute name="class">xr</xsl:attribute>
                     <xsl:apply-templates/>
                 </xsl:otherwise>
             </xsl:choose>

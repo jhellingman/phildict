@@ -40,7 +40,10 @@
 
 
     <xsl:template match="/">
-        <xsl:processing-instruction name="xml-stylesheet">href="WCED-view.xsl" type="text/xsl"</xsl:processing-instruction>
+    
+        <!--
+            <xsl:processing-instruction name="xml-stylesheet">href="WCED-view.xsl" type="text/xsl"</xsl:processing-instruction>
+        -->
 
         <!-- uptag the main dictionary -->
         <dictionary lang="en-US">
@@ -50,21 +53,21 @@
 
         <!-- Create list of cross-references in separate document -->
         <xsl:result-document
-                href="xrefs.xml"
+                href="cross-references.xml"
                 method="xml"
                 encoding="UTF-8">
 
-            <xrefs>
-                <xsl:apply-templates mode="xref" select="//xref"/>
-            </xrefs>
+            <xrs>
+                <xsl:apply-templates mode="xr" select="//xr"/>
+            </xrs>
         </xsl:result-document>
     </xsl:template>
 
 
-    <xsl:template mode="xref" match="xref">
-        <xref>
+    <xsl:template mode="xr" match="xr">
+        <xr>
             <xsl:value-of select="."/>
-        </xref>
+        </xr>
         <xsl:text>&lf;</xsl:text>
     </xsl:template>
 
@@ -106,7 +109,7 @@
 
     <xd:doc>
         <xd:short>Split entry into sub-entries.</xd:short>
-        <xd:detail>Entries consist of a main part, followed by sub-entries. The headwords
+        <xd:detail>Entries consist of a main part, optionally followed by sub-entries. The headwords
         for entries and subentries are marked with the form element, so we can
         split the entry on these.</xd:detail>
     </xd:doc>
@@ -120,6 +123,7 @@
                 <xsl:when test="position() = 1">
                     <xsl:choose>
                         <xsl:when test="name(.) = 'form'">
+                            <xsl:apply-templates select="@*"/>
                             <xsl:apply-templates select="."/>
                             <xsl:call-template name="split-subentry">
                                 <xsl:with-param name="nodes" select="current-group() except ."/>
@@ -132,6 +136,7 @@
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
+
                 <!-- Following groups are sub-entries -->
                 <xsl:otherwise>
                     <xsl:text>&lf;</xsl:text>
@@ -229,7 +234,7 @@
 
 
     <xd:doc>
-        <xd:short>Split examples from sense.</xd:short>
+        <xd:short>Split examples and sub-senses from sense.</xd:short>
         <xd:detail>Each sense starts with a translation or description of the sense, followed
         by zero or more examples, where the Cebuano is given in italics, and
         the English translation in upright letters.</xd:detail>
@@ -238,7 +243,7 @@
     <xsl:template name="split-examples">
         <xsl:param name="nodes" as="node()*"/>
 
-        <xsl:for-each-group select="$nodes" group-starting-with="i">
+        <xsl:for-each-group select="$nodes" group-starting-with="i | sense">
             <xsl:choose>
                 <xsl:when test="position() = 1">
                     <xsl:choose>
@@ -253,6 +258,17 @@
                         </xsl:otherwise>
                     </xsl:choose>
                 </xsl:when>
+
+                <!-- We have a hard-coded sub-sense in the source: restart splitting it -->
+                <xsl:when test="name(.) = 'sense'">
+                    <sense>
+                        <xsl:call-template name="split-entry">
+                            <xsl:with-param name="nodes" select="./*|./text()"/>
+                        </xsl:call-template>
+                    </sense>
+                    <xsl:apply-templates select="current-group() except ."/>
+                </xsl:when>
+
                 <xsl:otherwise>
                     <eg>
                         <xsl:apply-templates select="."/>
@@ -281,15 +297,17 @@
 
     <xsl:template match="form">
         <form lang="ceb">
+            <xsl:apply-templates select="@*"/>
             <xsl:apply-templates/>
         </form>
     </xsl:template>
 
 
-    <xsl:template match="xref">
-        <xref lang="ceb" target="#{local:make-id(lower-case(local:as-string(sc)))}">
+    <!-- TODO handle actual link on sc element -->
+    <xsl:template match="xr">
+        <xr lang="ceb" target="#{local:make-id(lower-case(local:as-string(sc)))}">
             <xsl:apply-templates/>
-        </xref>
+        </xr>
     </xsl:template>
 
 
