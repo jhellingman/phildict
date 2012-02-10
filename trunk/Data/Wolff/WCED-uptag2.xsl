@@ -21,8 +21,9 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:local="http://localhost"
+    xmlns:xd="http://www.pnp-software.com/XSLTdoc"
     version="2.0"
-    exclude-result-prefixes="xs local">
+    exclude-result-prefixes="xs local xd">
 
     <xsl:output
         method="xml"
@@ -30,7 +31,13 @@
         encoding="UTF-8"/>
 
 
-    <!-- Make implied structure in Wolff's dictionary explicit -->
+    <xd:doc type="stylesheet">
+        <xd:short>Stylesheet to make implied structure in Wolff's dictionary explicit.</xd:short>
+        <xd:detail>This stylesheet attempts to recognize the structure of Wolff's Cebuano-English dictionary, and apply appropriate tags.</xd:detail>
+        <xd:author>Jeroen Hellingman</xd:author>
+        <xd:copyright>2012, Jeroen Hellingman</xd:copyright>
+    </xd:doc>
+
 
     <xsl:template match="/">
         <xsl:processing-instruction name="xml-stylesheet">href="WCED-view.xsl" type="text/xsl"</xsl:processing-instruction>
@@ -97,13 +104,12 @@
 
     <!--== INFER LOGICAL STRUCTURE ==-->
 
-    <!--
-
-    Entries consist of a main part, followed by sub-entries. The headwords
-    for entries and subentries are marked with the form element, so we can
-    split the entry on these.
-
-    -->
+    <xd:doc>
+        <xd:short>Split entry into sub-entries.</xd:short>
+        <xd:detail>Entries consist of a main part, followed by sub-entries. The headwords
+        for entries and subentries are marked with the form element, so we can
+        split the entry on these.</xd:detail>
+    </xd:doc>
 
     <xsl:template name="split-entry">
         <xsl:param name="nodes" as="node()*"/>
@@ -141,17 +147,19 @@
     </xsl:template>
 
 
-    <!--
-
-    Each entry is split, based on the part-of-speech (indicated in the pos element).
-    Many entries do not have a pos element. These are either
-
-    * cross-references
-    * phrases
-    * words not being one of noun, verb, adjective/adverb.
-    * mistakes in the data.
-
-    -->
+    <xd:doc>
+        <xd:short>Split sub-entry into homonyms.</xd:short>
+        <xd:detail>Each entry is split, based on the part-of-speech (indicated in the pos element).
+        Many entries do not have a pos element. These are either:
+        
+            <ul>
+                <li>cross-references</li>
+                <li>phrases</li>
+                <li>words not being one of noun, verb, adjective/adverb.</li>
+                <li>mistakes in the data.</li>
+            </ul>
+        </xd:detail>
+    </xd:doc>
 
     <xsl:template name="split-subentry">
         <xsl:param name="nodes" as="node()*"/>
@@ -182,17 +190,17 @@
         </xsl:for-each-group>
     </xsl:template>
 
-    <!--
 
-    Each pos-element, is then split into some numbered senses. Note that
-    the numbers are not given when only one sense is present.
+    <xd:doc>
+        <xd:short>Split homonyms into senses.</xd:short>
+        <xd:detail><p>Each pos-element, is then split into some numbered senses. Note that
+        the numbers are not given when only one sense is present.</p>
 
-    The sense-numbering seems to indicate some further hierarchy by the
-    use of letters; however their usage seems not very consistent.
+        <p>The sense-numbering seems to indicate some further hierarchy by the
+        use of letters; however their usage seems not very consistent.</p>
 
-    In a few cases, a sense contains a phrase (formatted as a head-word).
-
-    -->
+        <p>In a few cases, a sense contains a phrase (formatted as a head-word).</p></xd:detail>
+    </xd:doc>
 
     <xsl:template name="split-role">
         <xsl:param name="nodes" as="node()*"/>
@@ -220,13 +228,12 @@
     </xsl:template>
 
 
-    <!--
-
-    Each sense starts with a translation or description of the sense, followed
-    by zero or more examples, where the Cebuano is given in italics, and
-    the English translation in upright letters.
-
-    -->
+    <xd:doc>
+        <xd:short>Split examples from sense.</xd:short>
+        <xd:detail>Each sense starts with a translation or description of the sense, followed
+        by zero or more examples, where the Cebuano is given in italics, and
+        the English translation in upright letters.</xd:detail>
+    </xd:doc>
 
     <xsl:template name="split-examples">
         <xsl:param name="nodes" as="node()*"/>
@@ -338,6 +345,7 @@
         </xsl:copy>
     </xsl:template>
 
+
     <!-- eliminate the itype copied in the rule above. -->
     <xsl:template mode="phaseXXX" match="itype[parent::trans]"/>
 
@@ -410,7 +418,5 @@
 
         <xsl:value-of select="$sequence"/>
     </xsl:function>
-
-
 
 </xsl:stylesheet>
