@@ -176,9 +176,7 @@
                 <hom>
                     <xsl:choose>
                         <xsl:when test="name(.) = 'pos'">
-                            <xsl:attribute name="role">
-                                <xsl:value-of select="."/>
-                            </xsl:attribute>
+                            <xsl:attribute name="role" select="string(.)"/>
                             <xsl:apply-templates select="."/>
                             <xsl:call-template name="split-role">
                                 <xsl:with-param name="nodes" select="current-group() except ."/>
@@ -215,14 +213,7 @@
             <xsl:if test="not(local:is-empty(current-group()))">
                 <xsl:text>&lf;</xsl:text>
                 <sense>
-                    <xsl:attribute name="n">
-                        <xsl:choose>
-                            <xsl:when test="name(.) = 'number'">
-                                <xsl:value-of select="."/>
-                            </xsl:when>
-                            <xsl:otherwise>0</xsl:otherwise>
-                        </xsl:choose>
-                    </xsl:attribute>
+                    <xsl:attribute name="n" select="if (name(.) = 'number') then string(.) else 0"/>
 
                     <xsl:call-template name="split-examples">
                         <xsl:with-param name="nodes" select="current-group()"/>
@@ -259,7 +250,8 @@
                     </xsl:choose>
                 </xsl:when>
 
-                <!-- We have a hard-coded sub-sense in the source: restart splitting it -->
+                <!-- We have a hard-coded sub-sense in the source: restart splitting it at a higher level 
+                     TODO: code split to work nice on this level -->
                 <xsl:when test="name(.) = 'sense'">
                     <sense>
                         <xsl:call-template name="split-entry">
@@ -317,17 +309,29 @@
         </xsl:copy>
     </xsl:template>
 
+
+
+
+
+
     <!--== PHASE 2 ==-->
 
     <xsl:template mode="phase2" match="@*|node()">
         <xsl:copy>
-            <xsl:apply-templates mode="phase2" select="@*|node()"/>
+            <xsl:apply-templates mode="#current" select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
 
 
     <!-- split up forms -->
     <xsl:template mode="phase2" match="form">
+        <form>
+            <xsl:apply-templates mode="splitoncommas" select="@*|node()"/>
+        </form>
+    </xsl:template>
+
+    <!-- formx becomes form again -->
+    <xsl:template mode="phase2" match="formx">
         <form>
             <xsl:apply-templates mode="splitoncommas" select="@*|node()"/>
         </form>
@@ -355,17 +359,17 @@
     <xsl:template mode="phase2" match="trans[normalize-space(.) = '']"/>
 
 
-    <!-- lift grammar information from trans -->
-    <xsl:template mode="phaseXXX" match="trans">
-        <xsl:copy-of select="itype"/>
+    <!-- lift grammar information from trans. TODO: split in better way to preserve spaces before lifted elements. -->
+    <xsl:template mode="phaseXXXX" match="trans">
+        <xsl:apply-templates select="itype | formx | form" mode="#current"/>
         <xsl:copy>
-            <xsl:apply-templates mode="phase2"/>
+            <xsl:apply-templates select="(./* | ./text()) except (itype | formx | form)" mode="#current"/>
         </xsl:copy>
     </xsl:template>
 
 
-    <!-- eliminate the itype copied in the rule above. -->
-    <xsl:template mode="phaseXXX" match="itype[parent::trans]"/>
+
+
 
 
 

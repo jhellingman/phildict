@@ -89,7 +89,7 @@
     </xsl:template>
 
 
-    <xsl:template match="tr">
+    <xsl:template match="tr | sense">
         <xsl:apply-templates/>
     </xsl:template>
 
