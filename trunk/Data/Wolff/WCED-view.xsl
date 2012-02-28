@@ -4,6 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:local="http://localhost"
     version="2.0"
     exclude-result-prefixes="xs dc">
 
@@ -65,7 +66,27 @@
     </xsl:template>
 
 
+    <xsl:function name="local:get-page-url" as="xs:string">
+        <xsl:param name="page" as="xs:integer"/>
+
+        <xsl:choose>
+            <xsl:when test="$page &lt; 538">
+                <xsl:sequence select="concat(concat(
+                    'http://seapdatapapers.library.cornell.edu/cgi/t/text/pageviewer-idx?c=seap&amp;cc=seap&amp;idno=seap085a&amp;node=seap085a%3A11&amp;view=image&amp;seq=', 
+                    $page + 24),
+                    '&amp;size=200')"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text></xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:function>
+
     <xsl:template match="entry">
+        <xsl:if test="parent::dictionary">
+            <div class="page-ref"><a href="{local:get-page-url(@page)}"><xsl:value-of select="@page"/></a></div>
+        </xsl:if>
+
         <div class="entry">
             <xsl:apply-templates/>
         </div>
@@ -161,7 +182,6 @@
             <a>
                 <xsl:attribute name="href">http://www.google.com/search?q=<xsl:value-of select="translate(., ' ', '+')"/></xsl:attribute>
                 <xsl:apply-templates/>
-                
             </a>
         </span>
     </xsl:template>

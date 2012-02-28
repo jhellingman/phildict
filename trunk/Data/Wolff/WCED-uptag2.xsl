@@ -85,12 +85,16 @@
     </xsl:template>
 
 
+
+
+
     <!-- Process each entry -->
     <xsl:template match="p">
 
         <xsl:variable name="entry">
             <xsl:text>&lf;&lf;</xsl:text>
             <entry>
+                <xsl:attribute name="page" select="preceding::pb[1]/@n"/>
                 <xsl:attribute name="id">
                     <xsl:number format="1" level="any" count="p"/>
                 </xsl:attribute>
@@ -359,15 +363,22 @@
     <xsl:template mode="phase2" match="trans[normalize-space(.) = '']"/>
 
 
-    <!-- lift grammar information from trans. TODO: split in better way to preserve spaces before lifted elements. -->
-    <xsl:template mode="phaseXXXX" match="trans">
-        <xsl:apply-templates select="itype | formx | form" mode="#current"/>
-        <xsl:copy>
-            <xsl:apply-templates select="(./* | ./text()) except (itype | formx | form)" mode="#current"/>
-        </xsl:copy>
+    <!-- lift various types of information from trans-element. -->
+    <xsl:template mode="phase2" match="trans">
+        <xsl:choose>
+            <xsl:when test="itype | form | formx">
+                <xsl:apply-templates select="(*|text())[not(preceding-sibling::itype | preceding-sibling::formx | preceding-sibling::form)]" mode="#current"/>
+                <xsl:copy>
+                    <xsl:apply-templates select="(*|text())[preceding-sibling::itype | preceding-sibling::formx | preceding-sibling::form]" mode="#current"/>
+                </xsl:copy>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:copy>
+                    <xsl:apply-templates mode="#current"/>
+                </xsl:copy>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
-
-
 
 
 
