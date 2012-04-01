@@ -5,6 +5,7 @@ Step one
 [ ] Run pgpp.pl
 [ ] Fix page-breaks
 [ ] Fix hi tags (back to i tags)
+[ ] Insert p tags
 [ ] Run catpars.pl
 
 Step two
@@ -21,6 +22,7 @@ Step two
 [ ] handle [**proofer notes]
 [ ] handle quotes. look for " '", etc.
 [ ] Renumber pages.
+
 
 Step three
 
