@@ -9,11 +9,7 @@ $infile =~ /^([A-Za-z0-9-]*?)\.txt$/;
 my $basename = $1;
 
 
-
-
 handleDictionary();
-
-
 
 
 sub handleDictionary()
@@ -33,8 +29,6 @@ sub handleDictionary()
         }
     }
 }
-
-
 
 
 sub handleEntry($)
@@ -126,4 +120,3 @@ sub handleEntry($)
 
     print "$entry";
 }
-

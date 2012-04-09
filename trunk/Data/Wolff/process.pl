@@ -9,8 +9,8 @@ my $letter = $ARGV[0];
 
 if ($letter ne '') 
 {
-	processLetter($letter);
-	exit;
+    processLetter($letter);
+    exit;
 }
 
 # system ("perl WCED-uptag1.pl part6.tei > part6-ut.tei");
