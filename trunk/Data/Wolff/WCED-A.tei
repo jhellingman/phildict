@@ -353,7 +353,7 @@
 
 <p><form>adiyus, adiyús</form> <number>1</number> <tr>farewell</tr> (literary). <number>2</number> <formx>&mdash; na lámang</formx> never mind, forget about s.t. expended for nothing. <i>Ug mupahulam ka níyag kwarta, adiyus na lang,</i> If you lend him money, you might as well kiss it <corr sic=good-bye>goodbye</corr>. <number>3</number> exclamation at the unpleasant consequences of s.t. one has observed taking place. <i>Adiyús nabásag na hinúun,</i> Oh Jesus! It broke! <i>Adiyús nalimtan nákù ag pitáka,</i> Jesus! I forgot my purse!
 
-<!-- Confused entry, sub-entries should be moved to end; there is no TING-_2 -->
+<!-- Confused entry, sub-entries may need to move to end; there is no TING-_2 -->
 
 <p><form>adlaw</form> <pos>n</pos> <number>1</number> <tr>sun</tr>. <number>2</number> <tr>day</tr>. <i>May adlaw nga magbásul ka,</i> The day will come that you will be sorry. <number>2a</number> day, as opposed to night. <form>pila ka &mdash;</form> it won&apos;t be long. <i>Pila ka adlaw makapánaw ta sa búwan,</i> Soon we&apos;ll be able to take trips to the moon. <number>2b</number> one&apos;s day for winning. <i>Ímu tanang adlaw,</i> You get all the breaks. <number>3</number> <tr>birthday</tr>. <number>4</number> amount earned in a day. <i>Singku ra may íyang adlaw niánà,</i> He only gets five pesos a day from it. <form>&mdash; sa minatay</form> <tr>All Soul&apos;s Day</tr>. <form>Mahal nga &mdash;</form> <tr>Holy Week</tr>. <pos>v</pos> <number>1</number> <itype>[A3; b6]</itype> receive a certain amount daily. <i>Muadlaw kug tagduha ka líbu ka písus,</i> I net two thousand pesos a day. <i>Adláwi lang siyag tag-diyis,</i> Pay him ten pesos per day. <number>2</number> <itype>[A; b6]</itype> celebrate a birthday. <i>Adtu nyà sa ámù kay mag-adlaw ku,</i> Come to my house for my birthday party. <form>adlaw-adlaw</form> every day. <form>-an</form> <pos>a</pos> for it to be daylight. <i>Ayaw úsà pagpaúli. Adláwan pa bítaw,</i> Don&apos;t go home yet! It&apos;s still daylight anyway. <form>-an(&rarr;)</form> <pos>n</pos> food used to celebrate a birthday with. <i>Iháwa na ang adlawan,</i> Slaughter the birthday pig. <form>-in-</form> <pos>a</pos> <number>1</number> <tr>daily</tr>, by the day. <number>2</number> <tr>lukewarm</tr> (lit. put in the sun). <i>Túbig inadlaw,</i> Warm water. <pos>v</pos> <number>1</number> <itype>[A; a2]</itype> do on a daily basis. <i>Inadlawun (inadláwun) ka nákug dúaw,</i> I will visit you daily. <number>2</number> <itype>[A; c1]</itype> make water warm. <form>-in-an</form> <pos>n</pos> <tr>birthday present</tr>. <form>ka-an</form> <pos>n</pos> <tr>birthday</tr>, day of patron saint. <form>ka-un</form> <pos>n</pos> <tr>dawn</tr>. <i>Mugíkan ku ugmà sa kaadláwun,</i> I&apos;ll leave tomorrow at dawn. <form>pang-</form> <pos>n</pos> <number>1</number> s.t. used during daytime. <i>Sanínang pang-adlaw,</i> Dress for daytime wear. <number>2</number> day shift work. <form>tala-an</form> <pos>n</pos> <tr>diary</tr>. <form>ti-</form> <number>1</number> <xr>= <sc>TING-</sc>. <bx>2</bx></xr> <pos>a</pos> <tr>sunny</tr>. <i>Sa buntag tiadlaw, apan sa hápun nag-ulan,</i> In the morning it was sunny, but in the afternoon it rained. <form>ting-</form> <pos>n</pos> <tr>dry season</tr>.&dagger;
 
@@ -403,7 +403,7 @@
 
 <p><form>adul</form> <pos>a</pos> mentally deficient. <i>Dì giyud kasabut ang adul bísag unsáug isplikar,</i> No matter how you explain it to the imbecile, he will never understand.
 
-<!-- Shouln&apos;t order of pos and subentry be different? -->
+<!-- Shouln't order of pos and subentry be different? -->
 
 <p><form>*adult</form> <pos>n</pos> <form>&mdash; idyukisyun</form> adult education.&dagger;
 
@@ -701,9 +701,9 @@
 
 <p><form>aguyangyang<sub>2</sub></form> <pos>n</pos> k.o. wild annual <tr>vine</tr> that bears small, poisonous beans which are hard and red with a black tip. The beans are used ornamentally and medicinally: <bio>Abrus precatorius</bio>.
 
-<!-- Subentry agwa bindita moved -->
+<!-- Subentry agwa bindíta seems out of order -->
 
-<p><form>agwa</form> <pos>n</pos> <tr>perfume</tr>, <tr>lotion</tr>. <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> apply perfume to s.o. <number>2</number> <itype>[A12]</itype> get perfume. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> use perfume. <i>Humut ka dà. Nangagwa ka ba?</i> You smell nice. Are you using perfume? <form>agwahan</form> <pos>n</pos> <tr>perfume atomizer</tr>. <form>&mdash; bindíta</form> <pos>n</pos> <tr>holy water</tr>. <form>&mdash; uksináda</form> <pos>n</pos> <tr>hydrogen peroxide</tr>.
+<p><form>agwa</form> <pos>n</pos> <tr>perfume</tr>, <tr>lotion</tr>. <form>&mdash; bindíta</form> <pos>n</pos> <tr>holy water</tr>. <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> apply perfume to s.o. <number>2</number> <itype>[A12]</itype> get perfume. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> use perfume. <i>Humut ka dà. Nangagwa ka ba?</i> You smell nice. Are you using perfume? <form>agwahan</form> <pos>n</pos> <tr>perfume atomizer</tr>. <form>&mdash; uksináda</form> <pos>n</pos> <tr>hydrogen peroxide</tr>.
 
 <p><form>agwáda</form> <pos>v</pos> <itype>[A; a2]</itype> <tr>fetch</tr> water. <i>Agwadáhan lang tikag túbig,</i> I&apos;ll fetch water for you. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> fetch water for a fee. <pos>n</pos> the occupation of fetching water. <i>Makasapì pud siyag diyútay sa pangagwáda,</i> He can earn a little money in fetching water.&dagger;
 
@@ -725,8 +725,6 @@
 <p><form>agwasil</form> <pos>n</pos> <xr>= <sc>ALGUWASIL</sc></xr>.
 
 <p><form>agwásun</form> <pos>n</pos> k.o. large poisonous snake, black on the back and yellow-bellied.
-
-<!-- UP TO HERE -->
 
 <p><form>ah</form> particle expressing rejection or denial. <i>Ah! Dílì kanà mahímù,</i> Oh! That&apos;s impossible. <i>Ah, dì ku. Kápuy,</i> Oh, I don&apos;t want to. It&apos;s too much like work.
 
@@ -1860,7 +1858,7 @@
 
 <p><form>angat<sub>1</sub></form> <pos>n</pos> <tr>teeth marks</tr>. <i>Angat sa pinaakan sa hálas,</i> Teeth marks of a snake.
 
-<!-- Seems to appear alone after all, so why starred? -->
+<!-- Angat seems to appear alone after all, so why starred? -->
 
 <p><form>*angat<sub>2</sub></form> <form>&mdash; sa</form> as [such-and-such] approaches. <i>Ínit ang kampanya angat sa iliksyun,</i> The campaign went into high gear as elections approached. <pos>v</pos> <itype>[B145]</itype> for an event to approach. <i>Nag-angat na ang pista,</i> Fiesta time is approaching.
 

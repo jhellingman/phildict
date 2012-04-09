@@ -76,6 +76,12 @@
                     $page + 24),
                     '&amp;size=200')"/>
             </xsl:when>
+            <xsl:when test="$page &gt; 537">
+                <xsl:sequence select="concat(concat(
+                    'http://seapdatapapers.library.cornell.edu/cgi/t/text/pageviewer-idx?c=seap&amp;cc=seap&amp;idno=seap085b&amp;node=seap085b%3A11&amp;view=image&amp;seq=', 
+                    $page - 530),
+                    '&amp;size=200')"/>
+            </xsl:when>
             <xsl:otherwise>
                 <xsl:text></xsl:text>
             </xsl:otherwise>
