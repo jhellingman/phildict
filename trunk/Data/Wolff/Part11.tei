@@ -29,7 +29,7 @@
 Step one
 
 [X] Run pgpp.pl
-[ ] Fix page-breaks
+[X] Fix page-breaks
 [X] Fix hi tags (back to i tags)
 [X] Insert p tags
 [ ] Run catpars.pl
@@ -63,8 +63,26 @@ Step four
 
 -->
 
+<TEI.2 lang=en>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A Dictionary of Cebuano Visayan</title>
+            <author>John U. Wolff</author>
+        </titleStmt>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language id=en>English</language>
+            <language id=en-US>English (United States)</language>
+            <language id=ceb>Cebuano</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+<text>
+<pb n=980>
+<body>
 
-<pb n=2001>
 <b>matampúhun</b> <i>a</i> @generous in contributing.
 
 <p><b>tampuk<sub>1</sub></b> <i>v</i> <b>1</b> [AB2456; ac] stab so as to
@@ -131,8 +149,7 @@ yellowish coloring and a blackish blotch.
 characterized by hovering above the opponent
 with fluttering wings. <i>v</i> <b>1</b> [A; c1] for a
 gamecock to fight in this way. <b>2</b> [A23] for
-<pb n=2002>
-the hair on the nape to come to a point.
+<pb n=981>the hair on the nape to come to a point.
 <i>Mutamsi ang buhuk sa tingkuy ug taas na,</i>
 The hair on the nape comes to a point when
 it gets long. <b>tamsíhun</b> <i>a</i> having hair at the
@@ -194,7 +211,6 @@ part of the story because I marked the page.
 ni, Wà pa giyud aku masayup niíning
 mga butánga,</i> Take note of this: I have
 never made a mistake in these matters. <b>-in-</b>
-<pb n=2003>
 <i>a</i> @respectable person. <i>Tinamud nga mga dinápit,</i>
 @Respected guests. <b>talamdan, tamdanan</b>
 <i>n</i> basic <corr sic=buide>guide</corr>, rules, and regulations to
@@ -263,9 +279,8 @@ siya sa tanan,</i> He's the naughtiest of
 the naughty. <i>Tabian sa tanang tabian,</i> The
 most talkative of all talkative ones.
 
-<p><b>tan-aw</b> <i>v</i> [A; ab2] <b>1</b> @see, @{look at}. <i>Mutan-aw</i>
-<pb n=2004>
-<i>kug sini karung gabíi,</i> I'll go see a movie
+<p><b>tan-aw</b> <i>v</i> [A; ab2] <b>1</b> @see, @{look at}. <i>Mutan-aw
+<pb n=982>kug sini karung gabíi,</i> I'll go see a movie
 tonight.<i> Ispisyalista ang nagtan-aw níya,</i> A
 specialist is examining her. <i>Tan-áwa ang
 íyang ríkurd kun madáwat ba,</i> Examine his
@@ -324,7 +339,6 @@ do work. <i>Nagtandà man tingálig aláyun si
 Tátay kay wà man diring íyang sanggut,</i>
 Father is probably at the work bee because
 his scythe is not here. <b>paN-</b> <i>v</i> [A2; b6] go
-<pb n=2005>
 and attend a feast. <i>Didtu ku gíkan nanandà
 ug kasal,</i> I have just come from a wedding
 party. <b>maN-r-</b> <i>n</i> party or[**of?] feast goers.
@@ -391,8 +405,7 @@ could fail to be touched by those words. <b>4</b>
 [A13; a12] @{touch on} past events. <i>Dílì tà ángay
 nga magtandug sa inyung miáging kabangían,</i>
 You ought not to touch on what
-<pb n=2006>
-you quarrelled about long ago. <b>5</b> [AP; a2b8]
+<pb n=983>you quarrelled about long ago. <b>5</b> [AP; a2b8]
 cause a @relapse of an illness or injury.
 <i>Natandug ang piang,</i> His broken bone broke
 again. <i>n</i> pull on the line when fish bite. <b>-l-un(->)</b>
@@ -457,7 +470,6 @@ made from coconut or banana leaves into
 which leaf tobacco or a cigarette is placed.
 <b>2</b> turrid shells (which look similar to a cigarette
 holder). <i>v</i> <b>1</b> [A; a] make a tobacco
-<pb n=2007>
 or cigarette holder of this sort. <b>2</b> [A; b6(1)]
 smoke with this device.
 
@@ -525,8 +537,7 @@ in degree, quality or size. <i>Way makatandì
 (makagtandì) sa íyang kaanyag,</i> Nothing
 can compare with her beauty. <i>Makigtandì
 ka nákù sa katas-un?</i> You want to compare
-<pb n=2008>
-your height with mine? <i>Tandía ang duruha
+<pb n=984>your height with mine? <i>Tandía ang duruha
 kun háin ang mas putì,</i> Compare the two to
 see which one is lighter in complexion. <i>Way
 sarang ikatandì (ikagtandì) kang Risal,</i> There
@@ -593,9 +604,8 @@ sa sunud pista,</i> I'll raise a pig for next fiesta.
 <i>Tanggúngi nang baktin pára sa inyung kasal,</i>
 Raise that piglet for your wedding. <b>3</b> [B126;
 b8] be stranded, maneuvered into a place
-with no exit. <i>Sulug mauy nakatanggung</i>
-<pb n=2009>
-<i>(nakapatanggung) námù sa isla,</i> The strong
+with no exit. <i>Sulug mauy nakatanggung
+(nakapatanggung) námù sa isla,</i> The strong
 current caused us to get stranded on the
 island. <i>Ang batalyun natanggung sa kimba,</i>
 The battalion was trapped in the gully. <b>-an(->)</b>
@@ -662,9 +672,8 @@ dagkuti,</i> Place the pot on the stove first before
 you light it. <i>n</i> <b>1</b> one's turn to do work
 in communal rotational work (<i>aláyun</i>). <b>2</b>
 @feast, @banquet. <i>Makabuhung nga tangkà ang
-gidúlut níla,</i> They served a sumptuous banquet. 
-<pb n=2010>
-<b>hi-/ha-</b> <i>v</i> [B1256; b2] @{happen on} s.t.,
+gidúlut níla,</i> They served a sumptuous banquet.
+<pb n=985><b>hi-/ha-</b> <i>v</i> [B1256; b2] @{happen on} s.t.,
 come to a place by chance. <i>Hitangkaan níya
 ang kawatan nga nangabli sa húnus,</i> He
 @{came upon} the burglar opening the drawers.
@@ -729,7 +738,6 @@ carry s.t. attached to the body. <i>Itangkil sa
 around your waist. <b>3</b> carry a baby while one
 is doing s.t. <i>Bísag magmadyung, túa nagtangkil
 ug bátà,</i> She carries her baby even while
-<pb n=2011>
 she plays mahjong. <b>3a</b> for a man to drag
 along a woman wherever he goes. <i>Dì nà siya
 mutangkil sa íyang asáwa kay ábi dì man
@@ -799,7 +807,8 @@ citratus</b></i>. <i>v</i> [A; b6] season with
 or taken as medicine. <i>Maháwut ug tanglas
 nga tubà,</i> Mellow and smooth palm toddy.
 <b>ma-</b> = <sc>TANGLAS</sc>.
-<pb n=2012>
+
+<pb n=986>
 
 <p><b>tangpi</b> = <sc>TAMPI</sc>.
 
@@ -865,8 +874,7 @@ Bats are attracted to the flowers of the kapok
 tree. 2</b> [A; a12] @heed, @obey. <i>Ang magtangud
 sa púlung sa Diyus malangit,</i> Those
 who follow the words of the Lord will go
-to heaven. <i>Gitangud ku ang tanang pahimangnù 
-<pb n=2013>
+to heaven. <i>Gitangud ku ang tanang pahimangnù
 mu,</i> I followed all your advice.
 
 <p><b>tang-ug</b> = <sc>TAN-UG</sc>.
@@ -932,9 +940,8 @@ and future. <i>Taniagun (itaniag) ku ang
 ímung kaugmáun pinaági sa pagtan-aw sa ímung
 pálad,</i> I will foretell your future by
 looking at the palm of your hand. <b>5</b> [A; c1]
-peer, peep through s.t. at s.t. else. <i>Mitaniag</i>
-<pb n=2014>
-<i>siya sa lungag sa yawihánan,</i> He peeped
+peer, peep through s.t. at s.t. else. <i>Mitaniag
+<pb n=987>siya sa lungag sa yawihánan,</i> He peeped
 through the keyhole. <i>n</i> s.t. to peer into to
 foretell the future.
 
@@ -1005,7 +1012,6 @@ How much interest do you charge?
 kinsi pursintu ug pahulam ka nákù,</i> I will
 pay fifteen percent if you lend me money.
 <i>Nagtantu kus singsing nga ákung giprinda,</i> I
-<pb n=2015>
 am paying off the interest on the ring I
 pawned. <b>pa-</b> <i>v</i> [A; bc] lend money for interest.
 <i>Nagpatantu siyag kwarta,</i> He lends
@@ -1071,8 +1077,7 @@ pagtanum ug kayugut sa ímung dughan,</i>
 Don't harbor hatred in your heart. <i>Itanum
 sa ímung kaisípan ang ákung pína,</i> Implant
 my admonition in your mind. <i>n</i> @plant. <b>(<-)</b>
-<pb n=2016>
-<i>v</i> [A; c] plant a large crop. <i>Makatánum ta
+<pb n=988><i>v</i> [A; c] plant a large crop. <i>Makatánum ta
 kun dúnay ígung ulan,</i> We can plant our
 crops if there is enough rain. <b>talamnánan</b> <i>n</i>
 area prepared for planting. <b>mag-r-</b> <i>n</i> s.o. engaged
@@ -1136,7 +1141,6 @@ embers. <i>Bagul itapa sa isdà,</i> Use coconut
 shells for broiling the fish. <b>2</b> [A; b(1)] kiln-dry
 copra. <i>Magtapa mi sa kupras kay way
 ínit,</i> We'll kiln-dry the copra because there
-<pb n=2017>
 is no sun. <i>n</i> @{smoked fish}. <b>tapahan</b> <i>n</i> <b>1</b> copra
 kiln-drier. <b>2</b> grate for broiling. <b>-in-</b> <i>n</i> =
 <sc>TAPA</sc>, <i>n</i>. <i>see also</i> <sc>TAP-AN</sc>.
@@ -1199,9 +1203,8 @@ or short. <i>Makatapal giyud kag wad-un nímu
 nà,</i> You'll have to pay for it if you lose it.
 <i>Tapli tung adlaw nga naabsin ka,</i> @{Make up
 for} the day you were absent. <b>2</b> pay s.o.'s
-bills for later reimbursement. <i>Tapli lang ku</i>
-<pb n=2018>
-<i>kay nahibilin ang ákung pitáka,</i> Pay for me
+bills for later reimbursement. <i>Tapli lang ku
+<pb n=989>kay nahibilin ang ákung pitáka,</i> Pay for me
 because I left my wallet. <i>n</i> amount of s.t.
 made up.
 
@@ -1268,8 +1271,7 @@ sincere in his repentance.
 
 <p><b>tápay<sub>1</sub></b> <i>n</i> <b>1</b> @{cock's comb}. <b>2</b> <b>pula ang &mdash;</b> for
 ears to be red from drinking (humorous).
-<i>Daling mamuwa ang íyang tápay ug makainum</i>. 
-<pb n=2019>
+<i>Daling mamuwa ang íyang tápay ug makainum</i>.
 His ears grow red easily when he
 drinks. <b>-an</b> <i>a</i> <b>1</b> having a comb. <b>2</b> having a
 crest. <i>Sawang tapáyan,</i> Crested snake. <b>tapaytapay</b>
@@ -1335,8 +1337,7 @@ off the mark; cause s.t. to do so. <i>Mutapi
 (matapi) ang úlu sa bátà ug pirmi takildun,</i>
 A child gets an irregularly-shaped head if he
 is put down on his side. <b>2</b> [A; a1] fend off
-<pb n=2020>
-a blow with a sideward motion of the arm
+<pb n=990>a blow with a sideward motion of the arm
 or club. <i>Tapihun nímu ang duslak kay mau
 nay labing piligrúsu,</i> You must fend off the
 forward thrust because that is the most
@@ -1406,8 +1407,7 @@ splotch on it from leprosy.
 <p><b>tápir wír</b> <i>n</i> @tupperware.
 
 <p><b>tapis</b>, <b>tápis</b> <i>n</i> piece of cloth worn around the
-<pb n=2021>
-[Greek: ]waist or upper body as a @skirt. <i>v</i> [A; c]
+waist or upper body as a @skirt. <i>v</i> [A; c]
 wear s.t. wound around the body. <i>Hubù siya
 gawas sa tualya nga gitápis,</i> She was
 naked except for a towel she wore around
@@ -1473,9 +1473,8 @@ ang tabánug,</i> Cover the kite with red paper.
 The sky is covered with thick clouds. <i>n</i>
 s.t. lain over as a covering.
 
-<p><b>taptin</b> <i>n</i> the first ten from the top. <i>Nahiapil</i>
-<pb n=2022>
-<i>ku sa taptin sa ámung klási,</i> I am among
+<p><b>taptin</b> <i>n</i> the first ten from the top. <i>Nahiapil
+<pb n=991>ku sa taptin sa ámung klási,</i> I am among
 the top ten in our class.
 
 <p><b>tápù</b> <i>v</i> <b>1</b> [A; ac6] put all together. <i>Kinsay
@@ -1540,7 +1539,6 @@ absent. <b>-an(->)</b> <i>a</i> lazy. <b>-in-an(->)</b> <i>v</i> [A1] do
 lazily. <i>a</i> lazily done. <b>-in-</b> <i>v</i> [A13; b6] do in
 a lazy way. <i>Gitinapúlan lang níya ang ákung
 súgù,</i> He just ran my errand in a lazy way.
-<pb n=2023>
 
 <p><b>tapun<sub>1</sub></b> <i>v</i> [A2; c] <b>1</b> @move to another house or
 place. <i>Kung mag-áway ang magtiáyun ang
@@ -1604,9 +1602,8 @@ that concludes. <i>Maáyung panápus tung bálak
 sa ímung diskursu,</i> That poem made a
 good ending to your speech.<b> paN-(->)</b> <i>a</i> @final,
 no matter what the consequences might be.
-<i>Ibundak ku ning uska libu. Panapus ning</i>
-<pb n=2024>
-<i>sugála kay nagkapildipildi ku,</i> I ran out of
+<i>Ibundak ku ning uska libu. Panapus ning
+<pb n=992>sugála kay nagkapildipildi ku,</i> I ran out of
 luck, but I'll gamble this one thousand pesos,
 come what may. <b>ka-an</b> <i>n</i> <b>1</b> @end, @termination.
 <b>2</b> = <sc>TÁPUS</sc>, <i>n2.</i> <i>v</i> [A13; b6(1)]
@@ -1670,7 +1667,6 @@ You drove her to danger. <b>2</b> [A; b(1)]
 @dive, @dash forcefully towards. <i>Kinsa
 tung mitapwak sa ákung likud,</i> Who was
 that who jumped on my back? <b>3</b> [a3b8]
-<pb n=2025>
 meet the eyes. <i>Mauy natapwak (natapwakan)
 sa ákung panan-aw ang babáying naghúbù,</i>
 A stark naked woman met my eyes.
@@ -1736,9 +1732,8 @@ yourself to the line of fire.
 <p><b>tarák</b> = <sc>TRÁK</sc>.
 
 <p><b>taraktarak<sub>1</sub></b> <i>v</i> [A1; b6] put several blade
-marks on s.t. <i>Ákung gitaraktarakan ang pu-*</i>
-<pb n=2026>
-<i>*núan sa nangkà arun muági ang taguk,</i> I put
+marks on s.t. <i>Ákung gitaraktarakan ang punúan
+<pb n=993>sa nangkà arun muági ang taguk,</i> I put
 blade marks in the trunk of the jackfruit so
 <b>the</b> sap would flow.
 
@@ -1803,8 +1798,7 @@ get sap.
 ni Rúsa ang íyang páa arun ku
 makaalinggat,</i> Rosa exposed her legs to
 catch my attention. <b>2</b> allow s.o. or oneself
-<pb n=2027>
-<b>to</b> do as much of s.t. as he wants. <i>Ayaw patardánga
+to do as much of s.t. as he wants. <i>Ayaw patardánga
 ug pakáun ang bátà,</i> Don't let the
 child eat as much as he wants.
 
@@ -1865,7 +1859,8 @@ perfect match, ideal for pairing off in marriage.
 <i>Ikaw duktur ug siya nars; tariun giyud
 mu kaáyu,</i> You're a doctor and she's a
 nurse; you are a perfect match.
-<pb n=2028>
+
+<pb n=994>
 
 <p><b>tarik</b> <i>n</i> <b>1</b> @{outrigger boom}, the poles to which
 the floats are attached. <b>2</b> @penis (slang). <i>v</i>
@@ -1936,7 +1931,6 @@ balatían,</i> Even tears cannot move his feelings.
 <i>a</i> s.t. planted that is loose. <i>Húmuk na
 ibtun ang lansang kay tarug na,</i> It's easy to
 pull the nail out now because it's loose. <i>n</i> a
-<pb n=2029>
 loose tooth. <i>Ipaibut na ímung tarug,</i> Have
 your loose tooth pulled.
 
@@ -2000,8 +1994,7 @@ must have a reason. <b>2</b> @justice. <i>Labánan
 ang katarúngan,</i> Defend justice. <b>láwas ug
 ka-an</b> <i>see</i> <sc>LÁWAS</sc>. <i>v</i> [c6] give as a reason.
 <i>Milális giyud siya bisag way ikatarúngan,</i>
-<pb n=2030>
-He argued even if he had no argument to
+<pb n=995>He argued even if he had no argument to
 make. <b>panga-an</b> <i>v</i> [A2; c6] give an explanation
 or defense, justify oneself. <i>Pangatarúngan
 kun hustu ka,</i> Explain yourself when
@@ -2068,7 +2061,6 @@ for s.t. to happen. <i>Dì ku mutasal anus-a ku
 mubálik,</i> I won't set a date as to when I'm
 coming back. <i>Gitasalan ang masakitun sa
 kansir ug usa ka búlan,</i> The cancer patient
-<pb n=2031>
 was given a month to live. <i>Lúnis ang gitasal
 nga adlaw sa kasal,</i> Monday was the day set
 for the wedding. <i>n</i> date fixed for s.t. expected.
@@ -2135,7 +2127,8 @@ sa íyang trabáhu,</i> He is loafing on his job.
 sa sákung himúung hábul,</i> Undo the
 stitches of the sacks to make them into a
 blanket. <i>a</i> stitches that came undone.
-<pb n=2032>
+
+<pb n=996>
 
 <p><b>táta</b> <i>n</i> <b>1</b> @father, address of respect to a father,
 esp. among Muslims. <b>2</b> address of respect
@@ -2203,7 +2196,6 @@ father. <b>(->)</b> voc. <i>short form:</i> <b>tay</b>.
 <p><b>tatha</b> <i>v</i> [A; a2] cut or lop off branches with
 a bladed tool. <i>Tatháun ku ning sangáha nga
 nagdaplay sa alambri,</i> I will cut off the
-<pb n=2033>
 branch that hangs across the electric wires.
 
 <p><b>táting</b> <i>n</i> <b>1</b> @tatting, @{knotted lace}. <b>2</b> @shuttle for
@@ -2273,8 +2265,7 @@ ka nang wà mubisíta nákù,</i> It's been
 some time since you visited me. <b>3</b> [do] @{every
 now and then}. <i>Taudtaud lag pangíhì
 ning táwung gibus-aw,</i> This man with a bladder
-<pb n=2034>
-ailment keeps having @frequent urination.
+<pb n=997>ailment keeps having @frequent urination.
 <i>v</i> <b>1</b> [B246; b] done some time ago.
 <i>Mutaudtaud na karung wà kung kakità ug
 sini,</i> It's been some time now since I've last
@@ -2337,7 +2328,6 @@ pagkadalin-as níya,</i> I couldn't help laughing
 when he slipped. <b>kataw-anay, kinataw-anay</b>
 <i>v</i> [C3] smile at each other. <b>hinga-</b> <i>a</i> @gay,
 easily aroused to laughter. <b>kataw-anan</b> <i>a</i>
-<pb n=2035>
 @funny. <b>kalataw-an</b> <i>n</i> @{laughing stock}. <b>kinataw-an</b>
 <i>n</i> manner of laughing. <b>kataw-unun</b> <i>a</i>
 feel like bursting into laughter. <b>mataw-ánun</b>
@@ -2397,9 +2387,8 @@ their chickens. <i>a</i> fond of calling on others.
 <b>panawagtawag</b> = <sc>PAMUTINGTING</sc>. <i>see</i> <sc>BUTINGTING</sc>.
 
 <p><b>tawak</b> <i>n</i> a k.o. black fungus @beetle that infests
-mung beans and stored cereals. <i>v</i> [A12; a4] 
-<pb n=2036>
-be infested with this sort of beetle.
+mung beans and stored cereals. <i>v</i> [A12; a4]
+<pb n=998>be infested with this sort of beetle.
 <b>-un</b> <i>a</i> beetle-infested beans or cereals.
 
 <p><b>tawal</b> <i>n</i> treatment in folk medicine consisting
@@ -2465,8 +2454,7 @@ sa ímung bulsa,</i> S.o. is likely to grab the
 watch chain that is dangling from your
 pocket.
 
-<p><b>tawngun</b> <i>n</i> k.o. @{thorny vine} of thickets, similar 
-<pb n=2037>
+<p><b>tawngun</b> <i>n</i> k.o. @{thorny vine} of thickets, similar
 to the bougainvillea but sharper, with
 small leaves in three lobes and small white
 flowers.
@@ -2528,8 +2516,7 @@ house to watch it. <b>tawutáwu</b> <i>n</i> @figurehead.
 a figurehead. <b>taw-an</b> <i>n</i> <b>1</b> not unoccupied.
 <i>Taw-an nang payága kay dúnay sugà,</i>
 That hut is not unoccupied because there's
-<pb n=2038>
-light. <b>2</b> inhabited by supernatural beings.
+<pb n=999>light. <b>2</b> inhabited by supernatural beings.
 <i>Magdiwáta sila sa káhuyng taw-an,</i> They'll
 offer offerings to the tree that is inhabited
 by spirits. <b>tawhánun</b> <i>a</i> @characteristic of humans,
@@ -2589,9 +2576,8 @@ have already moved to Mindanao. <b>tawuntáwun</b>
 <i>v</i> [A; b5] @transfer, go over from place
 to place. <i>Nagtawuntáwun lang ang mga manaygúnay
 sa kabalayan,</i> The carolers caroled
-from house to house. <i>Gitawuntawúnan</i>
-<pb n=2039>
-<i>(gitawuntáwun) sa bátà ug paráyig ang íyang
+from house to house. <i>Gitawuntawúnan
+(gitawuntáwun) sa bátà ug paráyig ang íyang
 máma ug pápa,</i> The child went back
 and forth between his mother and father
 asking for affection.
@@ -2657,9 +2643,8 @@ wave, be affected by a tidal wave.
 <p><b>taygir</b> <i>see</i> <b>URKID.</b>
 
 <p><b>tayhad</b> <i>a</i> having an erect posture with the abdomen
-thrust out. <i>Tayhad kaáyu siya nga</i>
-<pb n=2040>
-<i>nagtindug,</i> He is standing tall and straight. <i>v</i>
+thrust out. <i>Tayhad kaáyu siya nga
+<pb n=1000>nagtindug,</i> He is standing tall and straight. <i>v</i>
 [A] <b>1</b> stand erect. <b>2</b> stand around doing
 nothing when s.t. should be done. <i>Nagtayhad
 ka man lang dihà nga daghan mang buluhatun,</i>
@@ -2727,7 +2712,6 @@ typed.
 <p><b>tayipraytir</b> <i>n</i> typewriter.
 
 <p><b>taylan = BÍGÀ<sub>1</sub>.</b>
-<pb n=2041>
 
 <p><b>tayming</b> <i>n</i> <b>1</b> timing, the way s.t. is made to
 coincide with s.t. else. <b>2</b> timing in music,
@@ -2792,9 +2776,8 @@ kaníya,</i> Great fear shook him. <b>pa- = PAÚYUG.</b>
 arun kapadak-an ang karsáda,</i> This row of
 coconut trees will be cut down so the road
 can be widened. <b>2</b> length or span of s.t.
-<i>Nagkinahanglan pa ta ug usa ka táyun nga</i>
-<pb n=2042>
-<i>túbu,</i> We still need a length of water pipe. <i>v</i>
+<i>Nagkinahanglan pa ta ug usa ka táyun nga
+<pb n=1001>túbu,</i> We still need a length of water pipe. <i>v</i>
 [a12] put or arrange several things in rows.
 <i>Tayúna pagpamutang ang mga misitíra,</i> Put
 the flower pots in rows.
@@ -2861,8 +2844,7 @@ that, [so-and-so] happened despite everything.
 he passed the bar despite everything.
 <b>2b &mdash; mu kanà</b> I warned you, now see what
 happened. <i>Tíaw mu nà ug mipatúu ka pa,</i>
-I told you so. If you had only listened. (->)
-<pb n=2043>
+I told you so. If you had only listened. <b>(->)</b>
 <i>v</i> <b>1</b> [a4] be punished by the soul of a departed
 relative for engaging in merry-making
 activities too soon after the person's death.
@@ -2928,7 +2910,8 @@ The armpit is full of skin eruptions. <b>-un</b>
 <i>a</i> fruits affected with this rot.
 
 <p><b>tíbak<sub>2</sub></b> = <sc>TÍBIN</sc>.
-<pb n=2044>
+
+<pb n=1002>
 
 <p><b>tibaknul</b> = <sc>TIBAGNUL</sc>.
 
@@ -2997,7 +2980,6 @@ trunk to leave open marks.
 <p><b>tíbi<sub>1</sub></b> <i>n</i> @TV. <i>v</i> [A1] @{watch TV}.
 
 <p><b>tíbi<sub>2</sub></b> <i>n</i> TB. <i>v</i> [B126; a4] become, @{get TB}.
-<pb n=2045>
 <i>Makatíbi nang subrang kahágù,</i> Overwork
 causes @<sc>TB</sc>. <i>Matíbi ang ubung pinasagdan,</i> A
 cough may turn into <sc>TB</sc> if you let it go. <i>Gitíbi
@@ -3064,8 +3046,7 @@ cannot join that organization. <b>tinib-anay,
 tinib-ánay</b> <i>a</i> putting everything one has into
 it at once. <i>Tinib-anay tung ílang panamílit,</i>
 They poured all of their emotions into their
-<pb n=2046>
-farewell.
+<pb n=1003>farewell.
 
 <p><b>tibuagsà</b> (from <i>buagsà</i>) <i>v</i> [B246; b3] move
 rapidly in various directions, be @dispersed.
@@ -3133,7 +3114,6 @@ poured it into the liquid all at once. <i>Tibukula
 ang kan-un nga ímung ihátag sa bátà,</i>
 Form the food into a lump before you give
 it to the baby.
-<pb n=2047>
 
 <p><b>tibuk-ul</b> = <sc>TIBUGUL</sc>.
 
@@ -3147,7 +3127,7 @@ Pour kerosene over the ditch so that the
 wrigglers will die. <b>3</b> have @intercourse (humorous).
 <i>Magbagulbul ang asáwa ug dílì katiblan
 káda gabíi,</i> The wife complains if she
-doesn't have bit of sex every night. <b>-anan(<-), 
+doesn't have bit of sex every night. <b>-anan(<-),
 tiblanan</b> <i>n</i> <b>1</b> pouring vent or hole. <b>2</b> s.t.
 which needs to have liquids poured into it.
 <i>Ayaw sag dagkuti nang sugáa kay tibulánan
@@ -3198,9 +3178,8 @@ voice. <i>Máayu siyang mukanta kay tibuuk
 kaáyu siya ug tíngug,</i> He sings well because
 he has a very resonant voice. <i>v</i> [A; a2] make
 whole, in one piece. <i>Tibuk-a ning dyigsu
-pásul,</i> Put the jigsaw puzzle together. <i>Wà</i>
-<pb n=2048>
-<i>siya katibuk-ig báyad,</i> He hasn't been paid
+pásul,</i> Put the jigsaw puzzle together. <i>Wà
+<pb n=1004>siya katibuk-ig báyad,</i> He hasn't been paid
 @{in full}. <b>&mdash; ang hunàhúnà, hukum</b> <i>v</i> [B126]
 be resolved, decided. <i>Natibuuk ang ákung
 hunàhúnà nga magmadri (Natibuuk sa ákung
@@ -3269,7 +3248,6 @@ T-joint.
 <b>to</b> an action to form nouns which mean one
 who usually does [so-and-so]. <i>Siyay tiglampasu
 sa ámù,</i> He is the one who usually
-<pb n=2049>
 scrubs the floor in our house. <i>Irung tigkaun
 sa mga subra,</i> Dog that eats the leftovers.
 
@@ -3335,7 +3313,8 @@ magpakatigas,</i> A toughie will act like one.
 the sissy pretending to be tough.
 
 <p><b>tigasub, tigásub</b> = <sc>TIKASUB</sc>, <sc>TIKÁSUB</sc>.
-<pb n=2050>
+
+<pb n=1005>
 
 <p><b>tígaw<sub>1</sub></b> <i>v</i> [A; a1] @disturb, break up the quiet,
 serenity, or stillness of. <i>Ang butu mauy mitígaw
@@ -3408,7 +3387,6 @@ spp.</b></i> and <i><b>Scutengraulis spp.</b></i> <b>tigihun</b> =
 
 <p><b>tígì<sub>1</sub></b> <i>v</i> <b>1</b> [AC; a1c3] pit persons against each
 other to determine who is the best in s.t.
-<pb n=2051>
 <i>Ang prinsísay mutígì sa buut mangasáwa
 níya,</i> The princess will have the people that
 want to marry her vie with each other. <i>Magtígì
@@ -3474,7 +3452,8 @@ sakit,</i> She's wasting away with her sickness.
 
 <p><b>tig-l-</b> alternant prefix to <i>tig-r-</i>, but of more
 limited distribution.
-<pb n=2052>
+
+<pb n=1006>
 
 <p><b>tigma</b> = <sc>TINGBA</sc>. <i>see</i> <sc>TINGUB</sc>, <i>v1</i>.
 
@@ -3545,7 +3524,6 @@ team A sends out s.o. to catch him, and so
 forth. <i>v</i> [A13] play this game.
 
 <p><b>tigsù<sub>2</sub></b> <i>n</i> a k.o. @bird that looks like a chick
-<pb n=2053>
 and lives near rivers and wet places so that
 it is always wet.
 
@@ -3615,8 +3593,7 @@ should stretch your back after writing for
 a long time.
 
 <p><b>tihib</b> <i>v</i> [A; b] make a hole in s.t. round by
-<pb n=2054>
-chopping off part of the surface. <i>Tihibi (tibhi)
+<pb n=1007>chopping off part of the surface. <i>Tihibi (tibhi)
 ring lubing kuháag sabaw,</i> Punch a hole
 in this coconut to get the water.
 
@@ -3680,7 +3657,6 @@ káun,</i> We ate with our hands. <b>-an</b> <i>n</i> place at
 the foot: foot of mountain, bed, etc.
 
 <p><b>tíing</b> <i>v</i> <b>1</b> [AC2; b1] pour liquid out for
-<pb n=2055>
 drinking. <i>Nagtíing siyag tubà pára nákù,</i> He
 poured me a glass of palm toddy. <b>2</b> [C2; c3]
 share joy, pleasure with s.o. <i>Nagtíing sila
@@ -3750,8 +3726,7 @@ stirrup to get on the horse. <i>Katulu ra níya
 stairs in three steps. <i>n</i> act of @stepping. <b>-an(<-),
 -anan(<-), -l-an(<-)</b> <i>n</i> @step, @stirrup, place
 one gets a @foothold. <b>-in-an(<-)</b> <i>n</i> <b>1</b> first mass
-<pb n=2056>
-in a series of nine masses said at dawn for
+<pb n=1008>in a series of nine masses said at dawn for
 nine days before Christmas. <b>2</b> fine paid an
 older brother or sister by a younger brother
 or sister who marries ahead of him.
@@ -3820,7 +3795,6 @@ kamunggay nga íyang gitikbas,</i> The tree he
 slashed at was cut down. <i>n</i> action of slashing,
 hacking with a machete. <b>-ay(->), -in-ay(->)</b>
 <i>n</i> @{bolo duel}. <i>v</i> [A23] have a bolo duel.
-<pb n=2057>
 
 <p><b>tikbil</b> <i>v</i> [A; a12] @{stir up} a sensitive feeling.
 <i>Kadtung buháta mitikbil sa gitagúang kahiubus,</i>
@@ -3887,9 +3861,8 @@ violating s.t. <i>Tikítan ka,</i> You'll get a ticket.
 <b>paN-</b> <i>v</i> [A2] @{issue tickets}. <i>Ang kunduktur
 mauy maníkit, dì ang draybir,</i> The conductor
 issues the ticket, not the driver. <b>pa-</b> <i>v</i> [b4]
-hold an affair with admission. <i>Patikítan</i>
-<pb n=2058>
-<i>nátù ang dráma,</i> Let's charge admission for
+hold an affair with admission. <i>Patikítan
+<pb n=1009>nátù ang dráma,</i> Let's charge admission for
 the play. <b>maN-r-</b> <i>n</i> one who issues tickets.
 <b>-íra</b> <i>n</i> one in charge of the ticket counter.
 
@@ -3957,7 +3930,6 @@ the umbrella while it was wet? <i>Itiklup
 (tiklúpa) ang tanang libru,</i> Close all your
 books. <b>tikluptiklup</b> <i>n</i> @collapsible. <i>Tikluptiklup
 nga silya,</i> Folding chairs.
-<pb n=2059>
 
 <p><b>tikmìtikmì</b> <i>v</i> [A; b6] eat slowly, pecking at
 one's food. <i>Ngánung nagtikmìtikmì ka man?
@@ -4028,9 +4000,8 @@ I doubt that he'll ever reform.
 the penis. <b>2</b> uncircumcised.
 
 <p><b>tiktik<sub>3</sub></b> <i>v</i> <b>1</b> [A; c1] tap lightly on a hard surface,
-producing a sound of tick-tick. <i>Tiktíka 
-<pb n=2060>
-(itiktik) ang linung-ag nga itlug sa lamisa,</i>
+producing a sound of tick-tick. <i>Tiktíka
+<pb n=1010>(itiktik) ang linung-ag nga itlug sa lamisa,</i>
 Tap the hard-boiled egg gently on the table.
 <b>2</b> [AN; b6(1)] chip off rust. <i>Tayaun na gánì
 ang barku tiktikan dáyun sa mga tripulanti,</i>
@@ -4099,7 +4070,6 @@ vomiting. <i>Nagtikúkà siya dihang nabut-ukan
 sa túbig,</i> He coughed hard rapidly after he
 choked on the water. <b>hi-/ha-</b> <i>v</i> [B1256]
 @retch.
-<pb n=2061>
 
 <p><b>tikùkù</b> <i>v</i> <b>1</b> [A; c1] @{curl up} tight, be bent
 over. <i>Nagtikùkù siya paghigdà,</i> He lay down
@@ -4168,9 +4138,8 @@ to your waist when you harvest rice.
 mouth and no dorsal spine. <b>nawung ug
 &mdash;</b> having a snout that protrudes.
 
-<p><b>tikuskus</b> <i>v</i> [AB; c1] @{curl up} tightly, draw into 
-<pb n=2062>
-itself. <i>Nagtikuskus siya paghigdà,</i> She lay
+<p><b>tikuskus</b> <i>v</i> [AB; c1] @{curl up} tightly, draw into
+<pb n=1011>itself. <i>Nagtikuskus siya paghigdà,</i> She lay
 curled up in a tight ball. <i>Ínit mauy nakatikuskus
 (nakapatikuskus) sa dáhung tagak,</i>
 The heat made the fallen leaves curl up.
@@ -4236,7 +4205,6 @@ flat over haphazardly once or twice. <i>Tikyúpa
 (itikyup) lang ang banig arun dì kan-un
 ang humay sa manuk,</i> Fold the mat so that
 the chicken won't get at the rice on it.
-<pb n=2063>
 
 <p><b>tíla</b> <i>n</i> @cloth, @textile. <b>&mdash; mitalika</b> @{wire screen}
 of fine mesh. <i>v</i> [b6] screen s.t. with @{screening
@@ -4306,9 +4274,8 @@ the fence.
 <p><b>tilap, tílap</b> <i>v</i> [A; b] <b>1</b> @lick. <i>Makahílu nà bísag
 makatilap ka lang,</i> That's poisonous even if
 you only lick it. <i>Tilapi ímung wait,</i> Lick
-your lips. <b>2</b> @lap at, @cover (literary). <i>Gitilapan 
-<pb n=2064>
-ang bungtud sa sílaw,</i> The sun's rays
+your lips. <b>2</b> @lap at, @cover (literary). <i>Gitilapan
+<pb n=1012>ang bungtud sa sílaw,</i> The sun's rays
 are touching the hill now. <b>paN-</b> <i>v</i> [A; b6]
 @{lick the lips} in anticipation. <i>Nagpanilap siyang
 nagtan-aw nákù,</i> He was licking his
@@ -4379,7 +4346,6 @@ shrill due to some throat defect.
 <p><b>tílik</b> <i>v</i> [A; a12] spin coins for gambling. <i>Pusta
 úsà parabir nákù tilíkun ang usa ka dakù,</i>
 Put your bet first before I twirl the penny.
-<pb n=2065>
 <b>pa-</b> <i>n</i> a betting game twirling a coin, usually
 <b>the</b> big centavo piece, and the bettor chooses
 heads or tails. <i>v</i> [A] play a game of <i>patílik</i>.
@@ -4451,9 +4417,8 @@ was thrown to him.
 
 <p><b>tílub</b> <i>v</i> [B1256] be, become @deaf (said in
 scolding or in a mild curse). <i>Nagsinggit na
-man gánì ku unyà walà gihápun ka kadungug. 
-<pb n=2066>
-Unsa man? Natílub ka?</i> I shouted at
+man gánì ku unyà walà gihápun ka kadungug.
+<pb n=1013>Unsa man? Natílub ka?</i> I shouted at
 you, but you didn't hear me. What is the
 matter with you anyway? You deaf? <b>patilubtilub</b>
 <i>v</i> [A; b(1)] pretend to be deaf, @ignore.
@@ -4521,7 +4486,6 @@ sugilánun,</i> Envy is the theme of the story. <i>v</i>
 
 <p><b>tíma<sub>2</sub></b> <i>v</i> [A; b(1)] @plan, @intend to. <i>Nagtíma
 ming magpiknik ugmà,</i> We plan to have a
-<pb n=2067>
 picnic tomorrow. <i>Mau kini ang gitimáhan
 níla,</i> This is what they plan to do.
 
@@ -4584,9 +4548,8 @@ ug iksplikaran ka,</i> Don't change the topic
 of the conversation when a man proposes
 to you. <b>2</b> [A2; c] give an additional remark
 to supplement what has been said. <i>Nanglibak
-sila kanímu ug gitimángan sab dáyun sa</i>
-<pb n=2068>
-<i>ímung karibal,</i> They were talking against
+sila kanímu ug gitimángan sab dáyun sa
+<pb n=1014>ímung karibal,</i> They were talking against
 you and your rival quickly joined in with
 more information. <i>n</i> s.t. said in @digression.
 
@@ -4651,9 +4614,8 @@ higdaan,</i> He got up instantly from his bed.
 makabrík ug ang awtu mitimbálung sa pangpang,</i>
 He didn't get a chance to apply the
 brakes and the car fell headlong down the
-cliff. <i>Íya kung gitulud ug natimbálung ku sa</i>
-<pb n=2069>
-<i>túbig,</i> He pushed me and I fell headlong into
+cliff. <i>Íya kung gitulud ug natimbálung ku sa
+túbig,</i> He pushed me and I fell headlong into
 <b>the</b> water.
 
 <p><b>timbang</b> <i>v</i> <b>1</b> [A; a12] @weigh s.t. <i>Akuy mutimbang
@@ -4714,9 +4676,8 @@ seal on. <i>Nutaryuy nagtimbri íning apidábit,</i>
 A notary stamped this affidavit. <i>Magámit
 ning istáma kay wà timbríhi,</i> You can use
 this stamp because it doesn't have a postmark.
-<b>2</b> affix one's thumbmark. <i>Timbríhi</i>
-<pb n=2070>
-<i>ang ímung balúta,</i> Put your @thumbmark on
+<b>2</b> affix one's thumbmark. <i>Timbríhi
+<pb n=1015>ang ímung balúta,</i> Put your @thumbmark on
 your ballot. <i>n</i> @stamp affixed, @seal, @thumbmark.
 
 <p><b>timbri<sub>2</sub></b> <i>n</i> @pushbutton or the @bell or @buzzer
@@ -4782,7 +4743,6 @@ without appetite. <b>-an</b> <i>a</i> prone to be having
 no appetite, just picking at the food.
 
 <p><b>timik walà &mdash;</b> <i>v</i> [A3] keep completely @silent,
-<pb n=2071>
 @tight-lipped. <i>Wà lang siya magtimik dihang
 giimbistigar,</i> He didn't say a word when he
 was interrogated. <b>walay &mdash;</b> totally @silent.
@@ -4848,9 +4808,8 @@ size her up to see if she is worth marrying.
 
 <p><b>timplit</b> <i>n</i> @{registration plate} of vehicles.
 
-<p><b>timplíti</b> <i>n</i> k.o. small @pavilion built for especial 
-<pb n=2072>
-church services.
+<p><b>timplíti</b> <i>n</i> k.o. small @pavilion built for <corr sis=especial>special</corr>
+<pb n=1016>church services.
 
 <p><b>timplu</b> <i>n</i> @temple.
 
@@ -4918,7 +4877,6 @@ nang itimù (timuun) ring biskwit,</i> This
 biscuit is enough for a snack. <b>2</b> [A; c] put
 into one's mouth. <i>Arun dì masakpan gitimù
 nákù ang sigarilyu,</i> To avoid being caught, I
-<pb n=2073>
 stuffed the cigarette into my mouth. <b>timùtimù</b>
 <i>v</i> [A; c1] eat snacks casually between
 meals.
@@ -4988,9 +4946,7 @@ blood. <b>(->)</b> <i>n</i> @dye. <b>-an</b> <i>n</i> @{dyeing vat}.
 <p><b>tinabuylu</b> (from <i>buylu</i>) <i>n</i> the rapid @whirling
 motion of a body, as a propeller, motor,
 etc. <i>Ang tinabuylu sa pála sa barku,</i> The
-<pb n=2074>
-
-whirling motion of the propeller.
+<pb n=1017>whirling motion of the propeller.
 
 <p><b>tinái</b> (from <i>tái</i>) <i>n</i> @intestines. <b>&mdash; sa kawáyan</b> <i>n</i>
 the inner sides of bamboo, stripped off
@@ -5056,12 +5012,11 @@ sa bisiklíta,</i> He stepped hard on the
 bicycle. <i>Itindak ang tiil iniglanguy nímu,</i>
 @Kick your feet when you swim. <i>n</i> @kick. <b>-an,
 -anan</b> <i>n</i> @treadle, @pedal. <b>-in-</b> <i>n</i> two coconut
-<pb n=2075>
-<b>trees</b> planted right next to each other so
-<b>that</b> it looks as though one is kicking the
+trees planted right next to each other so
+that it looks as though one is kicking the
 other. Coconuts planted this way usually
 mark a boundary. <i>v</i> [c1] plant coconut
-<b>trees</b> in two's.
+trees in two's.
 
 <p><b>tindaw</b> <i>v</i> [A; a] visit a fish corral and find
 out if there is a catch.
@@ -5121,8 +5076,7 @@ in the groom's party so we have to do the
 work at the wedding party.
 
 <p><b>tinduk<sub>1</sub></b> <i>n</i> k.o. cooking @banana, a foot or
-<pb n=2076>
-more long, somewhat curved and about as
+<pb n=1018>more long, somewhat curved and about as
 big as a man's arm: <i><b>Musa paradisiaca var.
 magna</b></i>.
 
@@ -5188,8 +5142,7 @@ piercing. <i>Mitingag (natingag) sa íyang tutunlan
 ang bukug sa isdà,</i> The fish bone got
 snagged in his throat. <i>Nagtingag pa sa íyang
 bukubuku ang báraw,</i> The knife was still
-sticking on[**in?] his back. <i>Gitingag níya sa kalindaryu 
-<pb n=2077>
+sticking on[**in?] his back. <i>Gitingag níya sa kalindaryu
 ang dágum,</i> He ran a needle through
 the calendar. <b>2</b> [A12; a] knock a piece of
 the circle in the game of <i>taksì<sub>1</sub></i>. <b>3</b> [B126]
@@ -5251,9 +5204,8 @@ meals for the men who are plowing.
 run kay nanag-um,</i> It will probably rain because
 the clouds are gathering. <i>Ikaw tingáli
 ang nagsumbung, nu?</i> You're the one that
-told on me, weren't you? <i>Dílì tingáli mahímù 
-<pb n=2078>
-kay....</i> I don't think I can do it because....
+told on me, weren't you? <i>Dílì tingáli mahímù
+<pb n=1019>kay....</i> I don't think I can do it because....
 <b>paN-</b> <i>v</i> [A2] say 'perhaps' to signify
 uncertainty. <i>Dì ku manigúru. Maningáli
 lang ku,</i> I am not sure. Maybe I can. <b>Culu-</b>
@@ -5327,9 +5279,8 @@ You just cleaned part of the yard.
 <p><b>tingkag</b> = <sc>TANGKAG</sc>.
 
 <p><b>tingkagul, tingkágul</b> <i>v</i> [B6; b6] <b>1</b> make a
-loud banging noise. <i>Mitingkagul ang silyang</i>
-<pb n=2079>
-<i>giitsa sa alkúba,</i> The chair thrown to the
+loud banging noise. <i>Mitingkagul ang silyang
+giitsa sa alkúba,</i> The chair thrown to the
 attic made a heavy @thud. <b>2</b> be in @prison.
 <i>Ang pagkakiriwan mauy nakatingkagul (nakapatingkagul)
 níya sa prisuhan,</i> His thievery
@@ -5401,8 +5352,7 @@ lips back involuntarily in amusement.
 hardwood.
 
 <p><b>tingting</b> <i>v</i> <b>1</b> = <sc>TALINGTING</sc>. <b>2</b> [AC; b(1)]
-<pb n=2080>
-have @{sexual intercourse} (slang).
+<pb n=1020>have @{sexual intercourse} (slang).
 
 <p><b>tingub</b> <i>v</i> <b>1</b> [A; c1] do s.t. @{all at once}. <i>Tinguba
 (tingba, itingub) paglaba ang bulingun,</i>
@@ -5464,7 +5414,6 @@ dautan nímu,</i> I do not have wicked
 @intentions against you. <i>Ang mga tingúhà sa
 bayánì álang sa násud,</i> The hero's @aspirations
 for the country. <b>paN-</b> <i>v</i> <b>1</b> [A2; a12]
-<pb n=2081>
 give one's utmost in doing s.t. <i>Muasinsu ang
 táwung maningúhà,</i> He who strives hard will
 succeed. <i>Paninguháa nga mutáp ka sa tís,</i>
@@ -5536,8 +5485,7 @@ your legs. <i>Mau nang bukíra ang gitintálan ni
 Hisus,</i> Jesus was tempted on that mountain.
 <b>2</b> bother so as to @distract. <i>Gitintal siya
 maung nagkasáyup,</i> S.o. distracted him so
-<pb n=2082>
-he made errors. <i>n</i> @temptation. <b>maN-r-</b> <i>n</i>
+<pb n=1021>he made errors. <i>n</i> @temptation. <b>maN-r-</b> <i>n</i>
 @tempter, @temptress. <b>ma-un</b> <i>a</i> @enticing. <b>tintasiyun</b>
 <i>n</i> @temptation.
 
@@ -5611,7 +5559,6 @@ percent is a big enough tip to give.
 @{tip off}, give, get secret information. <i>Nakatíp
 ang písi báhin sa túlis,</i> The <sc>P.C.</sc> got a tip
 about the robbery.
-<pb n=2083>
 
 <p><b>típ<sub>3</sub></b> <i>v</i> [A; b] fasten with, apply adhesive
 @tape. <i>Típi ang dinugtungan sa wayir,</i> Tape
@@ -5675,9 +5622,8 @@ pleasures. <i>Inay idiritsu níyag hatud ang
 babáyi gitipas sa awáawng dapit,</i> Instead of
 taking the girl directly home, he took her
 off to a deserted place. <b>2</b> [A23] for a conversation
-to take a new tack. <i>Mitipas ang ílang 
-<pb n=2084>
-panagsulti ngadtus pulitika,</i> The[**Their?] conversation
+to take a new tack. <i>Mitipas ang ílang
+<pb n=1022>panagsulti ngadtus pulitika,</i> The[**Their?] conversation
 shifted to politics. <b>hi-/ha-</b> <i>v</i> [B1256]
 be caused to veer, deviate. <i>Nahitipas
 na nà sa maáyung pamatásan,</i> That is far
@@ -5745,7 +5691,6 @@ sa asyinda,</i> The land I bought was formerly
 @{part and parcel} of the hacienda.
 
 <p><b>tipíyu</b> <i>n</i> acronym for @{Truck Public Utility}, a
-<pb n=2085>
 group of vehicles classed for vehicular licensing
 purposes.
 
@@ -5813,8 +5758,7 @@ mark before you weigh s.t.
 
 <p><b>típù</b> v [A; ac] @{put together}. <i>Kinsay nagtípù
 sa mga tutbras? Bayag magkabaylu,</i> Who
-<pb n=2086>
-put the toothbrushes together? Suppose
+<pb n=1023>put the toothbrushes together? Suppose
 they get mixed up? <i>Tipúa ang tanang ináni
 únà bahína,</i> Put all the harvest together before
 apportioning it. <b>-an(<-)</b> <i>n</i> a crank-operated
@@ -5880,8 +5824,7 @@ niadtug kwartu,</i> We were roommates formerly.
 on rocks or mangrove trees. <b>-in-</b> <i>n</i> s.t. that
 has been put together. <i>Tinípung Bansa,</i> @{United
 States}. <i>Tinípung Kanasúran,</i> @{United
-Nations}. <b>ka-</b> <i>n</i> @housemate. <b>ka-an</b> <i>n</i> the <i>Katipúnan,</i> 
-<pb n=2087>
+Nations}. <b>ka-</b> <i>n</i> @housemate. <b>ka-an</b> <i>n</i> the <i>Katipúnan,</i>
 a secret revolutionary society
 which aimed at independence from Spain.
 <b>katipuníru</b> <i>n</i> a member of the <i>Katipúnan</i>. <i>v</i>
@@ -5946,8 +5889,7 @@ near the bridge. <b>2</b> @shot in a billiard game.
 <b>biyin &mdash;</b> good shot. <b>3</b> @attack, verbal or physical.
 <i>Kusug nga tirádang nakapalukápa níya,</i>
 A hard @blow that sent him reeling. <b>4</b> the
-<pb n=2088>
-way one tries to persuade or @approach s.o.
+<pb n=1024>way one tries to persuade or @approach s.o.
 (slang). <i>Sayup ímung tiráda hay imbis musugut,
 nasukù na hinúun,</i> Your @approach
 was wrong because instead of consenting
@@ -6013,7 +5955,6 @@ ang átung plánu, madátù giyud ta,</i> If our
 plans don't miscarry, we will surely be rich.
 <i>Ang dagkung swildu mauy nakatirbisíya
 (nakapatirbisíya) sa átung nigusyu,</i> Our
-<pb n=2089>
 business failed because we gave too big salaries.
 <b>2</b> [B126; b8] suffer a misfortune. <i>Natirbisíya
 siya ug karun lúgus na makabisti sa
@@ -6084,7 +6025,8 @@ trip has no fixed date. It depends on the
 weather. <i>v</i> [A; c] give a term, @name. <i>Unsay
 maáyung itirminu ánang sakíta?</i> What would
 be a good term for that disease?
-<pb n=2090>
+
+<pb n=1025>
 
 <p><b>tirmumitru</b> <i>n</i> @thermometer.
 
@@ -6161,7 +6103,6 @@ Tease my hair.
 <p><b>tís<sub>2</sub></b> <i>n</i> @test in school. <i>v</i> [A; a] have a test. <i>Ákù
 mung tísun báhin sa asayinmint,</i> I'll give
 you a test on the assignment.
-<pb n=2091>
 
 <p><b>tísà<sub>1</sub></b> <i>n</i> k.o. single-seeded @fruit, the size and
 shape of a small pear with bright yellow,
@@ -6240,8 +6181,7 @@ Testament}. <b>Dáang &mdash;</b> @{Old Testament}.
 <p><b>tist&acaron;r</b> <i>v</i> [A; c] @{make a will}. <i>Ang kamanghúrang
 anak mauy gitistahan sa karáang balay,</i>
 The ancestral home was bequeathed to the
-<pb n=2092>
-youngest son.
+<pb n=1026>youngest son.
 
 <p><b>tistígus</b> <i>n</i> @{witness in court}. <i>v</i> [A; c] act as a
 @witness in court. <i>Way mutistígus kay mahadluk
@@ -6313,7 +6253,6 @@ treasurer?
 
 <p><b>títa</b> = <sc>TÍTU</sc> (female). <b>titatíta</b> = <sc>KITAKÍTA</sc>,
 <i>2</i>, <i>v2</i>. <i>see</i>[**typo see italic?F1] <sc>KITA</sc>.
-<pb n=2093>
 
 <p><b>titanus</b> <i>n</i> @tetanus. v 1 [B126] for s.t. to become
 tetanus. <b>2</b> [a4] @{get tetanus}.
@@ -6385,9 +6324,8 @@ c12] call s.o. títu.
 
 <p><b>tituláda</b> = <sc>TITULÁDU</sc> (female).
 
-<p><b>tituládu</b> <i>n</i> one who has a @degree. <i>Dílì ka makasulud 
-<pb n=2094>
-ug trabáhu ug dì ka tituládu,</i> You
+<p><b>tituládu</b> <i>n</i> one who has a @degree. <i>Dílì ka makasulud
+<pb n=1027>ug trabáhu ug dì ka tituládu,</i> You
 can't get a job if you don't have a degree. <b>2</b>
 land having a Torrens Title. <i>v</i> [B1256] have
 a degree.
@@ -6452,9 +6390,8 @@ He broke his neck when he fell headfirst.
 work without lifting the head. <i>Dì nà siya
 mutiúruk sa búhat,</i> He is not conscientious
 in his work. <b>hi-/ha-</b> <i>v</i> [B126] be caused to
-bow one's head. <i>Nahitiúruk siya sa dihang</i>
-<pb n=2095>
-<i>nauláwan siyag maáyu,</i> He bowed his head
+bow one's head. <i>Nahitiúruk siya sa dihang
+nauláwan siyag maáyu,</i> He bowed his head
 in shame.
 
 <p><b>tiúrus</b> <i>v</i> [B46; a] <b>1</b> continue @{going on}, speed
@@ -6521,8 +6458,7 @@ auntie as a sign of respect.
 <p><b>tiyan</b>, <b>tíyan</b> <i>n</i> <b>1</b> @stomach. <b>2</b> @pregnancy. <i>Pila
 na ka búlan ang ímung tiyan?</i> How many
 months along are you (lit. is your stomach)?
-<pb n=2096>
-(->) <i>v</i> [a12] hit in the @stomach. <i>Gitiyan nákù
+<pb n=1028><b>(->)</b> <i>v</i> [a12] hit in the @stomach. <i>Gitiyan nákù
 siyag sumbag,</i> I hit him in the stomach.
 <b>-un(<-)</b> <i>a</i> having prominent stomach.
 
@@ -6586,7 +6522,6 @@ wind. <b>2</b> [AN; c] place a private bet against
 a member of the crowd in the cockpit. <i>Itrabisíya
 únà ang kwarta arun mutúbù,</i> First
 bet the money around among the onlookers
-<pb n=2097>
 so it will grow. <b>3</b> [A13; c1] lie diagonally
 across s.t. <i>Kun magtrabisíya kita paghigdà
 masulud kitang tanan niíning katri,</i> If we lie
@@ -6658,8 +6593,7 @@ the window, because a robber might come.
 <b>2</b> [AN2] bolt oneself in a room, house, etc.
 <i>Nasukù siya maung nanrangka (nanarangka,
 nagtrangka) sa kwartu,</i> She was angry and
-<pb n=2098>
-bolted herself in the room. <i>n</i> bolt or crossbar.
+<pb n=1029>bolted herself in the room. <i>n</i> bolt or crossbar.
 <b>trangkahan</b> <i>n</i> gate or door fastened with
 a bolt. <i>Giúyug sa prísu ang trangkahan,</i> The
 prisoner shook the gate. <b>-du</b> <i>a</i> @locked.[+]
@@ -6730,9 +6664,8 @@ with tarpaulin when it rained.
 <p><b>trápik</b> <i>n</i> <b>1</b> @traffic. <b>2</b> street intersection with
 a traffic light in it. <b>3</b> policeman directing
 traffic. <b>4</b> <b>way &mdash;</b> lacking manners. <i>Wà kay
-trápik. Mulatas ka man sa taliwálà sa mga</i>
-<pb n=2099>
-<i>táwung nagsultihánay,</i> You have no manners.
+trápik. Mulatas ka man sa taliwálà sa mga
+táwung nagsultihánay,</i> You have no manners.
 You pass between people talking. <i>a</i>
 heavy traffic. <i>Trápik kaáyu ug alas dúsi,</i> The
 traffic is heavy at twelve o'clock. <i>v</i> <b>1</b> [A;
@@ -6797,8 +6730,7 @@ arrived.
 
 <p><b>tratar</b> <i>v</i> [A; a12] <b>1</b> treat, bear oneself toward.
 <i>Maáyung mutratar kaníla ang ílang inaína,</i>
-<pb n=2100>
-Their stepmother treats them well. <b>2</b> @{attend
+<pb n=1030>Their stepmother treats them well. <b>2</b> @{attend
 to} s.t. <i>Mitratar dáyun ang mayur sa prublíma
 sa mga iskwátir,</i> The mayor immediately
 attended to the problem of the squatters.
@@ -6866,7 +6798,6 @@ the enemy's promises.
 <p><b>traysikul</b> <i>n</i> @tricycle, @pedicab. <i>v</i> <b>1</b> [A1; a1c]
 ride, bring on a pedicab. <b>2</b> [A; a] make into
 a pedicab.
-<pb n=2101>
 
 <p><b>tráyu</b> = <sc>TRÍYU<sub>1</sub></sc>.
 
@@ -6942,8 +6873,7 @@ day made by scheduled transportation. <b>las
 &mdash;</b> <i>n</i> funeral cortege to the cemetery (humorous).
 
 <p><b>tripilya</b>, <i>tripilyas</i> <i>n</i> the small @intestines of a
-<pb n=2102>
-pig.
+<pb n=1031>pig.
 
 <p><b>triplikádu</b> <i>n</i> @triplicate. <i>v</i> [B126] be made in
 triplicate.
@@ -7006,7 +6936,6 @@ or two years old, and three nights for infants.
 = <sc>*TIRTIN KARDS</sc>. <b>&mdash; klásis</b> <i>n</i> k.o. @{Chinese
 medicine}, a drink made of thirteen
 kinds of herbs or barks, commonly taken
-<pb n=2103>
 during pregnancy for ease in delivery.
 
 <p><b>tri síkans</b> <i>n</i> in basketball, the violation of
@@ -7078,8 +7007,7 @@ contradict each other. <i>Namakak ka kay nagkatrúkis
 ang ímung katarúngan,</i> You are lying
 because your reasoning is self-contradictory.
 <i>n</i> <b>1</b> being in a @crossed position.
-<pb n=2104>
-<i>Trúkis kanang duha ka lubi,</i> Those two coconut
+<pb n=1032><i>Trúkis kanang duha ka lubi,</i> Those two coconut
 <b>trees</b> are growing so that they form
 an <sc>X</sc> relative to each other. <b>2</b> @argument.
 <i>Walay kahusayun ang inyung trúkis,</i> There's
@@ -7158,8 +7086,7 @@ tím,</i> Our team became the champion.
 
 <p><b>tsampuy</b> <i>n</i> = <sc>KYAMUY</sc>.
 
-<p><b>tsáns</b> <i>n</i> <b>1</b> @chance, @possibility for s.t. to happen. 
-<pb n=2105>
+<p><b>tsáns</b> <i>n</i> <b>1</b> @chance, @possibility for s.t. to happen.
 <i>May tsáns kahang mabúhì siya,</i> Is there
 a chance that she will live? <b>2</b> @chance, @opportunity.
 <i>Mangupya ang istudiyanti kun
@@ -7228,8 +7155,7 @@ to the charming girl.
 
 <p><b>tsarul</b> <i>n</i> <b>1</b> @{patent leather}. <b>1a</b> patent leather
 shoes. <b>2</b> @{spit shine}. <i>v</i> <b>1</b> [A; b6] wear, use
-<pb n=2106>
-patent leather. <b>2</b> [A; a1] give a spit shine.
+<pb n=1033>patent leather. <b>2</b> [A; a1] give a spit shine.
 
 <p><b>tsatsa</b> <i>n</i> @{cha-cha-cha}. <i>v</i> <b>1</b> [A; b6] @dance[**to find it searching dance] the
 cha-cha-cha. <b>2</b> [A; c1] play, dance in cha-cha-cha
@@ -7300,8 +7226,7 @@ We check out at five o'clock.
 
 <p><b>tsíki</b> <i>n</i> @check. <i>Kás, dílì tsíki ang ámung dawátun,</i>
 We accept only cash, no checks. <i>v</i>
-[A1; b(1)] issue a check. <i>Kinsa may nagtsíki 
-<pb n=2107>
+[A1; b(1)] issue a check. <i>Kinsa may nagtsíki
 nímu nga miuntul?</i> Who issued you a
 bouncing check?
 
@@ -7378,9 +7303,8 @@ violation.
 
 <p><b>tsinílas</b> = <sc>SINÍLAS</sc>.
 
-<p><b>tsíning</b> <i>v</i> [A; b6(1)] @chin oneself. <i>Managkù</i>
-<pb n=2108>
-<i>átung buktun ug magtsíning ta,</i> Your arms
+<p><b>tsíning</b> <i>v</i> [A; b6(1)] @chin oneself. <i>Managkù
+<pb n=1034>átung buktun ug magtsíning ta,</i> Your arms
 will grow large if you chin yourself. <i>n</i> @chinning
 exercise. <b>&mdash; bar</b> <i>n</i> @{chinning bar}.
 
@@ -7457,7 +7381,6 @@ see}. They are close because they are sweethearts.
 sound of an arrow piercing an object.
 
 <p><b>tsuk</b> word used in writing to represent the
-<pb n=2109>
 sound of s.t. darting and piercing into s.t.
 like an arrow.
 
@@ -7539,7 +7462,8 @@ laughter when he told them s.t. funny.
 <p><b>túab</b> <i>n</i> @neckhole or @armholes in a dress. v
 [A; b6(1)] cut the neckhole or armhole of
 a garment.
-<pb n=2110>
+
+<pb n=1035>
 
 <p><b>tuagsik</b> = <sc>TUÁSIK</sc>.
 
@@ -7608,7 +7532,6 @@ shrub, the leaves of which are used as a
 poultice and the seeds of which produce oil
 for soap: <b><i>Jatropha curcas</i></b>. <b>tubatubang murádu</b>
 <i>n</i> k.o. <i>tubatuba</i> with reddish leaves:
-<pb n=2111>
 <i><b>Jatropha gossypifolia</b></i>.
 
 <p><b>tubà<sub>1</sub></b> <i>n</i> fermented and processed toddy from
@@ -7669,9 +7592,8 @@ agreement, etc. given in answer. <i>'Náa
 ka na diay?' tubag tuksù ni Kulasing,</i> 'Are
 you really there now?' asked Kulasing in
 answer. <b>paN-</b> <i>v</i> [A2; c6] @answer questions.
-<i>Pasar siya sa intirbiyu kay maáyu siyang</i>
-<pb n=2112>
-<i>manubag,</i> She passed the interview because
+<i>Pasar siya sa intirbiyu kay maáyu siyang
+<pb n=1036>manubag,</i> She passed the interview because
 she answered the questions well. <i>Unsay ákung
 ipanubag ug imbistigarun ku?</i> What
 shall I answer if I am investigated? <b>tubagtubag</b>
@@ -7733,8 +7655,7 @@ One who sticks to a piece of work.
 <p><b>túbig</b> <i>n</i> <b>1</b> @water. <b>buyag sa &mdash;</b> <i>see</i> <sc>BUYAG</sc>, <i>n2</i>.
 <b>&mdash; sa butung</b> water in the young coconut.
 <i>Túbig sa butung ang ákung gustung imnun,</i>
-I want to drink water of the young coconut. 
-<pb n=2113>
+I want to drink water of the young coconut.
 <b>2</b> score in a game of <i>tubigtúbig</i>. <i>v</i> <b>1</b> [B2]
 become water. <i>Natúbig ang ayis drap,</i>
 The popsicle @melted. <b>2</b> <b>&mdash; sa úlu</b> [a12]
@@ -7794,9 +7715,8 @@ He @{talked back}, so I pinched him. <b>ma-un,
 túbig ang súkà,</i> I diluted vinegar with
 water. <b>1a</b> [A12] for a food ingredient added
 as a seasoning or sweetening to be well
-diffused. <i>Dílì makatublag ang diyútayng asúkar 
-<pb n=2114>
-sa usa ka tásang kapi,</i> A little sugar
+diffused. <i>Dílì makatublag ang diyútayng asúkar
+<pb n=1037>sa usa ka tásang kapi,</i> A little sugar
 cannot sweeten a cup of coffee. <b>2</b> [B126; c5]
 for everybody to get some of s.t., usually
 food. <i>Dílì makatublag sa tanan ug maglútù
@@ -7861,7 +7781,6 @@ lamp chimney is covered with soot. <b>hínis sa
 &mdash;</b> see <sc>HÍNIS</sc>.
 
 <p><b>túbù<sub>1</sub></b> <i>v</i> [A2S; b17] <b>1</b> @grow, @{become larger}.
-<pb n=2115>
 <i>Mutaas pa siya kay nagtubù pa,</i> She will
 @grow taller because she is still growing. <i>Dus
 pulgádas ang ákung gitubúan,</i> I grew two
@@ -7922,7 +7841,8 @@ kalúuy,</i> All-merciful (lit. giver of all mercy)
 God. <b>tinubdan</b> <i>n</i> @source, @origin. <i>Tinubdan
 sa sapà,</i> The brook's source. <i>Tinubdan sa
 balità,</i> Source of news.
-<pb n=2116>
+
+<pb n=1038>
 
 <p><b>tubug</b> <i>n</i> k.o. medium-sized @tree having small,
 round, green, inedible fruits in bunches
@@ -7989,8 +7909,7 @@ mangasábà,</i> He scolds very severely. <i>v</i>
 lakaw,</i> Don't walk too fast. <b>2</b> [A; b5]
 do s.t. with much force. <i>Tudáhag (tudáhig)
 lísù ang takub,</i> Turn the cap with a good
-deal of force. <b>pa-</b> <i>v</i> [A; b(1)] @{drive fast}. <i>Gipatudáhan 
-<pb n=2117>
+deal of force. <b>pa-</b> <i>v</i> [A; b(1)] @{drive fast}. <i>Gipatudáhan
 sa kapitan ang dágan sa yáti,</i> The
 captain made the yacht go fast.
 
@@ -8055,8 +7974,7 @@ tabákù</b> = <sc>PALIYU</sc>.
 
 <p><b>tudlù</b> <i>v</i> <b>1</b> [A; a1] point at, out. <i>Kun mutudlù
 si Sír nímu sulayi lag tubag,</i> If the teacher
-<pb n=2118>
-calls on you just try to answer. <i>Tudlúa ang
+<pb n=1039>calls on you just try to answer. <i>Tudlúa ang
 sinumbung,</i> @{Point out} the one who did it. <b>2</b>
 [A; c6] @point, give @directions. <i>Kinsay gatudlù
 nímung nía ku magpuyù?</i> Who told
@@ -8125,7 +8043,6 @@ ku na tu sa sápang,</i> That shark must
 be weak by now because I have pierced it
 with my spear. <i>n</i> prick in a piercing action
 with s.t. pointed.
-<pb n=2119>
 
 <p><b>*tuga</b> <b>pa-</b> <i>v</i> [A] dare do s.t. in unreasonable
 disregard of one's capacity to do it.
@@ -8195,9 +8112,8 @@ darn it at once. <b>2</b> [B126] lose one's virginity.
 
 <p><b>tug-an</b> <i>v</i> [A; c] <b>1</b> @reveal, report s.t. revealing.
 <i>Mitug-an ang sinumbung sa íyang saláud,</i>
-The accused confessed his crime. <i>Tug-áni ku</i>
-<pb n=2120>
-<i>sa ímung sikrítu,</i> Tell me your secret. <i>Itug-an
+The accused confessed his crime. <i>Tug-áni ku
+<pb n=1040>sa ímung sikrítu,</i> Tell me your secret. <i>Itug-an
 <b>tikawng</b> Tátay nga ímu kung gisumbag,</i>
 I'll report you to Father that you hit me. <b>2</b>
 @confess. <i>Ug dílì ka mutug-an, kastigúhun ka,</i>
@@ -8262,7 +8178,6 @@ is the punishment @appropriate for murder.
 púlung sa 'layù', 'duul',</i> The antonym of
 'far' is 'near'. <b>ka-</b> <i>n</i> @analogous, @counterpart.
 <i>Ang inbiay tugbang sa ipbiay sa istíts,</i> The
-<pb n=2121>
 <sc>NBI</sc> is the counterpart of the <sc>FBI</sc> in the
 States.
 
@@ -8327,9 +8242,8 @@ he jumped.
 pierce or thrust into, not necessarily sticking.
 <i>Natugduk ang tumuy sa bangkaw sa bukubuku
 sa túru,</i> The end of the spear pierced
-the back of the bull. <i>Hingtugdukan ang</i>
-<pb n=2122>
-<i>ákung tiil sa tumuy sa kutsilyu,</i> The knife
+the back of the bull. <i>Hingtugdukan ang
+<pb n=1041>ákung tiil sa tumuy sa kutsilyu,</i> The knife
 hit my foot when it fell.
 
 <p><b>tugdun</b> <i>v</i> [A; c] @alight, @{set down} from the
@@ -8395,7 +8309,6 @@ ang sumbíngay sa páras,</i> It is hard to @understand
 the meaning of the Parable of the
 Vine. <b>tugkaran</b> <i>n</i> <b>1</b> @yard of a house. <b>2</b> foot
 of a hill. <b>tulugkárun</b> <i>n</i> s.t. that takes deep
-<pb n=2123>
 understanding.
 
 <p><b>tugkalan</b> = <sc>TUGKARAN</sc>, <i>1</i>. <i>see</i> <sc>TUGKAD</sc>.
@@ -8464,7 +8377,8 @@ pairing them off. <i>Ug akuy mutugpù, magkadáyun
 giyud pagkaminyù,</i> If I tease people
 by pairing them off in marriage, they
 end up getting married.
-<pb n=2124>
+
+<pb n=1042>
 
 <p><b>tugsad</b> <i>v</i> [A2; b6] hit, reach the ground from
 an elevated position. <i>Milayat siya ug didtu
@@ -8531,7 +8445,6 @@ to buy some salt when he goes to town. <i>Unsay
 What do you want me to do for you when
 I go to Manila? <i>n</i> <b>1</b> word of instruction to
 do or get s.t. <b>2</b> final message of a dying man.
-<pb n=2125>
 <b>Bag-ung &mdash;</b> @{New Testament}. <b>Dáang &mdash;</b> @{Old
 Testament}. <b>paN-</b> <i>v</i> <b>1</b> [A2S; b6] ask s.o. to
 get and bring s.t. back. <i>Nagpanugun tus Búbuy
@@ -8595,8 +8508,7 @@ buktun,</i> A dress like a sack with pieces
 snipped off for armholes. <b>3</b> [A23; a12] affect
 s.t. as though diminishing it. <i>Sígas plaslayit
 nga mitúhab sa kangitngit,</i> A flashlight
-<pb n=2126>
-beam that pierced the darkness. <i>n</i> <b>1</b> large
+<pb n=1043>beam that pierced the darkness. <i>n</i> <b>1</b> large
 hole left, large portion removed. <b>2</b> large
 opening in a dress. <b>(->)</b> <i>n</i> a woman who is
 no longer a virgin (humorous). <b>-in-an</b> <i>n</i> place
@@ -8613,7 +8525,6 @@ with a pecking-like motion. <i>Mituhak ang
 dakung sawa,</i> The big snake struck. <i>n</i> feed
 of chickens, fowls or birds. <b>kakha &mdash;</b> <i>see</i>
 <sc>KAKHA</sc>. <b>-l-an(->)</b> <i>n</i> dish for feeding chickens.
-
 
 <p><b>tuhaw</b> <i>v</i> [B23(1)6] <b>1</b> spring forth unexpectedly,
 appear suddenly, @{pop up}. <i>Mituhaw
@@ -8660,9 +8571,8 @@ that have holes pecked in them. <b>maN-</b> <i>n</i> k.o.
 portion of s.t. so as to move it. <i>Ayaw punáyig
 tuhil ang itlug sa irù kay mapaakan
 ka,</i> Don't keep poking the dog's testicles.
-He might bite you. <i>Mataktak ang búwak</i>
-<pb n=2127>
-<i>bísag ígù lang tuhilun,</i> The flowers will fall
+He might bite you. <i>Mataktak ang búwak
+bísag ígù lang tuhilun,</i> The flowers will fall
 off even if you just touch them lightly. <i>n</i>
 s.t. used to poke.
 
@@ -8725,8 +8635,7 @@ out in turns[**, ?] rubber bands buried in the
 sand. <b>-an(->)</b> = <sc>TUHUGTÚHUG</sc>.
 
 <p><b>tuhuktuhuk</b> <i>v</i> [B456; b6] have tiny marks
-<pb n=2128>
-(like pin marks) all over. <i>Tawumtum nang
+<pb n=1044>(like pin marks) all over. <i>Tawumtum nang
 nagtuhuktuhuk sa panaptun,</i> That is mildew
 <b>that</b> has made tiny spots on the cloth. <i>Gituhuktuhukan
 ang íyang náwung sa úwat sa
@@ -8788,7 +8697,6 @@ nang librúha, dílì man madaug ug bátà,</i> That
 sure is a big book. A child couldn't lift it.
 <b>paN-un</b> <i>n</i> @age. <b>may &mdash;</b> <b>1</b> be old enough to do
 s.t. <i>May panuígun na si Lítang muiskuyla,</i>
-<pb n=2129>
 Lita is old enough now to go to school. <b>2</b>
 be no longer young. <i>May panuígun na siya
 pagkaminyù,</i> She was well along in years
@@ -8856,8 +8764,7 @@ running so much.
 <p><b>tukad</b> <i>v</i> [A; a2c] @go, bring up to the mountain,
 or country from town. <i>Mutukad ku
 karung tingsanggì,</i> I'll go to the country this
-<pb n=2130>
-coming harvest. <i>Butung ray ákung tukarun,</i>
+<pb n=1045>coming harvest. <i>Butung ray ákung tukarun,</i>
 I'm going to the country just to get young
 coconuts. <i>Itukad ring abúnu,</i> Bring this fertilizer
 to the country.
@@ -8923,7 +8830,6 @@ ang púnu,</i> Turn on the phonograph.
 <p><b>tukarul</b> = <sc>TINGKARUL</sc>, <i>4</i>.
 
 <p><b>tukas</b> = <sc>TUKLAS</sc>.
-<pb n=2131>
 
 <p><b>tukaw<sub>1</sub></b> <i>v</i> [A; b(1)] @{stay awake} at night doing
 s.t., keep @vigil. <i>Magtukaw ku karung gabíi
@@ -8990,9 +8896,8 @@ káhuy,</i> This is the place where I cut the
 stumps of the small tree down.
 
 <p><b>tukdug</b> <i>v</i> [BN46] for s.t. to stand out straight
-and bare. <i>Mitukdug (nanukdug) ang mga</i>
-<pb n=2132>
-<i>mais human hugpái sa dúlun,</i> The corn
+and bare. <i>Mitukdug (nanukdug) ang mga
+<pb n=1046>mais human hugpái sa dúlun,</i> The corn
 plants stood straight and bare after a swarm
 of locusts settled on them. <i>n</i> ribs of umbrella.
 
@@ -9057,7 +8962,6 @@ any talkies in Grandpa's day.
 <p><b>tuklang</b> <i>v</i> [A; b5] <b>1</b> put a piece of wood s.w.
 to inhibit motion, either by propping s.t.
 under it and keeping it from falling or by
-<pb n=2133>
 laying it in the way and stopping it from
 proceeding. <i>Tuklángun (tuklángan) ang takup
 sa dúlung arun dílì musira,</i> @{Prop up} the
@@ -9122,7 +9026,8 @@ grains. <i>Tukung na kaáyu ang humay nga wà
 maáni dáyun,</i> The rice in the fields is bent
 over now because it was not harvested right
 away. <i>v</i> [B12; b6] get grains that are overripe.
-<pb n=2134>
+
+<pb n=1047>
 
 <p><b>tuklus</b> <i>v</i> <b>1</b> [A; c] hand s.t. to s.o. <i>Ituklus ang
 suwat,</i> @{Hand over} the letter. <b>2</b> [b5] = <sc>PAN-</sc>.
@@ -9185,7 +9090,6 @@ goaded him to rape. <b>-in-</b> <i>n</i> @spurred, @urged.
 <i>Tinukmud sa tingúhang mulampus nanlimbásug
 siya,</i> He strove hard under the goad
 of the drive to succeed.
-<pb n=2135>
 
 <p><b>tuknul</b> <i>v</i> [A; c] @hand s.t. to s.o. <i>Dawáta ug
 dúnay kwarta nga ituknul sa lídir,</i> Accept it
@@ -9249,8 +9153,7 @@ before you go in. <b>2</b> @{peck at} repeatedly. <i>Gituktuk
 sa sunuy ang íyang higut,</i> The cock
 @pecked at its tether. <i>n</i> <b>1</b> @knocking. <b>2</b> feed
 for chickens. <b>pa-</b> <i>v</i> [A; ac] feed grains to.
-<pb n=2136>
-<i>Patuktuka ang sunuy ug tibuuk mais,</i> Feed
+<pb n=1048><i>Patuktuka ang sunuy ug tibuuk mais,</i> Feed
 whole kernels to the cock. <i>Tipasì lay ipatuktuk
 sa himungáan,</i> Feed unhusked rice
 to the hen.
@@ -9314,7 +9217,6 @@ against the wall. Then stand on one leg. <b>2</b>
 [A; c1] @erect a house, building. <i>Anhi tukúra
 (itúkud) ang munisipyu,</i> The municipal
 hall will be erected here. <b>3</b> [A; a] form,
-<pb n=2137>
 @found an organization, establishment. <i>Kinsay
 nagtúkud sa Siliman?</i> Who founded Silliman
 University? <i>Gitúkud ang buluntaryu
@@ -9379,9 +9281,8 @@ about going with you on the picnic.
 <p><b>tukun</b> <i>v</i> [A; a] <b>1</b> @{prop up}. <i>Tukna ang ságing
 kay harag na kaáyu,</i> @Prop the banana tree
 up because it is leaning way over. <b>2</b> propel
-oneself by pushing on a pole. <i>Nagtukun mi</i>
-<pb n=2138>
-<i>sa baybay kay nabálì ang bugsay,</i> We poled
+oneself by pushing on a pole. <i>Nagtukun mi
+<pb n=1049>sa baybay kay nabálì ang bugsay,</i> We poled
 ourselves toward the shore because the paddle
 broke. <i>Tukna ang dágat kun lawum ba,</i>
 Put the pole to the floor of the sea to see if
@@ -9452,7 +9353,6 @@ ang irù ug karni,</i> They fed meat to the dog.
 
 <p><b>tulábung</b> <i>n</i> a small, white @heron often found
 perching on the backs of water buffaloes,
-<pb n=2139>
 eating insects.
 
 <p><b>túlag</b> <i>v</i> [B14; a12] be in a @disorderly, topsy-turvy
@@ -9525,8 +9425,7 @@ ka na bag bilyar?</i> Have you tried your
 hand at (lit. poked at) billiards? <i>Tulbúka
 ang timbri,</i> @Push the doorbell. <b>2</b> [A; b] put
 a period or dot. <i>Tulbúki nang ímung ay,</i>
-<pb n=2140>
-Put a dot over your letter I. <i>n</i> @period or @dot.
+<pb n=1050>Put a dot over your letter I. <i>n</i> @period or @dot.
 <i>Náay gagmay nga tulbuk ang ímung nawung,</i>
 There are small @spots on your face.
 
@@ -9591,8 +9490,7 @@ stop whirling is reeling unsteadily. <b>-ay(->)</b> =
 <sc>TULÍLIK</sc>.
 
 <p><b>tulimbang</b> <i>v</i> [AB56; c] for bells to @toll, @peal,
-<pb n=2141>
-<b>toll</b> bells. <i>Ang kampaníru mauy mutulimbang
+toll bells. <i>Ang kampaníru mauy mutulimbang
 sa kampána,</i> The sexton will toll the
 bell. <i>Human nag mísa kay nagtulimbang nag
 kampána,</i> The mass is over because the bells
@@ -9655,8 +9553,7 @@ handle of the scissors is twisted.
 <p><b>tulipsay<sub>1</sub></b> <i>v</i> [A2; b8] for s.t. thrown or that
 flies away to swerve off its path. <i>Ang batung
 lapad mutulipsay ug ibunù,</i> If s.o.
-<pb n=2142>
-<b>throws</b> a flat stone it will go in a curve. <i>Hitulipsayan
+<pb n=1051>throws a flat stone it will go in a curve. <i>Hitulipsayan
 siya sa káhuy nga ákung gibughà,</i>
 A piece of the wood that I split flew off
 and swerved onto him.
@@ -9722,7 +9619,6 @@ ember off from the firebrand onto the
 pieces of paper.
 
 <p><b>tultul</b> <i>v</i> <b>1</b> [A; b(1)] @tell, @{lead the way} s.w.
-<pb n=2143>
 <i>Kinsay gatultul nímu sa ámung hayd-áwut?</i>
 Who @led you to our hideout? <b>2</b> [A12; b8]
 find one's way s.w. <i>Pangutána lang kun dì
@@ -9783,9 +9679,8 @@ work, blame onto one another. <i>Nagtuludtúlud
 lang sila dihang gipangutána kinsay
 nakasalà,</i> They just kept passing the blame
 onto each other when I asked them who
-the culprit was. <i>Ayawg ituludtúlud ang trabáhu,</i> 
-<pb n=2144>
-Don't keep trying to pawn off the
+the culprit was. <i>Ayawg ituludtúlud ang trabáhu,</i>
+<pb n=1052>Don't keep trying to pawn off the
 work on each other. <b>&mdash; bátang</b> <i>n</i> the period
 from August to October when the wind direction
 is not fixed (the time when a log
@@ -9842,9 +9737,8 @@ sleeping there since my arrival. <b>ka-un(->),
 katulgun</b> <i>a</i> @sleepy. <i>Katúgun (katulgun) kaáyu
 ku,</i> I'm very sleepy. <b>hinga-un(->), hingatulgun,
 ma-(->), ma-un</b> <i>a</i> fond of sleeping,
-always sleeping. <i>Ang táwung matulúgun</i>
-<pb n=2145>
-<i>way kaugmáun,</i> A person who is always
+always sleeping. <i>Ang táwung matulúgun
+way kaugmáun,</i> A person who is always
 sleeping has no future.
 
 <p><b>tulugtulug</b> <i>n</i> a k.o. bush bearing clusters of
@@ -9913,8 +9807,7 @@ lice. <b>hiN-</b> <i>v</i> [AN; b6(1)] remove body lice.
 <p><b>túmà</b> <i>n</i> drinking of alcohol (slang). <i>v</i> [AC; a2]
 drink alcohol. <i>Hubug man, nakatúmà sigúru,</i>
 You're drunk. You must have come
-<pb n=2146>
-from a drinking spree.
+<pb n=1053>from a drinking spree.
 
 <p><b>túman<sub>1</sub></b> <i>v</i> [A; a12] <b>1</b> @obey. <i>Matag lungsuránun
 kinahanglang mutúman sa baláud,</i> Each
@@ -9977,9 +9870,8 @@ known. <i>Mutumaw giyud ang matúud,</i> The
 truth always comes out. <i>Ug dì ka makatumaw
 sa inyung kásu, prisúhun ka giyud,</i> If
 you do not @appear in court, you will surely
-be imprisoned. <i>Kanang ímung pagrilaks mau</i>
-<pb n=2147>
-<i>nay makatumaw (makapatumaw) sa sulbad
+be imprisoned. <i>Kanang ímung pagrilaks mau
+nay makatumaw (makapatumaw) sa sulbad
 sa prublíma,</i> Relaxation can make the solution
 to your problem pop up. <i>n</i> @mutant. <i>Tumaw
 nang batáa kay nigru man untà ang
@@ -10042,7 +9934,8 @@ of bronze.
 <p><b>tumbálay</b> = <sc>TUNGBÁLAY</sc>.
 
 <p><b>tumbalik</b> = <sc>SUMBALIK</sc>.
-<pb n=2148>
+
+<pb n=1054>
 
 <p><b>tumbáling</b> <i>v</i> [a12] @{pay attention}. <i>Tumbalínga
 ang ákung tambag,</i> @Heed my advice.
@@ -10109,7 +10002,6 @@ the characteristics of a lesbian, @tomboyish.
 <p><b>tumindug</b> <i>see</i> <sc>TINDUG</sc>.
 
 <p><b>tumitusus</b> <i>n</i> @{tomato sauce}.
-<pb n=2149>
 
 <p><b>tumpag</b> = <sc>LUMPAG</sc>.
 
@@ -10176,9 +10068,8 @@ sa átung lákaw run,</i> We are not going
 any particular place. <b>2</b> @purpose for which
 s.t. is done. <i>Unsa may tumung sa íyang pagsukitsukit?</i>
 What was the purpose of his
-asking around? <b>3</b> @{straight toward}. <i>Miatubang 
-<pb n=2150>
-siya tumung sa bandíra,</i> He faced @toward
+asking around? <b>3</b> @{straight toward}. <i>Miatubang
+<pb n=1055>siya tumung sa bandíra,</i> He faced @toward
 the flag.
 
 <p><b>tumur</b> <i>n</i> @tumor. <i>v</i> [B126; b4] become, have
@@ -10245,7 +10136,6 @@ a puddle to have him wallow in. <i>Magpatúnà
 úsà ku únà magsúgud pagdáru,</i> I will let the
 carabao wallow a while before starting to
 plow. <b>-an(->)</b> <i>n</i> puddle for water buffalos to
-<pb n=2151>
 wallow in.
 
 <p><b>túnà<sub>2</sub></b> <i>v</i> [A23; c6] <b>1</b> use a @thumbmark for
@@ -10308,8 +10198,7 @@ she is true to you.
 <p><b>tunáyit</b> <i>v</i> [A13] hold a dance until late
 hours. <i>Magtunayit sarà ang bayli basta dì
 muuwan,</i> We'll continue the dance till late
-<pb n=2152>
-if it doesn't rain.
+<pb n=1056>if it doesn't rain.
 
 <p><b>tundaan</b> <i>n</i> small boat usually towed behind
 the stern of a larger boat, used for putting
@@ -10374,11 +10263,10 @@ of the road. <b>3</b> @vagina (euphemism). <b>4</b> @stomach
 nga walay lamì ang pagkáun,</i> He
 filled his @gullet, but he grumbles that the
 food was no good. [<i>so-and-so</i>] <b>sa ímung (íyang)
-&mdash;</b> [so-and-so] is not true (said in denying 
-<pb n=2153>
+&mdash;</b> [so-and-so] is not true (said in denying
 s.t. vigorously and with resentment).
 <i>Dátù sa íyang tungà. Wà man gánì kuy ikapalit
-ug bugas,</i> Rich my foot! Here[**image not clear] I don't
+ug bugas,</i> Rich my foot! Here I don't
 even have money for food! <b>tungang gabíi</b> <i>n</i>
 @midnight. <i>v</i> <b>1</b> [B256; c16] be at about half
 of s.t. <i>Mutungà sa kilumitru ang ákung gibaktas,</i>
@@ -10434,9 +10322,8 @@ edge of a vessel, as in drinking. <i>Mitúngab
 siya sa pawpaw arun pag-inum,</i> He brought
 the half coconut shell to his mouth to drink.
 <b>2</b> [c6] put the mouth near s.t. as in drinking.
-<i>Ayawg itúngab ímung bàbà sa ákung</i>
-<pb n=2154>
-<i>dunggan ug musulti ka,</i> Don't put your
+<i>Ayawg itúngab ímung bàbà sa ákung
+<pb n=1057>dunggan ug musulti ka,</i> Don't put your
 mouth right on top of my ear when you
 talk.
 
@@ -10503,9 +10390,8 @@ to do s.t.!
 
 <p><b>tungguy</b> <i>n</i> <b>1</b> any growth that protrudes from
 the body. <b>2</b> a swelling or <corr sic=protruberance>protuberance</corr> on
-a tree. <i>v</i> [B46] @protrude. <i>Mutungguy ang</i>
-<pb n=2155>
-<i>sábà úsà mugulà,</i> The sucker protrudes first
+a tree. <i>v</i> [B46] @protrude. <i>Mutungguy ang
+sábà úsà mugulà,</i> The sucker protrudes first
 before coming out. <b>tungguytungguy</b> <i>n</i> a
 knoblike @protrusion, e.g. a @pommel. <i>Isab-it
 lang ang rinda sa tungguytungguy ánang
@@ -10568,8 +10454,7 @@ Communism will deprive us of.
 together}. <i>Kining karsadáha mutungkà adtung
 karsadáha,</i> This road will meet that
 road. <i>Nagtungkà ang duha ka tumuy sa alambri,</i>
-<pb n=2156>
-The two ends of the wire meet.
+<pb n=1058>The two ends of the wire meet.
 <i>Tungkáa (itungkà) ang duha ka pidásung
 panaptun,</i> Join the two pieces of cloth. <i>Dúgay
 nang wà mi magkatungkà,</i> We haven't
@@ -10635,9 +10520,8 @@ siya sa tabládu arun pagdiskursu,</i> He
 stepped on the stage to speak. <i>Itungtung
 ang silya sa lamísa,</i> Put the chair on top of
 the table. <b>2</b> [A; b6] reach an age, grade in
-school. <i>Karun hinúun nga mitungtung na</i>
-<pb n=2157>
-<i>aku ning ákung panuígun,</i> Now that I have
+school. <i>Karun hinúun nga mitungtung na
+aku ning ákung panuígun,</i> Now that I have
 reached this age. <i>Primarya ra ang íyang hitungtungan,</i>
 He didn't get any further than
 the primary grades. <b>3</b> [A; c] put interest
@@ -10696,9 +10580,8 @@ sea for fish. <i>Nagtúngud ang mananagat ug
 maáyung panaun,</i> The fisherman is looking
 into the sea for a good fish to spear. <b>tungudtúngud</b>
 <i>v</i> [AP; b6P] @{make a pass} at a girl
-or boy. <i>Dúsi pa siya piru daghan nang nagtungudtúngud 
-<pb n=2158>
-(nagpatungudtúngud) níya,</i>
+or boy. <i>Dúsi pa siya piru daghan nang nagtungudtúngud
+<pb n=1059>(nagpatungudtúngud) níya,</i>
 She is only twelve but lots of boys are making
 passes at her. <b>pa-</b> <i>v</i> [A] go beneath, near.
 <i>Mipatungud siya sa ákung lawak,</i> He went
@@ -10758,7 +10641,6 @@ to hold powdered material from this plant.
 <b>katunggan</b> <i>n</i> @{mangrove swamp}.
 
 <p><b>tunguk</b> <i>v</i> [B456] stay @immobile, staring
-<pb n=2159>
 blankly. <i>Nagtunguk siya. Nagdamgu sigúru,</i>
 He is @{staring blankly}. He's probably day-*dreaming.
 <i>Natunguk siya pagkadungug sa
@@ -10824,7 +10706,8 @@ apply this lotion to oneself.
 
 <p><b>*tuniku bínu &mdash; istumakal</b> <i>n</i> an old medicinal
 liquor.
-<pb n=2160>
+
+<pb n=1060>
 
 <p><b>tunil<sub>1</sub></b> <i>n</i> bamboo palm toddy container of
 two nodes.
@@ -10893,7 +10776,6 @@ sa atábay,</i> Lower the pail to[**P2: into] the well. <b>1a</b> [B6]
 @sag loosely. <i>Mituntun íyang súsu nga wà
 bráhi,</i> Her breasts sagged without a bra.
 <i>Nagtuntun ang luag níyang karsúnis,</i> His
-<pb n=2161>
 pants are sagging because they are loose. <b>1b</b>
 [A; b(1)] pay out a fishline. <i>Tuntúni ug
 mga lima ka dupa ang pasul,</i> Pay out five
@@ -10955,9 +10837,8 @@ ning inyung báy,</i> I will never @{set foot in}
 your house again. <b>3</b> [A12] have attended
 some school. <i>Amin na lang kay nakatunub
 nà siyag unibirsidad,</i> Just give in. He has
-gone to college, you know. <b>4</b> [A; b6] @dishonor, 
-<pb n=2162>
-@desecrate s.o.'s name or honor. <i>Ayawg
+gone to college, you know. <b>4</b> [A; b6] @dishonor,
+<pb n=1061>@desecrate s.o.'s name or honor. <i>Ayawg
 <b>tumbi</b> ang dungug sa átung pamilya,</i>
 Don't dishonor our family's name. <b>(<-)</b> <i>n</i> <b>1</b>
 @footprint. <b>1a</b> the k.o. life one led. <i>Sunda
@@ -11019,7 +10900,6 @@ give off fragrance before the blossoms open.
 
 <p><b>tunuk</b> <i>n</i> <b>1</b> @thorn. <i>Tunuk sa rúsas,</i> Rose thorns.
 <b>&mdash; sa isdà</b> sharp spines on a fish. <b>2</b> a @sliver
-<pb n=2163>
 or @thorn which has pricked the foot and
 gotten lodged. <i>Tudlísa ang tunuk,</i> Get the
 @splinter out with a needle. <b>3</b> @prick <i>Tambáli
@@ -11081,9 +10961,8 @@ nátù sa Manílà,</i> These fruits will be
 fully ripe when we arrive in Manila.
 
 <p><b>tunyu nu</b> (from <i>tuntu nu</i>) would I be foolish
-enough to do that? <i>Nagdúngan mig swildu</i>
-<pb n=2164>
-<i>apan akuy íyang pabayrun sa sini. Tunyu
+enough to do that? <i>Nagdúngan mig swildu
+<pb n=1062>apan akuy íyang pabayrun sa sini. Tunyu
 nu?</i> We were both paid at the same time,
 but he wants me to pay his way to the
 show. He must think I'm stupid or s.t.
@@ -11152,8 +11031,7 @@ vase. <i>v</i> [B12; b6] be, become mischievous.
 <p><b>tupluk<sub>2</sub></b> = <sc>TULPUK</sc> (but not doubled).
 
 <p><b>tuptup</b> <i>v</i> [A; a] <b>1</b> @cut s.t. from its base or
-stem. <i>Tuptúpa ang pakù kay dì nà iapil paglútù,</i> 
-<pb n=2165>
+stem. <i>Tuptúpa ang pakù kay dì nà iapil paglútù,</i>
 Cut the wings off. Don't include them
 with what you are cooking. <b>1a</b> cut s.t. with
 long strokes at the base. <b>2</b> cut s.t. straight
@@ -11216,9 +11094,8 @@ now because they are @{almost dry}. <i>v</i> [B125]
 be, become almost dry.
 
 <p><b>tupus<sub>2</sub></b> <i>v</i> <b>1</b> [A; a12] @{take over} the task of s.o.
-incapable or unavailable. Kinsa may mutupus 
-<pb n=2166>
-sa ímung trabáhu ug mulakaw ka,</i> Who
+incapable or unavailable. Kinsa may mutupus
+<pb n=1063>sa ímung trabáhu ug mulakaw ka,</i> Who
 takes over your chores when you go out?
 <i>Tupsa ring ákung buhatun kay kahilanatun
 ku,</i> Take over my work because I feel feverish.
@@ -11282,7 +11159,6 @@ don't do what she says.
 
 <p><b>turban</b> <i>n</i> @turban or similar headdress. <i>v</i> [A;
 c] wear a turban.
-<pb n=2167>
 
 <p><b>turdbis</b> <i>n</i> @{third base} in a ball game. <i>v</i> [B36]
 be on third. <i>Wà giyuy nakaturdbis námù,</i>
@@ -11358,9 +11234,8 @@ wins. <i>v</i> [B; b6] have finger wrestling.
 
 <p><b>turniyu</b>, <b>turníyu</b> <i>n</i> <b>1</b> @tournament. <b>2</b> sports
 tournament. <i>Turníyu sa baskitbul,</i> Basketball
-tournament. <b>3</b> = <sc>TURNILYU<sub>1</sub></sc>. <i>v</i> <b>1</b> [A13;
-<pb n=2168>
-ab3c] have a tournament. <i>Turniyúhun (turniyúhan)
+tournament. <b>3</b> = <sc>TURNILYU<sub>1</sub></sc>. <i>v</i> <b>1</b> [A13; ab3c]
+<pb n=1064>have a tournament. <i>Turniyúhun (turniyúhan)
 nátù ang kamut sa prinsísa,</i> We
 will have a tournament for the princess'
 hand. <i>Ug iturníyu ang kamut sa prinsísa, sigurádung
@@ -11426,7 +11301,6 @@ wheel slowly.
 
 <p><b>turta</b> <i>n</i> k.o. thick, heavy @cake made from
 flour and eggs. <i>v</i> [A; a2] make, have <i>turta</i>.
-<pb n=2169>
 
 <p><b>turtilya, turtilyas</b> <i>n</i> egg @omelette, s.t. cut up
 fine and fried with a beaten egg. <i>v</i> [A; a2]
@@ -11490,9 +11364,8 @@ peanut nougat. <b>&mdash; dipíli</b> pili nut nougat.
 in hin[**typo:thin] <corr sic=pastery>pastry</corr> and fried. <i>v</i> [A; b6c1] make
 a nut nougat. <b>-is(<-)</b> = <sc>TURUN</sc> (plural).
 
-<p><b>turung</b> <i>n</i> s.t. worn as a @{head covering}. <i>Pagdalag 
-<pb n=2170>
-turung kay tingálig muulan,</i> Bring s.t. to
+<p><b>turung</b> <i>n</i> s.t. worn as a @{head covering}. <i>Pagdalag
+<pb n=1065>turung kay tingálig muulan,</i> Bring s.t. to
 cover your head with. It might rain. <i>v</i> [B6;
 c1] protect the head, wear a head covering.
 <i>Nagturung siyag dáhun sa ságing arun dì
@@ -11563,7 +11436,6 @@ drinking party or @drink alcoholic beverage
 gitúsik íyang mata sa langgam,</i> He became
 blind because a bird pecked at his eyes. <b>2</b>
 [AC; a12] start a cockfight by letting the
-<pb n=2171>
 cocks peck each other once. <i>Kinahanglang
 <b>tusíkun</b> ang mga manuk arun maglábuk dàyun,</i>
 The cocks must be set to pecking at
@@ -11630,8 +11502,7 @@ ang bátà nga íyang gitusmud,</i> The child
 that he pushed fell down. <b>2</b> @dip, @immerse
 s.t. big in water. <i>Siyay nagtusmud sa katring
 dughuun didtu sa dágat,</i> He immersed the
-<pb n=2172>
-bed that was full of bugs into the sea. <i>Natusmud
+<pb n=1066>bed that was full of bugs into the sea. <i>Natusmud
 siya sa kanal,</i> He fell into the ditch.
 <b>3</b> [A] @wade, immerse oneself in the water.
 
@@ -11699,7 +11570,6 @@ is the case. <i>Pahagka ku bi. Tutal,
 kaslúnun na man ta,</i> Let me kiss you. @Anyway,
 we are going to get married. <i>Ákù lang
 gibilin. Tutal, mubalik pa man ku,</i> I just left
-<pb n=2173>
 it. Anyway, I was going to come back for it.
 <i>Ngánu bag mag-úlan? Tutal, díay ákung páyung,</i>
 What if it rains? Anyway, I have my
@@ -11768,7 +11638,8 @@ nga mitútuk nákù,</i> He stared at me with his
 eyes blazing. <i>Itútuk ímung mga mata sa kahitas-an,</i>
 Fix your eyes to the heavens. <b>-in-ay</b>
 <i>v</i> [C; c3] stare at each other.
-<pb n=2174>
+
+<pb n=1067>
 
 <p><b>tutul,</b> tútul <i>v</i> [A2; b(1)] @object. <i>Ug way mututul,
 aprubádu na ang musiyun,</i> If no one
@@ -11832,8 +11703,7 @@ ku mu ra ug nagmitúu aku,</i> Here I am back
 again, like it said in the Apostles' Creed. <b>2</b>
 [A13P] keep going back and forth. <i>Magmituáku
 ang kalag pagtúman sa pinitinsiya,</i> A
-soul keeps coming back on earth to do penance. 
-<pb n=2175>
+soul keeps coming back on earth to do penance.
 <i>Ang pagkalimtánun mauy makamituáku
 (makapamituáku) nákù sa balay,</i> I'm so
 forgetful I keep going back and forth to the
@@ -11896,8 +11766,7 @@ negated: @actually, @{in reality}. <i>Wà kunu siyay
 penny, but actually he does. <b>4</b> is it true
 that? <i>Muanhi túud ang mayur ugmà,</i> Is the
 mayor @really coming tomorrow? <b>5</b> to be
-<pb n=2176>
-sure [so-and-so] is the case, but.... <i>Barut
+<pb n=1068>sure [so-and-so] is the case, but.... <i>Barut
 <b>túud</b> ni apan barátu man sab,</i> This may be
 a poor kind but it is cheap anyway. <b>(->)</b> <i>v</i>
 [A23C23; a12] get to be @serious about a
@@ -11955,9 +11824,8 @@ pagkatinúud wà kuy pagsálig nímu,</i> In reality
 I don't trust you. [+]
 
 <p><b>túud<sub>2</sub></b> <i>v</i> [A3S; a1b] know how, show s.o.
-how to get to a place. <i>Nakatuud ku sa ílang</i>
-<pb n=2177>
-<i>hayid-áwut,</i> I know where their hide-out is.
+how to get to a place. <i>Nakatuud ku sa ílang
+hayid-áwut,</i> I know where their hide-out is.
 <i>Tuúra ang gitagúan nákung kúkis,</i> Locate
 the place I hid the cookies at. <i>Tuúri kug háin
 ang sikrítung agiánan,</i> Lead me to the secret
@@ -12018,9 +11886,8 @@ child on the patty. <b>(->)<sub>2</sub></b> <i>v</i> [c6] happen @coincidentally
 with s.t. else. <i>Wà mi magsábut
 kay natuun lang sa pag-abut,</i> We had no agreement.
 We just arrived at the same time
-by coincidence. <i>Ituun ug Duminggu ang kasal,</i> 
-<pb n=2178>
-Have the wedding on a Sunday.
+by coincidence. <i>Ituun ug Duminggu ang kasal,</i>
+<pb n=1069>Have the wedding on a Sunday.
 
 <p><b>tuung</b> <i>n</i> a raised frame of wood or iron placed
 around an opening to prevent foreign materials
@@ -12081,7 +11948,6 @@ great deal of effort in s.t. <i>Nagtuwadtúwad
 ug hílak,</i> Crying for all he was worth.
 
 <p><b>túwag</b> v [B1; b6] be @disarranged, in @disarray.
-<pb n=2179>
 <i>Matúwag (magtúwag) ang mga butang sa
 báy ug náay mga bátà,</i> The things in the
 house will be in disarray when there are
@@ -12146,9 +12012,8 @@ is wedged in the branches of the tree.
 <p><b>tuwatúwa</b> = <sc>LUNAW</sc>.
 
 <p><b>tuwaw</b> <i>v</i> <b>1</b> = <sc>TUAW</sc>, <i>1</i>. <b>2</b> [A; b3] @weep, @cry.
-<i>Unsay gituwawan nímu, ang sintimintal nga</i>
-<pb n=2180>
-<i>salída?</i> What are you crying about? The
+<i>Unsay gituwawan nímu, ang sintimintal nga
+<pb n=1070>salída?</i> What are you crying about? The
 sentimental movie?
 
 <p><b>tuway<sub>1</sub></b> <i>n</i> vaginal secretion having an extremely
@@ -12218,11 +12083,10 @@ have his way. <b>mapa-un</b> <i>a</i> @immoderate, @lavish
 in quantity.
 
 <p><b>tuyarug</b> <i>v</i> [A; b(1)] stand erect, motionless,
-<pb n=2181>
 and speechless. <i>Sa ákung kalísang mituyarug
 na lang ku sa daplin nga hálus muginháwa,</i>
 Due to my fright I stood motionless in
-<b>the</b> corner, hardly daring to breathe.
+the corner, hardly daring to breathe.
 
 <p><b>tuyátuy</b> = <sc>TURÁTUY</sc>.
 
@@ -12287,8 +12151,7 @@ around the body. <b>-an(->)</b> = <sc>TUYTUY<sub>3</sub></sc>.
 <p><b>túyu</b> <i>n</i> @{soy sauce}. <i>v</i> [b] put soy sauce in s.t.
 
 <p><b>tuyù</b> <i>n</i> @wound esp. one which is inflicted in
-<pb n=2182>
-a contest. <i>Ang sunuy nakadaug sa tárì nga
+<pb n=1071>a contest. <i>Ang sunuy nakadaug sa tárì nga
 walay tuyù,</i> The rooster won in the cockfight
 without a wound. <i>v</i> [A12; b8] inflict
 a @wound. <i>Padag-un ku ang ímung manuk ug
@@ -12348,8 +12211,8 @@ deeply, eventually reaching the intestines.
 <i>v</i> [A123P; a4] get <i>túyub</i>.
 
 <p><b>tuy-ud</b> <i>v</i> [APB3; c16P] @straighten s.t. out,
-be @straight. <i>Sayun dang pagtuy-ud (pagpatuy-ud) 
-<pb n=2183>sa kulut nga buhuk,</i> It's easy to
+be @straight. <i>Sayun dang pagtuy-ud (pagpatuy-ud)
+sa kulut nga buhuk,</i> It's easy to
 @straighten out curly hair. <i>Dì kung katuy-ud
 sa mubung katri,</i> I can't lie with my legs
 straight on a short bed.
@@ -12414,8 +12277,7 @@ for being unable to bear s.t. <i>Mityábaw
 nang lungsud sa kamahal sa palalítun,</i> The
 people are beginning to scream at high
 prices. <b>3</b> for animals to make their normal
-<pb n=2184>
-loud noise. <i>Nagtyábaw ang kábaw,</i> The carabao
+<pb n=1072>loud noise. <i>Nagtyábaw ang kábaw,</i> The carabao
 lowed.
 
 <p><b>tyágù</b> (from <i>Tyágù</i>, <i>short for</i> <b>Santiyágu</b>, a
@@ -12439,7 +12301,6 @@ papil,</i> The paper is eight inches wide.
 
 <p><b>tyanggi</b> <i>n</i> @marketplace. <b>paN-</b> <i>v</i> [A2; c] @{go
 marketing}. <i>Tagái kug kwartang ipanyanggi,</i>
-<pb n=2185>
 Give me some money to go marketing with.
 <b>tyanggihan</b> <i>n</i> marketplace and its vicinity.
 
@@ -12468,7 +12329,13 @@ machine and see if we can't get it to start.
 be a tutor. <i>Sayun siyang tyutúran kay brayit,</i>
 It's easy to tutor him because he is
 bright.
-<pb n=2186>
+
+
+
+
+<div1>
+<head>U</head>
+
 
 <p><b>u<sub>1</sub></b> @or. <i>Kinsa may muadtu, ikaw u aku?</i> Who
 will go, you or me? <i>Muadtu ka ba u pabilin
@@ -12497,9 +12364,8 @@ it five pesos you gave me? <b>2</b> exclamation
 preceding an emphatic denial. <i>U dílì, dílì nà
 mahímù,</i> Oh no, that can't be done. <b>2a</b> preceding
 a statement that s.t. is not the way
-the interlocutor thought. <i>U, sayun ra nang</i>
-<pb n=2187>
-<i>lutúun. Lat-i lang,</i> Oh, that's easy to cook.
+the interlocutor thought. <i>U, sayun ra nang
+lutúun. Lat-i lang,</i> Oh, that's easy to cook.
 Just boil it. <b>3</b> pause before speaking. <i>U, ári
 diri nà ibutang,</i> Oh, just put that over here.
 <b>4</b> (most often at the end of the clause) particle
@@ -12532,8 +12398,7 @@ s.t. else. <i>Kining mayka uban adtung tiprikurdíra,</i>
 This mike belongs with that tape recorder.
 <b>1b</b> <b>&mdash; sa</b>, [dat.] together with. <i>Mianhi
 ku dinhi uban níya,</i> I came here together
-<pb n=2188>
-with him. <i>Misugut siya uban sa pagtúu nga
+<pb n=1073>with him. <i>Misugut siya uban sa pagtúu nga
 ...</i> He agreed in the belief that ... <b>1c</b> <b>&mdash;
 ang</b> including, [so-and-so] is also along. <i>Milakaw
 siya uban ang íyang masusu,</i> She left
@@ -12591,7 +12456,6 @@ sa tablíta,</i> I'll wash the tablet down
 with water. <i>Ipauban ang unum ka kutsárang
 mantikilya,</i> Add the six tablespoons of butter.
 <b>-ay (pa) untà</b> [so-and-so] should have
-<pb n=2189>
 been done under the rules of propriety.
 <i>Ubánay pa untà mananghid,</i> The least you
 could have done is asked. <i>Ubánay pa untà
@@ -12657,8 +12521,7 @@ kami pagkatúlug,</i> We slept lying down
 @beside each other. <i>Nag-ubay sa baybáyun
 ang mga payagpáyag,</i> The shacks @lined the
 beach. <b>2</b> [A; c] do s.t. in @accordance with
-<pb n=2190>
-s.t. else. <i>Kung iubay nímu sa katárung ang
+<pb n=1074>s.t. else. <i>Kung iubay nímu sa katárung ang
 ímung líhuk,</i> If you act @{according to} the
 rules of right conduct. <b>pa-un(<-)</b> <i>v</i> [A2; b]
 @concur, @{go along with} s.o.'s decision. <i>Gipaubayúnan
@@ -12720,7 +12583,6 @@ the legal limit. <i>v</i> [B12] be @over-loaded. <b>-nayit</b>
 bag}. <b>-nayit bag</b> <i>n</i> @{overnight bag}. <b>-prayis</b> <i>v</i> [A2;
 b(1)] @overprice s.t., jack up the price.
 <b>&mdash; sis</b> <i>n</i> vessel that goes overseas out of the
-<pb n=2191>
 Philippines. <i>v</i> [A] sail or work on an overseas
 vessel. <b>-tayim</b> <i>n</i> <b>1</b> @{overtime work}. <b>2</b> {overtime
 pay}. <i>v</i> [A; b6] work @overtime. <i>Náay
@@ -12785,9 +12647,8 @@ I will work off my twenty-peso debt to
 you. <b>3</b> [A23; b(1)] for medicine to take
 effect. <i>Wà pa ka ubráhi sa purga?</i> Hasn't
 the purgative taken effect yet? <b>4</b> [B; b4]
-for menstruation to flow freely. <i>Dì muubra</i>
-<pb n=2192>
-<i>ang ákung dugù ug malígù ku,</i> My menstruation
+for menstruation to flow freely. <i>Dì muubra
+<pb n=1075>ang ákung dugù ug malígù ku,</i> My menstruation
 won't flow freely if I take a bath. <i>n</i> <b>1</b>
 @work, esp. manual or heavy. <b>gíkan sa &mdash;
 padúlung sa trabáhu</b> going from work to
@@ -12849,9 +12710,8 @@ over on its stomach. <i>Kining batáa kay muubù
 na, maáyu na ni pasundan,</i> This child
 can turn over on his stomach. It's about
 time to have another baby. <b>2</b> [A; c] crouch
-or stoop with the body low. <i>Ug dì ka muubù</i>
-<pb n=2193>
-<i>masungkù ka,</i> If you don't stoop, you'll
+or stoop with the body low. <i>Ug dì ka muubù
+masungkù ka,</i> If you don't stoop, you'll
 bump your head. <b>3</b> [b(1)] throw oneself
 on s.o. to protect him. <i>Ákung giub-an ang
 bátà sa nagpungasì na ang bála,</i> I threw myself
@@ -12915,8 +12775,7 @@ your aim. You might make a bulls-eye. <b>2</b>
 [APB; cP] be lower in elevation or placement.
 <i>Miubus ang sawug kay mius-us ang
 panawganan,</i> The floor sunk because the
-<pb n=2194>
-joists sunk. <i>Miubus na ang íyang tiyan. Hapit
+<pb n=1076>joists sunk. <i>Miubus na ang íyang tiyan. Hapit
 na manganak,</i> Her baby has @descended.
 She is about ready to have it. <b>pa-</b> <i>v</i> <b>1</b> [A; b(1)]
 travel, @{fly low}. <i>Ang banug talagsa ra
@@ -12982,8 +12841,7 @@ extreme unction.
 <p><b>udiyung</b> <i>n</i> @arrow, @dart. <i>v</i> <b>1</b> [A12; a2] make
 arrows. <b>2</b> [A; a12] hit with an arrow. <b>-un(<-)</b>
 <i>a</i> @slender, @arrow-like. Udiyúngun ug láwas
-<pb n=2195>
-<i>ang babáyi,</i> The lady has a slender body.
+ang babáyi,</i> The lady has a slender body.
 
 <p><b>udlut</b> <i>n</i> <b>1</b> young @leaf, leaf @bud. <b>2</b> one who
 belongs to the upper class or top level of
@@ -13043,8 +12901,7 @@ black snake having bright reddish-orange
 eyes, so called because its poison is said to
 kill the victim at noon. <b>tali-</b> <i>n</i> time just before
 noon. <b>udtuhun</b> <i>n</i> coconut palm toddy
-<pb n=2196>
-gathered at noon.
+<pb n=1077>gathered at noon.
 
 <p><b>udù</b> = <sc>UNDÙ</sc>.
 
@@ -13105,8 +12962,7 @@ ug dì nà mahímù,</i> I don't believe that is
 impossible. <b>6</b> @or. <i>Pritúhun ug tuláhun, paríha
 ra nákù,</i> Deep fried or stewed, it's all
 the same to me. <b>7</b> @{and}. <i>Lakaw ug ayaw pagbálik!</i>
-Go away, and don't come back! <i>Sila 
-<pb n=2197>
+Go away, and don't come back! <i>Sila
 si Huwan ug si Pidru ang mianhi,</i> John
 and Pedro were the ones who came here.
 
@@ -13169,7 +13025,8 @@ country.
 
 <p><b>ugam</b> <i>n</i> whitish substance coating the tongue
 and upper palate. <i>v</i> [A123P; b4] get <i>ugam</i>.
-<pb n=2198>
+
+<pb n=1078>
 
 <p><b>ugang</b> <i>n</i> @{mother hen}.
 
@@ -13237,8 +13094,7 @@ here? <b>3</b> [a3b8] @{stand still} as if rooted to
 the ground. <i>Naugbuk siya tungud sa kalísang,</i>
 He stood @stock-still in fear. <i>n</i> @stake.
 
-<p><b>ugbun</b> <i>n</i> <b>1</b> @mound, esp. a @heap of finely-textured 
-<pb n=2199>
+<p><b>ugbun</b> <i>n</i> <b>1</b> @mound, esp. a @heap of finely-textured
 things. <i>Usa ka ugbun nga abu ang nahibilin
 sa táwung nagsulit,</i> Only a small
 mound of ash was left of the man who
@@ -13300,8 +13156,7 @@ ashes.
 comes out cheap because it is a heaping
 measure. <b>2</b> @rounded in shape and @full. <i>Ugdu
 kaáyu siya ug dughan,</i> She has very full
-<pb n=2200>
-breasts. <i>v</i> <b>1</b> [B; a12] be, become @heaping,
+<pb n=1079>breasts. <i>v</i> <b>1</b> [B; a12] be, become @heaping,
 full, or rounded. <b>2</b> [B3; b6] be @piled up
 high. <i>Muugdu ang labhanan ug paugmaan,</i>
 The soiled clothes will @{pile up} if you leave
@@ -13372,3 +13227,8 @@ the murder victim. <b>1a</b> [A; a12] @ransack
 things in looking for s.t. <i>Ákung ugkáyun
 ang mga butang nímu básug túa didtu ang
 ákung rilu,</i> I'll ransack your things in case
+
+
+</body>
+</text>
+</TEI.2>
