@@ -65,7 +65,6 @@
         </html>
     </xsl:template>
 
-
     <xsl:function name="local:get-page-url" as="xs:string">
         <xsl:param name="page" as="xs:integer"/>
 
@@ -146,7 +145,6 @@
         </b>
     </xsl:template>
 
-
     <xsl:template match="gramGrp">
         <span class="gramGrp">
             <xsl:apply-templates/>
@@ -180,9 +178,6 @@
         <sub><xsl:apply-templates/></sub>
     </xsl:template>
 
-
-
-
     <xsl:template match="bio">
         <span class="bio">
             <a>
@@ -192,11 +187,8 @@
         </span>
     </xsl:template>
 
-
     <xsl:template match="note">
-        <span class="note">
-            <xsl:apply-templates/>
-        </span>
+        <span class="note">[* <xsl:apply-templates/> *]</span>
     </xsl:template>
 
     <xsl:template match="tr">
@@ -269,13 +261,10 @@
         </i>
     </xsl:template>
 
-
     <!-- Discard unwanted stuff -->
 
     <xsl:template match="TEI.2|text|body|trans|div1|sc|corr|head|foreign|back|divGen|sic">
         <xsl:apply-templates/>
     </xsl:template>
-
-
 
 </xsl:stylesheet>
