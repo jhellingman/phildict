@@ -1,26 +1,30 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
-<!ENTITY larr       CDATA "&#x2190;"            -- leftwards arrow -->
-<!ENTITY rarr       CDATA "&#x2192;"            -- rightwards arrow -->
-<!ENTITY glots      CDATA "&#x0294;"            -- glottal stop -->
+<!ENTITY larr       CDATA "&#x2190;"          -- leftwards arrow -->
+<!ENTITY rarr       CDATA "&#x2192;"          -- rightwards arrow -->
+<!ENTITY glots      CDATA "&#x0294;"          -- glottal stop -->
 
-<!ENTITY amacr      CDATA "&#x0101;"            -- a with macron -->
-<!ENTITY imacr      CDATA "&#x012B;"            -- i with macron -->
-<!ENTITY umacr      CDATA "&#x016B;"            -- u with macron -->
+<!ENTITY amacr      CDATA "&#x0101;"          -- a with macron -->
+<!ENTITY imacr      CDATA "&#x012B;"          -- i with macron -->
+<!ENTITY umacr      CDATA "&#x016B;"          -- u with macron -->
 
-<!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"    -- a with macron and grave -->
-<!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"    -- i with macron and grave -->
-<!ENTITY umacrgra   CDATA "&#x016B;&#x0300;"    -- u with macron and grave -->
+<!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"  -- a with macron and grave -->
+<!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"  -- i with macron and grave -->
+<!ENTITY umacrgra   CDATA "&#x016B;&#x0300;"  -- u with macron and grave -->
 
-<!ENTITY amacracu   CDATA "&#x0101;&#x0301;"    -- a with macron and acute -->
-<!ENTITY imacracu   CDATA "&#x012B;&#x0301;"    -- i with macron and acute -->
-<!ENTITY umacracu   CDATA "&#x016B;&#x0301;"    -- u with macron and acute -->
+<!ENTITY amacracu   CDATA "&#x0101;&#x0301;"  -- a with macron and acute -->
+<!ENTITY imacracu   CDATA "&#x012B;&#x0301;"  -- i with macron and acute -->
+<!ENTITY umacracu   CDATA "&#x016B;&#x0301;"  -- u with macron and acute -->
 
-<!ENTITY acaron     CDATA "a&#x030C;"           -- a with caron -->
-<!ENTITY ucaron     CDATA "u&#x030C;"           -- u with caron -->
-<!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
+<!ENTITY amacrcir   CDATA "&#x0101;&#x0302;"  -- a with macron and circumflex -->
+<!ENTITY imacrcir   CDATA "&#x012B;&#x0302;"  -- i with macron and circumflex -->
+<!ENTITY umacrcir   CDATA "&#x016B;&#x0302;"  -- u with macron and circumflex -->
 
-<!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+<!ENTITY acaron     CDATA "a&#x030C;"         -- a with caron -->
+<!ENTITY ucaron     CDATA "u&#x030C;"         -- u with caron -->
+<!ENTITY icaron     CDATA "i&#x030C;"         -- i with caron -->
+
+<!ENTITY schwa      CDATA "&#x0259;"          -- schwa (turned e) -->
 
 ]>
 
@@ -54,7 +58,7 @@ Step three
 CHECKS UPTO sulud
 
 Iterate:
-    [ ] Run WCED-uptag1.pl
+    [X] Run WCED-uptag1.pl
     [ ] Run uptag.pl
     [ ] Verify output for anomalies and fix in source
 
@@ -329,7 +333,7 @@ drinking the wine of love.
 
 <p><form>*sibika, *sibiku kapunúngang &mdash;</form> <pos>n</pos> <tr>civic organization</tr>. <form>hinábang nga &mdash;</form> <tr>civic aid</tr>.
 
-<p><form>sibil</form> <pos>n</pos> <number>1</number> <tr>civil</tr>, not by the church. <i>Sa sibil lang ta magpakasal,</i> Let's make it a civil marriage. <i>Sibil nga mintiryu,</i> Public cemetery. <number>2</number> <xr>= <sc>GWARDIYA SIBIL</sc></xr>.</xr> <pos>v</pos> <itype>[c1]</itype> have a civil wedding. <form>gíra &mdash;</form> <tr>civil war</tr>. <form>gwardiya &mdash;</form> Civil Guard of the Philippines during Spanish times. <form>-in-</form> <pos>v</pos> <itype>[A; c1]</itype> <tr>punish</tr> s.o. heavily or make s.o. do a lot of work rapidly (as the Spanish civil guards do). <i>Maáyung musinibil ug súgù sa mga sinuhúlan apan dílì maáyung mupakáun,</i> Knows how to make farmhands work hard but doesn't give them enough food to eat. <i>Dì na run magsinibil ug kastígu ang mga maistra sa klási kay manúkul na man run ang mga istudiyanti,</i> Teachers do not inflict heavy punishments in class any more because nowadays the students fight back.
+<p><form>sibil</form> <pos>n</pos> <number>1</number> <tr>civil</tr>, not by the church. <i>Sa sibil lang ta magpakasal,</i> Let's make it a civil marriage. <i>Sibil nga mintiryu,</i> Public cemetery. <number>2</number> <xr>= <sc>GWARDIYA SIBIL</sc>.</xr> <pos>v</pos> <itype>[c1]</itype> have a civil wedding. <form>gíra &mdash;</form> <tr>civil war</tr>. <form>gwardiya &mdash;</form> Civil Guard of the Philippines during Spanish times. <form>-in-</form> <pos>v</pos> <itype>[A; c1]</itype> <tr>punish</tr> s.o. heavily or make s.o. do a lot of work rapidly (as the Spanish civil guards do). <i>Maáyung musinibil ug súgù sa mga sinuhúlan apan dílì maáyung mupakáun,</i> Knows how to make farmhands work hard but doesn't give them enough food to eat. <i>Dì na run magsinibil ug kastígu ang mga maistra sa klási kay manúkul na man run ang mga istudiyanti,</i> Teachers do not inflict heavy punishments in class any more because nowadays the students fight back.
 
 <p><form>*síbil</form> <form>&mdash; sirbis</form> <pos>n</pos> <tr>civil service</tr>. <form>&mdash; sirbis tist</form> <tr>Civil Service test</tr>.
 
@@ -369,7 +373,7 @@ drinking the wine of love.
 
 <p><form>sibúkaw</form> <pos>n</pos> small tree with scattered prickles, <pb n=888>the wood of which is used for nails in boat building: <bio>Caesalpinia sappan</bio>.
 
-<p><form>sibul</form> <xr>= <sc>SUBUL</sc></xr>.</xr>
+<p><form>sibul</form> <xr>= <sc>SUBUL</sc>.</xr>
 
 <p><form>sibut</form> <pos>n</pos> k.o. very small dip <tr>net</tr> made of finely meshed cloth. <pos>v</pos> <itype>[A13; a2b2]</itype> pick out with a small dip net. <i>Sibuta ang isdà. Ayaw ug kab-a sa panaksan,</i> Catch the fish with a dip net. Don't scoop it out with a cup.
 
@@ -399,7 +403,7 @@ drinking the wine of love.
 
 <p><form>sidlut</form> <xr>= <sc>SIDLIT</sc>, <i>v1.</i></xr>
 
-<p><form>sidsarun</form> <xr>= <sc>SITSARUN</sc></xr>.</xr>
+<p><form>sidsarun</form> <xr>= <sc>SITSARUN</sc>.</xr>
 
 <p><form>sidsid</form> <pos>n</pos> <number>1</number> <tr>hem</tr>, lower edge of dress, curtain, or the like. <number>2</number> <tr>edge</tr>, <tr>border</tr> (literary). <i>Ang sidsid sa kapunawpunáwan,</i> To the outer reaches of space. <form>sidsiran</form> <xr>= <sc>SIDSID</sc>, <i>2.</i></xr>
 
@@ -439,7 +443,7 @@ drinking the wine of love.
 
 <p><form>sigídas</form> <pos>n</pos> <number>1</number> <tr>successive</tr>, <tr>frequent</tr>. <i>Lápuk kaáyu sa ámù kay sigídas ang ulan,</i> My place is very muddy because it keeps raining. <number>2</number> automatic, rapid-firing weapons. <number>3</number> <tr>freewheeling</tr>, such that the chain that links the pedal gear to the wheel gear engages only in the forward direction, and not in the backward direction. <i>Sigídas ang bisiklíta nga rísir,</i> A racing bicycle is freewheeling. <number>3a</number> <tr>racing bicycle</tr>. <pos>v</pos> <itype>[A; a12]</itype> become <tr>frequent</tr> or <tr>successive</tr>; do s.t. <tr>successively</tr> or <tr>frequently</tr>. <i>Nagsigídas ang ákung mga sulat rung mga adláwa,</i> I <tr>keep</tr> getting letters one after another these days. <i>Sigidásun nímu ug tindak ang pidal arun magsígi ug túyuk ang ligid,</i> Keep pumping the pedal so the wheels will keep turning.
 
-<p><form>sigidilyas</form> <xr>= <sc>KARABANSUS</sc></xr>.</xr>
+<p><form>sigidilyas</form> <xr>= <sc>KARABANSUS</sc>.</xr>
 
 <p><form>sígin</form> <pos>n</pos> k.o. <tr>net</tr> designed for taking out catch from the fish corral. <form>(&rarr;)</form> <pos>v</pos> <itype>[A; a]</itype> get the fish out of the corral with a net.
 
@@ -447,9 +451,9 @@ drinking the wine of love.
 
 <p><form>sigisígi</form> <pos>n</pos> name of a notorious gang of Tagalog hoodlums as opposed to the <ix>uksu</ix> (<xr><sc>OXO</sc></xr>) of the Visayans. <form>&mdash; gang</form> <xr>= <sc>SIGISÍGI</sc>.</xr>
 
-<p><form>sigkat</form> <xr>= <sc>SIKLAT</sc></xr>.</xr>
+<p><form>sigkat</form> <xr>= <sc>SIKLAT</sc>.</xr>
 
-<p><form>sigking</form> <xr>= <sc>SIKGING</sc></xr>.</xr>
+<p><form>sigking</form> <xr>= <sc>SIKGING</sc>.</xr>
 
 <p><form>sigkit</form> <xr>= <sc>SÍKIT</sc>.</xr>
 
@@ -463,9 +467,9 @@ drinking the wine of love.
 
 <p><form>signal</form> <pos>n</pos> <tr>signal</tr>. <pos>v</pos> <itype>[A; b6(1)]</itype> give a <tr>signal</tr>. <i>Signáli ku sa busína,</i> Blow your horn as a signal to me.
 
-<p><form>signit</form> <xr>= <sc>SIGMIT</sc></xr>.</xr>
+<p><form>signit</form> <xr>= <sc>SIGMIT</sc>.</xr>
 
-<p><form>signus</form> <pos>n</pos> <number>1</number> in folk belief, the preordained agent through which one meets his death as revealed by fortune-telling. <i>Pagkalúnud sa barku wà siya mamatay kay kaláyu may íyang signus,</i> When the boat sunk he didn't die because his fate was to die by fire. <number>2</number> <xr>= <sc>AGNUS</sc></xr>.</xr> <pos>v</pos> <itype>[A12; b8]</itype> be saved from unexpected death because it is not one's <ix>signus</ix> to die that way.
+<p><form>signus</form> <pos>n</pos> <number>1</number> in folk belief, the preordained agent through which one meets his death as revealed by fortune-telling. <i>Pagkalúnud sa barku wà siya mamatay kay kaláyu may íyang signus,</i> When the boat sunk he didn't die because his fate was to die by fire. <number>2</number> <xr>= <sc>AGNUS</sc>.</xr> <pos>v</pos> <itype>[A12; b8]</itype> be saved from unexpected death because it is not one's <ix>signus</ix> to die that way.
 
 <p><form>sigpat</form> <pos>v</pos> <itype>[b8]</itype> get a glance stolen at one. <i>Nasigpatan ku siya nga nangupya sa iksámin,</i> I glanced at him copying during the test. <form>pa-</form> <pos>v</pos> <itype>[A; b6]</itype> steal a glance. <i>Ayaw ug pasigpati ang babáyi kay masakpan ka,</i> Don't steal glances at the woman because you might get caught.
 
@@ -483,7 +487,7 @@ drinking the wine of love.
 
 <p><form>sigun<sub>2</sub></form> <pos>n</pos> a breed of <tr>chicken</tr> raised for meat purposes, referred to for their quality of developing feathers on the neck, thighs, and wings late in life.
 
-<p><form>sigunda</form> <pos>n</pos> <number>1</number> <tr>second gear</tr>. <number>2</number> the second player in group games played by <corr sic="an "></corr>individuals in succession</b>. <number>3</number> the second voice in group singing. <form>&mdash; mánu</form> <number>a</number> <tr>second hand</tr>. <i>Pridyidir nga sigunda mánu,</i> A second-hand refrigerator. <pb n=891><number>b</number> a woman that has had sexual experiences prior to marriage. <i>Nakaasawag sigunda mánu ang laláking himilì,</i> He was so choosy in the end he had to settle for a <tr>second-hand</tr> woman. <pos>v</pos> <number>1</number> <itype>[B26; b6]</itype> do, happen after the first thing happened, was done. <i>Ang pagkasúnug sa ílang balay nasigunda ang ílang Birtu,</i> After their house burnt, the same thing happened to Berto's. <i>Gisigundahan siya ug pátid human siya matumba,</i> After he fell, they kicked him. <number>2</number> <itype>[A; c6]</itype> put in second gear. <i>Isigunda ang makina ug dulhugun,</i> Put the car into second when you are headed downhill. <form>-rya</form> <xr>= <sc>SIKUNDARYU</sc></xr>.</xr>
+<p><form>sigunda</form> <pos>n</pos> <number>1</number> <tr>second gear</tr>. <number>2</number> the second player in group games played by <corr sic="an "></corr>individuals in succession</b>. <number>3</number> the second voice in group singing. <form>&mdash; mánu</form> <number>a</number> <tr>second hand</tr>. <i>Pridyidir nga sigunda mánu,</i> A second-hand refrigerator. <pb n=891><number>b</number> a woman that has had sexual experiences prior to marriage. <i>Nakaasawag sigunda mánu ang laláking himilì,</i> He was so choosy in the end he had to settle for a <tr>second-hand</tr> woman. <pos>v</pos> <number>1</number> <itype>[B26; b6]</itype> do, happen after the first thing happened, was done. <i>Ang pagkasúnug sa ílang balay nasigunda ang ílang Birtu,</i> After their house burnt, the same thing happened to Berto's. <i>Gisigundahan siya ug pátid human siya matumba,</i> After he fell, they kicked him. <number>2</number> <itype>[A; c6]</itype> put in second gear. <i>Isigunda ang makina ug dulhugun,</i> Put the car into second when you are headed downhill. <form>-rya</form> <xr>= <sc>SIKUNDARYU</sc>.</xr>
 
 <p><form>sigundu</form> <pos>n</pos> <number>1</number> second to perform in group games performed by players in a series. <number>2</number> <tr>second</tr>, one-sixtieth of a minute. <form>&mdash; anyu</form> second year of college or secondary school. <form>&mdash; upisyal</form> <tr>second mate</tr>.
 
@@ -513,7 +517,7 @@ drinking the wine of love.
 
 <p><form>sikà</form> <xr>= <sc>SIKÀSIKÀ</sc>.</xr> <form>sikàsikà</form> <pos>v</pos> <itype>[A; b6]</itype> talk harshly and loudly in giving commands. <i>Gisikàsikaan ang suluguun sa dunya,</i> The lady shouted at the maid, giving her one order after another. <form>sikàsikaun</form> <pos>a</pos> <tr>disrespectful</tr> in speech.
 
-<p><form>síkad</form> <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> propel s.t. with the feet, bending the knees and kicking the legs. <i>Sikári ang síya arun dílì na lang nákù kuháun,</i> <tr>Kick</tr> the chair over here so I don't have to get it. <number>2</number> <itype>[A; b]</itype> <tr>pedal</tr>. <i>Kumpása ug síkad ang makina,</i> Pedal the sewing machine rhythmically. <number>3</number> <itype>[AC2; ac]</itype> have two fighting cocks spar by holding them by the tail and allowing their legs to scratch or kick the ground. <i>Kanúnayng isíkad ang manuk arun lig-un ang tiil,</i> Always have the cock spar to make its legs strong. <number>3a</number> <itype>[A]</itype> <formx>&mdash; ang manuk</formx> for a candidate for a woman's hand to say his piece. <i>Dílì maáyung musíkad ang ákung manuk kay wà sugta,</i> My man doesn't know how to talk to women because he was unsuccessful. <form>(&rarr;)</form> <xr>= <sc>ANINIKAD</sc></xr>.</xr> <form>pa-</form> <pos>v</pos> <itype>[A; bc]</itype> base an argument or belief. <i>Ayawg ipasíkad ang ímung hukum sa mga tabìtábì,</i> Don't base your decision on gossip. <form>pina-</form> <pos>n</pos> based on. <i>Panglíhuk nga pinasíkad sa maáyung pamatásan,</i> Behavior that is based on good manners. <form>paN-</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> push with the feet exerting effort. <number>2a</number> kick the ground, as if eager to fight. <i>Ag túru nagpanikad kay gustu nang muhasmag nákù,</i> The bull is pawing the ground because it wants to charge me. <number>2b</number> <itype>[A13]</itype> be very eager to do s.t. <i>Nagpanikad siya ug adtu sa Manílà,</i> He is very eager to go to Manila. <form>-um-(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> originate, start from. <i>Ang ílang áway nagsumikad sa pagbáhin sa irinsiya,</i> Their quarrel started from the apportioning of the inheritance. <form>sikadsikad</form>. <form>aN-r-(&rarr;)</form> <xr>see <sc>ANINIKAD</sc>.</xr>
+<p><form>síkad</form> <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> propel s.t. with the feet, bending the knees and kicking the legs. <i>Sikári ang síya arun dílì na lang nákù kuháun,</i> <tr>Kick</tr> the chair over here so I don't have to get it. <number>2</number> <itype>[A; b]</itype> <tr>pedal</tr>. <i>Kumpása ug síkad ang makina,</i> Pedal the sewing machine rhythmically. <number>3</number> <itype>[AC2; ac]</itype> have two fighting cocks spar by holding them by the tail and allowing their legs to scratch or kick the ground. <i>Kanúnayng isíkad ang manuk arun lig-un ang tiil,</i> Always have the cock spar to make its legs strong. <number>3a</number> <itype>[A]</itype> <formx>&mdash; ang manuk</formx> for a candidate for a woman's hand to say his piece. <i>Dílì maáyung musíkad ang ákung manuk kay wà sugta,</i> My man doesn't know how to talk to women because he was unsuccessful. <form>(&rarr;)</form> <xr>= <sc>ANINIKAD</sc>.</xr> <form>pa-</form> <pos>v</pos> <itype>[A; bc]</itype> base an argument or belief. <i>Ayawg ipasíkad ang ímung hukum sa mga tabìtábì,</i> Don't base your decision on gossip. <form>pina-</form> <pos>n</pos> based on. <i>Panglíhuk nga pinasíkad sa maáyung pamatásan,</i> Behavior that is based on good manners. <form>paN-</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> push with the feet exerting effort. <number>2a</number> kick the ground, as if eager to fight. <i>Ag túru nagpanikad kay gustu nang muhasmag nákù,</i> The bull is pawing the ground because it wants to charge me. <number>2b</number> <itype>[A13]</itype> be very eager to do s.t. <i>Nagpanikad siya ug adtu sa Manílà,</i> He is very eager to go to Manila. <form>-um-(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> originate, start from. <i>Ang ílang áway nagsumikad sa pagbáhin sa irinsiya,</i> Their quarrel started from the apportioning of the inheritance. <form>sikadsikad</form>. <form>aN-r-(&rarr;)</form> <xr>see <sc>ANINIKAD</sc>.</xr>
 
 <p><form>síkan</form> <pos>n</pos> <number>1</number> <tr>second</tr> in rank, prize, sequence. <i>Akuy síkan, bayinti ang ákung prayis,</i> I was the second. I got twenty pesos as a prize. <form>&mdash; bis</form> <tr>second base</tr> of baseball. <form>&mdash; grid</form> <tr>second grade</tr>. <form>&mdash; han</form> <tr>second hand</tr>. <form>&mdash; hap</form> second half of a game. <form>&mdash; plís</form> <tr>second place</tr>. <form>&mdash; plísir</form> one who placed second. <form>&mdash; rawun</form> second round in boxing. <form>&mdash; yir</form> second year of high school or college. <pos>v</pos> <itype>[A2]</itype> obtain, get to be the second place. <form>&mdash; dimusyun</form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>second the motion</tr>.[+]
 
@@ -913,9 +917,9 @@ drinking the wine of love.
 
 <p><form>sing-aw</form> <xr>= <sc>SING-AL</sc>.</xr>
 
-<p><form>singba</form> <xr>= <sc>SIMBA</sc></xr>.</xr>
+<p><form>singba</form> <xr>= <sc>SIMBA</sc>.</xr>
 
-<p><form>singdalan</form> <xr>= <sc>SINDALAN</sc></xr>.</xr> <ix>see</ix> <xr><sc>DÁLAN</sc>.</xr>
+<p><form>singdalan</form> <xr>= <sc>SINDALAN</sc>.</xr> <ix>see</ix> <xr><sc>DÁLAN</sc>.</xr>
 
 <p><form>singgáak</form> <pos>v</pos> <number>1</number> <itype>[A2S; b6]</itype> <tr>shout</tr>, <tr>cry</tr>. <i>Pára gamay rang samad musinggáak ka dáyun!</i> For such a small wound you <tr>scream</tr> bloody murder. <number>2</number> <itype>[A; bc1]</itype> shout, <tr>snarl</tr> loudly at s.o. in anger. <i>Singgaákan níya ang bátà kun kasab-an,</i> He shouts at the child when he scolds him.
 
@@ -941,7 +945,7 @@ drinking the wine of love.
 
 <p><form>singil</form> <pos>v</pos> <number>1</number> <itype>[AN2; a2N]</itype> <tr>ask for</tr> payment. <i>Singlun (paninglun) na ba nímu ag ákung útang?</i> Are you going to make me pay my debt? <number>2</number> <itype>[A13N; a2N]</itype> exact payment for what one has done, <tr>collect</tr> on a promise. <i>Magsingil na ku sa íyang gibúhat nákù,</i> I will now collect for what he has done to me. <i>Maningil na ku nímu sa ímung gisáad nákù nga pinaskúhan,</i> Now I will ask for the Christmas gift you promised me. <form>maN-r-</form> <pos>n</pos> <tr>bill collector</tr>. <form>singlunun, paninglunun</form> <pos>n</pos> amount collectible.
 
-<p><form>singilugun</form> <xr>= <sc>ILUGUN</sc></xr>.</xr> <ix>see</ix> <xr><sc>ÍLUG</sc>.</xr>
+<p><form>singilugun</form> <xr>= <sc>ILUGUN</sc>.</xr> <ix>see</ix> <xr><sc>ÍLUG</sc>.</xr>
 
 <p><form>síngin</form> <pos>n</pos> <number>1</number> fruits, ordinarily separate, joined together in growth with a common continuous skin. <number>2</number> <tr>Siamese twins</tr>. <pos>v</pos> <itype>[C3]</itype> for fruits to be joined as one.
 
@@ -1005,7 +1009,7 @@ drinking the wine of love.
 
 <p><form>sini</form> <pos>n</pos> <number>1</number> <tr>movie house</tr>. <number>2</number> <tr>motion picture</tr>. <number>3</number> showing of motion pictures. <i>Way sini run kay Birnis Santu,</i> There are no <tr>movies</tr> today because it's Good Friday. <number>4</number> love-making sight, as seen by peeping (humorous metaphor). <i>Pirmi ming kakità ug sini inigpamisíta sa íyang uyab,</i> We always see a &lsquo;<tr>movie</tr>&rsquo; every time her boy friend comes. <pos>v</pos> <number>1</number> <itype>[A13]</itype> show a movie. <i>Ang Yuis-ay-is magsíni (magsini) sa iskuylahan karung gabíi,</i> The USIS will show a <tr>film</tr> in the schoolhouse tonight. <number>2</number> <itype>[a12]</itype> convert into a movie house. <form>(&larr;)</form> <pos>v</pos> <itype>[A13]</itype> <number>1</number> show a movie. <number>2</number> display lovemaking. <i>Nakakità ang mga bátà nga nagsíni sila gabíi,</i> The children peeped at them necking last night. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> go to the movies. <i>Manini ta,</i> Let's go to the movies. <form>sinihan</form> <pos>n</pos> <tr>movie house</tr>. <form>kasinihan</form> <pos>n</pos> <number>1</number> <tr>movie houses</tr> collectively. <number>2</number> <tr>movies</tr>, as a source of entertainment and as an art form. <form>maki-, maki-(&larr;)</form> <pos>a</pos> fond of movies. <form>sinisíni</form> <pos>n</pos> <number>1</number> <tr>slide-show</tr>. <number>2</number> free outdoor movie offered by advertisement panels or mobile units.
 
-<p><form>siniguylas</form> <xr>= <sc>SIRIGUYLAS</sc></xr>.</xr>
+<p><form>siniguylas</form> <xr>= <sc>SIRIGUYLAS</sc>.</xr>
 
 <p><form>sinílas</form> <pos>n</pos> <tr>slippers</tr>. <pos>v</pos> <itype>[A; a]</itype> wear, make into slippers. <form>(&rarr;)</form> <pos>v</pos> <itype>[a12]</itype> hit with slippers.
 
@@ -1023,7 +1027,7 @@ drinking the wine of love.
 
 <p><form>siniyur</form> <pos>n</pos> title of address for men of high station. <ix>short form:</ix> <bx>nyur</bx> <number>1</number> <tr>Mr</tr>., <tr>sir</tr>. <i>Si Nyur Pidru muabut rung hápun,</i> Mr. Peter will arrive this afternoon. <i>Andam na ang ímung awtu, nyur,</i> Your car is ready, sir. <number>1a</number> form of direct address between intimate male friends. <i>Kumusta, nyur!</i> How are you, <tr>man</tr>! <number>2</number> in set usage for names of saints (not shortened). <form>&mdash; San Pidru</form> <tr>St. Peter</tr>. <form>&mdash; San Bisinti</form> <tr>St. Vincent</tr>. <form>&mdash; Santu Ninyu</form> the <tr>Holy Child</tr>. <form>pista sa &mdash;</form> <tr>Feast of the Holy Child</tr>.<note>Holy Child necessarily? P2</note> <form>-un</form> <pos>a</pos> detesting manual work. <i>Ságad sa mga dátù mga sinyurun ug kusug musúgù,</i> Most rich people are too good to do manual work and tell people to do things for them.
 
-<p><form>sinkuwínta</form> <xr>= <sc>SINGKUWINTA</sc></xr>.</xr>
+<p><form>sinkuwínta</form> <xr>= <sc>SINGKUWINTA</sc>.</xr>
 
 <p><form>sinsilyu</form> <pos>n</pos> <number>1</number> <tr>small change</tr>. <i>Wà kuy sinsilyu diri,</i> I don't have any <tr>change</tr> on me. <form>wà kuy &mdash;</form> humorous way of answering a compliment (implying one has no money to pay the person for his flattery). <number>2</number> change given back for a bill. <i>Dúna kay sinsilyu áring písus?</i> Do you have change for this peso? <number>3</number> <tr>washer</tr>. <number>3a</number> metal rings found inside the hub of wheels. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> <tr>give change</tr> or break s.t. into change. <i>Makasinsilyu ka áring singkuhun?</i> Can you <tr>change</tr> this five peso bill? <i>Wà ku nímu sinsilyúhi (sinsilyúi),</i> You haven't given me my change! <number>2</number> <itype>[B1256]</itype> be broken into fragments. <i>Nasinsilyu ang básu nga natambug sa simintu,</i> The glass was broken to pieces when it fell onto the concrete. <form>pa-</form> <pos>v</pos> <itype>[A]</itype> <tr>have children</tr> (humorous). <i>Agad pay tibuuk, nagpasinsíyu giyud,</i> You were doing <xr><sc>O.K</sc>.</xr> single (lit. a whole bill). What did you have to go and have children for (lit. make yourself into small change)?[+]
 
@@ -1033,7 +1037,7 @@ drinking the wine of love.
 
 <p><form>sinsiya</form> <pos>n</pos> <tr>science</tr>.
 
-<p><form>sinsíyu</form> <xr>= <sc>SINSILYU</sc></xr>.</xr>
+<p><form>sinsíyu</form> <xr>= <sc>SINSILYU</sc>.</xr>
 
 <p><form>sinsu</form> <pos>n</pos> <tr>census</tr>, an official enumeration of population or some other statistics of an area. <pos>v</pos> <itype>[A1; a12]</itype> have or hold a census.
 
@@ -1041,7 +1045,7 @@ drinking the wine of love.
 
 <p><form>sinsúru</form> <pos>n</pos> large, deep-sea fishing <tr>net</tr> which encircles the fish. <pos>v</pos> <itype>[A; a]</itype> fish with this sort of net, esp. in harvesting fish from under the <ix>páyaw</ix>. <form>sinsuradur</form> <pos>n</pos> one who operates this sort of equipment.
 
-<p><form>sinsus</form> <xr>= <sc>SINSU</sc></xr>.</xr>
+<p><form>sinsus</form> <xr>= <sc>SINSU</sc>.</xr>
 
 <p><form>sinta</form> <pos>v</pos> <itype>[A; b6]</itype> <number>1</number> for horses to <tr>rear</tr> up. <i>Pagbantay kay musinta ang kabáyù!</i> Watch out! The horse will rear. <number>2</number> <tr>flare up</tr> in anger, raising the head. <i>Ngánung musinta ka man pára sa usa ka gamayng hangyù?</i> Why do you flare up for such a tiny request? <form>&mdash; libanta</form> <pos>n</pos> a dog's trick where the dog can sit or stand on its hind legs on command. <pos>v</pos> <itype>[A]</itype> perform this trick. <form>hi-/ha-</form> <pos>v</pos> <itype>[B1256]</itype> be <tr>taken aback</tr> so as to jerk one's head back. <i>Nahasinta ku sa íyang tinubagan,</i> I was taken aback by the way he talked back.
 
@@ -1083,7 +1087,7 @@ drinking the wine of love.
 
 <p><form>sintripugal, sintripyugal</form> <pos>n</pos> light <tr>brown sugar</tr> obtained from <tr>sugar</tr> cane, lower in quality than the white refined sugar, but more refined than the <ix>muskubádu</ix>.
 
-<p><form>sintru</form> <pos>n</pos> <number>1</number> <tr>center</tr>, point in the very <tr>middle</tr>. <number>1a</number> <tr>central portion</tr> of an area. <number>2</number> place where certain activities are concentrated. <i>Sintru purikultúra,</i> Puericulture center. <i>Ang Sibu sintru sa kumirsiyu sa Bisáyas,</i> Cebu is the center of commerce in the Visayas. <number>3</number> <xr>= <sc>SINTIR</sc></xr>.</xr> <pos>v</pos> <itype>[A1PB2; a1]</itype> be, put at the center.
+<p><form>sintru</form> <pos>n</pos> <number>1</number> <tr>center</tr>, point in the very <tr>middle</tr>. <number>1a</number> <tr>central portion</tr> of an area. <number>2</number> place where certain activities are concentrated. <i>Sintru purikultúra,</i> Puericulture center. <i>Ang Sibu sintru sa kumirsiyu sa Bisáyas,</i> Cebu is the center of commerce in the Visayas. <number>3</number> <xr>= <sc>SINTIR</sc>.</xr> <pos>v</pos> <itype>[A1PB2; a1]</itype> be, put at the center.
 
 <p><form>sintu-</form> (combining form) <tr>one hundred</tr>. <i>Sintudy&icaron;s,</i> One <tr>hundred</tr> ten.
 
@@ -1101,7 +1105,7 @@ drinking the wine of love.
 
 <p><form>sinuylas</form> <xr>= <sc>SINÍLAS</sc>.</xr>
 
-<p><form>sinya, sinyas</form> <xr>= <sc>PLURDILIS</sc></xr>.</xr>
+<p><form>sinya, sinyas</form> <xr>= <sc>PLURDILIS</sc>.</xr>
 
 <p><form>sinyadur</form> (from <ix>sinyal</ix>) <pos>n</pos> in logging, the person who signals the directives of the foreman to the hauling machine operator.
 
@@ -1133,7 +1137,7 @@ drinking the wine of love.
 
 <p><form>sípat</form> <pos>v</pos> <itype>[A; a2b]</itype> look with a sharp, piercing look. <i>Grábi siyang makasípat mu rag mudulut ang mata,</i> My, how fiercely he looked at me, as if his eyes were piercing through me.
 
-<p><form>siphag</form> <pos>v</pos> <itype>[B5; a12]</itype> for a group to <tr>disperse</tr> by running in different directions or for s.t. in a piece to break into smithereens and be thrown in all directions. <i>Sa dihang mibutubutu misiphag ang mga dimunstríturs,</i> When the shots rang out the demonstrators dispersed. <i>Nasiphag ang mga parti sa awtu pagbutu niíni,</i> The car parts flew in all directions when it exploded. <i>Siphágun nákù nang ílang punduk,</i> I am going to break their group up. <form>-ay</form> <pos>v</pos> <itype>[c]</itype> <xr>= <sc>SIPHAG</sc></xr>.</xr>
+<p><form>siphag</form> <pos>v</pos> <itype>[B5; a12]</itype> for a group to <tr>disperse</tr> by running in different directions or for s.t. in a piece to break into smithereens and be thrown in all directions. <i>Sa dihang mibutubutu misiphag ang mga dimunstríturs,</i> When the shots rang out the demonstrators dispersed. <i>Nasiphag ang mga parti sa awtu pagbutu niíni,</i> The car parts flew in all directions when it exploded. <i>Siphágun nákù nang ílang punduk,</i> I am going to break their group up. <form>-ay</form> <pos>v</pos> <itype>[c]</itype> <xr>= <sc>SIPHAG</sc>.</xr>
 
 <p><form>sipi</form> interjection used to drive away cats. <i>Sipi! Sámuk ning irínga,</i> <tr>Scat</tr>! What a bothersome cat.
 
@@ -1173,7 +1177,7 @@ drinking the wine of love.
 
 <p><form>siplin</form> <pos>n</pos> <tr>seaplane</tr>. <pos>v</pos> <itype>[A13; a12]</itype> travel by, make into a seaplane.
 
-<p><form>siplit</form> <xr>= <sc>SIPLAT</sc></xr>.</xr>
+<p><form>siplit</form> <xr>= <sc>SIPLAT</sc>.</xr>
 
 <p><form>sipra</form> <pos>n</pos> <number>1</number> <tr>monogram</tr>, a mark showing ownership. <number>2</number> <tr>sign</tr>, <tr>label</tr>. <i>Sakay sa dyip nga dúnay siprang Lahug,</i> Take a jeep which is marked Lahug. <pos>v</pos> <itype>[A; c]</itype> <number>1</number> put a <tr>monogram</tr> on s.t. <number>2</number> mark a sign, label.
 
@@ -1215,7 +1219,7 @@ drinking the wine of love.
 
 <p><form>sip-ut</form> <pos>a</pos> <tr>narrow</tr> and <tr>tight</tr>, affording little space or freedom of movement. <i>Sip-ut kaáyu ang agiánan,</i> The passageway is very narrow. <i>Sip-ut nga sayal,</i> A tight skirt. <pos>v</pos> <itype>[B2]</itype> be narrow and tight. <form>ma-</form> <pos>a</pos> <tr>crowded</tr>, thick with vegetation. <i>Masip-ut nga kalibunan,</i> Thick underbrush.
 
-<p><form>sipuy</form> <xr>= <sc>SIPUL</sc></xr>.</xr>
+<p><form>sipuy</form> <xr>= <sc>SIPUL</sc>.</xr>
 
 <p><form>sipya</form> <pos>n</pos> <tr>sepia</tr> in photography. <pos>v</pos> <itype>[A12]</itype> make a print in sepia.
 
@@ -1255,9 +1259,9 @@ drinking the wine of love.
 
 <p><form>sirbyinta</form> <xr>= <sc>SIRBIDÚRA</sc>.</xr> <xr><ix>see</ix> <sc>SIRBI<sub>1</sub></sc>.</xr>
 
-<p><form>sirbyinti</form> <xr>= <sc>SIRBIDUR</sc></xr>.</xr> <ix>see</ix> <sc>SIRBI<sub>1</sub></sc>.
+<p><form>sirbyinti</form> <xr>= <sc>SIRBIDUR</sc>.</xr> <ix>see</ix> <sc>SIRBI<sub>1</sub></sc>.
 
-<p><form>sirguylas</form> <xr>= <sc>SIRIGUYLAS</sc></xr>.</xr>
+<p><form>sirguylas</form> <xr>= <sc>SIRIGUYLAS</sc>.</xr>
 
 <p><form>siriguylas</form> <pos>n</pos> small <tr>tree</tr> cultivated for its sweet and juicy fruits, yellow or reddish, similar to plums: <bio>Spondias purpurea</bio>. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> gather <ix>siriguylas</ix>.
 
@@ -1281,9 +1285,9 @@ drinking the wine of love.
 
 <p><form>sirip<sub>1</sub></form> <pos>n</pos> <tr>sheriff</tr>. <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>attach</tr> property for nonpayment of a debt on it. <i>Ang bangku mauy musirip sa yútà ug dílì kabayran ang lún,</i> The bank will attach the land if the loan is not paid. <number>2</number> <tr>confiscate</tr>. <i>Ákung siripun ang baráha kay dì mu magtuun,</i> I will confiscate the playing cards because you don't study.
 
-<p><form>sirip<sub>2</sub></form> <xr>= <sc>SILIP</sc></xr>.</xr>
+<p><form>sirip<sub>2</sub></form> <xr>= <sc>SILIP</sc>.</xr>
 
-<p><form>siripinti</form> <xr>= <sc>SIRPINTI</sc></xr>.</xr>
+<p><form>siripinti</form> <xr>= <sc>SIRPINTI</sc>.</xr>
 
 <p><form>síris</form> <pos>n</pos> <number>1</number> <tr>Christmas tree lights</tr>. <number>2</number> <tr>series</tr> connection of bulbs or batteries. <pos>v</pos> <itype>[A; a]</itype> connect several batteries or electric bulbs in a series.
 
@@ -1297,7 +1301,7 @@ drinking the wine of love.
 
 <p><form>sirkulasiyun</form> <pos>n</pos> periodical <tr>circulation</tr>.
 
-<p><form>sirkulu</form> <xr>= <sc>SIRKUL</sc></xr>.</xr>
+<p><form>sirkulu</form> <xr>= <sc>SIRKUL</sc>.</xr>
 
 <p><form>sirkumpirinsiya</form> <pos>n</pos> <tr>circumference</tr>.
 
@@ -1655,7 +1659,7 @@ drinking the wine of love.
 
 <p><form>sugkay</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <tr>stir</tr> a mixture that contains some solid. <i>Sugkáya ang linúgaw,</i> Stir the porridge. <number>2</number> for the emotions to be stirred up. <i>Galamhan nga gisugkay sa túmang pagbásul,</i> Thoughts that were <tr>disturbed</tr> by extreme feelings of repentance.
 
-<p><form>suglib</form> <xr>= <sc>SUGNIB</sc></xr>.</xr>
+<p><form>suglib</form> <xr>= <sc>SUGNIB</sc>.</xr>
 
 <p><form>sugmat</form> <pos>v</pos> <number>1</number> <itype>[A2; b4]</itype> for a quiescent disease to <tr>recur</tr>, <tr>act up</tr>. <i>Misugmat na sab ang ákung riyúma,</i> My rheumatism is acting up again. <number>2</number> <itype>[A2]</itype> for criminality to recur or be on the rise. <i>Misugmat na usab ang kúut karun,</i> Pickpocketing is on the rise again. <pos>n</pos> <tr>recurrence</tr> of an ailment.
 
@@ -1681,9 +1685,9 @@ drinking the wine of love.
 
 <p><form>sugpuy<sub>2</sub></form> <pos>n</pos> feverish feeling in which the temperature of the upper part of the body is warm and the lower part is cold, esp. of children during teething. <pos>v</pos> <itype>[A123P; a4]</itype> have such an affliction.
 
-<p><form>sugpuy<sub>3</sub></form> <xr>= <sc>SUGMUY</sc></xr>.</xr>
+<p><form>sugpuy<sub>3</sub></form> <xr>= <sc>SUGMUY</sc>.</xr>
 
-<p><form>sugsug</form> <xr>= <sc>SALUGSUG</sc></xr>.</xr>
+<p><form>sugsug</form> <xr>= <sc>SALUGSUG</sc>.</xr>
 
 <p><form>sugsúg</form> <xr>= <sc>SULUGSÚLUG</sc>.</xr>
 
@@ -1693,7 +1697,7 @@ drinking the wine of love.
 
 <p><form>sugub<sub>1</sub></form> <pos>v</pos> <itype>[B3(1)6; b6]</itype> <tr>sprout</tr> from the earth or skin. <i>Misugub (nagsugub) na ang ákung pugas mais,</i> The corn I sowed has sprouted. <i>Gisuguban na ang íluk nga íyang giibtan sa balhíbu,</i> Hair has sprouted in her armpit where she had pulled it out. <pos>n</pos> new growths of hair, feathers, or sprouts from the earth.
 
-<p><form>sugub<sub>2</sub></form> <xr>= <sc>SUGUD</sc></xr>.</xr>
+<p><form>sugub<sub>2</sub></form> <xr>= <sc>SUGUD</sc>.</xr>
 
 <p><form>sugud</form> <pos>n</pos> <tr>sting</tr> of an insect. <pos>v</pos> <itype>[A; b5]</itype> for poisonous insects to bite leaving a stinger in the thing bitten. <i>Tánga ang misugud sa ákung bábuy,</i> A scorpion bit my pig.
 
@@ -1721,7 +1725,7 @@ drinking the wine of love.
 
 <p><form>súhid</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>copy</tr>, <tr>mimic</tr>. <i>Suhíra ang mápa sa libru,</i> Copy the map in the book. <i>Sayun ra ning baylíha ug suhírun lang nímu ang ákung lákang,</i> This dance is easy if you follow my steps. <number>2</number> <itype>[A1; a12]</itype> watch s.t. intensely while it recedes out of view. <i>Suhíra <pb n=923>giyud siya arun hibaw-an nátù háin baláya siya misulud,</i> Watch him carefully so we will know what house he went into. <number>3</number> <itype>[A3; a12]</itype> retrace a course one has just passed. <i>Nagsúhid ku sa ákung giagian kay nahúlug ang ákung pitáka,</i> I am going back the way I came because I dropped my wallet. <number>4</number> <itype>[A; a12]</itype> scan, search thoroughly. <i>Pulis ang nagsúhid sa ílang kalawásan,</i> The police searched their bodies thoroughly. <i>Ílang suhírun ang mga lasang sa Mindanaw,</i> They will explore the forests of Mindanao. <form>suhiran</form> <pos>a</pos> given to copying or imitating.
 
-<p><form>suhildu</form> <xr>= <sc>SWILDU</sc></xr>.</xr>
+<p><form>suhildu</form> <xr>= <sc>SWILDU</sc>.</xr>
 
 <p><form>suhítu<sub>1</sub></form> <xr>= <sc>SWÍTU</sc>.</xr>
 
@@ -1745,7 +1749,7 @@ drinking the wine of love.
 
 <p><form>sukad &mdash; sa</form> [<ix>dat.</ix>] <number>1</number> <tr>from</tr> s.w. <i>Sukad sa íla nganhi may mga dusintus mitrus,</i> It's about <pb n=924>two hundred meters from their house to here. <number>2</number> <tr>since</tr>, <tr>from</tr> [dat.] on forward. <i>Sukad karun dì na giyud ku makigsulti nímu,</i> <tr>From now on</tr> I will never speak to you again. <i>Sukad niadtu,</i> From that time on. <i>Sukad pa sa alas utsu kung hinulat nímu,</i> I have been waiting for you since eight o'clock. <form>&mdash; mabakì</form> since birth (humorous). <form>&mdash; masukad</form> <number>1</number> <ix>in negative statements:</ix> <tr>never</tr> ever. <i>Wà pa giyud ku makakità ug babáyi ingun kagwápa sukad masukad,</i> I have never, in all my born days, seen a woman so beautiful. <number>2</number> since, far back beyond the reach of memory. <i>Dinhi na ang ílang katigulángan sukad masukad,</i> Their ancestors have been here since the beginning of time. <pos>v</pos> <number>1</number> <itype>[A13N; b6N]</itype> <tr>start</tr>, <tr>originate</tr> from. <i>Tan-áwa ug unsang kuniksiyúna ang gisukaran (gipanukaran) áning alambríha,</i> See where this wire originates. <number>2</number> <itype>[AN; b6]</itype> <tr>rest on</tr>, be based on a certain support. <i>Dílì untà muun-un ang balay ug didtu pa makasukad (makapanukad) sa batu nga tiúnay,</i> The house would not have sagged had it rested on bedrock. <number>2a</number> <itype>[A13N; cN]</itype> <tr>base</tr>, <tr>found</tr>. <i>Tubag nga gisukad (gipanukad) sa usa ka katarúngan nga dílì malális,</i> An answer based on an indisputable reason. <form>paN-</form> <pos>v</pos> <number>1</number> <itype>[A2; b6]</itype> start movement from a certain point. <i>Ang prusisiyun adtu manukad sa kapilya,</i> The procession will <tr>begin at</tr> the chapel. <number>2</number> have a <tr>foothold</tr> on s.t. <i>Dílì ka makadusù kay balas ang ímung gipanukaran,</i> You can't push because you are standing on sand. <number>2a</number> <itype>[A2]</itype> get a good foothold, <tr>steady</tr> oneself. <i>Nanukad siya úsà muluksu,</i> He steadied himself before he leapt. <pos>n</pos> <number>1</number> <tr>poise</tr>, standing <tr>posture</tr>. <i>Ang trátu ni Iyay may panukad labi na kay taas ug gwápu,</i> Eyay's boy friend has poise, esp. because he is tall and handsome. <i>Maáyu ug panukad ning manúka háyan maáyung muáway,</i> The cock has a good posture. Most likely it fights well. <number>2</number> way of placing one's feet while standing, action of gaining a foothold. <form>sukaránan, panukaránan</form> <pos>n</pos> <number>1</number> <tr>base</tr>, s.t. which supports or sustains s.t. immaterial. <i>Ang ímung pangatarúngan walay sukaránan (panukaránan) sa baláud,</i> Your reasoning has no basis in law. <number>2</number> <tr>runway</tr> for airplanes.
 
-<p><form>súkad</form> <pos>v</pos> <number>1</number> <itype>[A; a2]</itype> take food out of a container or pot and set it on the table. <i>Nagsúkad na si Máma sa pamáhaw,</i> Mother is putting the breakfast on the table now. <number>2</number> <itype>[b6]</itype> <tr>profer</tr><note>F1 proffer?</note>. <i>Gisukáran siya nákù sa usa ka madaníhung pahiyum,</i> I gave her a very engaging smile. <form>sukaran, sukaránan</form> <pos>n</pos> round platter to hold rice and corn. <form>&mdash; nga bastus</form> <xr>= <sc>SUKARAN</sc></xr>.</xr>
+<p><form>súkad</form> <pos>v</pos> <number>1</number> <itype>[A; a2]</itype> take food out of a container or pot and set it on the table. <i>Nagsúkad na si Máma sa pamáhaw,</i> Mother is putting the breakfast on the table now. <number>2</number> <itype>[b6]</itype> <tr>profer</tr><note>F1 proffer?</note>. <i>Gisukáran siya nákù sa usa ka madaníhung pahiyum,</i> I gave her a very engaging smile. <form>sukaran, sukaránan</form> <pos>n</pos> round platter to hold rice and corn. <form>&mdash; nga bastus</form> <xr>= <sc>SUKARAN</sc>.</xr>
 
 <p><form>sukalsukal</form> <pos>v</pos> <itype>[B1456]</itype> be <tr>overflowing</tr> in fulness.<note>fullness</note> <i>Nagsukalsukal sa kapunù ang húngut sa tubà,</i> The toddy glass is overflowing with toddy.
 
@@ -1897,7 +1901,7 @@ drinking the wine of love.
 
 <p><form>sulípat<sub>2</sub></form> <pos>v</pos> <itype>[A; c]</itype> blink the eyes in the water to remove a foreign body lodged in it. <i>Ákung gisulípat ang ákung mata sa túbig arun pagkúhà sa puling,</i> I blinked my eyes in the water to remove the speck in them.
 
-<p><form>suliping, sulíping</form> <number>1</number> <xr>= <sc>SALIPÌ</sc>.</xr> <number>2</number> <xr>= <sc>SALIPING</sc></xr>.</xr>
+<p><form>suliping, sulíping</form> <number>1</number> <xr>= <sc>SALIPÌ</sc>.</xr> <number>2</number> <xr>= <sc>SALIPING</sc>.</xr>
 
 <p><form>sulip-it</form> <xr>= <sc>SALIP-IT</sc>.</xr>
 
@@ -1973,7 +1977,7 @@ drinking the wine of love.
 
 <p><form>suluksuluk</form> <pos>n</pos> <xr>= <sc>KUTUKUTU<note>KUTU KUTU?</note></sc>.</xr> <xr><ix>see</ix> <sc>KUTU</sc>.</xr>
 
-<p><form>sulum</form> <xr>= <sc>PALA</sc></xr>.</xr>
+<p><form>sulum</form> <xr>= <sc>PALA</sc>.</xr>
 
 <p><form>sulumilyu</form> (not without <ix>l</ix>) <pos>n</pos> loin of beef or pork, esp. the upper portion.
 
@@ -1999,11 +2003,11 @@ drinking the wine of love.
 
 <p><form>sulyà</form> <xr>= <sc>SUYLÀ<sub>1,2</sub></sc>.</xr>
 
-<p><form>súm</form> <xr>= <sc>SULUM</sc></xr>.</xr>
+<p><form>súm</form> <xr>= <sc>SULUM</sc>.</xr>
 
 <p><form>súma</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>total</tr> up, <tr>reckon</tr> the final amount. <i>Kinsay nagsúma sa pátung sa mga sápì nga gihulaman?</i> Who is reckoning the interest on the money we lent? <pos>n</pos> figure arrived after calculation. <i>Ang súma diri nákù mil syitisyintus,</i> The <tr>sum</tr> total I get is one thousand, seven hundred. <form>-da</form> <xr>= <sc>SÚMA</sc>.</xr>
 
-<p><form>sum[=à]</form> <xr>= <sc>SUMÁLÀ</sc>.</xr>
+<p><form>sum&amacrgra;</form> <xr>= <sc>SUMÁLÀ</sc>.</xr>
 
 <p><form>súmad</form> <pos>n</pos> <number>1</number> the day exactly one year after a certain event. <i>Ang súmad sa kamatáyun sa ímung amahan mahiatul ug Byirnis Santu,</i> The day exactly one year after your father's death will fall on Good Friday. <i>Súmad niá-*run<note>spurious -? P2</note> túa na ku sa Amirika,</i> A year from now I will be in America. <number>1a</number> <formx>&mdash; nga Lúnis, usa ka simána, etc</formx>. it was exactly one Monday, one week, etc. after a certain event. <i>Súmad nga usa ka búwan rung pitsa dús sukad sa íyang paggíkan,</i> On the second it will be exactly one month since he left. <number>2</number> <tr>anniversary</tr>. <i>Ang súmad sa átung kagawásan saulúgun karung Duminggu,</i> The anniversary of our independence will be celebrated this Sunday. <pos>v</pos> <number>1</number> <itype>[A2; b8]</itype> get to be a week, month, etc. after s.t. <i>Musúmad na karung Lúnis ang ákung pagkasakit,</i> It will be exactly one week on Monday since I got ill. <number>2</number> <itype>[A1; c]</itype> celebrate an anniversary. <form>sumadsúmad</form> <pos>v</pos> <itype>[A; a12]</itype> do s.t. <tr>yearly</tr>. <i>Musumadsúmad siya ug palit ug awtu kay dátù siya,</i> He buys a new car every year because he is rich. <form>kasumáran</form> <pos>n</pos> <tr>birthday</tr>. <i>Ása man ta magsaúlug sa ímung kasumáran?</i> Where will we celebrate your birthday?
 
@@ -2013,7 +2017,7 @@ drinking the wine of love.
 
 <p><form>sumálà<sub>2</sub></form> <pos>v</pos> <form>dílì mag-</form> regret not doing s.t. which one had been warned to do. <i>Padad-un kag bálun, dì ka. Dì ka magsumálà ug gutmun ka,</i> I told you to bring your lunch, but you didn't. Now you will regret it if you go hungry.
 
-<p><form>sumalabit, sumalabits</form> <xr>= <sc>SALUMABITS</sc></xr>.</xr>
+<p><form>sumalabit, sumalabits</form> <xr>= <sc>SALUMABITS</sc>.</xr>
 
 <p><form>súman</form> <pos>n</pos> <xr>= <sc>BUDBUD</sc>, <i>v3;</i> <i>n3.</i></xr> <pos>v</pos> <itype>[A1; a12]</itype> cook, make into <ix>súman.</ix> <form>&mdash; nga hilaw</form> the <tr>penis</tr> (humorous).
 
@@ -2059,15 +2063,15 @@ drinking the wine of love.
 
 <p><form>sumpay</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> <tr>join</tr> things together to make them larger. <i>Sumpáyun ta ning duha ka mubung písì arun mataas,</i> Let us join these two short pieces of rope together so it will be long enough. <i>Nagsumpay mi sa pantalan ug mga bayinti mitrus,</i> We are <tr>adding</tr> about twenty meters to the wharf. <number>2</number> <itype>[A2; b6]</itype> <tr>add</tr>, saying s.t. to s.t. previously said. <i>Sumpáyan pa giyud níya ug kumidiya bísan ug unsay ákung isulti,</i> He always adds jokes to whatever I say. <pos>n</pos> <number>1</number> the additional span or length added. <number>2</number> succeeding installment of a serial. <form>ápas &mdash;</form> <pos>n</pos> <tr>sequel</tr>. <i>Kining sugilanúna ápas sumpay sa isturya sa bau ug ungguy,</i> This story is a sequel to the story of the monkey and the turtle. <form>ka- ug tinái</form> <pos>n</pos> <tr>brother</tr> or <tr>sister</tr>. <form>ka- sa kasingkásing</form> <pos>n</pos> s.o. close to one's heart. <form>-in-an(&rarr;)</form> <pos>n</pos> <tr>joint</tr>, place s.t. has been added or tied to s.t. else.
 
-<p><form>sumpit</form> <xr>= <sc>SUNGPIT</sc></xr>.</xr>
+<p><form>sumpit</form> <xr>= <sc>SUNGPIT</sc>.</xr>
 
 <p><form>sumpù</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>put an end to</tr> s.t. bad. <i>Sumpúun ku nang ímung pagkatabian,</i> I will put an end to your gossiping. <number>2</number> <tr>check</tr> development. <i>Tambal nga musumpù dáyun sa ubu,</i> Medicine that checks a cough instantly. <i>Kanang bisyúha makasumpù sa túbù,</i> That vice <tr>stunts</tr> the growth.
 
 <p><form>sumpung</form> <pos>v</pos> <itype>[B246; a4]</itype> be in one of one's bad moods, have one's sickness or fit come over one. <i>Misumpung na sag sáput ni Lúla kay nagyawyaw man,</i> Grandma must be in one of her ugly moods again because she is grumbling. <i>Gisumpung siya sa íyang kabúang,</i> She had her fit of madness again.
 
-<p><form>sumput</form> <xr>= <sc>SUNGPUT</sc></xr>.</xr>
+<p><form>sumput</form> <xr>= <sc>SUNGPUT</sc>.</xr>
 
-<p><form>sumsum</form> <pos>v</pos> <number>1</number> <itype>[A; c2]</itype> eat s.t. with drinks. <i>Isumsum (sumsuman) nátù ning surísu ug bír,</i> Let's have sausages with our beer. <number>2</number> <itype>[b6]</itype> be the subject of gossip. <i>Aku na puy gisumsúman ninyu ug tabì,</i> This time I am the subject of your gossip. <pos>n</pos> <number>1</number> thing eaten along with drinks. <number>2</number> action of having food with liquor. <i>Dúnay sumsum sa ka Kardu rung gabíi,</i> There's going to be drinks with eating at Cardo's tonight. <form>-ay(&rarr;)</form> <pos>n</pos> eating and drinking spree. <form>-an</form> <pos>n</pos> <number>1</number> <xr>= <sc>SUMSUM</sc></xr>.</xr> <number>2</number> subject of gossip. <pos>v</pos> <itype>[A13]</itype> have an eating and drinking spree.
+<p><form>sumsum</form> <pos>v</pos> <number>1</number> <itype>[A; c2]</itype> eat s.t. with drinks. <i>Isumsum (sumsuman) nátù ning surísu ug bír,</i> Let's have sausages with our beer. <number>2</number> <itype>[b6]</itype> be the subject of gossip. <i>Aku na puy gisumsúman ninyu ug tabì,</i> This time I am the subject of your gossip. <pos>n</pos> <number>1</number> thing eaten along with drinks. <number>2</number> action of having food with liquor. <i>Dúnay sumsum sa ka Kardu rung gabíi,</i> There's going to be drinks with eating at Cardo's tonight. <form>-ay(&rarr;)</form> <pos>n</pos> eating and drinking spree. <form>-an</form> <pos>n</pos> <number>1</number> <xr>= <sc>SUMSUM</sc>.</xr> <number>2</number> subject of gossip. <pos>v</pos> <itype>[A13]</itype> have an eating and drinking spree.
 
 <p><form>sumu<sub>1</sub></form> a for tobacco to burn poorly. <i>Sumu kaáyu ning tabakúa ug mabálaw tag yupyup,</i> This tobacco is so hard to get to burn, and you go crazy trying to suck on it. <pos>v</pos> <itype>[B126; b6]</itype> be slow-burning.
 
@@ -2099,7 +2103,7 @@ drinking the wine of love.
 
 <p><form>sundang</form> <pos>n</pos> <tr>bolo</tr>, the general name for large knives, machetes, and swords used for heavy cutting work and as weapons. <pos>v</pos> <itype>[a12]</itype> make into a bolo. <form>(&rarr;)</form> <pos>v</pos> <itype>[a12]</itype> strike with a bolo.
 
-<p><form>sundanun</form> <xr>= <sc>SANDANUN</sc></xr>.</xr> <ix>see</ix> <xr><sc>SANDANAY</sc>.</xr>
+<p><form>sundanun</form> <xr>= <sc>SANDANUN</sc>.</xr> <ix>see</ix> <xr><sc>SANDANAY</sc>.</xr>
 
 <p><form>*sunding</form> <ix>see</ix> <xr><sc>PASUNDING</sc>.</xr>
 
@@ -2121,13 +2125,13 @@ drinking the wine of love.
 
 <p><form>sung-ay</form> <pos>v</pos> <itype>[A; c16]</itype> <number>1</number> carry s.o. on one's shoulder, esp. with legs astraddle the neck. <i>Dì ku makasung-ay nímu kay sakit ang ákung abága,</i> I cannot carry you on my shoulders because they are sore. <number>2</number> assume a financial burden, esp. for a political candidacy. <i>Sung-áyun níya ang kandidatúra ni Kabaybay,</i> He will support Kabaybay's candidacy.
 
-<p><form>sungban</form> <xr>= <sc>SUMBAN</sc></xr>.</xr>
+<p><form>sungban</form> <xr>= <sc>SUMBAN</sc>.</xr>
 
 <p><form>sunggal</form> <pos>v</pos> <itype>[A; a12]</itype> come to <tr>disturb</tr> or <tr>harass</tr> s.o. <i>Kanúnayng musunggal sa íyang kunsinsiya ang dakù níyang kasal-ánan,</i> The wrong he had done always disturbs his conscience. <i>Hawu ang nagsunggal sa íyang manukan,</i> A monitor lizard <tr>raided</tr> his chicken yard.
 
-<p><form>sunggat</form> <xr>= <sc>SALUNGGAT</sc></xr>.</xr>
+<p><form>sunggat</form> <xr>= <sc>SALUNGGAT</sc>.</xr>
 
-<p><form>sunggaw</form> <xr>= <sc>SUNGGAL</sc></xr>.</xr>
+<p><form>sunggaw</form> <xr>= <sc>SUNGGAL</sc>.</xr>
 
 <p><form>sunggu</form> <pos>n</pos> <tr>nosebleed</tr>. <pos>v</pos> <itype>[B16; a4]</itype> suffer nosebleed. <i>Nagsunggu (gisunggu) ang buksidur pagkaigù sa ilung,</i> The boxer got a bloody nose when he was hit in the nose.
 
@@ -2155,7 +2159,7 @@ drinking the wine of love.
 
 <p><form>sungkit</form> <pos>n</pos> <tr>pole</tr> or <tr>stick</tr>, usually with a hook at the end used to get s.t. out of reach. <pos>v</pos> <itype>[A; a]</itype> get s.t. out of reach with a <ix>sungkit</ix>. <i>Sungkítun nákù ang mga prútas nga dì maabut,</i> I'll get the fruits that are out of reach down with a pole.
 
-<p><form>sungkiub</form> <xr>= <sc>SINGKUUNG</sc></xr>.</xr>
+<p><form>sungkiub</form> <xr>= <sc>SINGKUUNG</sc>.</xr>
 
 <p><form>sungkù</form> <pos>v</pos> <number>1</number> <itype>[A2; c]</itype> <tr>reach</tr> up to a point. <i>Musungkù ang Krismas tri sa pisami,</i> The Christmas tree touches the ceiling. <i>Isungkù ang kural sa kílid sa balay,</i> Have the fence reach the side of the house. <number>1a</number> <itype>[a3b2]</itype> bump one's head against s.t. above. <i>Gi! Nasungkù ang ákung úlu sa sanga,</i> Ouch! I bumped my head against the branch. <number>2</number> <itype>[A; a12]</itype> go to see s.o. for a purpose. <i>Akuy musungkù sa mga táwu arun sila mahibalu nga may trabáhu ugmà,</i> I will go notify the people that there will be work tomorrow. <i>Gisungkù ku ang ákung inahan arun papuy-un dinhi sa Sugbu,</i> I went to fetch my mother to have her live here in Cebu. <form>&mdash; sa</form> reaching as far as. <i>Sungkù sa lángit ang ákung kalípay,</i> My happiness knows no bounds (lit. reaches the heavens).
 
@@ -2175,11 +2179,11 @@ drinking the wine of love.
 
 <p><form>sungsung<sub>1</sub></form> <pos>v</pos> <itype>[A; b6]</itype> <tr>stop up</tr> or <tr>stuff</tr> s.t. into a tube or mouth of a bottle. <i>Nagsungsung ku ug tabákù sa ákung hunsuy,</i> I am stuffing tobacco into my pipe. <i>Nasungsungan ang labábu,</i> The washbasin got <tr>stopped up</tr>. <i>Sungsúngi ang bàbà sa butilya,</i> Put a cork into the mouth of the bottle. <pos>n</pos> <number>1</number> <tr>stopper</tr>. <number>2</number> pinch of pipe tobacco, enough to put in the pipe. <number>3</number> k.o. <tr>posthole digger</tr> made of a bamboo pole which is forced into the ground and then pulled out with the dirt stopped up inside it.
 
-<p><form>sungsung<sub>2</sub></form> <xr>= <sc>SALUNGSUNG</sc></xr>.</xr>
+<p><form>sungsung<sub>2</sub></form> <xr>= <sc>SALUNGSUNG</sc>.</xr>
 
 <p><form>sungu</form> <pos>n</pos> <number>1</number> <tr>bill</tr>, <tr>beak</tr> of fowl or birds. <number>2</number> similar structure in other animals: <tr>trunk</tr> of elephants or the <tr>proboscis</tr> of mosquitoes. <number>3</number> the whitish triangular lower structure of a grain of corn that attaches it to the cob. <number>3a</number> by extension, the tough, somewhat transparent covering of the corn kernel. <form>(&larr;)</form> <pos>v</pos> <itype>[C; a12]</itype> in cockfighting, set the cocks and let them peck at each other before fighting them or determining the winner. <pos>n</pos> action of having cocks peck at each other. <form>sungusúngu sa mais</form> <xr>= <sc>SUNGU</sc>, <i>n3a.</i></xr> <form>sunghan</form> <xr>= <sc>SULÁHAN</sc>.</xr> <xr><ix>see</ix> <sc>SÚLA</sc>.</xr>
 
-<p><form>súngug</form> <xr>= <sc>SUNGLUG</sc></xr>.</xr>
+<p><form>súngug</form> <xr>= <sc>SUNGLUG</sc>.</xr>
 
 <p><form>sung-un</form> <ix>see</ix> <xr><sc>SUUNG</sc>.</xr>
 
@@ -2573,7 +2577,7 @@ drinking the wine of love.
 
 <p><form>syáping</form> <pos>v</pos> <number>1</number> <itype>[A1; b6]</itype> go shopping for dry goods. <i>Magsyáping ka sa Wayit Guld?</i> Will you go shopping in the White Gold (department store)? <number>2</number> <itype>[A; b6]</itype> <tr>window-shop</tr>.
 
-<p><form>syapirun</form> <xr>= <sc>TSAPIRUN</sc></xr>.</xr>
+<p><form>syapirun</form> <xr>= <sc>TSAPIRUN</sc>.</xr>
 
 <p><form>syápù</form> <pos>n</pos> k.o. <tr>shrub</tr> of waste places, the bark of which makes a weak rope.
 
@@ -2611,7 +2615,7 @@ drinking the wine of love.
 
 <p><form>syíring</form> <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> sew s.t. with <tr>shirring</tr>. <number>2</number> <itype>[A; b6]</itype> wear s.t. with shirring. <pos>n</pos> s.t. sewn with shirring.
 
-<p><form>syirtu</form> <xr>= <sc>SIRTU</sc></xr>.</xr>
+<p><form>syirtu</form> <xr>= <sc>SIRTU</sc>.</xr>
 
 <p><form>syista</form> <pos>n</pos> <tr>siesta</tr>, a brief nap after lunch. <pos>v</pos> <itype>[A]</itype> take a siesta.
 
@@ -2631,7 +2635,7 @@ drinking the wine of love.
 
 <p><form>syurtkat</form> <pos>n</pos> <tr>short-cut</tr> route, shortest way to reach a place. <i>Kining karsáda mauy syurtkat sa Talísay,</i> This road is a <tr>shortcut</tr> to Talisay. <pos>v</pos> <itype>[A2; a2]</itype> take a shortcut. <i>Nagsyurtkat mi sa baul,</i> We took a shortcut through the field.
 
-<p><form>syurt pants, syurts</form> <xr>= <sc>SURTPAN</sc></xr>.</xr>
+<p><form>syurt pants, syurts</form> <xr>= <sc>SURTPAN</sc>.</xr>
 
 <p><form>syút<sub>1</sub></form> go ahead ask the question. <i>Ug andam ka na sa ímung pangutána, syút!</i> If you are ready with your question, go ahead, <tr>shoot</tr>!
 
@@ -2681,7 +2685,7 @@ drinking the wine of love.
 
 <p><form>tabagsak</form> <pos>n</pos> k.o. <tr>sardine</tr>, slightly fatter than the <ix>tagnípis</ix>: <bio>Sardinella sp</bio>.
 
-<p><form>tabagsuy</form> <xr>= <sc>TIBAGSUY</sc></xr>.</xr>
+<p><form>tabagsuy</form> <xr>= <sc>TIBAGSUY</sc>.</xr>
 
 <p><form>tabak</form> <pos>v</pos> <itype>[A13P; b6P]</itype> <tr>give</tr>, <tr>furnish</tr> s.o. with s.t. that can be worn on one's person for a purpose. <i>Kinsay nagtabak (nagpatabak) nímu ánang tráhi?</i> Who furnished you that suit? <i>Walà siya mahadluk kay gitabakan (gipatabakan) ug pistúla,</i> He was not afraid because he was furnished a pistol.
 
@@ -2693,13 +2697,13 @@ drinking the wine of love.
 
 <p><form>tabal</form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> preserve large fish by salting but not drying under the sun. <number>2</number> <itype>[a12]</itype> keep a piece of gossip. <i>Gitabal nákù ang íyang pagkadisgrasyáda,</i> I kept it a <tr>secret</tr> that she once had a baby out of wedlock. <form>-in-</form> <pos>n</pos> fish preserved with salt.
 
-<p><form>tabal-ak</form> <pos>n</pos> a k.o. large woven <tr>sack</tr>, usually made of buri leaves, commonly used for holding brown sugar or salt. <i>Usa ka tabal-ak kámay,</i> A buri bag full of brown sugar. <pos>a</pos> for a woman to be fat and shapeless like a <ix>tabal-ak</ix>. <pos>v</pos> <number>1</number> <itype>[A; a2]</itype> make this k.o. container. <number>2</number> <itype>[c1]</itype> do by the <ix>tabal-ak</ix>. <number>3</number> <itype>[B1256]</itype> get to look like a <ix>tabal-ak</ix>. <i>Lawásan pa nà run, apan manghinap[=û]<note> this does not appear as an acute in the text</note> ka túig karun matabal-ak na pud nà,</i> She may have a good body, but give her ten years and she will look like a sack. <form>-in-</form> <pos>n</pos> put in the <ix>tabal-ak</ix>. <pos>v</pos> <xr>= <sc>TABAL-AK</sc>, <i>v2.</i></xr>
+<p><form>tabal-ak</form> <pos>n</pos> a k.o. large woven <tr>sack</tr>, usually made of buri leaves, commonly used for holding brown sugar or salt. <i>Usa ka tabal-ak kámay,</i> A buri bag full of brown sugar. <pos>a</pos> for a woman to be fat and shapeless like a <ix>tabal-ak</ix>. <pos>v</pos> <number>1</number> <itype>[A; a2]</itype> make this k.o. container. <number>2</number> <itype>[c1]</itype> do by the <ix>tabal-ak</ix>. <number>3</number> <itype>[B1256]</itype> get to look like a <ix>tabal-ak</ix>. <i>Lawásan pa nà run, apan manghinap&umacrcir;<note> this does not appear as an acute in the text</note> ka túig karun matabal-ak na pud nà,</i> She may have a good body, but give her ten years and she will look like a sack. <form>-in-</form> <pos>n</pos> put in the <ix>tabal-ak</ix>. <pos>v</pos> <xr>= <sc>TABAL-AK</sc>, <i>v2.</i></xr>
 
 <p><form>tában</form> (from <ix>talában</ix>) <pos>v</pos> <number>1</number> <itype>[AC; a12]</itype> <tr>elope</tr>. <i>Nagtában ang duha ug wà na lang pakasal,</i> The two eloped and did not get married formally. <number>2</number> <xr>= <sc>TALÁBAN</sc>.</xr> <form>pa-</form> <pos>v</pos> <itype>[A; c]</itype> <number>1</number> give, put s.t. miscellaneous along with the thing of primary interest. <i>Magpatában siyag kwarta matag sulat níya,</i> He <tr>encloses</tr> money each time he writes. <i>Gipatabánan ug midiyas ang gipalit kung sapátus,</i> A pair of socks went together with the shoes I bought. <number>2</number> do s.t. additional, do s.t. but not without making unwanted remarks. <i>Muhátag lagi, apan patabánan ug sirmun,</i> Sure, she'll give you some but not without reading you a lecture. <pos>n</pos> s.t. <tr>enclosed</tr> or put along with.
 
 <p><form>tabanaw</form> <pos>n</pos> <number>1</number> <tr>whore</tr>, <tr>prostitute</tr>. <number>2</number> <tr>fake</tr>. <i>Dì ku mudáwat niánang tabanaw nga kwarta,</i> I won't accept that fake money. <pos>v</pos> <itype>[B16; a1c1]</itype> be a prostitute.
 
-<p><form>tábang</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <tr>help</tr>, give a hand. <i>Tabángi siya,</i> Help her. <i>Kun may ikatábang ku sangpit lang,</i> If I can do s.t., just call on me. (&rarr;) <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>rescue</tr>, attend to s.o. suddenly ill. <i>Tabanga siya kay hápit na malumus,</i> Rescue him because he's drowning. <number>2</number> <itype>[a]</itype> be <tr>helped</tr>, <tr>remedied</tr>. <i>Matabang pa kahà ning dakù mag sayup,</i> Can this big error still be <tr>corrected</tr>? <number>3</number> manage to do all of s.t. <i>Dì na matabang ning kadaghanúna,</i> I can't manage to do this much work. <number>4</number> <itype>[A3; b(1)]</itype> gang up to do s.t. together. <i>Nap[=û]<note>again, this does not appear as an acute</note> ang mitabang nákug sumbagay,</i> Ten people ganged up to fight against me. <i>Tabangan nátù nig káun kay daghan,</i> Let's all of us help eat this because there's so much. <number>5</number> <itype>[A; a1]</itype> hook in a big catch with a <tr>gaff</tr>. <i>Tabanga ang íyang kuhà arun dì makabuhì,</i> Hook in his catch with a gaff so that it can't get away. <pos>n</pos> a <tr>gaff</tr> attached to a handle used to help pull in a big fish caught on a fishline. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> assist in child delivery. <i>Akuy nanábang pagpanganak níya,</i> I delivered her baby. <pos>n</pos> <tr>help</tr>, <tr>aid</tr>. <form>-ay, -in-ay</form> <pos>v</pos> <itype>[C2]</itype> help each other. <form>hiN-</form> <pos>v</pos> <itype>[A; c5]</itype> send aid (usually material assistance). <i>Gihinabángan ang Byapra sa Ridkrus,</i> Biafra is receiving <tr>aid</tr> from the Red Cross. <pos>n</pos> <tr>aid</tr>, <tr>assistance</tr> sent. <form>paki-</form> <pos>v</pos> <itype>[A2S3]</itype> ask for help. <i>Nakitábang (mipakitábang) ang kundinádu sa kinataliwad-an sa íyang kaguul,</i> The condemned man called out for help in the midst of his sorrows. <i>Nagpakitábang (nagpakitabang) ang babáying gilúgus,</i> The woman who was being raped cried for help. <form>singgit paki-</form> <pos>n</pos> cry for help. <form>maN-r-(&rarr;)</form> <pos>n</pos> medically untrained mid-*wife. <form>maN-r-(&rarr;) ug sanggì</form> harvest help. <form>tabangtábang, ka-</form> <pos>n</pos> <tr>helper</tr>, <tr>assistant</tr>. <form>ma-in-un, pahiN-un</form> <pos>a</pos> <tr>helpful</tr>.
+<p><form>tábang</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <tr>help</tr>, give a hand. <i>Tabángi siya,</i> Help her. <i>Kun may ikatábang ku sangpit lang,</i> If I can do s.t., just call on me. (&rarr;) <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>rescue</tr>, attend to s.o. suddenly ill. <i>Tabanga siya kay hápit na malumus,</i> Rescue him because he's drowning. <number>2</number> <itype>[a]</itype> be <tr>helped</tr>, <tr>remedied</tr>. <i>Matabang pa kahà ning dakù mag sayup,</i> Can this big error still be <tr>corrected</tr>? <number>3</number> manage to do all of s.t. <i>Dì na matabang ning kadaghanúna,</i> I can't manage to do this much work. <number>4</number> <itype>[A3; b(1)]</itype> gang up to do s.t. together. <i>Nap&umacrcir;<note>again, this does not appear as an acute</note> ang mitabang nákug sumbagay,</i> Ten people ganged up to fight against me. <i>Tabangan nátù nig káun kay daghan,</i> Let's all of us help eat this because there's so much. <number>5</number> <itype>[A; a1]</itype> hook in a big catch with a <tr>gaff</tr>. <i>Tabanga ang íyang kuhà arun dì makabuhì,</i> Hook in his catch with a gaff so that it can't get away. <pos>n</pos> a <tr>gaff</tr> attached to a handle used to help pull in a big fish caught on a fishline. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> assist in child delivery. <i>Akuy nanábang pagpanganak níya,</i> I delivered her baby. <pos>n</pos> <tr>help</tr>, <tr>aid</tr>. <form>-ay, -in-ay</form> <pos>v</pos> <itype>[C2]</itype> help each other. <form>hiN-</form> <pos>v</pos> <itype>[A; c5]</itype> send aid (usually material assistance). <i>Gihinabángan ang Byapra sa Ridkrus,</i> Biafra is receiving <tr>aid</tr> from the Red Cross. <pos>n</pos> <tr>aid</tr>, <tr>assistance</tr> sent. <form>paki-</form> <pos>v</pos> <itype>[A2S3]</itype> ask for help. <i>Nakitábang (mipakitábang) ang kundinádu sa kinataliwad-an sa íyang kaguul,</i> The condemned man called out for help in the midst of his sorrows. <i>Nagpakitábang (nagpakitabang) ang babáying gilúgus,</i> The woman who was being raped cried for help. <form>singgit paki-</form> <pos>n</pos> cry for help. <form>maN-r-(&rarr;)</form> <pos>n</pos> medically untrained mid-*wife. <form>maN-r-(&rarr;) ug sanggì</form> harvest help. <form>tabangtábang, ka-</form> <pos>n</pos> <tr>helper</tr>, <tr>assistant</tr>. <form>ma-in-un, pahiN-un</form> <pos>a</pos> <tr>helpful</tr>.
 
 <p><form>tab-ang</form> <pos>a</pos> <tr>flat</tr> in taste, lacking sugar or salt. <i>Pun-ig kámay ang kapi kay tab-ang ra,</i> Put more sugar in the coffee because it tastes flat. <i>Ang isdà sa dágat dílì mabúhì sa túbig tab-ang,</i> Marine fishes do not live in fresh water. <pos>v</pos> <number>1</number> <itype>[B; a2]</itype> be flat in taste. <number>2</number> <itype>[b4]</itype> for a man or woman to feel cool toward his sweetheart. <i>Nagbúlag ang managtrátu kay gitab-angan na ang usag-usa kaníla,</i> The sweethearts separated because they got tired of each other. <form>-an(&rarr;)</form> <pos>a</pos> mentally deficient. <i>Wà giyud magtúnu ang íyang gipanulti, mu ra giyug táwung tab-angan,</i> The things he says do not make sense. He seems to be a stupid fool.
 
@@ -2751,9 +2755,9 @@ drinking the wine of love.
 
 <p><form>tabilus</form> <pos>n</pos> k.o. slipmouth with a small mouth which could be elongated when stretched: <bio>Leiognathus sp</bio>.
 
-<p><form>tabing</form> <xr>= <sc>MARBAS</sc></xr>.</xr>
+<p><form>tabing</form> <xr>= <sc>MARBAS</sc>.</xr>
 
-<p><form>tabírak</form> <xr>= <sc>BINIGNIT</sc></xr>.</xr>
+<p><form>tabírak</form> <xr>= <sc>BINIGNIT</sc>.</xr>
 
 <p><form>tabirnakulu</form> <pos>n</pos> <tr>tabernacle</tr>.
 
@@ -2803,7 +2807,7 @@ drinking the wine of love.
 
 <p><form>tabuguk</form> <pos>n</pos> k.o. small octopus, larger than the <ix>tamalà</ix>, smaller than the <ix>kugíta</ix>.
 
-<p><form>tabuk</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> <tr>cross over</tr>, bring s.t. across to the opposite side. <i>Mutabuk na ta sa karsáda,</i> Let's cross the street. <i>Kuyaw tabukun ning subáa kay sulug,</i> This river is dangerous to cross because the current is strong. <i>Itabuk ning asin sa píkas p[=û],</i> Bring the salt across to the other island. <number>1a</number> <itype>[A2; a]</itype> emigrate to another island. <i>Mitabuk siya sa Mindanaw pamásin nga muasinsu,</i> He migrated to Mindanao in the hope that he would be successful there. <number>2</number> <itype>[A2; b6]</itype> move from one group or affiliation to a rival one. <i>Ang Libiral nga diputádu mitabuk ngadtu sa Nasyunalista,</i> The Liberal congressman crossed over to the Nacionalista Party. <pos>n</pos> area on the other side, across the street. <i>Túa siya manarabáhu sa tabuk,</i> He works on the other island (other bank). <form>-anan(&larr;)</form> <pos>n</pos> <number>1</number> <tr>ferryboat</tr>. <number>2</number> small, make-shift bridge. <form>-anun(&larr;)</form> <pos>n</pos> people from across the street, the other island. <form>-l-un</form> <pos>a</pos> to be reached by crossing a body of water.
+<p><form>tabuk</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> <tr>cross over</tr>, bring s.t. across to the opposite side. <i>Mutabuk na ta sa karsáda,</i> Let's cross the street. <i>Kuyaw tabukun ning subáa kay sulug,</i> This river is dangerous to cross because the current is strong. <i>Itabuk ning asin sa píkas p&umacrcir;,</i> Bring the salt across to the other island. <number>1a</number> <itype>[A2; a]</itype> emigrate to another island. <i>Mitabuk siya sa Mindanaw pamásin nga muasinsu,</i> He migrated to Mindanao in the hope that he would be successful there. <number>2</number> <itype>[A2; b6]</itype> move from one group or affiliation to a rival one. <i>Ang Libiral nga diputádu mitabuk ngadtu sa Nasyunalista,</i> The Liberal congressman crossed over to the Nacionalista Party. <pos>n</pos> area on the other side, across the street. <i>Túa siya manarabáhu sa tabuk,</i> He works on the other island (other bank). <form>-anan(&larr;)</form> <pos>n</pos> <number>1</number> <tr>ferryboat</tr>. <number>2</number> small, make-shift bridge. <form>-anun(&larr;)</form> <pos>n</pos> people from across the street, the other island. <form>-l-un</form> <pos>a</pos> to be reached by crossing a body of water.
 
 <p><form>tabukaw</form> <pos>n</pos> k.o. yaws, swelling with an oozing opening in the center, growing to 1&Prime;, after which <ix>sungkil</ix> develops.
 
@@ -2833,9 +2837,9 @@ drinking the wine of love.
 
 <p><form>tabyug</form> <pos>v</pos> <itype>[AB456; a1]</itype> swing s.t. suspended. <i>Mitabyug ang písing ákung gikumbibátan,</i> The rope I was clinging to swung. <i>Kinsay nagtabyug sa dúyan?</i> Who swung the hammock? <pb n=955><i>Tabyúga ang butùbútù sa kampána,</i> Swing the clapper of the big bell. <pos>n</pos> s.t. used to swing a hammock, such as a string.
 
-<p><form>tabyun</form> <xr>= <sc>KULABYUN</sc></xr>.</xr>
+<p><form>tabyun</form> <xr>= <sc>KULABYUN</sc>.</xr>
 
-<p><form>tabyus</form> <xr>= <sc>KADYUS</sc></xr>.</xr>
+<p><form>tabyus</form> <xr>= <sc>KADYUS</sc>.</xr>
 
 <p><form>tád</form> <pos>n</pos> k.o. small, slippery <tr>fishes</tr> of various colors, with large scales, found in seaweeds.
 
@@ -2847,7 +2851,7 @@ drinking the wine of love.
 
 <p><form>tadlas</form> <tr>across</tr> an area. <i>Midágan siya tadlas sa uma,</i> He ran across the farm. <pos>v</pos> <itype>[A; a]</itype> <tr>go across</tr> a broad area. <i>Tadlásun ku ang kadagátan pagpangítà nímu,</i> I'll <tr>cross</tr> the oceans searching for you. <form>-an(&rarr;)</form> <pos>n</pos> center player of the defensive team in <ix>tubigtúbig</ix>.
 
-<p><form>tadlip</form> <xr>= <sc>ADLIP</sc></xr>.</xr>
+<p><form>tadlip</form> <xr>= <sc>ADLIP</sc>.</xr>
 
 <p><form>tadluk</form> <pos>n</pos> coconut seedling. <i>Pilía ang tambuk nga tadluk,</i> Choose a healthy seedling. <pos>v</pos> <itype>[A; a12]</itype> let coconuts sprout for seedlings. <i>Mutadluk (magtadluk) tag pila ka buuk,</i> We will let a few coconuts sprout into seedlings.
 
@@ -2861,9 +2865,9 @@ drinking the wine of love.
 
 <p><form>tadyak</form> <pos>v</pos> <itype>[A; b]</itype> <tr>kick</tr> hard with the foot. <i>Tadyáki ang irung náa sa iláwum sa lamísa,</i> Kick that dog under the table.
 
-<p><form>tadyaw</form> <xr>= <sc>TADIYAW</sc></xr>.</xr>
+<p><form>tadyaw</form> <xr>= <sc>TADIYAW</sc>.</xr>
 
-<p><form>tadyus</form> <xr>= <sc>KADYUS</sc></xr>.</xr>
+<p><form>tadyus</form> <xr>= <sc>KADYUS</sc>.</xr>
 
 <p><form>tadyùtù</form> <xr>= <sc>TAYÙTÙ</sc>.</xr>
 
@@ -2887,7 +2891,7 @@ drinking the wine of love.
 
 <p><form>tagábung<sub>2</sub></form> <xr>= <sc>TUGÁBUNG</sc>.</xr>
 
-<p><form>tagad</form> <pos>v</pos> <number>1</number> <itype>[A; a1]</itype> <tr>give attention to</tr>, <tr>mind</tr>. <i>Wà na siya magtagad sa íyang pangláwas,</i> She stopped paying attention to her health. <i>Wà ku makatagad nímu dáyun,</i> I wasn't able to <tr>attend to</tr> you at once. <i>Walà ni Li tagda ang ákung pakilúuy,</i> Lee did not heed my pleading. <number>1a</number> <itype>[A; c]</itype> <tr>pay attention to</tr> s.o. showing warmth, concern. <i>Mutagad lang siya kun unáhan,</i> He is friendly to others only when they speak to him first. <i>Nagtagad pa giyud kag andam dà,</i> You shouldn't have bothered fixing anything to eat. <number>2</number> <itype>[A; a2]</itype> <tr>wait for</tr>. <i>Ása ta magtagad ug sakyanan?</i> Where shall we wait for the bus? <pos>n</pos> action of <tr>caring</tr>. <i>Wà siyay tagad sa íyang pagkáun,</i> He is not particular about his food. <form>(&larr;)</form> <xr>= <sc>TAGAD</sc>, <i>v2.</i></xr> <form>tagdanay, tinagdanay</form> <pos>v</pos> <itype>[C2]</itype> be on friendly terms with each other. <form>-in-</form> <pos>a</pos> <tr>looked up to</tr>, <tr>respected</tr>, considered important. <i>Usa siya sa mga tinagad nga táwu sa lungsud,</i> He is one of the respected people in the town. <pos>v</pos> <itype>[A13N]</itype> treat s.o. as worthy of attention. <i>Magtinagad (maninagad) ka man niánang bastus,</i> Why do you mind those rowdy fellows? <form>-anan, tagaranan</form> <pos>n</pos> <tr>waiting place</tr>. <form>tinagdan</form> <pos>n</pos> manner of attending to s.t. <i>Lahì ang íyang tinagdan (pagtagad) kanákù karun sa kaniadtu,</i> She treats me differently from the way she used to. <form>matinagdánun</form> <pos>a</pos> <tr>attentive</tr>. <form>pag-</form> <pos>n</pos> <number>1</number> <tr>attention</tr>. <i>Ang íyang líhuk nakadani sa ákung pagtagad,</i> The way she acted caught my attention. <number>2</number> <xr>= <sc>TINAGDAN</sc></xr>.</xr>
+<p><form>tagad</form> <pos>v</pos> <number>1</number> <itype>[A; a1]</itype> <tr>give attention to</tr>, <tr>mind</tr>. <i>Wà na siya magtagad sa íyang pangláwas,</i> She stopped paying attention to her health. <i>Wà ku makatagad nímu dáyun,</i> I wasn't able to <tr>attend to</tr> you at once. <i>Walà ni Li tagda ang ákung pakilúuy,</i> Lee did not heed my pleading. <number>1a</number> <itype>[A; c]</itype> <tr>pay attention to</tr> s.o. showing warmth, concern. <i>Mutagad lang siya kun unáhan,</i> He is friendly to others only when they speak to him first. <i>Nagtagad pa giyud kag andam dà,</i> You shouldn't have bothered fixing anything to eat. <number>2</number> <itype>[A; a2]</itype> <tr>wait for</tr>. <i>Ása ta magtagad ug sakyanan?</i> Where shall we wait for the bus? <pos>n</pos> action of <tr>caring</tr>. <i>Wà siyay tagad sa íyang pagkáun,</i> He is not particular about his food. <form>(&larr;)</form> <xr>= <sc>TAGAD</sc>, <i>v2.</i></xr> <form>tagdanay, tinagdanay</form> <pos>v</pos> <itype>[C2]</itype> be on friendly terms with each other. <form>-in-</form> <pos>a</pos> <tr>looked up to</tr>, <tr>respected</tr>, considered important. <i>Usa siya sa mga tinagad nga táwu sa lungsud,</i> He is one of the respected people in the town. <pos>v</pos> <itype>[A13N]</itype> treat s.o. as worthy of attention. <i>Magtinagad (maninagad) ka man niánang bastus,</i> Why do you mind those rowdy fellows? <form>-anan, tagaranan</form> <pos>n</pos> <tr>waiting place</tr>. <form>tinagdan</form> <pos>n</pos> manner of attending to s.t. <i>Lahì ang íyang tinagdan (pagtagad) kanákù karun sa kaniadtu,</i> She treats me differently from the way she used to. <form>matinagdánun</form> <pos>a</pos> <tr>attentive</tr>. <form>pag-</form> <pos>n</pos> <number>1</number> <tr>attention</tr>. <i>Ang íyang líhuk nakadani sa ákung pagtagad,</i> The way she acted caught my attention. <number>2</number> <xr>= <sc>TINAGDAN</sc>.</xr>
 
 <p><form>tagadtad</form> <pos>a</pos> for the meat of fleshy fruits and tubers to have hardened parts. <i>Tagadtad kaáyu ang kamúti nga guwang,</i> Matured sweet potatoes have hardened portions. <pos>v</pos> <itype>[B2]</itype> get to have hardened portions. <i>Sakit ang nakatagadtad (nakapatagadtad) sa ságing,</i> A blight caused the bananas to develop hardened lumps.
 
@@ -2937,7 +2941,7 @@ drinking the wine of love.
 
 <p><form>tagaytay</form> (from <ix>taytay</ix>) <pos>n</pos> <tr>mountain ridge</tr>. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> go along the mountain ridges. <i>Managaytay lang ta kay gibahaan ang ubus,</i> Let's travel along the ridge because the valleys are flooded.
 
-<p><form>tagbagu</form> <xr>= <sc>TALAGBAGU</sc></xr>.</xr>
+<p><form>tagbagu</form> <xr>= <sc>TALAGBAGU</sc>.</xr>
 
 <p><form>tagbak<sub>1</sub></form> <pos>n</pos> k.o. <tr>herring</tr>: <bio>Ilisha hoevenii</bio>.
 
@@ -3069,7 +3073,7 @@ drinking the wine of love.
 
 <p><form>tagultul<sub>1</sub></form> <pos>n</pos> <number>1</number> a signalling device made of a nodule of bamboo having the nodes covering both ends and a slit on the side. <number>2</number> thonking sound. <pos>v</pos> <itype>[A; a2]</itype> beat this <tr>bamboo resounder</tr> or produce a similar sound. <i>Mutagultul siya arun pagtawag sa mga silíngan,</i> He sounds the bamboo resounder to call the neighbors.<i> Mutagultul ang likiun nga kawáyan kun dukdúkun sa káhuy,</i> A cracked bamboo tube will make the sound of thonk-thonk if you beat it with a stick.
 
-<p><form>tagultul<sub>2</sub></form> <xr>= <sc>TAGAWTAW</sc></xr>.</xr>
+<p><form>tagultul<sub>2</sub></form> <xr>= <sc>TAGAWTAW</sc>.</xr>
 
 <p><form>tagul-ul</form> <pos>n</pos> k.o. bird.
 
@@ -3089,7 +3093,7 @@ drinking the wine of love.
 
 <p><form>tagurha</form> <ix>see</ix> <xr><sc>DUHA</sc>.</xr>
 
-<p><form>tag-usà</form> <xr>= <sc>TALAGSA</sc></xr>.</xr> <ix>see</ix> <xr><sc>USA</sc>.</xr>
+<p><form>tag-usà</form> <xr>= <sc>TALAGSA</sc>.</xr> <ix>see</ix> <xr><sc>USA</sc>.</xr>
 
 <p><form>tagustus</form> <pos>v</pos> <number>1</number> <itype>[AB; c1]</itype> for rope to <tr>unwind</tr>, get undone. <i>Usba pagbúbud ang písì kay nagtagustus na,</i> Wind the rope again because it is <tr>unreeling</tr>. <i>Itagustus (tagustúsa) ang mga lánut nga gibugkus,</i> Undo the abaca fibers that had been tied in place. <number>2</number> <itype>[AP; c1P]</itype> pay out a line slowly. <i>Ikay tagustus (patagustus) sa láyag inigkusug sa hángin,</i> Lower the sails slowly when the wind begins to blow hard. <i>Tagustúsi ang tabánug. Taas bítaw ang lambu,</i> Give the kite more line. Anyway it has a long line.
 
@@ -3101,7 +3105,7 @@ drinking the wine of love.
 
 <p><form>tagutungan</form> <xr>= <sc>DUTÙ</sc>.</xr>
 
-<p><form>tagyaw</form> <xr>= <sc>TADIYAW</sc></xr>.</xr>
+<p><form>tagyaw</form> <xr>= <sc>TADIYAW</sc>.</xr>
 
 <p><form>tagyum</form> <xr>= <sc>LALUM</sc></xr> <i>1, 3, 4</i> (dialectal).
 
@@ -3183,9 +3187,9 @@ drinking the wine of love.
 
 <p><form>takdù</form> <tr>exactly</tr>, no more and no less. <i>Takdù karung diyis anyus ang átung kaminyúun,</i> We have been married for exactly ten years today. <i>Takdù sa gikasabútan,</i> In exact accordance with their agreement. <i>Takdù giyud sa nahitabù ang íyang tahù,</i> His report turned out to be exactly in agreement with what had happened. <form>&mdash; ang búwan</form> for the moon to be full. <pos>v</pos> <itype>[AB256C3; c1]</itype> <number>1</number> for things that are joined to fit exactly at their point of junction, make s.t. fit. <i>Walà mutakdù ang takub sa kaban,</i> The cover of the trunk doesn't fit squarely. <i>Takdúa (itakdù) ang duha ka iskína arun tíkup,</i> Have the corners meet and fit to make it tight. <number>2</number> <tr>coincide</tr>, be in agreement with each other; <pb n=966>make things be in agreement. <i>Ang íyang kamatáyun ug ang ímung damgu nagkatakdù lang,</i> His death and your dream were just a <tr>coincidence</tr>. <i>Itakdù ang ímung bakak sa akúa arun katuúhan,</i> Make your lie be in <tr>accordance</tr> with mine so they will be plausible. <number>3</number> be <tr>appropriate</tr>. <i>Kinahanglang mutakdù ang ímung isul-ub sa ukasiyun,</i> Your attire must <tr>fit</tr> the occasion. <number>3a</number> <itype>[C3]</itype> be on compatible terms with each other. <i>Nagkatakdù ang duha ka buringug,</i> The two fools <tr>hit it off</tr> nicely. <form>-in-an</form> <pos>n</pos> point of junction, place s.t. meets.
 
-<p><form>takdul<sub>1</sub></form> <xr>= <sc>DAKTUL</sc></xr>.</xr>
+<p><form>takdul<sub>1</sub></form> <xr>= <sc>DAKTUL</sc>.</xr>
 
-<p><form>takduy</form> <xr>= <sc>TAGDUY</sc></xr>.</xr>
+<p><form>takduy</form> <xr>= <sc>TAGDUY</sc>.</xr>
 
 <p><form>takgus</form> <pos>v</pos> <itype>[A; ac]</itype> <number>1</number> <tr>fasten</tr> s.t. to s.t. with a knotted cord. <i>Palíhug rag takgus sa ríbun sa ákung<note>not sure, whether letter is missing</note><note>P2, P3 thinks it's just a stray mark.</note> buhuk,</i> Please tie my hair up for me with a ribbon. <i>Takgúsun na silang duha sa talikálà sa kaminyúun,</i> They are going to be <tr>bound</tr> together in wedlock. <i>Ang salug nga kawáyan takgúsan ug uway ngadtu sa busaug,</i> The bamboo flooring is <tr>tied</tr> to the joists with rattan. <number>2</number> tie into a loop that easily gets undone. <i>Takgúsa ang list&ucaron;n sa ákung sapátus,</i> Tie my shoelace. <number>3</number> tie s.t. around s.t. <i>Nagtakgus siyag sundang sa háwak,</i> He strapped a bolo around his waist. <i>Itakgus ang tarì sa tiil sa hiniktan,</i> Tie the gaff around the cock's leg. <pos>n</pos> s.t. that is fastened to s.t. else by entwining or the like. <form>-in-an(&rarr;)</form> <pos>n</pos> the knotted part of s.t. tied. <i>Tan-áwa nga dílì mailhan ang tinakgusan,</i> See to it that the knotted part does not show.
 
@@ -3213,7 +3217,7 @@ drinking the wine of love.
 
 <p><form>takingking</form> <pos>v</pos> <itype>[A; a]</itype> <tr>hop</tr> on one leg. <i>Takingkínga kútub ngadtu,</i> Hop up to there on one leg.
 
-<p><form>takinhud</form> <xr>= <sc>TANGKIHUD</sc></xr>.</xr>
+<p><form>takinhud</form> <xr>= <sc>TANGKIHUD</sc>.</xr>
 
 <p><form>takip</form> <pos>v</pos> <number>1</number> <itype>[A; c6]</itype> <tr>include</tr> along with, do to s.t. at the same time as one does it to s.t. else. <i>Kinsay nagtakip sa ákung ngálan sa lista?</i> Who included my name in the list? <i>Nagtakip kug ritrátu sa ákung sulat,</i> I <tr>enclosed</tr> a picture in my letter. <i>Gikatakip nákug gastu ang ímung kwarta,</i> I spent your money <tr>along with</tr> mine. <form>(&larr;)</form> <pos>v</pos> <itype>[A; a1c]</itype> join flat things one on top of the other or at their edges. <i>Takípa nang duha ka papil arun madakù (mabagà),</i> Join those two sheets of paper to make them bigger (or Paste them on top of one another to make them thicker).
 
@@ -3239,7 +3243,7 @@ drinking the wine of love.
 
 <p><form>taklung</form> <pos>v</pos> <itype>[b8]</itype> be caught by being covered by s.t. which falls. <i>Ang iring nataklungan sa kahun,</i> The cat was caught by a box that fell on it.
 
-<p><form>taklus</form> <xr>= <sc>TAKGUS</sc></xr>.</xr>
+<p><form>taklus</form> <xr>= <sc>TAKGUS</sc>.</xr>
 
 <p><form>takmag</form> <pos>v</pos> <itype>[A; b(1)]</itype> for a male animal to <tr>mount</tr> on the female. <i>Basta mangúlag ang anay, mutakmag giyud ang butù,</i> If the sow is in heat, the male will mount her.
 
@@ -3259,7 +3263,7 @@ drinking the wine of love.
 
 <p><form>taksì<sub>2</sub></form> <pos>v</pos> <itype>[A; a]</itype> strip abaca, buri palm leaves, and the like of vegetable matter to get the fiber. <pos>n</pos> instrument for stripping. <form>-an</form> <pos>n</pos> abaca <pb n=968>stripper. <form>-in-</form> <pos>n</pos> stripped stalks.
 
-<p><form>taksikab</form> <xr>= <sc>TAKSI</sc></xr>.</xr>
+<p><form>taksikab</form> <xr>= <sc>TAKSI</sc>.</xr>
 
 <p><form>taksinilya</form> <pos>n</pos> humorous word for <ix>tartanilya</ix>, used in contexts where one says he doesn't have money to take the taxi. <pos>v</pos> <itype>[A; a]</itype> take the <ix>tartanilya</ix>. <i>Taksinilya lang ta,</i> Let's just take the <ix>tartanilya</ix> brand of taxi.
 
@@ -3269,7 +3273,7 @@ drinking the wine of love.
 
 <p><form>taktika</form> <pos>n</pos> <number>1</number> <tr>strategy</tr>, <tr>tactics</tr>. <number>2</number> <tr>scheme</tr>, <tr>ruse</tr>. <i>Taktika lang tu nákù arun malipat siya,</i> It was just a ruse to deceive him. <pos>v</pos> <itype>[a12]</itype> make a clever plan. <i>Taktikaha giyug maáyu nga makumbins&icaron;r siya,</i> Make a clever plan to convince him.
 
-<p><form>taktikal</form> <pos>n</pos> examination given by military officers to cadets. <pos>v</pos> <itype>[A13]</itype> have a <tr>tactical inspection</tr>. <form>&mdash; inspiksiyun</form> <xr>= <sc>TAKTIKAL</sc></xr>.</xr>
+<p><form>taktikal</form> <pos>n</pos> examination given by military officers to cadets. <pos>v</pos> <itype>[A13]</itype> have a <tr>tactical inspection</tr>. <form>&mdash; inspiksiyun</form> <xr>= <sc>TAKTIKAL</sc>.</xr>
 
 <p><form>táku</form> <pos>n</pos> <tr>billiard cue</tr>.
 
@@ -3389,7 +3393,7 @@ drinking the wine of love.
 
 <p><form>talantun</form> (not without <ix>l</ix>) <pos>n</pos> <tr>talent</tr>, the unit of weight (Biblical).
 
-<p><form>talapya</form> (not without <ix>l</ix>) <xr>= <sc>TILAPYA</sc></xr>.</xr>
+<p><form>talapya</form> (not without <ix>l</ix>) <xr>= <sc>TILAPYA</sc>.</xr>
 
 <p><form>tálas</form> <xr>= <sc>PATÁLAS</sc>.</xr>
 
@@ -3505,17 +3509,17 @@ drinking the wine of love.
 
 <p><form>talísay</form> <pos>n</pos> k.o. large <tr>tree</tr> similar to an almond tree, growing by the seashore, bearing edible nuts: <bio>Terminalia catappa</bio>. <form>-un</form> <pos>n</pos> <tr>rooster</tr> with black, dark green, and dirty white splotches.
 
-<p><form>talisik</form> <xr>= <sc>TALIGSIK</sc></xr>.</xr>
+<p><form>talisik</form> <xr>= <sc>TALIGSIK</sc>.</xr>
 
 <p><form>talithi, talithì</form> <pos>n</pos> very fine <tr>drizzle</tr>. <pos>v</pos> <number>1</number> <itype>[A3; b4]</itype> <tr>drizzle</tr>. <i>Tána, nagtalithi ra bítaw,</i> Let's go, it's just drizzling. <number>2</number> <itype>[AN; b6]</itype> <tr>spit</tr> with force, usually in derision. <i>Gitalithian (gitalithían, gipanalithían) lang ku níya pag-abla nákù,</i> She just spat derisively at me when I proposed to her.
 
-<p><form>taliti</form> <xr>= <sc>TALITHI</sc></xr>.</xr>
+<p><form>taliti</form> <xr>= <sc>TALITHI</sc>.</xr>
 
 <p><form>talìtì</form> <pos>n</pos> <tr>encrustation</tr> of sediments, <tr>tartar</tr> sticking to a surface. <pos>v</pos> <itype>[B2; a4b4]</itype> be <tr>encrusted</tr> with sediments. <i>Gitalìtian (gitalìtì) ang takurì tungud kay gisigíhag gámit nga way hugashúgas,</i> The kettle is encrusted with sediment because they kept using it without washing it. <i>Ngípun nga nagkatalìtì sa tantung tinabakù,</i> Teeth covered with tartar from smoking so much. <form>-un</form> <pos>a</pos> encrusted with tartar and tobacco tars.
 
 <p><form>taliunduk</form> (from <ix>unduk</ix>) <pos>v</pos> <itype>[B3(1); c1]</itype> be <tr>heaped</tr> up. <i>Nagtaliunduk ang labhanan,</i> The soiled clothes are <tr>piled</tr> up high. <i>Ayawg italiunduk (taliundúka) ang kan-un sa ímung kutsára,</i> Don't put so much food on your spoon at one time. <i>Akuy nataliundukan sa tanang búhat sa balay,</i> All the housework was heaped on me. <pos>n</pos> <tr>heap</tr> of s.t.
 
-<p><form>taliwálà</form> <pos>n</pos> <number>1</number> <tr>middle</tr>, <tr>center</tr> part. <i>Ig-a ang taliw[=â]<note>note the accent. P2</note> sa targit,</i> Hit the center of the target. <i>Taliwálà sa kakuyaw nangaliyúpù siya,</i> In the <tr>midst</tr> of her danger, she prayed. <form>&mdash; sa kámay</form> in the height of excitement or ecstacy<note>typo: ecstasy</note>, esp. sexual intercourse. <i>Bahálà nang mamatay basta taliwálà sa kámay,</i> I don't care if I die as long as it's at the height of sexual excitement. <pos>v</pos> <number>1</number> <itype>[b6]</itype> be situated <tr>in between</tr>, <form>the</form> middle of. Gitaliwad-an kug lingkud sa ákung mga badigard, I was seated in <tr>between</tr> my bodyguards. <number>2</number> <itype>[c1]</itype> do s.t. to s.t. at its center, in its middle part. <i>Taliwáa (taliwad-a) ug bángag ang kwarta,</i> Make a hole in the coin at the center. <form>pa-</form> <pos>v</pos> <number>1</number> <itype>[A; c6]</itype> go, stay at the center or middle. <i>Mipataliwálà sila sa baylihan ug nagsáyaw,</i> They went to the center of the floor and danced. <i>Ipataliw[=â]<note>note the accent. P2</note> siya paglingkud arun way makatupad,</i> Seat her in between us so that no one else can sit beside her. <number>2</number> <itype>[A]</itype> put oneself between people fighting. <i>Mipataliw[=â]<note>note the accent. P2</note> ang amahan paghúnung sa áway,</i> The father cut in to stop the fight. <form>kinataliwad-an</form> <pos>n</pos> <tr>very middle</tr> of s.t.
+<p><form>taliwálà</form> <pos>n</pos> <number>1</number> <tr>middle</tr>, <tr>center</tr> part. <i>Ig-a ang taliw&amacrcir;<note>note the accent. P2</note> sa targit,</i> Hit the center of the target. <i>Taliwálà sa kakuyaw nangaliyúpù siya,</i> In the <tr>midst</tr> of her danger, she prayed. <form>&mdash; sa kámay</form> in the height of excitement or ecstacy<note>typo: ecstasy</note>, esp. sexual intercourse. <i>Bahálà nang mamatay basta taliwálà sa kámay,</i> I don't care if I die as long as it's at the height of sexual excitement. <pos>v</pos> <number>1</number> <itype>[b6]</itype> be situated <tr>in between</tr>, <form>the</form> middle of. Gitaliwad-an kug lingkud sa ákung mga badigard, I was seated in <tr>between</tr> my bodyguards. <number>2</number> <itype>[c1]</itype> do s.t. to s.t. at its center, in its middle part. <i>Taliwáa (taliwad-a) ug bángag ang kwarta,</i> Make a hole in the coin at the center. <form>pa-</form> <pos>v</pos> <number>1</number> <itype>[A; c6]</itype> go, stay at the center or middle. <i>Mipataliwálà sila sa baylihan ug nagsáyaw,</i> They went to the center of the floor and danced. <i>Ipataliw&amacrcir;<note>note the accent. P2</note> siya paglingkud arun way makatupad,</i> Seat her in between us so that no one else can sit beside her. <number>2</number> <itype>[A]</itype> put oneself between people fighting. <i>Mipataliw&amacrcir;<note>note the accent. P2</note> ang amahan paghúnung sa áway,</i> The father cut in to stop the fight. <form>kinataliwad-an</form> <pos>n</pos> <tr>very middle</tr> of s.t.
 
 <p><form>talíwan</form> <pos>v</pos> <number>1</number> <itype>[a3]</itype> for work to be disposed of or finished. <i>Ayaw ug súgud ug láin ug dì pa matalíwan kanang ímu rung gitrabáhu,</i> Don't start anything else as long as you haven't finished what you started there. <number>2</number> <itype>[A23]</itype> for feelings to vanish (literary). <i>Mitalíwan kanákù ang kalípay pagtalikud nímu,</i> When you left, all the joys of life departed with you. <number>3</number> <itype>[B2346]</itype> for a person to <tr>pass away</tr>. <i>Mitalíwan na ang ákung mga ginikánan,</i> My parents have passed away. <form>-um-r-</form> <pos>a</pos> about to disappear or vanish. <i>Tumatalíwan <pb n=974>nga kaháyag sa kahapúnun,</i> A <tr>fading</tr> afternoon sunlight.
 
@@ -3525,7 +3529,7 @@ drinking the wine of love.
 
 <p><form>taliyuk</form> <pos>v</pos> <itype>[A2]</itype> turn the body around. <i>Taliyuk kunu. Átung tan-áwun ug haum ba nímu ang <note>can't identify first <number>2</number> letters</note>amirkána,<note>amirkana. corrected. P2</note></i> <tr>Turn around</tr>. Let's see if your jacket fits you.
 
-<p><form>talyir</form> <xr>= <sc>TALIYIR</sc></xr>.</xr>
+<p><form>talyir</form> <xr>= <sc>TALIYIR</sc>.</xr>
 
 <p><form>talku</form> <pos>n</pos> <tr>talc</tr>.
 
@@ -3545,7 +3549,7 @@ drinking the wine of love.
 
 <p><form>talukbuy<sub>1</sub></form> <pos>v</pos> <itype>[A; c6]</itype> hand s.t. to s.o. <i>Italukbuy ra ning suwat níya,</i> Please hand this letter to her.
 
-<p><form>talukbuy<sub>2</sub></form> <xr>= <sc>BALUYBUY</sc></xr>.</xr>
+<p><form>talukbuy<sub>2</sub></form> <xr>= <sc>BALUYBUY</sc>.</xr>
 
 <p><form>taluktuk</form> <pos>n</pos> <number>1</number> <tr>peg</tr>, <tr>stake</tr>. <i>Gilibutan níyag taluktuk ang bag-ung turuk nga lísu,</i> He put stakes all around the bed of the newly sprouted seedlings. <number>2</number> bar for gathering sweet potatoes. <number>3</number> in dugout boats, reinforcing studs stuck into the sides to which additional planking is nailed to make the hull higher. <number>4</number> top of a hill, cliff. <pos>v</pos> <number>1</number> <itype>[A1; b6(1)]</itype> enclose stakes. <number>2</number> <itype>[A1; a2]</itype> make a peg or stake. <number>3</number> <itype>[A; a]</itype> attach studs into the sides of a dugout. <number>4</number> <itype>[B; c1]</itype> be, become <tr>steep</tr>. <i>Ug mutaluktuk ang dálan, dílì na makaági ang dyíp,</i> If the road gets too steep, the jeep won't go any further. <pos>a</pos> <tr>steep</tr>. <i>Taluktuk nga pangpang,</i> A steep cliff. <form>-an</form> <pos>n</pos> <tr>summit</tr>.
 
@@ -3561,7 +3565,7 @@ drinking the wine of love.
 
 <p><form>talun</form> <pos>n</pos> <number>1</number> pad of paper. <number>2</number> <tr>booklet</tr> of s.t. <i>Gihurut kug palit ang usa ka talun nga tíkit sa swipstik,</i> I bought a whole booklet of sweepstake tickets.
 
-<p><form>talung</form> <pos>n</pos> <tr>eggplant</tr>: <bio>Solanum melongena</bio>. <form>-an</form> <pos>n</pos> <tr>eggplant patch</tr>. <form>talungtalung</form> <pos>n</pos> k.o. <tr>shrub</tr> planted for its ornamental orange or yellow fruit: <bio>Solanum mammosum</bio>. <form>-un</form> <pos>n</pos> wild <tr>shrub</tr> similar to eggplant, producing a spiked inedible fruit, used as a protection around the trunk of the coconut tree (hulud): <bio>Solanum sp</bio>. <form>-un(&rarr;)</form> <xr>= <sc>KATYUBUNG</sc></xr>.</xr>
+<p><form>talung</form> <pos>n</pos> <tr>eggplant</tr>: <bio>Solanum melongena</bio>. <form>-an</form> <pos>n</pos> <tr>eggplant patch</tr>. <form>talungtalung</form> <pos>n</pos> k.o. <tr>shrub</tr> planted for its ornamental orange or yellow fruit: <bio>Solanum mammosum</bio>. <form>-un</form> <pos>n</pos> wild <tr>shrub</tr> similar to eggplant, producing a spiked inedible fruit, used as a protection around the trunk of the coconut tree (hulud): <bio>Solanum sp</bio>. <form>-un(&rarr;)</form> <xr>= <sc>KATYUBUNG</sc>.</xr>
 
 <p><form>talungan</form> (not without <ix>l</ix>) <pos>n</pos> <tr>pipe stem</tr>. <pos>v</pos> <itype>[A; a]</itype> make a pipe stem. <i>Makatalungun ka sa bukug nga may lungag sa tungà,</i> You can make a pipe stem out of a bone that has a hole in its center.
 
@@ -3625,7 +3629,7 @@ drinking the wine of love.
 
 <p><form>támay</form> <pos>v</pos> <itype>[A3S; a12]</itype> <tr>despise</tr>, <tr>look down on</tr>, usually with derision. <i>Gitámay siyang pubri,</i> He was despised because of his poverty. <form>-l-un</form> <pos>a</pos> <tr>contemptible</tr>. <i>Talamáyun ang ímung pagpanápaw,</i> Your adulterous affair is <tr>shameful</tr>. <form>ma-un</form> <pos>a</pos> <tr>scornful</tr>, <tr>contemptuous</tr>.
 
-<p><form>tamba</form> <xr>= <sc>TANGBA</sc></xr>.</xr>
+<p><form>tamba</form> <xr>= <sc>TANGBA</sc>.</xr>
 
 <p><form>tambag</form> <pos>v</pos> <itype>[A; c]</itype> <tr>advise</tr>. <i>Mitambag ang duktur nga mupahúlay siya,</i> The doctor advised him to rest. <pos>n</pos> <tr>advice</tr>, <tr>counsel</tr>. <form>paki-</form> <pos>v</pos> <itype>[A3]</itype> ask for advice. <i>Nagpakitambag siya báhin sa íyang suliran,</i> He asked for advice about his problem. <form>-l-un, paN-un</form> <pos>n</pos> piece of <tr>advice</tr>. <form>mag-r-</form> <pos>n</pos> giver of advice.
 
@@ -3651,7 +3655,7 @@ drinking the wine of love.
 
 <p><form>tambaúlì</form> <pos>n</pos> <number>1</number> k.o. <tr>magic oil</tr> for open wounds which is said to make the wound close instantly. <number>2</number> condition in which a circumcised penis gets covered over again.
 
-<p><form>tambaw</form> <xr>= <sc>TAMBAL</sc></xr>.</xr>
+<p><form>tambaw</form> <xr>= <sc>TAMBAL</sc>.</xr>
 
 <p><form>tambawu</form> <pos>n</pos> k.o. <tr>frog</tr> that thrives on land.
 
@@ -3661,7 +3665,7 @@ drinking the wine of love.
 
 <p><form>tambid</form> <pos>v</pos> <number>1</number> <itype>[AC2; c]</itype> lay s.t. long across s.t. else. <i>Nagtambid ang duhang nangatúlug,</i> The two put their legs over each other as they slept. <i>Itambid nang lipak sa láin, kurus na,</i> Lay a stick across another, and you get a cross. <number>2</number> <itype>[A1; c]</itype> carry a child astraddle one's side. <i>Ayawg itambid nang bátà kay mapakaw,</i> Don't carry the child on your hips. He might become bowlegged. <form>-in-</form> <pos>v</pos> <itype>[A; c]</itype> sit with an ankle crossing each other or one on the other knee. <i>Makítà ang gising midiyas ug magtinambid ka,</i> Everyone will be able to see your torn socks if you sit with your ankle on your knee. <form>-in- ságing</form> <pos>n</pos> fried banana fritters consisting of bananas cut lengthwise and laid across one another. <form>hiN-</form> <pos>v</pos> <itype>[A; c]</itype> sit with legs crossed at the knees. <form>tambiray</form> <pos>n</pos> game of rubber bands in which one band is flicked with the fingers over another band.
 
-<p><form>tambilagaw</form> <xr>= <sc>TAGILHAW</sc></xr>.</xr>
+<p><form>tambilagaw</form> <xr>= <sc>TAGILHAW</sc>.</xr>
 
 <p><form>tambilágaw</form> <pos>a</pos> for the vision to be blurred. <i>Tambilágaw íyang panan-aw sa lúhà,</i> Her vision is all blurred from the tears. <pos>v</pos> <itype>[B; b6]</itype> for the vision to become blurred.
 

@@ -40,6 +40,7 @@
 </teiHeader>
 <text>
 <body>
+<pb n=709>
 
 
 <div1 id=letter-p>
@@ -54,7 +55,7 @@
 
 <p><form>pá</form> <pos>n</pos> k.o. tiny ant, smaller than the <ix>utitud</ix>, pale yellow in color and does not bite, found swarming over food. <pos>v</pos> <itype>[a4]</itype> for food to get <ix>pá</ix> over it. Cf. <xr><sc>PALA</sc></xr>.
 
-<p><form>p[=à]</form> = <sc>PÁLÀ<sub>1</sub></sc>.
+<p><form>p&amacrgra;</form> = <sc>PÁLÀ<sub>1</sub></sc>.
 
 <p><form>pa-</form> derivational verb-forming affix to which inflectional affixes are added without morphophonemic alternation. <number>1</number> referring to actions one has caused s.o. to do (either to s.t. else or to oneself). <i>Palútù ta ug sud-an,</i> Let's have s.o. prepare (<ix>lútù</ix>) some food. <i>Palutúun nátù si Maríya,</i> Let's have Maria cook. <i>Ipalútù ang sud-an,</i> Have the food cooked. <i>Patupi ta,</i> Let's get a haircut (cause s.o. to cut hair [<ix>tupi</ix>]). <number>1a</number> added to adjectives. <number>1a1</number> have s.o. make s.t. [adj.]. <i>Ipaitum ang ákung sapátus,</i> Have s.o. dye my shoes black. <number>1a2</number> have s.t. become [adj.]. <i>Patambúkun ta ka sa uma,</i> We'll fatten you up on the farm. <number>1b</number> <i>added to nouns:</i> cause s.o. to do [the action that verbs derived from the noun refer to]. <i>Gustu ka ba pabakyà?</i> You want me to hit you with a wooden slipper (cause me to use the <ix>bakyà</ix>)? <i>Dì ku paulípun,</i> I will not let myself be made a slave. <number>2</number> <i>added to doubled adjectives:</i> pretend to be. <i>Ayaw pasakitsákit dihà,</i> Don't pretend to be sick! <i>Nagpadiyusdiyusnun ang sungáyan,</i> The devil is pretending to be saintly. <number>3</number> <i>added to nouns:</i> go to [noun]. <i>Padaplin ug dì ka gustung hiligsan,</i> Get out of the way if you don't want to get run over. <i>Papiliw ba ang ímung sakayan run?</i> Is your boat headed for the shallow waters now?
 
@@ -504,7 +505,7 @@
 
 <p><form>palandung</form> <ix>see</ix> <xr><sc>LANDUNG</sc></xr>.
 
-<p><form>palanggà</form> (from <ix>danggà</ix>) <pos>v</pos> <itype>[A; a12]</itype> love and care for s.o. <i>Mupanggà ku sa bátang buútan,</i> I'll love a good child. <i>Palanggáun ku ikaw hangtud sa kahangtúran,</i> I will love and care for you till the end of time. <pos>n</pos> <tr>dearest</tr>, <tr>darling</tr>. short form: <form>langg[=à]</form>. <i>Natúlug ka na ba, palanggà?</i> Are you asleep, darling? <form>ma-in-un</form> <pos>a</pos> bestowing loving care, full of love. <form>-in-</form> <xr>= <sc>PALANGGÀ</sc></xr>, <pos>n</pos>.
+<p><form>palanggà</form> (from <ix>danggà</ix>) <pos>v</pos> <itype>[A; a12]</itype> love and care for s.o. <i>Mupanggà ku sa bátang buútan,</i> I'll love a good child. <i>Palanggáun ku ikaw hangtud sa kahangtúran,</i> I will love and care for you till the end of time. <pos>n</pos> <tr>dearest</tr>, <tr>darling</tr>. short form: <form>langg&amacrgra;</form>. <i>Natúlug ka na ba, palanggà?</i> Are you asleep, darling? <form>ma-in-un</form> <pos>a</pos> bestowing loving care, full of love. <form>-in-</form> <xr>= <sc>PALANGGÀ</sc></xr>, <pos>n</pos>.
 
 <p><form>palanggána, plangganíta</form> <xr>= <sc>PLANGGÁNA</sc></xr>. <xr><sc>PLANGGANÍTA</sc></xr>.
 
@@ -1566,7 +1567,7 @@
 
 <p><form>pasul</form> <pos>n</pos> <tr>fishing line</tr>. <pos>v</pos> <number>1</number> <itype>[A12]</itype> obtain a fishing line. <number>2</number> <itype>[a12]</itype> catch with a fishing line. <i>Sayun ra paslun nang isdáa,</i> It's easy to catch that k.o. fish with a hook and line. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> go fishing with a hook and line. <form>pamaslanan, pamaslánan</form> <pos>n</pos> <number>1</number> fishing <pb n=746>place. <number>2</number> fishing boat. <form>pinaslan</form> <pos>n</pos> fish caught with a hook and line.
 
-<p><form>pasulábi</form> (from <ix>sulábi</xi>) <xr><ix>see</ix> <sc>LABI</sc></xr>.
+<p><form>pasulábi</form> (from <ix>sulábi</ix>) <xr><ix>see</ix> <sc>LABI</sc></xr>.
 
 <p><form>pasúlit</form> <pos>n</pos> <tr>test</tr> or <tr>exam</tr>. <pos>v</pos> <itype>[A13]</itype> hold or give a test. <i>Ang gubyirnu magpasúlit pára sa mga aplikanti,</i> The government will hold a test for the applicants.
 
@@ -1776,7 +1777,7 @@
 
 <p><form>páyaw</form> <pos>n</pos> a k.o. bamboo raft used in fishing, used to attract fish. It is left in deep waters with weighted coconut fronds suspended from it, on which algae develop and attract fish which can then be caught with a net. <pos>v</pos> <itype>[A; a12]</itype> make a <ix>páyaw</ix>. <xr><sc>paN-</sc></xr> <pos>n</pos> fishing with a <ix>páyaw</ix>.
 
-<p><form>paybut</form> <pos>v</pos> <itype>[A2; c6]</itype> in basketball, for a player to pivot on one of his feet. <i>Mipaybut únà siya sa wà pa musyát arun maw[=à] ang gwardiya,</i> He pivoted before shooting the ball to give him a clear shot. <ix>see also</ix> <xr><sc>TSINDYING</sc></xr>.
+<p><form>paybut</form> <pos>v</pos> <itype>[A2; c6]</itype> in basketball, for a player to pivot on one of his feet. <i>Mipaybut únà siya sa wà pa musyát arun maw&amacrgra; ang gwardiya,</i> He pivoted before shooting the ball to give him a clear shot. <ix>see also</ix> <xr><sc>TSINDYING</sc></xr>.
 
 <p><form>payhag</form> <pos>v</pos> <itype>[A; a1]</itype> destroy s.t. by knocking it to pieces, consume or scatter s.t. as though destroyed. <i>Ang bumba mipayhag sa mga balay,</i> The bomb destroyed the houses. <i>Tiradur ang ipayhag sa balay sa putyúkan,</i> Smash the beehive with a slingshot.
 
@@ -2616,7 +2617,7 @@
 
 <p><form>pislayit</form> <xr>= <sc>PLASLÁYIT</sc></xr>.
 
-<p><form>pislit</form> <pos>v</pos> <number>1</number> <itype>[A; a2b2]</itype> press s.t. hard with the fingers. <i>Kinsay mipislit sa timbri?</i> Who pushed the buzzer? <i>Ayaw pislíta ang mangga kay mabun-ug,</i> Don't squeeze the mango because you will bruise it. <number>2</number> <itype>[AN; a12]</itype> massage s.o. by pressing with the finger tips. <i>Pislítun ta ka arun maw[=à] ang ímung pamául,</i> I'll massage you so that your muscle pains will disappear. <form>&mdash; layit</form> <pos>n</pos> flashlight (humorous).
+<p><form>pislit</form> <pos>v</pos> <number>1</number> <itype>[A; a2b2]</itype> press s.t. hard with the fingers. <i>Kinsay mipislit sa timbri?</i> Who pushed the buzzer? <i>Ayaw pislíta ang mangga kay mabun-ug,</i> Don't squeeze the mango because you will bruise it. <number>2</number> <itype>[AN; a12]</itype> massage s.o. by pressing with the finger tips. <i>Pislítun ta ka arun maw&amacrgra; ang ímung pamául,</i> I'll massage you so that your muscle pains will disappear. <form>&mdash; layit</form> <pos>n</pos> flashlight (humorous).
 
 <p><form>pisluk</form> <pos>v</pos> <number>1</number> <itype>[B26]</itype> go to sleep (said in anger). <i>Mupisluk (mapisluk) ka na ba sad nga buntag na man?</i> Are you going to go back to sleep again when it's morning already? <number>2</number> <itype>[B12; b6]</itype> be dark, be getting dark (said in anger). <i>Nagkapisluk na núun mau pay ipangáhuy!</i> Why do you wait until it begins to get dark to look for firewood!
 
