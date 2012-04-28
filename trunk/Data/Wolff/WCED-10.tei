@@ -8,6 +8,11 @@
 <!ENTITY imacr      CDATA "&#x012B;"          -- i with macron -->
 <!ENTITY umacr      CDATA "&#x016B;"          -- u with macron -->
 
+<!ENTITY acaron     CDATA "a&#x030c;"            -- a with caron -->
+<!ENTITY Acaron     CDATA "A&#x030c;"            -- A with caron -->
+<!ENTITY icaron     CDATA "i&#x030c;"            -- i with caron -->
+<!ENTITY Icaron     CDATA "I&#x030c;"            -- I with caron -->
+
 <!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"  -- a with macron and grave -->
 <!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"  -- i with macron and grave -->
 <!ENTITY umacrgra   CDATA "&#x016B;&#x0300;"  -- u with macron and grave -->
@@ -25,6 +30,10 @@
 <!ENTITY icaron     CDATA "i&#x030C;"         -- i with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"          -- schwa (turned e) -->
+
+<!ENTITY prime      CDATA "'"            -- prime -->
+<!ENTITY Prime      CDATA "'"            -- double prime -->
+
 
 ]>
 
@@ -90,6 +99,7 @@ Step four
 <body>
 
 <!-- Starting midway p 880 -->
+<p>
 
 drinking the wine of love.
 
@@ -477,7 +487,7 @@ drinking the wine of love.
 
 <p><form>sigpit</form> (from <ix>sipit</ix>) <pos>a</pos> <tr>narrow</tr>, not affording easy passage. <i>Sigpit kaáyu ang mga kalyi sa ámung lungsud,</i> The streets in my town are very narrow. <pos>v</pos> <itype>[B125; b6]</itype> be, become narrow.
 
-<p><form>sigsag</form> <pos>a</pos> <tr>zigzagging</tr>, <tr>winding</tr> road or course. <i>Sigsag kaáyu ang karsáda paingun sa búkid,</i> The road into the mountains is <tr>zigzag</tr>. <pos>n</pos> zigzag stitches; fancy stitches made at the edge of cloth to keep it from getting unravelled. <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> run a zigzag course. <i>Nagsigsag ku ug dágan sa dihang gitirúhan ku,</i> I ran in a zigzag course when they shot at me. <number>2</number> <itype>[A; c1]</itype> make zigzag stitching. —- <form>nga makina</form> <pos>n</pos> a k.o. <tr>sewing machine</tr> that can make zigzag stitching. <form>-in-an, -in-an(&rarr;)</form> <pos>n</pos> having zigzag stitching sewn in it.
+<p><form>sigsag</form> <pos>a</pos> <tr>zigzagging</tr>, <tr>winding</tr> road or course. <i>Sigsag kaáyu ang karsáda paingun sa búkid,</i> The road into the mountains is <tr>zigzag</tr>. <pos>n</pos> zigzag stitches; fancy stitches made at the edge of cloth to keep it from getting unravelled. <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> run a zigzag course. <i>Nagsigsag ku ug dágan sa dihang gitirúhan ku,</i> I ran in a zigzag course when they shot at me. <number>2</number> <itype>[A; c1]</itype> make zigzag stitching. &mdash; <form>nga makina</form> <pos>n</pos> a k.o. <tr>sewing machine</tr> that can make zigzag stitching. <form>-in-an, -in-an(&rarr;)</form> <pos>n</pos> having zigzag stitching sewn in it.
 
 <p><form>sígu</form> <pos>a</pos> <tr>tight</tr> or precise in fit. <i>Gáhing ablíhan ang pulta kay sígu kaáyu,</i> The door is hard to open because it is very tight in fit. <i>Ang sígu nga sinínà sa mga babáyi dílì ángay nga isimba,</i> Clothes that fit the body too tightly are not appropriate for church. <pos>v</pos> <itype>[B]</itype> be, become tight or precise in fit, cause s.t. to be so. <i>Sigúhun (pasigúhun) nímu ang sungsung ngadtu sa bangag arun dílì muhunub ang túbig,</i> Make the stopper fit precisely so the water won't seep through.
 
@@ -487,11 +497,11 @@ drinking the wine of love.
 
 <p><form>sigun<sub>2</sub></form> <pos>n</pos> a breed of <tr>chicken</tr> raised for meat purposes, referred to for their quality of developing feathers on the neck, thighs, and wings late in life.
 
-<p><form>sigunda</form> <pos>n</pos> <number>1</number> <tr>second gear</tr>. <number>2</number> the second player in group games played by <corr sic="an "></corr>individuals in succession</b>. <number>3</number> the second voice in group singing. <form>&mdash; mánu</form> <number>a</number> <tr>second hand</tr>. <i>Pridyidir nga sigunda mánu,</i> A second-hand refrigerator. <pb n=891><number>b</number> a woman that has had sexual experiences prior to marriage. <i>Nakaasawag sigunda mánu ang laláking himilì,</i> He was so choosy in the end he had to settle for a <tr>second-hand</tr> woman. <pos>v</pos> <number>1</number> <itype>[B26; b6]</itype> do, happen after the first thing happened, was done. <i>Ang pagkasúnug sa ílang balay nasigunda ang ílang Birtu,</i> After their house burnt, the same thing happened to Berto's. <i>Gisigundahan siya ug pátid human siya matumba,</i> After he fell, they kicked him. <number>2</number> <itype>[A; c6]</itype> put in second gear. <i>Isigunda ang makina ug dulhugun,</i> Put the car into second when you are headed downhill. <form>-rya</form> <xr>= <sc>SIKUNDARYU</sc>.</xr>
+<p><form>sigunda</form> <pos>n</pos> <number>1</number> <tr>second gear</tr>. <number>2</number> the second player in group games played by <corr sic="an "></corr>individuals in succession. <number>3</number> the second voice in group singing. <form>&mdash; mánu</form> <number>a</number> <tr>second hand</tr>. <i>Pridyidir nga sigunda mánu,</i> A second-hand refrigerator. <pb n=891><number>b</number> a woman that has had sexual experiences prior to marriage. <i>Nakaasawag sigunda mánu ang laláking himilì,</i> He was so choosy in the end he had to settle for a <tr>second-hand</tr> woman. <pos>v</pos> <number>1</number> <itype>[B26; b6]</itype> do, happen after the first thing happened, was done. <i>Ang pagkasúnug sa ílang balay nasigunda ang ílang Birtu,</i> After their house burnt, the same thing happened to Berto's. <i>Gisigundahan siya ug pátid human siya matumba,</i> After he fell, they kicked him. <number>2</number> <itype>[A; c6]</itype> put in second gear. <i>Isigunda ang makina ug dulhugun,</i> Put the car into second when you are headed downhill. <form>-rya</form> <xr>= <sc>SIKUNDARYU</sc>.</xr>
 
 <p><form>sigundu</form> <pos>n</pos> <number>1</number> second to perform in group games performed by players in a series. <number>2</number> <tr>second</tr>, one-sixtieth of a minute. <form>&mdash; anyu</form> second year of college or secondary school. <form>&mdash; upisyal</form> <tr>second mate</tr>.
 
-<p><form>sigurádu</form> <tr>sure</tr>, [so-and-so] is true without a doubt. <i>Ug mugíkan ka ug alas sayis, sigurádu nga túa ka sa mga alas unsi,</i> If you leave at six, you are sure to be there at about eleven o'clock. <i>Dílì katuhúan nutisyáha! Sigurádu ka?</i> That's unbelievable news! Are you sure? <i>&lsquo;Muadtu kas bayli rung gabíi?<corr>&rsquo;</corr>—-&lsquo;Sigurádu!&rsquo;</i> &lsquo;Will you go to the dance tonight?&rsquo;&mdash;&lsquo;Sure!&rsquo; <pos>v</pos> <itype>[B156]</itype> be sure. <i>Nakabayad kug sitinta apan nasigurádu na ang ákung aplikasiyun,</i> I paid seventy, but my application is a <tr>sure thing</tr>.
+<p><form>sigurádu</form> <tr>sure</tr>, [so-and-so] is true without a doubt. <i>Ug mugíkan ka ug alas sayis, sigurádu nga túa ka sa mga alas unsi,</i> If you leave at six, you are sure to be there at about eleven o'clock. <i>Dílì katuhúan nutisyáha! Sigurádu ka?</i> That's unbelievable news! Are you sure? <i>&lsquo;Muadtu kas bayli rung gabíi?<corr>&rsquo;</corr>&mdash;&lsquo;Sigurádu!&rsquo;</i> &lsquo;Will you go to the dance tonight?&rsquo;&mdash;&lsquo;Sure!&rsquo; <pos>v</pos> <itype>[B156]</itype> be sure. <i>Nakabayad kug sitinta apan nasigurádu na ang ákung aplikasiyun,</i> I paid seventy, but my application is a <tr>sure thing</tr>.
 
 <p><form>siguridad</form> <pos>n</pos> <number>1</number> <tr>security</tr>, freedom from danger. <i>Ang gikasabútan naglakbit sa siguridad sa átung násud,</i> The agreement included the security of our country. <number>2</number> assurance of compliance. <i>Kadtung panagsabúta way siguridad sa pagtúman kay walay mga papílis,</i> There is no assurance that they will comply because there are no documents.
 
@@ -719,7 +729,7 @@ drinking the wine of love.
 
 <p><form>silindrun</form> <xr>= <sc>SALINDRUN</sc>.</xr>
 
-<p><form>silindrus</form> <xr>= <sc>SILINDRU</sc></xr> (plural).</xr>
+<p><form>silindrus</form> <xr>= <sc>SILINDRU</sc> (plural).</xr>
 
 <p><form>siling</form> <xr>= <sc>INGUN<sub>2</sub></sc> (dialectal).</xr>
 
@@ -911,7 +921,7 @@ drinking the wine of love.
 
 <p><form>singán</form> <xr>= <sc>UNSINGÁLAN</sc>.</xr>
 
-<p><form>singáni</form> <xr>= <sc>UNSA</sc></xr> (dialectal).</xr>
+<p><form>singáni</form> <xr>= <sc>UNSA</sc> (dialectal).</xr>
 
 <p><form>singári</form> <pos>v</pos> <itype>[A; abc]</itype> <tr>keep on</tr> [do]ing, <tr>always</tr> do. <i>Ug singaríhun nímu nà ug dukduk mabuak nyà nà,</i> If you keep pounding that, it will break. <i>Ayawg isingárig usar ang bag-u,</i> Don't always wear your new clothes.
 
@@ -1625,7 +1635,7 @@ drinking the wine of love.
 
 <p><form>*sugamak hi-/ha-</form> <pos>v</pos> <itype>[B1256; b8]</itype> <number>1</number> <tr>run into</tr>, <tr>collide</tr>. <i>Ug didtu mahisugamak ang awtu sa paril,</i> And the car ran smack into the stone wall. <number>2</number> run into s.t. to experience, meet. <i>Ug dílì ka mag-amping mahisugamak ka sa kasámuk,</i> If you are not careful, you will run into trouble. <i>Patrulyang íyang hisugamakan,</i> The patrol he ran into.
 
-<p><form>sug-ang</form> <pos>n</pos> <tr>wood burner</tr> composed of three stones triangularly arranged or a heavy metal ring or a clay <tr>burner</tr> onto which pots are set</b>. <pos>v</pos> <number>1</number> <itype>[A13; a12]</itype> put, make, make into such a burner. <number>2</number> <itype>[A1; c6]</itype> set the dinner on the burner. <i>Nagsug-ang ku ug paniudtu kay alas unsi na,</i> I am putting the dinner on the stove because it is eleven o'clock. <form>-in-</form> <pos>v</pos> <itype>[C; a12]</itype> be placed in a triangular arrangement like the <ix>sug-ang</ix>. <i>Nag-atúbang silang tulu ug lingkud, nagsinug-ang,</i> The three sat in a circle facing each other. <form>-an(&rarr;)</form> <xr>= <sc>SUG-ANG</sc>, <pos>n</pos>.</xr>
+<p><form>sug-ang</form> <pos>n</pos> <tr>wood burner</tr> composed of three stones triangularly arranged or a heavy metal ring or a clay <tr>burner</tr> onto which pots are set. <pos>v</pos> <number>1</number> <itype>[A13; a12]</itype> put, make, make into such a burner. <number>2</number> <itype>[A1; c6]</itype> set the dinner on the burner. <i>Nagsug-ang ku ug paniudtu kay alas unsi na,</i> I am putting the dinner on the stove because it is eleven o'clock. <form>-in-</form> <pos>v</pos> <itype>[C; a12]</itype> be placed in a triangular arrangement like the <ix>sug-ang</ix>. <i>Nag-atúbang silang tulu ug lingkud, nagsinug-ang,</i> The three sat in a circle facing each other. <form>-an(&rarr;)</form> <xr>= <sc>SUG-ANG</sc>, <pos>n</pos>.</xr>
 
 <p><form>sugapà</form> <pos>v</pos> <itype>[A12; a3b4(1)]</itype> <tr>encounter</tr> s.t. by accident. <i>Nakasugapà mig bangkíti paglabay námù sa íla,</i> When we went by their house we came upon them having a banquet. <i>Dílì ka untà masugapà sa kadaútan,</i> I hope you don't meet danger.
 
@@ -1891,7 +1901,7 @@ drinking the wine of love.
 
 <p><form>sulimni</form> <pos>a</pos> <tr>solemn ceremony</tr> or event. <pos>v</pos> <itype>[B126; c1]</itype> for an event to be made solemn. <i>Masulimni giyud ang ukasiyun sa paghandum sa átung mga bayáni,</i> It should be a solemn occasion when we remember our heroes. <form>mísa &mdash;</form> <xr>see <sc>MÍSA</sc>.</xr>
 
-<p><form>sulindir</form> <xr>= <sc>SURINDIR</sc></xr> (colloquial).</xr>
+<p><form>sulindir</form> <xr>= <sc>SURINDIR</sc> (colloquial).</xr>
 
 <p><form>súling</form> <pos>v</pos> <number>1</number> <itype>[AN2; a12]</itype> <tr>peep</tr>. <i>Ang táwu nga musúling (manúling) sa lyawihánan way batásan,</i> A person who peeps through keyholes has no manners. <number>2</number> <itype>[A; a12]</itype> <tr>peer</tr>, look closely at s.t. to examine it. <i>Sulínga ang ágig kang kinsa nà,</i> <tr>Look at</tr> the handwriting to see whose it is. <form>sulingsúling</form> <pos>v</pos> <itype>[A13]</itype> look with careful attention from a distance. <i>Táwung nagsulingsúling sa gít,</i> A man standing at the gate, peering inside.
 
@@ -2787,7 +2797,7 @@ drinking the wine of love.
 
 <p><form>tabtab</form> <pos>v</pos> <itype>[A; a1]</itype> hack s.t. off with several blows. <i>Siyay nagtabtab sa písing gibugkus sa kaban,</i> He cut off the rope that bound the trunk.
 
-<p><form>tábù</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> <tr>meet</tr> s.o. <i>Tabúun nátù siya sa piyir,</i> We'll meet him at the pier. <i>Pirmi lang kasábà ímung itábù inig-abut nákù,</i> You always meet me with nagging when I come home. <number>1a</number> <itype>[C; c3]</itype> meet each other on the way. <i>Ambut ása siya. Gikatábù man tu nákù,</i> I don't know where he'<note> "s"?</note> going. We met on the way. <number>1b</number> <itype>[AC; a2]</itype> assemble, meet, cause people to do so. <i>Ang mayur mauy mitábù sa mga draybir,</i> The mayor assembled the drivers. <i>Magtábù ta sa simbahan,</i> We will assemble in church. <number>2</number> <itype>[C3; c1]</itype> for two ends to meet, make them meet. <i>Tabúa (itábù) ang masig ka tumuy arun glúhan,</i> Make both ends meet so they can be glued. <number>3</number> <itype>[A13]</itype> converge at a place for market. <i>Magtábù dinhi malúnis,</i> They hold market here on Mondays. <pos>n</pos> periodical converging to hold market. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> <tr>go shopping</tr>, esp. at a periodical market. <i>Manábù ku sa Mantalúngun,</i> I'll attend the market day in Mantalongon. <form>hi-(&rarr;)</form> <pos>v</pos> <itype>[B1256]</itype> <number>1</number> <tr>happen</tr>, <tr>take place</tr>. <i>Nahitabù nga nagkasákay mi,</i> It so happened that we rode on the same vehicle. <number>2</number> for s.t. bad to happen. <i>Ug magpadáyun kag paíbug nákù mahitabù ra man ta,</i> If you keep on flirting with me s.t. will happen between us. <i>Dúna tingaliy nahitabù sa báy kay gikulbaan man ku,</i> S.t. bad must have happened at home because I feel uneasy. <pos>n</pos> <tr>incident</tr>, <tr>happening</tr>. <i>Gisaysay níya ang hitabù,</i> He told about the incident. <form>ha-/hiN-/haN-(&rarr;)</form> <xr>= <sc>HITABÙ</sc></xr> (but not as frequent).</xr> <form>hiN-</form> <pos>v</pos> <itype>[C3; c3]</itype> <tr>meet</tr> s.o. by chance. <i>Na, kay naglikay ku, nagkahinábù na hinúun mi,</i> I was trying to avoid him, but instead we ran into each other. <form>tabùtábù</form> <pos>n</pos> small <tr>market</tr>. <form>tabuan</form> <pos>n</pos> place where periodic markets are held. <form>-in-an</form> <pos>n</pos> <tr>gift</tr> given by s.o. who arrives from a trip.
+<p><form>tábù</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> <tr>meet</tr> s.o. <i>Tabúun nátù siya sa piyir,</i> We'll meet him at the pier. <i>Pirmi lang kasábà ímung itábù inig-abut nákù,</i> You always meet me with nagging when I come home. <number>1a</number> <itype>[C; c3]</itype> meet each other on the way. <i>Ambut ása siya. Gikatábù man tu nákù,</i> I don't know where he'<note> "s"?</note> going. We met on the way. <number>1b</number> <itype>[AC; a2]</itype> assemble, meet, cause people to do so. <i>Ang mayur mauy mitábù sa mga draybir,</i> The mayor assembled the drivers. <i>Magtábù ta sa simbahan,</i> We will assemble in church. <number>2</number> <itype>[C3; c1]</itype> for two ends to meet, make them meet. <i>Tabúa (itábù) ang masig ka tumuy arun glúhan,</i> Make both ends meet so they can be glued. <number>3</number> <itype>[A13]</itype> converge at a place for market. <i>Magtábù dinhi malúnis,</i> They hold market here on Mondays. <pos>n</pos> periodical converging to hold market. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> <tr>go shopping</tr>, esp. at a periodical market. <i>Manábù ku sa Mantalúngun,</i> I'll attend the market day in Mantalongon. <form>hi-(&rarr;)</form> <pos>v</pos> <itype>[B1256]</itype> <number>1</number> <tr>happen</tr>, <tr>take place</tr>. <i>Nahitabù nga nagkasákay mi,</i> It so happened that we rode on the same vehicle. <number>2</number> for s.t. bad to happen. <i>Ug magpadáyun kag paíbug nákù mahitabù ra man ta,</i> If you keep on flirting with me s.t. will happen between us. <i>Dúna tingaliy nahitabù sa báy kay gikulbaan man ku,</i> S.t. bad must have happened at home because I feel uneasy. <pos>n</pos> <tr>incident</tr>, <tr>happening</tr>. <i>Gisaysay níya ang hitabù,</i> He told about the incident. <form>ha-/hiN-/haN-(&rarr;)</form> <xr>= <sc>HITABÙ</sc> (but not as frequent).</xr> <form>hiN-</form> <pos>v</pos> <itype>[C3; c3]</itype> <tr>meet</tr> s.o. by chance. <i>Na, kay naglikay ku, nagkahinábù na hinúun mi,</i> I was trying to avoid him, but instead we ran into each other. <form>tabùtábù</form> <pos>n</pos> small <tr>market</tr>. <form>tabuan</form> <pos>n</pos> place where periodic markets are held. <form>-in-an</form> <pos>n</pos> <tr>gift</tr> given by s.o. who arrives from a trip.
 
 <p><form>tabudlung</form> <xr>= <sc>BUDLUNG<sub>2</sub></sc>.</xr>
 
@@ -3792,3 +3802,6 @@ drinking the wine of love.
 <p><form>tampiri</form> <pos>v</pos> <itype>[B; c1]</itype> <tr>lean</tr>, <tr>tilt</tr>. <i>Mitampiri (natampiri) ang lubi sa paghángin ug kusug,</i> The coconut tree tilted during the strong wind. <i>Kun magtanum kag kamúting káhuy, tampiriha (itampiri) ang láwas sa yútà,</i> When you plant cassava, plant the stem into the ground at an angle.
 
 <p><form>tampu</form> <pos>v</pos> <number>1</number> <itype>[AB3C; ac]</itype> join in a group, <tr>put together</tr>. <i>Kinsay nagtampu íning bulingun sa inutaw?</i> Who put this dirty laundry together with the ironed things? <i>Tampúha lang ang tanan arun usa ray sudlanan,</i> Put them all together so there will be just one container. <i>Itampu nang bakláa sa mga babáyi,</i> Put that sissy together with the girls. <number>2</number> <itype>[A; c]</itype> give a contribution. <i>Magtampu (magtampuhay) ta pára sa parti,</i> Let's contribute for the party. <number>3</number> <itype>[A; c]</itype> contribute to a publication. <i>Sugilánun ákung itampu sa sunud gulà,</i> I'll contribute a short story for the next issue. <number>3a</number> <itype>[A; c]</itype> send in an entry to a contest. <i>Gitampu námù ang basíyung káha sa sigarilyu,</i> We sent the empty cigarette packs as entries to the contest. <pos>n</pos> <number>1</number> <tr>contribution</tr>. <number>2</number> entry in a contest. <form>tampuhan</form> <pos>v</pos> <itype>[A13]</itype> contribute to s.t. regularly. <i>Magtampuhan siya sa Bisayà,</i> He contributes regularly to Bisaya. <form>tampuhay</form> <pos>v</pos> <xr>= <sc>TAMPU</sc>.</xr>
+
+</text>
+</TEI.2>

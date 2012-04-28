@@ -27,6 +27,9 @@
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
 
+<!ENTITY prime      CDATA "'"            -- prime -->
+<!ENTITY Prime      CDATA "'"            -- double prime -->
+
 ]>
 
 <!--
@@ -85,10 +88,11 @@ Step four
     </profileDesc>
 </teiHeader>
 <text>
-<pb n=980>
 <body>
+<pb n=980>
 
-<b>matampúhun</b> <i>a</i> @generous in contributing.
+
+<p><b>matampúhun</b> <i>a</i> @generous in contributing.
 
 <p><form>tampuk<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[AB2456; ac]</itype> stab so as to make the instrument stick, be sticking in. <i>Akuy mitampuk ug lápis sa báni,</i> I stuck a pencil into the banana trunk. <i>Báraw nga mitampuk sa dughan,</i> A knife sticking into the breast. <number>2</number> <itype>[A; a]</itype> beat s.t. with the inside of the fist (as if sticking a dagger into it). <i>Mitagubtub ang ákung likud nga íyang gitampuk,</i> My back resounded when he hit it with his fist. <form>-in-an</form> <pos>a</pos> jewelry having precious stones embedded. [+]
 
@@ -738,7 +742,7 @@ Step four
 
 <p><form>tayúpì</form> <pos>v</pos> <itype>[A; a2]</itype> cheat, defraud. <i>Gitayúpì ta sa matadíru pinaági sa timbangang dílì hustu,</i> The butcher cheated us with inaccurate scales. <pos>a</pos> cheat, defrauder. <i>Ayaw pagsálig níya kay tayúpì kaáyu nà,</i> Don't trust him because he is a cheat.
 
-<p><form>tayùtù</form> <pos>n</pos> <number>1</number> <xr>= <sc>TALÙTÙ</sc>.</xr> <number>2</number> <xr>= <sc>TAGÙTÙ<sub>2</sub></sc>.</xr> <pos>v</pos> <xr>= <sc>TAGÙTÙ<sub>2</sub>.</xr>
+<p><form>tayùtù</form> <pos>n</pos> <number>1</number> <xr>= <sc>TALÙTÙ</sc>.</xr> <number>2</number> <xr>= <sc>TAGÙTÙ<sub>2</sub></sc>.</xr> <pos>v</pos> <xr>= <sc>TAGÙTÙ<sub>2</sub></sc>.</xr>
 
 <p><form>TB</form> <xr><ix>see</ix> <sc>TÍBI<sub>2</sub></sc>.</xr>
 
@@ -850,7 +854,7 @@ Step four
 
 <p><form>tibway</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>complete</tr> s.t. unfinished. <i>Kinsay mutibway sa gibyáan nímung daruhun?</i> Who'll <tr>finish</tr> plowing the rest of the field? <number>1a</number> buy the remaining portion of s.t. <i>Tibwáya ring nahibilin kay ákung baratúhun,</i> Buy all that's left, and I'll let you have it cheap. <number>2</number> put to an <tr>end</tr>. <i>Kining hilu mauy mutibway ning<note> ?ning ?</note> kinabúhì,</i> This poison will <tr>end</tr> my life. <form>&mdash; ug</form> <tr>should have</tr> [done], would <tr>rather</tr> [do] than what is the case now. <i>Tibwayg mikúyug tu, malingaw untà ku,</i> I should have gone with them. I would have had a good time. <i>Tibwayg mamatay kay sa mag-antus,</i> I'd rather die than suffer the way I am. <form>tibwanay</form> <pos>v</pos> <itype>[C2]</itype> put an end to each other. <i>Ug wà ulánga magtibwanay ang duha,</i> If they had not been separated, they would have killed each other.
 
-<p><form>tidisin</form> <xr>= <sc>DISINTI</sc></xr> (slang).</xr>
+<p><form>tidisin</form> <xr>= <sc>DISINTI</sc> (slang).</xr>
 
 <p><form>tídit</form> <xr>= <sc>TÍTIT</sc>.</xr>
 
@@ -1334,7 +1338,7 @@ Step four
 
 <p><form>timplit</form> <pos>n</pos> <tr>registration plate</tr> of vehicles.
 
-<p><form>timplíti</form> <pos>n</pos> k.o. small <tr>pavilion</tr> built for <corr sis=especial>special</corr> <pb n=1016>church services.
+<p><form>timplíti</form> <pos>n</pos> k.o. small <tr>pavilion</tr> built for <corr sic=especial>special</corr> <pb n=1016>church services.
 
 <p><form>timplu</form> <pos>n</pos> <tr>temple</tr>.
 
@@ -1478,7 +1482,7 @@ Step four
 
 <p><form>tingkap</form> <pos>n</pos> enamel-coated tin <tr>cup</tr>. <pos>v</pos> <itype>[A; a2]</itype> use an enamel cup.
 
-<p><form>tingkarul<sub>1</sub></form> <pos>v</pos> <number>1, 2, 3</number> <xr>= <sc>TINGKAGUL</sc>.</xr> <number>4</number> <itype>[A1]</itype> light one's way with a <ix>tingkarul</ix> torch. <number>5</number> <itype>[A; a]</itype> make a <ix>tingkarul</ix> torch. <pos>n</pos> k.o. <tr>kerosene torch</tr> made from bamboo or a bottle into which a tube nearly as big around as the mouth is inserted. So called from the noise this torch makes, and also from the fact that in the k.o. fishing with which it is used, a banging noise is made to draw the fish (<xr><ix>cf.</ix> <xr><sc>DAGUKDUK</sc></xr>).
+<p><form>tingkarul<sub>1</sub></form> <pos>v</pos> <number>1, 2, 3</number> <xr>= <sc>TINGKAGUL</sc>.</xr> <number>4</number> <itype>[A1]</itype> light one's way with a <ix>tingkarul</ix> torch. <number>5</number> <itype>[A; a]</itype> make a <ix>tingkarul</ix> torch. <pos>n</pos> k.o. <tr>kerosene torch</tr> made from bamboo or a bottle into which a tube nearly as big around as the mouth is inserted. So called from the noise this torch makes, and also from the fact that in the k.o. fishing with which it is used, a banging noise is made to draw the fish (<xr><ix>cf.</ix> <sc>DAGUKDUK</sc></xr>).
 
 <p><form>tingkas</form> <xr>= <sc>TANGKAS</sc>.</xr>
 
@@ -1518,7 +1522,7 @@ Step four
 
 <p><form>tininti<sub>1</sub></form> <xr>= <sc>TINYINTI</sc>.</xr>
 
-<p><form>tininti<sub>2</sub></form> <xr>= <sc>TINUNTU</sc></xr> (humorous euphemism).</xr> <xr><ix>see</ix> <sc>TUNTU</sc>.</xr>
+<p><form>tininti<sub>2</sub></form> <xr>= <sc>TINUNTU</sc> (humorous euphemism).</xr> <xr><ix>see</ix> <sc>TUNTU</sc>.</xr>
 
 <p><form>tinir</form> <pos>v</pos> <itype>[A; c]</itype> <number>1</number> <tr>keep</tr>, <tr>have</tr> in possession. <i>Nagtinir siyag babáyi,</i> He's keeping a mistress. <i>Wà ku magtinir ug sapátus nga daghan,</i> I don't have many shoes. <i>Magníwang kag itinir nímu nang kaguúla,</i> You'll grow thin if you <tr>harbor</tr> that sorrow. <number>2</number> <tr>detain</tr>. <i>Itinir siya ug dì makapiyansa,</i> Detain him if he cannot post bail. <form>tinidur dilibru</form> <pos>n</pos> <tr>bookkeeper</tr>. <pos>v</pos> <itype>[B156]</itype> be a bookkeeper.
 
@@ -2026,7 +2030,7 @@ Step four
 
 <p><form>tristi</form> <pos>a</pos> <tr>sad</tr>. (literary). <i>Pagkatristi ning ákung dughan,</i> How sad this heart of mine is.
 
-<p><form>trisuríra</form> <xr>= <sc>TISURÍRU</sc> (female).</xr><note>Remarkable: female with TR, male with T.</note></xr>
+<p><form>trisuríra</form> <xr>= <sc>TISURÍRU</sc> (female).<note>Remarkable: female with TR, male with T.</note></xr>
 
 <p><form>triyanggulu</form> <xr>= <sc>TRAYANGGUL</sc>.</xr>
 
@@ -2162,7 +2166,7 @@ Step four
 
 <p><form>tsíku</form> <pos>n</pos> <tr>sapodilla</tr>, a small tree cultivated for its sweet, juicy fruit: <bio>Achras zapota</bio>. <form>(&rarr;) &mdash; karabaw</form> <xr>= <sc>GWAYABANU</sc>.</xr> <form>&mdash; kapúti</form> <xr>= <sc>TSÍKU</sc>.</xr> <form>tsíkus</form> <xr>= <sc>TSÍKU</sc>, <pos>n</pos>.</xr>
 
-<p><form>tsikut</form> <xr>= <sc>KUTSI</sc></xr> (slang).</xr>
+<p><form>tsikut</form> <xr>= <sc>KUTSI</sc> (slang).</xr>
 
 <p><form>tsimaníya</form> <pos>n</pos> <tr>chimney</tr> or <tr>stack</tr>, esp. of a ship. <pos>v</pos> <itype>[A; c]</itype> make, put a chimney s.w.
 
@@ -2198,7 +2202,7 @@ Step four
 
 <p><form>tsismúsa</form> <pos>a</pos> given to <tr>gossip</tr>. <pos>v</pos> <itype>[B12; b6]</itype> be, become a <tr>gossipmonger</tr>.
 
-<p><form>tsismúsu</form> <xr>= <sc>TSISMÚSA</sc></xr> (male).</xr>
+<p><form>tsismúsu</form> <xr>= <sc>TSISMÚSA</sc> (male).</xr>
 
 <p><form>tsitsà, tsìtsà</form> <pos>v</pos> <itype>[A; c]</itype> take <tr>light refreshments</tr> or snacks (slang). <pos>n</pos> <tr>eating</tr>.
 
@@ -2354,7 +2358,7 @@ Step four
 
 <p><form>tudlis</form> <pos>v</pos> <itype>[A; a1]</itype> <tr>prick</tr> with a needle to get s.t. out. <i>Akuy mutudlis sa ímung tunuk sa tiil,</i> I will prick your foot to get the thorn out. <i>Tudlísa ang hubag arun mugulà ang nánà,</i> Prick the boil so the pus can come out. <pos>n</pos> needle or the like to get s.t. out. <form>&mdash; sa tabákù</form> <xr>= <sc>PALIYU</sc>.</xr>
 
-<p><form>tudlù</form> <pos>v</pos> <number>1</number> <itype>[A; a1]</itype> point at, out. <i>Kun mutudlù si Sír nímu sulayi lag tubag,</i> If the teacher <pb n=1039>calls on you just try to answer. <i>Tudlúa ang sinumbung,</i> <tr>Point out</tr> the one who did it. <number>2</number> <itype>[A; c6]</itype> <tr>point</tr>, give <tr>directions</tr>. <i>Kinsay gatudlù nímung nía ku magpuyù?</i> Who told you that I live here? <number>3</number> <tr>teach</tr>. <i>Nagtudlù siya sa pablik,</i> She is teaching in the public schools. <number>4</number> <itype>[A; c16]</itype> <tr>appoint</tr>. <i>Ang prisidinti nagtudlù níya pagkahuwis,</i> The president appointed him judge. <pos>n</pos> <number>1</number> <tr>index finger</tr>. <number>2</number> the <tr>fingers</tr> in general. <form>hamuy sa &mdash;</form> <ix>see</ix> <xr><sc>HAMUY</sc>.</xr> <number>3</number> <b><r>[<ix>numeral</ix>]<r> ka &mdash;</b> [so-and-so] many fingers wide. <number>4</number> <form>&mdash; sa tiil</form> <tr>toes</tr>. <number>5</number> <form>&mdash; dalága, dátù</form> <ix>see</ix> <sc>DALÁGA<sub>2</sub></sc>, <sc>DÁTÙ<sub>2</sub></sc>. <form>tudlùtudlù</form> <pos>n</pos> eatery where the food for sale is put in a case on display. <form>-in-</form> <pos>n</pos> <tr>appointee</tr>. <form>ka-an</form> <pos>n</pos> <tr>appointment</tr>. <form>mag-r-</form> <pos>n</pos> <tr>teacher</tr>.
+<p><form>tudlù</form> <pos>v</pos> <number>1</number> <itype>[A; a1]</itype> point at, out. <i>Kun mutudlù si Sír nímu sulayi lag tubag,</i> If the teacher <pb n=1039>calls on you just try to answer. <i>Tudlúa ang sinumbung,</i> <tr>Point out</tr> the one who did it. <number>2</number> <itype>[A; c6]</itype> <tr>point</tr>, give <tr>directions</tr>. <i>Kinsay gatudlù nímung nía ku magpuyù?</i> Who told you that I live here? <number>3</number> <tr>teach</tr>. <i>Nagtudlù siya sa pablik,</i> She is teaching in the public schools. <number>4</number> <itype>[A; c16]</itype> <tr>appoint</tr>. <i>Ang prisidinti nagtudlù níya pagkahuwis,</i> The president appointed him judge. <pos>n</pos> <number>1</number> <tr>index finger</tr>. <number>2</number> the <tr>fingers</tr> in general. <form>hamuy sa &mdash;</form> <ix>see</ix> <xr><sc>HAMUY</sc>.</xr> <number>3</number> <form><r>[<ix>numeral</ix>]</r> ka &mdash;</form> [so-and-so] many fingers wide. <number>4</number> <form>&mdash; sa tiil</form> <tr>toes</tr>. <number>5</number> <form>&mdash; dalága, dátù</form> <xr><ix>see</ix> <sc>DALÁGA<sub>2</sub></sc>,</xr> <xr><sc>DÁTÙ<sub>2</sub></sc>.</xr> <form>tudlùtudlù</form> <pos>n</pos> eatery where the food for sale is put in a case on display. <form>-in-</form> <pos>n</pos> <tr>appointee</tr>. <form>ka-an</form> <pos>n</pos> <tr>appointment</tr>. <form>mag-r-</form> <pos>n</pos> <tr>teacher</tr>.
 
 <p><form>tudluk</form> <xr>= <sc>TUSLUK</sc>.</xr>
 
@@ -3044,7 +3048,7 @@ Step four
 
 <p><form>tupluk<sub>1</sub></form> <pos>a</pos> <tr>mischievous</tr>, full of pranks. <i>Gibutangag íhì sa tupluk dakù ang pláwir bís ni Mám,</i> The prankster put urine in the teacher's vase. <pos>v</pos> <itype>[B12; b6]</itype> be, become mischievous.
 
-<p><form>tupluk<sub>2</sub></form> <xr>= <sc>TULPUK</sc></xr> (but not doubled).</xr>
+<p><form>tupluk<sub>2</sub></form> <xr>= <sc>TULPUK</sc> (but not doubled).</xr>
 
 <p><form>tuptup</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <tr>cut</tr> s.t. from its base or stem. <i>Tuptúpa ang pakù kay dì nà iapil paglútù,</i> Cut the wings off. Don't include them with what you are cooking. <number>1a</number> cut s.t. with long strokes at the base. <number>2</number> cut s.t. straight across, not tapering. <i>Kinsay nagtuptup ug tupi nímu?</i> Who cut your hair evenly all around your head? <pos>a</pos> being cut straight across, not tapering. <form>pina-</form> <pos>v</pos> <itype>[A; c]</itype> make s.t. cut straight across.
 
@@ -3056,7 +3060,7 @@ Step four
 
 <p><form>tupus<sub>1</sub></form> <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> <tr>suck</tr> on s.t. in the mouth to eat it or get the juice out. <i>Nagtupus kug biksdrap kay árat ákung tunlan,</i> I am sucking on a cough drop because I have a sore throat. <number>2</number> toy or play with s.t. with the mouth. <i>Madaníhung ngábil nga íyang gitupsan sa pagháluk níla,</i> The attractive lips he played with as they kissed. <form>tinupsan</form> <pos>n</pos> <tr>pulp</tr> or juiceless flesh after eating. <i>Silhíga ang mga tinupsan human mug pangus ug tubu,</i> Sweep away the pulp after you're through eating your sugar cane. <form>talinupsan</form> <pos>a</pos> for clothes to<note> be ?</note> moist, almost dry after having been wet. <i>Mabulkas na ang hinalay kay talinupsan na,</i> You can take in the clothes now because they are <tr>almost dry</tr>. <pos>v</pos> <itype>[B125]</itype> be, become almost dry.
 
-<p><form>tupus<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>take over</tr> the task of s.o. incapable or unavailable. Kinsa may mutupus <pb n=1063>sa ímung trabáhu ug mulakaw ka,</i> Who takes over your chores when you go out? <i>Tupsa ring ákung buhatun kay kahilanatun ku,</i> Take over my work because I feel feverish. <number>2</number> <itype>[A; b]</itype> make up for the time lost or missed. <i>Buhían mu run kun tupsan ninyu ang klási sa Sabadu,</i> I will dismiss you now if you make the class up on Saturday. <number>3</number> <itype>[A; a12]</itype> <tr>make up for</tr> s.t. lacking by s.t. very good. <i>Púlus sila burung piru gitupus sa ílang anak nga utukan,</i> They are mostly imbeciles, but their one brainy child made up for it. <pos>n</pos> <number>1</number> time used for make-up. <i>Ang trabáhu run tupus sa pista upisiyal gahápun,</i> Today's work is to make up for yesterday's holiday. <number>2</number> s.t. just as much so in exactly the opposite way. <i>Dátù mi niadtu, tupus pud run nga kakha tukà,</i> We used to be just as rich as we are poor now. <i>Pagkagarbúsang bayhána, tupus sa íyang bánang labihan kamapaubsánun,</i> She is just as stuck up as her husband is modest.
+<p><form>tupus<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>take over</tr> the task of s.o. incapable or unavailable. <i>Kinsa may mutupus <pb n=1063>sa ímung trabáhu ug mulakaw ka,</i> Who takes over your chores when you go out? <i>Tupsa ring ákung buhatun kay kahilanatun ku,</i> Take over my work because I feel feverish. <number>2</number> <itype>[A; b]</itype> make up for the time lost or missed. <i>Buhían mu run kun tupsan ninyu ang klási sa Sabadu,</i> I will dismiss you now if you make the class up on Saturday. <number>3</number> <itype>[A; a12]</itype> <tr>make up for</tr> s.t. lacking by s.t. very good. <i>Púlus sila burung piru gitupus sa ílang anak nga utukan,</i> They are mostly imbeciles, but their one brainy child made up for it. <pos>n</pos> <number>1</number> time used for make-up. <i>Ang trabáhu run tupus sa pista upisiyal gahápun,</i> Today's work is to make up for yesterday's holiday. <number>2</number> s.t. just as much so in exactly the opposite way. <i>Dátù mi niadtu, tupus pud run nga kakha tukà,</i> We used to be just as rich as we are poor now. <i>Pagkagarbúsang bayhána, tupus sa íyang bánang labihan kamapaubsánun,</i> She is just as stuck up as her husband is modest.
 
 <p><form>tupwak</form> <pos>v</pos> <itype>[A; b6(1)]</itype> push s.t. into a place below in one motion. <i>Wà pa hibaw-i kung kinsay mitupwak sa Dun didtu sa pangpang,</i> The person who pushed the Don over the cliff has not been identified yet.
 
@@ -3130,7 +3134,7 @@ Step four
 
 <p><form>turuk</form> <pos>v</pos> <number>1</number> <itype>[B23(1)46; b(1)]</itype> <tr>sprout</tr>, grow from the surface. <i>Wà makaturuk ang similya tungud sa húlaw,</i> The seeds did not sprout because of the drought. <i>Uy gitugkan ug buhuk si Upaw,</i> My, old Baldy has grown hair. <number>2</number> <itype>[B246; b(1)]</itype> for a feeling to develop. <i>Makapaturuk (makaturuk) sa katáhap ang íyang linihukan,</i> His behavior arouses suspicion. <pos>n</pos> <number>1</number> <tr>sprout</tr>. <i>Pandúngi ang mga bag-ung turuk arun dì maláyà,</i> Cover the new sprouts so they don't wither. <number>2</number> sprout on coconut fruit. <i>Tul-id giyud ang turuk sa binhiun nga lubi,</i> The sprouts of the coconuts for planting are really straight. <number>3</number> <tr>penis</tr> (humorous euphemism). <form>&mdash; banwa</form> <pos>n</pos> <number>1</number> s.t. growing without being planted and taking space, like a weed. <number>2</number> a person who is useless and occupies space. <i>Turuk banwa nà siya sa pamilya; dílì mutábang sa buluhatun,</i> That person just occupies space in the house. He does not help with the chores. <form>tugkan</form> <pos>n</pos> coconut having a sprout. <form>turukturuk</form> <pos>n</pos> tiny <tr>growths</tr> which emerge. <i>Unsa nang mga turukturuk sa ímung náwung, bugas?</i> What are those growths on your face, pimples?
 
-<p><form>turun</form> <pos>n</pos> confection made with chopped nuts mixed in honey or sugar paste. <form>&mdash; diman</form> peanut nougat. <form>&mdash; dipíli</form> pili nut nougat. <form>banána &mdash;</form> sweet made of bananas wrapped in hin<note>typo:thin</note> <corr sic=pastery>pastry</corr> and fried. <pos>v</pos> <itype>[A; b6c1]</itype> make a nut nougat. <form>-is(&larr;)</form> <xr>= <sc>TURUN</sc></xr> (plural).</xr>
+<p><form>turun</form> <pos>n</pos> confection made with chopped nuts mixed in honey or sugar paste. <form>&mdash; diman</form> peanut nougat. <form>&mdash; dipíli</form> pili nut nougat. <form>banána &mdash;</form> sweet made of bananas wrapped in hin<note>typo:thin</note> <corr sic=pastery>pastry</corr> and fried. <pos>v</pos> <itype>[A; b6c1]</itype> make a nut nougat. <form>-is(&larr;)</form> <xr>= <sc>TURUN</sc> (plural).</xr>
 
 <p><form>turung</form> <pos>n</pos> s.t. worn as a <tr>head covering</tr>. <i>Pagdalag <pb n=1065>turung kay tingálig muulan,</i> Bring s.t. to cover your head with. It might rain. <pos>v</pos> <itype>[B6; c1]</itype> protect the head, wear a head covering. <i>Nagturung siyag dáhun sa ságing arun dì mahumud sa ulan,</i> He protected his head with a banana leaf to avoid getting wet in the rain.
 
@@ -3360,7 +3364,7 @@ Step four
 
 <p><form>tyatru</form> <pos>n</pos> <tr>theater</tr>.
 
-<p><form>tyimpu</form> <xr>= <sc>TIMPU</sc></xr> in all meanings except <i>n6.</i></xr>
+<p><form>tyimpu</form> <xr>= <sc>TIMPU</sc> in all meanings except <i>n6.</i></xr>
 
 <p><form>tyinda</form> <xr>= <sc>TINDA</sc>.</xr>
 
@@ -3433,7 +3437,7 @@ Step four
 
 <p><form>ubp</form>. abbreviation for <ix>ug uban pa</ix> &lsquo;and so forth&rsquo;.
 
-<p><form>ubra</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> <tr>work</tr>, esp. manual. <i>Nag-ubra ku sa báy ni Andis,</i> I'm working on Andis' house. <number>2</number> <itype>[b(1)]</itype> <tr>work off</tr> a debt. <i>Ákung ubráhan tung bayinti nga útang nákù,</i> I will work off my twenty-peso debt to you. <number>3</number> <itype>[A23; b(1)]</itype> for medicine to take effect. <i>Wà pa ka ubráhi sa purga?</i> Hasn't the purgative taken effect yet? <number>4</number> <itype>[B; b4]</itype> for menstruation to flow freely. <i>Dì muubra <pb n=1075>ang ákung dugù ug malígù ku,</i> My menstruation won't flow freely if I take a bath. <pos>n</pos> <number>1</number> <tr>work</tr>, esp. manual or heavy. <form>gíkan sa &mdash; padúlung sa trabáhu</form> going from work to more work. <i>Wà kuy diskansu kay gíkan sa laba padúng sa kusína, padúng sa bátà &mdash; gíkan sa ubra padúng sa trabáhu,</i> I have no rest. From the laundry to the kitchen, to the baby. I go from work to more work. <number>2</number> <tr>finished works</tr>. <form>&mdash; maistra</form> <pos>n</pos> <tr>masterpiece</tr>. <i>Nahálin ug dakù ang ubra maistra sa pintur,</i> The masterpiece of the artist sold for a good price. <form>ubríru</form> <pos>n</pos> <number>1</number> <tr>manual laborer</tr>. <number>2</number> member of a household (humorous). <pos>v</pos> <itype>[B1256; a12]</itype> be a <tr>worker</tr>. <form>ubrírus</form> <xr>= <sc>UBRÍRU</sc></xr> (plural).</xr> <form>pina-</form> <pos>n</pos> <tr>hired hands</tr>, <tr>workers</tr>. <form>inubráhan</form> <pos>n</pos> <tr>remuneration</tr> for one's work. <form>ulubrahun, ubrahúnun</form> <pos>n</pos> things to be done. <form>-s publikas</form> <pos>n</pos> <tr>public works</tr>.
+<p><form>ubra</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> <tr>work</tr>, esp. manual. <i>Nag-ubra ku sa báy ni Andis,</i> I'm working on Andis' house. <number>2</number> <itype>[b(1)]</itype> <tr>work off</tr> a debt. <i>Ákung ubráhan tung bayinti nga útang nákù,</i> I will work off my twenty-peso debt to you. <number>3</number> <itype>[A23; b(1)]</itype> for medicine to take effect. <i>Wà pa ka ubráhi sa purga?</i> Hasn't the purgative taken effect yet? <number>4</number> <itype>[B; b4]</itype> for menstruation to flow freely. <i>Dì muubra <pb n=1075>ang ákung dugù ug malígù ku,</i> My menstruation won't flow freely if I take a bath. <pos>n</pos> <number>1</number> <tr>work</tr>, esp. manual or heavy. <form>gíkan sa &mdash; padúlung sa trabáhu</form> going from work to more work. <i>Wà kuy diskansu kay gíkan sa laba padúng sa kusína, padúng sa bátà &mdash; gíkan sa ubra padúng sa trabáhu,</i> I have no rest. From the laundry to the kitchen, to the baby. I go from work to more work. <number>2</number> <tr>finished works</tr>. <form>&mdash; maistra</form> <pos>n</pos> <tr>masterpiece</tr>. <i>Nahálin ug dakù ang ubra maistra sa pintur,</i> The masterpiece of the artist sold for a good price. <form>ubríru</form> <pos>n</pos> <number>1</number> <tr>manual laborer</tr>. <number>2</number> member of a household (humorous). <pos>v</pos> <itype>[B1256; a12]</itype> be a <tr>worker</tr>. <form>ubrírus</form> <xr>= <sc>UBRÍRU</sc> (plural).</xr> <form>pina-</form> <pos>n</pos> <tr>hired hands</tr>, <tr>workers</tr>. <form>inubráhan</form> <pos>n</pos> <tr>remuneration</tr> for one's work. <form>ulubrahun, ubrahúnun</form> <pos>n</pos> things to be done. <form>-s publikas</form> <pos>n</pos> <tr>public works</tr>.
 
 <p><form>ubríru</form> <ix>see</ix> <xr><sc>UBRA</sc>.</xr>
 
@@ -3473,7 +3477,7 @@ Step four
 
 <p><form>udíyu</form> <pos>n</pos> <tr>extreme unction</tr>. <pos>v</pos> <itype>[A; b6]</itype> give the extreme unction.
 
-<p><form>udiyung</form> <pos>n</pos> <tr>arrow</tr>, <tr>dart</tr>. <pos>v</pos> <number>1</number> <itype>[A12; a2]</itype> make arrows. <number>2</number> <itype>[A; a12]</itype> hit with an arrow. <form>-un(&larr;)</form> <pos>a</pos> <tr>slender</tr>, <tr>arrow-like</tr>. Udiyúngun ug láwas ang babáyi,</i> The lady has a slender body.
+<p><form>udiyung</form> <pos>n</pos> <tr>arrow</tr>, <tr>dart</tr>. <pos>v</pos> <number>1</number> <itype>[A12; a2]</itype> make arrows. <number>2</number> <itype>[A; a12]</itype> hit with an arrow. <form>-un(&larr;)</form> <pos>a</pos> <tr>slender</tr>, <tr>arrow-like</tr>. <i>Udiyúngun ug láwas ang babáyi,</i> The lady has a slender body.
 
 <p><form>udlut</form> <pos>n</pos> <number>1</number> young <tr>leaf</tr>, leaf <tr>bud</tr>. <number>2</number> one who belongs to the upper class or top level of society. <i>Ikaw kay udlut magpataas ug aku kay laylay magpaubus,</i> You, who are of the upper class, should stay on top while I, who am of the dregs, should remain down where I belong. <pos>v</pos> <number>1</number> <itype>[AN; b4]</itype> sprout leaf buds. <i>Miudlut (nangudlut, giudlútan) na ang ákung manan-aw,</i> My orchid is budding. <number>2</number> <itype>[A3P; b4]</itype> for the flesh to swell in forming scar tissue in a place where there was a wound or boil. <i>Kining samára ang giudlútan sa prisku nga unud,</i> This is the wound where scar tissue formed. <number>3</number> <itype>[AN; b5]</itype> pick the top of leafy plants. <i>Ang kanding mauy miudlut (nangudlut) sa ákung agbáti,</i> The goat chewed off the leaf buds of my <ix>alugbáti</ix>. <form>ting-</form> <pos>n</pos> time for sprouting new leaves of plants, trees, etc. <form>-an(&rarr;)</form> <pos>n</pos> the topmost part of the tree in monocots.
 
@@ -3495,7 +3499,7 @@ Step four
 
 <p><form>ugahípun</form> <pos>n</pos> k.o. very venomous <tr>snake</tr>, short and stout, having dark-grayish body, yellowish front and black spots on the back.
 
-<p><form>ugáling</form> <ix>short form:</ix> <bx>gáling</bx>. <xr>= <sc>GÁNÌ</sc></xr> in all meanings except <i>5.</i></xr> <form>ka-un</form> <number>1</number> one's <tr>own</tr>. <i>Ákù ning kaugalíngung kutsi,</i> This is my own car. <i>May kaugalíngung banyu ang kwartu,</i> The room has its own bathroom. <i>Gigastu ku ang kaugalíngun kung kwarta,</i> I spent my own money. <number>1a</number> one's <tr>home</tr>. <i>But-an ku nímu sa ákung kaugalíngun?</i> You dare dictate to me in my own house? <number>2</number> <tr>oneself</tr>. <i>Nagsulti siya sa íyang kaugalíngun,</i> She was talking to <tr>herself</tr>. <form>panga-un</form> <pos>v</pos> <itype>[A2]</itype> <tr>manage a home</tr>. <i>Hustu na siya sa idad nga mangugalíngun,</i> She is old enough to manage a home. <pos>n</pos> home, as it is managed. <form>kina-un(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> <number>1</number> live on one's own. <number>2</number> have one's meals on one's own. <i>Dì ta mangasíra. Magkinaugalingun lang ta,</i> Let's not board. Let's have our meals on our own. <form>kaugalingnan</form> <pos>n</pos> independence of a nation. <i>Nagpakamatay si Risal álang sa kaugalingnan sa átung násud,</i> Rizal gave his life for the independence of our country.
+<p><form>ugáling</form> <ix>short form:</ix> <bx>gáling</bx>. <xr>= <sc>GÁNÌ</sc> in all meanings except <i>5.</i></xr> <form>ka-un</form> <number>1</number> one's <tr>own</tr>. <i>Ákù ning kaugalíngung kutsi,</i> This is my own car. <i>May kaugalíngung banyu ang kwartu,</i> The room has its own bathroom. <i>Gigastu ku ang kaugalíngun kung kwarta,</i> I spent my own money. <number>1a</number> one's <tr>home</tr>. <i>But-an ku nímu sa ákung kaugalíngun?</i> You dare dictate to me in my own house? <number>2</number> <tr>oneself</tr>. <i>Nagsulti siya sa íyang kaugalíngun,</i> She was talking to <tr>herself</tr>. <form>panga-un</form> <pos>v</pos> <itype>[A2]</itype> <tr>manage a home</tr>. <i>Hustu na siya sa idad nga mangugalíngun,</i> She is old enough to manage a home. <pos>n</pos> home, as it is managed. <form>kina-un(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> <number>1</number> live on one's own. <number>2</number> have one's meals on one's own. <i>Dì ta mangasíra. Magkinaugalingun lang ta,</i> Let's not board. Let's have our meals on our own. <form>kaugalingnan</form> <pos>n</pos> independence of a nation. <i>Nagpakamatay si Risal álang sa kaugalingnan sa átung násud,</i> Rizal gave his life for the independence of our country.
 
 <p><form>ugam</form> <pos>n</pos> whitish substance coating the tongue and upper palate. <pos>v</pos> <itype>[A123P; b4]</itype> get <ix>ugam</ix>.
 
