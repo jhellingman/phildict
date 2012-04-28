@@ -66,19 +66,23 @@
     </xsl:template>
 
     <xsl:function name="local:get-page-url" as="xs:string">
-        <xsl:param name="page" as="xs:integer"/>
+        <xsl:param name="page" as="xs:string"/>
+        <xsl:variable name="pageNumber" select="number($page)"/>
 
         <xsl:choose>
-            <xsl:when test="$page &lt; 538">
+            <xsl:when test="$page = '537a'">
+                <xsl:sequence select="'http://seapdatapapers.library.cornell.edu/cgi/t/text/pageviewer-idx?c=seap&amp;cc=seap&amp;idno=seap085b&amp;node=seap085b%3A11&amp;view=image&amp;seq=7&amp;size=200'"/>
+            </xsl:when>
+            <xsl:when test="$pageNumber &lt; 538">
                 <xsl:sequence select="concat(concat(
                     'http://seapdatapapers.library.cornell.edu/cgi/t/text/pageviewer-idx?c=seap&amp;cc=seap&amp;idno=seap085a&amp;node=seap085a%3A11&amp;view=image&amp;seq=', 
-                    $page + 24),
+                    $pageNumber + 24),
                     '&amp;size=200')"/>
             </xsl:when>
-            <xsl:when test="$page &gt; 537">
+            <xsl:when test="$pageNumber &gt; 537">
                 <xsl:sequence select="concat(concat(
                     'http://seapdatapapers.library.cornell.edu/cgi/t/text/pageviewer-idx?c=seap&amp;cc=seap&amp;idno=seap085b&amp;node=seap085b%3A11&amp;view=image&amp;seq=', 
-                    $page - 530),
+                    $pageNumber - 530),
                     '&amp;size=200')"/>
             </xsl:when>
             <xsl:otherwise>
