@@ -75,7 +75,7 @@
 
 <p><form>abaga</form> <pos>n</pos> <tr>sweet potatoes</tr> growing from the outer vines and not from the main root.
 
-<p><form>abága</form> <pos>n</pos> <tr>shoulder</tr>. <pos>v</pos> <itype>[A2SN; b5]</itype> <number>1</number> take financial <tr>responsibility</tr>. <i>Abagáhun (pangabagáhun, pangabagáhan) ni Mánuy níya ang galastúhan sa pag-iskuyla,</i> His brother will shoulder his school expenses. <number>2</number> take responsibility for accomplishing s.t. <i>Kita giyuy muabága (mangabága) áning prugramáha,</i> We must undertake to carry out this program. <form>(&rarr;)</form> <xr>= <sc>ABÁGA</sc>, <pos>v</pos>.</xr> <form>paN-</form> <pos>n</pos> <tr>right-hand-man</tr>. <form>abagáhun</form> <pos>a</pos> <tr>broad-shouldered</tr>.
+<p><form>abága</form> <pos>n</pos> <tr>shoulder</tr>. <pos>v</pos> <itype>[A2SN; b5]</itype> <number>1</number> take financial <tr>responsibility</tr>. <i>Abagáhun (pangabagáhun, pangabagáhan) ni Mánuy níya ang galastúhan sa pag-iskuyla,</i> His brother will shoulder his school expenses. <number>2</number> take responsibility for accomplishing s.t. <i>Kita giyuy muabága (mangabága) áning prugramáha,</i> We must undertake to carry out this program. <form>(&rarr;)</form> <xr>= <sc>ABÁGA</sc>, <i>v</i>.</xr> <form>paN-</form> <pos>n</pos> <tr>right-hand-man</tr>. <form>abagáhun</form> <pos>a</pos> <tr>broad-shouldered</tr>.
 
 <p><form>*abáhu</form> <form>&mdash; kunsidirasiyun, dispusisiyun</form> <pos>n</pos> bound by s.o.&apos;s will. <i>Abáhu (báhu) <corr sic=kunsididirasiyun>kunsidirasiyun</corr> ku sa ákung bána,</i> I am bound by my husband&apos;s decisions.
 
@@ -449,7 +449,7 @@
 
 <p><form>agáhad</form> <pos>v</pos> <itype>[A; b6]</itype> clear one&apos;s throat. <i>Miagáhad siya, unyà nangluwà,</i> He cleared his throat, then spat. <pos>n</pos> action of clearing the throat.
 
-<p><form>ágak</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> give the hand to lead or lend <tr>support</tr>. <i>Akù siyang agákun tapun sa karsáda,</i> I&apos;ll help him cross the street. <number>2</number> <itype>[A; a12]</itype> <tr>guide</tr> s.o. in moral principles. <i>Kitang mga hamtung angayang muágak sa mga batan-un,</i> We older folks should guide the younger generation. <form>-ay</form> <xr>= <sc>ÁGAK</sc>.</xr> <form>mag-r-(&rarr;), mag-r-</form> <pos>n</pos> trainer, one who guides others in learning s.t. <form>-l-un(&rarr;)</form> a weak, to be led when walking. <i>Gúlang na táwun si Lúlu alagakun ug mulakaw,</i> Grandpa is so old that he is to be led when he walks.&dagger;
+<p><form>ágak</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> give the hand to lead or lend <tr>support</tr>. <i>Akù siyang agákun tapun sa karsáda,</i> I&apos;ll help him cross the street. <number>2</number> <itype>[A; a12]</itype> <tr>guide</tr> s.o. in moral principles. <i>Kitang mga hamtung angayang muágak sa mga batan-un,</i> We older folks should guide the younger generation. <form>-ay</form> <xr>= <sc>ÁGAK</sc>.</xr> <form>mag-r-(&rarr;), mag-r-</form> <pos>n</pos> trainer, one who guides others in learning s.t. <form>-l-un(&rarr;)</form> <pos>a</pos> weak, to be led when walking. <i>Gúlang na táwun si Lúlu alagakun ug mulakaw,</i> Grandpa is so old that he is to be led when he walks.&dagger;
 
 <p><form>agak-ak</form> <pos>v</pos> <itype>[A]</itype> <number>1</number> for chickens to make the <tr>clucking sound</tr> of being disturbed. <i>Miagak-ak ang manuk kay nasangkilan,</i> The chicken squawked when s.o. touched it. <number>2</number> <tr>cackle</tr>, <tr>squawk</tr> with laughter.
 
@@ -1786,7 +1786,7 @@
 
 <p><form>anawnsir</form> <pos>n</pos> <number>1</number> <tr>announcer</tr>. <number>2</number> <tr>dispatcher</tr> of buses and jeeps (slang). <pos>v</pos> <itype>[A13; a12]</itype> be, make into an announcer.
 
-<p><form>anay<sub>1</sub></form> (from <ix>ina</ix>) <pos>n</pos> <number>1</number> <tr>sow</tr>. <number>2</number> woman that is a mother. <i>Dílì ka ángay nga mag-istiwardis kay anay ka na,</i> You are not fit to be a stewardess because you are a mother now. <form>-un, -un(&larr;)</form> <pos>n</pos> pig raised to bear a litter. <pos>v</pos> <itype>[A; a12]</itype> raise to be a sow. <i>Anayúnun ni nátung baktin,</i> Let&apos;s use this piglet for a sow. <form>-l-un(&larr;), -unun(&larr;)</form> a for a woman that is nursing to be thin like a sow that has been nursing her litter.
+<p><form>anay<sub>1</sub></form> (from <ix>ina</ix>) <pos>n</pos> <number>1</number> <tr>sow</tr>. <number>2</number> woman that is a mother. <i>Dílì ka ángay nga mag-istiwardis kay anay ka na,</i> You are not fit to be a stewardess because you are a mother now. <form>-un, -un(&larr;)</form> <pos>n</pos> pig raised to bear a litter. <pos>v</pos> <itype>[A; a12]</itype> raise to be a sow. <i>Anayúnun ni nátung baktin,</i> Let&apos;s use this piglet for a sow. <form>-l-un(&larr;), -unun(&larr;)</form> <pos>a</pos> for a woman that is nursing to be thin like a sow that has been nursing her litter.
 
 <p><form>anay<sub>2</sub></form> (from <ix>ina</ix>) exclamation uttered in fear. <i>Anay! Náay íhu!</i> Help! Sharks!
 
