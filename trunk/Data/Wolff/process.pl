@@ -31,6 +31,10 @@ processLetter("L");
 processLetter("M");
 processLetter("N");
 processLetter("P");
+processLetter("R");
+processLetter("S");
+processLetter("T");
+processLetter("U");
 
 system ("$saxon WCED-complete.xsl WCED-complete.xsl > WCED-complete.xml");
 system ("perl -S tei2html.pl WCED-complete.xml");

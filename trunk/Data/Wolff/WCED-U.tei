@@ -1,0 +1,275 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY larr       CDATA "&#x2190;"            -- leftwards arrow -->
+<!ENTITY rarr       CDATA "&#x2192;"            -- rightwards arrow -->
+<!ENTITY glots      CDATA "&#x0294;"            -- glottal stop -->
+
+<!ENTITY amacr      CDATA "&#x0101;"            -- a with macron -->
+<!ENTITY imacr      CDATA "&#x012B;"            -- i with macron -->
+<!ENTITY umacr      CDATA "&#x016B;"            -- u with macron -->
+
+<!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"    -- a with macron and grave -->
+<!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"    -- i with macron and grave -->
+<!ENTITY umacrgra   CDATA "&#x016B;&#x0300;"    -- u with macron and grave -->
+
+<!ENTITY amacracu   CDATA "&#x0101;&#x0301;"    -- a with macron and acute -->
+<!ENTITY imacracu   CDATA "&#x012B;&#x0301;"    -- i with macron and acute -->
+<!ENTITY umacracu   CDATA "&#x016B;&#x0301;"    -- u with macron and acute -->
+<!ENTITY Umacracu   CDATA "&#x016A;&#x0301;"    -- U with macron and acute -->
+
+<!ENTITY amacrcir   CDATA "&#x0101;&#x0302;"  -- a with macron and circumflex -->
+<!ENTITY imacrcir   CDATA "&#x012B;&#x0302;"  -- i with macron and circumflex -->
+<!ENTITY umacrcir   CDATA "&#x016B;&#x0302;"  -- u with macron and circumflex -->
+
+<!ENTITY acaron     CDATA "a&#x030C;"           -- a with caron -->
+<!ENTITY ucaron     CDATA "u&#x030C;"           -- u with caron -->
+<!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
+
+<!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+
+<!ENTITY prime      CDATA "'"            -- prime -->
+<!ENTITY Prime      CDATA "'"            -- double prime -->
+
+]>
+
+<!--
+
+Step one
+
+[X] Run pgpp.pl
+[X] Fix page-breaks
+[X] Fix hi tags (back to i tags)
+[X] Insert p tags
+[X] Run catpars.pl
+
+Step two
+
+[X] tag pos: n v
+[ ] tag pos: a
+[X] tag sense numbers (split of from b tags, look for /<b>word [0-9]</b>/ case
+[ ] verify 'real' italics (not samples), look for /[a-z] italics>/ case
+[ ] verify meaning numbers followed by sub-head-word or phrase <b>[0-9] word</b> case
+[X] italics and bolds midword. E.g. A<i>ng</i>
+[ ] remove redundant tags near commas.
+[ ] handle sup tags
+[ ] verify starred entries (sub-entry immediately after headword)
+[ ] handle [**proofer notes]
+[ ] handle quotes. look for " '", etc.
+[ ] Renumber pages.
+
+Step three
+
+Iterate:
+    [X] Run WCED-uptag1.pl
+    [ ] Run uptag.pl
+    [ ] Verify output for anomalies and fix in source
+
+Step four
+
+[ ] Run WCED-uptag1.pl
+[ ] Integrate result into WCED-body-0.3
+
+-->
+
+<TEI.2 lang=en>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A Dictionary of Cebuano Visayan</title>
+            <author>John U. Wolff</author>
+        </titleStmt>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language id=en>English</language>
+            <language id=en-US>English (United States)</language>
+            <language id=ceb>Cebuano</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1>
+<head>U</head>
+
+
+<p><form>u<sub>1</sub></form> <tr>or</tr>. <i>Kinsa may muadtu, ikaw u aku?</i> Who will go, you or me? <i>Muadtu ka ba u pabilin ba,</i> Are you going or staying here? <form>&mdash; byín, bín</form> <ix>particle offering two choices of action:</ix> or, if you wish. <i>Ikaw bay muanhi u byin<note>byín</note> aku bay muanhà?</i> Are you coming here, or shall I go there?
+
+<p><form>u<sub>2</sub></form> <number>1</number> <ix>particle initial in the sentence:</ix> exclamation of surprise upon finding out s.t. <number>1a</number> expressing annoyed surprise. <i>U, ngánung kúlang man ning suklì!</i> Hey, this isn't enough change! <i>U, ngánung mipaúlì ka pa man!</i> What are you doing back here! <i>U, ngánung wà man siya mukúyug!</i> Why? How come she's not with you? <i>U, mudílì ka na hinúun nga náa gitúnul na?</i> You mean you are going to refuse it when you already have it in your hand? <number>1b</number> expressing pleasant surprise. <i>U, Ting! Nía man diay ka!</i> Hey, Ting. You're here! <number>1c</number> exclaiming surprise at having made a mistake: Oh! <i>U, singku písus ba diay tu ímung gihátag nákù?</i> Oh! Was it five pesos you gave me? <number>2</number> exclamation preceding an emphatic denial. <i>U dílì, dílì nà mahímù,</i> Oh no, that can't be done. <number>2a</number> preceding a statement that s.t. is not the way the interlocutor thought. <i>U, sayun ra nang lutúun. Lat-i lang,</i> Oh, that's easy to cook. Just boil it. <number>3</number> pause before speaking. <i>U, ári diri nà ibutang,</i> Oh, just put that over here. <number>4</number> (most often at the end of the clause) particle to draw s.o.'s attention. <i>U, Dyú, dalì ra kadiyut,</i> Oh, Joe<note>,?</note> would you come here a second. <i>Ambi ra nang lápis u,</i> Would you hand me that pencil, that one over there. <i>Díay písus u. Patupi didtu,</i> Here, here's a peso. Go get a haircut.
+
+<p><form>u<sub>3</sub></form> <pos>n</pos> letter O.
+
+<p><form>&umacracu;<sub>1</sub></form> expression of frustration. <i>&Umacracu;, ngánu ug ngánu gayud nga nahitabù tu,</i> Oh why, oh why did that have to happen?
+
+<p><form>&umacracu;<sub>2</sub></form> <xr>= <sc>ÚU</sc>.</xr>
+
+<p><form>&umacracu;<sub>3</sub></form> <xr>= <sc>ÚLU</sc>.</xr>
+
+<p><form>úbak</form> <pos>n</pos> trunk of a banana or abaca<note>I?</note> tree. <pos>v</pos> <itype>[A; a12]</itype> separate layers of the banana trunk. <i>Ubáka ang baláni para kan-an,</i> Separate the banana trunk layers to use as plates.
+
+<p><form>uban</form> <pos>n</pos> <number>1</number> <tr>companion</tr>, s.o. together with s.o. else. <i>Kinsay ímung uban?</i> Who is your companion? <number>1a</number> s.t. that belongs together with s.t. else. <i>Kining mayka uban adtung tiprikurdíra,</i> This mike belongs with that tape recorder. <number>1b</number> <form>&mdash; sa</form>, [dat.] together with. <i>Mianhi ku dinhi uban níya,</i> I came here together <pb n=1073>with him. <i>Misugut siya uban sa pagtúu nga ...</i> He agreed in the belief that ... <number>1c</number> <form>&mdash; ang</form> including, [so-and-so] is also along. <i>Milakaw siya uban ang íyang masusu,</i> She left taking her baby with her. <number>1d</number> one's wife or husband, referred to in the third person. <i>Ákung ingnun ang ákung uban inig-abut níyas trabáhu,</i> I'll tell my husband when he gets home from work. <number>2</number> the other ones, additional ones. <i>Háin na man ang uban,</i> Where are the others? <i>Unsa pay uban,</i> What else? <i>ug uban pa</i> and so forth (abbreviated <bx>ubp.</bx>). <number>3</number> some of a group, but not all. <i>Mauy buhátun sa uban,</i> Some people do that. <i>Ságad barátu ang prútas, piru uban mahal,</i> Usually fruit is cheap, but some kinds are expensive. <number>4</number> <form>mau rang -a(&larr;)</form> of the same class. <i>Ang tulíngan ug barílis mu rang ubána,</i> The mackerel and tuna are in the same family. <pos>v</pos> <number>1</number> <itype>[AC; ac]</itype> go with, accompany s.o. <i>Muuban ku nímu,</i> I'll go with you. <i>Nagkaúban mi pag-adtu sa Manílà,</i> We happened to go to Manila together. <i>Unsa pa may ímung ubanun ngadtu sa dawuntáwun?</i> What do you want to go downtown with me for? <i>Ubanan ku siya kanúnay,</i> I always go with her. <i>Kinsa may ákung iuban dinhi,</i> Who will I bring here with me? <number>1a</number> <itype>[A; b6]</itype> escort s.o. in an affair or any gathering. <number>2</number> <itype>[c]</itype> include in a group. <i>Nauban nà diri sa ákung lista,</i> That is included here on my list. <number>3</number> <itype>[b]</itype> give s.t. else in addition. <i>Mutúu ku nímu ug ímung ubanag pasálig,</i> I'll trust you if you give me additional assurances. <form>(&larr;)</form> <pos>v</pos> <itype>[c]</itype> <number>1</number> be, do together with s.o. <i>Nagkaúban mi sukad sa gagmay pa mi,</i> We have been together since childhood. <i>Makig-úban ku níyag puyù didtu sa syudad,</i> I'll stay with him in the city. <number>2</number> share happiness, difficulties, etc. with s.o. <i>Nag-úban mi kanúnay sa mga kasákit,</i> We share each other's sorrows. <form>uban-úban</form> <pos>v</pos> <itype>[AC; c]</itype> participate in things one should not. <i>Wà na ku muuban-úban sa ílang mga binúang,</i> I no longer take part in their foolishness. <pos>n</pos> <number>1</number> common-law spouse. <number>2</number> s.t. taken along on short notice. <form>pa-</form> <pos>v</pos> <number>1</number> <itype>[A; ab]</itype> have s.o. go with s.o. else or oneself. <i>Mupauban ka pa ba?</i> Do you still need s.o. to accompany you? <number>2</number> <itype>[A; b6(1)]</itype> do s.t. unnecessary in addition to s.t. <i>Dì ku mupauban (magpauban) ug púng bísan unsay ákung ihátag,</i> When I give s.t., I don't say a lot of unnecessary things. <number>2a</number> <itype>[c]</itype> take in, send together with s.t. else. <i>Paubanan nákù ug túbig iniglamuy sa tablíta,</i> I'll wash the tablet down with water. <i>Ipauban ang unum ka kutsárang mantikilya,</i> Add the six tablespoons of butter. <form>-ay (pa) untà</form> [so-and-so] should have been done under the rules of propriety. <i>Ubánay pa untà mananghid,</i> The least you could have done is asked. <i>Ubánay pa untà mutábang ka nákù imbís maghinan-aw lang,</i> You should have helped instead of just looking at me. <form>-in-an</form> <pos>n</pos> done together with s.t. else. <i>Inubanan ug kasábà ang íyang pagtúgut,</i> He agreed to it but not without a good cussing out first. <form>ka-(&larr;)</form> <pos>n</pos> <number>1</number> <tr>companion</tr>. <i>Irù ray ákung kaúban dinhi,</i> A dog is my only companion here. <form>ka- sa kinabúhì</form> one's <tr>spouse</tr>. <number>2</number> one who is together with s.o. in a job or in a place. <i>Kaúban sa klási,</i> A classmate. <number>2a</number> <form>ka- nga</form> <tr>fellow-</tr>. <i>Kaúban nákung maistru,</i> A teacher that teaches in the same school as I do. <pos>v</pos> <itype>[B1256]</itype> happen to be together with s.o. <form>ka-an(&larr;)</form> <pos>n</pos> <note>can't identify</note><note>P2 thinks it's 1</note> <tr>kin</tr>. <i>Daghan mig mga kaubánan sa Mindanaw,</i> We have many <tr>relatives</tr> in Mindanao. <number>2</number> people belonging to the same large group. <i>Mga kaubánan níya sa partídu,</i> His fellow party members.
+
+<p><form>úban</form> <pos>n</pos> <tr>gray hair</tr>. <i>Daghan na ku ug mga úban,</i> I have lots of gray hair. <pos>v</pos> <itype>[A123P; a4b6]</itype> have gray hair. <form>-un</form> <pos>a</pos> having grey hairs. <i>Ubánun na ang tigúwang,</i> The old man has lots of gray hair. <pos>v</pos> <itype>[B12]</itype> get to have grey hair.
+
+<p><form>ubaryu</form> <pos>n</pos> <tr>ovary</tr> in women.
+
+<p><form>úbas<sub>1</sub></form> <pos>n</pos> <tr>grapes</tr>.
+
+<p><form>úbas<sub>2</sub></form> <pos>n</pos> <number>1</number> refuse from soft-boiled rice or cooked cassava flour after extracting the starch used for starching clothes. <number>2</number> pulp of citrus fruits. <number>3</number> chips or curled up slivers that result from drilling wood or metal.
+
+<p><form>ubaub</form> <pos>n</pos> <number>1</number> <tr>eyelid</tr>. <number>2</number> <tr>temple</tr> of the head.
+
+<p><form>ubaug</form> <pos>n</pos> <tr>eye socket</tr>. <i>Ang ubaug mauy nagsanggà sa mata,</i> The eye socket supports the eyeball.
+
+<p><form>ubay</form> <pos>a</pos> <tr>parallel</tr> to, <tr>along</tr> the lines of, <tr>in line with</tr>. <i>Ang dálan mitúlin ug usa ka kilumitru ubay sa subà,</i> The path ran for a kilometer along the river. <i>Ang íyang gitambag ubay sa mga lagdà sa maáyung pamatásan,</i> The advice he gives is <tr>in accordance with</tr> the rules of proper behavior. <i>Ubay sa prugráma sa pagdagínut,</i> In line with the austerity program. <i>Ubay sa panahun ang pagpangarsúnis sa mga babáyi karun,</i> It is <tr>in accordance with</tr> the times the way women wear pants these days. <pos>v</pos> <number>1</number> <itype>[AC; ac]</itype> go along the side of, be situated <tr>alongside</tr>, put s.t. parallel. <i>Daghang táwu ang miubay sa kutsi nga gisakyan sa pamúnù,</i> Many people went along beside the car bearing the president. <i>Nag-úbay kami pagkatúlug,</i> We slept lying down <tr>beside</tr> each other. <i>Nag-ubay sa baybáyun ang mga payagpáyag,</i> The shacks <tr>lined</tr> the beach. <number>2</number> <itype>[A; c]</itype> do s.t. in <tr>accordance</tr> with <pb n=1074>s.t. else. <i>Kung iubay nímu sa katárung ang ímung líhuk,</i> If you act <tr>according to</tr> the rules of right conduct. <form>pa-un(&larr;)</form> <pos>v</pos> <itype>[A2; b]</itype> <tr>concur</tr>, <tr>go along with</tr> s.o.'s decision. <i>Gipaubayúnan níya ang tanang hangyù sa asáwa,</i> He <tr>consented</tr> to everything his wife wanted to do. <form>ka-</form> <pos>n</pos> s.t. parallel with s.t. else.
+
+<p><form>ubay-ubay</form> <pos>a</pos> of a <tr>considerable</tr> number or amount. <i>Ubay-ubay mi ug kuhà run,</i> We had a <tr>good-sized</tr> catch today. <pos>v</pos> <itype>[B26; c1]</itype> be of a good number. <i>Ubay-ubaya (iubay-ubay) ang ímung pagkáun arun dì na ku magbálun,</i> Fix a <tr>good amount</tr> of food so I won't have to take any along.
+
+<p><form>úbi</form> <pos>n</pos> widely grown <tr>yam</tr> of variable color and size; used mainly as an ingredient in sweet dishes: <bio>Dioscorea alata</bio>. <form>&mdash; nga gataw</form> <pos>n</pos> variety, the tuber of which becomes exposed above the ground. <form>&mdash; nga kinampay</form> variety with purple meat. <pos>v</pos> <itype>[b6]</itype> make s.t. of <ix>úbi</ix>. <form>kulur di-</form> violet-colored. <form>ubihan</form> <pos>n</pos> <tr>yam patch</tr>.
+
+<p><form>ubíhas</form> <pos>n</pos> word used in the <ix>gúsus</ix> of certain novenas to refer to the souls who have joined the angels.
+
+<p><form>úbir<sub>1</sub></form> <pos>a</pos> beyond the allowed limit. <i>Bug-at ra kaáyu. Úbir nas timbangan,</i> It's too heavy. It weighs way more than the scale indicates. <pos>v</pos> <itype>[B26]</itype> go beyond the limit. <i>Miúbir siyas linya maung napáwul,</i> He went <tr>over the line</tr> and so he was declared foul. <form>&mdash; drap</form> <pos>n</pos> <number>1</number> <tr>overdraft</tr>. <number>2</number> shortage of money. <pos>a</pos> being <tr>short</tr> of money. <i>Dì kung kapalit kay úbir drap ku run,</i> I can't buy any right now because I'm short of money. <pos>v</pos> <number>1</number> <itype>[B1256]</itype> become short of money. <number>2</number> <itype>[B12]</itype> be <tr>bankrupted</tr>. <form>&mdash; dus</form> <pos>n</pos> <tr>overdose</tr>. <pos>v</pos> <itype>[B126]</itype> take an overdose of s.t. <form>&mdash; hid</form> <pos>n</pos> violation in basketball where a player dribbles the ball above his head. <pos>v</pos> <itype>[B1256]</itype> commit this violation. <form>&mdash; hit</form> <pos>v</pos> <itype>[B]</itype> for engines to overheat. <form>&mdash; hul</form> <pos>v</pos> <itype>[A; a2]</itype> <tr>overhaul</tr> a vehicle. <form>pa- hul</form> <pos>v</pos> <itype>[A; ac]</itype> have a general physical check-up. <i>Kinahanglang magpaúbir hul ta kausa sa usa ka túig,</i> We need a general physical check-up once a year. <form>-ispíding</form> <pos>n</pos> <tr>speeding</tr>. <pos>v</pos> <itype>[A]</itype> be speeding. <form>&mdash; kut</form> <pos>n</pos> <tr>jacket</tr>. <pos>v</pos> <itype>[A; c1]</itype> wear, make into a jacket. <form>&mdash; lan</form> <pos>v</pos> <itype>[A]</itype> go s.w. overland rather than by sea. <form>&mdash; lap</form> <pos>n</pos> trousers made to be worn without a belt, having an overlapping closing in the waist. <pos>v</pos> <itype>[c1]</itype> make trousers in this style. <form>-lúdid</form> <pos>a</pos> for a vehicle or boat to carry a load greater than the legal limit. <pos>v</pos> <itype>[B12]</itype> be <tr>over-loaded</tr>. <form>-nayit</form> <pos>v</pos> <itype>[A2]</itype> stay s.w. <tr>overnight</tr>. <pos>n</pos> <tr>overnight bag</tr>. <form>-nayit bag</form> <pos>n</pos> <tr>overnight bag</tr>. <form>-prayis</form> <pos>v</pos> <itype>[A2; b(1)]</itype> <tr>overprice</tr> s.t., jack up the price. <form>&mdash; sis</form> <pos>n</pos> vessel that goes overseas out of the Philippines. <pos>v</pos> <itype>[A]</itype> sail or work on an overseas vessel. <form>-tayim</form> <pos>n</pos> <number>1</number> <tr>overtime work</tr>. <number>2</number> {overtime pay}. <pos>v</pos> <itype>[A; b6]</itype> work <tr>overtime</tr>. <i>Náay ámung giubirtayman,</i> We're working overtime on s.t. <form>&mdash; tik</form> <pos>v</pos> <itype>[A; b1]</itype> <number>1</number> <tr>pass</tr> another vehicle. <i>Ayaw pag-ubir tik sa kurbáda,</i> No overtaking on a curve. <number>2</number> get a girl to say yes to one before s.o. else does. <i>Naguul si Huwan tungud kay giubirtikan siya ni Pidru sa pagpangulitáwu ni Maríya,</i> Juan is sad because Pedro beat him to Maria (and Maria accepted Pedro). <form>&mdash; ul</form> <pos>n</pos> <tr>overalls</tr>. <pos>v</pos> <itype>[A; c1]</itype> wear, make overalls.
+
+<p><form>úbir<sub>2</sub></form> <pos>v</pos> <itype>[A; c]</itype> in volleyball, toss the ball back to the opponents.
+
+<p><form>úbir<sub>3</sub></form> humorous reference to the song <i>U Bírhin Maríya.</i>
+
+<p><form>ubispu</form> <pos>n</pos> <tr>bishop</tr>. <pos>v</pos> <itype>[B6; c1]</itype> be, become a bishop. <form>ubispádu</form> <pos>n</pos> <tr>bishopric</tr>.
+
+<p><form>ubligar</form> <pos>v</pos> <itype>[B; a12]</itype> <tr>force</tr>, <tr>compel</tr> s.o..<note>extra period?</note> <i>Kanang ímung sakit mauy muubligar nímu sa kamatáyun,</i> Your illness will bring you <tr>inexorably</tr> to your death. <i>Wà siya nákù ubligara (ubligaha) pagbáyad sa íyang útang,</i> I didn't force him to pay his debt. <i>Naubligar ku sa pagpangútang ug kwarta pára sa masakitun kung anak,</i> I was forced to borrow money for my sick child. <form>ubligádu</form> <pos>a</pos> <tr>must</tr> do. <i>Ug gustu kang muabut sa pyista, ubligádu kang mularga run,</i> If you want to make it to the feast you must leave today. <i>Dílì ubligádu ang pagsimba sa mga Hudíyu,</i> It is not <tr>obligatory</tr> for Jews to attend church. <pos>v</pos> <itype>[B126; a12]</itype> be <tr>obliged</tr> to do s.t <form>ubligasiyun</form> <pos>n</pos> <number>1</number> <tr>obligation</tr>, <tr>moral compulsion</tr> to do s.t. <i>Ubligasiyun sa usa ka ginikánan pagbuhì<note>P2? or í,P3 ok as is</note> sa íyang mga anak,</i> Parents have an obligation to raise their children. <number>2</number> <tr>financial obligation</tr>. <i>Wà kuy ikabáyad sa ákung ubligasiyun,</i> I don't have the means to pay my obligations. <form>may &mdash;</form> a married man.
+
+<p><form>ublung</form> <pos>a</pos> <number>1</number> <tr>oblong</tr> in shape. <number>2</number> for s.t. normally round not to be so. <pos>v</pos> <itype>[B2]</itype> for s.t. round to get out of shape. <i>Kun ímung padagánun nang bisiklítang plát muublung (maublung) ang yantas niánà,</i> If you ride the bicycle flat, the rims will get out of shape.
+
+<p><form>ubp</form>. abbreviation for <ix>ug uban pa</ix> &lsquo;and so forth&rsquo;.
+
+<p><form>ubra</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> <tr>work</tr>, esp. manual. <i>Nag-ubra ku sa báy ni Andis,</i> I'm working on Andis' house. <number>2</number> <itype>[b(1)]</itype> <tr>work off</tr> a debt. <i>Ákung ubráhan tung bayinti nga útang nákù,</i> I will work off my twenty-peso debt to you. <number>3</number> <itype>[A23; b(1)]</itype> for medicine to take effect. <i>Wà pa ka ubráhi sa purga?</i> Hasn't the purgative taken effect yet? <number>4</number> <itype>[B; b4]</itype> for menstruation to flow freely. <i>Dì muubra <pb n=1075>ang ákung dugù ug malígù ku,</i> My menstruation won't flow freely if I take a bath. <pos>n</pos> <number>1</number> <tr>work</tr>, esp. manual or heavy. <form>gíkan sa &mdash; padúlung sa trabáhu</form> going from work to more work. <i>Wà kuy diskansu kay gíkan sa laba padúng sa kusína, padúng sa bátà &mdash; gíkan sa ubra padúng sa trabáhu,</i> I have no rest. From the laundry to the kitchen, to the baby. I go from work to more work. <number>2</number> <tr>finished works</tr>. <form>&mdash; maistra</form> <pos>n</pos> <tr>masterpiece</tr>. <i>Nahálin ug dakù ang ubra maistra sa pintur,</i> The masterpiece of the artist sold for a good price. <form>ubríru</form> <pos>n</pos> <number>1</number> <tr>manual laborer</tr>. <number>2</number> member of a household (humorous). <pos>v</pos> <itype>[B1256; a12]</itype> be a <tr>worker</tr>. <form>ubrírus</form> <xr>= <sc>UBRÍRU</sc> (plural).</xr> <form>pina-</form> <pos>n</pos> <tr>hired hands</tr>, <tr>workers</tr>. <form>inubráhan</form> <pos>n</pos> <tr>remuneration</tr> for one's work. <form>ulubrahun, ubrahúnun</form> <pos>n</pos> things to be done. <form>-s publikas</form> <pos>n</pos> <tr>public works</tr>.
+
+<p><form>ubríru</form> <ix>see</ix> <xr><sc>UBRA</sc>.</xr>
+
+<p><form>ubsirbar</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> make an observation, <tr>keep an eye on</tr>. <i>Ubsirbahan úsà nákù ang ímung trabáhu úsà ku muumintu sa ímung swildu,</i> I will <tr>see</tr> how you work before I give you a raise. <i>Giubsirbahan sa dukt&ucaron;r ang ipiktu sa iniksiyun sa masakitun,</i> The doctor <tr>observed</tr> the effect of the injection on the patient. <number>2</number> <itype>[A12; b8]</itype> <tr>notice</tr>. <i>Hiubsirbahan ta ka nga naghinuktuk usáhay,</i> I've noticed you have been wrapped in deep thought from time to time. <form>ubsirbádu</form> <number>1</number> be one's observation. <i>Ubsirbádu na nà nákù sa muguwà gánì ang mga úbus, muulan giyud,</i> I have already observed that when the winged ants come out, it will rain. <number>2</number> having first-*hand experience with s.t. <i>Ubsirbádu ku ánang sakíta kay daghan kug anak,</i> I'm familiar with that sickness, because I have lots of children. <form>ubsirbasiyun</form> <pos>n</pos> as one looks at it. <i>Sa ákung ubsirbasiyun, mulansad giyud si Imilda,</i> As far as I can see it, Imelda is sure to run.
+
+<p><form>ubsirbaturyu</form> <pos>n</pos> <tr>observatory</tr>.
+
+<p><form>ubu</form> <pos>n</pos> <tr>cough</tr>. <form>amígu sa &mdash;</form> one who is susceptible to coughs and colds. <pos>v</pos> <itype>[B46; a4]</itype> <tr>cough</tr>. <i>Sap-úngi ang ímung bàbà ug muubu (ubhun) ka,</i> Cover your mouth if you cough. <form>ubuubu</form> <pos>n</pos> <tr>tuberculosis</tr>. <pos>v</pos> <itype>[B146; a4]</itype> have <xr><sc>TB</sc>.</xr> <i>Nag-ubuubu (giubuubu) ku,</i> I have <xr><sc>TB</sc>.</xr>
+
+<p><form>ubù</form> <pos>v</pos> <number>1</number> <itype>[c]</itype> lie down on the stomach. <i>Ákung iubù ning ákung tiyan arun maw&amacrgra; ang bútud,</i> I'll lie on my stomach to get rid of my gas pains. <number>1a</number> for a baby to be able to turn over on its stomach. <i>Kining batáa kay muubù na, maáyu na ni pasundan,</i> This child can turn over on his stomach. It's about time to have another baby. <number>2</number> <itype>[A; c]</itype> crouch or stoop with the body low. <i>Ug dì ka muubù masungkù ka,</i> If you don't stoop, you'll bump your head. <number>3</number> <itype>[b(1)]</itype> throw oneself on s.o. to protect him. <i>Ákung giub-an ang bátà sa nagpungasì na ang bála,</i> I threw myself on the child when the bullets came fast and thick. <form>bilat sa íyang &mdash;</form> a coarse and humorous euphemism for <xr><sc>BILAT SA IYANG INA</sc>.</xr> <form>pa- sa bága</form> <pos>v</pos> <itype>[c1]</itype> broil s.t. over hot coals. <i>Paub-a (ipaubù) sa bága ang manuk,</i> Broil the chicken over the coals.
+
+<p><form>ub-ub</form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> chew and eat s.t. crunchy between the molars. <i>Ub-úba ang tablítas,</i> <tr>Chew</tr> the tablets. <number>2</number> <itype>[A; a]</itype> <tr>eat</tr> (slang). <i>Muub-ub siya bísan unsa,</i> He eats anything.
+
+<p><form>ubud</form> <pos>n</pos> general name for <tr>marine eels</tr>. <form>&mdash; itúhun</form> k.o. <tr>eel</tr> the head of which is shaped like a catfish's (<i>ítu</i>).
+
+<p><form>úbud</form> <pos>n</pos> <number>1</number> the tender heart of the trunk of palms, bananas, bamboos, rattans. <i>Lamì lumpiyáun ang úbud sa lubi,</i> The heart stem of the coconut is good for egg rolls. <number>2</number> <tr>bamboo shoots</tr>. <pos>v</pos> <itype>[AN; b6]</itype> get, gather hearts of stems and trunks. <form>ubúrun</form> <pos>a</pos> having the whiteness and smoothness of the heart of a banana stem. <pos>v</pos> <itype>[B126]</itype> develop a white, fine texture.
+
+<p><form>úbug</form> <pos>v</pos> <itype>[A; b5]</itype> <tr>wade</tr> or walk through shallow water. <i>Tagahawak ang túbig nga ákung giúbug,</i> I waded through water that was waist-deep.
+
+<p><form>ubul-úbul</form> <pos>n</pos> <number>1</number> <tr>Adam's apple</tr>. <number>2</number> <tr>trachea</tr> or <tr>windpipe</tr> of vertebrates. <pos>v</pos> <itype>[c16]</itype> hit s.o. on the Adam's apple.
+
+<p><form>ubus</form> <pos>n</pos> <number>1</number> <tr>beneath</tr>. <i>Ubus sa káhuy may táwu nga naglingkud,</i> Beneath the tree there sat a man. <number>1a</number> the lower part of body. <number>1b</number> <tr>lowlands</tr>, usually coastal areas. <number>2</number> <tr>under</tr>, <tr>subjected to</tr>. <i>Ubus sa íyang pagdumála,</i> Under his management. <i>Magminyù aku nímu ubus sa usa ka kundisiyun,</i> I'll marry you under one condition. <pos>a</pos> <number>1</number> <tr>low</tr>, not high in price or degree. <i>Ubus kaáyu nang prisyúha,</i> That price was very low. <number>2</number> low, not high in elevation. <i>Itaas ang kutay kay ubus ra kaáyu,</i> Put the strand up higher because it is too low. <number>2a</number> for the womb of a pregnant woman to be low. <number>3</number> low of station or of social rank. <form>&mdash; balauránan, pamalauránan</form> <tr>Lower House</tr>. <number>4</number> arrive s.w. later than s.o. else. <i>Ubus ka nákug singku minútus,</i> You arrived five minutes later than I did. <pos>v</pos> <number>1</number> <itype>[B2; b7Pc]</itype> <tr>decrease</tr>, <tr>go down</tr>. <i>Ug muubus ang ímung grádu,</i> If your grades go down. <i>Ubsi (paubsi) ang ímung tunung, tingáli buls-ay,</i> Lower your aim. You might make a bulls-eye. <number>2</number> <itype>[APB; cP]</itype> be lower in elevation or placement. <i>Miubus ang sawug kay mius-us ang panawganan,</i> The floor sunk because the <pb n=1076>joists sunk. <i>Miubus na ang íyang tiyan. Hapit na manganak,</i> Her baby has <tr>descended</tr>. She is about ready to have it. <form>pa-</form> <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> travel, <tr>fly low</tr>. <i>Ang banug talagsa ra nga magpaubus,</i> Hawks seldom fly low. <number>2</number> <itype>[A3]</itype> go to live in coastal areas. <number>3</number> <itype>[A13]</itype> be <tr>humble</tr>. <i>Magpaubus ta kay mabà ra ta ug ranggu,</i> We should be humble because we are of low rank. <number>4</number> <itype>[A; b7c]</itype> lower one's voice. <i>Mipaubus siya sa íyang tíngug, hadluk hidunggan,</i> He lowered his voice, afraid of being heard. <number>5</number> <itype>[A1; c2]</itype> <tr>reduce</tr> an amount. <i>Paubsan (ipaubus) sa prisidinti ang sílut,</i> The president will reduce the penalty. <number>6</number> <itype>[A; a1c]</itype> <tr>put down</tr>, <tr>lower</tr>. <i>Ug mupaubus siya sa íyang pusil ayaw ug tirúhi,</i> If he lowers his gun, don't shoot him. <i>Ipaubus ang inyung bangkaw. Way kásu,</i> Lower your spears. There's nothing wrong. <form>hi-</form> <pos>v</pos> <itype>[B126; b3(1)]</itype> be <tr>offended</tr>, <tr>hurt</tr>. <i>Nahiubus ku sa íyang sulti,</i> I was hurt by what he said. <form>ka-</form> <pos>n</pos> condition or state of being <tr>inferior</tr> or <tr>low in rank</tr>. <form>kahi-</form> <pos>n</pos> <tr>hurt feelings</tr>. <form>mapaubsánun, mapahiubsánun, mapinaubsánun, mapainubsánun</form> <pos>a</pos> <tr>humble</tr>. <form>taga-</form> <pos>n</pos> people residing in the coastal areas.[+]
+
+<p><form>úbus<sub>1</sub></form> <pos>v</pos> <itype>[AB12; a12]</itype> be all <tr>consumed</tr>. <i>Kinsay nag-úbus sa kík?</i> Who ate the cake? <i>Átung ubúsun ang pagkáun,</i> Let's eat all the food.
+
+<p><form>úbus<sub>2</sub></form> <xr>= <sc>ALIBUSBUS</sc>.</xr>
+
+<p><form>ubuub</form> <pos>a</pos> low-roofed house, building. <i>Ngitngit ning baláya kay ubuub kaáyu ang atup,</i> This house is dark because it has a very low roof. <pos>v</pos> <itype>[B6; c1]</itype> make a building or house low-roofed.
+
+<p><form>&umacracu;d</form> <xr>= <sc>ÚLUD</sc>.</xr>
+
+<p><form>úday</form> <xr>= <sc>ÚRAY</sc>.</xr>
+
+<p><form>udhak</form> <pos>n</pos> deep cough or gasp for breath of the sort one gets from an asthma attack, over-exertion, a blow on the chest, or the like. <i>Ang udhak sa tisísun milánug sa kagabhíun,</i> The coughing of the tubercular resounded in the night. <pos>v</pos> <itype>[A; a4]</itype> have a deep coughing fit or gasp for breath. <i>Mu rag dílì siya makaginháwa ug muudhak (udhákun) siya,</i> It is as if he can't breathe when he has his attacks.
+
+<p><form>udhan</form> <pos>a</pos> be mean enough to do s.t. <i>Udhan (udhánun) kang mulakaw bísag nagdaut ang ímung anak?</i> Can you bear to leave the house when your child is sick? <form>-un</form> <xr>= <sc>UDHAN</sc>.</xr>
+
+<p><form>udíyu</form> <pos>n</pos> <tr>extreme unction</tr>. <pos>v</pos> <itype>[A; b6]</itype> give the extreme unction.
+
+<p><form>udiyung</form> <pos>n</pos> <tr>arrow</tr>, <tr>dart</tr>. <pos>v</pos> <number>1</number> <itype>[A12; a2]</itype> make arrows. <number>2</number> <itype>[A; a12]</itype> hit with an arrow. <form>-un(&larr;)</form> <pos>a</pos> <tr>slender</tr>, <tr>arrow-like</tr>. <i>Udiyúngun ug láwas ang babáyi,</i> The lady has a slender body.
+
+<p><form>udlut</form> <pos>n</pos> <number>1</number> young <tr>leaf</tr>, leaf <tr>bud</tr>. <number>2</number> one who belongs to the upper class or top level of society. <i>Ikaw kay udlut magpataas ug aku kay laylay magpaubus,</i> You, who are of the upper class, should stay on top while I, who am of the dregs, should remain down where I belong. <pos>v</pos> <number>1</number> <itype>[AN; b4]</itype> sprout leaf buds. <i>Miudlut (nangudlut, giudlútan) na ang ákung manan-aw,</i> My orchid is budding. <number>2</number> <itype>[A3P; b4]</itype> for the flesh to swell in forming scar tissue in a place where there was a wound or boil. <i>Kining samára ang giudlútan sa prisku nga unud,</i> This is the wound where scar tissue formed. <number>3</number> <itype>[AN; b5]</itype> pick the top of leafy plants. <i>Ang kanding mauy miudlut (nangudlut) sa ákung agbáti,</i> The goat chewed off the leaf buds of my <ix>alugbáti</ix>. <form>ting-</form> <pos>n</pos> time for sprouting new leaves of plants, trees, etc. <form>-an(&rarr;)</form> <pos>n</pos> the topmost part of the tree in monocots.
+
+<p><form>udtu</form> <pos>n</pos> <number>1</number> <tr>twelve o'clock</tr>, for the sun to be overhead. <form>&mdash; nga láruk, tútuk, tuktuk</form> <tr>high noon</tr>. <number>2</number> for the moon or s.t. else to be overhead in the heavens at the noon position. see also phases of the moon under <xr><sc>BÚLAN</sc>.</xr> <pos>v</pos> <number>1</number> <itype>[B25; b8]</itype> be <tr>noon</tr>. <i>Muláruk ang adlaw ug maudtu na,</i> The sun reaches its zenith when it is noon. <number>1a</number> <itype>[B]</itype> for a heavenly body to get into the noon position. <number>2</number> <itype>[A13; b4(1)]</itype> do s.t. till noon. <i>Hiudtuhan (naudtuhan) siyag pagwápa atubángan sa ispíhu,</i> She primped in front of the mirror the whole morning until noon. <number>3</number> <itype>[B1256]</itype> do s.t. at noon time. <i>Maudtu ray ákung ipahúway,</i> I take a rest only at noon time. <form>hiN-</form> <pos>v</pos> <number>1</number> <itype>[B56]</itype> be almost high noon. <i>Ínit kaáyu ang adlaw ug muhingudtu (mahingudtu) na,</i> The sun becomes hot when it's almost noon time. <number>2</number> <itype>[A; c]</itype> slice the terminal portion of a coconut bud to induce sap to flow regularly at noon. <number>2a</number> gather coconut palm toddy at noon. <form>panghiN-</form> <pos>v</pos> <itype>[A2; b6(1)]</itype> do s.t. at noon one doesn't normally do at noon, e.g. have sexual intercourse. <i>Dúgay siyang miabut sa upisína kay nanghingudtu pa man,</i> He arrived late at the office, because he still had his noon intercourse. <form>udtuhan</form> <pos>n</pos> <tr>zenith</tr>. <i>Ang búwan náa sa udtuhan,</i> The moon is at the zenith. <form>kaudtúhun</form> <pos>n</pos> noon time. <i>Ang kaudtúhun ínit kaáyu,</i> At noon time it is very hot. <form>pani-</form> <pos>n</pos> <tr>lunch</tr>, <tr>lunch time</tr>. <pos>v</pos> <itype>[A2C12; b6(1)]</itype> have, eat lunch. <form>udtúhun, udtuudtu</form> <pos>n</pos> a tiny, poisonous black snake having bright reddish-orange eyes, so called because its poison is said to kill the victim at noon. <form>tali-</form> <pos>n</pos> time just before noon. <form>udtuhun</form> <pos>n</pos> coconut palm toddy <pb n=1077>gathered at noon.
+
+<p><form>udù</form> <xr>= <sc>UNDÙ</sc>.</xr>
+
+<p><form>ud-ud<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[AN; b5]</itype> dig up the ground with the snout. <i>Ang ákung bábuy ang nag-ud-ud sa ímung nataran,</i> It was my pig that plowed up the ground in your yard. <number>2</number> <itype>[A]</itype> for an unborn baby to squeeze its head into a position above the groin causing the mother to have difficulty in walking. <pos>n</pos> the condition where an unborn baby presses on its mother's groin.
+
+<p><form>ud-ud<sub>2</sub></form> <xr>= <sc>ALUD-UD</sc>.</xr>
+
+<p><form>uduy</form> <xr>= <sc>UNDÙ</sc>.</xr>
+
+<p><form>ug</form> <ix>short form:</ix> <bx>g.</bx> particle showing grammatical relation between two forms. <number>1</number> preceding non-specific goals. <i>Mipalit siya ug libru,</i> He bought a book. <i>Gitagáan ku níyag kindi,</i> He gave me some candy. <number>1a</number> preceding a noun referring to s.t. specific, but referring to it as s.t. general on any and all occasions. <i>Dì síya muadtug Manílà,</i> He refuses to go to any<note>? P2</note> Manila. <number>1b</number> <form>ása &mdash;</form> where is one to get. <i>Ása man ka ug kwartang ibáyad ánà?</i> Where will you get the money to pay for that? <number>2</number> preceding infinitives (replacing a prefix <ix>pag-</ix>). <i>Naglísud ku ug saka,</i> I had a hard time going up. <number>2a</number> with adjectives of manner. <i>Milakaw siya ug kusug,</i> He walked away fast. <number>2a1</number> <form>&mdash; ímu, íya, íla, etc</form>.<note>?</note> by yourself, himself, themselves, etc. <i>Káun ug ímu,</i> Just go ahead and eat on your own. <i>Mutúyuk ug íya ra,</i> It will turn all by itself. <number>2b</number> after <ix>ayaw</ix>. <i>Ayaw siya ug tan-áwa,</i> Don't look at him. <number>3</number> <ix>adj.</ix> plus <bx>ug</bx> <ix>plus noun:</ix> &lsquo;have&rsquo;. <i>Si Pidru dakù ug buktun,</i> Pedro has big arms. <i>Uy, kanindut bayà níya ug mata!</i> What beautiful eyes she has! <number>4</number> preceding a non-specific genitive. <number>4a</number> marking the possessor. <i>Anak ug hárì,</i> The son of a king. <number>4b</number> marking the agent. <i>Gidágit ug banug,</i> Was taken by a hawk. <number>5</number> if, when. <i>Ug maabut siya, pahibaw-a ku,</i> When he arrives, notify me. <i>Ug aku pa nímu,</i> If I were you. <number>5a</number> <ix>with indirect questions:</ix> whether. <i>Pangutan-a siya ug muabut ba ang barku ugmà,</i> Ask him whether the boat will arrive tomorrow. <number>5a1</number> with indirect questions containing interrogatives. <i>Nangutána aku ug unsa nà,</i> I asked what that was. <number>5b</number> linker for qualifying phrases. <i>Nákù ug ímu nang nahuman,</i> I thought you had finished it already. <i>Tingáli ug muanhi siya ugmà,</i> Perhaps he will come tomorrow. <i>Syáru ug dì nà mahímù,</i> I don't believe that is impossible. <number>6</number> <tr>or</tr>. <i>Pritúhun ug tuláhun, paríha ra nákù,</i> Deep fried or stewed, it's all the same to me. <number>7</number> <tr>and</tr>. <i>Lakaw ug ayaw pagbálik!</i> Go away, and don't come back! <i>Sila si Huwan ug si Pidru ang mianhi,</i> John and Pedro were the ones who came here.
+
+<p><form>uga</form> <pos>a</pos> <number>1</number> <tr>dry</tr>, having no moisture. <i>Uga na kaáyu ang kupras,</i> The copra is very dry now. <i>Ugang ubu,</i> A dry (hard) cough. <number>2</number> <tr>lifeless</tr>, <tr>dry</tr> in personality. <i>Uga kaáyu nà siyang ikaisturya,</i> He is very lifeless to talk to. <pos>n</pos> <tr>dried fish</tr>. <pos>v</pos> <number>1</number> <itype>[APB; c1P]</itype> <tr>dry out</tr>; cause s.t. to do so. <i>Nag-uga (nagpauga) ku ug isdà,</i> I am <tr>drying</tr> some fish. <i>Muuga (mauga) ra nà ug ihayhay,</i> It will get <tr>dry</tr> if you hang it up. <i>Nagkauga na ang atábay,</i> The well is drying up. <i>Hiughan na ang ímung linadlad,</i> The clothes you were bleaching have gotten dry. <number>2</number> <itype>[B; c1]</itype> get lifeless and dry in manner. <i>Nauga na man ka run,</i> You have become <tr>cool</tr> to us. <number>3</number> <itype>[b4(1)]</itype> be affected by s.t. being dry. <number>3a</number> have a <tr>dry labor</tr>. <i>Naglísud pagpanganak ang babáyi kay naughan,</i> The woman had a difficult delivery because she had a dry labor. <number>3b</number> for one's throat to be <tr>parched</tr>. <form>&mdash; ang tutunlan</form> needing a drink (of liquor).
+
+<p><form>ugáhip</form> <pos>n</pos> a contagious <tr>skin disease</tr> which forms itchy pustules that pop and become painful, forming a crust, found most commonly around the mouth, but spreading over the body. <form>&mdash; likuslikus</form> <pos>n</pos> k.o. <ix>ugáhip</ix> that spreads over any part of the body. <pos>v</pos> <itype>[A123P; a4b4]</itype> get <ix>ugáhip</ix>.
+
+<p><form>ugahípun</form> <pos>n</pos> k.o. very venomous <tr>snake</tr>, short and stout, having dark-grayish body, yellowish front and black spots on the back.
+
+<p><form>ugáling</form> <ix>short form:</ix> <bx>gáling</bx>. <xr>= <sc>GÁNÌ</sc> in all meanings except <i>5.</i></xr> <form>ka-un</form> <number>1</number> one's <tr>own</tr>. <i>Ákù ning kaugalíngung kutsi,</i> This is my own car. <i>May kaugalíngung banyu ang kwartu,</i> The room has its own bathroom. <i>Gigastu ku ang kaugalíngun kung kwarta,</i> I spent my own money. <number>1a</number> one's <tr>home</tr>. <i>But-an ku nímu sa ákung kaugalíngun?</i> You dare dictate to me in my own house? <number>2</number> <tr>oneself</tr>. <i>Nagsulti siya sa íyang kaugalíngun,</i> She was talking to <tr>herself</tr>. <form>panga-un</form> <pos>v</pos> <itype>[A2]</itype> <tr>manage a home</tr>. <i>Hustu na siya sa idad nga mangugalíngun,</i> She is old enough to manage a home. <pos>n</pos> home, as it is managed. <form>kina-un(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> <number>1</number> live on one's own. <number>2</number> have one's meals on one's own. <i>Dì ta mangasíra. Magkinaugalingun lang ta,</i> Let's not board. Let's have our meals on our own. <form>kaugalingnan</form> <pos>n</pos> independence of a nation. <i>Nagpakamatay si Risal álang sa kaugalingnan sa átung násud,</i> Rizal gave his life for the independence of our country.
+
+<p><form>ugam</form> <pos>n</pos> whitish substance coating the tongue and upper palate. <pos>v</pos> <itype>[A123P; b4]</itype> get <ix>ugam</ix>.
+
+<pb n=1078>
+
+<p><form>ugang</form> <pos>n</pos> <tr>mother hen</tr>.
+
+<p><form>ugángan</form> <pos>n</pos> parent of one's spouse. <pos>v</pos> <number>1</number> <itype>[B126]</itype> be, become one's father- or <tr>mother-in-law</tr>. <number>2</number> <itype>[A; c]</itype> have as a <tr>parent-in-law</tr>. <i>Muugángan ka níla nga pubri man,</i> Would you like them to be your parents-in-law when they are poor? <form>-un(&rarr;)</form> <pos>a</pos> one's prospective parents-in-law.
+
+<p><form>ugat</form> <pos>n</pos> <tr>vein</tr>, <tr>blood vessel</tr>. <form>&mdash; mayur</form> <tr>penis</tr> (humorous). <pos>v</pos> <number>1</number> <itype>[A2NP]</itype> for the veins to come out from exertion or anger. <i>Miugat (nangugat) ang íyang líug sa íyang pagkanta,</i> The veins on her neck bulged out when she sang. <number>2</number> <itype>[A23]</itype> do s.t. with serious intent. <i>Nangugat giyud siyag hangyù nga muuban,</i> He <tr>seriously</tr> asked to be taken along. <form>paN-</form> <pos>v</pos> <itype>[A2; b]</itype> be <tr>angry</tr>. <i>Pamínaw ug katarúngan. Mangugat ka man lang dáyun,</i> Just listen to reason. You must not get angry right away. <form>pangli-(&larr;)</form> <xr>= <sc>UGAT</sc>, <i>v1.</i></xr> <form>ugat-ugat</form> <pos>a</pos> leaves having lots of veins. <pos>v</pos> <itype>[B1456]</itype> for leaves to be veined. <form>ka-an</form> <pos>n</pos> <tr>blood vessels</tr>. <form>-un</form> <pos>a</pos> full of prominent veins.
+
+<p><form>ugaúga</form> <xr>= <sc>GAUGÁU</sc>.</xr>
+
+<p><form>úgay</form> <pos>v</pos> <itype>[A; a1]</itype> <tr>fondle</tr> or <tr>stroke</tr>. <i>Dúgay na ku nga wà makaúgay sa ákung mga binuhì,</i> It's been a long time since I stroked my pets. <i>Bátang nag-úgay sa íyang tintin,</i> A little boy playing with his thing.
+
+<p><form>ugba</form> <pos>v</pos> <number>1</number> <itype>[A; a1]</itype> work arduously, earnestly. <i>Adlaw-adlaw muugba si Pidru sa íyang uma arun mabúhì ang pamilya,</i> Pedro <tr>toils</tr> on his farm all day long so his family may survive. <number>2</number> <itype>[A1]</itype> <tr>establish</tr>, <tr>found</tr>, <tr>bring into being</tr>. <i>Ílang gipasidunggan ang táwung nag-ugba sa kapunúngan,</i> They conferred an honor on the man who founded the organization. <number>3</number> <itype>[A; a]</itype> <tr>reconstruct</tr>, work again on s.t. left to deteriorate or ruin. <i>Mag-ugba ta sa karáan nátung báy nga natun-as,</i> Let's <tr>rebuild</tr> our old dilapidated house.
+
+<p><form>ugbáti</form> <xr>= <sc>ALUGBÁTI</sc>.</xr>
+
+<p><form>ugbp</form>. abbreviation for <ix>ug uban pa</ix> &lsquo;etc.&rsquo; <ix>see</ix> <xr><sc>UBAN</sc>.</xr>
+
+<p><form>ugbuk</form> <pos>v</pos> <number>1</number> <itype>[A; c]</itype> plant or stick s.t. upright or erect. <i>Mag-ugbuk mi run sa mga pusti sa kural,</i> We will now set up the fence posts. <i>Kandilíru ang ákung giugbúkan sa mga kandílà,</i> I set the candles upright on a candlestand. <number>1a</number> <form>&mdash; ang, sa pálu</form> <itype>[A; c]</itype> have <tr>sexual intercourse</tr> with a woman (lit. implant the mast&mdash;slang). <number>2</number> <itype>[A; c1]</itype> <tr>construct</tr>, <tr>build</tr> a structure. <i>Ugbúkun (iugbuk) ba ang inyung balay dinhi?</i> Will you build your house here? <number>3</number> <itype>[a3b8]</itype> <tr>stand still</tr> as if rooted to the ground. <i>Naugbuk siya tungud sa kalísang,</i> He stood <tr>stock-still</tr> in fear. <pos>n</pos> <tr>stake</tr>.
+
+<p><form>ugbun</form> <pos>n</pos> <number>1</number> <tr>mound</tr>, esp. a <tr>heap</tr> of finely-textured things. <i>Usa ka ugbun nga abu ang nahibilin sa táwung nagsulit,</i> Only a small mound of ash was left of the man who burned himself. <number>2</number> <tr>ashes</tr>. <pos>v</pos> <number>1</number> <itype>[B6]</itype> be, become a small mound. <i>Miugbun (naugbun) ang dapit nga gilubngan sa patayng irù,</i> The place where the dead dog was buried has formed a mound. <number>2</number> <itype>[B2]</itype> burn to ashes. <i>Naugbun na ang báy pag-abut níla,</i> The house was a heap of ashes when they arrived.
+
+<p><form>ugbus</form> <pos>n</pos> young and unopened palm frond. <pos>v</pos> <number>1</number> <itype>[c1]</itype> do by fronds. <number>2</number> <itype>[A; b(1)]</itype> remove young fronds. <i>Ayawg ugbúsi ang lubi kay masálut,</i> Do not remove the young frond from the coconut because it will be stunted.
+
+<p><form>ugda, ugdà</form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>initiate</tr>, <tr>introduce</tr> s.t. by first doing it. <i>Kinsa ninyu ang miugda ug kukabáyù sa mga unlan?</i> Who of you started this playing horse with the pillows? <i>Ang mga Amirikánuy nakaugda paggámit sa abúnu,</i> The Americans initiated the use of fertilizer. <form>pasi-</form> <number>1</number> <xr>= <sc>UGDA</sc>.</xr> <number>2</number> <itype>[A; b(1)]</itype> <tr>sponsor</tr>. <i>Prugráma nga gipasiugdáhan sa sabung Laks,</i> Soap opera sponsored by Lux soap. <i>Banggà sa panugilánung gipasiugdáhan sa LUDÁBI,</i> A short-story contest sponsored by LUDABI. <form>tigpasi-</form> <pos>n</pos> <tr>sponsor</tr> of a program, project.
+
+<p><form>ugdang</form> <pos>a</pos> <number>1</number> <tr>heavy</tr> for one's size. <i>Ugdang kaáyu ning batáa bísan gamay,</i> This child is very heavy though he is small. <i>Ugdang ning kasága kay tambuk man,</i> This is a heavy crab because it is fleshy. <number>2</number> <tr>serious</tr>, <tr>matured</tr> for one's age. <i>Ugdang na kaáyu siyag nilihukan,</i> She acts <tr>mature</tr> for her age. <number>2a</number> <tr>serious</tr> in demeanor. <i>Ugdang nga paníngug sa agálun,</i> The master spoke <tr>seriously</tr>. <number>3</number> <tr>weighty</tr>, full of meaning. <i>Ugdang kaáyu tung buut níyang ipasabut,</i> What she meant to imply had more meaning than would appear on the surface. <pos>v</pos> <number>1</number> <itype>[B12; b6]</itype> get to be heavy for one's size; <tr>mature</tr>, full of meaning. <number>2</number> <itype>[B236; b6]</itype> <tr>sink</tr> into the bottom of water. <i>Miugdang na ang pundu,</i> The anchor has sunk to the bottom. <form>ka-</form> <pos>n</pos> <tr>weight</tr>, <tr>seriousness</tr>, <tr>meaningfulness</tr>.
+
+<p><form>ugdaw</form> <pos>v</pos> <itype>[A3P; a12]</itype> burn down completely to ashes with no flames left. <i>Naugdaw na ang ámung báy pag-ulì nákù,</i> Our house was in ashes when I arrived home. <pos>n</pos> burnt to ashes.
+
+<p><form>ugdu<sub>1</sub></form> <pos>a</pos> <number>1</number> for a dry measure to be <tr>heaping</tr>. <i>Maigù ug barátu kay ugdu ang takus,</i> It comes out cheap because it is a heaping measure. <number>2</number> <tr>rounded</tr> in shape and <tr>full</tr>. <i>Ugdu kaáyu siya ug dughan,</i> She has very full <pb n=1079>breasts. <pos>v</pos> <number>1</number> <itype>[B; a12]</itype> be, become <tr>heaping</tr>, full, or rounded. <number>2</number> <itype>[B3; b6]</itype> be <tr>piled</tr> up high. <i>Muugdu ang labhanan ug paugmaan,</i> The soiled clothes will <tr>pile up</tr> if you leave them for tomorrow. <form>pina-</form> <xr>= <sc>PINAULBU</sc>.</xr> <xr><ix>see</ix> <sc>ULBU</sc>.</xr>
+
+<p><form>ugdu<sub>2</sub></form> <xr>= <sc>BUGDU</sc>.</xr>
+
+<p><form>ugduk</form> <pos>n</pos> <number>1</number> <tr>stake</tr>. <number>2</number> general name for <tr>eels</tr> of any sort. <pos>v</pos> <itype>[A; c]</itype> plant a stake in the ground.
+
+<p><form>ugdul</form> <pos>a</pos> <tr>short</tr>, <tr>trimmed</tr>. <i>Gipalabihag ugdul níya ang íyang buhuk,</i> She had her hair cut very short. <pos>v</pos> <itype>[B12; c1]</itype> be <tr>trimmed</tr> short. <i>Naugdul ang mga mais kay giharíag tuhak sa manuk,</i> The chickens pecked the corn plants right down.
+
+<p><form>ugdung</form> <xr>= <sc>UGDU<sub>1</sub></sc>.</xr>
+
+<p><form>ughad</form> <pos>a</pos> for a throat to be sore. <pos>v</pos> <number>1</number> <itype>[B; b6]</itype> for the throat to get sore. <i>Nag-ughad ang ákung tunlan. Ubhun tingáli ku,</i> I have a sore throat. I'm probably getting a cough. <number>2</number> <itype>[AN; c1]</itype> expel phlegm by coughing it out hard.
+
+<p><form>ughak</form> <xr>= <sc>UDHAK</sc>.</xr>
+
+<p><form>ugíngut</form> <pos>n</pos> <tr>body odor</tr> of unwashed perspiration and dirt. <i>Nanimáhù lang kang ugíngut,</i> You have a terrible <xr><sc>B.O</sc>.</xr>
+
+<p><form>ugis</form> <pos>a</pos> <number>1</number> having completely white feathers. <i>Limpiyu tan-áwun ang ugis nga manuk,</i> White-feathered chickens look clean. <number>2</number> <tr>fair</tr> of complexion. <i>Ugis kaáyu sila,</i> They are very <tr>white</tr>. <number>2a</number> people belonging to the white race. <number>2b</number> <tr>albino</tr>. <pos>v</pos> <itype>[B26; b6]</itype> be, become <tr>white-feathered</tr>, <tr>white-skinned</tr>.
+
+<p><form>ugíut</form> <xr>= <sc>ÍGUT<sub>1</sub></sc>.</xr>
+
+<p><form>ugkad</form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> dig, <tr>pull out</tr> s.t. that is completely or partly buried or contained inside s.t. else. <i>Láing dyíp ang miugkad sa dyíp nga nalubung sa lápuk,</i> Another jeep pulled out the jeep that got stuck in the mud. <i>Ang nakaugkad sa buláwang budha,</i> The man who <tr>dug up</tr> the golden Buddha. <i>Giugkad sa kawatan ang ákung kaban,</i> The thief dug up the things in my trunk. <number>2</number> <itype>[A12; b8]</itype> find s.t. that was in s.t. or buried.
+
+<p><form>ugkal</form> <xr>= <sc>UKAL</sc>.</xr>
+
+<p><form>ugkat</form> <pos>v</pos> <number>1</number> <itype>[A; a1b2]</itype> dig s.t. out from under s.t. <i>Giugkat níla ang natabunan,</i> They dug out the person who had been buried. <number>2</number> <itype>[A; a12]</itype> <tr>dig out</tr> or <tr>find out</tr> s.t. not known. <i>Buut ba ninyung ugkátun ang ákung kagahápun?</i> Do you want to <tr>dig into</tr> my past?
+
+<p><form>ugkay</form> (from <ix>ukay</ix>) <pos>v</pos> <number>1</number> <itype>[A; ab2]</itype> <tr>dig out</tr> s.t. buried. <i>Mga pulis ang nag-ugkay sa gilubngan sa gibunù,</i> The policemen <tr>exhumed</tr> the murder victim. <number>1a</number> <itype>[A; a12]</itype> <tr>ransack</tr> things in looking for s.t. <i>Ákung ugkáyun ang mga butang nímu básug túa didtu ang ákung rilu,</i> I'll ransack your things in case
+
+
+</body>
+</text>
+</TEI.2>

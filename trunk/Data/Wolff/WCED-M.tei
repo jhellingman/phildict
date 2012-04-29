@@ -1193,7 +1193,7 @@
 
 <p><form>min-ibin, min-ibint</form> <pos>n</pos> main event in boxing. <pos>v</pos> <itype>[A13]</itype> hold a main event. [+]
 
-<p><form>minimu<sub>2</sub>, minimum</b> <pos>n</pos> <tr>minimum wage</tr>. <i>Sayis ang adlaw ang minimu karun,</i> The minimum wage is six pesos a day. <pos>v</pos> <itype>[A; c1]</itype> pay a minimum wage.
+<p><form>minimu<sub>2</sub>, minimum</form> <pos>n</pos> <tr>minimum wage</tr>. <i>Sayis ang adlaw ang minimu karun,</i> The minimum wage is six pesos a day. <pos>v</pos> <itype>[A; c1]</itype> pay a minimum wage.
 
 <p><form>minindyaytis</form> <pos>n</pos> <tr>meningitis</tr>. <pos>v</pos> <itype>[a4]</itype> be afflicted with meningitis.
 
