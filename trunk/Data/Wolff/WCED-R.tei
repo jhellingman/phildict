@@ -148,7 +148,7 @@ Step four
 
 <pb n=821>
 
-<p><form>rakrak</form> <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> fire bullets rapidly in bursts. <i>Balay nga girakrakan,</i> A house riddled with bullets. <number>2</number> in billiards, hit the target ball forcefully so as to scatter the balls that surround it with the hope that one or two of these balls will go into any of the holes. <pos>n</pos> bursts of rapid rifle fire.[+]
+<p><form>rakrak</form> <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> fire bullets rapidly in bursts. <i>Balay nga girakrakan,</i> A house riddled with bullets. <number>2</number> in billiards, hit the target ball forcefully so as to scatter the balls that surround it with the hope that one or two of these balls will go into any of the holes. <pos>n</pos> bursts of rapid rifle fire.&dagger;
 
 <p><form>rám</form> <pos>n</pos> <tr>rum</tr>. <pos>v</pos> <itype>[A13; b6]</itype> have rum.
 
@@ -404,7 +404,7 @@ Step four
 
 <p><form>rikúdu</form> <pos>v</pos> <itype>[A; c6]</itype> for a land vehicle to turn a corner, negotiate a curve. <i>Ayaw ug pakúsug ug magrikúdu ka,</i> Don't drive fast when you negotiate a turn. <form>rikuduhan</form> <pos>n</pos> <tr>curve</tr> in a street.
 
-<p><form>rikúla</form> <pos>v</pos> <itype>[A; b6]</itype> <number>1</number> <tr>refuse</tr> to do s.t., usually for some reason. <i>Dì giyud nà murikúla kun sugúun,</i> He doesn't refuse if you tell him to do s.t. <i>Ug áway ímung gustu, dì ti ka rikuláhan,</i> If it's a fight you want, I am not afraid. <number>2</number> <tr>back out</tr> of s.t. <i>Sáad nga dílì marikuláhan,</i> An agreement you cannot back out of. <number>3</number> <itype>[A2; b3]</itype> raise an <tr>objection</tr> to s.t. <i>Mirikúla siya sa ákung hukum ug páwul,</i> He raised an objection to my calling a foul.[+]
+<p><form>rikúla</form> <pos>v</pos> <itype>[A; b6]</itype> <number>1</number> <tr>refuse</tr> to do s.t., usually for some reason. <i>Dì giyud nà murikúla kun sugúun,</i> He doesn't refuse if you tell him to do s.t. <i>Ug áway ímung gustu, dì ti ka rikuláhan,</i> If it's a fight you want, I am not afraid. <number>2</number> <tr>back out</tr> of s.t. <i>Sáad nga dílì marikuláhan,</i> An agreement you cannot back out of. <number>3</number> <itype>[A2; b3]</itype> raise an <tr>objection</tr> to s.t. <i>Mirikúla siya sa ákung hukum ug páwul,</i> He raised an objection to my calling a foul.&dagger;
 
 <p><form>rikulúta<sub>1</sub></form> <pos>n</pos> military <tr>recruit</tr>. <pos>v</pos> [A.; a12] recruit for military service. <pos>a</pos> <tr>novice</tr>, <tr>greenhorn</tr>. <i>Rikulúta pa siya sa panganak,</i> She is still new to childbirth. <i>Rikulúta pa ku sa kinaíya sa mga Múrus,</i> I am not accustomed to the ways of the Moros.
 
@@ -458,7 +458,7 @@ Step four
 
 <p><form>rilisiyun</form> <xr>= <sc>RILASIYUN</sc>.</xr>
 
-<p><form>rilu</form> <pos>n</pos> <tr>watch</tr> or <tr>clock</tr>. <form>&mdash; dibulsa</form> <tr>pocket watch</tr>. <form>&mdash; dipasmu</form> a watch that is always late. <form>&mdash; dipulsu</form> <tr>wrist watch</tr>. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> wear a watch. <number>2</number> <itype>[A12]</itype> get a watch. <form>riluhíru</form> <pos>n</pos> watch repairman; <tr>watchmaker</tr>. <pos>v</pos> <itype>[B156]</itype> be, become a watch repairman or maker.[+]
+<p><form>rilu</form> <pos>n</pos> <tr>watch</tr> or <tr>clock</tr>. <form>&mdash; dibulsa</form> <tr>pocket watch</tr>. <form>&mdash; dipasmu</form> a watch that is always late. <form>&mdash; dipulsu</form> <tr>wrist watch</tr>. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> wear a watch. <number>2</number> <itype>[A12]</itype> get a watch. <form>riluhíru</form> <pos>n</pos> watch repairman; <tr>watchmaker</tr>. <pos>v</pos> <itype>[B156]</itype> be, become a watch repairman or maker.&dagger;
 
 <p><form>rilus</form> <pos>n</pos> watch pocket.
 
@@ -790,7 +790,7 @@ Step four
 
 <p><form>rusal</form> <pos>n</pos> <tr>gardenia</tr>, grown as an ornamental.
 
-<p><form>rusaryu</form> <pos>n</pos> <tr>rosary</tr>. <pos>v</pos> <itype>[A; b(1)]</itype> pray the rosary. <form>rusaryuan, rusaryuhan, rusaryúhan</form> <pos>n</pos> <tr>rosary beads</tr>.[+]
+<p><form>rusaryu</form> <pos>n</pos> <tr>rosary</tr>. <pos>v</pos> <itype>[A; b(1)]</itype> pray the rosary. <form>rusaryuan, rusaryuhan, rusaryúhan</form> <pos>n</pos> <tr>rosary beads</tr>.&dagger;
 
 <p><form>rúsas</form> <pos>n</pos> <number>1</number> <tr>rose</tr>. <number>2</number> <xr>= <sc>RÚSA</sc>.</xr> <form>&mdash; dihapun, &mdash; dipapil</form> kinds of <tr>chrysanthemums</tr>. <form>&mdash; dipúkì</form> <xr>= <sc>PÚKÌ</sc>, <i>2.</i></xr> <form>di-</form> <pos>a</pos> <tr>rose-colored</tr>. <i>Dirúsas ang ákung páyung,</i> My umbrella is rose-colored. <pos>v</pos> <itype>[A12]</itype> anything that is wrong with (humorous euphemism). <i>Ang nakadirúsas nímu kay dì ka kamau,</i> The thing that's wrong with you is that you don't know how.
 
@@ -798,7 +798,7 @@ Step four
 
 <pb n=834>
 
-<p><form>ruska</form> <pos>n</pos> <tr>screw</tr> or small <tr>nut</tr>. <pos>v</pos> <itype>[b6(1)]</itype> attach with, drive in a screw or bolt.[+]
+<p><form>ruska</form> <pos>n</pos> <tr>screw</tr> or small <tr>nut</tr>. <pos>v</pos> <itype>[b6(1)]</itype> attach with, drive in a screw or bolt.&dagger;
 
 <p><form>ruskilyus</form> <pos>n</pos> k.o. ring-shaped fancy <tr>cookies</tr> made of flour and egg yolks. <pos>v</pos> <itype>[A; a2]</itype> have, make this k.o. cookie.
 
@@ -810,7 +810,7 @@ Step four
 
 <p><form>rutunda</form> <pos>n</pos> small round <tr>park</tr> or grass <tr>island</tr> at an intersection.
 
-<p><form>rúyal</form> a winning mahjong hand consisting of only one design. <form>&mdash; buki</form> <pos>n</pos> a <ix>buki</ix> consisting of all black or all red numbers. <form>&mdash; iskalíra</form> <ix>see</ix> <xr><sc>ISKALÍRA</sc>.</xr> <form>&mdash; midul kard</form> a <ix>rúyal</ix> hand composed of <ix>midul kards</ix>. <form>&mdash; pyanghaw</form> a <ix>rúyal</ix> hand consisting of a <ix>pyanghaw</ix>.[+]
+<p><form>rúyal</form> a winning mahjong hand consisting of only one design. <form>&mdash; buki</form> <pos>n</pos> a <ix>buki</ix> consisting of all black or all red numbers. <form>&mdash; iskalíra</form> <ix>see</ix> <xr><sc>ISKALÍRA</sc>.</xr> <form>&mdash; midul kard</form> a <ix>rúyal</ix> hand composed of <ix>midul kards</ix>. <form>&mdash; pyanghaw</form> a <ix>rúyal</ix> hand consisting of a <ix>pyanghaw</ix>.&dagger;
 
 <p><form>ruyda</form> <pos>n</pos> <number>1</number> <tr>wheel</tr> with wooden spokes. <number>2</number> wheel or <tr>flywheel</tr> with spokes in a printing press. <number>3</number> <tr>arena</tr> or <tr>ring</tr> in a cockpit, boxing stadium, circus. <pos>v</pos> <itype>[B46; c1]</itype> <tr>turn</tr> around. <i>Nagruyda ang ákung úlu sa pagkainum,</i> My head is <tr>awhirl</tr> after I drank s.t. <i>Nagruyda ang palábad sa ayruplánu,</i> The airplane propeller is <tr>whirling</tr>. <i>Ruydáhun (iruyda) sa kábaw ang galingan sa intusan,</i> The carabao will pull the sugar cane grinder around.
 
