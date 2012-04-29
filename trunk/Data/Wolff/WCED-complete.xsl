@@ -24,6 +24,10 @@
             <xsl:apply-templates select="document('typographical-M.xml')//body/*" />
             <xsl:apply-templates select="document('typographical-N.xml')//body/*" />
             <xsl:apply-templates select="document('typographical-P.xml')//body/*" />
+            <xsl:apply-templates select="document('typographical-R.xml')//body/*" />
+            <xsl:apply-templates select="document('typographical-S.xml')//body/*" />
+            <xsl:apply-templates select="document('typographical-T.xml')//body/*" />
+            <xsl:apply-templates select="document('typographical-U.xml')//body/*" />
         </body>
         <back id="backmatter">
             <xsl:apply-templates select="document('WCED-frontmatter.xml')//back/*" />

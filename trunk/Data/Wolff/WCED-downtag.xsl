@@ -110,5 +110,15 @@
     </xsl:template>
 
 
+    <xsl:template match="p[ancestor::p]">
+        <xsl:message terminate="no">ERROR: Paragraph inside paragraph [<xsl:value-of select="."/>]</xsl:message>
+        <xsl:apply-templates/>
+    </xsl:template>
+
+    <xsl:template match="xr[ancestor::xr]">
+        <xsl:message terminate="no">ERROR: Cross-reference inside cross-reference [<xsl:value-of select="."/>]</xsl:message>
+        <xsl:apply-templates/>
+    </xsl:template>
+
 
 </xsl:stylesheet>
