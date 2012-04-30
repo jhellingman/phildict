@@ -28,8 +28,12 @@
             <xsl:apply-templates select="document('typographical-S.xml')//body/*" />
             <xsl:apply-templates select="document('typographical-T.xml')//body/*" />
             <xsl:apply-templates select="document('typographical-U.xml')//body/*" />
+            <xsl:apply-templates select="document('typographical-W.xml')//body/*" />
+            <xsl:apply-templates select="document('typographical-Y.xml')//body/*" />
         </body>
         <back id="backmatter">
+            <xsl:apply-templates select="document('typographical-addenda.xml')//body/*" />
+            <xsl:apply-templates select="document('WCED-backmatter.xml')//back/*" />
             <xsl:apply-templates select="document('WCED-frontmatter.xml')//back/*" />
         </back>
     </text>
