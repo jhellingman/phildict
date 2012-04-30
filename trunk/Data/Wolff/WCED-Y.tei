@@ -1,0 +1,513 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY larr       CDATA "&#x2190;"            -- leftwards arrow -->
+<!ENTITY rarr       CDATA "&#x2192;"            -- rightwards arrow -->
+<!ENTITY glots      CDATA "&#x0294;"            -- glottal stop -->
+
+<!ENTITY amacr      CDATA "&#x0101;"            -- a with macron -->
+<!ENTITY imacr      CDATA "&#x012B;"            -- i with macron -->
+<!ENTITY umacr      CDATA "&#x016B;"            -- u with macron -->
+
+<!ENTITY mgrave      CDATA "m&#x0300;"            -- m with grave -->
+
+<!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"    -- a with macron and grave -->
+<!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"    -- i with macron and grave -->
+<!ENTITY umacrgra   CDATA "&#x016B;&#x0300;"    -- u with macron and grave -->
+
+<!ENTITY amacracu   CDATA "&#x0101;&#x0301;"    -- a with macron and acute -->
+<!ENTITY imacracu   CDATA "&#x012B;&#x0301;"    -- i with macron and acute -->
+<!ENTITY umacracu   CDATA "&#x016B;&#x0301;"    -- u with macron and acute -->
+<!ENTITY Umacracu   CDATA "&#x016A;&#x0301;"    -- U with macron and acute -->
+
+<!ENTITY amacrcir   CDATA "&#x0101;&#x0302;"  -- a with macron and circumflex -->
+<!ENTITY imacrcir   CDATA "&#x012B;&#x0302;"  -- i with macron and circumflex -->
+<!ENTITY umacrcir   CDATA "&#x016B;&#x0302;"  -- u with macron and circumflex -->
+
+<!ENTITY acaron     CDATA "a&#x030C;"           -- a with caron -->
+<!ENTITY ucaron     CDATA "u&#x030C;"           -- u with caron -->
+<!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
+
+<!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+
+<!ENTITY prime      CDATA "'"            -- prime -->
+<!ENTITY Prime      CDATA "'"            -- double prime -->
+
+]>
+
+<!--
+
+Step one
+
+[X] Run pgpp.pl
+[X] Fix page-breaks
+[X] Fix hi tags (back to i tags)
+[X] Insert p tags
+[X] Run catpars.pl
+
+Step two
+
+[ ] tag pos: n v
+[ ] tag pos: a
+[ ] tag sense numbers (split of from b tags, look for /<b>word [0-9]</b>/ case
+[ ] verify 'real' italics (not samples), look for /[a-z] italics>/ case
+[ ] verify meaning numbers followed by sub-head-word or phrase <b>[0-9] word</b> case
+[ ] italics and bolds midword. E.g. A<i>ng</i>
+[ ] remove redundant tags near commas.
+[ ] handle sup tags
+[ ] verify starred entries (sub-entry immediately after headword)
+[ ] handle [**proofer notes]
+[ ] handle quotes. look for " '", etc.
+[ ] Renumber pages.
+
+Step three
+
+Iterate:
+    [X] Run WCED-uptag1.pl
+    [ ] Run uptag.pl
+    [ ] Verify output for anomalies and fix in source
+
+Step four
+
+[X] Run WCED-uptag1.pl
+[ ] Integrate result into WCED-body-0.3
+
+-->
+
+<TEI.2 lang=en>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A Dictionary of Cebuano Visayan</title>
+            <author>John U. Wolff</author>
+        </titleStmt>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language id=en>English</language>
+            <language id=en-US>English (United States)</language>
+            <language id=ceb>Cebuano</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n=1130>
+<div1>
+<head>Y</head>
+
+
+<p><number>y</number> particle showing grammatical relations. <number>1</number> subject marker in sentences with nominal, pronomial, numerical, or interrogative predicates. <i>Kinsay muuban nákù?</i> Who will go with me? <i>Siyay muadtu,</i> He is the one who will go. <i>Si Huway ákung paadtúun,</i> I'll send John. <i>Duhay ákung balay,</i> I have two houses. <number>1a</number> in sentences with adjective predicates where the adjective means &lsquo;one which is [adj.]&rsquo;. <i>Pulay íyang gipílì,</i> He picked a red one. <i>Dagkù lay patan-áwun ánang salidáha,</i> They only allow grown-ups to watch that picture. <number>2</number> as a subject marker for subjects which express a future condition. <number>2a</number> in sentences with comparative adjective predicate where the subject means &lsquo;if it is [subject] which is the case&rsquo;. <i>Tambuk pay dyís nímu,</i> You're thinner than a dime (if it is a dime, it is fatter than you). <i>Maáyu pay mulakaw ka run,</i> It would be better if you were to leave now. <i>Dúgay pay mamiluk,</i> It would take longer to blink the eyes. <number>2b</number> after predicates meaning &lsquo;just imagine&rsquo;. <i>Tíaw mu bay mubáyad ug kás,</i> <tr>Just imagine!</tr> He paid cash. <number>3</number> after deictics, <ix>dúna, walà:</ix> there is (was, isn't, etc.) any.... <i>Walay táwu,</i> There wasn't anyone. <i>Dinhi ra bay nangítà nímu,</i> S.o. was here looking for you. <i>Dúna siyay ipamaráyig nímu,</i> He has s.t. he would like to ask you for.
+
+<p><form>yáak</form> <pos>v</pos> <itype>[A; b6]</itype> step on s.t. with the feet treading around on it to squash or knead it. <i>Ákung giyaákan ang bulingun didtus sapà arun pagkúhà sa primírung buling,</i> I stomped on the soiled clothes in the river to get the dirt on the outside off. <form>yaakyaak</form> <pos>v</pos> <itype>[A; ac]</itype> roam around s.w. to look for s.t. <i>Dakung búkid ang ámung giyaakyaakan sa ámung pagpamusil,</i> We roamed around over a huge mountain hunting for wild animals.
+
+<p><form>yaangyaang</form> <pos>v</pos> <itype>[A; b5]</itype> walk through the mud. <i>Lápuk nga kinahanglan yaangyaángan iniglabang sa basakan,</i> Mud we have to wade through every time we cross the rice paddy.
+
+<p><form>yabag</form> <pos>a</pos> deviating from normal or proper actions. <number>1</number> <tr>off key</tr>, <tr>out of tune</tr>. <i>Dì ku makigdyúwit nímu kay yabag ka,</i> I won't sing a duet with you because you're off key. <i>Yabag nga pyánu,</i> A piano that is out of tune. <number>2</number> behaving in an improper, strange way. <i>Táwung yabag nga magkamisins simbahan,</i> An eccentric person that attends church in his undershirt. <number>3</number> s.t. that is <tr>senseless</tr>. <i>Yabag nga panagsulti nga wà kuy nasabtan,</i> Conversation that was gibberish and made absolutely no sense. <i>Yabag kaáyu nang paagíha,</i> That method is completely <tr>crazy</tr>. <number>4</number> given to roaming or wandering. <i>Yabag kaáyu nga amahan ug talagsa ras íla,</i> A father given to roaming about and rarely home. <pos>v</pos> <itype>[B2; b6]</itype> deviate from normal or proper action: become out of key, improper in behavior, senseless, a wanderer. Muyabag ang íyang sinultihan (kinantahan) ug makainum-inum, He talks nonsense (sings off key) after he has had a little to drink. (&larr;) <pos>v</pos> <number>1</number> <itype>[B156; a]</itype> deviate severely from what is proper or normal: be severely out of tune, be hopelessly senseless, completely <tr>eccentric</tr> or <tr>improper</tr>, wandering. <i>Nayábag ang inahan pagkasúnug sa ílang balay,</i> The mother went completely crazy when their house burnt down. <number>2</number> <itype>[A13; a2]</itype> <tr>play a joke</tr> on s.o. <i>Ayawg tuhúi ang íyang gisulti kay nagyábag lang nà siya nímu,</i> Don't take him seriously. He's just playing a joke on you. <number>3</number> <itype>[C3]</itype> having a great difference of age. <i>Nagkayábag kaáyu ang ílang panuígun,</i> They were very far apart in age. <form>yabagyabag</form> <pos>n</pos> actions which deviate from normal or proper conduct. <pos>v</pos> <itype>[A]</itype> engage in this sort of action. <i>Magyabagyabag ka gánì sa ímung pag-iskuyla, dì ka makagraduwar,</i> If you just fool around in your studies, you'll never graduate. <form>ka-(&larr;)</form> <pos>v</pos> <itype>[A13]</itype> <xr>= <sc>YÁBAG</sc>.</xr> <form>-un</form> <pos>a</pos> of a <tr>deviating</tr>, <tr>abnormal</tr> sort.
+
+<p><form>yabana</form> <xr>= <sc>GWAYABANU</sc>.</xr>
+
+<p><form>yábi</form> <pos>n</pos> <number>1</number> <tr>key</tr> for a lock or for a winding mechanism. <number>2</number> term for any wrench but a monkey wrench. <i>-ng balikù</i> <tr>box wrench</tr>. <form>&mdash; túbu, &mdash; ditúbu</form> <pos>n</pos> <tr>pipe wrench</tr>. <pos>v</pos> <number>1</number> <itype>[A; b5]</itype> open or lock with a key. <i>Yabíhi ang kandádu,</i> Open (close) the lock. <number>2</number> <itype>[b6]</itype> goad s.o. to anger with words. <i>Wà tà tu siya mangísug apan giyabíhan pung Putin,</i> He wasn't angry then but Poten said s.t. to goad him. <number>2a</number> <itype>[A; b(1)]</itype> wind an operating mechanism. <i>Yabíhi ang duláan,</i> <tr>Wind up</tr> the toy. <form>yabihánan</form> <pb n=1131><pos>n</pos> <number>1</number> <tr>keyhole</tr>. <number>2</number> <tr>winding stud</tr>. <form>yabíra, yabíru</form> <pos>n</pos> <tr>key holder</tr>.
+
+<p><form>yabu</form> <pos>v</pos> <number>1</number> <itype>[A; b7c]</itype> pour liquids or grains off, <tr>spill</tr> them over from a receptacle. <i>Yab-ig diyútayng túbig ang baldi kay punù ra kaáyu,</i> Pour a little water out of the pail because it is too full. <i>Nayab-an ug kapi ang ákung libru,</i> Coffee spilled onto my book. <number>1a</number> <itype>[A; c]</itype> <tr>take out the garbage</tr>. <i>Nakayabu ka na bas basúra?</i> Have you taken out the garbage? <number>1b</number> <itype>[c6]</itype> for vehicles to <tr>capsize</tr> or <tr>turn turtle</tr>. <i>Gamayng sakayan nga sayung iyabu sa balud,</i> A small boat that easily capsizes in the waves. <number>2</number> <itype>[A123P; a3]</itype> <tr>flop</tr>, result in resounding failure. <i>Súgal ang nakayabu (nakapayabu) sa ílang nigusyu,</i> Gambling caused his business to flop. <i>Nayabu kus iksámin,</i> I flopped badly in the test. <number>2a</number> <itype>[A; c6]</itype> ditch one's sweetheart. <i>Giyabu siyas íyang trátu,</i> Her boy friend<note>boyfriend?</note> ditched her. <number>2b</number> <itype>[A; c1]</itype> <tr>throw a game</tr>. <i>Kinsa tung muyabu sa dúlà suspindihun,</i> Whoever throws the game will be suspended.
+
+<p><form>yab-u</form> <xr>= <sc>UYAB</sc> (slang).</xr>
+
+<p><form>yabun, yabunyabun</form> <pos>n</pos> k.o. itchy <tr>eczema</tr>, similar to ringworm, which exudes a whitish serum when scratched. <pos>v</pos> <itype>[A123P; b4]</itype> get <ix>yabun</ix>.
+
+<p><form>yabyab<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[A; c]</itype> shake s.t. to remove foreign matter clinging to it. <i>Iyabyab ang abug sa ímung karsúnis,</i> Shake your pants to get the dust off. <number>1a</number> send off a breeze (literary). <i>Huyúhuy nga giyabyab sa kinaiyáhan,</i> Breeze sent forth by Nature. <number>2</number> <itype>[AN; b6(1)]</itype> rinse laundered clothing in clean water. <number>3</number> <itype>[A; c]</itype> make public s.t. secret and unsavory. <i>Mga ginamus nga iyabyab sa publiku,</i> Dirty linen to be washed in public. <number>3a</number> <itype>[A1; a1]</itype> <tr>chatter</tr>, indulge in idle talk. <i>Nagyabyab lang ang bàbà ning bayhána. Dì ka kapúyan?</i> You are always shooting off your mouth. Don't you ever get tired?
+
+<p><form>yabyab<sub>2</sub></form> <pos>v</pos> <itype>[A; c]</itype> cause solids in a container to spill out and be strewn all over. <i>Nayabyab ang bugas nga ákung gidala kay wà ayúhag putus,</i> The rice I brought spilled because it wasn't wrapped well. <i>Ákung giyabyab ang usa ka sákung santul sa salug,</i> I emptied a sackful of santol fruit on the floor.
+
+<p><form>yad-ak</form> <pos>v</pos> <itype>[B16]</itype> become sluggish or slow-moving due to excessive obesity. <i>Ása makahuman ug dalì sa íyang búhat nga nagyad-ak man ang líhuk?</i> How could she ever finish anything fast when she is so fat she moves slowly? <pos>a</pos> <number>1</number> moving slowly because of obesity. <number>2</number> <tr>dull</tr>, <tr>uninteresting</tr>. <i>Yad-ak kaáyung pakigpúlung,</i> A very uninteresting speech.
+
+<p><form>yadakadtu</form> short for <ix>íya ra kadtu</ix> it was his (her) own (fault). <i>Yadakadtu nga salà nga gilatigu siya,</i> It was his own fault that he got whipped.
+
+<p><form>yadba</form> <xr>= <sc>BÁYAD</sc>, <pos>n</pos>, <i>v1</i> (slang).</xr>
+
+<p><form>yadbut</form> <xr>= <sc>BÁYAD</sc>, <pos>n</pos>, <i>v1</i></xr> (slang&mdash;word play on <xr><sc>YADBA</sc></xr>).
+
+<p><form>yadtu</form> <xr>= <sc>KADTU</sc> (dialectal).</xr>
+
+<p><form>yad-uk</form> <pos>v</pos> <itype>[A; c1]</itype> <tr>swallow</tr> down a liquid. <i>Yad-úkun (iyad-uk) ra níyag kaduha ang usa ka básung bínu,</i> He will swallow the glass of wine in two gulps.
+
+<p><form>yagabyab</form> <xr>= <sc>LAGABLAB</sc>.</xr>
+
+<p><form>yagatyat</form> <pos>a</pos> <tr>fruit</tr> that is soft, lacking in firmness of flesh. <i>Kinsa guy mukáun ánang yagatyat nga ságing?</i> Who feels like eating that soft banana? <pos>v</pos> <itype>[B; b6]</itype> come out soft, lacking in firmness. <form>-un(&rarr;)</form> <pos>n</pos> soft, not firm-fleshed fruit.
+
+<p><form>yágaw</form> <pos>v</pos> <itype>[AB46]</itype> be in noisy <tr>commotion</tr>, <tr>confusion</tr>, bring s.t. into confusion. <i>Nagkadaíyang pangutána ang miyágaw sa iyang pangísip,</i> All those different questions confused his mind. <i>Nagyágaw ang mga táwus sinihan pagsiyáuks bumbíru,</i> The people in the movie house were in a tumult when the fire truck shrieked. <form>ka-</form> <pos>n</pos> confusion, din. <i>Lúpig pay tyanggis kayágaw,</i> Worse than the market in noise and confusion. <pos>v</pos> <itype>[A13]</itype> be in great confusion.
+
+<p><form>yag-aw</form> <xr>= <sc>DYAG-AW</sc>.</xr>
+
+<p><form>yagawyaw</form> <pos>n</pos> general <tr>din</tr>, <tr>noise</tr>. <i>Hásul kaáyung pamatíun ang yagawyaw sa syudad,</i> The steady noise of the city is annoying. <pos>v</pos> <xr>= <sc>YAWYAW</sc>, <pos>v</pos>.</xr> <form>-an(&rarr;)</form> <pos>a</pos> given to ranting.
+
+<p><form>yagàyagà</form> <pos>v</pos> <number>1</number> <itype>[A; b6(1)]</itype> <tr>ridicule</tr>, <tr>make fun</tr> of s.o. <i>Isumbung sa maistra ang muyagàyagà sa bakul ninyung klasmit,</i> If anybody makes fun of your lame classmate, report him to the teacher. <number>2</number> <itype>[A; b5]</itype> <tr>bother</tr>, <tr>disturb</tr>. <i>Ayaw kug yagàyagai (yagàyagaa) niánang ímung prublíma,</i> Do not bother me with your problems. <number>3</number> <itype>[A; bc1]</itype> do one's work carelessly or shoddily. <i>Kun magyagàyagà ka sa ímung búhat dúgay nga mahuman,</i> If you are <tr>careless</tr> with your work, it will take a long time to finish it. <i>Giyagàyagaan lang nímu pagbúhat ang lamísa,</i> You did make the table carelessly. <i>Yagàyagaa (iyagàyagà) paghíwà arun masámad ka,</i> Keep slicing carelessly like that so you can hurt yourself. <pos>n</pos> ridicule, teasing. <form>-un</form> <pos>a</pos> given to making fun of s.o.
+
+<p><form>yagbun</form> <pos>v</pos> <itype>[AB3(1); c1]</itype> <tr>heap</tr>, <tr>pile</tr> s.t up; be heaped up. <i>Nakayagbun na sila sa mga dalag,</i> They have gathered the dry leaves in a heap. <i>Nagyagbun ang sagbut sa ílang sílung,</i> Garbage is piling up beneath their house.
+
+<p><form>yagbut</form> <pos>v</pos> <itype>[A; c1]</itype> spill out through the bottom <pb n=1132>of a container. <i>Nagyagbut ang bugas kay nabutbut ang sáku,</i> The rice spilled out of the bottom of the container because the sack got a hole in the bottom.
+
+<p><form>yagkaw</form> <pos>a</pos> <tr>lanky</tr>.
+
+<p><form>yagpis</form> <pos>a</pos> <tr>thin</tr> or <tr>slender</tr> of build, or by extension, thin from having lost weight. <pos>v</pos> <number>1</number> <itype>[B; a]</itype> become thin or slim. <i>Ug muliwat nímu, mayagpis ang ímung anak,</i> If your son turns out to be like you, he'll be thin, too. <number>2</number> <itype>[B6; c1]</itype> slice or cut s.t. thinly. <i>Yagpísa (iyagpis) paghíwà ang kasahusun,</i> Slice the meat thinly for jerked meat. <form>-un(&rarr;)</form> <pos>a</pos> of a <tr>slim</tr>, <tr>thin</tr> sort.
+
+<p><form>yagubhub</form> <pos>a</pos> <number>1</number> loud <tr>put-put</tr> sound, as that produced by the engine of a motorboat close by one. <number>2</number> <tr>muttering</tr>, <tr>murmuring</tr> in a low, inaudible voice. <pos>v</pos> <itype>[A3; c]</itype> <tr>mumble</tr>, <tr>mutter</tr>. <i>Miyagubhub siyag pangadyiun,</i> He murmured a prayer. <i>Nagyagubhub siya pagkasábà nákù,</i> He muttered s.t. when I scolded him.
+
+<p><form>yagubyub</form> <pos>n</pos> <number>1</number> <tr>muttering</tr>, <tr>mumbling</tr>. <number>2</number> dull, thudding noises made by wind, water, machinery. <pos>v</pos> <number>1</number> <itype>[A; ac1]</itype> make muttering noises in angry protest or displeasure. <i>Giyagubyúban sa mga táwu ang mamumulung,</i> The people <tr>muttered</tr> angrily as he gave his speech. <number>2</number> <itype>[AP; ac1]</itype> make dull, continuous thudding noises. <i>Nagyagubyub ang tíngug sa trák sa layù,</i> The truck made thudding noises from afar.
+
+<p><form>yagungyung</form> <pos>n</pos> continuous <tr>humming</tr> or <tr>droning</tr> sound, as of an airplane, engines.<i> Mabátì sa layù ang yagungyung sa ayruplánu,</i> You could hear the droning of the airplane from afar. <pos>v</pos> <itype>[A]</itype> make a continuous droning sound.
+
+<p><form>yaguyágu</form> <pos>v</pos> <itype>[A; b6]</itype> move busily about. <i>Dì lang makayaguyágu si Nánay ug magláin ang láwas,</i> Mother always moves busily about except when she is not feeling well.
+
+<p><form>yagùyù</form> <pos>v</pos> <itype>[A; c]</itype> pester s.o., asking for s.t., but in an endearing way. <i>Ganíha pang buntag siyang nagyagùyù ug kwarta sa íyang amahan,</i> She has been playing up to her father for money since this morning.
+
+<p><form>yagyag</form> <pos>v</pos> <itype>[AB12; ac]</itype> <number>1</number> scatter small things around by spilling them from their container; for s.t. in a container to spill out and get scattered. <i>Pagkagísì sa bulsíta, nayagyag ang harína,</i> When the paper bag tore, the flour spilled all over. <i>Yagyágun ku nang tinái mu,</i> I'll stab you so your intestines hang out all over. <number>2</number> <tr>divulge</tr> secrets. <i>Iyagyag ku ang ímung ginamus,</i> I'll let all the world know the dirty truth about you. <number>3</number> distribute s.t. in quantity with an ulterior motive. <i>Kandidátu nga miyagyag ug linibu sa ílang distrítu,</i> Candidates who poured thousands into their districts.
+
+<p><form>yahat</form> <pos>v</pos> <number>1</number> <itype>[A; a1c]</itype> <tr>look up</tr>, raise one's eyes up, usually without moving the head. <i>Miyahat siya sa nagtawag níya,</i> She looked up to the man who addressed her. <number>2</number> <itype>[A2; c]</itype> open one's eyes. <i>Dì na muyahat ang íyang mga mata,</i> His eyes will no longer open.
+
+<p><form>yahigyahig</form> <pos>v</pos> <itype>[AB; c1]</itype> <tr>scatter</tr> s.t. all over a place, be scattered all over. <i>Kinsay miyahigyahig sa mga piryudiku?</i> Who scattered the newspapers all over the place?
+
+<p><form>yahung</form> <pos>n</pos> <tr>soup bowl</tr> or small <tr>bowl</tr>.
+
+<p><form>yakà</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <number>1</number> sit with the buttocks and legs flat on a surface. <i>Nagyakà ang Búda,</i> The Buddha is sitting flat on the ground. <number>2</number> do s.t. to the finish. <i>Giyak-an níya ang íyang trabáhu hangtud nahuman,</i> He spent all of his time on his work until it was finished. <i>Giyak-an níya ang kinílaw, dà hurut lagi,</i> He sat down to a plate of raw fish and finished it off. <number>3</number> <itype>[B1456]</itype> for the nose to be flat (lit. squat). <i>Ása kuháa ang kagwápa niánà nga nagyakà nang ílung?</i> How can you think that she is beautiful when she has such a flat nose? <pos>a</pos> having a flat nose. <form>pa-</form> <pos>v</pos> <itype>[B1256]</itype> fall into a sitting position.
+
+<p><form>yakal</form> <pos>n</pos> k.o. hardwood <tr>tree</tr>, producing extremely hard, first-class wood.
+
+<p><form>yakbut</form> <pos>a</pos> for a mouth to be sunken. <i>Yakbut kaáyu nà siyag bàbà ug way pustísu,</i> His mouth is sunken without his false teeth. <pos>v</pos> <itype>[B; c1]</itype> for the mouth to be sunken.
+
+<p><form>yakmù</form> <pos>a</pos> <number>1</number> having a protruding pointed chin. <number>2</number> having a sunken mouth. <pos>v</pos> <itype>[B; b6]</itype> get to have a protruding chin or sunken mouth. <i>Nayakmù ka kay dílì ka mupustísu,</i> You developed a pointed chin because you would not wear your false teeth. <form>-un(&rarr;)</form> <pos>a</pos> being somewhat <tr>protruding</tr>, <tr>sunken</tr>.
+
+<p><form>yakub</form> <pos>a</pos> for the cheeks and the area around the mouth to be sunken. <i>Ang mga tigúlang yakub nag bàbà kay wà na may ngípun,</i> Old people have sunken cheeks and mouths because they are toothless. <pos>v</pos> <itype>[B; b6]</itype> for the cheeks to become sunken. <form>(&larr;)</form> <xr>= <sc>YAKUB</sc>, <pos>v</pos>.</xr> <form>yakubyakub</form> <pos>v</pos> <itype>[A; c1]</itype> for a person without teeth to move his mouth up and down. <i>Muyakubyakub na ang mga tigúlang nga way ngípun,</i> Old persons that have no teeth keep moving their mouths.
+
+<p><form>yamáda</form> <xr>see <sc>YAMAR</sc>.</xr>
+
+<p><form>yáman</form> <xr>= <sc>MAYÁMAN</sc>.</xr>
+
+<p><form>yam-ang</form> <pos>v</pos> <number>1</number> <itype>[B; ac1]</itype> do s.t. in a careless way, careless in one's behavior without regard to propriety. <i>Siyay nagyam-ang niánang mga plátu dihà sa lamísa,</i> She just tossed the <pb n=1133>plates anywhere on the table. <i>Ayaw ug yam-ánga (iyam-ang) ang ímung sinultihan kay pikun ang mga táwu dinhi,</i> Be careful about the way you talk because the people here are quick to take offense. <number>2</number> <itype>[AN; b(1)]</itype> <tr>destroy</tr>, <tr>besmirch</tr>. <i>Siya ang miyam-ang (nangyam-ang) niánang istatúwa,</i> He was the one who marred that statue. <i>Makayam-ang (makapangyam-ang) ka pagsulti kuntra kaníya kay náa may ímung gisalígan,</i> You can say bad things against her because you have s.o. behind you. <form>-an(&rarr;)</form> <pos>a</pos> <number>1</number> <tr>careless</tr> and not paying enough attention. <i>Yam-angan kaáyu nang bayhána maglingkud. Makítà ang panti,</i> That woman is careless about the way she sits. You can see her panties. <number>2</number> careless, not giving a hoot.
+
+<p><form>yamar</form> <pos>v</pos> <form>1&ndash;5</form> <xr>= <sc>LYAMAR</sc>.</xr> <number>6</number> <itype>[A]</itype> <tr>call out</tr> in response. <i>Muyamar ug &lsquo;nía&rsquo; kadtung tawgun ang ngálan,</i> If your name is called, answer &lsquo;here&rsquo;. <number>6a</number> <itype>[A23]</itype> <tr>respond</tr>, <tr>react</tr> to stimuli. <i>Patay na tingáli kay dì na muyamar ang íyang kamut bisan dut-úyan ug kaláyu,</i> He must be dead because his hand does not react even if you put fire to it. <number>7</number> <itype>[A; a12]</itype> <tr>attract</tr>, <tr>elicit attention</tr> or <tr>interest</tr>. <i>Wà muyamar sa katilingban ang íyang pakigpúlung,</i> His speech did not attract the attention of the public. <form>yamáda</form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> call out to announce s.t. <i>Niyamáda siyag usa ka líbu álang sa pula,</i> He called out a thousand-peso bet on the red cock. <i>Ngánung wà man ka magyamáda nga gibug-atan ka na?</i> Why did you not call out to let us know that it was too heavy for you? <number>2</number> <itype>[A23]</itype> <tr>demand</tr>, <tr>ask for</tr> s.t. in a bossy manner. <i>Magdagandagan intáwun ang inahan kun muyámada na ang anak ug kwarta,</i> The poor mother runs about everywhere whenever her son demands money. <pos>n</pos> <number>1</number> a <tr>call</tr>, loud-voiced <tr>demand</tr>. <number>2</number> the favored contestant in contests with betting.
+
+<p><form>yámas</form> <xr>= <sc>YÁMAT</sc>, as exclamation.</xr>
+
+<p><form>yámat</form> <number>1</number> <tr>exclamation</tr> of pleasant surprise. <i>Yámat, aháan!</i> My! It's a giant snapper. <number>2</number> exclamation of extreme annoyance at s.t. not being in order, working out, or being done as expected. <i>Yámat ning makinilyáha. Makalangan!</i> Damn this typewriter. It sure holds you back! <form>yamatyamat</form> <pos>v</pos> <itype>[B1]</itype> for s.t. that one accomplishes or a situation to be in chaos. <i>Nagyamatyamat ning ákung trabáhu kay wà sa ákung hunàhúnà ang ákung búhat,</i> My work was all <tr>chaotic</tr> because my mind was not on it. <form>ka-, kayamatyamat</form> <pos>v</pos> <itype>[A13]</itype> <xr>= <sc>YAMATYAMAT</sc>.</xr>
+
+<p><form>yamàyamà</form> <pos>v</pos> <number>1</number> <itype>[A; c]</itype> talk without sense or factual basis. <i>Unsa na sad tung íyang giyamàyamà?</i> What k.o. nonsense was he telling this time? <number>2</number> <itype>[A1; b1]</itype> do work <tr>carelessly</tr>. <i>Íya lang giyamàyamaan ug tahì ang ákung sinínà maung naghíbat,</i> She sewed my dress carelessly and so it is all crooked. <form>-un</form> <pos>a</pos><note>should be n</note> one who does his work carelessly.
+
+<p><form>yambà</form> <pos>a</pos> for a mouth or mouth-like opening to be <tr>distorted</tr>, <tr>crooked</tr> and <tr>misshapen</tr>. <pos>v</pos> <itype>[B; c1]</itype> become crooked or misshapen, cause s.t. to become so. <i>Muyambà ang bàbà sa básag ug lingkúran,</i> The mouth of the clothes basket will become crooked if you sit on it. <i>Ayawg yambáa (iyambà) ang ímung bàbà kay musamut kag kangil-ad,</i> Don't distort your mouth because you will become more ugly.
+
+<p><form>yambì</form> <pos>a</pos> <number>1</number> for two movable things which should be placed even, directly on top of one another, not to be so, with one <tr>protruding</tr>. <i>Yambì ang takup sa malítang daut,</i> The suitcase is broken and the top hangs over the edge. <number>2</number> for the lower jaw or lip to protrude. <pos>v</pos> <itype>[B; c1]</itype> get to be, be uneven, not closing tightly; <tr>pouting</tr>. <i>Nagyambì ang nawung sa bátang gisugsúg,</i> The child they are teasing is sticking out his lower lip about to cry. <i>Ug mayambì ang gunting dì na mudulut,</i> If the blades of the scissors get apart, they won't cut.
+
+<p><form>yamhang</form> <pos>a</pos> carelessly <tr>inattentive</tr> or <tr>neglectful</tr>. <i>Yamhang kaáyu nang bayhána. Húgaw kaáyug hitsúra,</i> That woman neglects her appearance, and she looks very untidy. <i>Yamhang siyang magtrabáhu. Daghang sayup,</i> She is <tr>careless</tr> in her work and makes lots of mistakes. <pos>v</pos> <itype>[B12; b6]</itype> be carelessly inattentive or neglectful. <form>-an(&rarr;)</form> <xr>= <sc>YAMHANG</sc>.</xr>
+
+<p><form>yam-id</form> <pos>v</pos> <itype>[AN; b6c1]</itype> <tr>sneer</tr>, twist the lips in <tr>contempt</tr>, <tr>disapproval</tr>. <i>Miyam-id (nangyam-id) ang bátà sa pagkáun,</i> The child pouted at the food. <i>Babáying mubug lupad nga giyam-íran sa katilingban,</i> A woman of loose morals the whole society sneers at. <form>paN-</form> <pos>n</pos> sneer. <form>yam-iran</form> <pos>a</pos> given to sneering or pouting one's lips. <form>mayam-írun</form> <pos>a</pos> done in a contemptuous, sneering way.
+
+<p><form>yamíhid</form> <xr>= <sc>TAMÍHID</sc>.</xr>
+
+<p><form>yamíid</form> <xr>= <sc>YAM-ID</sc>.</xr>
+
+<p><form>yámis</form> <pos>n</pos> <number>1</number> <tr>foreskin</tr>. <number>2</number> other thin layers like the foreskin: <number>2a</number> outer <tr>epidermis</tr>. <i>Yámis ra sa íyang buktun ang nagarus, walà ang unud,</i> She only scraped the outer <tr>skin</tr> on her arm, and not her flesh. <number>2b</number> thin transparent meat of a young coconut in the <ix>butung</ix> stage. <number>2c</number> the soft, upper layer of the mature meat of a coconut.
+
+<p><form>yam-is</form> <pos>a</pos> slightly sweet. <i>Yam-is ang ubang imbaw,</i> Some clams taste somewhat sweet. <pb n=1134><pos>v</pos> <itype>[B; b6]</itype> taste <tr>sweetish</tr>. <i>Nagyam-is ang ákung bàbà human makainum sa sikwáti,</i> I have a sweetish taste in my mouth after drinking the chocolate. <form>-un(&rarr;)</form> <pos>n</pos> of a sweetish kind.
+
+<p><form>yamitak, yamítak</form> <pos>v</pos> <itype>[B4; b6]</itype> <number>1</number> become <tr>muddy</tr> or <tr>messy</tr>. <i>Basta mag-úwan, muyamitak giyud ang ámung nataran,</i> Whenever it rains, our yard becomes muddy. <i>Kanang inyung pagwasigwasig sa kan-un mauy nakayamítak sa lamísa,</i> The way you strewed the food around, the table has gotten to be a mess. <number>2</number> talk off the topic or nonsense. <i>Sábà dihà. Nagyamitak ka lang. Wà man gánì ka didtu,</i> Be quiet. You don't know what you're talking about. You weren't even there. <number>2a</number> sit around doing nothing.
+
+<p><form>yampungad</form> <pos>v</pos> <itype>[A; b36]</itype> <tr>hang around</tr> a place idly, esp. where one shouldn't be. <i>Nagyampungad sa tubaan,</i> Hanging around the toddy stand. <i>Irù nga nagyampungad sa ámù,</i> A dog hanging around our house.
+
+<p><form>yamtak</form> <pos>a</pos> <tr>slow</tr> and <tr>sluggish</tr> in movement. <i>Kayamtak gud nímung naurásan ka ánà,</i> How slow you are. It took you an hour to do that. <pos>v</pos> <number>1</number> <itype>[B; c1]</itype> get to be slow and sluggish in motion. <number>2</number> <itype>[A; b(1)]</itype> <tr>mope</tr>, hang or <tr>loaf</tr> around. <i>Labihan mung nakayamtak! Buntag, hápun wà giyud kay nabúhat,</i> You sure do loaf. The whole day long you have not done a darn thing.
+
+<p><form>yamu</form> <form>walà &mdash;</form> there isn't (wasn't) any at all. <i>&lsquo;Naa pa bay ságing ánang baskit?&rsquo;&mdash;&lsquo;Walà yamu&rsquo;,</i> &lsquo;Are there more bananas in that basket?&rsquo;&mdash;&lsquo;There isn't a single one.&rsquo; <i>Wà yamuy kwarta,</i> Not a bit of money. <pos>n</pos> zero (humorous). <i>Ang numiru sa ákung tilipunu nuybi, tris, yamu, yamu, kwatru,</i> My phone number is 9&ndash;30&ndash;04.
+
+<p><form>yámug</form> <pos>n</pos> <number>1</number> <tr>dew</tr>. <number>1a</number> water droplets on leaves after rain. <i>Humans ulan, nanidlaksidlak ang yámug sa kadahúnan,</i> After the rain, droplets of water sparkled on the leaves. <number>2</number> <xr>= <sc>DALÍNUG</sc>.</xr> <pos>v</pos> <itype>[B236N; b(1)]</itype> be covered with dew. <i>Nangyámug (miyámug) sa sayu sa buntag,</i> Dew which formed early in the morning.
+
+<p><form>yámuk</form> <xr>= <sc>LÁMUK</sc>.</xr> <ix>see</ix> <xr><sc>LAMUK</sc>.</xr>
+
+<p><form>*yamúkat</form> <form>ka-</form> <xr>= <sc>KALAMÚKAT</sc>.</xr> <xr>see <sc>LAMÚKAT</sc>.</xr>
+
+<p><form>yamukmuk</form> <xr>= <sc>MAYUKMUK</sc>.</xr>
+
+<p><form>yamùmù</form> <pos>a</pos> for food to be dry and crumbly in texture, as fine-grained corn meal, cooked hard or steamed. <i>Yamùmù kaáyung kan-un ang binlud nga sinákul,</i> Fine-grained corn meal has a dry and crumbly texture when steamed. <pos>v</pos> <itype>[B; b6]</itype> get a dry and crumbly texture.
+
+<p><form>yamutyamut</form> <pos>n</pos> <number>1</number> fine, slippery sediments that develop inside water containers. <number>2</number> fine membranes that surround meat.
+
+<p><form>yamyam</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> utter, articulate words rapidly and not for the purpose of communicating. <i>Nagyamyam siya sa ímung ngálan samtang natúlug,</i> She was uttering your name while she was asleep. <i>Nagyamyam ug pangadyiun,</i> Uttering a prayer. <number>1a</number> <tr>mumble</tr>, <tr>mutter</tr>. <i>Muyamyam ka man lang. Súkul!</i> You just mutter to yourself. Fight back! <i>Klarúha nang ímung sinultihan, ayaw yamyáma (iyamyam),</i> Say what you have to say distinctly. Don't mumble it. <number>2</number> <itype>[A; c]</itype> <tr>say</tr> s.t. <i>Dì ka kaákug yamyam sa ímung túyù,</i> You can't get nerve enough to say what you want. <i>Unsay giyamyam mu didtu sa átung agálun báhin kanákù?</i> What did you <tr>tell</tr> our employer regarding me? <pos>n</pos> s.t. uttered, esp. prayers and incantations. <pos>a</pos> <tr>loudmouthed</tr>. <form>-unun</form> <pos>n</pos> s.t. usually uttered, esp. prayers.
+
+<p><form>yanà</form> <xr>= <sc>KANÀ<sub>1</sub></sc>.</xr>
+
+<p><form>yanang</form> <pos>a</pos> sloppy and wet. <i>Yanang kaáyu ang agiánan kay gisigíhag uwan,</i> The path is very sloppy because of constant rain. <pos>n</pos> watery mud. <pos>v</pos> <itype>[B; b6]</itype> be, become wet and sloppy. <form>(&larr;)</form> <pos>v</pos> <itype>[B6; b6]</itype> <number>1</number> become badly wet and sloppy. <number>2</number> be <tr>plentiful</tr> or <tr>abundant</tr>. <i>Nagyánang ang babáyi ug álak sa balay sa kahiláyan,</i> There was no end to wine and women in the bawdyhouse.
+
+<p><form>yandak</form> <xr>= <sc>YANGGAK</sc>.</xr>
+
+<p><form>yangag</form> <xr>= <sc>DANGHAG</sc>.</xr>
+
+<p><form>yanggak</form> <pos>v</pos> <itype>[B1256]</itype> fall on the ground landing on the buttocks. <i>Nakuháan ang burus kay nayanggak sa salug,</i> The pregnant woman fell on the floor on her buttocks and had a miscarriage.
+
+<p><form>yanghag<sub>1</sub></form> <pos>v</pos> <itype>[A; c1]</itype> raise the head to look up. <i>Miyanghag siya sa pisami,</i> He looked up at the ceiling.
+
+<p><form>yanghag<sub>2</sub></form> <xr>= <sc>DANGHAG</sc>.</xr>
+
+<p><form>yangkaw</form> <pos>a</pos> tall and <tr>lanky</tr> or too thin for the height. <i>Balay nga yangkaw ug sílung,</i> House that has a disproportionately tall ground floor. <pos>v</pos> <itype>[B; b6]</itype> become tall and lanky. <i>Nagyangkaw lang ang láwas ánà apan bátà pa nà kaáyu,</i> He has a lanky body but he is still a child.
+
+<p><form>yangù</form> <pos>v</pos> <itype>[A2; c1]</itype> <number>1</number> move the head upwards as a sign of assent or, by extension, as a sign of s.t. else. <i>Miyangù siya sa pagtúgut,</i> He nodded (lifted his head upwards) in assent. <number>2</number> nod downwards, <tr>bow</tr>. <i>Ang Hapun muyangù ágig pagtáhud,</i> A Japanese bows as a sign of greeting. <pos>n</pos> movement of the head in assent or indication of s.t. else. <i>Sa usa ka yangù mudágan dáyun ang íyang mga sulugúun,</i> <pb n=1135>With just one <tr>nod</tr> of the head his servants run immediately. <form>yangùyángù</form> <pos>v</pos> <itype>[A; c1]</itype> <number>1</number> nod the head several times. <number>2</number> <xr>= <sc>GANGÙ</sc>, <i>v1.</i></xr>
+
+<p><form>yángud</form> <pos>v</pos> <itype>[A2S; a]</itype> <tr>look upward</tr>. <i>Nagyangud ang bátà sa íyang tabánug,</i> The boy is looking at his kite. <form>(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> <tr>depend</tr>, <tr>rely upon</tr> s.o. for support. <i>Nagyangud ku sa ákung magúwang sa pagiskuyla,</i> I <tr>rely</tr> on my brother to support me in school. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> peep up through the cracks in the floor. <i>Kamaldítu. Gamay ka pa gánì mangyángud na,</i> What a naughty child. At your age you already peep at girls through the floor.
+
+<p><form>yangùngù</form> <pos>v</pos> <itype>[A; c1]</itype> make insistent and repeated requests. <i>Muyangùngù siya hangtud hatágan,</i> He keeps asking for some until he gets it. <pos>n</pos> repeated and insistent requests.
+
+<p><form>yanta</form> <pos>n</pos> rim of a wheel onto which the rubber or tire is mounted; or a metal rim put around a wooden wheel.
+
+<p><form>yantak</form> <xr>= <sc>YAMTAK</sc>.</xr>
+
+<p><form>yantas</form> <xr>= <sc>YANTA</sc>.</xr>
+
+<p><form>yánu</form> <pos>a</pos> <number>1</number> <tr>simple</tr>, <tr>humble</tr>. <i>Ang íyang amahan usa lámang ka yánung iskribinti,</i> His father is just an <tr>ordinary</tr> clerk. <number>2</number> simple, without ornate design. <i>Yánung tabas sa sinínà,</i> Simple cut of dress. <pos>v</pos> <itype>[B; c1]</itype> be, become simple, humble; do s.t. <tr>simply</tr>. <i>Giyánu níya ang íyang panlihuklíhuk,</i> She acted in a simple, humble way without putting on. <i>Yanúha ang ímung panimuyù,</i> Live in a simple way. <form>yanuyánu</form> <pos>v</pos> <number>1</number> <itype>[A13]</itype> do things in a simple, ordinary manner. <number>2</number> <itype>[A; abc]</itype> do s.t. to s.t. without proper consideration or deference. <i>Giyanuyánu lang nímug gámit ang ákung mga butang,</i> You dare use my things without permission. <i>Iyanuyánu man lang nang mahalun nga sapátus ug támak sa lápuk,</i> He wears those expensive shoes anywhere, even in the mud.
+
+<p><form>yanyan</form> <pos>a</pos> <tr>sagging</tr>, <tr>drooping</tr>. <pos>v</pos> <itype>[B]</itype> <tr>sag</tr>. <i>Tútuy nga nagyanyan,</i> Sagging breasts. <i>Nagyanyan na ang salug tungud sa kadaghan sa táwu,</i> The floor is sagging under the weight of the people. <i>Nagyanyan ang sanga sa daghang prútas,</i> The branch is weighted down with all the fruits.
+
+<p><form>yapa</form> <pos>v</pos> <itype>[A]</itype> lie flat, either on one's stomach or back, with the arms and feet spread out. <i>Dílì ku makayapag katúlug kay may hubag ang ákung likud,</i> I can't sleep lying flat on my back because I have a boil on my back.
+
+<p><form>yapà</form> <xr>= <sc>YAPÙ</sc>, of females only.</xr>
+
+<p><form>yapak</form> <pos>n</pos> <number>1</number> soil in small pieces. <number>2</number> <tr>mud</tr> or <tr>mud puddle</tr>. <i>Milúnang sa yapak ang bábuy,</i> The pig wallowed in the mud puddle. <pos>v</pos> <itype>[B; a12]</itype> be, become <tr>muddy</tr>. <i>Giyapak sa mga bábuy ang ílang búngun,</i> The pigs made the space beneath their house muddy. <form>ka-</form> <pos>v</pos> <itype>[A13]</itype> <number>1</number> be full of small soil particles. <i>Nagkayápak ang harína,</i> The flour has got lots of soil particles in it. <number>2</number> be all covered with mud. <form>-un</form> <pos>a</pos> <number>1</number> having soil particles mixed in. <i>Bugas nga yapakun,</i> Cereal with lots of particles of dirt in it. <number>2</number> <tr>soiled</tr>, full or splotched with mud. <i>Yapakun ang ímung gisul-ub,</i> You are wearing <tr>mud-splotched</tr> (soiled) clothes.
+
+<p><form>yápak</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <tr>step on</tr>, put one's foot on. <i>May nagyápak sa bag-ung gitanum,</i> S.o. stepped on the things I just planted. <i>Giyapákan níla ang laráwan sa Pangúlu,</i> They <tr>trampled</tr> on the caricature of the President.
+
+<p><form>yapayapa</form> <pos>v</pos> <number>1</number> <itype>[A; b36]</itype> wave both arms in the air, as in a fond welcoming gesture. <i>Nagyapayapa ang bátà sa kalípay,</i> The child waved his arms for joy. <number>2</number> <itype>[A; c1]</itype> flap the wings, for s.t. else to <tr>flap</tr> in an analogous way. <i>Inighurus sa hángin muyapayapa sad ang bandíra,</i> When the wind blows the flag flutters.
+
+<p><form>yapù</form> <pos>a</pos> <tr>handsome</tr>, <tr>good-looking</tr> (slang). <i>Kasagáran sa mga artista yapù,</i> Most actors are handsome. <pos>v</pos> <itype>[B2; b6]</itype> be, become handsome.
+
+<p><form>yapyap</form> <pos>v</pos> <itype>[A]</itype> <tr>cheep</tr>, <tr>chirp</tr>. <i>Miyapyap ang mga pisù nga nawad-an sa inahan,</i> The chicks who lost their mother are chirping. <pos>n</pos> <tr>cheeping</tr>, <tr>chirping</tr>.
+
+<p><form>yarda<sub>1</sub></form> <pos>n</pos> <tr>yard</tr>. <i>Tulu ka yardang panaptun,</i> Three yards of cloth. <pos>v</pos> <itype>[A; c1]</itype> measure in yards.
+
+<p><form>yarda<sub>2</sub></form> <pos>n</pos> <tr>lumber yard</tr>.
+
+<p><form>yárì</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <tr>finish off</tr>, <tr>kill</tr> s.o. (slang). <i>Wà sila makayárì sa pangúlu sa tulisan,</i> They didn't manage to get the bandit leader. <number>2</number> spoil a woman's virtue, abuse sexually. <i>Tulu ka táwu ang miyárì sa dalága,</i> Three persons <tr>raped</tr> the maiden. <pos>a</pos> <number>1</number> <tr>dead</tr>, <tr>finished</tr>. <i>Yárì na ang íyang agálun,</i> His employer has kicked off. <number>2</number> having lost one's maidenly virtue.
+
+<p><form>yaruk</form> <pos>v</pos> <itype>[A; c1]</itype> drink bottoms-up, without removing the container from the lips. <i>Giyaruk níya ang usa ka básung pipsi,</i> He <tr>gulped down</tr> a whole glass of pepsi. <pos>n</pos> action of drinking at a long stretch. <i>Madá ang rám sa usa ka yaruk,</i> You can drink the rum in one gulp.
+
+<p><form>yása</form> <xr>= <sc>IÁSA</sc>.</xr> <ix>see</ix> <xr><sc>ÁSA</sc>.</xr>
+
+<p><form>yasmì</form> <pos>v</pos> <itype>[B12]</itype> be <tr>destroyed</tr>, <tr>ruined</tr>, brought to a low condition (colloquial). <i>Nayasmì ang balay sa hángin,</i> The wind destroyed the house. <i>Nayasmì siya sa súgal,</i> Gambling ruined him. <i>Nagkayasmì ang íyang láwas sa nagkadaghan ang íyang anak,</i> Her figure is <tr>going to pot</tr> as she has more and more children. <pb n=1136><pos>a</pos> <tr>broken down</tr>, <tr>ruined</tr>.
+
+<p><form>yasyas</form> <pos>v</pos> <number>1</number> <itype>[A; b6(1)]</itype> slash wide open. <i>Giyasyásan sa kawatan ang ákung bág,</i> The thief slashed my bag open. <number>2</number> <itype>[B4; c1]</itype> for clothing to hang loosely. <i>Nagyasyas ang ímung karsúnis kay way bakus,</i> Your pants are hanging loose on you because you don't have a belt. <number>2a</number> hang loosely in tatters. <i>Adurnung patikan nga nagyasyas,</i> Palm leaf decorations that were hanging down. <number>2b</number> for the entrails to hang out. <pos>a</pos> <tr>loose</tr>, <tr>hanging loosely</tr>. <form>-in-an</form> <pos>n</pos> place slashed open.
+
+<p><form>yátak</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <number>1</number> <tr>step on</tr> s.t. forcefully. <i>Ang muyátak sa alambri makuryintihan,</i> Whoever steps on the wire will be electrocuted. <i>Yatáki ang gasulinadur,</i> Step on the gas. <number>2</number> kick usually in a forward direction. <i>Yatáki ang takup sa pultahan,</i> Kick in the door. <number>3</number> violate an agreement, rule. <i>Kapila ka makayátak sa súgù sa Diyus?</i> How many times have you violated God's commandments? <number>3a</number> violate a woman's honor.
+
+<p><form>yáti</form> <pos>n</pos> <tr>yacht</tr>. <pos>v</pos> <number>1</number> <itype>[A13; a1c]</itype> ride, bring s.t. in a yacht. <number>2</number> <itype>[a12]</itype> make into a yacht. <number>3</number> <itype>[A12; b(1)]</itype> have, obtain a yacht. <form>yatíhan</form> <pos>a</pos> having a yacht.
+
+<p><form>yátì<sub>1</sub></form> (euphemism for <ix>yáwà</ix>) <number>1</number> expression of disgust, annoyance. <i>Yátì ning bat-ána uy,</i> <tr>Darn</tr>, this child is a nuisance. <number>2</number> as a pause word when one cannot think of the right word. <i>Kanang yáting, unsingálang ... klats,</i> The, <tr>um</tr>, <tr>what-do-you-call-it</tr>, the clutch. <form>&mdash; ra</form> <number>1</number> expression of disbelief. <i>Yátì ra, dì giyud nà musalir,</i> <tr>Oh, yeah?</tr> That will never work. <i>Yátì ra! Íya tà kung gisultían,</i> I don't believe it. He would have told me. <number>2</number> expression of great surprise at s.t. <i>Yátì ra. Lima ka líbu!</i> <tr>No kidding!</tr> Five thousand!
+
+<p><form>yátì<sub>2</sub></form> <pos>n</pos> <tr>teak</tr>, a large tree of waste spaces, the value of which is little recognized in Cebu: <bio>Tectona grandis</bio>.
+
+<p><form>yátis</form> <xr>= <sc>YÁTÌ<sub>1</sub></sc>.</xr>
+
+<p><form>yatut</form> <pos>n</pos> name given in Leyte to supernatural beings having nearly the same characteristics as the <ix>ingkantu</ix>'s. However, they seem to be more closely associated with illnesses than the <ix>ingkantu</ix>'s.
+
+<p><form>yatyat<sub>1</sub></form> <pos>a</pos> slow in action, lacking energy and thinking power. <i>Walay mubulan nímu kay yatyat kaáyu ka,</i> Nobody will hire you because you are unenergetic and unintelligent. <i>Kayatyat nímu uy! Wà giyud ka makahunàhunag pilù sa ngilit arun mulig-un?</i> You sure cannot think. It never occurred to you to turn the edge over to make it strong? <i>Yatyat nímu à! Tu, kuyúgi diays Iyay!</i> Boy are you slow! Eyay is just there waiting for you! <pos>v</pos> <itype>[B145; b6]</itype> be, become slow and unintelligent.
+
+<p><form>yatyat<sub>2</sub></form> <pos>a</pos> loose and <tr>sagging</tr> due to lack of fullness. <i>Yatyat nga unlan,</i> A soft and sagging pillow. <pos>v</pos> <number>1</number> <itype>[B]</itype> get to be soft and sagging. <i>Miyatyat ang íyang tútuy human siya manganak,</i> Her breasts started to <tr>droop</tr> after she had her baby. <number>2</number> <itype>[B; c1]</itype> <tr>sag</tr> under a weight. <i>Nagyatyat ang atup sa tulda,</i> The roof of the tent is sagging loosely. <number>2a</number> <itype>[a12]</itype> pull s.t. down making it dangle loose. <i>Ayaw yatyáta (iyatyat) ang sanga sa mangga,</i> Do not pull the branch of the mango tree down.
+
+<p><form>yaub</form> <pos>v</pos> <itype>[AB6; c1]</itype> turn s.t. over on its belly, turn over on the belly. <i>Magyaub ang bátang matúlug,</i> The baby sleeps on its stomach. <i>Iyaub ang basúra,</i> Throw out the garbage (lit. turn the can over).
+
+<p><form>yaúsà</form> (from <ix>ayaw úsà</ix>) <xr>= <sc>YÚNÀ</sc>.</xr>
+
+<p><form>yáwà</form> <pos>n</pos> <number>1</number> <tr>devil</tr>. <number>2</number> <tr>devilish person</tr>. <i>Ag yáwà, mudáyig nímu sa atubángan unyà manglibak sa luyu,</i> The devil praises you to your face but behind your back she stabs you. <ix>exclamation</ix> (somewhat coarse): expression of anger, annoyance, frustration. <i>Yáwà! Pukáwun ta áning maáyung pagkahinánuk!</i> <tr>Hell</tr>! I was just sleeping nicely, too! <form>litsing &mdash;</form> expression of extreme irritation or frustration. <i>Litsing yáwà. Ímu na pud nang gibálì,</i> <tr>God damn!</tr> You broke it again! <form>&mdash; ra</form> <number>1a</number> expression of strong disbelief. <i>Yáwà ra. Dì giyud nà musalir,</i> Hell! That's not going to work. <number>1b</number> expression of surprise at s.t. found out. <i>Yáwà ra! Tinúud ba nga gitirúhan ang Prisidinti?</i> <tr>Really</tr>! You mean they shot the President? <number>2</number> in exclamations at s.t. surprising. <i>Yáwang nindúta ning ímung balay, Siyung!</i> <tr>Jesus</tr>! What beautiful house you have, Siong! <number>3</number> pause word used when one cannot find the right term. <i>Kanang yáwang, kuan, unsingálan....</i> That damn, <tr>what do you call it?</tr> <pos>v</pos> <itype>[B1256]</itype> be in or caught in a bad situation. <i>Nayáwà na ta áni nga nahutdag gasulína nga layù sa istasyunan,</i> We are <tr>in for it</tr> running out of gas far from the station. <form>(&rarr;)</form> <pos>v</pos> <number>1</number> <itype>[b5]</itype> <tr>castigate</tr> severely, <tr>get hell</tr>. <i>Yawaun (yawaan) ka run nákù ug dílì mu pasagdan nang makinilya,</i> You will get hell from me if you don't let that typewriter alone. <number>2</number> <itype>[b4]</itype> be inspired by the devil. <i>Ayaw pagdúwà ug kutsilyu kay tingálig mayawaan ka,</i> Don't play with the knife. The devil might inspire you (to harm s.o. with it). <number>2a</number> <itype>[b4]</itype> be possessed of a blinding and uncontrollable fury. <i>Sa íyang kasukù giyawaan siya,</i> He was possessed of a blinding, uncontrollable anger. <number>3</number> <itype>[AB126]</itype> <tr>ruin</tr>, cause to flop; be <tr>ruined</tr>. <i>Mga dúlun nga muyawà sa tanum,</i> Locusts that utterly <pb n=1137><tr>destroy</tr> a crop. <form>yawàyawà</form> <pos>v</pos> <number>1</number> <itype>[B1256]</itype> be, become a hell. <i>Nayawàyawà ang ílang pagpuyù tungud sa pagkabisyúsu sa íyang bána,</i> Their home life has become miserable because of the husband's excessive indulgence in vice. <number>2</number> <itype>[b4]</itype> be made <tr>devilish</tr>. <i>Párì ang maghingílin sa panúway sa táwu nga yawàyawaan,</i> A priest exorcises evil spirits from a person's body. <form>kayawàyawà</form> <pos>v</pos> <itype>[A13]</itype> be somewhat spoiled. <i>Nagkayawàyawà ang átung pangalígù kay nakalimtan ang sud-an,</i> Our picnic was kind of spoiled because we forgot the food. <form>yawan-un</form> <pos>a</pos> devilishly evil, <tr>diabolical</tr>. <i>Yawan-un nga mga panghunàhúnà,</i> Diabolical thoughts. <pos>v</pos> <itype>[B12]</itype> be, become diabolical.
+
+<p><form>yawan</form> <xr>= <sc>AWAYAN</sc>.</xr> <ix>see</ix> <xr><sc>ÁWAY</sc>.</xr>
+
+<p><form>yáwas</form> euphemism for <xr><sc>YÁWÀ</sc>.</xr>
+
+<p><form>yáwat</form> <xr>= <sc>IYÁWAT</sc>.</xr> <form>&mdash; bángil tinggutum</form> a half a loaf is better than none (lit. s.t. to make do in times of starvation). <i>Naminyù ang dágang gúwang ug sugarul. Yáwat bángil tinggutum,</i> The old maid married a no-good. Well, <tr>better than nothing</tr>.
+
+<p><form>yáway</form> euphemism for <xr><sc>YÁWÀ</sc>.</xr>
+
+<p><form>yáwi</form> <xr>= <sc>YÁBI</sc>, <i>n1, v.</i></xr>
+
+<p><form>yáwì</form> euphemism for <xr><sc>YÁWÀ</sc>.</xr>
+
+<p><form>yáwis</form> euphemism for <xr><sc>YÁWÀ</sc>.</xr>
+
+<p><form>yawit</form> <xr>= <sc>YAWYAW</sc>.</xr>
+
+<p><form>yawyaw</form> <pos>v</pos> <number>1</number> <itype>[A; b3c]</itype> talking at length in complaints or scolding. <i>Kun muyawyaw na siya, mahílum ang tanan,</i> When he starts to <tr>scold</tr>, everybody keeps silent. <number>2</number> <itype>[A; c1]</itype> mumble or mutter words to oneself as in saying a prayer, memorizing a piece, and the like. <form>-an(&rarr;)</form> <pos>a</pos> given to ranting.
+
+<p><form>yay</form> short for <xr><sc>AYAY</sc>.</xr>
+
+<p><form>yáya<sub>1</sub></form> <pos>n</pos> <tr>nursemaid</tr> or servant in charge of caring for a child. <pos>v</pos> <itype>[A; c1]</itype> work as a nursemaid.
+
+<p><form>yáya<sub>2</sub>, yáyà</form> <xr>= <sc>TIYÀ</sc>.</xr>
+
+<p><form>yàyà</form> <pos>a</pos> <number>1</number> <tr>sluggish</tr>, <tr>slow moving</tr>. <i>Ámung gipapaháwà ang mutsatsa námung yàyà,</i> We fired our maid. She was too slow. <number>1a</number> slow, <tr>gentle in speech</tr>. <i>Ang sinultihan sa Ilunggu yàyà kaáyu,</i> People from Iloilo speak in a slow and gentle way. <number>2</number> loosely hanging. <i>Yàyà na ang ímung tútuy,</i> Your breasts are already <tr>sagging</tr>. <i>Nagsul-ub si Tátay ug yàyà nga karsúnis,</i> Dad is wearing <tr>baggy</tr> trousers. <pos>v</pos> <number>1</number> <itype>[B; c1]</itype> be, become <tr>slow</tr>, not lively. <i>Way kaláki ang bayli kay nagyàyà ang urkista,</i> The dance was no good because the orchestra was so slow and uninspired. <number>2</number> <itype>[B; c1P]</itype> hang down or around unevenly or loosely.
+
+<p><form>yáyay</form> (child talk) <pos>n</pos> <number>1</number> <tr>pain</tr>, <tr>wound</tr>. <i>Háin ang yáyay mu Bíbi?</i> Where does it <tr>hurt</tr> you, Baby? <number>2</number> causing pain. <i>Ayg gúnit ánà, day, yáyay nà,</i> Don't touch that, darling. That'll <tr>hurt</tr>. <pos>v</pos> <itype>[AP; a1]</itype> give pain, be <tr>in pain</tr>. <i>Bunálan ta ang nagyáyay nímu ha, Bíbi?</i> Let's give that guy that hurt you a sound spanking. <i>Nayáyay intáwun ang Bíbi ku,</i> My poor little darling, you are in pain.
+
+<p><form>yayha</form> <pos>v</pos> <number>1</number> <itype>[A3; c1]</itype> for one side of wearing apparel to be hanging loose. <i>Luag nga blawus nga nagyayhas abága,</i> A loose blouse, one side of which has slipped off the shoulders. <number>1a</number> open s.t. wide with one side hanging loose. <i>Nangyayha ang íyang pitáka,</i> Her handbag was open. <i>Átung yayháun (iyayha) ang sáku,</i> We will spread the mouth of the sack open. <number>2</number> <itype>[B6; c1]</itype> for solids to spill, pour out of a sack or a similar container. <i>Tahia ang gisì sa sáku arun dì mayayha ang sulud,</i> Mend the tear of the sack so the contents will not spill out. <i>Yayháa (iyayha) ang ginhawaan sa bábuy nga aslunun,</i> Take out the entrails from the pig before you roast it.
+
+<p><form>yáyu</form> <pos>n</pos> boy hired to watch a child.
+
+<p><form>yáyung</form> <pos>v</pos> <itype>[AC; b6(1)]</itype> carry s.t. together. <i>Magkayáyung ta íni kay bug-at,</i> We will have to carry this together because it's heavy. <form>&mdash; ang búlan</form> <xr>= <sc>HAYÀ ANG BÚLAN</sc>.</xr> <form>&mdash; ug túig</form> <pos>v</pos> <itype>[A13]</itype> for siblings to be born <corr sic=in>on</corr> different dates but in the same year. <form>(&rarr;)</form> <pos>n</pos> a pole to hang a load from when two people carry it. <ix>see also</ix> <xr><sc>TAMBAYÁYUNG</sc>.</xr>
+
+<p><form>yíba</form> a shout of jubilation. <i>Yíba! Magparti diay mi,</i> <tr>Hurray</tr>! We are going to hold a party.
+
+<p><form>yíbar</form> <xr>= <sc>YÍR BAR</sc>.</xr>
+
+<p><form>yíbu</form> <pos>n</pos> exclamation of joy.
+
+<p><form>yílu<sub>1</sub></form> <pos>n</pos> <tr>ice</tr>. <pos>v</pos> <number>1</number> <itype>[B2]</itype> be, become ice. <i>Muyílu (mayílu) ang túbig kun ibutangs prísir,</i> The water will become ice if you put it in the freezer. <number>2</number> <itype>[A; a2]</itype> make ice. <i>Dalì rang muyílu átung pridyidir,</i> Our refrigerator makes ice fast. <number>3</number> <itype>[A; b(1)]</itype> put <tr>ice</tr> on s.t. <i>Nagyílu kus mga isdà arun dílì muransiyu,</i> I am putting ice on the fish so they won't spoil. <form>litsi kun &mdash;</form> <pos>n</pos> a sweet made of shaved ice mixed with milk and sugar. <pos>v</pos> <itype>[A1]</itype> have, make such a sweet.
+
+<p><form>yílu<sub>2</sub></form> <pos>n</pos> <tr>yellow</tr> in color. <pos>v</pos> <itype>[B; a12]</itype> be, become <tr>yellow</tr>. <i>Madugáyan muyílu (mayílu) ang papil,</i> After a time the paper will yellow. <form>yiluhun</form> <pos>a</pos> <tr>yellowish</tr>.
+
+<p><form>yílu bil</form> <xr>= <sc>KAMPANILYA<sub>2</sub></sc>.</xr>
+
+<p><form>yípi</form> expression of jubilation.
+
+<p><form>yirba buyna</form> <xr>= <sc>HIRBUBUYNA</sc>.</xr>
+
+<p><form>yír bar</form> <pos>n</pos> <tr>year bar</tr>, a piece of metal fastened above the right pocket on the uniform of an ROTC trainee, indicating which year a student is. <pos>v</pos> <itype>[A13]</itype> use, wear a year bar.
+
+<p><form>yirs-uld</form> <pos>a</pos> well-advanced in years, esp. said of <pb n=1138>a single woman (humorous). <i>Bísag yirs-uld basta mayrun, pangasaw-a lang,</i> She may be <tr>old</tr>, but she's rich, so marry her. <pos>v</pos> <itype>[B125]</itype> be well-advanced in years. <i>Anus-a ka pa magminyù? Unyà nag mayirs-uld?</i> When are <form>you</form> going to get married? When you are too far along in years?
+
+<p><form>yíru</form> <pos>n</pos> <tr>iron</tr>, <tr>steel</tr>. <form>káha di-</form> <pos>n</pos> <tr>steel safe</tr>.
+
+<p><form>yist</form> <pos>n</pos> <tr>yeast</tr>. <i>Ang yist pára patúbù sa pan,</i> Yeast is a leavening agent for bread.
+
+<p><form>yù</form> short for <xr><sc>IYÙ</sc>.</xr>
+
+<p><form>yuad</form> <pos>a</pos> having a protuberant belly and having a lower back curved forward. <i>Kasagáran sa mga mabdus yuad,</i> Most pregnant women have big stomachs and a lower back curved forward. <pos>v</pos> <itype>[B; b6]</itype> walk with the stomach sticking out forward.
+
+<p><form>yúbit</form> <pos>v</pos> <itype>[AN; a1c]</itype> <tr>look down on</tr>, <tr>despise</tr> with mockery. <i>Ayaw yubíta ang kabus,</i> Do not despise the poor. <i>Giyúbit ang bungì sa isig níya ka bátà,</i> The harelip was teased by his playmates. <pos>n</pos> <tr>derision</tr>, words of <tr>contempt</tr>. <form>-an(&rarr;)</form> <pos>a</pos> fond of heaping derision. <i>Yubitan kaáyu, mu rag way apan,</i> He loves to heap contempt on others as if he were perfect. <pos>v</pos> <itype>[B125]</itype> be, become fond of heaping contempt. <form>ma-un</form> <pos>a</pos> <tr>derisive</tr>, full of contempt.
+
+<p><form>yudipurmu</form> <pos>n</pos> <tr>iodoform</tr>, a medicinal powder. <pos>v</pos> <itype>[A13; b6]</itype> apply iodoform powder.
+
+<p><form>yudkap</form> <xr>= <sc>YUGKAP</sc>.</xr>
+
+<p><form>yúdu</form> <pos>n</pos> tincture of <tr>iodine</tr>.
+
+<p><form>yudupurmu</form> <xr>= <sc>YUDIPURMU</sc>.</xr>
+
+<p><form>yudyud</form> <pos>v</pos> <itype>[A; c6]</itype> <number>1</number> push s.o. down into the dirt repeatedly. <i>Iyudyud ang nawung sa irù sa íyang húgaw,</i> Push the dog's face into his mess. <number>1a</number> pull or push s.t. down in general. <i>Giyudyud sa bátà ang ákung buktun pagyangùngù níyag kindi,</i> The child kept pulling on my arm asking for candy. <number>2</number> drag s.o. down into a low state. <i>Giyudyud ta sa kakabus tungud sa ímung pagkasugarul,</i> We have been dragged into poverty because of <form>your</form> gambling.
+
+<p><form>yúga</form> <pos>n</pos> <tr>yoga</tr>. <pos>v</pos> <itype>[A]</itype> do yoga.
+
+<p><form>yugkap</form> <pos>a</pos> lifeless, sluggish from poor health, lack of sleep. <pos>v</pos> <itype>[B1; b6]</itype> be, become sluggish. <i>Nagyugkap ku rung adláwa kay nagbilar ku gabíi,</i> I'm sleepy today because I was up all night last night.
+
+<p><form>yugkung</form> <pos>a</pos> tall and stooping, <form>yugkungyugkung</form> <pos>v</pos> <itype>[B1; c1]</itype> walking in a bouncing but stooped way with long strides.
+
+<p><form>yugtù</form> <pos>n</pos> <tr>episode</tr>, section out of a series of happenings. <number>1</number> a <tr>chapter</tr> in a story, <tr>act</tr> in a drama. <i>Katapúsang yugtù sa sugilambung,</i> The final episode in the novel. <number>2</number> episode in one's life. <i>Halandúmung yugtù sa kinabúhì,</i> Memorable episodes of one's life. <number>3</number> moment that s.t. happens. <i>Sa mga yugtù sa pag-inusára,</i> During the moments of loneliness. <pos>v</pos> <itype>[A; c1]</itype> appear, write s.t. in episodes.
+
+<p><form>yúgu</form> <pos>n</pos> <number>1</number> ~yoke placed over the shoulder of a beast of burden for attaching the harness. <number>2</number> problem weighing on the shoulders like a yoke. <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> make into or use a yoke. <number>2</number> <itype>[A; b6(1)]</itype> mount a yoke.
+
+<p><form>yugut</form> <pos>v</pos> <itype>[B16; b3(1)c5]</itype> <number>1</number> feeling a deep and indescribable sadness (literary). <number>2</number> feel angry indignation and resentment. <i>Nagyugut sa pagbáhin sa yútà,</i> Was full of resentment at the way the land was divided. <i>Gikayugut níya ang wà ku pagbáwus sa sulat,</i> She resented it that I failed to answer the letter. <form>ka-</form> <pos>n</pos> <number>1</number> feeling of extreme sadness (literary). <i>Tungud sa kayugut sa íyang buut, íyang gihálad ang láwas sa íyang anak nga patay na,</i> Because of the <tr>indescribable sorrow</tr> that overcame him, he offered up the dead body of his son. <number>2</number> feeling of angry resentment. <form>mayugtánun</form> <pos>a</pos> characterized with resentment and indignation.
+
+<p><form>yugyug</form> <pos>v</pos> <itype>[A; a12]</itype> shake back and forth or up and down in short, quick movements. <i>Yugyúga ang dúyan arun matúlug dáyun ang bátà,</i> <tr>Rock</tr> the hammock so that the baby will soon sleep.
+
+<p><form>yúhu</form> an expression of joy. <i>Yúhu! Hatágan diay tag búnus ni Sir!</i> <tr>Yoohoo</tr>! We are going to get a bonus from the boss!
+
+<p><form>yuhù</form> <pos>n</pos> a k.o. long-legged <tr>bird</tr>.
+
+<p><form>yuhum</form> <pos>n</pos> <number>1</number> <xr>= <sc>PAHIYUM</sc>.</xr> <ix>see</ix> <xr><sc>HÍYUM</sc>.</xr> <number>2</number> <tr>dimple</tr>. <pos>v</pos> <itype>[A; c1]</itype> <xr>= <sc>PAHIYUM</sc>.</xr> <form>ma-un(&larr;)</form> <xr>= <sc>MAPAHIYÚMUN</sc>.</xr> <ix>see</ix> <xr><sc>HÍYUM</sc>.</xr>
+
+<p><form>yuhut</form> <pos>v</pos> <number>1</number> <itype>[AB3; cP]</itype> go out, in through s.t., cause to do so. <i>Ang pagyuhut sa usa ka mabiaybiáyung tamíhid sa íyang mga ngábil,</i> When a smile of derision formed itself on his lips. <i>Iyuhut (ipayuhut, payuhuta) ang íyang mga púlung sa píkas dalunggan,</i> Let his words go in one ear and out the other. <number>2</number> <itype>[A; a]</itype> go in or out of a place stealthily. Yuhut ta sa míting, Let's <tr>sneak out</tr> of the meeting. <number>2a</number> do anything secretly without being observed. <i>Nagyuhut siyag kúhag kindi sa lamísa,</i> He <tr>sneaked</tr> a piece of candy from the table. <number>2b</number> <itype>[A; c]</itype> <tr>smuggle</tr>. <i>Wà madakpi ang miyuhut sa sigarilyu,</i> The fellow who smuggled the cigarettes in was not caught. <form>yuhutyuhut, yuhutyúhut</form> <pos>v</pos> <itype>[A; c]</itype> <number>1</number> come in and go out. <i>Giyuhutyuhútan sa hángin ang ílang payag nga nagkagusbat,</i> The wind just blows freely through their dilapidated shack. <number>2</number> <tr>penetrate</tr> through. <i>Dì mi makayuhutyuhut sa kabaknitan,</i> We can not penetrate through the thickets. <form>mag-r-(&larr;)</form> <pb n=1139><pos>n</pos> <tr>smuggler</tr>, one who sneaks things in and out.
+
+<p><form>yúin</form> <pos>n</pos> @<xr><sc>UN</sc></xr> acronym for <tr>United Nations</tr>.
+
+<p><form>yúka</form> <pos>n</pos> <tr>yucca</tr>.
+
+<p><form>yúkab</form> <pos>v</pos> <number>1</number> <itype>[A2; a1]</itype> <tr>drag on</tr> a cigarette, cigar, pipe. <i>Yukába (iyúkab) ang abánu arun dílì mapálung,</i> <tr>Draw in on</tr> the cigar so it doesn't go out. <number>2</number> <itype>[A; b]</itype> light a cigarette, cigar, pipe.
+
+<p><form>yukalíli</form> <xr>= <sc>YÚKI</sc>.</xr>
+
+<p><form>yukaliptus</form> <pos>n</pos> <tr>eucalyptus</tr> tree.
+
+<p><form>yukaristika</form> <pos>n</pos> <tr>Eucharist</tr>.
+
+<p><form>*yukaristiku</form> <form>kunggrísu &mdash;</form> <pos>n</pos> <tr>Eucharistic Congress</tr>.
+
+<p><form>yukayu</form> answer to <ix>kingkiri</ix> &lsquo;who wants what I've got in my hand&rsquo;, expressing that the speaker wants it. <i>&lsquo;Kingkiri?&rsquo;&mdash;&lsquo;Yukayu.&rsquo;</i> &lsquo;Who wants what I've got in my hand?&rsquo;&mdash;&lsquo;I want it.&rsquo;
+
+<p><form>yukbù</form> <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> <tr>bow down</tr>, <tr>bend low</tr>. <i>Muyukbù ang taas nga táwu nga musulud sa kupà nga pultahan,</i> A tall man has to bend to enter a low door. <number>2</number> <itype>[A3; b]</itype> recognize s.o.'s power, <tr>pay homage</tr>. <i>Ang mga táwu sa karáan nagyukbù sa adlaw,</i> People of ancient times <tr>bowed</tr> down to the sun. <i>Dì sila muyukbù sa hukum sa ripiri,</i> They will not <tr>submit</tr> to the judgment of the referee. <i>Langyawng gahum nga giyukbúan sa gagmayng násud,</i> Foreign power to which small nations submit.
+
+<p><form>yúki</form> <pos>n</pos> <tr>ukelele</tr>. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> play the ukelele. <number>2</number> <itype>[A; a12]</itype> make a ukelele.
+
+<p><form>yukilíli</form> <xr>= <sc>YÚKI</sc>.</xr>
+
+<p><form>yukù</form> <pos>a</pos> bent way over. <i>Táwu nga yukù na kaáyu sa kagúlang,</i> A person who is already very much bent with age. <pos>v</pos> <number>1</number> <itype>[B; b6]</itype> be, become <tr>bent</tr>. <i>Humay nga nagyukù sa kahinug,</i> Rice bent over in ripeness. <number>2</number> <itype>[A; c]</itype> <tr>bend over</tr>. <i>Miyukù siya arun pagpunit ug batu,</i> He <tr>bent down</tr> to pick up a stone. <form>yukùyukù sa buktun</form> <pos>n</pos> <tr>crook of the arm</tr>.
+
+<p><form>yukug</form> <pos>a</pos> having one's back bent forward, as under a heavy load or due to old age. <pos>v</pos> <itype>[B; c1]</itype> for the upper back to be bent forward. <i>Nayukug siya sa kabug-at sa gipas-an,</i> He was bent over with the load on his shoulders. <i>Nayukug siya pagdinúkù sa íyang trabáhu,</i> She has become <tr>stoop-shouldered</tr> from bending over her work too much.
+
+<p><form>yukum</form> <pos>n</pos> <tr>dimple</tr>. <pos>v</pos> <itype>[A23]</itype> form into a dimple. <i>Muyukum ang íyang áping ug mupahiyum siya,</i> Her face forms a dimple when she smiles. <form>yukman</form> <pos>a</pos> get dimpled. <pos>v</pos> <itype>[b8]</itype> get to be dimpled.
+
+<p><form>yukyuk</form> <pos>v</pos> <itype>[A; a12]</itype> stab and jiggle around. <i>Yukyúka ug maáyu arun daling mamatay ang bábuy,</i> Stab the pig jiggling the knife around well, so it will die <corr sic=quick>quickly</corr>.
+
+<p><form>yumù</form> <pos>a</pos> for tiny animals to be weak and sickly from overhandling. <pos>v</pos> <itype>[A12; a12]</itype> handle an animal until it becomes weak and sickly. <i>Kinsay nagyumù sa pisù nga himalatyun na?</i> Who has been handling the chick that it's about to die?
+
+<p><form>yúmud</form> <pos>a</pos> having a <tr>frowning</tr>, <tr>pouting</tr> expression on the face from displeasure or anger. <pos>v</pos> <itype>[A13; b3c1]</itype> <tr>pout</tr> and <tr>frown</tr>. <i>Nagyúmud ang nawung kay naatrasáwu ang pagkáun,</i> He's frowning in annoyance because dinner is late. <form>yumuran</form> <pos>a</pos> having a tendency to frown.
+
+<p><form>yumudyumud</form> <pos>v</pos> <itype>[A; c1]</itype> mumble unintelligibly. <i>Dì ku gustung magyumudyumud ang ákung mga anak ug kasab-an,</i> I don't want my children to mumble under their breath when they are scolded.
+
+<p><form>yumyum</form> <pos>v</pos> <itype>[A; a12]</itype> give s.o. a long and sensual kiss. <i>Nawung nga way mangarastig yumyum,</i> A face nobody could bear to <tr>kiss passionately</tr>. <form>-ay(&rarr;)</form> <pos>v</pos> <itype>[C]</itype> kiss each other passionately. <i>Dì siya makigyumyumay ug babáyi nga bahù ug bàbà,</i> He doesn't like to engage in passionate kissing with a woman who has bad breath.
+
+<p><form>yunà, yúnà</form> (from <ix>ayaw únà</ix>) <number>1</number> <formx>&mdash; pa</formx> <number>1a</number> <tr>wait a minute</tr>, <tr>just a minute</tr>. <i>Yúnà pa, Rus, ayaw únag lakaw,</i> Just a minute, Rose, don't go yet. <number>1b</number> expression used to change the tack of a conversation. <i>Yúnà pa. Anus-a tung pitsáha?</i> Just a minute. On what date did you say it was going to be? <number>2</number> expression interrupting a speaker to get the word. <i>Yúnà! Patiwasa ku arun mahibáwu sila sa tinúud,</i> Just a minute! Let me tell it so they will know the truth.
+
+<p><form>yunanimus</form> <pos>n</pos> s.t. that has been done with unanimity. <i>Yunanimus ang hukum,</i> It was a <tr>unanimous</tr> decision. <pos>v</pos> <itype>[B126]</itype> be unanimous.
+
+<p><form>yungatyúngat<sub>1</sub></form> <pos>v</pos> <itype>[A1; b(1)]</itype> sit about idly puffing on a pipe or cigar.
+
+<p><form>yungatyúngat<sub>2</sub></form> <xr>= <sc>UNGAT-ÚNGAT</sc>.</xr>
+
+<p><form>yúngib</form> <pos>n</pos> large hole in the side of s.t. <pos>v</pos> <number>1</number> <itype>[A3; b]</itype> dig a cave, tunnel. <i>Miyúngib ang mga Hapun sa búkid,</i> The Japanese <tr>dug tunnels</tr> in the mountain. <number>1a</number> <itype>[a12]</itype> carry away dirt to form a cave. <i>Nayúngib ang kílid sa pangpang pagbahà,</i> A cavity formed in the side of the cliff after the flood. <number>2</number> <itype>[A13]</itype> hole up in a cave. <i>Nagyúngib ang kaáway,</i> The enemies are holed up in a cave. <form>(&rarr;)</form> <xr>= <sc>YÚNGIB</sc>, <pos>n</pos>.</xr>
+
+<p><form>yungit</form> <pos>a</pos> unable to pronounce consonants clearly. <i>Yungit ang sinultihan sa Insik kay dì makaluwas sa íri,</i> The Chinaman still speaks with an accent because he cannot <pb n=1140>pronounce <i>r.</i> <pos>v</pos> <itype>[B12]</itype> get to be unable to pronounce consonants clearly.
+
+<p><form>yungki</form> <pos>n</pos> <tr>anvil</tr>. <i>Yungki ang dukdúkan sa binágang puthaw,</i> Red-hot metals are hammered on the anvil.
+
+<p><form>yungyung</form> <pos>v</pos> <itype>[A; c1]</itype> <number>1</number> hang loosely down, <tr>droop</tr>. <i>Muyungyung ang buhuk ug dì masudlay,</i> The hair will hang loosely down if you don't comb it. <i>Ang mga sanga sa káhuy nagyungyung,</i> The tree branches are hanging low. <i>Giyungyung níya ang íyang kálù,</i> He pulled his hat down over his face. <number>2</number> lower s.t. on a rope tied at one end. <i>Yungyúngig písì ang táwu sa atábay,</i> Drop the man in the well a rope.
+
+<p><form>yunik</form> <pos>a</pos> <tr>unique</tr> in kind or excellence. <i>Yunik kaáyu ning bayhána ug mga idíya,</i> This woman has very unique ideas.
+
+<p><form>yunipurmi</form> <pos>a</pos> similar, identical in appearance. <i>Yunipurmi ug hitsúra ang mga balay sa subdibisyun,</i> The houses in the subdivision look exactly alike. <pos>n</pos> <tr>uniform</tr>. <i>Utawa ang íyang yunipurmi,</i> Press his uniform. <pos>v</pos> <number>1</number> <itype>[C; c1]</itype> have <tr>uniform</tr> looks. <number>2</number> <itype>[A; c6]</itype> wear a uniform.
+
+<p><form>yunùyunù</form> <pos>v</pos> <number>1</number> <itype>[A]</itype> shake, quiver with obesity. <i>Tiyan nga nagyunùyunù sa katambuk,</i> A stomach shaking like a bowlful of jello. <number>2</number> <itype>[A13]</itype> for steps to be shaky. <i>Tigúlang nga nagyunùyunù ang linaktan,</i> An old man taking shaky steps.
+
+<p><form>yunyun<sub>1</sub></form> <pos>a</pos> <tr>sagging</tr>, <tr>drooping</tr>. <pos>v</pos> <number>1</number> <itype>[A; b5]</itype> stand on s.t. and <tr>bounce</tr> up and down on it, bounce s.t. up and down. <i>Ayaw yunyúni ang katri,</i> Don't bounce up and down on the bed. <i>Yunyúna (iyunyun) ang sanga kay íyang kabay-an,</i> Bounce the branch up and down because he wants to ride it. <number>2</number> <itype>[B]</itype> <tr>hang down</tr>, <tr>sag</tr>. <i>Nagyunyun ang sanga sa búnga,</i> The branch is bent under the weight of the fruit.
+
+<p><form>yunyun<sub>2</sub></form> <pos>n</pos> <tr>labor union</tr>. <form>líbur &mdash;</form> <xr>= <sc>YUNYUN<sub>2</sub></sc>.</xr>
+
+<p><form>yúpis</form> <xr>= <sc>LÚPIS</sc>.</xr>
+
+<p><form>yupu, yúpu</form> <pos>a</pos> <tr>docile</tr>, <tr>tractable</tr>. <i>Kining kabayúa tun-ig pagkabayù kay yupu kaáyu,</i> Learn how to ride on this horse because it is very docile. <pos>v</pos> <itype>[B12; b6]</itype> be, become docile. <i>Nagkayupu si Kurding human siya makaamgu nga mapalagput siya sa trabáhu,</i> Cording is becoming more docile now that she realizes she could be fired from her work.
+
+<p><form>yupyup</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> draw in smoke, air into the mouth. <i>Yupyúpag sígi arun dì mapálung,</i> Keep <tr>dragging on</tr> it so it won't go out. <number>2</number> <tr>suck on</tr> s.t. <i>Nagyupyup lang gihápun siyas kumagkù,</i> He still <tr>sucks</tr> his thumb. <number>3</number> suck s.o. off. <pos>n</pos> action of <tr>inhaling</tr>. <i>Usa lang ka yupyup sa mariwána hubug ka na,</i> One drag on the marijuana <corr sic=ang>and</corr> you'll be dizzy. <form>-anan</form> <pos>n</pos> s.t. one smokes or draws on.
+
+<p><form>yúsà</form> (from <ix>ayaw úsà</ix>) <xr>= <sc>YÚNÀ</sc>.</xr>
+
+<p><form>yusapi, yusápi</form> <pos>n</pos> acronym for USAFFE, <tr>United States Armed Forces in the Far East</tr> (of the postwar period).
+
+<p><form>yúsi, yúsig</form> <pos>n</pos> <tr>cigarette</tr> (word play on <ix>sigarilyu</ix>&mdash;slang).
+
+<p><form>yusyus</form> <pos>a</pos> <tr>loose</tr>; clothing not fitting tight or sacks having little content. <i>Yusyus ang sáku kay gikuháan man sa súd,</i> The sack is loose because they took some of the content out. <pos>v</pos> <itype>[BN; c1]</itype> <number>1</number> be loose or not tightly packed. <i>Nayusyus ang íyang sinínà kay nidaut na siya,</i> Her dress is loose because she lost weight. <number>2</number> for s.t. held up by a garter to slip down from looseness.
+
+<p><form>yútà</form> <pos>n</pos> <number>1</number> <tr>piece of land</tr>. <i>Nakapalit siyag yútà duul sa syudad,</i> He bought <tr>land</tr> near the city. <number>1a</number> <tr>realm</tr>, <tr>country</tr>. <i>Yúta sa mga higanti,</i> <tr>Domain</tr> of the giants. <form>&mdash; sa mga sáad</form> <tr>Land of Promise</tr> (name given to <tr>Mindanao</tr>). <form>-ng tabúnun</form> the <tr>Philippines</tr> (lit. the land of the brown-skinned race&mdash;literary). <number>2</number> <tr>earth</tr>. <i>Matúman ang ímung pagbuut dinhi sa yútà maingun sa lángit,</i> Thy will be done on earth as it is in heaven. <number>3</number> <tr>soil</tr>. <i>Tambuk ang yútà sa ámung gardin,</i> We have fertile soil in our garden. <number>4</number> <tr>ground</tr>. <i>Nakuyapan siya ug natumba sa yútà,</i> She fainted and fell to the ground. <pos>v</pos> <itype>[A12]</itype> obtain, acquire land. <form>(&rarr;)</form> <pos>v</pos> <number>1</number> <itype>[A13]</itype> <tr>farm</tr>, <tr>cultivate lands</tr>. <number>2</number> <itype>[B1256]</itype> for a question or suggestion to be disregarded and not entertained (as if thrown to the earth). <i>Nayutà ang íyang pangutána kay may kasulti man ang íyang gipangutána,</i> Nobody answered his question because the man he asked was busy talking to s.o. else. <form>-an</form> <pos>a</pos> <tr>landed</tr>, having lands. <form>yutan-un</form> <pos>a</pos> of the earth (as opposed to heavenly). <i>Kita mga táwung yutan-un,</i> We are <tr>earthly</tr> creatures. <form>ka-an</form> <pos>n</pos> <number>1</number> <tr>tracts of lands</tr>. <number>2</number> <tr>nations</tr>. <form>mag-r-(&rarr;)</form> <pos>n</pos> <number>1</number> <tr>farmer</tr>. <number>2</number> <tr>landowner</tr>. <form>yutàyutà</form> <pos>n</pos> k.o. <tr>snake</tr>, the size of an earthworm, with black skin and poisonous. <form>tag-</form> <pos>n</pos> owner of a piece of land.
+
+<p><form>yutawhan</form> <pos>n</pos> <tr>native land</tr> (coined from <ix>yútang natawhan</ix>). <form>-un, maki-un</form> <pos>a</pos> <tr>patriotic</tr>.
+
+<p><form>yútik</form> <pos>a</pos> <tr>muddy</tr>, <tr>slushy</tr>. <i>Yútik kaáyu ang dálan ug ulan,</i> The path is all muddy on rainy days. <pos>v</pos> <itype>[B1; a12]</itype> be, become muddy or <tr>slushy</tr>. <form>ka-</form> <pos>v</pos> <itype>[A13]</itype> be all slushy. <pos>n</pos> state or degree of being slushy. <i>Kayútik sa lápuk nga mu rag linúgaw,</i> Mud that has the slushy consistency of porridge.
+
+<p><form>yúturn</form> <pos>n</pos> <number>1</number> <tr>U-turn</tr>. <number>2</number> sign prohibiting a U-turn. <pos>v</pos> <itype>[A2; c6]</itype> make a U-turn.
+
+<pb n=1141>
+
+<p><form>yutyut<sub>1</sub></form> <pos>a</pos> <number>1</number> <tr>baggy</tr> and <tr>wrinkly</tr> around the waist. <i>Yutyut kaáyu nga karsúnis nga dakù ug pila ka sukud pára níya,</i> A very baggy pair of pants several sizes too big for him. <number>2</number> <xr>= <sc>YATYAT<sub>2</sub></sc>.</xr> <form>-un(-)<note>(&rarr;)?</note></form> <pos>a</pos> of a baggy sort.
+
+<p><form>yutyut<sub>2</sub></form> <xr>= <sc>UT-UT<sub>1</sub></sc>.</xr>
+
+<p><form>yúyu</form> <pos>n</pos> <number>1</number> <tr>yoyo</tr>. <number>2</number> <tr>wristwatch</tr> (slang). <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> play with, make into a yoyo. <number>2</number> <itype>[A; a]</itype> wear, have a wristwatch (slang).
+
+<p><form>yúyù</form> <xr>= <sc>TIYÙ</sc>.</xr>
+
+<p><form>yùyù</form> <pos>a</pos> <tr>sagging</tr>, <tr>drooping</tr>. <i>Yùyù ang abága sa pildíru,</i> His shoulders are drooping because he is sad after he lost. <pos>v</pos> <itype>[B126; c16]</itype> <tr>sag</tr>, <tr>droop</tr>. <i>Nayùyù ang hayhayan tungud sa kabug-at sa hinayhay,</i> The clothesline sagged under the weight of the wash.
+
+
+
+</body>
+</text>
+</TEI.2>
