@@ -19,6 +19,7 @@ if ($letter ne '')
 # system ("$saxon output.xml WCED-view.xsl > structural.html");
 
 system ("perl -S tei2html.pl -x WCED-frontmatter-0.1.tei");
+system ("perl -S tei2html.pl -x WCED-backmatter-0.0.tei");
 
 processLetter("A");
 processLetter("B");
@@ -35,7 +36,6 @@ processLetter("R");
 processLetter("S");
 processLetter("T");
 processLetter("U");
-processLetter("V");
 processLetter("W");
 processLetter("Y");
 processLetter("addenda");
