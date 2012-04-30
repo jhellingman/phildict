@@ -110,6 +110,8 @@
     </xsl:template>
 
 
+    <!-- Checks -->
+
     <xsl:template match="p[ancestor::p]">
         <xsl:message terminate="no">ERROR: Paragraph inside paragraph [<xsl:value-of select="."/>]</xsl:message>
         <xsl:apply-templates/>
@@ -120,5 +122,9 @@
         <xsl:apply-templates/>
     </xsl:template>
 
+    <xsl:template match="form[ancestor::i]">
+        <xsl:message terminate="no">ERROR: form inside example [<xsl:value-of select="."/>]</xsl:message>
+        <xsl:apply-templates/>
+    </xsl:template>
 
 </xsl:stylesheet>
