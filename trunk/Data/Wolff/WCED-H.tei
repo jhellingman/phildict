@@ -1021,7 +1021,7 @@
 
 <p><form>haspi</form> <pos>n</pos> k.o. paper used as backing put around the bound edge in book binding. <pos>v</pos> <itype>[A13; b6]</itype> use this k.o. paper.
 
-<p><form>hasta</form> <i>followed by a subject:</i> even [the subject] has done it or had it happen to him! <i>Hasta ikaw gitugkag katáhap nákù!</i> Have you, too, lost faith in me! <i>Hasta mga bátà gipatay,</i> Even the children were put to death. <i>Hasta pa gánì ang mga <corr sic="báta">bátà</corr> maantígu nang mangílad,</i> Even the little children know how to cheat. <form>&mdash; labista</form> <corr sic=good-bye>goodbye</corr>, till we meet again.
+<p><form>hasta</form> <ix>followed by a subject:</ix> even [the subject] has done it or had it happen to him! <i>Hasta ikaw gitugkag katáhap nákù!</i> Have you, too, lost faith in me! <i>Hasta mga bátà gipatay,</i> Even the children were put to death. <i>Hasta pa gánì ang mga <corr sic="báta">bátà</corr> maantígu nang mangílad,</i> Even the little children know how to cheat. <form>&mdash; labista</form> <corr sic=good-bye>goodbye</corr>, till we meet again.
 
 <p><form>hastilan</form> <xr>= <sc>PASTILAN</sc>.</xr>
 
@@ -1443,7 +1443,7 @@
 
 <p><form>hílu</form> <pos>n</pos> <tr>thread</tr>. <form>&mdash; dikaríta</form> <pos>n</pos> spool of thread. <form>&mdash; nga pinalus</form> <pos>n</pos> skein thread.
 
-<p><form>hilú</form> <pos>n</pos> <i>expression used upon answering the phone:</i> hello. <pos>v</pos> <itype>[A2]</itype> say hello on the phone.
+<p><form>hilú</form> <pos>n</pos> <ix>expression used upon answering the phone:</ix> hello. <pos>v</pos> <itype>[A2]</itype> say hello on the phone.
 
 <p><form>hílug</form> <pos>v</pos> <number>1</number> <itype>[AN; b6(1)]</itype> rub oil on the skin. <i>Hilúgi ug linimintu ang pamául,</i> Rub liniment on the sore muscles. <number>2</number> <itype>[A; b5]</itype> give the extreme unction. <i>Gihílug (gihilúgan) siya sa párì,</i> He was given the extreme unction by the priest. <form>&mdash; sa himalatyun</form> <pos>n</pos> <tr>extreme unction</tr>.
 
@@ -1725,7 +1725,7 @@
 
 <p><form>hipálag</form> <xr><ix>see</ix> <sc>PALAG</sc>.</xr>
 
-<p><form>hipanhipan</form> (from <ix>ulahípan</ix>) <pos>n</pos> small red or brown worms resembling small centipedes, used as bait. They are of two kinds: <formx>&mdash; sa bás</formx> kind found in sand, <formx>&mdash; sa batu</formx> kind found inside stones or boulders.
+<p><form>hipanhipan</form> (from <ix>ulahípan</ix>) <pos>n</pos> small red or brown worms resembling small centipedes, used as bait. They are of two kinds: <bx>&mdash; sa bás</bx> kind found in sand, <bx>&mdash; sa batu</bx> kind found inside stones or boulders.
 
 <p><form>hiphip</form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> insert in between s.t. or into a tight place or container. <i>Nakítà kung mihiphip siyag papil dibangku sa libru,</i> I saw her insert a bill in the book. <i>Naghiphip siyag pistúla sa íyang háwak,</i> He tucked a pistol into his waist. <number>2</number> <itype>[AN; b6(1)]</itype> <tr>bribe</tr>. <i>Mihiphip (nanghiphip) siyag táwu nga mupalúsut sa íyang papílis</i>, He bribed a person who could work out on his papers. <i>Gihiphipan níya ang pulis arun dílì siya dakpun,</i> He bribed the policeman so he wouldn&apos;t be arrested. <pos>n</pos> bribe. <form>-an(&rarr;)</form> <number>a</number> fond of giving bribes.
 
@@ -2119,7 +2119,7 @@
 
 <p><form>húlay</form> <pos>v</pos> <itype>[b(1)]</itype> be given <tr>respite</tr>, an interval of <tr>rest</tr>. <i>Ang daruhan nga gihuwáyan sa mais naulian,</i> The field that was given a respite from corn regained its fertility. <i>Huwáyi sà ang inyung pagpúnayg harána,</i> Leave off your nightly serenading for a while. <pos>n</pos> interval of rest. <i>Trabáhu nga way húway,</i> Work without respite. <form>pa-, pa-(&rarr;)</form> <pos>v</pos> <number>1</number> <itype>[A; c2]</itype> rest, take a rest. <i>Ipahuway (pahuwayun) níya ang íyang láwas,</i> He will give his body a rest. <number>2</number> <itype>[A; b(1)]</itype> have <tr>eternal rest</tr>. <i>Dúgay nang mipahuway ang íyang Lúlu,</i> His grandfather has long been laid to his eternal rest. <number>3</number> <itype>[A2; c]</itype> retire from work. <i>Mipahuway na ang tigúwang nga maistra,</i> The old teacher has retired. <form>lawak pa-an</form> <pos>n</pos> place one rests. <form>igpa-r-, igpa-l-</form> <pb n=345><pos>n</pos> time to rest. <i>Igpapahúlay (igpalahúlay) na rung urása,</i> It&apos;s now time to rest.
 
-<p><form>huláyà</form> <pos>n</pos> k.o. woody, erect herb of open wastelands, of two species: <form>&mdash; bayi</form> edible sort of <ix>huláyà,</ix> the leaves of which are eaten fermented: <bio>Gynandropsis gynandra</bio>. <form>&mdash; laki</form> inedible, smelly type: <bio>Polanisia icosandra</bio>.
+<p><form>huláyà</form> <pos>n</pos> k.o. woody, erect herb of open wastelands, of two species: <bx>&mdash; bayi</bx> edible sort of <ix>huláyà,</ix> the leaves of which are eaten fermented: <bio>Gynandropsis gynandra</bio>. <form>&mdash; laki</form> inedible, smelly type: <bio>Polanisia icosandra</bio>.
 
 <p><form>hulbà</form> <pos>v</pos> <itype>[AB126]</itype> for the bottom or a piece of s.t. horizontal to give way. <i>Ang lamísa muhulbà ug tungtúngan ug bug-at,</i> The table-top will give way if you put s.t. heavy on it. <i>Ang lubut sa kahun nahulbà kay bug-at ang gisulud,</i> The bottom of the box gave way because s.t. heavy was put inside it.
 
@@ -2477,7 +2477,7 @@
 
 <p><form>huswà<sub>1</sub></form> <pos>v</pos> <itype>[ABN; a2]</itype> slowly pull off s.t. that is around s.t. else; pull off, come out. <i>Kinsay naghuswà sa pánit nga gúma áring alambri?</i> Who slipped the insulation off of this wire? <i>Muhuswà (manghuswà) usáhay ang pánit sa bátang mga usa ka búlan sa maháyag,</i> An infant&apos;s skin sometimes peels off a month after it is born. <i>Ug huswáun (ihuswà) ku ning ákung antipára, bulanun ang ákung tinan-awan,</i> If I take my eyeglasses off, my vision will get dim. <form>&mdash;ang katahum</form> for a dressed-up woman to lose her beauty by doing s.t. to spoil her looks. <i>Muhuswà ang ímung katahum ug maglampásu kang nakaílis na,</i> You won&apos;t look nice any more if you scrub the floor after you have put on your good clothes.
 
-<p><form>hut</form> <i>expression said to incite a dog to attack:</i> sic him.
+<p><form>hut</form> <ix>expression said to incite a dog to attack:</ix> sic him.
 
 <p><form>hút</form> <pos>v</pos> <itype>[A; c]</itype> set food aside for s.o. <i>Naghút kug isdà pára ra giyud nímu,</i> I set aside some fish just for you.
 

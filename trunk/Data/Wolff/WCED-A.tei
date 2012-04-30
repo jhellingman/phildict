@@ -403,7 +403,7 @@
 
 <p><form>adul</form> <pos>a</pos> mentally deficient. <i>Dì giyud kasabut ang adul bísag unsáug isplikar,</i> No matter how you explain it to the imbecile, he will never understand.
 
-<!-- Shouln't order of pos and subentry be different? -->
+<!-- Shouln&apos;t order of pos and subentry be different? -->
 
 <p><form>*adult</form> <pos>n</pos> <form>&mdash; idyukisyun</form> adult education.&dagger;
 
@@ -1874,7 +1874,7 @@
 
 <p><form>anggid</form> <xr>= <sc>AMGID</sc>.</xr>
 
-<p><form>angguy</form> <pos>n</pos> <i>familiar term of address for boy or man much younger than speaker:</i> <tr>sonny</tr>, <tr>lad</tr>. <i>Purbída, angguy, lisud nà kung masukù,</i> If he gets angry, lad, he is hard to control. <pos>v</pos> <itype>[A13; a12]</itype> call s.o. <ix>angguy.</ix>
+<p><form>angguy</form> <pos>n</pos> <ix>familiar term of address for boy or man much younger than speaker:</ix> <tr>sonny</tr>, <tr>lad</tr>. <i>Purbída, angguy, lisud nà kung masukù,</i> If he gets angry, lad, he is hard to control. <pos>v</pos> <itype>[A13; a12]</itype> call s.o. <ix>angguy.</ix>
 
 <p><form>anghal</form> <pos>v</pos> <itype>[B]</itype> become <tr>ajar</tr>. <form>pa-</form> <pos>v</pos> <itype>[b5]</itype> keep s.t. ajar. <i>Paanghála (paanghali) ang pultahan arun makítà sila,</i> Keep the door ajar so we can see them.
 
@@ -3093,7 +3093,7 @@
 
 <!-- Why is this entry starred? -->
 
-<p><form>*ayhab</form><note>[**=I have]</note> <pos>v</pos> <itype>[a4]</itype> <tr>menstruate</tr> (euphemism). <i>Giayhab ka?</i> Are you menstruating?
+<p><form><corr sic="*"></corr>ayhab</form><!-- = I have --> <pos>v</pos> <itype>[a4]</itype> <tr>menstruate</tr> (euphemism). <i>Giayhab ka?</i> Are you menstruating?
 
 <p><form>ayis</form> <pos>n</pos> <tr>ice</tr>. <form>&mdash; bag</form> <pos>n</pos> ice bag. <pos>v</pos> <itype>[b6]</itype> apply an ice bag to. <form>&mdash; baks</form> <pos>n</pos> <tr>refrigerator</tr>. <form>&mdash; drap</form> <pos>n</pos> <tr>popsicle</tr>. <pos>v</pos> <itype>[A; a12]</itype> make, make into a popsicle. <form>&mdash; kap</form> <xr>= <sc>AYIS BAG</sc>.</xr> <form>&mdash; kindi</form> <pos>n</pos> ice candy. <form>&mdash; krim</form> <pos>n</pos> ice cream. <pos>v</pos> <itype>[A13; a12]</itype> make, make into ice cream. <form>&mdash; kiyub</form> <pos>n</pos> ice cubes. <form>&mdash; pik</form> <pos>n</pos> ice pick. <pos>v</pos> <itype>[a1]</itype> use an ice pick on, stab with an ice pick. <pos>v</pos> <number>1</number> <itype>[a]</itype> make ice. <i>Maáyu muayis ang ripridiyirítur,</i> The refrigerator makes ice well. <number>2</number> <itype>[B3; c1P]</itype> <tr>freeze</tr>. <i>Dalì rang muayis (maayis, mag-ayis) ang ayis kindi kun ibutang sa prísir,</i> The ice candy will freeze quickly if you put it in the freezer. <number>3</number> <itype>[A; b5]</itype> preserve s.t. with ice. <i>Inaysan ba nang isdà?</i> Has that fish been kept with ice?
 

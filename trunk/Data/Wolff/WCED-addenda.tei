@@ -30,7 +30,7 @@
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
 
 <!ENTITY prime      CDATA "'"            -- prime -->
-<!ENTITY Prime      CDATA "'"            -- double prime -->
+<!ENTITY Prime      CDATA "''"            -- double prime -->
 
 ]>
 
@@ -49,14 +49,14 @@ Step two
 [ ] tag pos: n v
 [ ] tag pos: a
 [ ] tag sense numbers (split of from b tags, look for /<b>word [0-9]</b>/ case
-[ ] verify 'real' italics (not samples), look for /[a-z] italics>/ case
+[ ] verify &apos;real&apos; italics (not samples), look for /[a-z] italics>/ case
 [ ] verify meaning numbers followed by sub-head-word or phrase <b>[0-9] word</b> case
 [ ] italics and bolds midword. E.g. A<i>ng</i>
 [ ] remove redundant tags near commas.
 [ ] handle sup tags
 [ ] verify starred entries (sub-entry immediately after headword)
 [ ] handle [**proofer notes]
-[ ] handle quotes. look for " '", etc.
+[ ] handle quotes. look for " &apos;", etc.
 [ ] Renumber pages.
 
 Step three
@@ -101,7 +101,7 @@ Step four
 
 <p><form>&dagger;ab-ab</form> <pos>v</pos> <itype>[B; b6]</itype> for a fire to be <tr>blazing</tr>. <i>Miab-ab (naab-ab) na ang káyu pag-abut sa bumbíru,</i> The fire was already ablaze when the firemen arrived. <pos>a</pos> <tr>chewed up</tr>, <tr>eroded</tr>, <tr>festering</tr>, <tr>blazing</tr>.
 
-<p><form>abansádu</form> <pos>a</pos> be close to the roadway. <form>&mdash; sa buling</form> <pos>a</pos> not showing dirt, masking stains well. <i>Abansádus buling ang kalsúnis nga itum,</i> Black pants don't show dirt. <pos>v</pos> <itype>[B2]</itype> be, become close to the roadway. <i>Maabansádu ang inyung balay kun padak-an ang kalsáda,</i> Your house will be close to the road if they widen it.
+<p><form>abansádu</form> <pos>a</pos> be close to the roadway. <form>&mdash; sa buling</form> <pos>a</pos> not showing dirt, masking stains well. <i>Abansádus buling ang kalsúnis nga itum,</i> Black pants don&apos;t show dirt. <pos>v</pos> <itype>[B2]</itype> be, become close to the roadway. <i>Maabansádu ang inyung balay kun padak-an ang kalsáda,</i> Your house will be close to the road if they widen it.
 
 <p><form>abansáwu</form> <xr>= <sc>ABANSÁDU</sc>.</xr>
 
@@ -109,7 +109,7 @@ Step four
 
 <p><form>abrisíti, abrisyíti</form> <xr>= <sc>ABRASÍTI</sc>.</xr>
 
-<p><form>&dagger;ábung<sub>1</sub></form> <form>(&rarr;)</form> <pos>n</pos> <i>2</i> being in a state where s.t. is likely to happen to one. <i>Ayaw mug panaway sa kaminyúun kay abung pa mu,</i> Don't scorn marriage because it won't be long before you, too, will be married. <i>Ang tigúwang abung sa kamatáyun,</i> Old folks are in the state where death is likely to overtake them. <pos>v</pos> <itype>[A13]</itype> for an event to <tr>approach</tr>. <i>Nag-abung na ang Pasku,</i> Christmas is approaching.
+<p><form>&dagger;ábung<sub>1</sub></form> <form>(&rarr;)</form> <pos>n</pos> <i>2</i> being in a state where s.t. is likely to happen to one. <i>Ayaw mug panaway sa kaminyúun kay abung pa mu,</i> Don&apos;t scorn marriage because it won&apos;t be long before you, too, will be married. <i>Ang tigúwang abung sa kamatáyun,</i> Old folks are in the state where death is likely to overtake them. <pos>v</pos> <itype>[A13]</itype> for an event to <tr>approach</tr>. <i>Nag-abung na ang Pasku,</i> Christmas is approaching.
 
 <p><form>ábung<sub>2</sub></form> <pos>n</pos> the drunken feeling one gets from eating tainted food. <pos>v</pos> <itype>[A123P; a4]</itype> get this feeling. <i>Giábung ku human makakaun sa dubuk nga tulíngan,</i> I got dizzy after eating the tainted tuna.
 
@@ -121,7 +121,7 @@ Step four
 
 <p><form>&dagger;adlaw &mdash; gabíi</form> doing s.t. all the time. <i>Adlaw gabíi ang ákung trabáhu,</i> I work day and night. <form>may &mdash; rang magabíi</form> the day will come when the tables will be turned (lit. the day will come that will turn to night). <i>Ímu kung gidaugdáug kay ábi pubri man ku, apan may adlaw rang magabíi,</i> You are stepping all over me because I am poor, but the day will come when the tables are turned. <form>-an(&rarr;), hiN-an(&rarr;)</form> <pos>n</pos> the share of palm toddy given to the owner of the tree, reckoned as the amount gathered on one particular day of the week.
 
-<p><form>adlib<sub>1</sub></form> <pos>v</pos> <itype>[A; b6]</itype> deliver s.t. <tr>extemporaneously</tr> without any script. <i>Kinahanglan sa usa ka anawunsir nga maáyu muadlib,</i> It's necessary for an announcer to be good at <tr>ad-libbing</tr>. <i>Giadlíban na lang níya ang lima ka minútus,</i> He just filled in the five minutes by ad-libbing.
+<p><form>adlib<sub>1</sub></form> <pos>v</pos> <itype>[A; b6]</itype> deliver s.t. <tr>extemporaneously</tr> without any script. <i>Kinahanglan sa usa ka anawunsir nga maáyu muadlib,</i> It&apos;s necessary for an announcer to be good at <tr>ad-libbing</tr>. <i>Giadlíban na lang níya ang lima ka minútus,</i> He just filled in the five minutes by ad-libbing.
 
 <p><form>&dagger;admirar</form> <form>admiradur</form> <pos>n</pos> <tr>admirer</tr>. <i>Daghan siyag admiradur kay gwápa man,</i> She has lots of admirers because she is beautiful.
 
@@ -133,15 +133,15 @@ Step four
 
 <p><form>ág &mdash; lang</form> <tr>anything and everything</tr>. <i>Ág lay kan-un sa bábuy,</i> Pigs eat anything and everything. <i>Ág lang trabáhu ang íyang gidatug kanákù,</i> She dumped whatever she had to do on me.
 
-<p><form>&dagger;ágak</form> <pos>v</pos> <number>3</number> <itype>[A; a12]</itype> <tr>guide</tr> s.o. in doing things. <i>Musúkul kus kásu ug dúnay muágak nákù,</i> I'll put up a fight in court if I have legal counsel. <i>Agákun tikaw sa pag-atiman sa tanum,</i> I'll show you how to tend the plants.
+<p><form>&dagger;ágak</form> <pos>v</pos> <number>3</number> <itype>[A; a12]</itype> <tr>guide</tr> s.o. in doing things. <i>Musúkul kus kásu ug dúnay muágak nákù,</i> I&apos;ll put up a fight in court if I have legal counsel. <i>Agákun tikaw sa pag-atiman sa tanum,</i> I&apos;ll show you how to tend the plants.
 
 <p><form>&dagger;agálun paN-</form> <pos>v</pos> <itype>[A23]</itype> for a long-lost thing to be found again by its owner or for a thing long sold by its owner to find its way back to him. <i>Nangagáwun ang ákung singsing nga narimáti kay aku ra gihápuy nakapalit sa pagsubasta,</i> My ring must consider me its master, because after I pawned it and failed to redeem it, I still got it back at the auction.
 
-<p>&dagger;<i>agaw ig-(&larr;) ug ikatrayinta idús ug tungà</i> (humorous) one's fiancee (lit. thirty-second and a halfth cousin).
+<p>&dagger;<i>agaw ig-(&larr;) ug ikatrayinta idús ug tungà</i> (humorous) one&apos;s fiancee (lit. thirty-second and a halfth cousin).
 
 <p><form>agay-ay<sub>2</sub></form> <pos>v</pos> <itype>[B346]</itype> for liquid to <tr>trickle</tr> down very slowly from a source. <i>Nag-agay-ay ang túbig sa punúan sa káhuy,</i> The water is trickling very slowly down the trunk of the tree. <pos>n</pos> slow <tr>trickling</tr> of water. <form>-in-</form> <pos>n</pos> <number>1</number> slow <tr>trickling</tr> of liquid. <number>2</number> water which has trickled out.
 
-<p><form>&dagger;ági (&rarr;) anhà mag-</form> it will <tr>inevitably</tr> be so. <i>Anhà giyud ka mag-agi sa latigu kay buyágun ka man,</i> It looks like you're going to have to get whipped. You're so naughty. <form>pa-</form> <pos>v</pos> <number>2</number> <itype>[A; ab]</itype> go over s.t. with an instrument. <i>Paagia kug kadiyut sa ákung sinínà,</i> Let me just press my dress a second time. <i>Gipaagian ku na ang mga hábul nga gisiun,</i> I have already run the torn sheets through the sewing machine. <form>pa-(&rarr;)</form> <xr>= <sc>PA-</sc>, <i>v2.</i></xr>
+<p><form>&dagger;ági (&rarr;) anhà mag-</form> it will <tr>inevitably</tr> be so. <i>Anhà giyud ka mag-agi sa latigu kay buyágun ka man,</i> It looks like you&apos;re going to have to get whipped. You&apos;re so naughty. <form>pa-</form> <pos>v</pos> <number>2</number> <itype>[A; ab]</itype> go over s.t. with an instrument. <i>Paagia kug kadiyut sa ákung sinínà,</i> Let me just press my dress a second time. <i>Gipaagian ku na ang mga hábul nga gisiun,</i> I have already run the torn sheets through the sewing machine. <form>pa-(&rarr;)</form> <xr>= <sc>PA-</sc>, <i>v2.</i></xr>
 
 <p><form>&dagger;agpas</form> <pos>v</pos> 5 <itype>[c]</itype> for medicine to cure an ailment. <i>Dílì maagpas (maagpasan) sa binisayà ang sakit sa bágà,</i> Folk medicine cannot cure a lung disease.
 
@@ -153,17 +153,17 @@ Step four
 
 <p><form>ahan</form> <xr>= <sc>KAYHÀ</sc> (dialectal).</xr>
 
-<p><form>&dagger;ahaw</form> <pos>v</pos> <number>1a</number> <itype>[B1256]</itype> be without, <tr>lack</tr>. <i>Hala, níay mil arun dì ka maahaws igalastus syudad,</i> Here is a thousand pesos so you won't lack spending money while you are in the city.
+<p><form>&dagger;ahaw</form> <pos>v</pos> <number>1a</number> <itype>[B1256]</itype> be without, <tr>lack</tr>. <i>Hala, níay mil arun dì ka maahaws igalastus syudad,</i> Here is a thousand pesos so you won&apos;t lack spending money while you are in the city.
 
 <p><form>akadímik</form> <pos>n</pos> <tr>academic supervisor</tr>, the second highest official of a public school, next to the superintendent. <pos>v</pos> <itype>[B; c1]</itype> be, become an academic supervisor.
 
 <p><form>akawunting</form> <pos>n</pos> <tr>accounting</tr> as a subject in schools.
 
-<p><form>alabádu</form> <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> clasp the hands on one's breast. <i>Ug mualabádu ang párì, sunud pud,</i> If the priest clasps his hands on his breast, do the same. <number>2</number> <itype>[A1]</itype> say one's final prayers at the point of death. <i>Nag-alabádu na ang bitayun,</i> The doomed man is saying his final prayers.
+<p><form>alabádu</form> <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> clasp the hands on one&apos;s breast. <i>Ug mualabádu ang párì, sunud pud,</i> If the priest clasps his hands on his breast, do the same. <number>2</number> <itype>[A1]</itype> say one&apos;s final prayers at the point of death. <i>Nag-alabádu na ang bitayun,</i> The doomed man is saying his final prayers.
 
 <p><form>alahíbi</form> <xr>= <sc>ALHÍBI</sc>.</xr>
 
-<p><form>&dagger;álam</form> <form>may (walay) (&rarr;)</form> <corr sic=educated>uneducated</corr> (having no education). <i>Lisud ang pangimplíyu ug wà kay alam,</i> You'll have a hard time finding a job if you have no education.
+<p><form>&dagger;álam</form> <form>may (walay) (&rarr;)</form> <corr sic=educated>uneducated</corr> (having no education). <i>Lisud ang pangimplíyu ug wà kay alam,</i> You&apos;ll have a hard time finding a job if you have no education.
 
 <p><form>&dagger;alarma</form> <pos>v</pos> <number>3</number> <itype>[B12]</itype> be <tr>alarmed</tr> about s.t. <i>Nagkaalarma ang mga táwu sa kahimtang sa násud,</i> The people are getting <tr>concerned</tr> about the condition of the nation.
 
@@ -173,7 +173,7 @@ Step four
 
 <p><form>alibanta</form> command to <tr>heave</tr> s.t. <i>Únu, dus, tris, alibanta!</i> One, two, three, heave!
 
-<p><form>alibay<sub>2</sub></form> <pos>v</pos> <itype>[A; c]</itype> drape s.t. over the shoulders. <i>Alibayan ta kag tualya arun dì ka tugnawun,</i> I'll drape a towel over your shoulders so you won't feel cold.
+<p><form>alibay<sub>2</sub></form> <pos>v</pos> <itype>[A; c]</itype> drape s.t. over the shoulders. <i>Alibayan ta kag tualya arun dì ka tugnawun,</i> I&apos;ll drape a towel over your shoulders so you won&apos;t feel cold.
 
 <p><form>&dagger;alirdyik</form> <number>3</number> having an aversion to s.t. <i>Alirdyik kaáyu ku sa hílak,</i> I <tr>hate</tr> crying. <pos>v</pos> <number>3</number> <itype>[B12]</itype> be, become <tr>averse</tr> to s.t.
 
@@ -189,7 +189,7 @@ Step four
 
 <p><form>alpabit</form> <pos>n</pos> the <tr>alphabet</tr>.
 
-<p><form>&dagger;álup</form> <pos>v</pos> <number>1a</number> <itype>[B24]</itype> for one's popularity to wane. <i>Miálup na ang bitúun ni Súsan Rúsis,</i> Susan Roces' popularity has waned.
+<p><form>&dagger;álup</form> <pos>v</pos> <number>1a</number> <itype>[B24]</itype> for one&apos;s popularity to wane. <i>Miálup na ang bitúun ni Súsan Rúsis,</i> Susan Roces&apos; popularity has waned.
 
 <p><form>alupaup</form> <xr>= <sc>ALUP-UP</sc>.</xr>
 
@@ -199,11 +199,11 @@ Step four
 
 <p><form>amatung</form> <pos>n</pos> large boulder or pile of rocks formed into a boulder found in shallow waters, usually slightly exposed even at high tide.
 
-<p><form>&dagger;ambak</form> <pos>v</pos> <number>2</number> <itype>[A; c]</itype> go, <tr>climb down</tr>. <i>Mihínay siyag ambak sa káhuy,</i> He climbed out of the tree slowly. <number>2a</number> <tr>go out</tr> of a house. <i>Bisag gabíi na, muambak gihápun ka?</i> It's already night. Don't tell me you're going out! <number>2b</number> get, bring off a vehicle. <i>Anhi ra ku dinhi ambak,</i> I'm getting off here. <i>Iambak ra ang ákung dala,</i> Take my baggage off. <number>3</number> <itype>[B6]</itype> for the seam between the shoulder and the sleeve to fall below the shoulder line. <i>Ipausab nang sinínà kay miambak ang tahì<note>accent unclear</note> sa abagahan,</i> Let them redo that dress because the shoulder seam falls below the shoulder line. <pos>a</pos> shoulder seam falling below the shoulder line. <form>-an</form> <pos>n</pos> edge of an area that drops off. <i>Ang ambakan sa intabládu,</i> The edge of the stage.
+<p><form>&dagger;ambak</form> <pos>v</pos> <number>2</number> <itype>[A; c]</itype> go, <tr>climb down</tr>. <i>Mihínay siyag ambak sa káhuy,</i> He climbed out of the tree slowly. <number>2a</number> <tr>go out</tr> of a house. <i>Bisag gabíi na, muambak gihápun ka?</i> It&apos;s already night. Don&apos;t tell me you&apos;re going out! <number>2b</number> get, bring off a vehicle. <i>Anhi ra ku dinhi ambak,</i> I&apos;m getting off here. <i>Iambak ra ang ákung dala,</i> Take my baggage off. <number>3</number> <itype>[B6]</itype> for the seam between the shoulder and the sleeve to fall below the shoulder line. <i>Ipausab nang sinínà kay miambak ang tahì<note>accent unclear</note> sa abagahan,</i> Let them redo that dress because the shoulder seam falls below the shoulder line. <pos>a</pos> shoulder seam falling below the shoulder line. <form>-an</form> <pos>n</pos> edge of an area that drops off. <i>Ang ambakan sa intabládu,</i> The edge of the stage.
 
 <p><form>&dagger;ambas</form> <pos>v</pos> <number>2</number> <itype>[AC]</itype> for two or more persons or things to arrive at almost the same time. <i>Nag-ambas ug abut ang sulat ug ang tiligráma,</i> The letter and the telegram arrived almost at the same time.
 
-<p><form>&dagger;ambisiyun</form> <pos>n</pos> <number>2</number> way of playing mahjong where one doesn't open as soon as he has mahjong but rather tries to parley his holdings into s.t. that gives a better return. <pos>v</pos> <number>2</number> <itype>[AP; b]</itype> play one's hand in this way. <i>Mumadyung na tà ku, apan wà lang kay nag-ambisiyun (nagpaambisiyun) kug syíti páris,</i> I could have gone mahjong, but I didn't because I was holding out for seven pairs. <number>2a</number> <itype>[c1]</itype> make it an <ix>ambisiyun</ix> hand. <form>-ar</form> <pos>v</pos> <xr>= <sc>AMBISIYUN</sc>, <i>v1.</i></xr> <form>-adu</form> <pos>a</pos> <tr>ambitious</tr>. <i>Ambisiyunádu kaáyu ning batáa nga makahuman sa íyang pagtuun,</i> This child is very ambitious to finish his studies. <pos>v</pos> <itype>[B126; b6]</itype> be, become ambitious.
+<p><form>&dagger;ambisiyun</form> <pos>n</pos> <number>2</number> way of playing mahjong where one doesn&apos;t open as soon as he has mahjong but rather tries to parley his holdings into s.t. that gives a better return. <pos>v</pos> <number>2</number> <itype>[AP; b]</itype> play one&apos;s hand in this way. <i>Mumadyung na tà ku, apan wà lang kay nag-ambisiyun (nagpaambisiyun) kug syíti páris,</i> I could have gone mahjong, but I didn&apos;t because I was holding out for seven pairs. <number>2a</number> <itype>[c1]</itype> make it an <ix>ambisiyun</ix> hand. <form>-ar</form> <pos>v</pos> <xr>= <sc>AMBISIYUN</sc>, <i>v1.</i></xr> <form>-adu</form> <pos>a</pos> <tr>ambitious</tr>. <i>Ambisiyunádu kaáyu ning batáa nga makahuman sa íyang pagtuun,</i> This child is very ambitious to finish his studies. <pos>v</pos> <itype>[B126; b6]</itype> be, become ambitious.
 
 <p><form>ambisyúsa</form> <xr>= <sc>AMBISYÚSU</sc> (female).</xr>
 
@@ -211,7 +211,7 @@ Step four
 
 <p><form>amimispis</form> <xr>= <sc>PISPIS</sc>.</xr>
 
-<p><form>&dagger;amin</form> <pos>v</pos> <number>3</number> <itype>[A; a12]</itype> <tr>admit</tr> a wrong or mistake one has done and be held responsible. <i>Kun aminun nímung tanang nabitabù, maminusminus pa ang ímung sintinsiya,</i> If you admit everything, your sentence will be reduced. <number>4</number> <itype>[A; a]</itype> <tr>kill</tr> (humorous). <i>Akuy muamin ánang hingusig nga irù,</i> I'll put an end to that noisy dog. <pos>a</pos> <tr>dead</tr>.
+<p><form>&dagger;amin</form> <pos>v</pos> <number>3</number> <itype>[A; a12]</itype> <tr>admit</tr> a wrong or mistake one has done and be held responsible. <i>Kun aminun nímung tanang nabitabù, maminusminus pa ang ímung sintinsiya,</i> If you admit everything, your sentence will be reduced. <number>4</number> <itype>[A; a]</itype> <tr>kill</tr> (humorous). <i>Akuy muamin ánang hingusig nga irù,</i> I&apos;ll put an end to that noisy dog. <pos>a</pos> <tr>dead</tr>.
 
 <p><form>&dagger;amping -in-an</form> <pos>n</pos> <number>1</number> s.t. one must guard. <number>2</number> genitalia of a virgin (euphemism).
 
@@ -221,13 +221,13 @@ Step four
 
 <p><form>Ámuy<sub>3</sub></form> <pos>n</pos> <tr>Amoy Chinese</tr>.
 
-<p><form>amuy-ámuy</form> <pos>v</pos> <itype>[A; b5]</itype> pacify, <tr>appease</tr> one's anger. <i>Amuy-amúya (amuy-amúyig) kindi ang bátà ug maghilak,</i> Appease the child with a piece of candy when it cries. <pos>n</pos> act of appeasing, pacifying.
+<p><form>amuy-ámuy</form> <pos>v</pos> <itype>[A; b5]</itype> pacify, <tr>appease</tr> one&apos;s anger. <i>Amuy-amúya (amuy-amúyig) kindi ang bátà ug maghilak,</i> Appease the child with a piece of candy when it cries. <pos>n</pos> act of appeasing, pacifying.
 
-<p><form>amyat</form> <pos>a</pos> looking down on others and being <tr>pretentious</tr>. <i>Amyat nang bayhána. Dílì makighuyhúy nátù,</i> That woman is <tr>stuck up</tr>. She won't go around with us. <pos>v</pos> <itype>[B12]</itype> be, become stuck up and pretentious. <i>Lagmit ang kadátù makaamyat (makapaamyat) sa usa ka asáwa,</i> Usually wealth makes a wife think too highly of herself. <form>-in-</form> <pos>v</pos> <itype>[A; a2]</itype> behave in a <tr>conceited</tr> and <tr>affected</tr> way.
+<p><form>amyat</form> <pos>a</pos> looking down on others and being <tr>pretentious</tr>. <i>Amyat nang bayhána. Dílì makighuyhúy nátù,</i> That woman is <tr>stuck up</tr>. She won&apos;t go around with us. <pos>v</pos> <itype>[B12]</itype> be, become stuck up and pretentious. <i>Lagmit ang kadátù makaamyat (makapaamyat) sa usa ka asáwa,</i> Usually wealth makes a wife think too highly of herself. <form>-in-</form> <pos>v</pos> <itype>[A; a2]</itype> behave in a <tr>conceited</tr> and <tr>affected</tr> way.
 
 <p><form>an</form> <xr>= <sc>ANG</sc> (dialectal).</xr>
 
-<p><form>&dagger;anak</form> <pos>n</pos> <form>&mdash; sa salà, pagpakasalà</form> <tr>illegitimate child</tr>. <form>&mdash; sa pagkaulitáwu</form> a man's child before his marriage. <form>&mdash; sa pagkadalága</form> a child born to a woman before her marriage. <form>&mdash; sa Táwu</form> <tr>Jesus Christ</tr>. <form>&mdash; sa Diyus</form> <tr>Jesus Christ</tr>. <form>&mdash; sa sakramintu</form> <tr>legitimate child</tr>.
+<p><form>&dagger;anak</form> <pos>n</pos> <form>&mdash; sa salà, pagpakasalà</form> <tr>illegitimate child</tr>. <form>&mdash; sa pagkaulitáwu</form> a man&apos;s child before his marriage. <form>&mdash; sa pagkadalága</form> a child born to a woman before her marriage. <form>&mdash; sa Táwu</form> <tr>Jesus Christ</tr>. <form>&mdash; sa Diyus</form> <tr>Jesus Christ</tr>. <form>&mdash; sa sakramintu</form> <tr>legitimate child</tr>.
 
 <p><form>&dagger;andir &mdash; gráwun</form> <pos>a</pos> done <tr>in secret</tr>. <i>Andir-gráwun ang mga kalihúkan sa mga kaáway nátù,</i> Our enemies carried out their activities in secret. <pos>v</pos> <itype>[c1]</itype> do s.t. <tr>secretly</tr>. <form>&mdash; wit</form> <pos>a</pos> <tr>underweight</tr>. <i>Andir wit kaáyu ning batáa kay níwang,</i> This child is very underweight because he is thin. <pos>v</pos> <itype>[B12; b6]</itype> be, become underweight.
 
@@ -235,15 +235,15 @@ Step four
 
 <p><form>anghuy</form> <xr>= <sc>ANHUY</sc>.</xr>
 
-<p><form>&dagger;angka</form> <pos>v</pos> <number>3a</number> <itype>[A23P; b3]</itype> change one's mind, <tr>back out</tr> of an agreement. <i>Dì ku muangka. Ang sábut, sábut,</i> I will not back out. An <pb n=1144>agreement is an agreement. <form>pa-</form> <pos>v</pos> <itype>[A; a]</itype> make s.o. quit or change his mind. <pos>n</pos> s.t. to make one change his mind. <i>Ingun sa paangka ang ílang gipangáyù nga bugay,</i> They asked for that bride price just to get him to back out.
+<p><form>&dagger;angka</form> <pos>v</pos> <number>3a</number> <itype>[A23P; b3]</itype> change one&apos;s mind, <tr>back out</tr> of an agreement. <i>Dì ku muangka. Ang sábut, sábut,</i> I will not back out. An <pb n=1144>agreement is an agreement. <form>pa-</form> <pos>v</pos> <itype>[A; a]</itype> make s.o. quit or change his mind. <pos>n</pos> s.t. to make one change his mind. <i>Ingun sa paangka ang ílang gipangáyù nga bugay,</i> They asked for that bride price just to get him to back out.
 
 <p><form>&dagger;anislag -un</form> <pos>n</pos> a rooster feather coloration of shiny, light gold with streaks of dark brown.
 
 <p><form>&dagger;ánit</form> <pos>n</pos> <number>2</number> strip of leather attached to the ends of the rubber strips of a slingshot used to cradle the stone. <pos>v</pos> <number>2</number> <itype>[A; c]</itype> attach the sling to the slingshot. <number>3</number> <itype>[A; a]</itype> shave the head bald. (&rarr;) <pos>a</pos> shaved bald.
 
-<p><form>&dagger;ansuy</form> <pos>v</pos> <number>2</number> get sick from getting oneself wet after sexual intercourse. <i>Gíkang mugámit dì siya muhíkap ug túbig kay mahadluk ansúyan,</i> He doesn't go near water after sexual intercourse for fear of getting sick.
+<p><form>&dagger;ansuy</form> <pos>v</pos> <number>2</number> get sick from getting oneself wet after sexual intercourse. <i>Gíkang mugámit dì siya muhíkap ug túbig kay mahadluk ansúyan,</i> He doesn&apos;t go near water after sexual intercourse for fear of getting sick.
 
-<p><form>antidit</form> <pos>v</pos> <itype>[A; c16]</itype> <tr>antedate</tr>, assign an earlier date to a document than the true date. <i>Antidítun (iantidit) lang nátù ang aplikasiyun kay ulahi na,</i> Let's put an earlier date on the application because it is too late.
+<p><form>antidit</form> <pos>v</pos> <itype>[A; c16]</itype> <tr>antedate</tr>, assign an earlier date to a document than the true date. <i>Antidítun (iantidit) lang nátù ang aplikasiyun kay ulahi na,</i> Let&apos;s put an earlier date on the application because it is too late.
 
 <p><form>antititanus</form> <pos>n</pos> <tr>anti-tetanus injection</tr>.
 
@@ -273,7 +273,7 @@ Step four
 
 <p><form>arast&acaron;r</form> <xr>= <sc>ALAST&Acaron;R</sc>.</xr>
 
-<p><form>*araw-áraw</form> <form>paN-</form> <pos>a</pos> for one's daily and ordinary use (slang). <i>Pang-araw-áraw níya ang ílang mutsatsa, ang íyang uyab panagsa ra níya dulgi,</i> He has his maid for ordinary, everyday intercourse, and only rarely his fiancée.
+<p><form>*araw-áraw</form> <form>paN-</form> <pos>a</pos> for one&apos;s daily and ordinary use (slang). <i>Pang-araw-áraw níya ang ílang mutsatsa, ang íyang uyab panagsa ra níya dulgi,</i> He has his maid for ordinary, everyday intercourse, and only rarely his fiancée.
 
 <p><form>&dagger;arbul<sub>2</sub></form> <form>&mdash; di</form> <xr>= <sc>ARBUR DI</sc>.</xr>
 
@@ -293,13 +293,13 @@ Step four
 
 <p><form>arsupu</form> <pos>n</pos> word-play on <ix>arsubispu</ix> (humorous).
 
-<p><form>asam-asam</form> <pos>v</pos> <itype>[AN; b(1)]</itype> <number>1</number> dare do s.t. difficult, beyond one's capacity to do. <i>Mag-asam-asam kag pangusína nga dì gánì ka kamaung muháling?</i> Do you dare cook when you don't even know how to kindle a fire? <number>2</number> dare do s.t. one doesn't have a right to do. <i>Nag-asam-asam man siyag lingkud sa uluhan sa lamísa, dì nauláwan siya?</i> He had the nerve to sit at the head of the table. So he was put to shame.
+<p><form>asam-asam</form> <pos>v</pos> <itype>[AN; b(1)]</itype> <number>1</number> dare do s.t. difficult, beyond one&apos;s capacity to do. <i>Mag-asam-asam kag pangusína nga dì gánì ka kamaung muháling?</i> Do you dare cook when you don&apos;t even know how to kindle a fire? <number>2</number> dare do s.t. one doesn&apos;t have a right to do. <i>Nag-asam-asam man siyag lingkud sa uluhan sa lamísa, dì nauláwan siya?</i> He had the nerve to sit at the head of the table. So he was put to shame.
 
 <p><form>&dagger;asáwa asawaasáwa, uluasáwa</form> <pos>n</pos> <tr>common-law wife</tr>. <pos>v</pos> <itype>[B6; c1]</itype> be, become; have a common-law wife.
 
 <p><form>asáyin</form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> <tr>assign</tr> s.o. to a position. <i>Giasáyin ku sa paniktikag bakì,</i> I was assigned to the backwoods. <number>2</number> <itype>[A; c]</itype> assign s.o. work. <i>Wà kuy humwurk nga giasayin,</i> I was <pb n=1145>not assigned any homework. <form>-min</form> <pos>n</pos> <number>1</number> <tr>assignment</tr> to a job. <number>2</number> assignment to do work.
 
-<p><form>asimbul<sub>1</sub></form> <pos>v</pos> <itype>[A; c1]</itype> <tr>assemble</tr> a contrivance, machine. <i>Asimbul na ang radiyung ákung gipalit kay dì ku maantígung muasimbul,</i> I bought an assembled radio because I don't know how to assemble one.
+<p><form>asimbul<sub>1</sub></form> <pos>v</pos> <itype>[A; c1]</itype> <tr>assemble</tr> a contrivance, machine. <i>Asimbul na ang radiyung ákung gipalit kay dì ku maantígung muasimbul,</i> I bought an assembled radio because I don&apos;t know how to assemble one.
 
 <p><form>asimbul<sub>2</sub></form> <pos>v</pos> <itype>[AC; c1]</itype> <tr>assemble</tr> together in a place. <i>Didtu ang parid mag-asimbul sa plása,</i> The parade assembled in the plaza.
 
@@ -332,7 +332,7 @@ Step four
 
 <p><form>báag<sub>2</sub></form> <xr>= <sc>BÁLAG</sc>.</xr>
 
-<p><form>báag<sub>3</sub></form> <pos>n</pos> a small preparation of food for a get-together. <i>Ug dúnay báag sa inyu muadtu ku,</i> I'll go to your house when you have a little eating party. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> attend a small eating party.
+<p><form>báag<sub>3</sub></form> <pos>n</pos> a small preparation of food for a get-together. <i>Ug dúnay báag sa inyu muadtu ku,</i> I&apos;ll go to your house when you have a little eating party. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> attend a small eating party.
 
 <p><form>&dagger;baang, báang (&larr;)</form> <pos>n</pos> <number>1</number> the mouth opened to eat s.t. <i>Kagamay nga táwu apan dakug báang,</i> Such a small man, but how wide he can open his mouth to eat. <number>2</number> <tr>mouthful</tr>. <i>Usa ra ka báang sa buáya,</i> You are only one mouthful for a crocodile.
 
@@ -340,19 +340,19 @@ Step four
 
 <p><form>badíday</form> <pos>n</pos> loving and tender address for little girls. <i>Gikápuy ang ákung badíday?</i> Is my little sweetie tired?
 
-<p><form>&dagger;badigard</form> <pos>n</pos> <number>2</number> one's <tr>fiance</tr> or <tr>spouse</tr> (humorous).
+<p><form>&dagger;badigard</form> <pos>n</pos> <number>2</number> one&apos;s <tr>fiance</tr> or <tr>spouse</tr> (humorous).
 
 <p><form>&dagger;bag</form> <pos>n</pos> <number>4</number> <formx>syuldir &mdash;</formx> <tr>shoulder bag</tr>. <form>pansing, pantsing &mdash;</form> <tr>punching bag</tr>. <form>ubirnayit &mdash;</form> <tr>overnight bag</tr>. <form>ayis &mdash;</form> <tr>ice bag</tr>. <form>pípar &mdash;</form> <tr>paper bag</tr>. <form>ham-, hand-</form> <tr>handbag</tr>.
 
 <p><form>bagnul</form> <pos>a</pos> <number>1</number> <tr>dull</tr>, not sharp. <i>Ang bagnul nga kutsilyu dì limpiyu ug pinutlan,</i> A dull knife will not make a clean cut. <number>2</number> for solids to be <tr>hard</tr> and compacted, not easily crumbling. <i>Bagnul ang batu ikumparar sa anapug,</i> Stone is harder than lime. <number>3</number> for skin to be <tr>calloused</tr> and tough. <pos>v</pos> <itype>[B; a]</itype> <number>1</number> for a blade to become dull. <number>2</number> <tr>solidify</tr> or form into hard lumps. <i>Ang kabugnaw makapabagnul (makabagnul) sa túbig,</i> Cold will make water solidify. <number>2a</number> for the skin to form callouses. <form>-un</form> <pos>a</pos> <tr>lumpy</tr>, having hard lumps. <pos>v</pos> <itype>[B2]</itype> become lumpy.
 
-<p><form>&dagger;bagting</form> <pos>n</pos> <number>2</number> one of the three significant events in one's life for which bells are rung: baptism, marriage, death.
+<p><form>&dagger;bagting</form> <pos>n</pos> <number>2</number> one of the three significant events in one&apos;s life for which bells are rung: baptism, marriage, death.
 
 <p>&dagger;bagtuk <pos>a</pos> <number>2</number> having a sour expression on the face. <pos>v</pos> <itype>[B6]</itype> <number>2</number> wear a heavy and sour look. <i>Dì ka giyud makasúgù niánang bayhána kay mubagtuk dáyun ang nawung,</i> You can never ask that girl to do anything because she immediately gets a nasty expression on her face.
 
-<p><form>&dagger;bag-u</form> <number>2</number> <formx>-ng kaláyu, kandílà, túbig</formx> blessing of the New Fire, Easter Candle, and Holy Water on the night of Holy Saturday. <form>-ng kinabúhì</form> new lease on one's life after it has been spared from an accident or from a serious illness. <i>Magpasalámat ta sa Diyus sa átung bag-ung kinabúhì,</i> Let us thank God for giving us a <tr>new lease on life</tr>. <pos>v</pos> <number>2</number> <formx>&mdash; sa kaláyu, kandílà, túbig</formx> <itype>[A13; c1]</itype> perform the rite of blessing the Holy Water, New Fire and Easter Candles. <number>3</number> <formx>&mdash; sa kinabúhì</formx> <itype>[A12]</itype> give s.o. a new lease on life. <form>&mdash; sa útang</form> <itype>[A; a12]</itype> renew a loan. <form>kabag-úhan</form> <pos>n</pos> <number>1</number> <tr>modern times</tr>. <number>2</number> the younger generation.
+<p><form>&dagger;bag-u</form> <number>2</number> <formx>-ng kaláyu, kandílà, túbig</formx> blessing of the New Fire, Easter Candle, and Holy Water on the night of Holy Saturday. <form>-ng kinabúhì</form> new lease on one&apos;s life after it has been spared from an accident or from a serious illness. <i>Magpasalámat ta sa Diyus sa átung bag-ung kinabúhì,</i> Let us thank God for giving us a <tr>new lease on life</tr>. <pos>v</pos> <number>2</number> <formx>&mdash; sa kaláyu, kandílà, túbig</formx> <itype>[A13; c1]</itype> perform the rite of blessing the Holy Water, New Fire and Easter Candles. <number>3</number> <formx>&mdash; sa kinabúhì</formx> <itype>[A12]</itype> give s.o. a new lease on life. <form>&mdash; sa útang</form> <itype>[A; a12]</itype> renew a loan. <form>kabag-úhan</form> <pos>n</pos> <number>1</number> <tr>modern times</tr>. <number>2</number> the younger generation.
 
-<p><form>bagul<sub>2</sub></form> <pos>a</pos> <tr>poor</tr>. <i>Dì ku mutúu nga kun bagul ka sa sinugdan, bagul ka na lang sa hangtud,</i> I don't believe that if you start poor, you must always remain poor.
+<p><form>bagul<sub>2</sub></form> <pos>a</pos> <tr>poor</tr>. <i>Dì ku mutúu nga kun bagul ka sa sinugdan, bagul ka na lang sa hangtud,</i> I don&apos;t believe that if you start poor, you must always remain poor.
 
 <p><form>bagurung</form> <xr>= <sc>BAGRUNG</sc>.</xr>
 
@@ -360,11 +360,11 @@ Step four
 
 <p><form>&dagger;bahù paniN-</form> <number>1b</number> <formx>-ng yútà</formx> for death to be <pb n=1146>near (lit. smell of earth&mdash;humorous). <i>Nagpanimahù nang yútà ang kansirun,</i> The cancer patient already smells of the grave.
 
-<p><form>bait</form> <pos>v</pos> <itype>[A13]</itype> walk the straight and narrow path (slang). <i>Dì na siya muinum. Nagbait na siya,</i> He doesn't drink anymore. He is following the straight and narrow path.
+<p><form>bait</form> <pos>v</pos> <itype>[A13]</itype> walk the straight and narrow path (slang). <i>Dì na siya muinum. Nagbait na siya,</i> He doesn&apos;t drink anymore. He is following the straight and narrow path.
 
 <p><form>&dagger;bakgráwun -ir</form> <xr>= <sc>BAKGRÁWUN</sc>, <i>n3, 4, 5.</i></xr>
 
-<p><form>bakhan</form> <pos>n</pos> <tr>backhand slap</tr>, <tr>backhand stroke</tr> in tennis. <pos>v</pos> <itype>[A; a12]</itype> strike with a <tr>backhand</tr> slap or hit with a backhand stroke. <i>Bakhánun ta ka rug magtubagtubag ka,</i> I'll slap you with the back of my hand if you talk back to me.
+<p><form>bakhan</form> <pos>n</pos> <tr>backhand slap</tr>, <tr>backhand stroke</tr> in tennis. <pos>v</pos> <itype>[A; a12]</itype> strike with a <tr>backhand</tr> slap or hit with a backhand stroke. <i>Bakhánun ta ka rug magtubagtubag ka,</i> I&apos;ll slap you with the back of my hand if you talk back to me.
 
 <p><form>&dagger;bakì -in-</form> <pos>a</pos> <number>1</number> sitting squat with the legs crossed. <number>2</number> <tr>bikini panties</tr>. <pos>v</pos> <itype>[A; c1]</itype> <number>1</number> sit on the ground with crossed legs. <number>2</number> wear bikini panties.
 
@@ -374,9 +374,9 @@ Step four
 
 <p><form>baksit</form> <pos>n</pos> back seat of a bicycle or motorcycle. <pos>v</pos> <itype>[A; c1]</itype> ride on the back seat.
 
-<p><form>&dagger;balalà</form> <pos>v</pos> <number>1</number> <xr>= <sc>BALÁLÀ</sc>.</xr> <number>2</number> <itype>[A; c1]</itype> fail in school. <i>Balaun (ibalà) tikaw sa klási ug dì ka magtuun,</i> I'll fail you if you don't study. <number>3</number> <itype>[A2; b6]</itype> fall to the ground with a big thud. <i>Mibalà ku sa salug nga sínaw,</i> I fell flat on the slippery floor with a thud.
+<p><form>&dagger;balalà</form> <pos>v</pos> <number>1</number> <xr>= <sc>BALÁLÀ</sc>.</xr> <number>2</number> <itype>[A; c1]</itype> fail in school. <i>Balaun (ibalà) tikaw sa klási ug dì ka magtuun,</i> I&apos;ll fail you if you don&apos;t study. <number>3</number> <itype>[A2; b6]</itype> fall to the ground with a big thud. <i>Mibalà ku sa salug nga sínaw,</i> I fell flat on the slippery floor with a thud.
 
-<p><form>&dagger;balay &mdash; sa lamígas</form> <tr>ant hill</tr>. <form>tag-</form> call shouted upon reaching the house of a friend to announce one's presence.
+<p><form>&dagger;balay &mdash; sa lamígas</form> <tr>ant hill</tr>. <form>tag-</form> call shouted upon reaching the house of a friend to announce one&apos;s presence.
 
 <p><form>balbangáhan</form> <xr>= <sc>BALBANGÁAN</sc>.</xr>
 
@@ -404,21 +404,21 @@ Step four
 
 <p><form>&dagger;bálun pa-</form> <pos>v</pos> <number>3</number> <itype>[A; c]</itype> give a <i>pabálun, 4a, 5.</i> <pos>n</pos> <number>4</number> the custom of throwing earth or gravel upon the coffin as soon as it is lowered into the grave as a sign of respect and also so that the soul of the dead person may not come back to haunt those he left behind. <number>4a</number> soil that is thrown on the coffin in the <ix>pabálun</ix> ceremonies. <number>5</number> send-off gift for a newly-wed couple consisting of equal contributions from both sets of parents.
 
-<p><form>&dagger;balur</form> <pos>a</pos> <tr>dignified</tr>, having high prestige. <i>Ang pagmaistra balur kaáyung pangitáa,</i> Teaching is a prestigious calling. <form>pa-</form> <pos>v</pos> <number>2</number> <itype>[A; b7]</itype> give dignity to oneself or to one's office. <i>Magpabalur giyud ang huwis sa kurti,</i> A judge should maintain his dignity in court. <form>di-</form> <pos>a</pos> carrying respect and high prestige. <i>Dibalur nga tígum. Púlus imbahadur sa mga násud ang mitambung,</i> A <tr>high-level</tr> meeting, attended by ambassadors of various nations.
+<p><form>&dagger;balur</form> <pos>a</pos> <tr>dignified</tr>, having high prestige. <i>Ang pagmaistra balur kaáyung pangitáa,</i> Teaching is a prestigious calling. <form>pa-</form> <pos>v</pos> <number>2</number> <itype>[A; b7]</itype> give dignity to oneself or to one&apos;s office. <i>Magpabalur giyud ang huwis sa kurti,</i> A judge should maintain his dignity in court. <form>di-</form> <pos>a</pos> carrying respect and high prestige. <i>Dibalur nga tígum. Púlus imbahadur sa mga násud ang mitambung,</i> A <tr>high-level</tr> meeting, attended by ambassadors of various nations.
 
 <p><form>baluskad</form> <xr>= <sc>BALUSKAG</sc>.</xr>
 
-<p><form>bambu<sub>2</sub></form> <pos>v</pos> <itype>[A; a12]</itype> hit s.o. in the body with a hard blow with a thumping sound. <i>Bambuhun ta kag magtubagtubag ka,</i> I'll give you a hard blow on the body if you talk back.
+<p><form>bambu<sub>2</sub></form> <pos>v</pos> <itype>[A; a12]</itype> hit s.o. in the body with a hard blow with a thumping sound. <i>Bambuhun ta kag magtubagtubag ka,</i> I&apos;ll give you a hard blow on the body if you talk back.
 
-<p><form>&dagger;banà pasi-</form> <pos>v</pos> <itype>[A; a]</itype> call s.o.'s attention to, <tr>warn</tr>. <i>Gipasiban-an (gipasibanáan) ku siya sa dílì pagpúnay ug kúyug adtung tawhána,</i> I warned her not to go out with that man all the time.
+<p><form>&dagger;banà pasi-</form> <pos>v</pos> <itype>[A; a]</itype> call s.o.&apos;s attention to, <tr>warn</tr>. <i>Gipasiban-an (gipasibanáan) ku siya sa dílì pagpúnay ug kúyug adtung tawhána,</i> I warned her not to go out with that man all the time.
 
 <p>&dagger;bandu<sub>2</sub> <pos>n</pos> <number>2</number> place where a group of people united for a common purpose meet. <i>Bandu Usminya,</i> The place where the followers of Osme&ntilde;a meet.
 
 <pb n=1147>
 
-<p><form>&dagger;bangdaybangday</form> <pos>n</pos> <number>2</number> children's game of flicking rubber bands by turns wherein one wins a rubber band if it lands lying over the opponent's. <pos>v</pos> <number>3</number> <itype>[AC; b]</itype> play <ix>bangdaybangday</ix>.
+<p><form>&dagger;bangdaybangday</form> <pos>n</pos> <number>2</number> children&apos;s game of flicking rubber bands by turns wherein one wins a rubber band if it lands lying over the opponent&apos;s. <pos>v</pos> <number>3</number> <itype>[AC; b]</itype> play <ix>bangdaybangday</ix>.
 
-<p><form>&dagger;banghag</form> <pos>v</pos> <number>3</number> <itype>[A23; b6]</itype> cut into a conversation. <i>Dì ka mubanghag ug náay magsulti, panábì,</i> Don't join in a conversation suddenly. Ask permission. <pos>a</pos> cutting in a conversation even when one doesn't know the topic being talked about.
+<p><form>&dagger;banghag</form> <pos>v</pos> <number>3</number> <itype>[A23; b6]</itype> cut into a conversation. <i>Dì ka mubanghag ug náay magsulti, panábì,</i> Don&apos;t join in a conversation suddenly. Ask permission. <pos>a</pos> cutting in a conversation even when one doesn&apos;t know the topic being talked about.
 
 <p><form>&dagger;bangku</form> <pos>n</pos> <tr>toilet</tr> (humorous&mdash;cf. <ix>dipusitu, v 5</ix>). <i>Buysit. Humag káun, diritsus bangku!</i> Darn! As soon as I had finished eating I had to rush to the &lsquo;bank&rsquo;.
 
@@ -430,7 +430,7 @@ Step four
 
 <p><form>&dagger;banwag -in-an</form> <pos>n</pos> <number>1</number> a newly-organized religious sect in Mindanao that patterns its religious practice after those of the Roman Catholic Church. <number>2</number> member of this sect. <pos>v</pos> <itype>[B156]</itype> be, become a member of the <ix>binanwágan</ix>.
 
-<p><form>bara<sub>2</sub></form> <pos>v</pos> <itype>[AB]</itype> <tr>clog</tr> s.t. up, be <tr>clogged up</tr>. <i>May nuug nga mibara sa túbu sa hugasan,</i> A piece of cloth clogged up the drain in the sink. <i>Nabara ang isdang búhì sa ákung tutunlan,</i> The live fish stuck in my throat. <i>Magkabara ang trapiku basta magkaalas dúsi,</i> Traffic gets clogged up at about twelve o'clock.
+<p><form>bara<sub>2</sub></form> <pos>v</pos> <itype>[AB]</itype> <tr>clog</tr> s.t. up, be <tr>clogged up</tr>. <i>May nuug nga mibara sa túbu sa hugasan,</i> A piece of cloth clogged up the drain in the sink. <i>Nabara ang isdang búhì sa ákung tutunlan,</i> The live fish stuck in my throat. <i>Magkabara ang trapiku basta magkaalas dúsi,</i> Traffic gets clogged up at about twelve o&apos;clock.
 
 <p><form>&dagger;bára<sub>1</sub></form> <pos>n</pos> <number>4b</number> <formx>&mdash; sa Ispiritu Santu</formx> <pos>n</pos> a grievous sin originally committed by an ancestor to be paid subsequently by seven generations. <pos>v</pos> <number>2a</number> <itype>[b5]</itype> suffer from having incurred the wrath of the Holy Spirit. <i>Gibára (gibaráhan) sa Ispiritu Santu nang pamilyáha,</i> That family has incurred the wrath of the Holy Spirit.
 
@@ -446,7 +446,7 @@ Step four
 
 <p><form>&dagger;batbat</form> <pos>v</pos> <number>2</number> <itype>[A; a]</itype> follow, traverse along the edges or outskirts. <i>Mibatbat sila sa lapad nga humayan,</i> They walked around edges of the wide rice field. <i>Batbáta ning dalána ug muabut ka sa tubud,</i> Follow this footpath, and you will reach the spring.
 
-<p><form>&dagger;bátì -l-an</form> <pos>n</pos> <number>2a</number> <tr>epidemic</tr>. <i>May balatían karun sa Pásil,</i> There's an epidemic in Pasil now. <pos>v</pos> <itype>[B1]</itype> be, become <tr>sick</tr>. <i>Nagbalatían ang inahan,</i> The mother has an illness.
+<p><form>&dagger;bátì -l-an</form> <pos>n</pos> <number>2a</number> <tr>epidemic</tr>. <i>May balatían karun sa Pásil,</i> There&apos;s an epidemic in Pasil now. <pos>v</pos> <itype>[B1]</itype> be, become <tr>sick</tr>. <i>Nagbalatían ang inahan,</i> The mother has an illness.
 
 <p><form>*batingting</form> <form>hugut ang &mdash;</form> <ix>see</ix> <xr><sc>HUGUT</sc>, <i>a5.</i></xr>
 
@@ -470,7 +470,7 @@ Step four
 
 <p><form>&dagger;bilíbid</form> <pos>n</pos> <number>2</number> <tr>jail</tr>. <pos>v</pos> <number>2</number> <itype>[B126]</itype> be put in jail, <tr>imprison</tr>. <i>Nabilíbid sa salà nga panlúgus,</i> Imprisoned for rape.
 
-<p><form>binhurun</form> <pos>a</pos> women who are not highly esteemed, women left by their husbands, <tr>disgraced women</tr>, women of ill repute, and the like. <i>Ayawg pangasáwag binhurun,</i> Don't marry a <tr>cheap woman</tr>. <pos>v</pos> <itype>[b6]</itype> consider a woman cheap.
+<p><form>binhurun</form> <pos>a</pos> women who are not highly esteemed, women left by their husbands, <tr>disgraced women</tr>, women of ill repute, and the like. <i>Ayawg pangasáwag binhurun,</i> Don&apos;t marry a <tr>cheap woman</tr>. <pos>v</pos> <itype>[b6]</itype> consider a woman cheap.
 
 <p><form>binipisya</form> <pos>v</pos> <itype>[A; c1]</itype> concoct medicine from <pb n=1148>herbs. <i>Binipisyahun (ibinipisya) sa tambálan ang mga sagibunhun,</i> The medicine man concocts medicine from herbs.
 
@@ -480,7 +480,7 @@ Step four
 
 <p><form>&dagger;bínug</form> <pos>n</pos> <number>2</number> <tr>quicksand</tr>.
 
-<p><form>birianádir</form> <pos>a</pos> having adopted a <tr>haughty</tr>, <tr>stand-offish</tr> attitude (colloquial). <i>Basta iksámin birianádir siya kay dì man pakupya,</i> He is very different when it comes to exams because he doesn't let you copy. <pos>v</pos> <itype>[B126]</itype> develop a stand-offish attitude to others. <i>Nabirianádir na siya sukad muasinsu,</i> He has become quite <tr>distant</tr> since he got his promotion.
+<p><form>birianádir</form> <pos>a</pos> having adopted a <tr>haughty</tr>, <tr>stand-offish</tr> attitude (colloquial). <i>Basta iksámin birianádir siya kay dì man pakupya,</i> He is very different when it comes to exams because he doesn&apos;t let you copy. <pos>v</pos> <itype>[B126]</itype> develop a stand-offish attitude to others. <i>Nabirianádir na siya sukad muasinsu,</i> He has become quite <tr>distant</tr> since he got his promotion.
 
 <p><form>bís<sub>2</sub></form> <pos>n</pos> <tr>military base</tr>.
 
@@ -496,7 +496,7 @@ Step four
 
 <p><form>bradi, brádi</form> <xr>= <sc>BRAD</sc>, <i>n1.</i></xr>
 
-<p><form>&dagger;búang -in-</form> <pos>v</pos> <number>2</number> <itype>[A13]</itype> <tr>misfunction</tr>. <i>Nagbinúang na sad ning awtúha dà. Dílì na sad muandar,</i> This car is <tr>acting up</tr> again. It won't start.
+<p><form>&dagger;búang -in-</form> <pos>v</pos> <number>2</number> <itype>[A13]</itype> <tr>misfunction</tr>. <i>Nagbinúang na sad ning awtúha dà. Dílì na sad muandar,</i> This car is <tr>acting up</tr> again. It won&apos;t start.
 
 <p><form>bugalu</form> <pos>n</pos> <tr>bugaloo</tr> dance. <pos>v</pos> <itype>[A]</itype> dance the bugaloo.
 
@@ -522,9 +522,9 @@ Step four
 
 <p><form>bulasa, bulasà</form> <xr>= <sc>LAMUDLAW</sc>.</xr>
 
-<p><form>bulis walà ma-</form> [so-and-so] did not fail to happen, just as was expected. <i>Giingnan ta kag musaka ka dinhà, mahúlug ka. Dà, wà mabulis ag ákung sulti,</i> I told you you'd fall if you climbed up there. There, now you fell.
+<p><form>bulis walà ma-</form> [so-and-so] did not fail to happen, just as was expected. <i>Giingnan ta kag musaka ka dinhà, mahúlug ka. Dà, wà mabulis ag ákung sulti,</i> I told you you&apos;d fall if you climbed up there. There, now you fell.
 
-<p><form>bulitlit</form> <pos>v</pos> <itype>[A; a]</itype> make a small opening wide, push the sides apart with both hands. <i>Akuy mibulitlit sa gamayng lungag sa bungbung,</i> I was the one who <tr>widened</tr> the small opening in the wall. <i>Ákung bulitlitan<note>bulitlítan ?</note> ang ímung buhuk ug wà bay kútu,</i> I'll go through your hair to see if there are any lice.
+<p><form>bulitlit</form> <pos>v</pos> <itype>[A; a]</itype> make a small opening wide, push the sides apart with both hands. <i>Akuy mibulitlit sa gamayng lungag sa bungbung,</i> I was the one who <tr>widened</tr> the small opening in the wall. <i>Ákung bulitlitan<note>bulitlítan ?</note> ang ímung buhuk ug wà bay kútu,</i> I&apos;ll go through your hair to see if there are any lice.
 
 <p><form>bupalu</form> <pos>n</pos> <tr>buffalo</tr>.
 
@@ -538,11 +538,11 @@ Step four
 
 <p><form>butáka<sub>2</sub></form> <pos>n</pos> in movie houses, the section at the back of the orchestra.
 
-<p><form>&dagger;butang<sub>1</sub></form> <pos>v</pos> <number>5a</number> <formx>butangi</formx> [<ix>b[=ú]tangi</ix>] exclamation indicating that a taunt is so apt there is no answer possible (lit. hit him where it hurts). <i>&lsquo;Primírang tihik ug mangáyù lag sabaw nga dílì mupalit ug unud.&rsquo;&mdash;&lsquo;B[=ú]tangi,&rsquo;</i> &lsquo;What a tightwad! He asks for gravy but won't buy the meat it's supposed to go with.&rsquo;&mdash;&lsquo;OK, you win (I can't answer that).&rsquo;
+<p><form>&dagger;butang<sub>1</sub></form> <pos>v</pos> <number>5a</number> <formx>butangi</formx> [<ix>b[=ú]tangi</ix>] exclamation indicating that a taunt is so apt there is no answer possible (lit. hit him where it hurts). <i>&lsquo;Primírang tihik ug mangáyù lag sabaw nga dílì mupalit ug unud.&rsquo;&mdash;&lsquo;B[=ú]tangi,&rsquo;</i> &lsquo;What a tightwad! He asks for gravy but won&apos;t buy the meat it&apos;s supposed to go with.&rsquo;&mdash;&lsquo;OK, you win (I can&apos;t answer that).&rsquo;
 
 <pb n=1149>
 
-<p><form>&dagger;butar</form> <pos>v</pos> <number>2</number> <itype>[A2; b6]</itype> <tr>favor</tr> or give one's approval to s.o. or s.t. <i>Mubutar ku kun duktúra ímung pangasaw-un,</i> I would <tr>approve</tr> if you married a doctor. <i>Dílì sad ku makabutar ánang idíya nga muwilga ta,</i> I would not favor the idea that we go on strike.
+<p><form>&dagger;butar</form> <pos>v</pos> <number>2</number> <itype>[A2; b6]</itype> <tr>favor</tr> or give one&apos;s approval to s.o. or s.t. <i>Mubutar ku kun duktúra ímung pangasaw-un,</i> I would <tr>approve</tr> if you married a doctor. <i>Dílì sad ku makabutar ánang idíya nga muwilga ta,</i> I would not favor the idea that we go on strike.
 
 <p><form>butikin</form> <pos>n</pos> small <tr>drugstore</tr>. <pos>v</pos> <itype>[A; a]</itype> make a space into a small drugstore.
 
@@ -572,7 +572,7 @@ Step four
 
 <p><form>dahúluy</form> <pos>v</pos> <itype>[A23]</itype> for food to slide smoothly down the throat. <i>Ang landang mudahúluy lang inigtún,</i> The buri starch sweet just slides down the throat.
 
-<p><form>dakang</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <xr>= <sc>DAKUL</sc>.</xr> <number>2</number> hammer s.t. down hard. <i>Dakngun ku ang mga lansang nga nanglábaw,</i> I'll <tr>hammer down</tr> the nails that are protruding. <pos>n</pos> s.t. used to rap or hammer s.t.
+<p><form>dakang</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <xr>= <sc>DAKUL</sc>.</xr> <number>2</number> hammer s.t. down hard. <i>Dakngun ku ang mga lansang nga nanglábaw,</i> I&apos;ll <tr>hammer down</tr> the nails that are protruding. <pos>n</pos> s.t. used to rap or hammer s.t.
 
 <p><form>&dagger;dakdak -an(&rarr;)</form> <pos>n</pos> <form>-an ug Sabadu</form> a face that is so flat it looks like the stone they pound their wash on on Saturdays. <pos>v</pos> <itype>[B125]</itype> for a face to become flat.
 
@@ -580,7 +580,7 @@ Step four
 
 <p><form>&dagger;dalága</form> (&rarr;) <pos>v</pos> <itype>[A13]</itype> for a widow to primp herself up. <i>Gustu na pud tingáling magminyù pag-usab ang byúda kay nagdalaga man,</i> The widow must want to get married again because she is primping herself up.
 
-<p><form>&dagger;dalágan dagandagan</form> <pos>v</pos> <itype>[A2]</itype> <number>1</number> for money to grow. <i>Mudagandagan ang kwarta ug inigusyu,</i> Money will grow if you invest it in business. <number>2</number> not be used up for a certain period. <i>Maáyu kay nakadagandagan ang ámung bugas hangtud sa katapúsan sa búwan,</i> It's a good thing our rice lasted until the end of the month.
+<p><form>&dagger;dalágan dagandagan</form> <pos>v</pos> <itype>[A2]</itype> <number>1</number> for money to grow. <i>Mudagandagan ang kwarta ug inigusyu,</i> Money will grow if you invest it in business. <number>2</number> not be used up for a certain period. <i>Maáyu kay nakadagandagan ang ámung bugas hangtud sa katapúsan sa búwan,</i> It&apos;s a good thing our rice lasted until the end of the month.
 
 <p><form>dalímasù</form> (from <ix>pásù</ix>) <pos>n</pos> an insect about 1&Prime; by &frac34;&Prime; in diameter, covered with green, kinky, hair-like growths, found on the underside of coconut leaves. They produce an itchy, burning sensation and affect fowl that consume them with extreme debility.
 
@@ -588,7 +588,7 @@ Step four
 
 <p><form>dalipsut</form> <xr>= <sc>DALIPSÙ</sc>.</xr>
 
-<p><form>damagan<sub>3</sub></form> <pos>a</pos> careless in doing one's work. <i>Dì giyud magkadimáu ning íyang búhat kay damagan kaáyu,</i> Her work is always a mess because she is so careless. <pos>v</pos> <itype>[B125]</itype> be careless in doing s.t.
+<p><form>damagan<sub>3</sub></form> <pos>a</pos> careless in doing one&apos;s work. <i>Dì giyud magkadimáu ning íyang búhat kay damagan kaáyu,</i> Her work is always a mess because she is so careless. <pos>v</pos> <itype>[B125]</itype> be careless in doing s.t.
 
 <p><form>&dagger;damikà, damíkà</form> <pos>v</pos> <number>2</number> <itype>[A; b6]</itype> sit flat on the floor, usually with the legs crossed at the ankles. <i>Gidamikaan níla ang húgaw nga salug,</i> They sat sprawled on the dirty floor.
 
@@ -596,7 +596,7 @@ Step four
 
 <p>&dagger;dánag <pos>v</pos> <number>2</number> be unaware of what is going on round about one.<i> Nagdánag lang ang bána sa dautang líhuk sa íyang asáwa,</i> The husband is unaware of the terrible things his wife is doing.
 
-<p><form>&dagger;danggit -in-</form> <pos>n</pos> <number>2</number> position in sexual intercourse where the partners both lie on their sides and the man faces the woman's back. <pos>v</pos> <number>2</number> <itype>[A; a]</itype> do it in this position.
+<p><form>&dagger;danggit -in-</form> <pos>n</pos> <number>2</number> position in sexual intercourse where the partners both lie on their sides and the man faces the woman&apos;s back. <pos>v</pos> <number>2</number> <itype>[A; a]</itype> do it in this position.
 
 <p><form>&dagger;daplak</form> <pos>v</pos> <number>3</number> <itype>[B3(1)6]</itype> be lying flat on the ground. <i>Giánay ang trúsu nga nagdaplak sa yútà,</i> The log that is lying flat on the ground has gotten infested with termites. <i>Nadaplak ang bátang nadugmù sa balas,</i> The child stumbled and fell flat on the sand.
 
@@ -638,9 +638,9 @@ Step four
 
 <p><form>&dagger;dipirinsiya -du</form>(&larr;) <pos>a</pos> defective. <i>Dipirinsiyádu siyag matris,</i> She has a defective uterus. <pos>v</pos> <itype>[B126]</itype> develop a defect.
 
-<p><form>diprisyun</form> <pos>n</pos> depression of atmospheric pressure. <i>May diprisyun kunu kay may bagyu,</i> They say that there's a depression because there is a storm coming.
+<p><form>diprisyun</form> <pos>n</pos> depression of atmospheric pressure. <i>May diprisyun kunu kay may bagyu,</i> They say that there&apos;s a depression because there is a storm coming.
 
-<p><form>&dagger;diskarga</form> <pos>v</pos> <number>1b</number> <itype>[A; b(1)]</itype> defecate or urinate (colloquial). <i>Mudiskarga úsà ta dinhi kay way mga táwu,</i> Let's urinate here because there is no one around.
+<p><form>&dagger;diskarga</form> <pos>v</pos> <number>1b</number> <itype>[A; b(1)]</itype> defecate or urinate (colloquial). <i>Mudiskarga úsà ta dinhi kay way mga táwu,</i> Let&apos;s urinate here because there is no one around.
 
 <p><form>diskutsu</form> <xr>= <sc>BISKUTSU</sc>.</xr>
 
@@ -672,7 +672,7 @@ Step four
 
 <p><form>dugsaw</form> <xr>= <sc>DUGSAK</sc>.</xr>
 
-<p><form>&dagger;duha</form> <pos>v</pos> <number>2</number> <itype>[b(1)]</itype> do s.t. with both hands. <i>Bug-at nà. Kinahanglan duhaan nímu pag-aswat,</i> It's so heavy you have to lift it with both hands.
+<p><form>&dagger;duha</form> <pos>v</pos> <number>2</number> <itype>[b(1)]</itype> do s.t. with both hands. <i>Bug-at nà. Kinahanglan duhaan nímu pag-aswat,</i> It&apos;s so heavy you have to lift it with both hands.
 
 <p><form>&dagger;dukà</form> <pos>v</pos> <number>2</number> <itype>[B1456]</itype> for light to <tr>flicker</tr> or to burn unsteadily. <i>Nagdukà ang lamparilya kay wà na nay gás,</i> The lamplight is flickering. It must be out of kerosene.
 
@@ -686,7 +686,7 @@ Step four
 
 <p><form>dyíay</form> <pos>n</pos> <number>1</number> an American soldier during World War II. <number>2</number> a six-by-six lorry. <number>3</number> acronym for galvanized iron.
 
-<p><form>dyú</form> term of address to American men (from the WW II appelation of American GI's). Máni, dyú, Give me money, Joe.
+<p><form>dyú</form> term of address to American men (from the WW II appelation of American GI&apos;s). Máni, dyú, Give me money, Joe.
 
 <p><form>&dagger;gabíi</form> <form>gabíing</form> <form>gabhiúna</form> exactly <tr>last night</tr>. <i>Gabíing gabhiúna mukrás ang ayruplánu,</i> The plane crashed just last night.
 
@@ -712,11 +712,11 @@ Step four
 
 <p><form>gardímit</form> <xr>= <sc>GADÍMIT</sc>.</xr>
 
-<p><form>garis</form> <pos>n</pos> <number>1</number> k.o. itchy <tr>skin disease</tr> caused by a mite, usually spreading over large areas of the body. <number>2</number> very light scratches, as one would get from brushing against s.t. <pos>v</pos> <number>1</number> <itype>[A123P; a4]</itype> get this skin disease. <i>Garisun giyud ka ug magsígi kag táak sa lápuk,</i> You'll get <tr>scabies</tr> if you keep wading in the mud. <number>2</number> <itype>[B126; b8]</itype> be lightly scratched. <form>-un</form> <pos>a</pos> having this skin ailment.
+<p><form>garis</form> <pos>n</pos> <number>1</number> k.o. itchy <tr>skin disease</tr> caused by a mite, usually spreading over large areas of the body. <number>2</number> very light scratches, as one would get from brushing against s.t. <pos>v</pos> <number>1</number> <itype>[A123P; a4]</itype> get this skin disease. <i>Garisun giyud ka ug magsígi kag táak sa lápuk,</i> You&apos;ll get <tr>scabies</tr> if you keep wading in the mud. <number>2</number> <itype>[B126; b8]</itype> be lightly scratched. <form>-un</form> <pos>a</pos> having this skin ailment.
 
 <p><form>*gats</form> <form>may &mdash;</form> have the <tr>guts</tr> to do s.t. <i>May gats ka ug makawan tu tri kas Wayt Guld,</i> You have got to have guts to steal s.t. at the White Gold.
 
-<p><form>gay</form> <pos>n</pos> intimate nickname among young men (colloquial). <i>Muuban ka námug panúruy, gay?</i> Won't you go out with us, buddy?
+<p><form>gay</form> <pos>n</pos> intimate nickname among young men (colloquial). <i>Muuban ka námug panúruy, gay?</i> Won&apos;t you go out with us, buddy?
 
 <p><form>gidlaw</form> <xr>= <sc>GINLAW</sc>.</xr>
 
@@ -726,7 +726,7 @@ Step four
 
 <p><form>giníya</form> <pos>n</pos> <tr>guinea fowl</tr>.
 
-<p><form>gíwaw</form> <pos>v</pos> <itype>[B; b6]</itype> start to appear or come out from behind a hiding place. <i>Migíwaw na ang adlaw sa pagmata nákù,</i> The sun had started to appear when I woke up. <i>Dì pa makagíwaw ang turuk sa pugas humay sa duha ka adlaw,</i> In two days the rice sprouts still won't have come out. <pos>n</pos> s.t. that has started to appear.
+<p><form>gíwaw</form> <pos>v</pos> <itype>[B; b6]</itype> start to appear or come out from behind a hiding place. <i>Migíwaw na ang adlaw sa pagmata nákù,</i> The sun had started to appear when I woke up. <i>Dì pa makagíwaw ang turuk sa pugas humay sa duha ka adlaw,</i> In two days the rice sprouts still won&apos;t have come out. <pos>n</pos> s.t. that has started to appear.
 
 <p><form>&dagger;grába</form> <pos>v</pos> <itype>[b5]</itype> pave with gravel.
 
@@ -736,18 +736,18 @@ Step four
 
 <p><form>gráyin</form> <pos>n</pos> k.o. dance characterized by grinding action. <pos>v</pos> <itype>[A]</itype> do the grind.
 
-<p><form>&dagger;gúlang</form> <form>ma-(&rarr;)</form> <number>3a</number> <formx>&mdash; sa hátag, pangáyù</formx> so cheap it is practically being given away, being asked for for nothing. <i>Kanang ímung hangyù maguwang lang sa pangáyù,</i> You're offering so little, you might as well just ask me to give it to you.
+<p><form>&dagger;gúlang</form> <form>ma-(&rarr;)</form> <number>3a</number> <formx>&mdash; sa hátag, pangáyù</formx> so cheap it is practically being given away, being asked for for nothing. <i>Kanang ímung hangyù maguwang lang sa pangáyù,</i> You&apos;re offering so little, you might as well just ask me to give it to you.
 
 <p><form>gús</form> <pos>n</pos> <tr>gauze</tr>.
 
-<p><form>gutì<sub>2</sub></form> <pos>a</pos> <tr>small</tr>. <i>Ang mga gutì kaáyung mga sigay maáyung isungkà,</i> The small cowries are good to play <ix>sungkà</ix> with. <pos>v</pos> <itype>[B; b6]</itype> be, become small in amount, size. <i>Mugutì (magutì) ang inyung kapital ug sigíhag útang,</i> You're going to run out of capital if you keep extending credit.
+<p><form>gutì<sub>2</sub></form> <pos>a</pos> <tr>small</tr>. <i>Ang mga gutì kaáyung mga sigay maáyung isungkà,</i> The small cowries are good to play <ix>sungkà</ix> with. <pos>v</pos> <itype>[B; b6]</itype> be, become small in amount, size. <i>Mugutì (magutì) ang inyung kapital ug sigíhag útang,</i> You&apos;re going to run out of capital if you keep extending credit.
 
 <p><form>gúwing istrit</form> <pos>v</pos> <itype>[B146]</itype> <tr>go straight</tr>, follow the straight and narrow. <i>Kaniadtu gibuguybugúyan níya ang pag-iskuyla, karun naggúwing istrit na siya,</i> He used to fool around with his studies, but now he is serious. a following the straight and narrow.
 
 
 <p><form>hábir sak</form> <pos>n</pos> <tr>knapsack</tr>.
 
-<p><form>&dagger;hagkut &mdash; ug kamut</form> <tr>light-fingered</tr>. <i>Ayaw isayàsayà ang ímung kwarta kay hagkut ra bag kamut ang mga mutsatsa dinhi,</i> Don't leave your money around because the maids around here are light-fingered.
+<p><form>&dagger;hagkut &mdash; ug kamut</form> <tr>light-fingered</tr>. <i>Ayaw isayàsayà ang ímung kwarta kay hagkut ra bag kamut ang mga mutsatsa dinhi,</i> Don&apos;t leave your money around because the maids around here are light-fingered.
 
 <p><form>hàhà</form> <pos>v</pos> <itype>[A; b6]</itype> clean s.t. in water by swishing it around. <i>Ákù nang gihàháan ang mga piníkas nga isdà,</i> I swished the split fish around in the sea to clean them.
 
@@ -759,7 +759,7 @@ Step four
 
 <p><form>halíya</form> <pos>n</pos> <tr>jelly</tr>, <tr>jam</tr>. <pos>v</pos> <itype>[A1; a2]</itype> make a fruit jelly.
 
-<p><form>haltir</form> <pos>n</pos> women's upper garment designed like a <tr>halter</tr>. <pos>v</pos> <itype>[A; c1]</itype> make into this sort of garment.
+<p><form>haltir</form> <pos>n</pos> women&apos;s upper garment designed like a <tr>halter</tr>. <pos>v</pos> <itype>[A; c1]</itype> make into this sort of garment.
 
 <p><form>hambù</form> <xr>= <sc>HAMBUK</sc>.</xr>
 
@@ -769,7 +769,7 @@ Step four
 
 <p><form>hantir</form> <pos>a</pos> <tr>sharpshooter</tr>. <i>Hantir kaáyu siya. Makaigù ug langgam nga maglupad,</i> He is a <tr>good shot</tr>. He can fell a bird on the wing.
 
-<p><form>hapaag</form> <pos>v</pos> <itype>[A; b5]</itype> playfully jump on s.o. <i>Natumba ming duha kay mihapaag man siya nákù nga walà ku kabantay,</i> We both fell to the ground because he jumped on me when I wasn't looking.
+<p><form>hapaag</form> <pos>v</pos> <itype>[A; b5]</itype> playfully jump on s.o. <i>Natumba ming duha kay mihapaag man siya nákù nga walà ku kabantay,</i> We both fell to the ground because he jumped on me when I wasn&apos;t looking.
 
 <pb n=1152>
 
@@ -783,17 +783,17 @@ Step four
 
 <p><form>&dagger;haum</form> <pos>v</pos> <number>1</number> <itype>[A23]</itype> apply aptly. <i>Pangartíyu sa bálak sa ininglis nga muhaum sa pamálak nga binisayà,</i> Techniques in writing English poetry that are applicable as well to Visayan poetry.
 
-<p><form>háwung</form> <pos>v</pos> <number>1</number> <itype>[A; a123]</itype> <tr>rekindle</tr> s.t. smouldering to produce a flame. <i>Hawnga tung káyu kay maglung-ag na ta,</i> Rekindle the fire because we are going to cook rice now. <number>2</number> encourage s.o.'s burning interest or desire of s.t. <i>Ang íyang pag-apil-apil sa dráma nakahawung sa íyang tingúhà nga maartista,</i> Her parts in small plays fanned her interest in becoming an actress.
+<p><form>háwung</form> <pos>v</pos> <number>1</number> <itype>[A; a123]</itype> <tr>rekindle</tr> s.t. smouldering to produce a flame. <i>Hawnga tung káyu kay maglung-ag na ta,</i> Rekindle the fire because we are going to cook rice now. <number>2</number> encourage s.o.&apos;s burning interest or desire of s.t. <i>Ang íyang pag-apil-apil sa dráma nakahawung sa íyang tingúhà nga maartista,</i> Her parts in small plays fanned her interest in becoming an actress.
 
-<p><form>hibul</form> <pos>v</pos> <itype>[AN; b6]</itype> dress a chicken. <i>Ákung hibulan ang manuk nga ímung giíhaw,</i> I'll dress the chicken that you killed.
+<p><form>hibul</form> <pos>v</pos> <itype>[AN; b6]</itype> dress a chicken. <i>Ákung hibulan ang manuk nga ímung giíhaw,</i> I&apos;ll dress the chicken that you killed.
 
-<p><form>hidláyin</form> <pos>n</pos> <tr>headlines</tr> of a newspaper. <pos>v</pos> <itype>[B126; c1]</itype> be in the headlines of a newspaper. <i>Nahidlayin ang kamatáyun ni Kinidi,</i> President Kennedy's death was in the headlines.
+<p><form>hidláyin</form> <pos>n</pos> <tr>headlines</tr> of a newspaper. <pos>v</pos> <itype>[B126; c1]</itype> be in the headlines of a newspaper. <i>Nahidlayin ang kamatáyun ni Kinidi,</i> President Kennedy&apos;s death was in the headlines.
 
 <p><form>híkaw<sub>3</sub></form> <pos>n</pos> <tr>bracelet</tr>.
 
 <p><form>&dagger;híkug</form> <pos>n</pos> <tr>suicide</tr>.
 
-<p><form>hinhin<sub>2</sub></form> <pos>a</pos> women <tr>refined</tr> and <tr>delicate</tr> in manners (colloquial). <form>pa-</form> <pos>v</pos> <itype>[A1]</itype> behave gently and @<corr sic=refinely>refinedly</corr>. <i>Bágis kaáyu nang bayhána apan magpahinhin dáyun igpamisíta sa íyang trátu,</i> She's a rough sort of woman, but when her boy friend calls on her, she is ever so delicate.
+<p><form>hinhin<sub>2</sub></form> <pos>a</pos> women <tr>refined</tr> and <tr>delicate</tr> in manners (colloquial). <form>pa-</form> <pos>v</pos> <itype>[A1]</itype> behave gently and <tr><corr sic=refinely>refinedly</corr></tr>. <i>Bágis kaáyu nang bayhána apan magpahinhin dáyun igpamisíta sa íyang trátu,</i> She&apos;s a rough sort of woman, but when her boy friend calls on her, she is ever so delicate.
 
 <p><form>&dagger;hitak hitakhitak</form> <pos>v</pos> <itype>[A13; b(1)]</itype> play around in the mud, jumping around in it or walking back and forth in it.
 
@@ -805,19 +805,19 @@ Step four
 
 <p><form>hubashúbas</form> <pos>a</pos> money coming and going at irregular intervals. <i>Hubashúbas ning panápì sa sugarul,</i> For gamblers, money comes and goes at irregular intervals. <pos>v</pos> <itype>[A3]</itype> for money to come and go at irregular intervals.
 
-<p><form>&dagger;hulam</form> <pos>v</pos> <number>3</number> <itype>[A; b5]</itype> develop uncultivated land belonging to s.o. else and cultivate it without sharing with the owner. <i>Hulamun (hulaman) nákù ang ímung lasang ug napúlù ka túig,</i> I'll clear your forest and cultivate it for ten years without sharing.
+<p><form>&dagger;hulam</form> <pos>v</pos> <number>3</number> <itype>[A; b5]</itype> develop uncultivated land belonging to s.o. else and cultivate it without sharing with the owner. <i>Hulamun (hulaman) nákù ang ímung lasang ug napúlù ka túig,</i> I&apos;ll clear your forest and cultivate it for ten years without sharing.
 
-<p><form>&dagger;hulat</form> <pos>v</pos> <number>4</number> <itype>[c6]</itype> set s.t. aside to have it in readiness for an event or suitable occasion. <i>Ayawg ibaligyà! Ihulat ug maáyung prisyu!</i> Don't sell it! Keep it in readiness until you can get a good price for it.
+<p><form>&dagger;hulat</form> <pos>v</pos> <number>4</number> <itype>[c6]</itype> set s.t. aside to have it in readiness for an event or suitable occasion. <i>Ayawg ibaligyà! Ihulat ug maáyung prisyu!</i> Don&apos;t sell it! Keep it in readiness until you can get a good price for it.
 
-<p><form>hulbut sínaw</form> <pos>n</pos> <tr>sexual intercourse</tr> (humorous allusion&mdash;word play on English &lsquo;All boats are in the sea now&rsquo;&mdash;lit. pull it out, it's glistening). <i>Hulbut sínaw sa buntag?</i> Doing &lsquo;it&rsquo; in the morning? <pos>v</pos> <itype>[C]</itype> do the <ix>hulbut sínaw</ix>.
+<p><form>hulbut sínaw</form> <pos>n</pos> <tr>sexual intercourse</tr> (humorous allusion&mdash;word play on English &lsquo;All boats are in the sea now&rsquo;&mdash;lit. pull it out, it&apos;s glistening). <i>Hulbut sínaw sa buntag?</i> Doing &lsquo;it&rsquo; in the morning? <pos>v</pos> <itype>[C]</itype> do the <ix>hulbut sínaw</ix>.
 
 <p><form>hulstir</form> <pos>n</pos> <tr>holster</tr>. <pos>v</pos> <itype>[A; b6]</itype> use a <tr>holster</tr>, put in a holster.
 
 <p><form>&dagger;hulughúlug</form> <xr>= <sc>BÙBUAY</sc>.</xr> <ix>see</ix> <xr><sc>BÙBÙ</sc>.</xr>
 
-<p><form>&dagger;hulungíhung</form> <pos>v</pos> <itype>[a12]</itype> be <tr>rumored</tr>. <i>Gihulungíhung nga makadawat kitag búnus,</i> There's a <tr>rumor</tr> going around that we're going to get a bonus.
+<p><form>&dagger;hulungíhung</form> <pos>v</pos> <itype>[a12]</itype> be <tr>rumored</tr>. <i>Gihulungíhung nga makadawat kitag búnus,</i> There&apos;s a <tr>rumor</tr> going around that we&apos;re going to get a bonus.
 
-<p><form>hurn&acaron;l</form> <pos>n</pos> a <tr>laborer</tr> who does odd, heavy manual work. <pos>v</pos> <itype>[B6; b6]</itype> do heavy, odd jobs. <i>Dì ku maghurn&acaron;l sa piyir kay bug-at kaáyu ang pangalsáhun,</i> I can't be a laborer at the pier because they make you carry terribly heavy things. <form>pa-</form> <pos>v</pos> <itype>[A; b6]</itype> hire s.o. to do <tr>heavy labor</tr>.
+<p><form>hurn&acaron;l</form> <pos>n</pos> a <tr>laborer</tr> who does odd, heavy manual work. <pos>v</pos> <itype>[B6; b6]</itype> do heavy, odd jobs. <i>Dì ku maghurn&acaron;l sa piyir kay bug-at kaáyu ang pangalsáhun,</i> I can&apos;t be a laborer at the pier because they make you carry terribly heavy things. <form>pa-</form> <pos>v</pos> <itype>[A; b6]</itype> hire s.o. to do <tr>heavy labor</tr>.
 
 <p><form>huswà<sub>2</sub></form> <pos>v</pos> <itype>[A2; b6]</itype> leave the bed undone after waking up. <i>Kining mga batáa mu rag mga úmang. Muhuswà lang sa ílang higdaánan inigmata,</i> These children are like hermit crabs. They leave their beds undone when they get up.
 
@@ -828,15 +828,15 @@ Step four
 
 <p><form>&dagger;igurut</form> <number>2</number> euphemism for <ix>ignuranti</ix>.
 
-<p><form>&dagger;ihap</form> <pos>v</pos> <itype>[b(1)]</itype> give s.o. a count to three to get going. <i>Iphan ta ka kay bunálan ta kag dì ka mulíhuk,</i> I'll count three. If you don't move, I'll whip you.
+<p><form>&dagger;ihap</form> <pos>v</pos> <itype>[b(1)]</itype> give s.o. a count to three to get going. <i>Iphan ta ka kay bunálan ta kag dì ka mulíhuk,</i> I&apos;ll count three. If you don&apos;t move, I&apos;ll whip you.
 
 <p><form>&dagger;íhì</form> <pos>n</pos> <number>2</number> liquid excretion of some worms and <corr sic=millepedes>millipedes</corr>. <i>Ang íhì sa labud makapásù kunu,</i> <pb n=1153>They say millepede excretions burn the skin.
 
 <p><form>*ikman</form> <form>tigúlang &mdash;</form> <pos>a</pos> a <tr>very old</tr> person.
 
-<p><form>&dagger;ikstra bágids</form> <pos>n</pos> third party when there is a couple (humorous). <pos>v</pos> <itype>[B126]</itype> be a third party. <i>Ayawg uban kay maikstra bágids ka,</i> Don't come with us because two is a company, three is a crowd. <form>-lards</form> <pos>n</pos> extra large size.
+<p><form>&dagger;ikstra bágids</form> <pos>n</pos> third party when there is a couple (humorous). <pos>v</pos> <itype>[B126]</itype> be a third party. <i>Ayawg uban kay maikstra bágids ka,</i> Don&apos;t come with us because two is a company, three is a crowd. <form>-lards</form> <pos>n</pos> extra large size.
 
-<p><form>&dagger;ila<sub>1</sub></form> <pos>v</pos> <number>4a</number> <formx>dílì, walà &mdash;</formx> <itype>[A23]</itype> not mind, take into consideration as s.t. worth noting. <i>Trabahanti nga walà muilag ulag ínit paghuman sa taytáyan,</i> Workers that didn't mind the rain and heat in building the bridge.
+<p><form>&dagger;ila<sub>1</sub></form> <pos>v</pos> <number>4a</number> <formx>dílì, walà &mdash;</formx> <itype>[A23]</itype> not mind, take into consideration as s.t. worth noting. <i>Trabahanti nga walà muilag ulag ínit paghuman sa taytáyan,</i> Workers that didn&apos;t mind the rain and heat in building the bridge.
 
 <p><form>ilidyitimit</form> <pos>n</pos> <tr>illegitimate child</tr>. <pos>v</pos> <itype>[B1256]</itype> be an illegitimate child.
 
@@ -870,7 +870,7 @@ Step four
 
 <p><form>instraktur</form> <pos>n</pos> <tr>school instructor</tr>. <pos>v</pos> <itype>[B156]</itype> be, become a school instructor.
 
-<p><form>instrumintal</form> <pos>n</pos> <tr>instrumental</tr> (as opposed to a vocal) musical number. <i>Instrumintal na puy ákung ipatukar,</i> I'll put on an instrumental number this time.
+<p><form>instrumintal</form> <pos>n</pos> <tr>instrumental</tr> (as opposed to a vocal) musical number. <i>Instrumintal na puy ákung ipatukar,</i> I&apos;ll put on an instrumental number this time.
 
 <p><form>&dagger;insultu insultadur</form> <pos>a</pos> given to insulting people.
 
@@ -878,7 +878,7 @@ Step four
 
 <p><form>intrabínus</form> <pos>n</pos> <tr>intravenous</tr> feeding or injection. <pos>v</pos> <itype>[A; a1]</itype> give an <tr>intravenous injection</tr>.
 
-<p><form>&dagger;intráda</form> <pos>n</pos> <number>6</number> the coming-in of an accompanying instrument. <i>Sayup ang ímung intráda. Nag-una ka ra sa tayming,</i> You didn't come in right. You were ahead of the beat.
+<p><form>&dagger;intráda</form> <pos>n</pos> <number>6</number> the coming-in of an accompanying instrument. <i>Sayup ang ímung intráda. Nag-una ka ra sa tayming,</i> You didn&apos;t come in right. You were ahead of the beat.
 
 <p><form>ip-is</form> <pos>n</pos> surplus navy ships used for inter-island shipping (so called from the legend <xr><sc>FS</sc></xr> painted on the sides).
 
@@ -894,7 +894,7 @@ Step four
 
 <p><form>ispiktur</form> <xr>= <sc>INSPIKTUR</sc>.</xr>
 
-<p><form>&dagger;ispiritu</form> <pos>n</pos> <number>3</number> <formx>walay &mdash;</formx> <tr>lifeless</tr>, without spirit. <i>Walay ispiritung ikasulti,</i> A person who doesn't react when one talks to him.
+<p><form>&dagger;ispiritu</form> <pos>n</pos> <number>3</number> <formx>walay &mdash;</formx> <tr>lifeless</tr>, without spirit. <i>Walay ispiritung ikasulti,</i> A person who doesn&apos;t react when one talks to him.
 
 <p><form>&dagger;ispisyal &mdash; minsiyun</form> having <tr>especial mention</tr>, getting publicity for s.t. <pos>v</pos> <itype>[B126; a1]</itype> get publicly mentioned. <i>Naúlaw siya nga naispisyal minsiyun ang íyang pagkaismaglir,</i> He was embarrassed to hear his name mentioned in connection with smuggling.
 
@@ -906,7 +906,7 @@ Step four
 
 <p><form>istínu</form> <pos>n</pos> <tr>stenography</tr>. <pos>v</pos> <itype>[A; c1]</itype> write in <tr>shorthand</tr>.
 
-<p><form>istraglir</form> <pos>n</pos> an outsider who mingles with a group, one who doesn't belong to a group (humorous). <i>Nakúlang ang pagkáun sa parti kay dúnay daghang istraglir,</i> There wasn't enough food at the party because there were so many <tr>gate-crashers</tr>. <pos>v</pos> <itype>[B156]</itype> be a gate-crasher, go with a group one does not belong to.
+<p><form>istraglir</form> <pos>n</pos> an outsider who mingles with a group, one who doesn&apos;t belong to a group (humorous). <i>Nakúlang ang pagkáun sa parti kay dúnay daghang istraglir,</i> There wasn&apos;t enough food at the party because there were so many <tr>gate-crashers</tr>. <pos>v</pos> <itype>[B156]</itype> be a gate-crasher, go with a group one does not belong to.
 
 <p><form>istritkat</form> <pos>n</pos> straight cut pants. <pos>v</pos> <itype>[c16]</itype> tailor trousers in the straight cut style.
 
@@ -929,19 +929,19 @@ Step four
 
 <p><form>kampíhì</form> <pos>n</pos> k.o. tiny <tr>crab</tr> of the sand with one pincer considerably larger than the other.
 
-<p><form>kantar</form> <pos>v</pos> <number>1</number> <itype>[A; c6]</itype> call s.t. out loud to notify people within earshot. <i>Kinsa kadtung ngálan ang ikantar dúul,</i> Whoever's name is <tr>called out</tr>, come forward. <number>2</number> <itype>[c6]</itype> for documents, letters or any official paper to state s.t. <i>Ang gikantar sa papílis mau nga akuy tag-íya sa yútà,</i> The document states that I am the owner of the land.
+<p><form>kantar</form> <pos>v</pos> <number>1</number> <itype>[A; c6]</itype> call s.t. out loud to notify people within earshot. <i>Kinsa kadtung ngálan ang ikantar dúul,</i> Whoever&apos;s name is <tr>called out</tr>, come forward. <number>2</number> <itype>[c6]</itype> for documents, letters or any official paper to state s.t. <i>Ang gikantar sa papílis mau nga akuy tag-íya sa yútà,</i> The document states that I am the owner of the land.
 
 <p><form>kanugkug</form> <pos>v</pos> <itype>[A]</itype> <tr>roar</tr> with a low, continuous rumble. <i>Mga kany&ucaron;n nga nagkanugkug pagbumbardíyu sa baybay,</i> Thundering cannons shelling the shore.
 
 <p><form>karapkarap</form> <xr>= <sc>KURAPKURAP</sc>.</xr>
 
-<p><form>kárat</form> <pos>n</pos> <number>1</number> <tr>carat</tr>, unit of weight of precious stones or metals. <number>2</number> <formx>may, walay &mdash;</formx> having (not having) money. <i>Gwápa untà siya apan way kárat,</i> She is beautiful but she doesn't have a cent.
+<p><form>kárat</form> <pos>n</pos> <number>1</number> <tr>carat</tr>, unit of weight of precious stones or metals. <number>2</number> <formx>may, walay &mdash;</formx> having (not having) money. <i>Gwápa untà siya apan way kárat,</i> She is beautiful but she doesn&apos;t have a cent.
 
 <p><form>&dagger;karbun</form> <pos>n</pos> <number>3</number> a black speck in a diamond, considered a flaw in the stone.
 
 <p><form>&dagger;karta -s</form> <tr>cards</tr>, <tr>mahjong pieces</tr> (plural).
 
-<p><form>kas-a<sub>2</sub></form> <pos>v</pos> <itype>[A; b5]</itype> tell s.o. frankly. <i>Kas-aha (kas-ahi) ug sulti arun dì magdahum nga gastúhan siya sa íyang pag-iskuyla,</i> Tell him frankly not to count on our sending him to school because we don't have the money to do so.
+<p><form>kas-a<sub>2</sub></form> <pos>v</pos> <itype>[A; b5]</itype> tell s.o. frankly. <i>Kas-aha (kas-ahi) ug sulti arun dì magdahum nga gastúhan siya sa íyang pag-iskuyla,</i> Tell him frankly not to count on our sending him to school because we don&apos;t have the money to do so.
 
 <p><form>kásir</form> <pos>n</pos> <tr>cashier</tr>. <pos>v</pos> <itype>[B126; b6]</itype> have, be, become a cashier.
 
@@ -961,13 +961,13 @@ Step four
 
 <p><form>kimúnu</form> <pos>n</pos> k.o. <tr>sweat jacket</tr> used in judo or karate. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> wear a <ix>kimúnu</ix>. <number>2</number> <itype>[a12]</itype> make into a <ix>kimúnu</ix>.
 
-<p><form>kiwat</form> <pos>v</pos> <itype>[b8]</itype> be hit with the tip of a slender object. <i>Ayawg ikiwatkíwat nang rúlir kay hikiwatan ta,</i> Don't wave the ruler around. We might be hit. <form>kiwatkíwat</form> <pos>v</pos> <itype>[c]</itype> wave slender objects about.
+<p><form>kiwat</form> <pos>v</pos> <itype>[b8]</itype> be hit with the tip of a slender object. <i>Ayawg ikiwatkíwat nang rúlir kay hikiwatan ta,</i> Don&apos;t wave the ruler around. We might be hit. <form>kiwatkíwat</form> <pos>v</pos> <itype>[c]</itype> wave slender objects about.
 
 <p><form>krak<sub>3</sub></form> <pos>a</pos> crack company in military training. <pos>v</pos> <itype>[B; c1]</itype> be, become a crack company.
 
 <p><form>krak<sub>4</sub></form> <pos>v</pos> <itype>[A; a]</itype> work a handgun mechanism to make it ready for firing, usually with a clicking round. <pos>n</pos> sound of the <tr>cocking</tr> of a rifle.
 
-<p><form>&dagger;krismas</form> <pos>v</pos> <number>2</number> <itype>[B146]</itype> put up Christmas decorations. <i>Krísis kaáyu ta karung tuíga. Dì lang ta magkrismas,</i> We don't have any money this year, so let's not put up any decorations.
+<p><form>&dagger;krismas</form> <pos>v</pos> <number>2</number> <itype>[B146]</itype> put up Christmas decorations. <i>Krísis kaáyu ta karung tuíga. Dì lang ta magkrismas,</i> We don&apos;t have any money this year, so let&apos;s not put up any decorations.
 
 <p><form>&dagger;Kristu</form> <pos>n</pos> <tr>Christ</tr> in his various roles. <form>Ang -ng Diyus</form> <tr>Christ God</tr>. <form>Ang -ng Hárì</form> <tr>Christ the King</tr>. <form>-ng Hisus</form> <tr>Jesus Christ</tr>. <form>-ng manunúbus</form> <tr>Christ, the savior</tr>.
 
@@ -975,9 +975,9 @@ Step four
 
 <p><form>kudlungun</form> <pos>n</pos> k.o. marine <tr>crab</tr>, poisonous to eat, growing to 4&Prime;, having fine hair on the legs and having uneven bulges at the back.
 
-<p><form>&dagger;kúgi kinugíhan</form> <pos>n</pos> <number>2</number> one's children (humorous).
+<p><form>&dagger;kúgi kinugíhan</form> <pos>n</pos> <number>2</number> one&apos;s children (humorous).
 
-<p><form>&dagger;kulasísi</form> <pos>n</pos> <number>2</number> husband's paramour. <pos>v</pos> <itype>[A1; c1]</itype> maintain a paramour.
+<p><form>&dagger;kulasísi</form> <pos>n</pos> <number>2</number> husband&apos;s paramour. <pos>v</pos> <itype>[A1; c1]</itype> maintain a paramour.
 
 <p><form>kulintas</form> <xr>= <sc>KWINTAS<sub>1</sub></sc>.</xr>
 
@@ -987,13 +987,13 @@ Step four
 
 <p><form>kumpay<sub>2</sub></form> <xr>= <sc>KÚPAY</sc>.</xr>
 
-<p><form>&dagger;kumpisal</form> <pos>v</pos> <number>3</number> <itype>[AN]</itype> <tr>defecate</tr> (humorous). <form>-an(&larr;), kumpisinaryu</form> <pos>n</pos> <number>2</number> <tr>toilet</tr> (humorous). <i>Túa pa sa kumpisálan,</i> She's still out back.
+<p><form>&dagger;kumpisal</form> <pos>v</pos> <number>3</number> <itype>[AN]</itype> <tr>defecate</tr> (humorous). <form>-an(&larr;), kumpisinaryu</form> <pos>n</pos> <number>2</number> <tr>toilet</tr> (humorous). <i>Túa pa sa kumpisálan,</i> She&apos;s still out back.
 
 <p><form>kumpus pit</form> <pos>n</pos> <tr>compost pit</tr>.
 
 <p><form>kunbinsyun</form> <xr>= <sc>KUMBINSIYUN</sc>.</xr>
 
-<p><form>kunsirba<sub>2</sub>, kunsirb&acaron;r</form> <pos>v</pos> <itype>[A; a]</itype> <tr>conserve</tr> s.t. <i>Ákung kunsirbahun (kunsirbarun, ikunsirb&acaron;r) <pb n=1155>ang mga karáang mga butang sa ákung mga apuhan,</i> I'll save the old things which belong to my grandparents.
+<p><form>kunsirba<sub>2</sub>, kunsirb&acaron;r</form> <pos>v</pos> <itype>[A; a]</itype> <tr>conserve</tr> s.t. <i>Ákung kunsirbahun (kunsirbarun, ikunsirb&acaron;r) <pb n=1155>ang mga karáang mga butang sa ákung mga apuhan,</i> I&apos;ll save the old things which belong to my grandparents.
 
 <p><form>&dagger;kuntra &mdash; risíbu</form> <pos>n</pos> document entered upon to nullify a previous document. <pos>v</pos> <itype>[b(1)]</itype> execute a document of this sort. <i>Ámung gikuntra risibúhan ang dukumintu sa pálit,</i> We have executed a document nullifying the sale.
 
@@ -1006,15 +1006,15 @@ Step four
 
 <p><form>lagpat</form> <pos>v</pos> <itype>[A2; b8]</itype> do s.t. <tr>by chance</tr>, <tr>at random</tr>. <i>Hilagpatan kug pílì ang kukakúla nga may lakináyin,</i> I <tr>happened</tr> to choose the bottle of coke that had the lucky nine prize in the cap. <form>pa-</form> <pos>n</pos> s.t. done or said in guesswork. <i>Tubag nga palagpat básun na lag swirtihun,</i> Answer I just guessed at in the wild hope that it would come out to be right.
 
-<p><form>&dagger;lagus sa ímung, íyang &mdash;</form> expression of disbelief. <i>Unásis sa ímung lagus nga wà gánì tuy diyuy!</i> Onassis, <tr>my foot!</tr> He doesn't have a penny!
+<p><form>&dagger;lagus sa ímung, íyang &mdash;</form> expression of disbelief. <i>Unásis sa ímung lagus nga wà gánì tuy diyuy!</i> Onassis, <tr>my foot!</tr> He doesn&apos;t have a penny!
 
 <p><form>&dagger;lagut</form> <pos>v</pos> <number>3</number> <formx>walay gi-</formx> not have anything to eat. <i>Bisag way gilagut mutan-aw giyud ug sini,</i> Even when there is no money for food, she has to go to the show.
 
 <p><form>laksit</form> <xr>= <sc>LAKSÌ</sc>.</xr>
 
-<p><form>&dagger;lála</form> <pos>a</pos> <number>3</number> having destructive effects on plants. <i>Lálang háyup ang kanding kay dílì tubúan ang ílang sinibsiban,</i> Goats are destructive animals because they nibble at plants in such a way that they won't grow back.
+<p><form>&dagger;lála</form> <pos>a</pos> <number>3</number> having destructive effects on plants. <i>Lálang háyup ang kanding kay dílì tubúan ang ílang sinibsiban,</i> Goats are destructive animals because they nibble at plants in such a way that they won&apos;t grow back.
 
-<p><form>&dagger;lamánu</form> <pos>v</pos> <number>1a</number> <itype>[AC3]</itype> for couples to join their hands or have their hands joined in the wedding ceremony. <i>Nagkalamánu na ang gikasal sa dihang may mibábag,</i> The priest had already told the couple to take each other's hands when s.o. stopped the ceremony.
+<p><form>&dagger;lamánu</form> <pos>v</pos> <number>1a</number> <itype>[AC3]</itype> for couples to join their hands or have their hands joined in the wedding ceremony. <i>Nagkalamánu na ang gikasal sa dihang may mibábag,</i> The priest had already told the couple to take each other&apos;s hands when s.o. stopped the ceremony.
 
 <p><form>lampak</form> <pos>v</pos> <itype>[A; c1]</itype> for a bamboo tree to bend and crack but not break. <i>Lampákun (ilampak) sa hángin ang kawáyan,</i> The wind bends and cracks the bamboo tree.
 
@@ -1034,7 +1034,7 @@ Step four
 
 <p><form>libud</form> <pos>n</pos> k.o. very small <tr>fish</tr> having transparent flesh and dark-grey rings around its body.
 
-<p><form>&dagger;ligal</form> <form>&mdash; nga asáwa, bána, anak</form> <pos>a</pos> lawful wife, husband, <tr>legitimate child</tr>. <form>&mdash; nga siparasiyun</form> <tr>legal separation</tr>. <pos>v</pos> <itype>[A2; c1]</itype> make an agreement official. <i>Ligalun (iligal) nátù ning átung sábut,</i> We'll make our agreement official.
+<p><form>&dagger;ligal</form> <form>&mdash; nga asáwa, bána, anak</form> <pos>a</pos> lawful wife, husband, <tr>legitimate child</tr>. <form>&mdash; nga siparasiyun</form> <tr>legal separation</tr>. <pos>v</pos> <itype>[A2; c1]</itype> make an agreement official. <i>Ligalun (iligal) nátù ning átung sábut,</i> We&apos;ll make our agreement official.
 
 <p><form>&dagger;lígù paka- sa buláwan, pláta</form> <pos>v</pos> <itype>[a12]</itype> gold-, <tr>silver-plated</tr>. <form>pinaka- sa buláwan, pláta</form> gold-, silver-plated.
 
@@ -1046,7 +1046,7 @@ Step four
 
 <p><form>líup</form> <pos>v</pos> <itype>[A; c1]</itype> be <tr>laid off</tr> from work. <pos>n</pos> <number>1</number> one who has been laid off. <number>2</number> action of <tr>laying off</tr>. <form>&dagger;liwat ka-(&larr;)</form> <pos>n</pos> <number>2a</number> <formx>&mdash; ni Adan</formx> men as a group. <form>&mdash; ni Íbà</form> women as a group. <form>ka-an(&larr;)</form> <pos>n</pos> <xr>= <sc>KALÍWAT</sc>, <i>1.</i></xr>
 
-<p><form>&dagger;lublub</form> <pos>v</pos> <number>2a</number> <itype>[A13; b(1)]</itype> stay and <tr>live with</tr> s.o. for some time. <i>Túa na lang giyud maglublub si Lusyu sa íyang badyikdyik. Wà na lay uliúlì sa íla,</i> Lucio has finally gone to live with his woman. He doesn't bother going home any more.
+<p><form>&dagger;lublub</form> <pos>v</pos> <number>2a</number> <itype>[A13; b(1)]</itype> stay and <tr>live with</tr> s.o. for some time. <i>Túa na lang giyud maglublub si Lusyu sa íyang badyikdyik. Wà na lay uliúlì sa íla,</i> Lucio has finally gone to live with his woman. He doesn&apos;t bother going home any more.
 
 <p><form>lunghan</form> <pos>v</pos> <itype>[c1]</itype> write s.t. in <tr>longhand</tr>, as opposed to shorthand or in typewritten form.
 
@@ -1073,19 +1073,19 @@ Step four
 
 <p><form>&dagger;makinilya</form> <pos>v</pos> <number>3</number> <itype>[A; c1]</itype> use a windlass or winch to hoist s.t. <i>Nagmakinilya siya sa písì sa angkla,</i> He is winding the anchor line around the windlass.
 
-<p><form>mámaw</form> <pos>n</pos> <tr>bogeyman</tr>. <i>Ayawg kanáug sa sílung kay náay mámaw,</i> Don't go out because there is a bogeyman.
+<p><form>mámaw</form> <pos>n</pos> <tr>bogeyman</tr>. <i>Ayawg kanáug sa sílung kay náay mámaw,</i> Don&apos;t go out because there is a bogeyman.
 
 <p><form>Mandarin</form> <pos>n</pos> <tr>Mandarin</tr> Chinese.
 
 <p><form>manipistu</form> <pos>n</pos> <tr>manifesto</tr> of passengers or cargo on a boat or plane.
 
-<p><form>&dagger;manday</form> <number>2b</number> instead of doing what is expected. <i>Manday palitan ug sapátus, midílì núun. Minì,</i> Just when I was about to buy him a pair of shoes he didn't want any. The fool!
+<p><form>&dagger;manday</form> <number>2b</number> instead of doing what is expected. <i>Manday palitan ug sapátus, midílì núun. Minì,</i> Just when I was about to buy him a pair of shoes he didn&apos;t want any. The fool!
 
-<p><form>&dagger;mánu manumánu</form> <pos>v</pos> <number>1a</number> <itype>[A; b5]</itype> do s.t. <tr>by hand</tr> without the aid of mechanical devices. <i>Gimanumánu (gimanumanúhan) lang námù ning pagpanghulma ug halu blak,</i> We are molding the hollow blocks by hand. <number>2</number> <itype>[A; b5]</itype> do s.t. alone by oneself. <i>Aku ray mumanumánu sa ákung balay,</i> I'll build my house by myself.
+<p><form>&dagger;mánu manumánu</form> <pos>v</pos> <number>1a</number> <itype>[A; b5]</itype> do s.t. <tr>by hand</tr> without the aid of mechanical devices. <i>Gimanumánu (gimanumanúhan) lang námù ning pagpanghulma ug halu blak,</i> We are molding the hollow blocks by hand. <number>2</number> <itype>[A; b5]</itype> do s.t. alone by oneself. <i>Aku ray mumanumánu sa ákung balay,</i> I&apos;ll build my house by myself.
 
 <p><form>máping<sub>2</sub></form> <form>&mdash; upirisyun</form> <pos>v</pos> <itype>[A1]</itype> mop up after a battle wiping out the rest of the enemy force. <i>Nagmáping upirisyun ang Hapun sa búkid,</i> The Japanese had a mopping-up operation in the mountains. <pos>n</pos> mopping-up operation.
 
-<p><form>&dagger;Maríya</form> <form>&mdash; agwanta</form> the personification of a woman who is resistant to heavy work, punishment, abuse. <i>Ayaw ku paalsáha ug bug-at kay dílì ku si Maríya Agwanta,</i> Don't make me lift heavy objects because I'm not Maria Agwanta.
+<p><form>&dagger;Maríya</form> <form>&mdash; agwanta</form> the personification of a woman who is resistant to heavy work, punishment, abuse. <i>Ayaw ku paalsáha ug bug-at kay dílì ku si Maríya Agwanta,</i> Don&apos;t make me lift heavy objects because I&apos;m not Maria Agwanta.
 
 <p><form>martinis, martínis</form> <pos>n</pos> variety of <ix>bisul</ix> with purplish, compact meat.
 
@@ -1095,13 +1095,13 @@ Step four
 
 <p><form>mawmaw</form> <xr>= <sc>MÁMAW</sc>.</xr>
 
-<p><form>&dagger;midiya</form> <form>&mdash; lútu</form> <pos>n</pos> mourning halfway with black and white clothing. <pos>v</pos> <itype>[A; c1]</itype> be in halfway mourning. <i>Magmidiya lútu ku human sa tulu ka búlan sa pagkamatay sa ákung amahan,</i> I'll go out of full mourning three months after my father's death.
+<p><form>&dagger;midiya</form> <form>&mdash; lútu</form> <pos>n</pos> mourning halfway with black and white clothing. <pos>v</pos> <itype>[A; c1]</itype> be in halfway mourning. <i>Magmidiya lútu ku human sa tulu ka búlan sa pagkamatay sa ákung amahan,</i> I&apos;ll go out of full mourning three months after my father&apos;s death.
 
 <p><form>míni</form> <xr>= <sc>MINISKIRT</sc>.</xr>
 
 <p><form>&dagger;min-ibint</form> <note>confirm space</note><form>-ir</form> <pos>n</pos> <number>1</number> the boxer of the main bout. <number>2</number> the chief protagonist in a fight or quarrel (humorous).
 
-<p><form>minimu<sub>1</sub></form> <pos>n</pos> minimum amount or quantity. <pos>v</pos> <itype>[A; c]</itype> do s.t. to a certain amount as the minimum. <i>Kun muminimu (makaminimu) tag hálig usa ka líbu matag adlaw dílì ta maalkansi,</i> If we could make a sale of at least one thousand pesos a day, we won't lose. <i>Sa byáhi kinahanglang iminimu ang ímung gastu bwáhan dílì ka mahutdan,</i> When you travel, keep your expenses to the minimum so you won't run out.
+<p><form>minimu<sub>1</sub></form> <pos>n</pos> minimum amount or quantity. <pos>v</pos> <itype>[A; c]</itype> do s.t. to a certain amount as the minimum. <i>Kun muminimu (makaminimu) tag hálig usa ka líbu matag adlaw dílì ta maalkansi,</i> If we could make a sale of at least one thousand pesos a day, we won&apos;t lose. <i>Sa byáhi kinahanglang iminimu ang ímung gastu bwáhan dílì ka mahutdan,</i> When you travel, keep your expenses to the minimum so you won&apos;t run out.
 
 <p><form>miringgi<sub>2</sub></form> female genitalia of a child (humorous).
 
@@ -1117,11 +1117,11 @@ Step four
 
 <p><form>nárik</form> <pos>n</pos> relief clothing, used or second-hand clothing from the States (humorous).
 
-<p><form>&dagger;natural</form> <pos>v</pos> <number>2</number> <itype>[c1]</itype> do s.t. in one's natural way. <i>Inatural (naturala) lang pagkanta. Ayaw <pb n=1157>ipanundug ni Prank Sinatra,</i> Just sing it your own natural way. Don't imitate Frank Sinatra.
+<p><form>&dagger;natural</form> <pos>v</pos> <number>2</number> <itype>[c1]</itype> do s.t. in one&apos;s natural way. <i>Inatural (naturala) lang pagkanta. Ayaw <pb n=1157>ipanundug ni Prank Sinatra,</i> Just sing it your own natural way. Don&apos;t imitate Frank Sinatra.
 
 <p><form>nayitgáwun</form> <pos>n</pos> <tr>nightgown</tr>. <pos>v</pos> <itype>[A; c1]</itype> wear, make into a nightgown.
 
-<p><form>&dagger;ngísi</form> <number>1a</number> <formx>nagngisi mu rag búhì</formx> <pos>v</pos> <itype>[B2S]</itype> <tr>grin</tr> stupidly. <i>Wang kasabut sa gisúgù maung nagngisi mu rag búhì,</i> He didn't understand the order, so he is grinning stupidly. &dagger;
+<p><form>&dagger;ngísi</form> <number>1a</number> <formx>nagngisi mu rag búhì</formx> <pos>v</pos> <itype>[B2S]</itype> <tr>grin</tr> stupidly. <i>Wang kasabut sa gisúgù maung nagngisi mu rag búhì,</i> He didn&apos;t understand the order, so he is grinning stupidly. &dagger;
 
 <p><form>ninya buníta</form> <xr>= <sc>NINYU BUNÍTU</sc> (female).</xr> <xr><ix>see</ix> <sc>NINYU</sc>.</xr>
 
@@ -1133,9 +1133,9 @@ Step four
 
 <p><form>&dagger;nutaryu</form> <form>&mdash; publiku</form> <pos>n</pos> <tr>notary public</tr>. <pos>v</pos> <itype>[B16]</itype> be, become a notary public.
 
-<p><form>&dagger;pabur</form> <form>-abli</form> <pos>a</pos> <number>1</number> <tr>favorable</tr>. <number>2</number> <tr>in favor</tr>. <i>Paburabli kaáyu ku sa ímung mga plánu,</i> I'm very favorable to your plans. <pos>v</pos> <itype>[B12; b6]</itype> <number>1</number> be <tr>advantageous</tr> or favorable to. <i>Ug mapaburabli ang hángin sayu tang muabut sa píkas isla,</i> If the wind is favorable we'll get to the other island quickly. <number>2</number> be in favor of s.t.
+<p><form>&dagger;pabur</form> <form>-abli</form> <pos>a</pos> <number>1</number> <tr>favorable</tr>. <number>2</number> <tr>in favor</tr>. <i>Paburabli kaáyu ku sa ímung mga plánu,</i> I&apos;m very favorable to your plans. <pos>v</pos> <itype>[B12; b6]</itype> <number>1</number> be <tr>advantageous</tr> or favorable to. <i>Ug mapaburabli ang hángin sayu tang muabut sa píkas isla,</i> If the wind is favorable we&apos;ll get to the other island quickly. <number>2</number> be in favor of s.t.
 
-<p><form>&dagger;paka-</form> <number>1a</number> added to nouns to form verbs meaning &lsquo;assert oneself, act like a [noun]&rsquo;. <i>Kay dì ka man kirída magpakaasáwa ka,</i> You are not a paramour, so assert your rights as a wife. <i>Pagpakamagulang. Buyaga ang ímung manghud,</i> Show you're the older brother. Tell your younger brother to stop doing it.
+<p><form>&dagger;paka-</form> <number>1a</number> added to nouns to form verbs meaning &lsquo;assert oneself, act like a [noun]&rsquo;. <i>Kay dì ka man kirída magpakaasáwa ka,</i> You are not a paramour, so assert your rights as a wife. <i>Pagpakamagulang. Buyaga ang ímung manghud,</i> Show you&apos;re the older brother. Tell your younger brother to stop doing it.
 
 <p><form>pakbit</form> <pos>n</pos> dish of vegetables and meat with gravy, originating with the Ilocanos. <pos>v</pos> <itype>[A; c1]</itype> make, have <ix>pakbit</ix>. <form>-in-</form> <xr>= <sc>PAKBIT</sc>.</xr>
 
@@ -1147,7 +1147,7 @@ Step four
 
 <p><form>palsi walsi</form> <pos>a</pos> be palsy walsy. <pos>v</pos> <itype>[B; b6]</itype> be, become palsy-walsy.
 
-<p><form>&dagger;palu</form> <form>alúlung &mdash;</form> (not without <ix>l</ix>) expression of derision said to s.o. whose request was denied. <i>Alúlung palu. Wà siya tugtis pagsúruy,</i> Nma, nma, nma. You weren't allowed to go out.
+<p><form>&dagger;palu</form> <form>alúlung &mdash;</form> (not without <ix>l</ix>) expression of derision said to s.o. whose request was denied. <i>Alúlung palu. Wà siya tugtis pagsúruy,</i> Nma, nma, nma. You weren&apos;t allowed to go out.
 
 <p><form>&dagger;pamínaw</form> <pos>v</pos> <itype>[A2]</itype> for a treatment or medicine to give temporary relief. <i>Ígù lang mamínaw ug kadiyut sa sakit kining ákung tambal,</i> This medicine just gives me temporary relief.
 
@@ -1169,15 +1169,15 @@ Step four
 
 <p><form>&dagger;pasku</form> <form>&mdash; sa pagkatáwu</form> <pos>n</pos> the <tr>Nativity</tr>.
 
-<p><form>pasyandu</form> <pos>v</pos> <itype>[A]</itype> take a leisurely walk when one is supposed to be doing s.t. <i>Uy, mupasyandu giyud ku. Dì bitaw mudágan nang búhat,</i> I'm going for a walk. Anyway, the work won't run away. <form>&mdash; dulur pakítà sa balur</form> <pos>v</pos> <itype>[A]</itype> walk about for want of anything better to do. <i>Human na mang iksámin, dì magpasyandu dulur magpakítà sa balur,</i> The examination is over so now I can just stroll about.
+<p><form>pasyandu</form> <pos>v</pos> <itype>[A]</itype> take a leisurely walk when one is supposed to be doing s.t. <i>Uy, mupasyandu giyud ku. Dì bitaw mudágan nang búhat,</i> I&apos;m going for a walk. Anyway, the work won&apos;t run away. <form>&mdash; dulur pakítà sa balur</form> <pos>v</pos> <itype>[A]</itype> walk about for want of anything better to do. <i>Human na mang iksámin, dì magpasyandu dulur magpakítà sa balur,</i> The examination is over so now I can just stroll about.
 
 <p><form>&dagger;patr&ucaron;n midyur, maynur &mdash;</form> <pos>n</pos> a <tr>captain</tr> of a small passenger or cargo boat. <pos>v</pos> <itype>[B6; c1]</itype> be, become a captain of this sort.
 
 <p><form>&dagger;pílay</form> <form>-in-</form> <pos>n</pos> hair style with the hair parted in the middle and laid flat to the sides.
 
-<p><form>&dagger;pildi</form> <pos>v</pos> <number>4</number> <itype>[A12; a3]</itype> break s.t., usually of ordinary value. <i>Ayawg dulái nà kay makapildi ka, wà kay ibáyad,</i> Don't play with that because you have no money to pay for it if you break it.
+<p><form>&dagger;pildi</form> <pos>v</pos> <number>4</number> <itype>[A12; a3]</itype> break s.t., usually of ordinary value. <i>Ayawg dulái nà kay makapildi ka, wà kay ibáyad,</i> Don&apos;t play with that because you have no money to pay for it if you break it.
 
-<p><form>&dagger;pilit</form> <pos>a</pos> <number>2</number> for mechanisms to hold or function efficiently. <i>Pilit ug brík ang íyang awtu,</i> His car's brakes function efficiently.
+<p><form>&dagger;pilit</form> <pos>a</pos> <number>2</number> for mechanisms to hold or function efficiently. <i>Pilit ug brík ang íyang awtu,</i> His car&apos;s brakes function efficiently.
 
 <p><form>pinakbit</form> <xr>= <sc>PAKBIT</sc>.</xr>
 
@@ -1197,15 +1197,15 @@ Step four
 
 <p><form>pungaw</form> <pos>n</pos> k.o. <tr>owl</tr>.
 
-<p><form>&dagger;pungkù</form> <xr>= <sc>LINGKUD</sc>, <i>v4.</i></xr> <pos>a</pos> squat (used only in set phrases). <form>&mdash; ug ilung</form> <pos>a</pos> for a nose to be squat. <i>Ilung ray gadakù ánang putúta kay pungkù kaáyu,</i> Everything is diminutive in that midget except his squat nose. <form>&mdash; ug tútuy</form> <pos>a</pos> for breasts to be firm. <i>Pungkù ug tútuy ang babáyi basta dì pa manganak,</i> A woman's breasts are firm before she has a baby. <pos>v</pos> <itype>[B12]</itype> for breasts to become firm.
+<p><form>&dagger;pungkù</form> <xr>= <sc>LINGKUD</sc>, <i>v4.</i></xr> <pos>a</pos> squat (used only in set phrases). <form>&mdash; ug ilung</form> <pos>a</pos> for a nose to be squat. <i>Ilung ray gadakù ánang putúta kay pungkù kaáyu,</i> Everything is diminutive in that midget except his squat nose. <form>&mdash; ug tútuy</form> <pos>a</pos> for breasts to be firm. <i>Pungkù ug tútuy ang babáyi basta dì pa manganak,</i> A woman&apos;s breasts are firm before she has a baby. <pos>v</pos> <itype>[B12]</itype> for breasts to become firm.
 
-<p><form>&dagger;puphu</form> <pos>v</pos> <number>2a</number> <itype>[A12; a3]</itype> acquire, get s.t. exclusively of the sort several people would normally share. <i>Ang bugtung anak mauy nakapuphu sa pagkabutangs tigúlang,</i> The only son inherited the old man's estate.
+<p><form>&dagger;puphu</form> <pos>v</pos> <number>2a</number> <itype>[A12; a3]</itype> acquire, get s.t. exclusively of the sort several people would normally share. <i>Ang bugtung anak mauy nakapuphu sa pagkabutangs tigúlang,</i> The only son inherited the old man&apos;s estate.
 
 <p><form>purbisung</form> <xr>= <sc>PRUBISUNG</sc>.</xr>
 
 <p><form>purmas</form> <pos>n</pos> <tr>Host</tr>, the bread of the Eucharist.
 
-<p><form>pusdit</form> <pos>v</pos> <itype>[A; c16]</itype> <tr>postdate</tr>. <i>Way dipusitu. Átù na lang ipusdit (pusdítun) ang tsíki,</i> There is no money in the bank so we'll just postdate the check. <form>-id</form> <pos>a</pos> post-dated.
+<p><form>pusdit</form> <pos>v</pos> <itype>[A; c16]</itype> <tr>postdate</tr>. <i>Way dipusitu. Átù na lang ipusdit (pusdítun) ang tsíki,</i> There is no money in the bank so we&apos;ll just postdate the check. <form>-id</form> <pos>a</pos> post-dated.
 
 <p><form>pusisit</form> <xr>= <sc>PURIRIT</sc>.</xr>
 
@@ -1222,7 +1222,7 @@ Step four
 
 <p><form>ránir</form> <pos>n</pos> one who is sent on errands. <i>Aku ang ílang ránir,</i> I am their <tr>errand boy</tr>. <pos>v</pos> <itype>[B16; a]</itype> be an errand boy.
 
-<p><form>rapid páyir</form> <pos>a</pos> doing things <tr>rapidly</tr>. <pos>v</pos> <itype>[A; c1]</itype> do s.t. <tr>hurriedly</tr>, rapidly. <i>Nagrapid páyir kug panglimpyu kay mulakaw ku,</i> I'm cleaning the house rapidly because I'm going out.
+<p><form>rapid páyir</form> <pos>a</pos> doing things <tr>rapidly</tr>. <pos>v</pos> <itype>[A; c1]</itype> do s.t. <tr>hurriedly</tr>, rapidly. <i>Nagrapid páyir kug panglimpyu kay mulakaw ku,</i> I&apos;m cleaning the house rapidly because I&apos;m going out.
 
 <p><form>ríban</form> <xr>= <sc>RAYBAN</sc>.</xr>
 
@@ -1230,7 +1230,7 @@ Step four
 
 <p><form>ridyistr&acaron;r</form> <pos>n</pos> <tr>registrar</tr> in school. <pos>v</pos> <itype>[B16; b6]</itype> be, become a registrar.
 
-<p><form>rikuhir</form> <pos>v</pos> <itype>[A3; c1]</itype> mind idle talk. <i>Makunsumisiyun ka ug rikuhirun (irikuhir) nímu ang tanan nímung madungug bátuk nímu,</i> You'll get sick at heart if you pay attention to all the things they say against you.
+<p><form>rikuhir</form> <pos>v</pos> <itype>[A3; c1]</itype> mind idle talk. <i>Makunsumisiyun ka ug rikuhirun (irikuhir) nímu ang tanan nímung madungug bátuk nímu,</i> You&apos;ll get sick at heart if you pay attention to all the things they say against you.
 
 <p><form>&dagger;rikúla</form> <pos>n</pos> <tr>objection</tr>, <tr>complaints</tr> about s.t.
 
@@ -1242,7 +1242,7 @@ Step four
 
 <p><form>riluhiríya</form> <corr><pos>n</pos> </corr><tr>watch-repair shop</tr>. <pos>v</pos> <itype>[A1]</itype> establish a watch-repair shop.
 
-<p><form>rimurímu</form> <pos>v</pos> <itype>[A; a1]</itype> try to fix s.t. with only a small knowledge of how to do it. <i>Hidakan giyud ku sa mikaniku ug dì nákù rimurimúhun ning ákung dyíp,</i> The mechanic is going to charge me too much so I'll fix my jeep myself.
+<p><form>rimurímu</form> <pos>v</pos> <itype>[A; a1]</itype> try to fix s.t. with only a small knowledge of how to do it. <i>Hidakan giyud ku sa mikaniku ug dì nákù rimurimúhun ning ákung dyíp,</i> The mechanic is going to charge me too much so I&apos;ll fix my jeep myself.
 
 <p><form>rindirp&icaron;s</form> <pos>n</pos> <tr>rinderpest</tr>.
 
@@ -1263,7 +1263,7 @@ Step four
 <p><form>&dagger;rúyal</form> <form>&mdash; blu</form> <pos>n</pos> <tr>royal blue</tr> color.
 
 
-<p><form>&dagger;sábak</form> <pos>v</pos> <number>5</number> <itype>[A; a12]</itype> give s.o. on-the-spot <pb n=1159>instruction on how to do s.t. <i>Ayaw pagunauna kay sabákun tikawg dráyib,</i> Don't try to drive on your own. Wait till I show you how.
+<p><form>&dagger;sábak</form> <pos>v</pos> <number>5</number> <itype>[A; a12]</itype> give s.o. on-the-spot <pb n=1159>instruction on how to do s.t. <i>Ayaw pagunauna kay sabákun tikawg dráyib,</i> Don&apos;t try to drive on your own. Wait till I show you how.
 
 <p><form>&dagger;sabat</form> <pos>v</pos> <number>3</number> <itype>[A2]</itype> for muscles to react or respond. <i>Musabat ang tiil kun tikdúlan ang túhud,</i> The foot will react if you knock the knees.
 
@@ -1273,19 +1273,19 @@ Step four
 
 <p><form>&dagger;sagang</form> <pos>n</pos> <number>1a</number> <tr>shield</tr>.
 
-<p><form>sag-ang<sub>2</sub></form> <pos>v</pos> <itype>[A; b6]</itype> <tr>cook</tr> s.t. on the stove. <i>Wà ku makasag-ang ug sud-an kay way gás,</i> I have not cooked our meat and vegetables yet because there's no kerosene.
+<p><form>sag-ang<sub>2</sub></form> <pos>v</pos> <itype>[A; b6]</itype> <tr>cook</tr> s.t. on the stove. <i>Wà ku makasag-ang ug sud-an kay way gás,</i> I have not cooked our meat and vegetables yet because there&apos;s no kerosene.
 
 <p><form>&dagger;sakramintu</form> <pos>n</pos> <number>2</number> <tr>sacrament of matrimony</tr>. <number>2a</number> wife, wedded in the Roman Catholic Church. <pos>v</pos> <itype>[a12]</itype> be wedded in the Roman Catholic Church. <i>Gihuwis úsà mi, úsà mi masakramintu,</i> We had a civil marriage before we were wedded in the church.
 
 <p><form>&dagger;salà</form> <pos>n</pos> <number>1a</number> <formx>&mdash; nga ikamatay</formx> <tr>mortal sin</tr>.
 
-<p><form>&dagger;salamà</form> <pos>v</pos> <number>1a</number> <itype>[B1256; c6]</itype> for s.t. which is supposed to be a secret to slip out. <i>Nasamà ku kay nakalimut ku nga dì diay untà tu ipatug-an,</i> I let it out because I forgot that it was supposed to be a secret. <i>Ayawg isalamà pagsulti nang mga pulúnga ha?</i> Don't let those words slip from your mouth.
+<p><form>&dagger;salamà</form> <pos>v</pos> <number>1a</number> <itype>[B1256; c6]</itype> for s.t. which is supposed to be a secret to slip out. <i>Nasamà ku kay nakalimut ku nga dì diay untà tu ipatug-an,</i> I let it out because I forgot that it was supposed to be a secret. <i>Ayawg isalamà pagsulti nang mga pulúnga ha?</i> Don&apos;t let those words slip from your mouth.
 
 <p><form>salamagan</form> <xr>= <sc>SALUMAGAN</sc>.</xr>
 
 <p><form>salig-ang</form> <pos>n</pos> <tr>hips</tr>. <form>-un</form> <pos>a</pos> of s.o. having big hips. <pos>v</pos> <itype>[B12; b6]</itype> get to have big hips.
 
-<p><form>&dagger;sálud</form> <form>&mdash; sa gábà</form> <pos>v</pos> <itype>[B2S]</itype> be the recipient of <ix>gábà</ix> (a divine curse). <i>Magsalud tas gábà ug musúkul ta sa átung ginikánan,</i> We will earn heaven's wrath if we defy our parents.
+<p><form>&dagger;sálud</form> <form>&mdash; sa gábà</form> <pos>v</pos> <itype>[B2S]</itype> be the recipient of <ix>gábà</ix> (a divine curse). <i>Magsalud tas gábà ug musúkul ta sa átung ginikánan,</i> We will earn heaven&apos;s wrath if we defy our parents.
 
 <p><form>salumagan</form> (not without <ix>l</ix>) exclamation of mild anger shouted at s.o.
 
@@ -1297,9 +1297,9 @@ Step four
 
 <p><form>samsi</form> <pos>n</pos> a Chinese dish of pork cut in thin long slices with shredded cabbage and sauteed.
 
-<p><form>&dagger;sámuk</form> <form>-in-(&rarr;)</form> <pos>v</pos> <itype>[A; a12]</itype> be <tr>bothersome</tr>. <i>Dì mu magsinamuk ug náay bisíta,</i> Don't be bothersome when there are visitors around. <form>sinamuksamuk</form> <xr>= <sc>-IN-</sc>.</xr>
+<p><form>&dagger;sámuk</form> <form>-in-(&rarr;)</form> <pos>v</pos> <itype>[A; a12]</itype> be <tr>bothersome</tr>. <i>Dì mu magsinamuk ug náay bisíta,</i> Don&apos;t be bothersome when there are visitors around. <form>sinamuksamuk</form> <xr>= <sc>-IN-</sc>.</xr>
 
-<p><form>san-antun</form> short for <tr>San Antonio</tr> <tr>Saint Anthony</tr>. <form>pa-</form> <pos>v</pos> <itype>[c]</itype> light a candle and implore St. Anthony's help in sending punishment to a person who wronged one. <i>Íyang ipasan-antun ang nangáwat sa íyang kwarta,</i> She'll implore St. Anthony's help to bring retribution on the one who stole her money.
+<p><form>san-antun</form> short for <tr>San Antonio</tr> <tr>Saint Anthony</tr>. <form>pa-</form> <pos>v</pos> <itype>[c]</itype> light a candle and implore St. Anthony&apos;s help in sending punishment to a person who wronged one. <i>Íyang ipasan-antun ang nangáwat sa íyang kwarta,</i> She&apos;ll implore St. Anthony&apos;s help to bring retribution on the one who stole her money.
 
 <p><form>sánaw<sub>3</sub></form> <pos>a</pos> having an uncomfortable feeling of inferiority. <i>Sánaw kaáyung iságul sa punduk sa mga dátù,</i> I feel so uncomfortable when I am thrown together with rich people.
 
@@ -1327,13 +1327,13 @@ Step four
 
 <p><form>saytid</form> <pos>v</pos> <itype>[B125]</itype> be <tr>in sight</tr>. <i>Nasaytid na ang átung swildu,</i> Our salary is already in sight. <i>Nagkasaytid na ang átung kadaúgan,</i> Our victory is already in sight. <pos>a</pos> be in sight.
 
-<p><form>síb</form> <pos>a</pos> be freed in a game of hide-and-seek or saved from punishment in other kinds of <pb n=1160>games. <pos>v</pos> <itype>[A; a]</itype> set s.o. free. <pos>v</pos> <form>&mdash; bay da bil</form> <tr>saved by the bell</tr>, i.e. just barely escape getting punished. <i>Nasíb bay da bil ku sa kasábà ni Nánay kay may mga bisítang nangabut,</i> I was saved by the bell. Mother didn't get to scold me because some visitors arrived.
+<p><form>síb</form> <pos>a</pos> be freed in a game of hide-and-seek or saved from punishment in other kinds of <pb n=1160>games. <pos>v</pos> <itype>[A; a]</itype> set s.o. free. <pos>v</pos> <form>&mdash; bay da bil</form> <tr>saved by the bell</tr>, i.e. just barely escape getting punished. <i>Nasíb bay da bil ku sa kasábà ni Nánay kay may mga bisítang nangabut,</i> I was saved by the bell. Mother didn&apos;t get to scold me because some visitors arrived.
 
 <p><form>&dagger;siba</form> <pos>v</pos> <number>3</number> <itype>[A; a]</itype> load a firearm.
 
-<p><form>sibag</form> <pos>v</pos> <itype>[A; b6]</itype> <number>1</number> change a course, turn off. <i>Dì ta makasibag dihà kay náa may du nat intir,</i> We can't turn off there because there is a do-not-enter sign. <number>2</number> for the voice to go off key. <i>Musibag ka man sa túnu ug ipataas na ang tíngug,</i> You'll be off-key if you go off on a higher pitch. <number>3</number> deviate from one's topic. <i>Dì ka makasibag ug sulti sa kurti,</i> You can't get off your topic of conversation in court. <pos>a</pos> off-key, deviating from the topic.
+<p><form>sibag</form> <pos>v</pos> <itype>[A; b6]</itype> <number>1</number> change a course, turn off. <i>Dì ta makasibag dihà kay náa may du nat intir,</i> We can&apos;t turn off there because there is a do-not-enter sign. <number>2</number> for the voice to go off key. <i>Musibag ka man sa túnu ug ipataas na ang tíngug,</i> You&apos;ll be off-key if you go off on a higher pitch. <number>3</number> deviate from one&apos;s topic. <i>Dì ka makasibag ug sulti sa kurti,</i> You can&apos;t get off your topic of conversation in court. <pos>a</pos> off-key, deviating from the topic.
 
-<p><form>&dagger;sibat</form> <form>-in-</form> <pos>n</pos> s.t. taken without permission. <i>Dílì nà íyang sinínà. Íya nang sinibat,</i> That dress isn't hers. She snuck off with it from s.w.
+<p><form>&dagger;sibat</form> <form>-in-</form> <pos>n</pos> s.t. taken without permission. <i>Dílì nà íyang sinínà. Íya nang sinibat,</i> That dress isn&apos;t hers. She snuck off with it from s.w.
 
 <p><form>síbay</form> <xr>= &dagger;<sc>*TSÍBAY</sc>.</xr>
 
@@ -1345,7 +1345,7 @@ Step four
 
 <p><form>sigarilyu<sub>2</sub></form> <xr>= <sc>BUDBURUN</sc>.</xr> <ix>see</ix> <xr><sc>BUDBUD</sc>.</xr>
 
-<p><form>síkan</form> <pos>n</pos> <number>2</number> boxer's second. <pos>v</pos> <itype>[A; a]</itype> <number>2</number> act as boxer's second. <i>Siyay misíkan ni Ilurdi,</i> He acted as Elorde's second.
+<p><form>síkan</form> <pos>n</pos> <number>2</number> boxer&apos;s second. <pos>v</pos> <itype>[A; a]</itype> <number>2</number> act as boxer&apos;s second. <i>Siyay misíkan ni Ilurdi,</i> He acted as Elorde&apos;s second.
 
 <p><form>sikpat</form> <xr>= <sc>SIPLAT</sc>.</xr>
 
@@ -1375,11 +1375,11 @@ Step four
 
 <p><form>&dagger;sirung</form> <pos>a</pos> <number>2</number> <xr>= <sc>SIRÙ<sub>2</sub></sc>.</xr> <pos>v</pos> <number>2</number> <xr>= <sc>SIRÙ<sub>2</sub></sc>.</xr>
 
-<p><form>síu</form> <pos>n</pos> <number>1</number> the C.O., acronym for the Commanding Officer in a military headquarters. <number>2</number> anyone in charge of an establishment (humorous). <i>Aku na karuy síu sa ámù kay túa sa Mindanaw si Pápa ug Máma,</i> I'm the C.O. at home now because Dad and Mom are in Mindanao. <pos>v</pos> <itype>[B1256]</itype> get to be the C.O.
+<p><form>síu</form> <pos>n</pos> <number>1</number> the C.O., acronym for the Commanding Officer in a military headquarters. <number>2</number> anyone in charge of an establishment (humorous). <i>Aku na karuy síu sa ámù kay túa sa Mindanaw si Pápa ug Máma,</i> I&apos;m the C.O. at home now because Dad and Mom are in Mindanao. <pos>v</pos> <itype>[B1256]</itype> get to be the C.O.
 
-<p><form>siúdi</form> <pos>n</pos> <number>1</number> C.O.D., acronym for cash on delivery. <number>2</number> get s.t. on credit. <pos>v</pos> <itype>[A; c1]</itype> get s.t. on credit. <i>Ug wà kay kwarta karun siudía (isiúdi) na lang,</i> If you don't have any money just get it on credit. <pos>n</pos> debt.
+<p><form>siúdi</form> <pos>n</pos> <number>1</number> C.O.D., acronym for cash on delivery. <number>2</number> get s.t. on credit. <pos>v</pos> <itype>[A; c1]</itype> get s.t. on credit. <i>Ug wà kay kwarta karun siudía (isiúdi) na lang,</i> If you don&apos;t have any money just get it on credit. <pos>n</pos> debt.
 
-<p><form>&dagger;síug (&rarr;)</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <tr>budge</tr>, <tr>move</tr> s.t. heavy. <i>Batu nga dì masiug ug tulu ka táwu,</i> A rock that cannot be budged by three persons. <number>2</number> move one's emotions. <i>Ang lúhà sa dalága wà makasiug níya,</i> The tears of the maiden did not move him.
+<p><form>&dagger;síug (&rarr;)</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <tr>budge</tr>, <tr>move</tr> s.t. heavy. <i>Batu nga dì masiug ug tulu ka táwu,</i> A rock that cannot be budged by three persons. <number>2</number> move one&apos;s emotions. <i>Ang lúhà sa dalága wà makasiug níya,</i> The tears of the maiden did not move him.
 
 <p><form>siyuk, síyuk</form> <pos>v</pos> <itype>[A; a]</itype> for the eyes to <tr>squint</tr> in bright light. <i>Misíyuk (nagsiyuk) ang íyang mga mata nga nagtan-aw sa kaláyu,</i> He squinted as he looked at the flame.
 
@@ -1387,7 +1387,7 @@ Step four
 
 <p><form>&dagger;súgat</form> <form>sugatsúgat</form> <pos>v</pos> [A; a 12] accompany a song or melody with make-do chords. <i>Sugatsugátun lang sa magduduyug ang kanta nga dì kaáyu níya sinátì,</i> The accompanist uses make-do chords if he is not very familiar with the song.
 
-<p><form>&dagger;súgid</form> <form>sugilánun</form> <pos>n</pos> <number>2</number> <tr>conversation</tr>. <pos>v</pos> <itype>[C2]</itype> <tr>converse</tr>. <i>Dì úsà ta mangat[=ú]g kay magsugilánun usà ta,</i> Let's not go to sleep yet. Let's <tr>talk</tr> for a while. <i>Ayaw úsag lakaw kay makigsugilánun pa ku nímu,</i> Don't leave yet because I want to talk with you.
+<p><form>&dagger;súgid</form> <form>sugilánun</form> <pos>n</pos> <number>2</number> <tr>conversation</tr>. <pos>v</pos> <itype>[C2]</itype> <tr>converse</tr>. <i>Dì úsà ta mangat[=ú]g kay magsugilánun usà ta,</i> Let&apos;s not go to sleep yet. Let&apos;s <tr>talk</tr> for a while. <i>Ayaw úsag lakaw kay makigsugilánun pa ku nímu,</i> Don&apos;t leave yet because I want to talk with you.
 
 <p><form>sulisitar</form> <xr>= <sc>SULÍSIT</sc>.</xr>
 
@@ -1395,7 +1395,7 @@ Step four
 
 <p><form>&dagger;sul-ung</form> <pos>v</pos> <number>2</number> <itype>[B246]</itype> for heat or temperature to rise. <i>Ug musul-ung ang kaínit sa ímung <pb n=1162>láwas, hilantan ka,</i> If your body gets hot, you have a fever.
 
-<p><form>&dagger;súma</form> <form>pag- (inig-) pa</form> but when it comes to a test. <i>Ingun kang kamau ka. Pagsúma (pagsumáda) pa, dì diay,</i> You said you knew how, but when it came to a test, you didn't.
+<p><form>&dagger;súma</form> <form>pag- (inig-) pa</form> but when it comes to a test. <i>Ingun kang kamau ka. Pagsúma (pagsumáda) pa, dì diay,</i> You said you knew how, but when it came to a test, you didn&apos;t.
 
 <p><form>sumu<sub>3</sub></form> <pos>a</pos> the first litter of piglets a sow has. <i>Sa karáang tinuhúan dì kunu maáyung buhiun sa tag-íya ang bábuyng sumu,</i> According to folk belief the owner should not raise the first litter of piglets a sow has (for they will die under his care).
 
@@ -1419,9 +1419,9 @@ Step four
 
 <p><form>swáb</form> <pos>v</pos> <itype>[A; b6]</itype> <tr>swab</tr> s.t. with medicine or to clean it. <i>Tunlang giswában,</i> A throat that was swabbed. <pos>n</pos> swab.
 
-<p><form>swáing</form> <pos>v</pos> <itype>[C13; c5]</itype> <number>1</number> to get tired of s.o.'s unpleasantness. <i>Dílì ikaswáing nang tigulánga kay huyù,</i> You don't get tired of that old man because he is tender. <number>2</number> have a misunderstanding and hurt feelings. <i>Nagkaswáing ang mga magsúun tungud sa kabílin,</i> The brothers and sisters had a misunderstanding over the inheritance.
+<p><form>swáing</form> <pos>v</pos> <itype>[C13; c5]</itype> <number>1</number> to get tired of s.o.&apos;s unpleasantness. <i>Dílì ikaswáing nang tigulánga kay huyù,</i> You don&apos;t get tired of that old man because he is tender. <number>2</number> have a misunderstanding and hurt feelings. <i>Nagkaswáing ang mga magsúun tungud sa kabílin,</i> The brothers and sisters had a misunderstanding over the inheritance.
 
-<p><form>&dagger;swirti</form> <pos>n</pos> <form>&mdash; dikasáhus</form> <tr>bad luck</tr> or <tr>misfortune</tr> of a sort that shouldn't normally be happening to the person. <i>Tituláda nga naminyug buguy. Mu na nay nganlag swirting dikasáhus,</i> A girl with a degree marrying a no-good. That's what they call jerked-meat luck.
+<p><form>&dagger;swirti</form> <pos>n</pos> <form>&mdash; dikasáhus</form> <tr>bad luck</tr> or <tr>misfortune</tr> of a sort that shouldn&apos;t normally be happening to the person. <i>Tituláda nga naminyug buguy. Mu na nay nganlag swirting dikasáhus,</i> A girl with a degree marrying a no-good. That&apos;s what they call jerked-meat luck.
 
 <p><form>&dagger;syákuy</form> <number>2</number> grades in the eighties (so called from the rough similarity of the figure 8 to a <ix>syákuy</ix> &mdash; slang).
 
@@ -1457,15 +1457,15 @@ Step four
 
 <p><form>talagtag</form> <note>missing p.o.s.: a</note> be <tr>thinly spread</tr> or distributed. <i>Talagtag kaáyu ang mga balay sa búkid,</i> The houses in the mountain are very <tr>sparse</tr>. <pos>v</pos> <itype>[B; c1]</itype> be thinly spread or distributed. Mitalagtag ang íyang buhuk nga nanglarut, His hair is sparse because it is constantly falling out.
 
-<p><form>&dagger;tali</form> <pos>v</pos> <number>2</number> <itype>[a3]</itype> just be <tr>weaned</tr> from one's mother's breast and too young to do s.t. (humorous). <i>Magminyù ka nga bag-u ka pa gáning natali?</i> You're getting married when you're just weaned?
+<p><form>&dagger;tali</form> <pos>v</pos> <number>2</number> <itype>[a3]</itype> just be <tr>weaned</tr> from one&apos;s mother&apos;s breast and too young to do s.t. (humorous). <i>Magminyù ka nga bag-u ka pa gáning natali?</i> You&apos;re getting married when you&apos;re just weaned?
 
 <p><form>talíngab</form> <pos>v</pos> <itype>[A; b6]</itype> make a <tr>sharp</tr> point on s.t. <pos>a</pos> <tr>sharpened</tr> to a point.
 
 <p><form>tampikas</form> <xr>= <sc>TAMPIHAK</sc>.</xr>
 
-<p><form>tampird</form> <pos>a</pos> radio that has been poorly repaired. <i>Dì ku makagarantíya ánang radiyúhag patíngug kay tampird,</i> I can't guarantee that radio will play because it has been repaired once and not very well.
+<p><form>tampird</form> <pos>a</pos> radio that has been poorly repaired. <i>Dì ku makagarantíya ánang radiyúhag patíngug kay tampird,</i> I can&apos;t guarantee that radio will play because it has been repaired once and not very well.
 
-<p><form>&dagger;tampuk<sub>1</sub></form> <form>&mdash; sa, ang luyu, likud</form><note>? F1</note> <pos>v</pos> <itype>[A; a12]</itype> <tr>betray</tr>, stab s.o. in the back. <i>Kun wà ku dinhi libakun kunuku<note>spacing unclear</note> ninyu. Ngánung inyu man kung tampukun sa likud?</i> You say mean things about me when I'm not around. Why do you stab me in the back?
+<p><form>&dagger;tampuk<sub>1</sub></form> <form>&mdash; sa, ang luyu, likud</form><note>? F1</note> <pos>v</pos> <itype>[A; a12]</itype> <tr>betray</tr>, stab s.o. in the back. <i>Kun wà ku dinhi libakun kunuku<note>spacing unclear</note> ninyu. Ngánung inyu man kung tampukun sa likud?</i> You say mean things about me when I&apos;m not around. Why do you stab me in the back?
 
 <p><form>tamudlaw</form> <xr>= <sc>LAMUDLAW</sc>.</xr>
 
@@ -1475,7 +1475,7 @@ Step four
 
 <p><form>&dagger;tanggu<sub>1</sub></form> <form>&mdash; kriminal, makapíang</form> <pos>n</pos> tango dance characterized with difficult and fancy steps (humorous).
 
-<p><form>tanggu<sub>2</sub></form> <pos>a</pos> slow in understanding simple things, incompetent in doing simple things (from <ix>tangà</ix> and <ix>gágu</ix>). <i>Tanggu kaáyung tawhána, dì lang gihápun kamau ug ása pirma,</i> He is an idiot, because he still doesn't know where to sign his name. <pos>v</pos> <itype>[B12]</itype> become stupid in this way.
+<p><form>tanggu<sub>2</sub></form> <pos>a</pos> slow in understanding simple things, incompetent in doing simple things (from <ix>tangà</ix> and <ix>gágu</ix>). <i>Tanggu kaáyung tawhána, dì lang gihápun kamau ug ása pirma,</i> He is an idiot, because he still doesn&apos;t know where to sign his name. <pos>v</pos> <itype>[B12]</itype> become stupid in this way.
 
 <p><form>&dagger;tangtang</form> <form>&mdash; útang</form> <pos>n</pos> the state or condition where one pays off debts and incurs debts again. <i>Mau giyud ning pubri ta, tangtang útang,</i> This is the way it is when you are poor. You pay off one set of debts and incur another.
 
@@ -1493,7 +1493,7 @@ Step four
 
 <p><form>&dagger;tikì</form> <form>&mdash; nga kwanggul</form> <pos>n</pos> a stupid gecko (so called because of the fact that he hides but shouts to let the world know where he is).
 
-<p><form>tik-ibis</form> <pos>v</pos> <itype>[A]</itype> <i>1</i> in baseball, <tr>take a base</tr>. <i>Mitik-ibis ang bátir,</i> The batter took a base. <number>2</number> for a teacher of long service to take an easy test to give her official eligibility. <i>Dì untà ku mailidyibul ug wà pa ku makatik-ibis,</i> I wouldn't have made eligible status if I hadn't taken the promotional examination.
+<p><form>tik-ibis</form> <pos>v</pos> <itype>[A]</itype> <i>1</i> in baseball, <tr>take a base</tr>. <i>Mitik-ibis ang bátir,</i> The batter took a base. <number>2</number> for a teacher of long service to take an easy test to give her official eligibility. <i>Dì untà ku mailidyibul ug wà pa ku makatik-ibis,</i> I wouldn&apos;t have made eligible status if I hadn&apos;t taken the promotional examination.
 
 <p><form>&dagger;tikwì</form> <number>3</number> euphemism for <i>wakwak<sub>1</sub></i> or <i>unglù.</i> <i>Mga tikwì nang pamilyáha,</i> That is a family of vampires.
 
@@ -1531,15 +1531,15 @@ Step four
 
 <p><form>&dagger;túhud (&rarr;)</form> <pos>v</pos> <number>3</number> <itype>[a12]</itype> have <tr>pains</tr> in the knees. <i>Abi nákug tigúwang ray tuhurun,</i> I thought only old people had <tr>rheumatism</tr> in the knees.
 
-<p><form>túka</form> <pos>n</pos> one's part in doing s.t., one's <tr>turn</tr> to do. <i>Ímu na rung túka sa panghúgas,</i> It's your turn to do the dishes. <pos>v</pos> <itype>[A2; b(1)]</itype> for one's turn to come to him. <i>Dì makabalíbad ang táwu ug mutúka na níya ang kagul-ánan,</i> When it is a man's turn to have sorrows he cannot refuse. <form>tukatúka</form> <pos>v</pos> <itype>[A; abc]</itype> do s.t. by turns. <i>Gitukatukáhan mig hátag,</i> We were given some in turns.
+<p><form>túka</form> <pos>n</pos> one&apos;s part in doing s.t., one&apos;s <tr>turn</tr> to do. <i>Ímu na rung túka sa panghúgas,</i> It&apos;s your turn to do the dishes. <pos>v</pos> <itype>[A2; b(1)]</itype> for one&apos;s turn to come to him. <i>Dì makabalíbad ang táwu ug mutúka na níya ang kagul-ánan,</i> When it is a man&apos;s turn to have sorrows he cannot refuse. <form>tukatúka</form> <pos>v</pos> <itype>[A; abc]</itype> do s.t. by turns. <i>Gitukatukáhan mig hátag,</i> We were given some in turns.
 
 <p><form>tukistukis</form> <pos>n</pos> illegal <tr>cockfight</tr> on a small scale (slang). <i>Dúnay tukistukis sa ílang baryu káda adlaw,</i> There is a small-scale illegal cockfight in their barrio every day. <pos>v</pos> <itype>[A; c]</itype> hold a small illegal cockfight (slang).
 
 <pb n=1163>
 
-<p><form>&dagger;tumuy sa</form> <form>&mdash; sa dílà</form> be at the tip of one's tongue, but still one cannot quite remember it. <i>Dì giyud kung kahinumdum ug kinsa tu ka apan nía ra giyud sa tumuy sa ákung dílà,</i> I cannot quite remember who you <corr sic=were>are</corr>, but you are so familiar, it is right at the tip of my tongue.
+<p><form>&dagger;tumuy sa</form> <form>&mdash; sa dílà</form> be at the tip of one&apos;s tongue, but still one cannot quite remember it. <i>Dì giyud kung kahinumdum ug kinsa tu ka apan nía ra giyud sa tumuy sa ákung dílà,</i> I cannot quite remember who you <corr sic=were>are</corr>, but you are so familiar, it is right at the tip of my tongue.
 
-<p><form>túpung</form> <number>3</number> <formx>dílì, wà mag- ang tudlù</formx> not everybody is the same. <i>Wà magtúpung ang tudlù sa táwu,</i> Some people are rich and some are poor. (Lit. A man's fingers are not the same.)
+<p><form>túpung</form> <number>3</number> <formx>dílì, wà mag- ang tudlù</formx> not everybody is the same. <i>Wà magtúpung ang tudlù sa táwu,</i> Some people are rich and some are poor. (Lit. A man&apos;s fingers are not the same.)
 
 <p><form>tusínu</form> <pos>n</pos> <tr>salt pork</tr>. <pos>v</pos> <itype>[A; a]</itype> make salt pork.
 
@@ -1559,19 +1559,19 @@ Step four
 
 <p><form>&dagger;unà</form> <pos>v</pos> <number>4</number> <itype>[A13]</itype> be oozing with dirt. <i>Hubúa nang ímung sinínà kay nag-unà,</i> Take off your dress because it is oozing with dirt.
 
-<p><form>&dagger;únat</form> <pos>v</pos> <number>3</number> <itype>[A1; c1]</itype> do s.t. in a leisurely manner. <i>Dì ta makaúnat sa átung trabáhu kay mag-apas ta sa úras,</i> We can't dilly-dally with our work because we are rushing things.
+<p><form>&dagger;únat</form> <pos>v</pos> <number>3</number> <itype>[A1; c1]</itype> do s.t. in a leisurely manner. <i>Dì ta makaúnat sa átung trabáhu kay mag-apas ta sa úras,</i> We can&apos;t dilly-dally with our work because we are rushing things.
 
-<p><form>unir</form> <pos>v</pos> <itype>[A1]</itype> <number>1</number> <tr>own</tr> s.t. <i>Maáyu nákung pagpahalúnà sa kutsi sa ákung higála, mu rag nakaunir,</i> I made myself comfortable in my friend's car as if it belonged to me. <number>2</number> <xr>= <sc>UNAY</sc>, <pos>v</pos>.</xr>
+<p><form>unir</form> <pos>v</pos> <itype>[A1]</itype> <number>1</number> <tr>own</tr> s.t. <i>Maáyu nákung pagpahalúnà sa kutsi sa ákung higála, mu rag nakaunir,</i> I made myself comfortable in my friend&apos;s car as if it belonged to me. <number>2</number> <xr>= <sc>UNAY</sc>, <pos>v</pos>.</xr>
 
 <p><form>urihinal</form> <pos>n</pos> <number>4</number> <formx>salà nga &mdash;</formx> <number>a</number> <tr>original sin</tr>. <number>b</number> <tr>adultery</tr>.
 
-<p><form>&dagger;úrus</form> <form>pa-, pina-</form> <pos>v</pos> <itype>[A; b6]</itype> prepare s.t. by <corr sic="sautéeing">sautéing</corr>, usually said of preparing s.t. special (by people who don't normally prepare food that needs to be sautéed). <i>Ákù siyang paurúsan (pinaurúsan) run kay Duminggu man,</i> I'll sauté some food for him today because it is Sunday.
+<p><form>&dagger;úrus</form> <form>pa-, pina-</form> <pos>v</pos> <itype>[A; b6]</itype> prepare s.t. by <corr sic="sautéeing">sautéing</corr>, usually said of preparing s.t. special (by people who don&apos;t normally prepare food that needs to be sautéed). <i>Ákù siyang paurúsan (pinaurúsan) run kay Duminggu man,</i> I&apos;ll sauté some food for him today because it is Sunday.
 
-<p><form>&dagger;útak</form> <form>&mdash; brin</form> <pos>n</pos> one's <tr>brains</tr> as a means of thinking (humorous). <i>Gamíta ang ímung útak brin,</i> <tr>Use your head</tr>! <form>-in-</form> <pos>v</pos> <itype>[A2; c1]</itype> do s.t. from memory, not written. <i>Inutukun (iinutuk) sa mga ispíya ang ílang mga kúd,</i> Spies memorize their codes.
+<p><form>&dagger;útak</form> <form>&mdash; brin</form> <pos>n</pos> one&apos;s <tr>brains</tr> as a means of thinking (humorous). <i>Gamíta ang ímung útak brin,</i> <tr>Use your head</tr>! <form>-in-</form> <pos>v</pos> <itype>[A2; c1]</itype> do s.t. from memory, not written. <i>Inutukun (iinutuk) sa mga ispíya ang ílang mga kúd,</i> Spies memorize their codes.
 
 <p><form>&dagger;utut</form> <form>&mdash; ug bapur</form> <pos>n</pos> dark-complexioned.
 
-<p><form>&dagger;uwak</form> <form>(&larr;) gibalikas</form> <pos>n</pos> a person who is such a nuisance that he keeps coming to a place he knows he is unwanted (like a crow that keeps coming back the more it is cursed). <i>Mu rag mga úwak gibalikas ning mga batáa. Dì patúu ug badlung,</i> These children are like crows you shout at. They just won't listen when you try to get rid of them.
+<p><form>&dagger;uwak</form> <form>(&larr;) gibalikas</form> <pos>n</pos> a person who is such a nuisance that he keeps coming to a place he knows he is unwanted (like a crow that keeps coming back the more it is cursed). <i>Mu rag mga úwak gibalikas ning mga batáa. Dì patúu ug badlung,</i> These children are like crows you shout at. They just won&apos;t listen when you try to get rid of them.
 
 
 
