@@ -55,6 +55,9 @@ sub processLetter
 {
     my $letter = shift;
 
+    system ("perl WCED-downtag.pl WCED-$letter.tei > WCED-typo-$letter.tei");
+    system ("perl -S tei2html.pl WCED-typo-$letter.tei 2> tmp-$letter.err");
+
     system ("perl -S tei2html.pl -x WCED-$letter.tei 2> tmp.err");
     system ("$saxon WCED-$letter.xml WCED-uptag2.xsl > tmp.xml");
     system ("$saxon tmp.xml WCED-view.xsl > structural-$letter.html");

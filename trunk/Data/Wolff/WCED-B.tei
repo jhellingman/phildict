@@ -593,7 +593,7 @@
 
 <p><form>baktas</form> <pos>v</pos> <itype>[A; a2]</itype> <number>1</number> <tr>traverse</tr> on foot. <i>Taas pa ang ákung baktásun arun matúman ku ang ákung ginadamgu,</i> I still have a long road to traverse if my dreams are to be realized. <number>2</number> <tr>cut across</tr>. <i>Gibaktásan ku ang daruhan,</i> I took a short cut across the plowed field. <form>-ay(&rarr;)</form> <pos>n</pos> <tr>walkathon</tr>. <i>Siyay nakadaug sa baktasay,</i> He won the walkathon. <pos>v</pos> <itype>[C]</itype> have a walkathon.
 
-<!-- pos out of order: fixed. -->
+<!-- pos v example out of order: fixed. -->
 
 <p><form>baktin<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>piglet</tr>. <number>2</number> <tr>children</tr>, <tr>kids</tr> (familiar usage). <i>Nag-iskuyla na ang ákung mga baktin,</i> My kids go to school now. <pos>v</pos> <itype>[A12]</itype> obtain piglet. <i>Nakabaktin kug duha pagbatun ku sa íyang anay,</i> I got myself two piglets for rearing his sow. <form>-ay</form> <pos>v</pos> <itype>[C]</itype> bet with piglets. <i>Baktinay ta, kinsay mudaug,</i> Let&apos;s bet piglets as to who will win.
 
