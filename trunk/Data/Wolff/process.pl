@@ -10,56 +10,59 @@ my $letter = $ARGV[0];
 if ($letter ne '') 
 {
     processLetter($letter);
-    exit;
+}
+else
+{
+    processAll();
 }
 
-# system ("perl WCED-uptag1.pl part6.tei > part6-ut.tei");
-# system ("perl -S tei2html.pl -x part6-ut.tei");
-# system ("$saxon part6-ut.xml WCED-uptag2.xsl > output.xml");
-# system ("$saxon output.xml WCED-view.xsl > structural.html");
+sub processAll
+{
+    system ("perl -S tei2html.pl -x WCED-frontmatter-0.1.tei");
+    system ("perl -S tei2html.pl -x WCED-backmatter-0.0.tei");
 
-system ("perl -S tei2html.pl -x WCED-frontmatter-0.1.tei");
-system ("perl -S tei2html.pl -x WCED-backmatter-0.0.tei");
+    processLetter("A");
+    processLetter("B");
+    processLetter("D");
+    processLetter("G");
+    processLetter("H");
+    processLetter("I");
+    processLetter("K");
+    processLetter("L");
+    processLetter("M");
+    processLetter("N");
+    processLetter("P");
+    processLetter("R");
+    processLetter("S");
+    processLetter("T");
+    processLetter("U");
+    processLetter("W");
+    processLetter("Y");
+    processLetter("addenda");
 
-processLetter("A");
-processLetter("B");
-processLetter("D");
-processLetter("G");
-processLetter("H");
-processLetter("I");
-processLetter("K");
-processLetter("L");
-processLetter("M");
-processLetter("N");
-processLetter("P");
-processLetter("R");
-processLetter("S");
-processLetter("T");
-processLetter("U");
-processLetter("W");
-processLetter("Y");
-processLetter("addenda");
+    # Generate HTML similar to original typography.
+    system ("$saxon WCED-complete.xsl WCED-complete.xsl > WCED-complete.xml");
+    system ("perl -S tei2html.pl WCED-complete.xml");
 
-system ("$saxon WCED-complete.xsl WCED-complete.xsl > WCED-complete.xml");
-system ("perl -S tei2html.pl WCED-complete.xml");
-
-# system ("$saxon WCED-body.xml WCED-uptag2.xsl > output.xml");
-# system ("$saxon output.xml WCED-view.xsl > structural.html");
-
-# system ("$saxon WCED-body.xml WCED-downtag.xsl > typographical.xml");
-
-# system ("$saxon output.xml WCED-db.xsl");
-
+    # Generate SQL for database
+    system ("$saxon WCED-collect.xsl WCED-collect.xsl > WCED-structural.xml");
+    system ("$saxon WCED-structural.xml WCED-db.xsl");
+}
 
 sub processLetter
 {
     my $letter = shift;
 
-    system ("perl WCED-downtag.pl WCED-$letter.tei > WCED-typo-$letter.tei");
-    system ("perl -S tei2html.pl WCED-typo-$letter.tei 2> tmp-$letter.err");
+    # system ("perl WCED-downtag.pl WCED-$letter.tei > WCED-typo-$letter.tei");
+    # system ("perl -S tei2html.pl WCED-typo-$letter.tei 2> tmp-$letter.err");
 
     system ("perl -S tei2html.pl -x WCED-$letter.tei 2> tmp.err");
-    system ("$saxon WCED-$letter.xml WCED-uptag2.xsl > tmp.xml");
-    system ("$saxon tmp.xml WCED-view.xsl > structural-$letter.html");
+    system ("$saxon WCED-$letter.xml WCED-uptag2.xsl > structural-$letter.xml");
+    system ("$saxon structural-$letter.xml WCED-view.xsl > structural-$letter.html");
+
+    # Generate SQL
+    system ("$saxon structural-$letter.xml WCED-db.xsl");
+
+    # Generate HTML similar to original typography.
     system ("$saxon WCED-$letter.xml WCED-downtag.xsl > typographical-$letter.xml");
 }
