@@ -27,6 +27,49 @@
 
     <xsl:result-document href="structure.sql" method="text" encoding="UTF-8">
 
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_metadata` 
+(
+    `workid` varchar(4) NOT NULL,
+    `author` varchar(32) NOT NULL default '',
+    `title` varchar(32) NOT NULL default '',
+    `year` varchar(32) NOT NULL default '',
+    `description` text character set utf8 NOT NULL default '',
+
+    PRIMARY KEY (`workid`)
+);
+
+INSERT INTO `<xsl:value-of select="$prefix"/>_metadata` VALUES (
+    'wced', 
+    'John U. Wolff',
+    'A Dictionary of Cebuano Visayan',
+    '1972',
+    'intro'
+    );
+
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_type` 
+(
+    `typeid` int(11) NOT NULL,
+    `description` varchar(32) character set utf8 NOT NULL default '',
+
+    PRIMARY KEY (`typeid`)
+);
+
+INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (0, 'Headwords');
+INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (1, 'All words');
+INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (2, 'Normalized headwords');
+INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (3, 'Normalized words');
+
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_language` 
+(
+    `lang` varchar(5) NOT NULL,
+    `name` varchar(32) NOT NULL default '',
+
+    PRIMARY KEY (`lang`)
+);
+
+INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("ceb", "Cebuano");
+INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("en-US", "English (US)");
+
 CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_entry` 
 (
     `entryid` int(11) NOT NULL auto_increment,
@@ -49,7 +92,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     </xsl:result-document>
 
     <xsl:result-document href="entries.sql" method="text" encoding="UTF-8">
-        <xsl:apply-templates mode="entries" select="//entry"/>
+        <xsl:apply-templates mode="entries" select="dictionary/entry"/>
     </xsl:result-document>
 
 </xsl:template>
