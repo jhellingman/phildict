@@ -419,7 +419,7 @@ Step four
 
 <p><form>tágik</form> <pos>v</pos> <number>1</number> <itype>[A; ac1]</itype> tie things together carefully in construction. <i>Nagtágik siya sa mga nípà didtu sa katsaw,</i> He was tying the nipa strips to the rafters. <i>Gitágik níya ang duha ka bulus kawáyan,</i> He tied two bamboo poles together. <number>2</number> <itype>[A; a]</itype> create s.t. literary or musical.<i> Maáyu siyang mutágik ug sugilánun nga kulbà hínam,</i> He is good in composing suspenseful stories. <number>2a</number> <itype>[a12]</itype> organize or arrange words or ideas. <i>Tagíka (itágik) únà pag-áyu ang ímung mga púlung nga igsusulti,</i> Compose what you are going to say carefully. <form>(&rarr;)</form> <pos>n</pos> s.t. used to tie things together. <form>-in-</form> <pos>n</pos> s.t. constructed by tying. <form>mag-r-(&rarr;)</form> <pos>n</pos> <tr>composer</tr> of poems or songs.
 
-<p><form>tagiktik</form> <pos>n</pos> <tr>ticking</tr>, clicking. <i>Tinagiktik sa rilu,</i> <pb n=959>Ticking of the clock. <pos>v</pos> <itype>[A; c1]</itype> make the sound of tick-tick, pink-pink, or click-click. <i>Mitagiktik ang bildu nga nahúgan sa lansang,</i> The glass went pink-pink when the nails fell on it. <i>Hastang nakatagiktik sa íyang makinilya,</i> My! Her typewriter went clickity-clack.
+<p><form>tagiktik</form> <pos>n</pos> <tr>ticking</tr>, clicking. <i>Tinagiktik sa rilu,</i> <pb n=959>Ticking of the clock. <pos>v</pos> <itype>[A; c1]</itype> make the sound of tick-tick, pink-pink, or click-click. <i>Mitagiktik ang bildu nga nahúgan sa lansang,</i> The glass went pink-pink when the nails fell on it. <i>Hastang nakatagiktik sa íyang makinilya,</i> My! Her typewriter went <corr sic="clickity-clack">clickety-clack</corr>.
 
 <p><form>tagilhus</form> <xr>= <sc>TAGULHUS</sc>.</xr>
 
@@ -3376,7 +3376,7 @@ Step four
 
 <p><form>tsukuláti</form> (not without <ix>l</ix>), <form>tsukulit</form> <pos>n</pos> <tr>chocolate drink</tr>. <pos>v</pos> <itype>[A; a2]</itype> have, make a chocolate drink. <form>ka-</form> <pos>v</pos> <itype>[A13]</itype> get chocolate all over it. <i>Nagkatsukuláti ang mantil,</i> The tablecloth has chocolate all over it.
 
-<p><form>tsulítas</form> <pos>n</pos> k.o. dish of breaded pork chops, where the meat is pulled to the bottom of the rib bone. <pos>v</pos> <itype>[A; a]</itype> make <tr>chuletas</tr>.
+<p><form>tsulítas</form> <pos>n</pos> k.o. dish of breaded pork chops, where the meat is pulled to the bottom of the rib bone. <pos>v</pos> <itype>[A; a]</itype> make <tr><ix>chuletas</ix></tr>.
 
 <p><form>tsunggu</form> <pos>n</pos> small <tr>monkey</tr>.
 
