@@ -81,8 +81,8 @@ INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("en-US", "Englis
 CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_entry`
 (
     `entryid` int(11) NOT NULL auto_increment,
-    `page` varchar(4) NOT NULL default '',
     `word` varchar(32) character set utf8 NOT NULL default '',
+    `page` varchar(4) NOT NULL default '',
     `entry` text character set utf8 NOT NULL default '',
 
     PRIMARY KEY (`entryid`),
@@ -102,7 +102,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 </xsl:template>
 
 
-<xsl:template mode="entries" match="entry">
+<xsl:template mode="entries" match="dictionary/entry">
 
     <xsl:variable name="entryid">
         <xsl:value-of select="position()"/>
@@ -113,7 +113,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     </xsl:variable>
 
     <xsl:variable name="word">
-        <xsl:value-of select=".//w[1]"/>
+        <xsl:value-of select="(.//w)[1]"/>
     </xsl:variable>
 
     <xsl:value-of select="local:insertEntrySql($entryid, $word, $entrytext, @page)"/>
