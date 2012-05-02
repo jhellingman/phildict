@@ -14,20 +14,29 @@
     version="2.0"
     exclude-result-prefixes="xs dc local fn">
 
-<xsl:output 
-    method="text" 
+<xsl:output
+    method="text"
     indent="no"
     encoding="UTF-8"/>
 
+
 <xsl:key name="id" match="*[@id]" use="@id"/>
+
 
 <xsl:variable name="prefix" select="'wced'"/>
 
+
 <xsl:template match="/">
+    <xsl:result-document href="entries.sql" method="text" encoding="UTF-8">
+        <xsl:call-template name="database-structure"/>
+        <xsl:apply-templates mode="entries" select="dictionary/entry"/>
+    </xsl:result-document>
+</xsl:template>
 
-    <xsl:result-document href="structure.sql" method="text" encoding="UTF-8">
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_metadata` 
+<xsl:template name="database-structure">
+
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_metadata`
 (
     `workid` varchar(4) NOT NULL,
     `author` varchar(32) NOT NULL default '',
@@ -39,27 +48,26 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_metadata`
 );
 
 INSERT INTO `<xsl:value-of select="$prefix"/>_metadata` VALUES (
-    'wced', 
+    'wced',
     'John U. Wolff',
     'A Dictionary of Cebuano Visayan',
     '1972',
     'intro'
     );
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_type` 
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_flag`
 (
-    `typeid` int(11) NOT NULL,
+    `flagid` int(11) NOT NULL,
     `description` varchar(32) character set utf8 NOT NULL default '',
 
-    PRIMARY KEY (`typeid`)
+    PRIMARY KEY (`flagid`)
 );
 
-INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (0, 'Headwords');
-INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (1, 'All words');
-INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (2, 'Normalized headwords');
-INSERT INTO `<xsl:value-of select="$prefix"/>_type` VALUES (3, 'Normalized words');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (1, 'Headwords');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (2, 'Other words');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (4, 'Normalized');
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_language` 
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_language`
 (
     `lang` varchar(5) NOT NULL,
     `name` varchar(32) NOT NULL default '',
@@ -70,30 +78,26 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_language`
 INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("ceb", "Cebuano");
 INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("en-US", "English (US)");
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_entry` 
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_entry`
 (
     `entryid` int(11) NOT NULL auto_increment,
     `page` varchar(4) NOT NULL default '',
+    `word` varchar(32) character set utf8 NOT NULL default '',
     `entry` text character set utf8 NOT NULL default '',
 
-    PRIMARY KEY (`entryid`)
+    PRIMARY KEY (`entryid`),
+    KEY `word` (`word`)
 );
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word` 
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 (
     `entryid` int(11) NOT NULL,
-    `type` int(11) NOT NULL,
+    `flags` int(11) NOT NULL,
     `word` varchar(32) character set utf8 NOT NULL default '',
     `lang` varchar(5) NOT NULL default '',
 
     KEY `word` (`word`)
 );
-
-    </xsl:result-document>
-
-    <xsl:result-document href="entries.sql" method="text" encoding="UTF-8">
-        <xsl:apply-templates mode="entries" select="dictionary/entry"/>
-    </xsl:result-document>
 
 </xsl:template>
 
@@ -108,7 +112,11 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
         <xsl:apply-templates mode="nodetostring" select="."/>
     </xsl:variable>
 
-    <xsl:value-of select="local:insertEntrySql($entryid, $entrytext, @page)"/>
+    <xsl:variable name="word">
+        <xsl:value-of select=".//w[1]"/>
+    </xsl:variable>
+
+    <xsl:value-of select="local:insertEntrySql($entryid, $word, $entrytext, @page)"/>
 
     <!-- Find all words with language for this entry -->
     <xsl:variable name="words">
@@ -118,14 +126,16 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     <!-- Find unique words in entry -->
     <xsl:for-each-group select="$words/w" group-by="@xml:lang">
         <xsl:for-each-group select="current-group()" group-by=".">
-            <xsl:value-of select="local:insertWordSql($entryid, current-group()[1]/@type, current-group()[1], current-group()[1]/@xml:lang)"/>
+            <xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then current-group()[1]/@flags  + 4 else current-group()[1]/@flags"/>
+
+            <xsl:value-of select="local:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
         </xsl:for-each-group>
     </xsl:for-each-group>
 
     <!-- Find unique normalized forms in entry -->
     <xsl:for-each-group select="$words/w[@form != .]" group-by="@xml:lang">
         <xsl:for-each-group select="current-group()" group-by=".">
-            <xsl:value-of select="local:insertWordSql($entryid, current-group()[1]/@type + 2, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
+            <xsl:value-of select="local:insertWordSql($entryid, current-group()[1]/@flags + 4, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
         </xsl:for-each-group>
     </xsl:for-each-group>
 
@@ -145,12 +155,15 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 
 <xsl:function name="local:insertEntrySql">
     <xsl:param name="entryid"/>
+    <xsl:param name="word"/>
     <xsl:param name="entry"/>
     <xsl:param name="page"/>
 
     <xsl:text>&lf;</xsl:text>
     <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_entry` VALUES (</xsl:text>
         <xsl:value-of select="$entryid"/>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$page"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
@@ -159,11 +172,11 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 </xsl:function>
 
 
-<!-- INSERT INTO `wced_word` VALUES (id, type, "word", "lang"); -->
+<!-- INSERT INTO `wced_word` VALUES (id, flags, "word", "lang"); -->
 
 <xsl:function name="local:insertWordSql">
     <xsl:param name="wordid"/>
-    <xsl:param name="type"/>
+    <xsl:param name="flags"/>
     <xsl:param name="word"/>
     <xsl:param name="lang"/>
 
@@ -171,7 +184,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_word` VALUES (</xsl:text>
         <xsl:value-of select="$wordid"/>
         <xsl:text>, </xsl:text>
-        <xsl:value-of select="$type"/>
+        <xsl:value-of select="$flags"/>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
@@ -196,21 +209,25 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     <xsl:value-of select="fn:replace(fn:normalize-unicode($string, 'NFD'), '\p{M}', '')"/>
 </xsl:function>
 
+
 <!-- Ignore codes and numbers -->
 <xsl:template mode="words" match="pos | itype | number | sub"/>
 
+
 <xsl:template mode="words" match="text()">
     <xsl:variable name="lang" select="(ancestor-or-self::*/@lang|ancestor-or-self::*/@xml:lang)[last()]"/>
-    
-    <!-- Determine word type: 0 if headword or suggested translation; 1 otherwise -->
-    <xsl:variable name="type" select="if (ancestor-or-self::form|ancestor-or-self::tr) then 0 else 1"/>
 
+    <!-- Determine word type flags: 1 if headword or suggested translation; 2 otherwise -->
+    <xsl:variable name="flags" select="if (ancestor-or-self::form|ancestor-or-self::tr) then 1 else 2"/>
+    
     <xsl:for-each select="local:words(.)">
         <xsl:if test=". != ''">
             <w>
+                <xsl:variable name="form" select="fn:lower-case(local:strip_diacritics(.))"/>
+
                 <xsl:attribute name="xml:lang" select="$lang"/>
-                <xsl:attribute name="form" select="fn:lower-case(local:strip_diacritics(.))"/>
-                <xsl:attribute name="type" select="$type"/>
+                <xsl:attribute name="form" select="$form"/>
+                <xsl:attribute name="flags" select="$flags"/>
                 <xsl:value-of select="."/>
             </w>
         </xsl:if>
@@ -218,9 +235,9 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 </xsl:template>
 
 
-<!-- Begin node to string convertion -->
+<!-- Begin node to string conversion -->
 
-<!-- Taken from https://raw.github.com/iwyg/xml-nodeset-to-string/master/nodetostring.xsl 
+<!-- Taken from https://raw.github.com/iwyg/xml-nodeset-to-string/master/nodetostring.xsl
 See: http://symphony-cms.com/download/xslt-utilities/view/79266/
 
 Copyright 2011, Thomas Appel, http://thomas-appel.com, mail(at)thomas-appel.com
@@ -292,6 +309,6 @@ http://dev.thomas-appel.com/licenses/gpl.txt
     </xsl:if>
 </xsl:template>
 
-<!-- End node to string convertion -->
+<!-- End node to string conversion -->
 
 </xsl:stylesheet>

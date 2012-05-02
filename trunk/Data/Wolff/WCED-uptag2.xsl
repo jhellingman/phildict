@@ -336,7 +336,7 @@
 
     <!-- formx becomes form again -->
     <xsl:template mode="phase2" match="formx">
-        <form>
+        <form lang="ceb">
             <xsl:apply-templates mode="splitoncommas" select="@*|node()"/>
         </form>
     </xsl:template>
