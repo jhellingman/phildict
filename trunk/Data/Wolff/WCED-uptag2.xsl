@@ -95,9 +95,7 @@
             <xsl:text>&lf;&lf;</xsl:text>
             <entry>
                 <xsl:attribute name="page" select="preceding::pb[1]/@n"/>
-                <xsl:attribute name="id">
-                    <xsl:number format="1" level="any" count="p"/>
-                </xsl:attribute>
+                <xsl:attribute name="id" select="@id"/>
                 <xsl:call-template name="split-entry">
                     <xsl:with-param name="nodes" select="*|text()"/>
                 </xsl:call-template>

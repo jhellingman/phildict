@@ -27,10 +27,8 @@
 
 
 <xsl:template match="/">
-    <xsl:result-document href="entries.sql" method="text" encoding="UTF-8">
-        <xsl:call-template name="database-structure"/>
-        <xsl:apply-templates mode="entries" select="dictionary/entry"/>
-    </xsl:result-document>
+    <xsl:call-template name="database-structure"/>
+    <xsl:apply-templates mode="entries" select="dictionary/entry"/>
 </xsl:template>
 
 
@@ -105,7 +103,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 <xsl:template mode="entries" match="dictionary/entry">
 
     <xsl:variable name="entryid">
-        <xsl:value-of select="position()"/>
+        <xsl:value-of select="@id"/>
     </xsl:variable>
 
     <xsl:variable name="entrytext">
