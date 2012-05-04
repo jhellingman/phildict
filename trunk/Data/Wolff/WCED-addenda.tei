@@ -33,46 +33,6 @@
 <!ENTITY Prime      CDATA "''"            -- double prime -->
 
 ]>
-
-<!--
-
-Step one
-
-[X] Run pgpp.pl
-[X] Fix page-breaks
-[X] Fix hi tags (back to i tags)
-[X] Insert p tags
-[X] Run catpars.pl
-
-Step two
-
-[ ] tag pos: n v
-[ ] tag pos: a
-[ ] tag sense numbers (split of from b tags, look for /<b>word [0-9]</b>/ case
-[ ] verify &apos;real&apos; italics (not samples), look for /[a-z] italics>/ case
-[ ] verify meaning numbers followed by sub-head-word or phrase <b>[0-9] word</b> case
-[ ] italics and bolds midword. E.g. A<i>ng</i>
-[ ] remove redundant tags near commas.
-[ ] handle sup tags
-[ ] verify starred entries (sub-entry immediately after headword)
-[ ] handle [**proofer notes]
-[ ] handle quotes. look for " &apos;", etc.
-[ ] Renumber pages.
-
-Step three
-
-Iterate:
-    [X] Run WCED-uptag1.pl
-    [ ] Run uptag.pl
-    [ ] Verify output for anomalies and fix in source
-
-Step four
-
-[X] Run WCED-uptag1.pl
-[ ] Integrate result into WCED-body-0.3
-
--->
-
 <TEI.2 lang=en>
 <teiHeader>
     <fileDesc>
@@ -890,7 +850,7 @@ Step four
 
 <p id=21390><form>ísi<sub>3</sub></form> <pos>n</pos> <number>2</number> metal bar or rod formed into a letter S, usually hooked on to a horizontal bar and used for hanging objects.
 
-<p id=21391>iskram<sub>2</sub> <tr>scram</tr>, <tr>get out</tr> of here.
+<p id=21391><form>iskram<sub>2</sub></form> <tr>scram</tr>, <tr>get out</tr> of here.
 
 <p id=21392><form>ispiktur</form> <xr>= <sc>INSPIKTUR</sc>.</xr>
 

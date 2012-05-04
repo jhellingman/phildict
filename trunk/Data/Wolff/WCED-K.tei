@@ -241,7 +241,7 @@
 
 <p id=8120><form>kabug<sub>1</sub></form> <pos>n</pos> k.o. large fruit bat with a dark brown color, growing to a five or even seven-foot wingspan. The flesh is highly esteemed. <form>kabgan</form> <pos>n</pos> abode of this sort of bat. <form>-in-</form> <pos>v</pos> <itype>[A; b6]</itype> stay awake at night and sleep during the day like a bat. <i>Pirmi kung mabilar kay nagkinabug ang bátà,</i> I&apos;m always losing sleep because the child stays awake at night. <pos>n</pos> a k.o. triple-looped hitch used to fasten a line to a piece of wood so that it will not slip when the rope is pulled parallel to the wood. So called because the loops form what look like a bat&apos;s claws holding to the wood.
 
-<p id=8121><form>kabug<sub>2</sub></form> <pos>n</pos> variety of millet (dáwa) that is small, rounded, and dark, but highly prized.
+<p id=8121><form>kabug<sub>2</sub></form> <pos>n</pos> variety of millet (<ix>dáwa</ix>) that is small, rounded, and dark, but highly prized.
 
 <p id=8122><form>kabugasun, kabugwasun</form> <pos>n</pos> morning star.
 
@@ -853,7 +853,7 @@
 
 <p id=8424><form>kalub</form> <pos>a</pos> for the surface of s.t. round and flat to be depressed. <i>Dílì giyud muhárì ning usa ka dakúa kay kalub man ang patay,</i> This one centavo coin will not come up heads because its tail is depressed. <pos>v</pos> <itype>[B; a12]</itype> get depressed in the middle. <i>Nagkalub man lang ang ági niíning plakáha,</i> My! How warped this record is.
 
-<p id=8425><form>kalubay</form> <pos>n</pos> a variety of common squash that has a club-shaped fruit, 2&ndash;4&prime; long, with smooth whitish-green skin and white flesh, the skin and flesh of which are edible. It is sold commercially as kalbásang putì: <bio>Lagenaria leucantha</bio>. <pos>v</pos> <itype>[A13; b6]</itype> cook <ix>kalubay</ix> or with <ix>kalubay</ix>.
+<p id=8425><form>kalubay</form> <pos>n</pos> a variety of common squash that has a club-shaped fruit, 2&ndash;4&prime; long, with smooth whitish-green skin and white flesh, the skin and flesh of which are edible. It is sold commercially as <ix>kalbásang putì</ix>: <bio>Lagenaria leucantha</bio>. <pos>v</pos> <itype>[A13; b6]</itype> cook <ix>kalubay</ix> or with <ix>kalubay</ix>.
 
 <p id=8426><form>kalúbid</form> <pos>n</pos> an old variety of paddy rice with white grains.
 
@@ -1013,7 +1013,7 @@
 
 <p id=8502><form>kambiyúlu</form> <pos>n</pos> <number>1</number> vertical <tr>roulette</tr>, table roulette. <number>2</number> raffle drum.
 
-<p id=8503><form>kambúha</form> <pos>n</pos> <number>1</number> chicken whose feathers are naturally upturned like those of an angry hen. <number>2</number> name given to <tr>fish</tr> with fins sticking out prominently like the kambúha chicken, e.g. kinds of dragonets.
+<p id=8503><form>kambúha</form> <pos>n</pos> <number>1</number> chicken whose feathers are naturally upturned like those of an angry hen. <number>2</number> name given to <tr>fish</tr> with fins sticking out prominently like the <ix>kambúha</ix> chicken, e.g. kinds of dragonets.
 
 <p id=8504><form>*kamhir</form> <form>nagdala ug &mdash;</form> for a woman&apos;s action to have a note of <tr>flirtation</tr> in it. <i>Ang íyang pahíyum nagdala ug kamhir,</i> Her smile said, &lsquo;Come here.&rsquo;
 
@@ -1339,7 +1339,7 @@
 
 <p id=8662><form>kanyáhay</form> <number>1</number> no wonder [such-and-such] a thing usually happens. <i>Kanyáhay kang maníwang kay dì ka mukáun,</i> No wonder you lose weight. You don&apos;t eat. <number>2</number> <formx>sa &mdash;</formx> eventually, in the long run. <i>Sa kanyáhay mamatay ra giyud siya tungud sa ínum,</i> In the long run he will die from drinking too much.
 
-<p id=8663><form>kanyamásu, kanyamu</form> <pos>n</pos> k.o. thin transparent cloth made of pineapple, maguey, or abaca fiber. <i>Ang kanyamu mauy tahiun nga kimúna,</i> Kanyamu cloth is used for the <ix>kimona</ix>.
+<p id=8663><form>kanyamásu, kanyamu</form> <pos>n</pos> k.o. thin transparent cloth made of pineapple, maguey, or abaca fiber. <i>Ang kanyamu mauy tahiun nga kimúna,</i> <ix>Kanyamu</ix> cloth is used for the <ix>kimona</ix>.
 
 <p id=8664><form>kanyunásu</form> <ix>see</ix> <xr><sc>KANIYUN<sub>1</sub></sc>.</xr>
 
@@ -1509,7 +1509,7 @@
 
 <p id=8746><form>karáhu<sub>3</sub></form> <pos>n</pos> <tr>penis</tr> (slang).
 
-<p id=8747><form>karakara</form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>hurry</tr> s.o. or oneself up. <i>Káda human sa ámung trabáhu mukarakara dáyun kug paúlì,</i> As soon as work is over, I hurry home. <i>Dì ka angayan mukarakára níyag súgù,</i> It&apos;s not right for you to give her orders and tell her to hurry it up. karakarahun a fond of hurrying others.
+<p id=8747><form>karakara</form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>hurry</tr> s.o. or oneself up. <i>Káda human sa ámung trabáhu mukarakara dáyun kug paúlì,</i> As soon as work is over, I hurry home. <i>Dì ka angayan mukarakára níyag súgù,</i> It&apos;s not right for you to give her orders and tell her to hurry it up. <form>karakarahun</form> <pos>a</pos> fond of hurrying others.
 
 <p id=8748><form>karaktir<sub>1</sub></form> <pos>n</pos> <tr>character</tr> in fiction.
 
@@ -1846,7 +1846,7 @@
 
 <p id=8911><form>kaskás</form> <xr>= <sc>KALASKÁLAS</sc>.</xr>
 
-<p id=8912><form>kasku</form> <pos>n</pos> <number>1</number> the <tr>framework</tr> and the main structure of s.t. without appendages. <i>Kasku sa sakayan,</i> The hull of the boat. Kasku sa kutsi, The body of the car. <i>Kasku sa táwu,</i> The torso of a man. <i>Kasku sa muskitíru,</i> Walling of the mosquito net. <number>2</number> a blunt-bowed wooden boat with square stern about 30&prime; long, towed or with a sail, used for lightering or for river or coastal transport. It is so called because it consists of little more than a hull. <pos>v</pos> <itype>[A; a]</itype> build the basic structure of s.t., use as the basic structure. <i>Wà pa ku makakasku sa ákung muskitíru kay wà pa kuy ilangitlángit,</i> I haven&apos;t made the sides of the mosquito net because I don&apos;t have materials for the top.
+<p id=8912><form>kasku</form> <pos>n</pos> <number>1</number> the <tr>framework</tr> and the main structure of s.t. without appendages. <i>Kasku sa sakayan,</i> The hull of the boat. <i>Kasku sa kutsi,</i> The body of the car. <i>Kasku sa táwu,</i> The torso of a man. <i>Kasku sa muskitíru,</i> Walling of the mosquito net. <number>2</number> a blunt-bowed wooden boat with square stern about 30&prime; long, towed or with a sail, used for lightering or for river or coastal transport. It is so called because it consists of little more than a hull. <pos>v</pos> <itype>[A; a]</itype> build the basic structure of s.t., use as the basic structure. <i>Wà pa ku makakasku sa ákung muskitíru kay wà pa kuy ilangitlángit,</i> I haven&apos;t made the sides of the mosquito net because I don&apos;t have materials for the top.
 
 <p id=8913><form>kaskug</form> <pos>v</pos> <itype>[A12]</itype> muster enough strength to move or to do s.t. <i>Dì pa makakaskug sa pagbángun ang masakitun,</i> The patient doesn&apos;t have enough strength to get up out of bed.
 
@@ -2745,7 +2745,7 @@
 
 <p id=9354><form>kíyus</form> <pos>v</pos> <itype>[B2]</itype> for meat to shrink. <i>Mu rag daghan nang karníha, piru ug malútù, mukíyus na,</i> That looks like a lot of meat, but when you cook it, it&apos;s going to shrink.
 
-<p id=9355><form>kíyut</form> <pos>n</pos> <number>1</number> k.o. wild black bee that does not sting, smaller than a fly. It builds a nest of wax (kabulay) in sheltered places, often dwellings, and produces a small amount of honey. <number>2</number> <xr>= <sc>KABULAY</sc>.</xr>
+<p id=9355><form>kíyut</form> <pos>n</pos> <number>1</number> k.o. wild black bee that does not sting, smaller than a fly. It builds a nest of wax (<ix>kabulay</ix>) in sheltered places, often dwellings, and produces a small amount of honey. <number>2</number> <xr>= <sc>KABULAY</sc>.</xr>
 
 <p id=9356><form>KKK</form> <pos>n</pos> letters placed in the center of the flag of the insurgents against the Spaniards, an abbreviation of the Tagalog name of their society: <ix>Kataastaásang Kagalanggalángang <pb n=479>Katipúnan ng mga Anak ng Báyan</ix> &lsquo;The Supreme, Most Venerable, Union of the Sons of the Nation&rsquo;.
 
@@ -4075,7 +4075,7 @@
 
 <p id=10010><form>kurà</form> <pos>n</pos> <number>1</number> the money which circulated during the Japanese occupation. <number>2</number> Japanese.
 
-<p id=10011><form>kuradang</form> <pos>n</pos> <number>1</number> name of a k.o. folk dance with lively movements. <number>2</number> general name for dancing. <number>3</number> insulting term of address to a woman named <ix>Dádang</ix>. <pos>v</pos> <itype>[A]</itype> <number>1</number> dance the kuradang or with lively movements. <number>2</number> go to a dance. <form>&mdash; kun danggit</form> nonsense words used to fill out the lines in a rhyme. <i>Kuradang kun danggit, Kumusta ang inun-únan, Mudúul lag muduslit, Dáyung dalágan,</i> <ix>Kuradang</ix> or <ix>danggit</ix> (k.o. fish), How is it stewed in vinegar? He only comes near me if he wants sex, and then, when he&apos;s done, he leaves me.
+<p id=10011><form>kuradang</form> <pos>n</pos> <number>1</number> name of a k.o. folk dance with lively movements. <number>2</number> general name for dancing. <number>3</number> insulting term of address to a woman named <ix>Dádang</ix>. <pos>v</pos> <itype>[A]</itype> <number>1</number> dance the <ix>kuradang</ix> or with lively movements. <number>2</number> go to a dance. <form>&mdash; kun danggit</form> nonsense words used to fill out the lines in a rhyme. <i>Kuradang kun danggit, Kumusta ang inun-únan, Mudúul lag muduslit, Dáyung dalágan,</i> <ix>Kuradang</ix> or <ix>danggit</ix> (k.o. fish), How is it stewed in vinegar? He only comes near me if he wants sex, and then, when he&apos;s done, he leaves me.
 
 <p id=10012><form>kurag</form> <pos>a</pos> for a woman to be fast. <i>Túa na sang kurag, mau pa gánì pag-abut gíkan sa sini, mangnayitklab na pud,</i> There goes that fast woman again. She just got home from the movies. Now she&apos;s going to the night club. <pos>v</pos> <itype>[B12]</itype> get to be fast. <i>Nakurag na dà, sukad nakapuyù ug syudad,</i> She&apos;s gotten to be a fast gal since she went to live in the city. <form>-an</form> <pos>a</pos> <xr>= <sc>KURAG</sc>.</xr>
 
@@ -4149,7 +4149,7 @@
 
 <p id=10046><form>kurídas</form> <pos>n</pos> <number>1</number> for a number of examples of an item to be bought or otherwise taken at random without selection. <i>Tagsingku písus ang gatus sa tamátis, apan kurídas. Walay pílì,</i> Tomatoes are five pesos a hundred, but you take them at random. You&apos;re not allowed to choose. <i>Kurídas ang pagkasulud sa prútas sa baskit,</i> They put the fruits in the basket without sorting them out. <pos>v</pos> <itype>[A; a]</itype> <number>1</number> take a bunch without selecting. <number>2a</number> in billiards, make a carom with all the three balls in straight line but with the cue ball not bouncing off the sides of the billiard table. <number>2b</number> shoot two or more billiards into the pocket with one shot.
 
-<p id=10047><form>kurídu</form> <pos>n</pos> long narrative poem made for oral recitation, but otherwise like the <ix>kumpúsu</ix>. <pos>v</pos> <number>1</number> <itype>[A; b6(1)]</itype> recite the kurídu. <number>2</number> <itype>[c1]</itype> make a story into a <ix>kurídu</ix>.
+<p id=10047><form>kurídu</form> <pos>n</pos> long narrative poem made for oral recitation, but otherwise like the <ix>kumpúsu</ix>. <pos>v</pos> <number>1</number> <itype>[A; b6(1)]</itype> recite the <ix>kurídu</ix>. <number>2</number> <itype>[c1]</itype> make a story into a <ix>kurídu</ix>.
 
 <p id=10048><form>kuridur<sub>1</sub></form> <pos>n</pos> corridor.
 
@@ -4419,7 +4419,7 @@
 
 <p id=10181><form>kutána</form> <pos>v</pos> <itype>[a1]</itype> ask a question, inquire about. <i>Kutan-a siyag unsa ni,</i> Ask her what this is. <form>paN-</form> <pos>v</pos> <itype>[A; b5]</itype> ask a question, inquire about. <i>Nangutána ang kustumir sa prisyu,</i> The customer asked about the price. <i>Syárug wà tay kapangutan-an (mapangutána) nga uturidad sa panulat,</i> We could surely ask s.o. who is an authority on writing. <i>Unsay ímung ipangutána?</i> What would you like to ask? <pos>n</pos> question, asking. <form>mapangutan-un</form> <pos>a</pos> questioning, showing curiosity.
 
-<p id=10182><form>kutang<sub>1</sub></form> <pos>v</pos> <itype>[A; b6]</itype> faint. <i>Mikutang si Pí pagkabasa sa tiligráma,</i> Fe fainted upon reading the telegram. Ínit kaáyu didtu sa kwartung íyang gikutangan, It was hot inside the room where she fainted.
+<p id=10182><form>kutang<sub>1</sub></form> <pos>v</pos> <itype>[A; b6]</itype> faint. <i>Mikutang si Pí pagkabasa sa tiligráma,</i> Fe fainted upon reading the telegram. <i>Ínit kaáyu didtu sa kwartung íyang gikutangan,</i> It was hot inside the room where she fainted.
 
 <p id=10183><form>kutang<sub>2</sub></form> <pos>v</pos> <itype>[B]</itype> for s.t. that flows or blows to lessen in intensity. <i>Manágat tag mukutang na ang hángin,</i> Let&apos;s go fishing once the wind stops blowing. <i>Turniki ra ang nakakutang (nakapakutang) sa dugù sa íyang samad,</i> The tourniquet caused the flow from her wound to stop.
 
@@ -4495,7 +4495,7 @@
 
 <p id=10219><form>kutsítis</form> <pos>n</pos> small snap <tr>fasteners</tr> on clothing. <pos>v</pos> <itype>[A; b]</itype> attach snap fastener on s.t. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> fasten one&apos;s snaps. <i>Milakaw siya nga wà makapangutsítis sa kílid,</i> She went out without snapping up her sides.
 
-<p id=10220><form>kutsitsa</form> <pos>n</pos> <number>1</number> <tr>crop</tr>, <tr>harvest</tr>. <i>Ikaduha kining kutsitsa námù karung tuíga,</i> This is our second harvest this year. <number>2</number> amount harvested. <i>Gamay ra tung kutsitsa,</i> It was a small harvest. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> have [so-and-so] many crops. <i>Mukutsitsa kamig katulu sa usa ka túig,</i> We can have as many as three harvests a year. <number>2</number> <itype>[A; c6]</itype> <tr>raise</tr>, <tr>plant</tr> a certain crop. <i>Gustu ka bang mukutsitsa ug kurikit karung timpúha?</i> How would you like to raise kurikit rice this season?
+<p id=10220><form>kutsitsa</form> <pos>n</pos> <number>1</number> <tr>crop</tr>, <tr>harvest</tr>. <i>Ikaduha kining kutsitsa námù karung tuíga,</i> This is our second harvest this year. <number>2</number> amount harvested. <i>Gamay ra tung kutsitsa,</i> It was a small harvest. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> have [so-and-so] many crops. <i>Mukutsitsa kamig katulu sa usa ka túig,</i> We can have as many as three harvests a year. <number>2</number> <itype>[A; c6]</itype> <tr>raise</tr>, <tr>plant</tr> a certain crop. <i>Gustu ka bang mukutsitsa ug kurikit karung timpúha?</i> How would you like to raise <ix>kurikit</ix> rice this season?
 
 <p id=10221><form>kutsu</form> <pos>n</pos> k.o. women&apos;s <tr>slipper</tr>, made of thick soles and solid cloth or leather end. <pos>v</pos> <itype>[A1; c6]</itype> wear this sort of slipper.
 
@@ -4677,7 +4677,7 @@
 
 <p id=10310><form>kwarisma</form> <pos>n</pos> <tr>Lent</tr>. <pos>v</pos> <number>1</number> <itype>[B256; b4(1)]</itype> be the Lenten season. <i>Hikwarismahan pa ang ikaduhang simistri,</i> The second semester classes will still be on during Lent. <number>2</number> <itype>[B1456]</itype> be sad and gloomy. <i>Kanúnay lang nang nagkuwarisma ang ímung panagway. Unsa bay <pb n=535>suliran mu?</i> You are always sad and gloomy. What is the matter? <form>paN-</form> <pos>v</pos> <itype>[A23; b6]</itype> spend Lent s.w.
 
-<p id=10311><form>kwarta<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>money</tr>. <number>2</number> it&apos;s going to be a profit, a point, be in the bag. <i>Ug masyát nà ni Mumar run, kwarta na,</i> If Mumar sinks that ball, the game will be in the bag. <i>Ug alas ning mabúnut ku, kwarta,</i> If the card I&apos;m going to draw turns out to be an ace, it&apos;s going to help me a lot. <pos>v</pos> <number>1</number> <itype>[A; a]</itype> <tr>buy</tr>, <tr>purchase</tr> s.t. <i>Mukwarta kug kindi pára sa bátà,</i> I&apos;ll buy some candy for the child. <i>Unsay ímung kwartáhun sa tindáhan,</i><note>?</note> What are you going to buy in the store? <number>2</number> <itype>[A12; b8]</itype> make money out of s.t.; secure money. <i>Nakakwarta kug arang-arang sa ákung nigusyu,</i> I have made quite a profit from my business. <i>Makwartahan (makwarta) ra gihápun ni nátung tinígum nga papil,</i> We can still make some money out of the waste paper we are saving. <form>paN-</form> <pos>v</pos> <itype>[A2; b5]</itype> <number>1</number> engage in s.t. as a means of earning money. <i>Mangwarta ku sa Nigrus inigtingtápas sa tubu,</i> I&apos;ll go to Negros to earn some money during the season for harvesting sugar cane. <number>2</number> earn money illegally, immorally. <i>Nakwartáhan nang mayúra kay nangwarta sa íyang katungdánan,</i> That mayor became wealthy because he enriched himself in office. <i>Ayaw mug apil ánang Ápag kay tingálig pangwartáhun (pangwartáhan) lang mu niánà,</i> Don&apos;t pay <xr><sc>AFAG</sc></xr> (Anderson&apos;s Filipino-American Guerillas) a membership fee. They&apos;ll just get money out of you for nothing. <pos>n</pos> means of getting money, esp. for a living. <form>kwartáhan</form> <pos>a</pos> moneyed, wealthy. <pos>v</pos> <itype>[B12]</itype> become wealthy.
+<p id=10311><form>kwarta<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>money</tr>. <number>2</number> it&apos;s going to be a profit, a point, be in the bag. <i>Ug masyát nà ni Mumar run, kwarta na,</i> If Mumar sinks that ball, the game will be in the bag. <i>Ug alas ning mabúnut ku, kwarta,</i> If the card I&apos;m going to draw turns out to be an ace, it&apos;s going to help me a lot. <pos>v</pos> <number>1</number> <itype>[A; a]</itype> <tr>buy</tr>, <tr>purchase</tr> s.t. <i>Mukwarta kug kindi pára sa bátà,</i> I&apos;ll buy some candy for the child. <i>Unsay ímung kwartáhun sa tindáhan,</i><note>?</note> What are you going to buy in the store? <number>2</number> <itype>[A12; b8]</itype> make money out of s.t.; secure money. <i>Nakakwarta kug arang-arang sa ákung nigusyu,</i> I have made quite a profit from my business. <i>Makwartahan (makwarta) ra gihápun ni nátung tinígum nga papil,</i> We can still make some money out of the waste paper we are saving. <form>paN-</form> <pos>v</pos> <itype>[A2; b5]</itype> <number>1</number> engage in s.t. as a means of earning money. <i>Mangwarta ku sa Nigrus inigtingtápas sa tubu,</i> I&apos;ll go to Negros to earn some money during the season for harvesting sugar cane. <number>2</number> earn money illegally, immorally. <i>Nakwartáhan nang mayúra kay nangwarta sa íyang katungdánan,</i> That mayor became wealthy because he enriched himself in office. <i>Ayaw mug apil ánang Ápag kay tingálig pangwartáhun (pangwartáhan) lang mu niánà,</i> Don&apos;t pay AFAG (Anderson&apos;s Filipino-American Guerillas) a membership fee. They&apos;ll just get money out of you for nothing. <pos>n</pos> means of getting money, esp. for a living. <form>kwartáhan</form> <pos>a</pos> moneyed, wealthy. <pos>v</pos> <itype>[B12]</itype> become wealthy.
 
 <p id=10312><form>kwarta<sub>2</sub></form> <form>&mdash; klási, martsa, parti</form> <tr>fourth</tr> class, gear, part. <pos>n</pos> fourth gear. <pos>v</pos> <itype>[A; c6]</itype> put into fourth gear.
 
