@@ -13,26 +13,26 @@
             <xsl:apply-templates select="document('WCED-frontmatter.xml')//front/*" />
         </front>
         <body>
-            <xsl:apply-templates select="document('typographical-A.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-B.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-D.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-G.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-H.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-I.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-K.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-L.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-M.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-N.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-P.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-R.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-S.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-T.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-U.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-W.xml')//body/*" />
-            <xsl:apply-templates select="document('typographical-Y.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-A.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-B.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-D.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-G.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-H.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-I.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-K.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-L.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-M.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-N.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-P.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-R.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-S.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-T.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-U.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-W.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-Y.xml')//body/*" />
         </body>
         <back id="backmatter">
-            <xsl:apply-templates select="document('typographical-addenda.xml')//body/*" />
+            <xsl:apply-templates select="document('output/typographical-addenda.xml')//body/*" />
             <xsl:apply-templates select="document('WCED-backmatter.xml')//back/*" />
             <xsl:apply-templates select="document('WCED-frontmatter.xml')//back/*" />
         </back>

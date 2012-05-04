@@ -31,46 +31,6 @@
 <!ENTITY Prime      CDATA "''"            -- double prime -->
 
 ]>
-
-<!--
-
-Step one
-
-[X] Run pgpp.pl
-[X] Fix page-breaks
-[X] Fix hi tags (back to i tags)
-[X] Insert p tags
-[X] Run catpars.pl
-
-Step two
-
-[X] tag pos: n v
-[ ] tag pos: a
-[X] tag sense numbers (split of from b tags, look for /<b>word [0-9]</b>/ case
-[ ] verify &apos;real&apos; italics (not samples), look for /[a-z] italics>/ case
-[ ] verify meaning numbers followed by sub-head-word or phrase <b>[0-9] word</b> case
-[X] italics and bolds midword. E.g. A<i>ng</i>
-[ ] remove redundant tags near commas.
-[ ] handle sup tags
-[ ] verify starred entries (sub-entry immediately after headword)
-[ ] handle [**proofer notes]
-[ ] handle quotes. look for " &apos;", etc.
-[ ] Renumber pages.
-
-Step three
-
-Iterate:
-    [X] Run WCED-uptag1.pl
-    [ ] Run uptag.pl
-    [ ] Verify output for anomalies and fix in source
-
-Step four
-
-[ ] Run WCED-uptag1.pl
-[ ] Integrate result into WCED-body-0.3
-
--->
-
 <TEI.2 lang=en>
 <teiHeader>
     <fileDesc>
@@ -471,7 +431,7 @@ Step four
 
 <p id=20110><form>úkuy<sub>2</sub></form> <pos>n</pos> a supernatural being in the shape of a small man, residing in the sea, said to drown people. <pos>v</pos> <itype>[a4]</itype> be drowned by an <ix>úkuy</ix>.
 
-<p id=20111><form>ukyab</form> <pos>v</pos> <number>1</number> <itype>[A23P]</itype> be suddenly excited or <tr>startled</tr>. <i>Miukyab ang ákung ginhawaan sa pagkahibalu nga may dakung h[=á]s nga nakasulud,</i> I was startled to know that a big snake had entered the house. <number>1a</number> <itype>[A23]</itype> make an uproar due to excitement and thrill. <i>Miukyab ang mga táwu pagpangatáwa pagkakità nílang Dulpi nga nagbinabayi,</i> The people laughed uproariously when they saw Dolphy dressed as a woman. <number>2</number> <itype>[B26; b3]</itype> leave hurriedly in fright. <i>Miukyab (naukyab) ang mga langgam pagkakità námù,</i> The flock of birds flew away upon seeing <form>us</form>. <pos>a</pos> <number>1</number> talking in an upsetting, overly-frightened way. <i>Hápit na kunu matápus ang kalibútan, p[=ú]ng pa sa mga táwung ukyab kaáyung manulti,</i> The people who are nervously apprehensive say the world is going to end. <number>2</number> easily stirred into doing s.t. <i>Ukyab kaáyu nang mga tawhána kay dalì ra kaáyung patuúhun,</i> Those people are easily stirred up because it&apos;s easy to lead them to believe. <form>pa-</form> <pos>v</pos> <number>1</number> <itype>[A; b6(1)]</itype> cause excitement or <tr>thrill</tr>. <i>Ang íyang pagsulti nga ubsirbahan ang tanang klási nakapaukyab sa mga maistru,</i> He got the teachers nervous by telling them that their classes would be observed. <number>2</number> <itype>[A; a12]</itype> flush a bird from hiding. <i>Akuy mupaukyab sa buntug. Listus pagtíru,</i> I will <tr>flush out</tr> the quail. Be ready to shoot. <pos>n</pos> thrill, s.t. causing excitement. <i>Punù sa mga paukyab ang isturyang ditiktib,</i> A detective story is full of <tr>suspenseful</tr> episodes. <form>ma-un</form> <pos>a</pos> <tr>suspenseful</tr>.
+<p id=20111><form>ukyab</form> <pos>v</pos> <number>1</number> <itype>[A23P]</itype> be suddenly excited or <tr>startled</tr>. <i>Miukyab ang ákung ginhawaan sa pagkahibalu nga may dakung h&amacracu;s nga nakasulud,</i> I was startled to know that a big snake had entered the house. <number>1a</number> <itype>[A23]</itype> make an uproar due to excitement and thrill. <i>Miukyab ang mga táwu pagpangatáwa pagkakità nílang Dulpi nga nagbinabayi,</i> The people laughed uproariously when they saw Dolphy dressed as a woman. <number>2</number> <itype>[B26; b3]</itype> leave hurriedly in fright. <i>Miukyab (naukyab) ang mga langgam pagkakità námù,</i> The flock of birds flew away upon seeing <form>us</form>. <pos>a</pos> <number>1</number> talking in an upsetting, overly-frightened way. <i>Hápit na kunu matápus ang kalibútan, p&umacracu;ng pa sa mga táwung ukyab kaáyung manulti,</i> The people who are nervously apprehensive say the world is going to end. <number>2</number> easily stirred into doing s.t. <i>Ukyab kaáyu nang mga tawhána kay dalì ra kaáyung patuúhun,</i> Those people are easily stirred up because it&apos;s easy to lead them to believe. <form>pa-</form> <pos>v</pos> <number>1</number> <itype>[A; b6(1)]</itype> cause excitement or <tr>thrill</tr>. <i>Ang íyang pagsulti nga ubsirbahan ang tanang klási nakapaukyab sa mga maistru,</i> He got the teachers nervous by telling them that their classes would be observed. <number>2</number> <itype>[A; a12]</itype> flush a bird from hiding. <i>Akuy mupaukyab sa buntug. Listus pagtíru,</i> I will <tr>flush out</tr> the quail. Be ready to shoot. <pos>n</pos> thrill, s.t. causing excitement. <i>Punù sa mga paukyab ang isturyang ditiktib,</i> A detective story is full of <tr>suspenseful</tr> episodes. <form>ma-un</form> <pos>a</pos> <tr>suspenseful</tr>.
 
 <p id=20112><form>ukyù</form> <pos>v</pos> <itype>[A2P; b(1)]</itype> shrink back into a hole or a place of hiding. <i>Miukyù ang kágang dihang íyang gikúhit,</i> The land crab shrunk back to the hole when he poked it with a stick.
 
@@ -697,7 +657,7 @@ Step four
 
 <p id=20222><form>umug</form> <pos>a</pos> <tr>damp</tr>, <tr>moist</tr>. <i>Umug kaáyu ang ímung sinínà sa singut,</i> Your dress is <tr>wet</tr> with perspiration. <pos>v</pos> <itype>[B; b2c1]</itype> become moist. <i>Nadáut ang kapi kay naumgan,</i> The coffee spoiled because it got moisture into it.
 
-<p id=20223><form>úmuk pa-</form> <pos>v</pos> <itype>[A; ac]</itype> <tr>sleep late</tr> or lounge around in bed past waking hours. <i>Paumúka lang siyag kat[=ú]g kay Duminggu man run,</i> Allow her to <tr>sleep in</tr> because it&apos;s Sunday.
+<p id=20223><form>úmuk pa-</form> <pos>v</pos> <itype>[A; ac]</itype> <tr>sleep late</tr> or lounge around in bed past waking hours. <i>Paumúka lang siyag kat&umacracu;g kay Duminggu man run,</i> Allow her to <tr>sleep in</tr> because it&apos;s Sunday.
 
 <p id=20224><form>úmul</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> roll s.t. into a ball. <i>Umúla ang karni pára sa bulabúla,</i> Roll the meat into balls to make meat balls. <number>1a</number> <tr>mold</tr> into other shapes. <number>2</number> mold the personality and mind. <i>Mga iskuylahan nga nag-úmul sa mga batan-un,</i> Schools that mold the youth. <pos>n</pos> s.t. formed into balls or molds. <form>-an(&rarr;)</form> <pos>n</pos> school as the molder of the youth. <form>-in-</form> <xr>= <sc>ÚMUL</sc>, <pos>n</pos>.</xr>
 
@@ -707,7 +667,7 @@ Step four
 
 <p id=20227><form>umu-um</form> <xr>= <sc>ALUM-UM</sc>.</xr>
 
-<p id=20228><form>umuy</form> <pos>n</pos> <tr>bodily strength</tr>. <i>Nawad-an si Samsun sa umuy dihang giputul ni Dilayla ang íyang buhuk,</i> Samson lost his <tr>strength</tr> when Delilah cut his hair. <pos>v</pos> <number>1</number> <itype>[A12]</itype> have the strength to do s.t. <i>Dì na giyud ku makaumuy paglakaw,</i> I have no more strength to go out. <number>2</number> <itype>[b6]</itype> get strength. <i>Giumuyan na ang ákung buktun,</i> My arm has gathered strength again. <form>paumuy-umuy</form> <pos>v</pos> <itype>[A; c6]</itype> keep the body still without motion. <i>Paumuy-umuy lang, makat[=ú]g ka lagi,</i> Just <tr>lie still</tr> and relax and you&apos;ll fall asleep.
+<p id=20228><form>umuy</form> <pos>n</pos> <tr>bodily strength</tr>. <i>Nawad-an si Samsun sa umuy dihang giputul ni Dilayla ang íyang buhuk,</i> Samson lost his <tr>strength</tr> when Delilah cut his hair. <pos>v</pos> <number>1</number> <itype>[A12]</itype> have the strength to do s.t. <i>Dì na giyud ku makaumuy paglakaw,</i> I have no more strength to go out. <number>2</number> <itype>[b6]</itype> get strength. <i>Giumuyan na ang ákung buktun,</i> My arm has gathered strength again. <form>paumuy-umuy</form> <pos>v</pos> <itype>[A; c6]</itype> keep the body still without motion. <i>Paumuy-umuy lang, makat&umacracu;g ka lagi,</i> Just <tr>lie still</tr> and relax and you&apos;ll fall asleep.
 
 <p id=20229><form>*un</form> <ix>see</ix> <xr><sc>MARTS</sc>.</xr>
 
@@ -765,7 +725,7 @@ Step four
 
 <p id=20255><form>undyan</form> <xr>= <sc>UNYÀ</sc>.</xr>
 
-<p id=20256><form>[=ú]ng</form> <xr>= <sc>ÚLUNG</sc>.</xr>
+<p id=20256><form>&umacracu;ng</form> <xr>= <sc>ÚLUNG</sc>.</xr>
 
 <p id=20257><form>ungà<sub>1</sub></form> <pos>v</pos> <itype>[A23P; b]</itype> stop sucking on s.t.; stop suckling. <i>Dì muungà ug supsup sa dugù ang limátuk ug dì mabusug,</i> A leech won&apos;t stop sucking blood until it gets full. <form>ungaúngà</form> <pos>v</pos> <itype>[A; c1]</itype> loosen s.t. by working it <tr>back and forth</tr>. <i>Nag-ungaúngà ku sa halígi arun húmuk ibtun,</i> I&apos;m pushing the post back and forth so that it will be easy to pull it up.
 
@@ -1387,7 +1347,7 @@ Step four
 
 <p id=20562><form>uyabang</form> <pos>n</pos> fry of river shrimps. <i>Ang uyabang mga pínung ulang,</i> The young of river shrimps are tiny.
 
-<p id=20563><form>úyag</form> <number>1</number> <tr>so</tr> that [such-and-such] a thing happen. <i>Uban lang úyab kapalitan kag sapátus,</i> Just come with me so I can buy you some shoes. <number>2</number> <tr>instead</tr> of doing [so-and-so] as one should have, he did s.t. else (and s.t. bad happened). <i>Úyag pa bítawng paiskuyláhun siya, nyà wà giyud magtuun. Dan, wà núuy titulu,</i> He was supposed to go to school, but he didn&apos;t. So, he doesn&apos;t have a degree. <number>3</number> [so-and-so] was going to happen (or not going to) but you did s.t. to ruin matters. <i>Úyag nat[=ú]g untà tung bátà, ímu pa giyung gipúkaw,</i> The child was doing fine asleep but you had to go and wake him up. <i>Úyag wà tà tu kahibáwu sa ákung sikrítu, ímu núung gibuku,</i> He would not have known about the secret, but you had to go and tell him.
+<p id=20563><form>úyag</form> <number>1</number> <tr>so</tr> that [such-and-such] a thing happen. <i>Uban lang úyab kapalitan kag sapátus,</i> Just come with me so I can buy you some shoes. <number>2</number> <tr>instead</tr> of doing [so-and-so] as one should have, he did s.t. else (and s.t. bad happened). <i>Úyag pa bítawng paiskuyláhun siya, nyà wà giyud magtuun. Dan, wà núuy titulu,</i> He was supposed to go to school, but he didn&apos;t. So, he doesn&apos;t have a degree. <number>3</number> [so-and-so] was going to happen (or not going to) but you did s.t. to ruin matters. <i>Úyag nat&umacracu;g untà tung bátà, ímu pa giyung gipúkaw,</i> The child was doing fine asleep but you had to go and wake him up. <i>Úyag wà tà tu kahibáwu sa ákung sikrítu, ímu núung gibuku,</i> He would not have known about the secret, but you had to go and tell him.
 
 <p id=20564><form>uyágak</form> <xr>= <sc>IYÁGAK</sc>.</xr>
 

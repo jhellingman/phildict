@@ -35,46 +35,6 @@
 
 
 ]>
-
-<!--
-
-Step one
-
-[X] Run pgpp.pl
-[X] Fix page-breaks
-[X] Fix hi tags (back to i tags)
-[X] Insert p tags
-[X] Run catpars.pl
-
-Step two
-
-[X] tag pos: n v
-[ ] tag pos: a
-[X] tag sense numbers (split of from b tags, look for /<b>word [0-9]</b>/ case
-[X] verify &apos;real&apos; italics (not samples), look for /[a-z] italics>/ case
-[X] verify meaning numbers followed by sub-head-word or phrase <b>[0-9] word</b> case
-[X] italics and bolds midword. E.g. A<i>ng</i>
-[X] remove redundant tags near commas.
-[X] handle sup tags
-[X] verify starred entries (sub-entry immediately after headword)
-[ ] handle [**proofer notes]
-[ ] handle quotes. look for " &apos;", etc.
-[X] Renumber pages.
-
-Step three
-
-Iterate:
-    [X] Run WCED-uptag1.pl
-    [ ] Run uptag.pl
-    [X] Verify output for anomalies and fix in source
-
-Step four
-
-[ ] Run WCED-uptag1.pl
-[ ] Integrate result into WCED-body-0.3
-
--->
-
 <TEI.2 lang=en>
 <teiHeader>
     <fileDesc>

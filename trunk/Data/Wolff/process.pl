@@ -47,6 +47,7 @@ sub processAll
     # Generate SQL for database
     system ("$saxon WCED-collect.xsl WCED-collect.xsl > WCED-structural.xml");
     system ("$saxon WCED-structural.xml WCED-db.xsl > output/WCED-db.sql");
+    system ("perl toEntities.pl output/WCED-db.sql > output/WCED-db-ent.sql");
 }
 
 sub processLetter
@@ -62,6 +63,7 @@ sub processLetter
 
     # Generate SQL
     system ("$saxon structural-$letter.xml WCED-db.xsl > output/WCED-db-$letter.sql");
+    system ("perl toEntities.pl output/WCED-db-$letter.sql > output/WCED-db-ent-$letter.sql");
 
     # Generate HTML similar to original typography.
     system ("$saxon WCED-$letter.xml WCED-downtag.xsl > output/typographical-$letter.xml");
