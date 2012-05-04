@@ -27,7 +27,10 @@
 
 
 <xsl:template match="/">
-    <xsl:call-template name="database-structure"/>
+    <xsl:result-document href="WCED-structure.sql" method="text" encoding="UTF-8">
+        <xsl:call-template name="database-structure"/>
+    </xsl:result-document>
+
     <xsl:apply-templates mode="entries" select="dictionary/entry"/>
 </xsl:template>
 
