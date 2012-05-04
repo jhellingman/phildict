@@ -348,7 +348,7 @@ Step four
 
 <p id=21125><form>&dagger;bagting</form> <pos>n</pos> <number>2</number> one of the three significant events in one&apos;s life for which bells are rung: baptism, marriage, death.
 
-<p id=21126>&dagger;bagtuk <pos>a</pos> <number>2</number> having a sour expression on the face. <pos>v</pos> <itype>[B6]</itype> <number>2</number> wear a heavy and sour look. <i>Dì ka giyud makasúgù niánang bayhána kay mubagtuk dáyun ang nawung,</i> You can never ask that girl to do anything because she immediately gets a nasty expression on her face.
+<p id=21126><form>&dagger;bagtuk</form> <pos>a</pos> <number>2</number> having a sour expression on the face. <pos>v</pos> <itype>[B6]</itype> <number>2</number> wear a heavy and sour look. <i>Dì ka giyud makasúgù niánang bayhána kay mubagtuk dáyun ang nawung,</i> You can never ask that girl to do anything because she immediately gets a nasty expression on her face.
 
 <p id=21127><form>&dagger;bag-u</form> <number>2</number> <formx>-ng kaláyu, kandílà, túbig</formx> blessing of the New Fire, Easter Candle, and Holy Water on the night of Holy Saturday. <form>-ng kinabúhì</form> new lease on one&apos;s life after it has been spared from an accident or from a serious illness. <i>Magpasalámat ta sa Diyus sa átung bag-ung kinabúhì,</i> Let us thank God for giving us a <tr>new lease on life</tr>. <pos>v</pos> <number>2</number> <formx>&mdash; sa kaláyu, kandílà, túbig</formx> <itype>[A13; c1]</itype> perform the rite of blessing the Holy Water, New Fire and Easter Candles. <number>3</number> <formx>&mdash; sa kinabúhì</formx> <itype>[A12]</itype> give s.o. a new lease on life. <form>&mdash; sa útang</form> <itype>[A; a12]</itype> renew a loan. <form>kabag-úhan</form> <pos>n</pos> <number>1</number> <tr>modern times</tr>. <number>2</number> the younger generation.
 
@@ -412,7 +412,7 @@ Step four
 
 <p id=21157><form>&dagger;banà pasi-</form> <pos>v</pos> <itype>[A; a]</itype> call s.o.&apos;s attention to, <tr>warn</tr>. <i>Gipasiban-an (gipasibanáan) ku siya sa dílì pagpúnay ug kúyug adtung tawhána,</i> I warned her not to go out with that man all the time.
 
-<p id=21158>&dagger;bandu<sub>2</sub> <pos>n</pos> <number>2</number> place where a group of people united for a common purpose meet. <i>Bandu Usminya,</i> The place where the followers of Osme&ntilde;a meet.
+<p id=21158><form>&dagger;bandu<sub>2</sub></form> <pos>n</pos> <number>2</number> place where a group of people united for a common purpose meet. <i>Bandu Usminya,</i> The place where the followers of Osme&ntilde;a meet.
 
 <pb n=1147>
 
@@ -508,7 +508,7 @@ Step four
 
 <p id=21204><form>&dagger;bugwak</form> <pos>n</pos> <number>2</number> reclaimed area in Cebu City, so called from the spewing of mud during dredging.
 
-<p id=21205>&dagger;búhat <pos>n</pos> <number>4a</number> the <tr>Acts of the Apostles</tr>, one of the four Gospels.
+<p id=21205><form>&dagger;búhat</form> <pos>n</pos> <number>4a</number> the <tr>Acts of the Apostles</tr>, one of the four Gospels.
 
 <p id=21206><form>&dagger;búhì<sub>1</sub></form> <pos>a</pos> <number>2</number> <formx>&mdash; nga bakak</formx> <tr>obvious lie</tr>. <form>&mdash; ug bakak</form> <tr>obvious liar</tr>. <i>Way mupiyal sa mga táwung búhì ug bakak,</i> No one believes an obvious liar.
 
@@ -594,7 +594,7 @@ Step four
 
 <p id=21246><form>dámun</form> <xr>= <sc>KANÁMÙ</sc> (dialectal).</xr> <ix>see</ix> <xr><sc>KAMI</sc>.</xr>
 
-<p id=21247>&dagger;dánag <pos>v</pos> <number>2</number> be unaware of what is going on round about one.<i> Nagdánag lang ang bána sa dautang líhuk sa íyang asáwa,</i> The husband is unaware of the terrible things his wife is doing.
+<p id=21247><form>&dagger;dánag</form> <pos>v</pos> <number>2</number> be unaware of what is going on round about one.<i> Nagdánag lang ang bána sa dautang líhuk sa íyang asáwa,</i> The husband is unaware of the terrible things his wife is doing.
 
 <p id=21248><form>&dagger;danggit -in-</form> <pos>n</pos> <number>2</number> position in sexual intercourse where the partners both lie on their sides and the man faces the woman&apos;s back. <pos>v</pos> <number>2</number> <itype>[A; a]</itype> do it in this position.
 
@@ -664,7 +664,7 @@ Step four
 
 <p id=21280><form>dridyir</form> <pos>n</pos> <tr>dredger</tr>, for clearing out or deepening channels, harbors. <pos>v</pos> <itype>[A; b6]</itype> <tr>dredge</tr> out.
 
-<p id=21281><form>drísing</form> <pos>v</pos> (A; b6(1)] <tr>dress</tr> a wound or sore. <pos>n</pos> <tr>dressing</tr> for a wound.
+<p id=21281><form>drísing</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <tr>dress</tr> a wound or sore. <pos>n</pos> <tr>dressing</tr> for a wound.
 
 <p id=21282><form>duak</form> <xr>= <sc>DUKÀ</sc>.</xr>
 

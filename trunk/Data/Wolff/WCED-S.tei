@@ -328,7 +328,10 @@ Step four
 
 <p id=15775><form>sagbut</form> <pos>n</pos> <number>1</number> <tr>weeds</tr> or <tr>grasses</tr>: any herbaceous <tr>plants</tr> growing wild. <form>&mdash; sa dágat</form> <pos>n</pos> <tr>seaweeds</tr>. <number>1a</number> leafy <tr>vegetables</tr> (humorous). <i>Sígi lang tang mangáun niínig sagbut,</i> We always have to eat weeds. <number>2</number> <tr>trash</tr>, <tr>rubbish</tr>. <pos>v</pos> <itype>[A; b6]</itype> put rubbish s.w. <i>Kinsa may nagsagbut diri sa tugkaran?</i> Who strewed rubbish all over the yard? <form>ka-an(&rarr;)</form> <pos>n</pos> place where there are weeds. <form>-un(&rarr;)</form> <pos>a</pos> full of weeds, trash. <pos>v</pos> <itype>[B1256]</itype> get to be full of weeds or trash.
 
-<p id=15776><form>saghid</form> <pos>v</pos> [A; b4(1); c6P] <tr>brush</tr>, come into light contact. <i>Napásù ku kay nasaghiran sa kamut ku ang ínit nga plansa,</i> I burned myself when I <tr>touched</tr> the hot iron. <i>Ayawg isaghid (ipasaghid) ang alambri sa atup,</i> Don&apos;t let the wire come into contact with the roof.
+
+<!-- TODO: odd type: [A; b4(1); c6P] -->
+
+<p id=15776><form>saghid</form> <pos>v</pos> <itype>[A; b4(1); c6P]</itype> <tr>brush</tr>, come into light contact. <i>Napásù ku kay nasaghiran sa kamut ku ang ínit nga plansa,</i> I burned myself when I <tr>touched</tr> the hot iron. <i>Ayawg isaghid (ipasaghid) ang alambri sa atup,</i> Don&apos;t let the wire come into contact with the roof.
 
 <p id=15777><form>ságib<sub>1</sub></form> <pos>v</pos> <itype>[A; a12]</itype> go about a place covering it thoroughly. <i>Ang mga mananagat miságib sa dágat pagpangítà sa nalumus,</i> The fishermen <tr>combed</tr> the sea searching for the drowned man. <i>Sagíbun nátug panaygun ang tanang tindáhan,</i> Let&apos;s carol at every store.
 
@@ -1000,7 +1003,7 @@ Step four
 
 <p id=16107><form>salyáda</form> <pos>v</pos> <itype>[A; c1]</itype> in trawl fishing, pull in the net from the sea.
 
-<p id=16108><form>sáma</form> <number>1</number> <tr>like</tr>, <tr>same</tr> as. <i>Sáma sa miáging iliksiyun, napildi siya pagkasinadur,</i> <tr>Just as</tr> in the last election, he lost in the race for senator. <number>2</number> <tr>similar</tr>. <i>Tan-áwa nang irúa, sáma kaáyu sa ímu,</i> Look at that dog. It is very similar to yours. <form>&mdash; ug balhíbu</form> <tr>birds of a feather</tr>. Sáma silag balhíbu. Púru sila sugarul, They&apos;re birds of a feather. Both of them are gamblers. <pos>v</pos> <number>1</number> <itype>[AC; b]</itype> be <tr>like</tr>, <tr>similar</tr> to. <i>Ug musáma ka níya, primyúhan ta ka,</i> If you can be like him, I&apos;ll give you a reward. <i>Samáhi ang íyang tanyag ug ákung ibaligyà,</i> <tr>Match</tr> his offer and I&apos;ll sell it. <number>2</number> <itype>[c6]</itype> <tr>treat</tr>, <tr>consider</tr> s.o. as, or similar to. <i>Ngánung isáma man ku nímu ni Pinduy nga dílì man ku nímu sulugúun?</i> Why do you treat me like Pindoy when I am not your servant? <form>samasáma</form> <pos>v</pos> <number>1</number> <itype>[C2]</itype> be <tr>fair</tr>, not taking undue advantage of one another. <i>Magsamasáma ta ug wà lay pamintaháay,</i> Let&apos;s be fair to each other and let&apos;s not take advantage of one another. <number>2</number> <itype>[C12]</itype> be in a spirit of good fellowship with s.o. <i>Dílì siya makigsamasáma nátù kay pubri ta,</i> He doesn&apos;t want to mix with us because we are poor. <form>paka-</form> <xr>= <sc>SÁMA</sc>, <i>v2.</i></xr> <form>ka-</form> <pos>n</pos> s.o. or s.t. that is <tr>similar</tr> to s.t. else. <i>Kasáma nákù siya ug dugù,</i> He has my type of blood. <form>kasamáhan</form> <pos>n</pos> <tr>equity</tr>, <tr>fairness</tr>. <i>Usáhay sa pagpahamtang sa baláud mu rag walay kasamáhan,</i> Sometimes in the application of the law there seems to be no justice.
+<p id=16108><form>sáma</form> <number>1</number> <tr>like</tr>, <tr>same</tr> as. <i>Sáma sa miáging iliksiyun, napildi siya pagkasinadur,</i> <tr>Just as</tr> in the last election, he lost in the race for senator. <number>2</number> <tr>similar</tr>. <i>Tan-áwa nang irúa, sáma kaáyu sa ímu,</i> Look at that dog. It is very similar to yours. <form>&mdash; ug balhíbu</form> <tr>birds of a feather</tr>. <i>Sáma silag balhíbu. Púru sila sugarul,</i> They&apos;re birds of a feather. Both of them are gamblers. <pos>v</pos> <number>1</number> <itype>[AC; b]</itype> be <tr>like</tr>, <tr>similar</tr> to. <i>Ug musáma ka níya, primyúhan ta ka,</i> If you can be like him, I&apos;ll give you a reward. <i>Samáhi ang íyang tanyag ug ákung ibaligyà,</i> <tr>Match</tr> his offer and I&apos;ll sell it. <number>2</number> <itype>[c6]</itype> <tr>treat</tr>, <tr>consider</tr> s.o. as, or similar to. <i>Ngánung isáma man ku nímu ni Pinduy nga dílì man ku nímu sulugúun?</i> Why do you treat me like Pindoy when I am not your servant? <form>samasáma</form> <pos>v</pos> <number>1</number> <itype>[C2]</itype> be <tr>fair</tr>, not taking undue advantage of one another. <i>Magsamasáma ta ug wà lay pamintaháay,</i> Let&apos;s be fair to each other and let&apos;s not take advantage of one another. <number>2</number> <itype>[C12]</itype> be in a spirit of good fellowship with s.o. <i>Dílì siya makigsamasáma nátù kay pubri ta,</i> He doesn&apos;t want to mix with us because we are poor. <form>paka-</form> <xr>= <sc>SÁMA</sc>, <i>v2.</i></xr> <form>ka-</form> <pos>n</pos> s.o. or s.t. that is <tr>similar</tr> to s.t. else. <i>Kasáma nákù siya ug dugù,</i> He has my type of blood. <form>kasamáhan</form> <pos>n</pos> <tr>equity</tr>, <tr>fairness</tr>. <i>Usáhay sa pagpahamtang sa baláud mu rag walay kasamáhan,</i> Sometimes in the application of the law there seems to be no justice.
 
 <p id=16109><form>samà</form> <pos>n</pos> <tr>mistake</tr>. <i>Ákung usbun ang mga samà sa ákung trabáhu,</i> I&apos;ll correct the mistakes in my work. <pos>v</pos> <itype>[B126; c1]</itype> make mistakes.
 
@@ -1730,7 +1733,7 @@ Step four
 
 <p id=16469><form>sása</form> <xr>= <sc>SALASA<sub>2</sub></sc>.</xr>
 
-<p id=16470><form>sàsà</form> <pos>v</pos> [A; a12| crack and flatten bamboo stems so as to make them resemble and serve as boards for walling. <pos>n</pos> sheet of cracked and flattened bamboo for walling, or the walling of this sort of material.
+<p id=16470><form>sàsà</form> <pos>v</pos> <itype>[A; a12]</itype> crack and flatten bamboo stems so as to make them resemble and serve as boards for walling. <pos>n</pos> sheet of cracked and flattened bamboo for walling, or the walling of this sort of material.
 
 <p id=16471><form>sasag</form> <pos>n</pos> k.o. exterior walling made of bamboo slats and palm thatch, nailed to wooden studs.
 
@@ -3100,7 +3103,7 @@ Step four
 
 <p id=17147><form>siyung</form> <pos>n</pos> a nickname, often used in address to a hypothetical person in an exclamation to indicate disbelief. <i>Ámut siyung! Ipalit níya ug dulsi sa iskuylahan unyà,</i> My foot he wants the money for school. He wants to buy candy, that&apos;s all. <i>Tuntúha siyung. Maáyu mag karun pa ku ánà,</i> Don&apos;t you fool me, buddy roe. You think I haven&apos;t heard that one before?
 
-<p id=17148><form>siyut<sub>1</sub></form> <pos>a</pos> lacking in good judgment or prudence. <i>Siyut kaáyu ning tawhána kay magswítir bísan ug galhà,</i> That man hasn&apos;t got a brain in his head because he wears a sweater no matter how hot it is. <pos>v</pos> |B12] be, become lacking in good sense.
+<p id=17148><form>siyut<sub>1</sub></form> <pos>a</pos> lacking in good judgment or prudence. <i>Siyut kaáyu ning tawhána kay magswítir bísan ug galhà,</i> That man hasn&apos;t got a brain in his head because he wears a sweater no matter how hot it is. <pos>v</pos> <itype>[B12]</itype> be, become lacking in good sense.
 
 <p id=17149><form>siyut<sub>2</sub></form> <xr>= <sc>SYÚT<sub>2</sub></sc>.</xr>
 
@@ -3150,7 +3153,7 @@ Step four
 
 <p id=17171><form>subing<sub>1</sub></form> <pos>n</pos> individual stalks of rice not ripe during the harvest and left to be gleaned. <pos>v</pos> <itype>[AN; b6]</itype> glean rice that was left to ripen.
 
-<p id=17172><form>subing<sub>2</sub></form> <pos>n</pos> a one-string musical instrument made of bagákay bamboo. <pos>v</pos> <number>1</number> <itype>[A]</itype> play the <ix>subing</ix>. <number>2</number> <itype>[c1]</itype> make a <ix>subing</ix>.
+<p id=17172><form>subing<sub>2</sub></form> <pos>n</pos> a one-string musical instrument made of <ix>bagákay</ix> bamboo. <pos>v</pos> <number>1</number> <itype>[A]</itype> play the <ix>subing</ix>. <number>2</number> <itype>[c1]</itype> make a <ix>subing</ix>.
 
 <p id=17173><form>subir</form> <pos>v</pos> <itype>[A]</itype> increase in price or intensity. <i>Misubir ang prisyu sa mais,</i> The price of corn went up. <i>Misubir ang íyanq hilánat,</i> His temperature went up. <form>subídu</form> <pos>a</pos> for prices to be high or s.t. else to be high in numerical quantity. <i>Subídu ang íyang grádu,</i> He got high grades.
 
@@ -3342,7 +3345,9 @@ Step four
 
 <p id=17266><form>sugyut</form> <pos>v</pos> <itype>[A; c]</itype> <number>1</number> <tr>mention</tr> s.t. in a casual manner. <i>Musugyut lang kung Pidru báhin sa ímung tanyag,</i> I will just mention your offer to Pedro casually. <number>2</number> <tr>suggest</tr>, put an idea into the mind. <i>Gisugyútan ku siya sa paglún sa bangku,</i> I suggested that he get a loan at the bank. <pos>n</pos> <number>1</number> thing mentioned casually. <number>2</number> <tr>suggestion</tr>.
 
-<p id=17267><form>súhà</form> <pos>v</pos> <number>1</number> <itype>[C; c1]</itype> for objects having length to be in disarray, with the ends pointing in different directions. <i>Nagsúhà ang mga bátà nga nangatúlug sa katri,</i> The children were asleep on the bed with their heads in all different directions. <number>2</number> [A2D; ac] <tr>go against</tr>, <tr>disagree</tr>. <i>Makasúhà ka ba sa gustu sa ímung ginikánan?</i> Could you go against your parents&apos; wishes?
+<!-- TODO: invalid itype A2D -->
+
+<p id=17267><form>súhà</form> <pos>v</pos> <number>1</number> <itype>[C; c1]</itype> for objects having length to be in disarray, with the ends pointing in different directions. <i>Nagsúhà ang mga bátà nga nangatúlug sa katri,</i> The children were asleep on the bed with their heads in all different directions. <number>2</number> <itype>[A2D; ac]</itype> <tr>go against</tr>, <tr>disagree</tr>. <i>Makasúhà ka ba sa gustu sa ímung ginikánan?</i> Could you go against your parents&apos; wishes?
 
 <p id=17268><form>suhì</form> <pos>a</pos> <number>1</number> <tr>contrary</tr>, <tr>opposite</tr>. <i>Suhì sa ímung pagtúu siya hinúuy mitábang kanákù,</i> He helped me, contrary to what you think. <number>2</number> for babies to be born feet first. <i>Suhì nga pagkatáwu ang bátà,</i> The baby was born feet first. <pos>v</pos> <itype>[A1C; c1]</itype> put s.t. the wrong way around. <i>Kinsay nagsuhì áning bangkù?</i> Who put the bench the wrong way around? <i>Nagsúhì ang ímung sapátus,</i> You have your shoes on backwards.
 
@@ -3484,7 +3489,7 @@ Step four
 
 <p id=17336><form>súlay<sub>2</sub></form> <pos>v</pos> <itype>[AN; a1]</itype> <tr>brace</tr>, prop s.t. standing to prevent it from collapsing. <i>Suláyun nátù ang ságing arun dílì matumba sa kabug-at sa íyang búnga,</i> Let&apos;s brace this banana tree before it falls from the weight of its bananas. <pos>n</pos> <tr>brace</tr>, prop placed against s.t. vertical.
 
-<p id=17337><form>sulaybagyu</form> <pos>n</pos> <number>1</number> k.o. <tr>dwarf banana</tr> growing to 4&prime;, with a large bunch of fruit similar to the búngan, eaten when ripe. <number>2</number> <tr>hornfish</tr>.
+<p id=17337><form>sulaybagyu</form> <pos>n</pos> <number>1</number> k.o. <tr>dwarf banana</tr> growing to 4&prime;, with a large bunch of fruit similar to the <ix>búngan</ix>, eaten when ripe. <number>2</number> <tr>hornfish</tr>.
 
 <p id=17338><form>sulbad</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>solve</tr>, find a <tr>solution</tr> or <tr>answer</tr>. <i>Átung sulbárun ning kahimtánga kay dì ni madala nátù ug hilakhílak,</i> We will find a solution because we cannot get it over with by crying. <number>2</number> <tr>undo</tr> a knot. <i>Nasulbad ang baligtus sa písi,</i> The knot of the rope came undone. <pos>n</pos> <tr>solution</tr> to a problem. <i>Dì siya manug-an sa sulbad sa tanghágà,</i> He won&apos;t tell us the solution to the puzzle. <pos>a</pos> solved. <form>sulbaran</form> <pos>n</pos> swivel in a fishline, a revolving link placed between the line and leader to prevent kinking. <form>kasulbáran, kasulbarun</form> <pos>n</pos> solution reached. <i>Walay kasulbáran ning sulirána,</i> There&apos;s no solution to this problem.
 
