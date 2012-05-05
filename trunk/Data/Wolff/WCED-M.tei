@@ -193,7 +193,7 @@
 
 <p id=12013><form>máki<sub>2</sub></form> <pos>n</pos> a Chinese dish of sliced meats, stewed and thickened with cornstarch.
 
-<p id=12014><form>makig-(&larr;)</form> prefix added to bases with a prefix <ix>pakig-</ix> to indicate future, volitional active forms. <ix>Past</ix>: <bx>nakig-</bx>. <ix>Subjunctive:</ix> <form>makig-</form>. No durative or potential forms. (<ix>See</ix> <xr><sc>PAKIG-</sc></xr> <ix>for meanings</ix>.) <ix>Short forms</ix>: <bx>kig-</bx> and <bx>tig-</bx>. <i>Makigkáun (kigkáun, tigkáun) siya nákù sa gawas,</i> He wants to take me out to eat. <i>Nakig-áway siyag dakung táwu,</i> He picked a fight with a large person. <i>Walà ku makigpustaánay níya,</i> I did not challenge him to bet.
+<p id=12014><form>makig-(&larr;)</form> prefix added to bases with a prefix <ix>pakig-</ix> to indicate future, volitional active forms. <ix>Past</ix>: <bx>nakig-</bx>. <ix>Subjunctive:</ix> <bx>makig-</bx>. No durative or potential forms. (<ix>See</ix> <xr><sc>PAKIG-</sc></xr> <ix>for meanings</ix>.) <ix>Short forms</ix>: <bx>kig-</bx> and <bx>tig-</bx>. <i>Makigkáun (kigkáun, tigkáun) siya nákù sa gawas,</i> He wants to take me out to eat. <i>Nakig-áway siyag dakung táwu,</i> He picked a fight with a large person. <i>Walà ku makigpustaánay níya,</i> I did not challenge him to bet.
 
 <p id=12015><form>makina</form> <pos>n</pos> <number>1</number> <tr>machine</tr>. <number>2</number> engine. <i>Dílì na muandar ang makina sa awtu,</i> The automobile engine won&apos;t start. <number>3</number> sewing machine. <i>Ang makina kinahanglánun kaáyu sa sastri,</i> A sewing machine is a necessity to a dressmaker. <number>4</number> <formx>&mdash; sa bugas</formx> corn, rice mill. <form>&mdash; dimutur</form> <pos>n</pos> motorized machine, engine. <pos>v</pos> <itype>[a12]</itype> <number>1</number> do by machine. <i>Ayawg kinamuta nà pagtahì, makinaha nà,</i> Don&apos;t sew it with your hands. Do it by machine. <number>2</number> put an engine s.w.
 
@@ -275,9 +275,9 @@
 
 <p id=12054><form>malignu</form> <pos>n</pos> spirits of departed people who have not entered heaven and are doing their penance (<ix>kundínu</ix>). If they are not prayed for they may inflict sickness as a reminder. <form>ispiritu &mdash;</form> <xr>= <sc>MALIGNU</sc>.</xr> <pos>v</pos> <itype>[A1; a4]</itype> be sick with an illness sent by a <ix>malignu</ix>.
 
-<p id=12055><form>malignù</form> <xr>= <sc>KARABALYAS</sc>.</xr><note>note: this and next entry refer to a minor entry that just refers again to KARBALYAS, better to refer directly</note>
+<p id=12055><form>malignù</form> <xr>= <sc><corr sic=KARABALYAS>KARBALYAS</corr></sc>.</xr>
 
-<p id=12056><form>malimnu</form> <xr>= <sc>KARABALYAS</sc>.</xr>
+<p id=12056><form>malimnu</form> <xr>= <sc><corr sic=KARABALYAS>KARBALYAS</corr></sc>.</xr>
 
 <p id=12057><form>malingka</form> <ix>see</ix> <xr><sc>HIMALINGKA</sc>.</xr>
 
@@ -497,7 +497,7 @@
 
 <p id=12164><form>manílà<sub>2</sub></form> <pos>n</pos> k.o. striped grouper: <bio>Grammistes sexlineatus</bio>.
 
-<p id=12165><form>maniN-</form> future volitional prefix of verbs with the base <form>paniN-</form>. (<ix>Past</ix>: <bx>naniN-</bx>. <ix>Subjunctive</ix>: <bx>maniN-</bx>.) <i>Manimalus giyud ku,</i> I will get revenge. <i>Walà ku manimúhì sa ákung gikuptan,</i> I didn&apos;t let go what I was holding on to.
+<p id=12165><form>maniN-</form> future volitional prefix of verbs with the base <bx>paniN-</bx>. (<ix>Past</ix>: <bx>naniN-</bx>. <ix>Subjunctive</ix>: <bx>maniN-</bx>.) <i>Manimalus giyud ku,</i> I will get revenge. <i>Walà ku manimúhì sa ákung gikuptan,</i> I didn&apos;t let go what I was holding on to.
 
 <p id=12166><form>manínay</form> <pos>n</pos> <tr>godmother</tr>, the female sponsor at one&apos;s wedding, and, by extension, the sponsor at one&apos;s baptism, confirmation, or ordination. <pos>v</pos> <itype>[A; a]</itype> become one&apos;s godmother.
 
@@ -641,7 +641,7 @@
 
 <p id=12235><form>mapunti</form> <xr>= <sc>MALAPUNTI</sc>.</xr>
 
-<p id=12236><form>Mar</form>. <pos>n</pos> abbreviation for <ix>Marsu</ix> &lsquo;March&rsquo;.
+<p id=12236><form>Mar.</form> <pos>n</pos> abbreviation for <ix>Marsu</ix> &lsquo;March&rsquo;.
 
 <p id=12237><form>marabal</form> <pos>a</pos> person or animal that has grown very large. <i>Kadakung marabal sa ilipanti,</i> What a giant that elephant is! <i>Kadakung marabal ning batáa,</i> What a giant this child has gotten to be.
 
@@ -761,7 +761,7 @@
 
 <p id=12295><form>maruy</form> <xr>= <sc>MIRUY</sc>.</xr>
 
-<p id=12296><form>marúya</form> <pos>n</pos> name given to a variety of sweets, all of which are formed into rounded patties and fried: <number>1</number> made of ground rice. <number>2</number> made of sliced bananas. ( <note>del space?</note><xr>= <sc>BANGDAYBANGDAY</sc></xr>). <number>3</number> made of shredded sweet potatoes ( <note>del space?</note><xr>= <sc>BITSUBITSU</sc></xr>). <pos>v</pos> <itype>[A; a]</itype> make <ix>marúya</ix>.
+<p id=12296><form>marúya</form> <pos>n</pos> name given to a variety of sweets, all of which are formed into rounded patties and fried: <number>1</number> made of ground rice. <number>2</number> made of sliced bananas. (<xr>= <sc>BANGDAYBANGDAY</sc></xr>). <number>3</number> made of shredded sweet potatoes ( <note>del space?</note><xr>= <sc>BITSUBITSU</sc></xr>). <pos>v</pos> <itype>[A; a]</itype> make <ix>marúya</ix>.
 
 <p id=12297><form>maryánas</form> <xr>= <sc>BIYATILIS</sc>.</xr>
 
@@ -1103,7 +1103,7 @@
 
 <p id=12464><form>mikskla</form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> <tr>mix</tr> solids or liquids. <i>Mikskláha ang pintal ug túbig,</i> Mix the paint and the water together. <i>Mikskláhi ug pulug ang minása nga simintu,</i> Mix dye into the cement mixture. <number>1a</number> <itype>[A1]</itype> prepare s.t. that has to be mixed. <i>Nakamikskla ka na ba ug ilimnun?</i> Have you prepared (mixed) the drinks? <pos>n</pos> <tr>mixture</tr>, proportion in which s.t. is mixed. <i>Ispísung mikskla,</i> A thick mixture.
 
-<p id=12465><form>mil</form> <pos>n</pos> <tr>thousand</tr>. <i>Ang balur sa ákung awtu trayinta mil,</i> My car is worth thirty thousand pesos. <pos>v</pos> <ix>see</ix> <xr><sc>DISIUTSU</sc>.</xr> <form>&mdash; únu, dusyintus, etc</form>. One thousand one, two, etc. <form>milmíl</form> <pos>a</pos> valued in thousands. <i>Dì ku makaabut pagpalit niánang mga milmíl nga kantidad,</i> I cannot afford to buy things that cost in three figures.
+<p id=12465><form>mil</form> <pos>n</pos> <tr>thousand</tr>. <i>Ang balur sa ákung awtu trayinta mil,</i> My car is worth thirty thousand pesos. <pos>v</pos> <ix>see</ix> <xr><sc>DISIUTSU</sc>.</xr> <form>&mdash; únu, dusyintus, etc.</form> One thousand one, two, etc. <form>milmíl</form> <pos>a</pos> valued in thousands. <i>Dì ku makaabut pagpalit niánang mga milmíl nga kantidad,</i> I cannot afford to buy things that cost in three figures.
 
 <p id=12466><form>míl</form> <pos>v</pos> <itype>[A; c6]</itype> post in the mail. <i>Imíl ba kining suwáta?</i> Shall I mail this letter?
 
@@ -1325,7 +1325,7 @@
 
 <p id=12574><form>mísis<sub>1</sub></form> <ix>see</ix> <sc>MIS<sub>2</sub></sc>.
 
-<p id=12575><form>mísis<sub>2</sub></form> <pos>n</pos> <number>1</number> <tr>Mrs</tr>., title given to a married woman. <number>2</number> one&apos;s wife. <i>Siya ang mísis ni Tínung,</i> This is Tinong&apos;s wife. <pos>v</pos> <itype>[a12]</itype> call s.o. Mrs.; be, become Mrs. <form>(&rarr;)</form> voc. <ix>short form:</ix> <form>sis</form>. <i>Ása ka, sis?</i> Where are you going, Ma&apos;am?
+<p id=12575><form>mísis<sub>2</sub></form> <pos>n</pos> <number>1</number> <tr>Mrs</tr>., title given to a married woman. <number>2</number> one&apos;s wife. <i>Siya ang mísis ni Tínung,</i> This is Tinong&apos;s wife. <pos>v</pos> <itype>[a12]</itype> call s.o. Mrs.; be, become Mrs. <form>(&rarr;)</form> voc. <ix>short form:</ix> <bx>sis</bx>. <i>Ása ka, sis?</i> Where are you going, Ma&apos;am?
 
 <p id=12576><form>misíta</form> <xr>= <sc>LAMISÍTA</sc>.</xr>
 
@@ -1419,11 +1419,11 @@
 
 <p id=12621><form>míyur</form> <pos>n</pos> <tr>mayor</tr>.
 
-<p id=12622><form>Mlbn</form>. <pos>n</pos> abbreviation for <ix>manlalában</ix>. <ix>see</ix> <xr><sc>LÁBAN</sc>.</xr>
+<p id=12622><form>Mlbn.</form> <pos>n</pos> abbreviation for <ix>manlalában</ix>. <ix>see</ix> <xr><sc>LÁBAN</sc>.</xr>
 
 <p id=12623><form>mm</form> <number>1</number> sound made prior to plunging into one&apos;s speech. <i>Mm, kinsa tu?</i> Umm, who was it now? <number>2</number> sound emitted in showing approval of s.t. tasted or smelled. <xr><ix>see also</ix> <sc>UM</sc>.</xr>
 
-<p id=12624><form>Mr</form>. <pos>n</pos> abbreviation for <ix>Mistir</ix>.
+<p id=12624><form>Mr.</form> <pos>n</pos> abbreviation for <ix>Mistir</ix>.
 
 <p id=12625><form>mu<sub>1</sub></form> <ix>see</ix> <xr><sc>ÁMÙ</sc>.</xr>
 
@@ -1487,7 +1487,7 @@
 
 <p id=12655><form>mukda</form> <pos>v</pos> <itype>[A12; b2]</itype> <number>1</number> suddenly realize s.t. so as to get startled. <i>Dihà na ku makamukda nga wà kuy kwarta pagbáyad nákù,</i> I suddenly realized I had no money when I was about to pay. <i>Namukdahan ku pagkadungug sa balità,</i> I was stunned by the news. <number>2</number> be caught in the act. <i>Himukdahan ang mga sugarul sa pulis,</i> The police caught the gamblers red-handed.
 
-<p id=12656><form>múku</form> <i>v<note> n</note></i> variety of cooking banana, growing in bunches with fewer hands and shorter individual pieces than the <ix>kardába</ix>, but firm of flesh and round.
+<p id=12656><form>múku</form> <pos><corr sic=v>n</corr></pos> variety of cooking banana, growing in bunches with fewer hands and shorter individual pieces than the <ix>kardába</ix>, but firm of flesh and round.
 
 <p id=12657><form>*múkuy</form> <xr>= <sc>SAGMÚKUY</sc>.</xr>
 
@@ -1553,7 +1553,7 @@
 
 <p id=12688><form>múnay</form> <pos>n</pos> k.o. bread made with more eggs and butter than ordinary bread and covered with a thin layer of beaten eggs which is baked onto it.
 
-<p id=12689><form>mundu<sub>1</sub></form> <xr>= <sc>BAUL<note>space?</note> MUNDU</sc>.</xr>
+<p id=12689><form>mundu<sub>1</sub></form> <xr>= <sc>BAUL MUNDU</sc>.</xr>
 
 <p id=12690><form>mundu<sub>2</sub>, munduy</form> <pos>n</pos> small, thin-skinned, but very full and compact variety of cooking banana.
 
@@ -1663,11 +1663,11 @@
 
 <pb n=694>
 
-<p id=12742><form>musì</form><note>accent unclear</note> <pos>n</pos> name given to an edible k.o. pufferfish with no spines.
+<p id=12742><form>musì</form> <pos>n</pos> name given to an edible k.o. pufferfish with no spines.
 
 <p id=12743><form>musika</form> <pos>n</pos> <tr>music</tr>.
 
-<p id=12744><form>musikal</form> <i>a<note> n</note></i> <tr>musical film</tr>.
+<p id=12744><form>musikal</form> <pos><corr sic=a>n</corr></pos> <tr>musical film</tr>.
 
 <p id=12745><form>musiku</form> <pos>n</pos> <tr>music band</tr>. <i>Mitukar ang musiku ug usa ka martsa,</i> The band played a march. <pos>v</pos> <itype>[b6]</itype> provide a band. <form>musikíra</form> <xr>= <sc>MUSIKÍRU</sc></xr> (female). <form>musikíru</form> <pos>n</pos> <number>1</number> <tr>musician</tr>. <number>2</number> member of a band. <pos>v</pos> <itype>[B156]</itype> be a musician or member of a band.
 
