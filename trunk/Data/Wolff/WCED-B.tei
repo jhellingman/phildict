@@ -4001,7 +4001,7 @@
 
 <p id=3454><form>búnal</form> <pos>v</pos> <number>1</number> <itype>[AN; b6(1)]</itype> <tr>strike</tr> with a club or whip. <i>Ayaw ku bunáli,</i> Don&apos;t beat me. <number>2</number> <itype>[A; b(1)]</itype> for a fighting cock to deliver a <tr>blow</tr> with its legs. <number>3</number> <itype>[B126]</itype> for a person to <tr>fall</tr> heavily with a thud. <i>Nabúnal ku sa hagdan,</i> I fell with a thud down the stairs. <form>andir di-</form> <pos>a</pos> <tr>henpecked</tr>. <form>(&rarr;)</form> <pos>n</pos> <number>1</number> club, whip. <number>2</number> blows of a fighting cock. <number>3</number> <tr>penis</tr> (slang).
 
-<p id=3455><form>búnaw</form> <xr>= <sc>BUNAL</sc>.</xr><note>[**typo: BÚNAL |P3:bunal would be ok, one with (&rarr;) (noun) above]</note>
+<p id=3455><form>búnaw</form> <xr>= <sc>BUNAL</sc>.</xr>
 
 <p id=3456><form>bunáyus</form> <pos>a</pos> <tr>shapeless</tr> figure. <pos>v</pos> <itype>[B; a2]</itype> for the body or dress to be lacking in curves and full shape. <i>Mubunáyus ang tútuy basta way bra,</i> The breasts sag if you don&apos;t wear a bra. <i>Sayun rang tahiun ang mga sinínà karun kay bunayúsun man lang,</i> It&apos;s easy to sew dresses nowadays because they are just cut straight.
 
@@ -4155,7 +4155,7 @@
 
 <p id=3531><form>bunsákà, bunsíkà</form> <pos>a</pos> for hair, spines, and the like to be spreading wide. <i>Ngil-ad tan-áwun ang bunsíkà nga buhuk,</i> Hair that is spread out in all directions is ugly to look at. <pos>v</pos> <itype>[B3(1); b6]</itype> spread out in all directions. <i>Wà pa makabunsíkà ang dáhun sa pugas,</i> The leaves of the corn seedlings have not spread out yet.
 
-<p id=3532><form>bunsálù</form> (not without <ix>l</ix>) <xr>= <sc>AGUTING</sc>, <pos>n</pos> <i>2.</i></xr>
+<p id=3532><form>bunsálù</form> (not without <ix>l</ix>) <xr>= <sc>AGUTING</sc>, <ix>n 2.</ix></xr>
 
 <p id=3533><form>bunsù</form> <pos>v</pos> <itype>[A; c6]</itype> throw s.t. forcefully downwards. <i>Gibunsù siya sa matun sa asíras,</i> The ruffian smashed him down to the ground.
 
@@ -4581,7 +4581,7 @@
 
 <p id=3743><form>búud</form> <pos>v</pos> <itype>[A; b6]</itype> <tr>sulk</tr>, be sullen. <form>buúran</form> <pos>a</pos> prone to <tr>sulking</tr>.
 
-<p id=3744><form>búug</form> <pos>v</pos> <itype>[A13]</itype> <number>1</number> be <tr>confined</tr> and become foul. <i>Nagbúug ang hángin sulud sa kwartu,</i> The air in the room is stagnant and foul. <number>2</number> for wounds to <tr>rot</tr> in the absence of air. <i>Nagbúug ang samad nga walà kuhái sa bindáhi,</i> The wound is rotting because the bandage hadn&apos;t been taken off. <number>3</number> <xr>= <sc>BUUG</sc>, <pos>n</pos>, <i>v</i>.</xr> <form>(&rarr;)</form> <pos>n</pos> an <tr>infection</tr> characterized by a smelly yellow pus. <pos>v</pos> <itype>[a4]</itype> get this infection. <form>-un(&rarr;)</form> <pos>a</pos> having this sort of infection.
+<p id=3744><form>búug</form> <pos>v</pos> <itype>[A13]</itype> <number>1</number> be <tr>confined</tr> and become foul. <i>Nagbúug ang hángin sulud sa kwartu,</i> The air in the room is stagnant and foul. <number>2</number> for wounds to <tr>rot</tr> in the absence of air. <i>Nagbúug ang samad nga walà kuhái sa bindáhi,</i> The wound is rotting because the bandage hadn&apos;t been taken off. <number>3</number> <xr>= <sc>BUUG</sc>, <ix>n, v</ix>.</xr> <form>(&rarr;)</form> <pos>n</pos> an <tr>infection</tr> characterized by a smelly yellow pus. <pos>v</pos> <itype>[a4]</itype> get this infection. <form>-un(&rarr;)</form> <pos>a</pos> having this sort of infection.
 
 <p id=3745><form>buuk</form> <pos>n</pos> <tr>piece</tr>, <tr>single</tr> one. <i>Usa ka buuk ságing,</i> A banana. <i>Upat ka buuk bátà,</i> Four children. <i>Tutú ka buuk báy,</i> Three houses. <form>-an</form> <pos>a</pos> of <tr>imposing</tr> size. <i>Ang táwung buukan katahaan,</i> A person of imposing size is held in respect. <pos>v</pos> <itype>[B12]</itype> be imposingly big.
 
