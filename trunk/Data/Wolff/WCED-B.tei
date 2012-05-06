@@ -773,7 +773,7 @@
 
 <p id=1867><form>baláni<sub>1</sub></form> <pos>n</pos> <number>1</number> trunk of a banana or abaca plant. <number>2</number> pieces of the banana trunk.
 
-<p id=1868><form>baláni<sub>2</sub></form> <xr>see <sc>BATU<sub>1</sub></sc>.</xr>
+<p id=1868><form>baláni<sub>2</sub></form> <xr><ix>see</ix> <sc>BATU<sub>1</sub></sc>.</xr>
 
 <p id=1869><form>balansi</form> (not without <ix>l</ix>) <pos>n</pos> <number>1</number> <tr>accounting</tr>. <number>2</number> <tr>balance</tr>. <i>Nawad-an siyag balansi,</i> He lost his balance. <pos>v</pos> <number>1</number> <itype>[A; a2]</itype> make an accounting of. <i>Balansíhan ta ka sa ímung útang,</i> I&apos;ll make an accounting to you of your debts. <number>2</number> <itype>[A]</itype> <number>2a</number> maintain one&apos;s balance. <number>2b</number> <tr>sway</tr> from side to side in keeping in an upright position. <i>Nagbalansi ang barku sa dakung balud,</i> The ship rocked back and forth in the high waves.
 
@@ -907,7 +907,7 @@
 
 <p id=1933><form>baligyà</form> <pos>v</pos> <itype>[A; c]</itype> <tr>sell</tr>. <i>Gibaligyáan ku níyag sigarilyu,</i> He sold me some cigarettes. <pos>n</pos> <tr><corr sic=merchandize>merchandise</corr></tr>, <tr>wares for sale</tr>. <i>Nagpátad ang daghang baligyà sa asíras,</i> The sidewalks are teeming with things for sale. <i>Dílì kini baligyà. Ákù ni,</i> This is not for sale. It&apos;s mine. <form>palit &mdash;</form> buying and selling. <i>Nanginabúhì ku sa palit baligyà,</i> I make my living by buying and selling. <form>maN-ay, maN-r-</form> <pos>n</pos> one who sells for a living.
 
-<p id=1934><form>bálik</form> <pos>v</pos> <number>1</number> <itype>[A2; b5]</itype> go, <tr>come back</tr>, come back to get s.t. <i>Kanus-a ka man mubálik?</i> When will you come back? <i>Balíkun (balíkan) nákù ang ákung nahikalimtan,</i> I&apos;ll come back for the things I forgot. <number>1a</number> <itype>[A13; c]</itype> put, give s.t. back. <i>Ibálik ra ni ngadtu,</i> Put this back. <number>2</number> <itype>[B23; b6]</itype> return to his former state. <i>Mibálik (nabálik) na ang kangayà sa íyang panagway,</i> Her happy expression returned to her face. <i>Balíkan ang yútà sa íyang katambuk kun abunúhan,</i> The soil will regain its fertility if you add fertilizer. <number>3</number> <itype>[b4]</itype> have a <tr>relapse</tr>. <i>Gibalíkan siya sa íyang sakit kay nangalsag bug-at,</i> He had a relapse because he carried s.t. too heavy for him. <number>4</number> <itype>[A; b5c]</itype> [do] again. <i>Balíki (balíka) nig tahì,</i> Sew this over again. <i>Balíkun ku ikaw ug pangutána,</i> I will ask you again. <i>Maúlaw ku ug ibálik nag pangutána,</i> I would be embarrassed if that question were asked a second time. <number>4a</number> <itype>[a12]</itype> <tr>revive</tr>. <i>Naghandum sila nga untà balíkun ang pilikulang Binisayà,</i> They&apos;re thinking about reviving Visayan movies. <pos>n</pos> subject repeated in school. <form>balikbálik</form> <pos>v</pos> <itype>[B2; ac2]</itype> <number>1</number> do again. <number>2</number> come back again. <i>Balikbálik unyà mu, ha?</i> Bye. Come back and see us again, will you? <form>balikbalik</form> <pos>n</pos> <number>1</number> k.o. small tree used in countersorcery because of its magical powers to cause evil to return to the perpetrator. <number>2</number> k.o. small bird. <form>sum-(&rarr;), tum-(&rarr;)</form> <xr>see <sc>SUMBALIK</sc>.</xr>
+<p id=1934><form>bálik</form> <pos>v</pos> <number>1</number> <itype>[A2; b5]</itype> go, <tr>come back</tr>, come back to get s.t. <i>Kanus-a ka man mubálik?</i> When will you come back? <i>Balíkun (balíkan) nákù ang ákung nahikalimtan,</i> I&apos;ll come back for the things I forgot. <number>1a</number> <itype>[A13; c]</itype> put, give s.t. back. <i>Ibálik ra ni ngadtu,</i> Put this back. <number>2</number> <itype>[B23; b6]</itype> return to his former state. <i>Mibálik (nabálik) na ang kangayà sa íyang panagway,</i> Her happy expression returned to her face. <i>Balíkan ang yútà sa íyang katambuk kun abunúhan,</i> The soil will regain its fertility if you add fertilizer. <number>3</number> <itype>[b4]</itype> have a <tr>relapse</tr>. <i>Gibalíkan siya sa íyang sakit kay nangalsag bug-at,</i> He had a relapse because he carried s.t. too heavy for him. <number>4</number> <itype>[A; b5c]</itype> [do] again. <i>Balíki (balíka) nig tahì,</i> Sew this over again. <i>Balíkun ku ikaw ug pangutána,</i> I will ask you again. <i>Maúlaw ku ug ibálik nag pangutána,</i> I would be embarrassed if that question were asked a second time. <number>4a</number> <itype>[a12]</itype> <tr>revive</tr>. <i>Naghandum sila nga untà balíkun ang pilikulang Binisayà,</i> They&apos;re thinking about reviving Visayan movies. <pos>n</pos> subject repeated in school. <form>balikbálik</form> <pos>v</pos> <itype>[B2; ac2]</itype> <number>1</number> do again. <number>2</number> come back again. <i>Balikbálik unyà mu, ha?</i> Bye. Come back and see us again, will you? <form>balikbalik</form> <pos>n</pos> <number>1</number> k.o. small tree used in countersorcery because of its magical powers to cause evil to return to the perpetrator. <number>2</number> k.o. small bird. <form>sum-(&rarr;), tum-(&rarr;)</form> <xr><ix>see</ix> <sc>SUMBALIK</sc>.</xr>
 
 <pb n=96>
 
@@ -1565,7 +1565,7 @@
 
 <p id=2257><form>bantawan</form> <pos>n</pos> <tr>stage</tr> or <tr>platform</tr>.
 
-<p id=2258><form>bantay</form> <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> <tr>watch</tr> s.t., keep watch over. <i>Wà siyay ági, nagbantay lang sa úras,</i> He doesn&apos;t work. He just watches the clock. <i>Pag-iskápu sa binilanggù kinsay nagbantay?</i> When the prisoner escaped, who was on guard? <i>Dílì siya kasiyut ug daghan ug akuy makabantay,</i> He can&apos;t shoot the ball if I guard him. <i>Bantayi ang linung-ag,</i> Watch the rice. <number>1a</number> take care of plants, esp. coconuts. <i>Nagbantay sila sa kalubihan,</i> They were tending their coconut plantation. <number>2</number> notice, be aware of s.t. impending. <i>Nadunggaban siya kay walà siya makabantay sa usa ka handus,</i> He got stabbed because he was not aware of the thrust. <number>3</number> watch out for, beware of. <i>Pagbantay sa mangunguut,</i> Watch out for pickpockets. <i>Bantayi ni nga dílì maumgan,</i> Take care so it won&apos;t get wet. <number>4</number> watch for s.t. to pass. <i>Ibantay kug taksi,</i> Watch for a cab for me. <pos>n</pos> <tr>guard</tr>. <i>Namúga ang mga prísu kay natúlug ang bantay,</i> The prisoners escaped because the guard fell asleep. <form>bantaybantay, &mdash; sa balutbut, talikud</form> various species of colorful fish that lurk in the reefs and snap at prey: e.g. <bio>Diploprium bifascatium</bio>. <form>-l-an</form> <pos>n</pos> guardhouse, guard post. <i>Butangig bantay kanúnay ang balantayan (bantayan),</i> Always keep a guard in the guardhouse. <form>-l-an, -anan</form> <pos>a</pos> needful of careful watching. <i>Ang bátang bag-u pang mulakaw bantayánan kaáyu,</i> A child who is still starting to walk needs careful watching. <form>hiN-un</form> <pos>a</pos> minding other people&apos;s business. <form>ma-in-un, ma-un</form> <pos>a</pos> watchful. <i>Ang mabinantáyung (mabantáyung) mata sa Diyus,</i> The watchful eyes of God. <form>mag-r-, mag-l-</form> <pos>n</pos> <number>1</number> one who watches over s.t. <i>Magbalantay sa tindáhan,</i> Storekeeper. <i>Magbalantay sa sam-ang,</i> Cemetery caretaker. <number>2</number> sergeant-at-arms. <form>anghil &mdash;</form> <xr>see <sc>ANGHIL</sc>.</xr> <form>&mdash; sa kalínaw</form> guardian of peace.
+<p id=2258><form>bantay</form> <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> <tr>watch</tr> s.t., keep watch over. <i>Wà siyay ági, nagbantay lang sa úras,</i> He doesn&apos;t work. He just watches the clock. <i>Pag-iskápu sa binilanggù kinsay nagbantay?</i> When the prisoner escaped, who was on guard? <i>Dílì siya kasiyut ug daghan ug akuy makabantay,</i> He can&apos;t shoot the ball if I guard him. <i>Bantayi ang linung-ag,</i> Watch the rice. <number>1a</number> take care of plants, esp. coconuts. <i>Nagbantay sila sa kalubihan,</i> They were tending their coconut plantation. <number>2</number> notice, be aware of s.t. impending. <i>Nadunggaban siya kay walà siya makabantay sa usa ka handus,</i> He got stabbed because he was not aware of the thrust. <number>3</number> watch out for, beware of. <i>Pagbantay sa mangunguut,</i> Watch out for pickpockets. <i>Bantayi ni nga dílì maumgan,</i> Take care so it won&apos;t get wet. <number>4</number> watch for s.t. to pass. <i>Ibantay kug taksi,</i> Watch for a cab for me. <pos>n</pos> <tr>guard</tr>. <i>Namúga ang mga prísu kay natúlug ang bantay,</i> The prisoners escaped because the guard fell asleep. <form>bantaybantay, &mdash; sa balutbut, talikud</form> various species of colorful fish that lurk in the reefs and snap at prey: e.g. <bio>Diploprium bifascatium</bio>. <form>-l-an</form> <pos>n</pos> guardhouse, guard post. <i>Butangig bantay kanúnay ang balantayan (bantayan),</i> Always keep a guard in the guardhouse. <form>-l-an, -anan</form> <pos>a</pos> needful of careful watching. <i>Ang bátang bag-u pang mulakaw bantayánan kaáyu,</i> A child who is still starting to walk needs careful watching. <form>hiN-un</form> <pos>a</pos> minding other people&apos;s business. <form>ma-in-un, ma-un</form> <pos>a</pos> watchful. <i>Ang mabinantáyung (mabantáyung) mata sa Diyus,</i> The watchful eyes of God. <form>mag-r-, mag-l-</form> <pos>n</pos> <number>1</number> one who watches over s.t. <i>Magbalantay sa tindáhan,</i> Storekeeper. <i>Magbalantay sa sam-ang,</i> Cemetery caretaker. <number>2</number> sergeant-at-arms. <form>anghil &mdash;</form> <xr><ix>see</ix> <sc>ANGHIL</sc>.</xr> <form>&mdash; sa kalínaw</form> guardian of peace.
 
 <p id=2259><form>bantáyan</form> <xr>= <sc>BATÁYAN</sc>.</xr>
 
@@ -1677,7 +1677,7 @@
 
 <p id=2310><form>baranggay</form> <pos>n</pos> <number>1</number> a unit of government of the pre-Spanish Filipinos, the titular head of whom was the <ix>dátù</ix> or sultan. <number>2</number> <xr>= <sc>BALÁNGAY</sc>.</xr> <number>3</number> a nightly rosary held by turns in the houses in a certain neighborhood. <i>Átù rung turnu sa baranggay,</i> Tonight, the nightly rosary of the <ix>baranggay</ix> will be held in our house. <pos>v</pos> <number>1</number> <itype>[A2C23]</itype> hold a <ix>baranggay</ix>. <number>2</number> <itype>[A13]</itype> go to one&apos;s girl friend&apos;s house, as the members of a prayer group go to s.o.&apos;s house for the <ix>baranggay</ix> (colloquial).
 
-<p id=2311><form>barasbáras</form> <xr>= <sc>BARABÁRA</sc>.</xr> <xr>see <sc>BÁRA</sc>.</xr>
+<p id=2311><form>barasbáras</form> <xr>= <sc>BARABÁRA</sc>.</xr> <xr><ix>see</ix> <sc>BÁRA</sc>.</xr>
 
 <p id=2312><form>barásu</form> <xr>= <sc>BRÁSU</sc>.</xr>
 
@@ -1725,7 +1725,7 @@
 
 <p id=2334><form>barda</form> <xr>= <sc>BALDA</sc>.</xr>
 
-<p id=2335><form>bardádu</form> <pos>n</pos> <xr>= <sc>BALDÁDU</sc>.</xr> <xr>see <sc>BALDA</sc>.</xr>
+<p id=2335><form>bardádu</form> <pos>n</pos> <xr>= <sc>BALDÁDU</sc>.</xr> <xr><ix>see</ix> <sc>BALDA</sc>.</xr>
 
 <p id=2336><form>bards<sub>1</sub></form> <pos>n</pos> <tr>barge</tr>. <pos>v</pos> <number>1</number> <itype>[A1; a12]</itype> take a <tr>barge</tr>. <number>2</number> <itype>[A2; a12]</itype> make into a barge.
 
@@ -1885,7 +1885,7 @@
 
 <p id=2413><form>baskula</form> <pos>n</pos> <tr>scales</tr> for weighing, where the fulcrum is not in the middle, e.g., steelyard.
 
-<p id=2414><form>baslan</form> <xr>see <sc>BÁLUS</sc>.</xr>
+<p id=2414><form>baslan</form> <xr><ix>see</ix> <sc>BÁLUS</sc>.</xr>
 
 <p id=2415><form>basngag</form> <pos>v</pos> <itype>[A; b5c]</itype> utter sharp words in anger or impatience. <i>Mamasngag siyag samuksamukun kun magtrabáhu,</i> He snaps at people when he is disturbed while working.
 
@@ -2187,7 +2187,7 @@
 
 <p id=2559><form>báut<sub>2</sub></form> if only [such-and-such] a thing had happened. <i>Báut mibálik pa, dílà ra untay way labud,</i> If only he had come back. He would have gotten it. (Lit. The only thing that would have escaped my pummeling would have been his tongue.) <i>Báut pag napalit nákù tung yutáa, dátù na tà ku,</i> If only I had bought that land, I would be rich now.
 
-<p id=2560><form>báut<sub>3</sub></form> <xr>= <sc>GIPAKAINGUN</sc> (dialectal).</xr> <xr>see <sc>INGUN<sub>1</sub></sc>.</xr>
+<p id=2560><form>báut<sub>3</sub></form> <xr>= <sc>GIPAKAINGUN</sc> (dialectal).</xr> <xr><ix>see</ix> <sc>INGUN<sub>1</sub></sc>.</xr>
 
 <p id=2561><form>baúu</form> <xr>= <sc>BAU</sc>.</xr>
 
@@ -2703,7 +2703,7 @@
 
 <p id=2815><form>binakháwan</form> <xr>= <sc>BAKHAW<sub>2</sub></sc>, <ix>n</ix>.</xr>
 
-<p id=2816><form>binalatung</form> <xr>see <sc>BALÁTUNG</sc>.</xr>
+<p id=2816><form>binalatung</form> <xr><ix>see</ix> <sc>BALÁTUNG</sc>.</xr>
 
 <p id=2817><form>binangkal</form> <pos>n</pos> delicacy made of leftover bread or cookies with sugar made into a ball, covered with sesame seeds and fried.
 
@@ -4665,9 +4665,9 @@
 
 <p id=3780><form>buylu</form> <pos>n</pos> <tr>momentum</tr>. <pos>v</pos> <number>1</number> <itype>[A2]</itype> gain momentum, <tr>accelerate</tr>. <i>Mibuylu ang dyip sa pagsubída,</i> The jeep accelerated on the upgrade. <number>2</number> <itype>[A12]</itype> move with freedom and ease. <i>Dì ta makabuylu sa mga tígum nga purmal,</i> We cannot move with ease in formal gatherings. <form>tina-</form> <xr><ix>see</ix> <sc>TINABUYLU</sc>.</xr>
 
-<p id=3781><form>buylug</form> <pos>v</pos> <itype>[A; b7]</itype> <tr>speed</tr>, <tr>rush</tr> forward. <i>Mibuylug ang túbig pagkagubà sa liptung,</i> The water gushed out when the dam broke. <i>Buylúgi (pabuylúgi) arun makaapas ta níla,</i> Give it more speed so we can catch up with them. <pos>n</pos> fast, onrushing forward speed. <pos>v</pos> <itype>[C2; c3]</itype> do s.t. together in a group. <i>Sígi silang magbuylug bísan ása paìngun,</i> They are always together, wherever they go. <form>hi-</form>/<form>ha-</form> <pos>v</pos> <itype>[B126]</itype> be included in s.o.&apos;s misfortunes. <i>Ang tibuuk níyang bánay nahibuylug sa kadáut,</i> His whole family suffered from the misfortune. <form>ta-</form> <xr>see <sc>TABUYLUG</sc>.</xr>
+<p id=3781><form>buylug</form> <pos>v</pos> <itype>[A; b7]</itype> <tr>speed</tr>, <tr>rush</tr> forward. <i>Mibuylug ang túbig pagkagubà sa liptung,</i> The water gushed out when the dam broke. <i>Buylúgi (pabuylúgi) arun makaapas ta níla,</i> Give it more speed so we can catch up with them. <pos>n</pos> fast, onrushing forward speed. <pos>v</pos> <itype>[C2; c3]</itype> do s.t. together in a group. <i>Sígi silang magbuylug bísan ása paìngun,</i> They are always together, wherever they go. <form>hi-</form>/<form>ha-</form> <pos>v</pos> <itype>[B126]</itype> be included in s.o.&apos;s misfortunes. <i>Ang tibuuk níyang bánay nahibuylug sa kadáut,</i> His whole family suffered from the misfortune. <form>ta-</form> <xr><ix>see</ix> <sc>TABUYLUG</sc>.</xr>
 
-<p id=3782><form>*buyna<sub>1</sub></form> <form>&mdash; mánu</form> <pos>n</pos> <number>1</number> first <tr>sale</tr> of the day, thought to stimulate further sales. The price is usually reduced to push the <ix>buyna mánu</ix> sale through. <i>Sígi lang, hay buyna mánu ni,</i> All right, I accept your offer, since this is the first sale of the day. <number>2</number> a person who buys the first sale. <i>Napalit nákug barátu kay buyna mánu man ku,</i> I managed to get it cheap because I was the first customer. <form>nutsi &mdash;</form> <xr>see <sc>NUTSI</sc>.</xr>
+<p id=3782><form>*buyna<sub>1</sub></form> <form>&mdash; mánu</form> <pos>n</pos> <number>1</number> first <tr>sale</tr> of the day, thought to stimulate further sales. The price is usually reduced to push the <ix>buyna mánu</ix> sale through. <i>Sígi lang, hay buyna mánu ni,</i> All right, I accept your offer, since this is the first sale of the day. <number>2</number> a person who buys the first sale. <i>Napalit nákug barátu kay buyna mánu man ku,</i> I managed to get it cheap because I was the first customer. <form>nutsi &mdash;</form> <xr><ix>see</ix> <sc>NUTSI</sc>.</xr>
 
 <p id=3783><form>buynas</form> <pos>a</pos> <tr>lucky</tr>, <tr>fortunate</tr>. <pos>v</pos> <itype>[A123S; a12]</itype> be lucky. <i>Mangabir ku, básig buynásun,</i> I&apos;ll take a try. Perhaps I&apos;ll be lucky. <form>&mdash; díyas, nutsis</form> <tr>Good day</tr>, <tr>night</tr>, said to people who are thought to be Spanish-speaking, <form>di-</form> <xr>= <sc>BUYNAS</sc>.</xr>
 

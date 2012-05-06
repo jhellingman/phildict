@@ -309,7 +309,7 @@
 
 <p id=15784><form>sagiput</form> <pos>v</pos> <itype>[A2; a2]</itype> <tr>get away</tr>, moving through s.t. with great agility. <i>Dalì rang nakasagiput ang mangunguut sa daghang mga táwu,</i> The pickpocket easily eluded capture by running through the crowd.
 
-<p id=15785><form>sagip-ut</form> <xr>= <sc>HAGIP-UT</sc>, <i>a1, v1.</i></xr> <xr>see <sc>GIP-UT</sc>.</xr>
+<p id=15785><form>sagip-ut</form> <xr>= <sc>HAGIP-UT</sc>, <i>a1, v1.</i></xr> <xr><ix>see</ix> <sc>GIP-UT</sc>.</xr>
 
 <p id=15786><form>sagírit</form> <pos>v</pos> <itype>[A2S; b6]</itype> <tr>speed away</tr> from s.t., <tr>whizz by</tr> s.t. <i>Nagsagírit (nagsagirit) siyang nagsakay sa mutur, walà manumbáling ug hiabugan mi,</i> He sped by on his motorcycle not caring that he was getting dust all over us.
 
@@ -335,7 +335,7 @@
 
 <p id=15796><form>sagmuyù</form> (from <ix>puyù</ix>) <pos>v</pos> <number>1</number> <itype>[B156]</itype> be, become <tr>pensive</tr> and <tr>quiet</tr>. <i>Nagsagmuyù siya sa paghinunàhúnà sa nawálang kwarta,</i> She was pensive and silent thinking about the money that had disappeared. <number>2</number> <itype>[B26]</itype> be, become <tr>silent</tr> and <tr>dejected</tr> as if in disappointment, defeat, embarrassment. <i>Nasagmuyù ang ulitáwung gibalibáran,</i> The young man was dejected when she turned him down. <form>hi-/ha-</form> <pos>v</pos> <itype>[B1256]</itype> be <tr>struck dumb</tr> with surprise. <i>Nahisagmuyù ang amahan pagkabatì sa nutisya,</i> The father became <tr>speechless</tr> upon hearing the news. <form>kahi-</form> <pos>n</pos> silent, speechless surprise.
 
-<p id=15797><form>sagnunut</form> <xr>see <sc>NUNUT</sc>.</xr>
+<p id=15797><form>sagnunut</form> <xr><ix>see</ix> <sc>NUNUT</sc>.</xr>
 
 <p id=15798><form>sagpà</form> <pos>v</pos> <itype>[A; a2b2]</itype> <tr>slap</tr>, strike the face with the open palm. <form>mu rag gi- ug wala</form> deeply <tr>insulted</tr> (as if slapped in the face with the left hand). <i>Mitalikud si Pidru mu rag gisagpag wala kay gigahutan ni Ansay,</i> Pedro turned away very much embarrassed because Ansay shouted at him. <pos>n</pos> <number>1</number> <tr>slap</tr> in the face. <number>2</number> <tr>insult</tr>. <i>Sagpà sa ákung pagkatáwu ang íyang gipamúlung,</i> What he said was an insult to my honor. <form>&mdash; bahà</form> <pos>n</pos> a k.o. freshwater <tr>shrimp</tr> about 1&frac12;&Prime; long which has one claw broader than its body. <form>paN-</form> <pos>v</pos> <itype>[a1]</itype> for s.t. to <tr>boomerang</tr> on one such that he becomes the very thing that he scorns. <i>Kusug kaáyung manaway nang bayhána kaniadtu sa mga laláking turútuy, apan gipanagpà kay inánu giyud hinúun ang nabána,</i> That woman used to laugh at short men, but it boomeranged on her because she got a midget for a husband.
 
@@ -1371,7 +1371,7 @@
 
 <p id=16310><form>*sanib</form> <form>pa-</form> <pos>v</pos> <itype>[A; b]</itype> court s.o.&apos;s favor by showing exaggerated concern, giving lavish gifts, and the like. <i>Dalì ra siyang miusbaw kay maáyung mupasanib,</i> He quickly got promoted because he is great at <tr>boot-licking</tr>.
 
-<p id=16311><form>sanidad</form> <xr>see <sc>*SANI<sub>2</sub></sc>.</xr>
+<p id=16311><form>sanidad</form> <xr><ix>see</ix> <sc>*SANI<sub>2</sub></sc>.</xr>
 
 <p id=16312><form>sanílas</form> <xr>= <sc>SINÍLAS</sc>.</xr>
 
@@ -1737,7 +1737,7 @@
 
 <p id=16491><form>saúlug</form> <pos>v</pos> <itype>[A; b5]</itype> celebrate the memory of some event. <i>Dílì ku musaúlug sa ákung adlaw,</i> I will not celebrate my birthday. <i>Magsaúlug mi sa ámung pyista rung dúsi ning bulána,</i> We will celebrate our fiesta on the twelfth of this month. <pos>n</pos> <tr>celebration</tr>.
 
-<p id=16492><form>sáun</form> short for <bx>unsáun</bx>. <xr>see <sc>UNSA</sc>.</xr>
+<p id=16492><form>sáun</form> short for <bx>unsáun</bx>. <xr><ix>see</ix> <sc>UNSA</sc>.</xr>
 
 <p id=16493><form>saup<sub>1</sub></form> <pos>n</pos> <tr>sharecropper</tr>. <i>Dílì ni ákung yútà, saup lang ku dinhi,</i> This is not my land. I&apos;m just a sharecropper here. <pos>v</pos> <itype>[A; b6]</itype> work a piece of land by sharecropping. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> earn one&apos;s living as a sharecropper. <pos>n</pos> <tr>sharecropping</tr>.
 
@@ -1780,6 +1780,8 @@
 <p id=16511><form>sawsaw</form> <pos>v</pos> <itype>[A13; c6]</itype> dunk s.t. into s.t. else and shake it around. <i>Kinsay nagsawsaw áring túbig nga nahúgaw man?</i> Who dunked (his hand) into the water (and swished it around)? It is dirty. <i>Karing sukáa sawsáwi sa sinugbang bábuy,</i> Dunk your roast pork and swish it around in this vinegar. <i>Isawsaw ang nuug sa túbig,</i> Swish the rag around in the water.
 
 <p id=16512><form>sawsyung</form> <pos>n</pos> <number>1</number> a player who inadvertently gets more cards than the required number. <number>2</number> a player who announces mahjong on a false alarm, penalized if the other players have displayed their hands.
+
+<!-- TODO: change italics in following entry -->
 
 <p id=16513><form>sawu-</form> for words with <ix>sawu-</ix> see also <xr><sc>SALU-</sc>.</xr>
 
@@ -1985,7 +1987,7 @@
 
 <p id=16613><form>sid-ing</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>look closely</tr> at s.t. by bringing one&apos;s face to it or putting it near the face. <i>Nagsid-ing ku áring pínung litra,</i> I am looking closely at this fine print. <number>2</number> <itype>[A1; a12]</itype> look at s.t. out of the corner of the eyes. <i>Nasakpan ku siya nga nagsid-ing kang Marta,</i> I caught him regarding Martha out of the corner of his eyes.
 
-<p id=16614><form>sidlak</form> <pos>a</pos> <tr>sparkling</tr>, <tr>glittering</tr>. <pos>v</pos> <itype>[A]</itype> <number>1</number> <tr>sparkle</tr>. <i>Diyamanting nagsidlak,</i> A sparkling diamond. <i>Hingsidlakan aku sa adlaw,</i> I woke up after the sun had risen. <number>2</number> be glittering in prominence. <i>Misidlak ang íyang kabantug, He reached glittering fame.</i> <pos>n</pos> ray, beam. <form>-an(&rarr;)</form> <pos>n</pos> <tr>east</tr>. <i>Layung sidlakan,</i> The <tr>Far East</tr>. <i>Duul nga sidlakan,</i> The <tr>Near East</tr>.
+<p id=16614><form>sidlak</form> <pos>a</pos> <tr>sparkling</tr>, <tr>glittering</tr>. <pos>v</pos> <itype>[A]</itype> <number>1</number> <tr>sparkle</tr>. <i>Diyamanting nagsidlak,</i> A sparkling diamond. <i>Hingsidlakan aku sa adlaw,</i> I woke up after the sun had risen. <number>2</number> be glittering in prominence. <i>Misidlak ang íyang kabantug,</i> He reached glittering fame. <pos>n</pos> ray, beam. <form>-an(&rarr;)</form> <pos>n</pos> <tr>east</tr>. <i>Layung sidlakan,</i> The <tr>Far East</tr>. <i>Duul nga sidlakan,</i> The <tr>Near East</tr>.
 
 <p id=16615><form>sidlit</form> <pos>v</pos> <number>1</number> <itype>[A; b2]</itype> squirt out in a stream. <i>Misidlit ang nánà sa dihang gipislit ang hubag,</i> The pus squirted out in a stream when I pressed the boil. <i>Hingsidlitan ku sa íhì sa bátà,</i> The little boy urinated on me. <number>2</number> <itype>[A23]</itype> for the sun to shine (literary). <i>Sa walà pa musidlit ang primírung bidlísiw sa adlaw,</i> Before the first rays of the sun shone.
 
@@ -2025,7 +2027,7 @@
 
 <p id=16633><form>sigbin</form> <pos>n</pos> animal possessed by and at the service of s.o. It has the power of making itself invisible to a person other than the owner. The <ix>sigbin</ix> can do good to the owner, transport the owner, and will inflict fatal bites on whomever the owner commands it to. It cannot be killed as long as the owner can see it. It is said to have long hind legs and walks with the head looking back in between the legs. Ownership is handed down to relatives when the owner dies. A person who refuses a <ix>sigbin</ix> is said to go mad. <form>-an</form> <pos>n</pos> possessing a <ix>sigbin</ix>. <pos>v</pos> <itype>[B1256]</itype> get a <ix>sigbin</ix> handed down to one.
 
-<p id=16634><form>sígi</form> <pos>v</pos> <number>1</number> <itype>[A; b5c1]</itype> <tr>continue</tr> or go on doing s.t.; do s.t. <tr>always</tr>. <i>Ug magsígi ning ulána háyan mubahà,</i> If this rain keeps on, it&apos;s likely to flood. <i>Sigíhun (sigíhan, isígi) nímu ug túyuk ang twirka hangtud muhugut,</i> Continue turning the screw until it gets tight. <i>Ngánung sigíhan man ku nímu ug tan-aw?</i> Why do you always look at me? <number>1a</number> <itype>[A23]</itype> walk or <tr>go on</tr> or <tr>forward</tr>. <i>Inig-abut nímu sa iskína, musígi ka ug mga bayinti mitrus,</i> When you reach the corner, <tr>go ahead</tr> for about twenty meters. <number>1b</number> <itype>[A2; a12P]</itype> proceed with one&apos;s studies. <i>Dílì ku makasígi karung sunud túig kay wà kuy kwarta,</i> I cannot proceed with my studies next year because I have no money. <ix>exclamation:</ix> <number>1</number> urging s.o. to do s.t. <i>Sígi, káun na,</i> <tr>Come on</tr>, eat! <number>2</number> expressing acquiescence. <i>Ug walay láin sígi na lang ta áning nía,</i> If there is no other, we will just have to make do with this. <number>2a</number> <tr>O</tr>.K. <tr>Bye</tr>. <i>&lsquo;Adtu na ku.&rsquo; &lsquo;Sígi,&rsquo;</i> &lsquo;I&apos;m going now.&rsquo; &lsquo;O.K., Bye-bye.&rsquo; <number>3</number> <tr>always</tr>. <i>Sígi ka lang ug sulti, way búhat,</i> You&apos;re always talking. You never do anything. <form>&mdash; lang</form> <number>1</number> never mind, it doesn&apos;t matter. <i>Sígi lang ug pubri, basta malipáyun,</i> Never mind if I&apos;m poor as long as I am happy. <number>2</number> Oh, <tr>please</tr>. <i>Sígi lang, tagái lang ku,</i> Oh, please. Let me have some! <form>(&rarr;)</form> <xr>= <sc>SÍGI</sc>, <ix>exclamation</ix>.</xr>
+<p id=16634><form>sígi</form> <pos>v</pos> <number>1</number> <itype>[A; b5c1]</itype> <tr>continue</tr> or go on doing s.t.; do s.t. <tr>always</tr>. <i>Ug magsígi ning ulána háyan mubahà,</i> If this rain keeps on, it&apos;s likely to flood. <i>Sigíhun (sigíhan, isígi) nímu ug túyuk ang twirka hangtud muhugut,</i> Continue turning the screw until it gets tight. <i>Ngánung sigíhan man ku nímu ug tan-aw?</i> Why do you always look at me? <number>1a</number> <itype>[A23]</itype> walk or <tr>go on</tr> or <tr>forward</tr>. <i>Inig-abut nímu sa iskína, musígi ka ug mga bayinti mitrus,</i> When you reach the corner, <tr>go ahead</tr> for about twenty meters. <number>1b</number> <itype>[A2; a12P]</itype> proceed with one&apos;s studies. <i>Dílì ku makasígi karung sunud túig kay wà kuy kwarta,</i> I cannot proceed with my studies next year because I have no money. <ix>exclamation:</ix> <number>1</number> urging s.o. to do s.t. <i>Sígi, káun na,</i> <tr>Come on</tr>, eat! <number>2</number> expressing acquiescence. <i>Ug walay láin sígi na lang ta áning nía,</i> If there is no other, we will just have to make do with this. <number>2a</number> <tr>O.K.</tr> <tr>Bye</tr>. <i>&lsquo;Adtu na ku.&rsquo; &lsquo;Sígi,&rsquo;</i> &lsquo;I&apos;m going now.&rsquo; &lsquo;O.K., Bye-bye.&rsquo; <number>3</number> <tr>always</tr>. <i>Sígi ka lang ug sulti, way búhat,</i> You&apos;re always talking. You never do anything. <form>&mdash; lang</form> <number>1</number> never mind, it doesn&apos;t matter. <i>Sígi lang ug pubri, basta malipáyun,</i> Never mind if I&apos;m poor as long as I am happy. <number>2</number> Oh, <tr>please</tr>. <i>Sígi lang, tagái lang ku,</i> Oh, please. Let me have some! <form>(&rarr;)</form> <xr>= <sc>SÍGI</sc>, <ix>exclamation</ix>.</xr>
 
 <p id=16635><form>sig-id</form> <pos>n</pos> k.o. <tr>vine</tr> used for tying purposes: <bio>Malaisia scandens</bio>.
 
@@ -2105,7 +2107,7 @@
 
 <p id=16673><form>sikà</form> <xr>= <sc>SIKÀSIKÀ</sc>.</xr> <form>sikàsikà</form> <pos>v</pos> <itype>[A; b6]</itype> talk harshly and loudly in giving commands. <i>Gisikàsikaan ang suluguun sa dunya,</i> The lady shouted at the maid, giving her one order after another. <form>sikàsikaun</form> <pos>a</pos> <tr>disrespectful</tr> in speech.
 
-<p id=16674><form>síkad</form> <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> propel s.t. with the feet, bending the knees and kicking the legs. <i>Sikári ang síya arun dílì na lang nákù kuháun,</i> <tr>Kick</tr> the chair over here so I don&apos;t have to get it. <number>2</number> <itype>[A; b]</itype> <tr>pedal</tr>. <i>Kumpása ug síkad ang makina,</i> Pedal the sewing machine rhythmically. <number>3</number> <itype>[AC2; ac]</itype> have two fighting cocks spar by holding them by the tail and allowing their legs to scratch or kick the ground. <i>Kanúnayng isíkad ang manuk arun lig-un ang tiil,</i> Always have the cock spar to make its legs strong. <number>3a</number> <itype>[A]</itype> <formx>&mdash; ang manuk</formx> for a candidate for a woman&apos;s hand to say his piece. <i>Dílì maáyung musíkad ang ákung manuk kay wà sugta,</i> My man doesn&apos;t know how to talk to women because he was unsuccessful. <form>(&rarr;)</form> <xr>= <sc>ANINIKAD</sc>.</xr> <form>pa-</form> <pos>v</pos> <itype>[A; bc]</itype> base an argument or belief. <i>Ayawg ipasíkad ang ímung hukum sa mga tabìtábì,</i> Don&apos;t base your decision on gossip. <form>pina-</form> <pos>n</pos> based on. <i>Panglíhuk nga pinasíkad sa maáyung pamatásan,</i> Behavior that is based on good manners. <form>paN-</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> push with the feet exerting effort. <number>2a</number> kick the ground, as if eager to fight. <i>Ag túru nagpanikad kay gustu nang muhasmag nákù,</i> The bull is pawing the ground because it wants to charge me. <number>2b</number> <itype>[A13]</itype> be very eager to do s.t. <i>Nagpanikad siya ug adtu sa Manílà,</i> He is very eager to go to Manila. <form>-um-(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> originate, start from. <i>Ang ílang áway nagsumikad sa pagbáhin sa irinsiya,</i> Their quarrel started from the apportioning of the inheritance. <form>sikadsikad<corr sic=.>,</corr> aN-r-(&rarr;)</form> <xr>see <sc>ANINIKAD</sc>.</xr>
+<p id=16674><form>síkad</form> <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> propel s.t. with the feet, bending the knees and kicking the legs. <i>Sikári ang síya arun dílì na lang nákù kuháun,</i> <tr>Kick</tr> the chair over here so I don&apos;t have to get it. <number>2</number> <itype>[A; b]</itype> <tr>pedal</tr>. <i>Kumpása ug síkad ang makina,</i> Pedal the sewing machine rhythmically. <number>3</number> <itype>[AC2; ac]</itype> have two fighting cocks spar by holding them by the tail and allowing their legs to scratch or kick the ground. <i>Kanúnayng isíkad ang manuk arun lig-un ang tiil,</i> Always have the cock spar to make its legs strong. <number>3a</number> <itype>[A]</itype> <formx>&mdash; ang manuk</formx> for a candidate for a woman&apos;s hand to say his piece. <i>Dílì maáyung musíkad ang ákung manuk kay wà sugta,</i> My man doesn&apos;t know how to talk to women because he was unsuccessful. <form>(&rarr;)</form> <xr>= <sc>ANINIKAD</sc>.</xr> <form>pa-</form> <pos>v</pos> <itype>[A; bc]</itype> base an argument or belief. <i>Ayawg ipasíkad ang ímung hukum sa mga tabìtábì,</i> Don&apos;t base your decision on gossip. <form>pina-</form> <pos>n</pos> based on. <i>Panglíhuk nga pinasíkad sa maáyung pamatásan,</i> Behavior that is based on good manners. <form>paN-</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> push with the feet exerting effort. <number>2a</number> kick the ground, as if eager to fight. <i>Ag túru nagpanikad kay gustu nang muhasmag nákù,</i> The bull is pawing the ground because it wants to charge me. <number>2b</number> <itype>[A13]</itype> be very eager to do s.t. <i>Nagpanikad siya ug adtu sa Manílà,</i> He is very eager to go to Manila. <form>-um-(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> originate, start from. <i>Ang ílang áway nagsumikad sa pagbáhin sa irinsiya,</i> Their quarrel started from the apportioning of the inheritance. <form>sikadsikad<corr sic=.>,</corr> aN-r-(&rarr;)</form> <xr><ix>see</ix> <sc>ANINIKAD</sc>.</xr>
 
 <p id=16675><form>síkan</form> <pos>n</pos> <number>1</number> <tr>second</tr> in rank, prize, sequence. <i>Akuy síkan, bayinti ang ákung prayis,</i> I was the second. I got twenty pesos as a prize. <form>&mdash; bis</form> <tr>second base</tr> of baseball. <form>&mdash; grid</form> <tr>second grade</tr>. <form>&mdash; han</form> <tr>second hand</tr>. <form>&mdash; hap</form> second half of a game. <form>&mdash; plís</form> <tr>second place</tr>. <form>&mdash; plísir</form> one who placed second. <form>&mdash; rawun</form> second round in boxing. <form>&mdash; yir</form> second year of high school or college. <pos>v</pos> <itype>[A2]</itype> obtain, get to be the second place. <form>&mdash; dimusyun</form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>second the motion</tr>.&dagger;
 
@@ -2561,7 +2563,7 @@
 
 <p id=16897><form>singkit</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> tie two coconuts together by their husks partly stripped off. <i>Singkítun ta ning duha ka lubi arun dílì magbúlag,</i> We will tie these two coconuts together with their husks so they won&apos;t be separated. <number>2</number> <itype>[C3]</itype> for two separate things to be physically <tr>joined</tr>. <i>Gitawag ug sayamis twins kanang kalúha nga magsingkit,</i> Twins that are joined in flesh are called Siamese twins. <pos>n</pos> two separate things joined in flesh. <i>Usa ray ihap sa ságing nga singkit,</i> Joined bananas are counted as one.
 
-<p id=16898><form>singku</form> <ix>number</ix> five. <pos>n</pos> a <tr>nickle</tr>. <i>Tagái kug singku,</i> Let me have a nickle. <pos>v</pos> <xr>see <sc>TRÍS</sc>.</xr>
+<p id=16898><form>singku</form> <ix>number</ix> five. <pos>n</pos> a <tr>nickle</tr>. <i>Tagái kug singku,</i> Let me have a nickle. <pos>v</pos> <xr><ix>see</ix> <sc>TRÍS</sc>.</xr>
 
 <p id=16899><form>singkul</form> <pos>n</pos> hard growth on the skin covering bony parts, esp. on the ankles and elbows. <pos>v</pos> <itype>[b4]</itype> develop a <ix>singkul</ix>. <i>Sigun sa karáan, singkúlan ka ug musúkul kag ginikánan,</i> In folk belief, one gets <ix>singkul</ix> if one talks back to his parents.
 
@@ -3057,7 +3059,7 @@
 
 <p id=17143><form>siyatsíyat</form> <pos>n</pos> shooting of the ball in basketball for practice or for leisure. <i>Sa siyatsíyat hingígù siya, piru sa dúwà, sus lagyúa,</i> In practice shooting he is a good shot, but when it comes to the actual game, his shots are way off the mark. <pos>v</pos> <itype>[A; c]</itype> do practice shooting, usually leisurely.<i> Magsiyatsíyat únà ang mga magduduwà sa dì pa sugdan ang baskit,</i> The players do practice shooting before the game starts.
 
-<p id=17144><form>siyin</form> one hundred, used only before words of Spanish origin referring to measurements or quantities. <i>Siyin mil,</i> One hundred thousand. <i>Siyin anyus,</i> One hundred years. <pos>v</pos> <xr>see <sc>DISIUTSU</sc>.</xr>
+<p id=17144><form>siyin</form> one hundred, used only before words of Spanish origin referring to measurements or quantities. <i>Siyin mil,</i> One hundred thousand. <i>Siyin anyus,</i> One hundred years. <pos>v</pos> <xr><ix>see</ix> <sc>DISIUTSU</sc>.</xr>
 
 <p id=17145><form>síyuk<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A2S]</itype> <tr>sputter</tr>. <i>Ígù rang nakasíyuk ang ribintadur ug walà makabutu,</i> The firecracker just sputtered and didn&apos;t explode. <number>2</number> give a continuous hissing or screeching sound. <i>Ang hángin misíyuk sa mga alambri,</i> The wind hissed through the wires. <number>3</number> have the sensation of being filled with a humming sound, ring. <i>Misíyuk ang ákung dalunggan human sa butu,</i> My ears rang after the explosion. <pos>n</pos> <number>1</number> k.o. stone found in chunks which crackles and sputters when put into a fire. <number>2</number> hissing, sputtering sound. <form>-in-(&rarr;)</form> <pos>n</pos> <xr>= <sc>SÍYUK</sc>, <i>n2.</i></xr>
 
@@ -3219,7 +3221,7 @@
 
 <p id=17223><form>sugapà</form> <pos>v</pos> <itype>[A12; a3b4(1)]</itype> <tr>encounter</tr> s.t. by accident. <i>Nakasugapà mig bangkíti paglabay námù sa íla,</i> When we went by their house we came upon them having a banquet. <i>Dílì ka untà masugapà sa kadaútan,</i> I hope you don&apos;t meet danger.
 
-<p id=17224><form>sugarul</form> <xr>see <sc>SÚGAL</sc>.</xr>
+<p id=17224><form>sugarul</form> <xr><ix>see</ix> <sc>SÚGAL</sc>.</xr>
 
 <p id=17225><form>súgat</form> <pos>v</pos> <number>1</number> <itype>[AC; ac3]</itype> <tr>meet</tr>, approach from opposite directions. <i>Dílì ka musúgat samtang maglatay na ku sa tabla,</i> Don&apos;t come across in the opposite direction while I am <form>still</form> walking along the plank. <i>Nagkasúgat kami sa Magalyánis,</i> We happened to meet downtown. <i>Sugáta siya sa istasyunan,</i> Meet him at the bus terminal. <number>2</number> <itype>[a1]</itype> <tr>welcome</tr>, <tr>greet</tr> heartily. <i>Sugátun nátù siya sa usa ka masipáung pakpak,</i> Let&apos;s welcome him with a resounding applause. <number>3</number> <itype>[A23]</itype> meet the senses. <i>Usa ka hínay nga hagíyus misúgat sa íyang dalunggan,</i> A low hissing sound met his ears. <pos>n</pos> the Roman Catholic ritual on Easter dawn which represents the meeting of Christ and the Blessed Virgin. Two groups start out from different houses, one group of women, carrying the image of the Holy Mother veiled on a cart, and the other, a group of men carrying an image of Christ on a cart. The two groups meet where an arch has been erected in which a child or several children dressed as angels (<ix>alilúya</ix>) are suspended. Upon the meeting of the two groups the angels are lowered and white pigeons are released, and one of the angels lifts the veil of the Holy Mother. The decorations used in this ceremony are gathered by the spectators for their magical properties. <form>-in-an</form> <pos>n</pos> presents brought by a visitor.&dagger;
 
@@ -3481,7 +3483,7 @@
 
 <p id=17351><form>sulimbad</form> <pos>a</pos> having the eyes in the wrong position in the head: crossed, rolled upwards, one eye out of focus, and the like. <pos>v</pos> <itype>[B; c1P]</itype> get this defect. <i>Musulimbad ang íyang mata ug makuyawan siya,</i> She becomes cross-eyed when she gets scared. <i>Gisulimbad níya ang íyang mga mata timáan nga wà siya makaayun,</i> He rolled his eyes up <corr sic="as as">as</corr> a sign that he did not like it.
 
-<p id=17352><form>sulimni</form> <pos>a</pos> <tr>solemn ceremony</tr> or event. <pos>v</pos> <itype>[B126; c1]</itype> for an event to be made solemn. <i>Masulimni giyud ang ukasiyun sa paghandum sa átung mga bayáni,</i> It should be a solemn occasion when we remember our heroes. <form>mísa &mdash;</form> <xr>see <sc>MÍSA</sc>.</xr>
+<p id=17352><form>sulimni</form> <pos>a</pos> <tr>solemn ceremony</tr> or event. <pos>v</pos> <itype>[B126; c1]</itype> for an event to be made solemn. <i>Masulimni giyud ang ukasiyun sa paghandum sa átung mga bayáni,</i> It should be a solemn occasion when we remember our heroes. <form>mísa &mdash;</form> <xr><ix>see</ix> <sc>MÍSA</sc>.</xr>
 
 <p id=17353><form>sulindir</form> <xr>= <sc>SURINDIR</sc> (colloquial).</xr>
 
@@ -3613,7 +3615,7 @@
 
 <p id=17417><form>súman</form> <pos>n</pos> <xr>= <sc>BUDBUD</sc>, <i>v3; n3.</i></xr> <pos>v</pos> <itype>[A1; a12]</itype> cook, make into <ix>súman.</ix> <form>&mdash; nga hilaw</form> the <tr>penis</tr> (humorous).
 
-<p id=17418><form>sumángil</form> <xr>see <sc>*SÁNGIL</sc>.</xr>
+<p id=17418><form>sumángil</form> <xr><ix>see</ix> <sc>*SÁNGIL</sc>.</xr>
 
 <p id=17419><form>sumarínu</form> <xr>= <sc>SUBMARÍNU</sc>.</xr>
 
@@ -3825,7 +3827,7 @@
 
 <p id=17523><form>sup-ak</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>split</tr> s.t. lengthwise, esp. along the grain. <i>Ákù úsang sup-ákun ang káhuy arun masulud sa pugun,</i> I will split the wood first so it will go into the stove. <pos>n</pos> the long piece split off from a bigger piece. <i>Tulu ka sup-ak nga kawáyan,</i> Three slats of bamboo.
 
-<p id=17524><form>súpan</form> <xr>= <sc>SALÚPAN</sc>.</xr> <xr>see <sc>SALUP</sc>.</xr>
+<p id=17524><form>súpan</form> <xr>= <sc>SALÚPAN</sc>.</xr> <xr><ix>see</ix> <sc>SALUP</sc>.</xr>
 
 <p id=17525><form>súpang</form> <pos>a</pos> fat and healthy. <pos>v</pos> <itype>[B2N; b6]</itype> be, become fat and healthy. <i>Musúpang (manúpang) ang bátà ug sígi siyang inum ug gátas,</i> The child will become fat and healthy if he keeps drinking milk. <form>ka-</form> <pos>n</pos> state of being fat and healthy.
 
@@ -3843,7 +3845,7 @@
 
 <p id=17532><form>súpil</form> <pos>v</pos> <itype>[A23; b6]</itype> go against what s.o. wants one to do. <i>Ug supílan mu ang tambag sa ímung amahan, gabáan ka,</i> If you disobey your father&apos;s advice, you will get your just desserts. <form>ma-un</form> <pos>a</pos> <tr>rebellious</tr>, <tr>disobedient</tr>. <pos>v</pos> <itype>[A13]</itype> be, become rebellious.
 
-<p id=17533><form>supíra</form> <xr>see <sc>SÚPA</sc>.</xr>
+<p id=17533><form>supíra</form> <xr><ix>see</ix> <sc>SÚPA</sc>.</xr>
 
 <p id=17534><form>supirbaysing</form> <pos>n</pos> teacher in charge of the administration of a whole school, one rank above the principal.
 
@@ -4077,6 +4079,8 @@
 
 <p id=17647><form>suwà<sub>2</sub></form> <xr>= <sc>SULÀ<sub>1</sub></sc>.</xr>
 
+<!-- TODO: Change italics in this entry -->
+
 <p id=17648><form>suwa-</form> <xr>for words with <ix>suwa-</ix> see also <sc>SULA-</sc></xr> and <xr><sc>SWA-</sc>.</xr>
 
 <p id=17649><form>súwal</form> <pos>v</pos> <itype>[A2]</itype> for a sickness to recur (said of sicknesses for which it is possible to prevent recurrences). <i>Nakasúwal ang íyang pamutu kay nag-abusar man siya sa babáyi,</i> His skin disease came back because he indulged in women.
@@ -4217,7 +4221,7 @@
 
 <p id=17717><form>syudad</form> <pos>n</pos> <number>1</number> <tr>city</tr>. <number>2</number> <tr>pubic region</tr> (humorous). <i>Ug daghang táwu sa baryu, labi na sa syudad,</i> There are plenty of people in the village (i.e., hair in the beard). How many more there must be in the city (i.e., hair in the pubic region)! <pos>v</pos> <itype>[B12; a12]</itype> be, become, make into a city. <form>-nun</form> <pos>n</pos> city resident. <pos>a</pos> like one from the city. <pos>v</pos> <itype>[B125]</itype> become <tr>citified</tr> in one&apos;s ways.
 
-<p id=17718><form>syukang kaw</form> <pos>n</pos> action of winning in mahjong where a player has obtained an <ix>úpin kang</ix> (see <sc>KANG<sub>2</sub></sc>) and the fourth piece which made the <ix>kang<sub>2</sub></ix>.
+<p id=17718><form>syukang kaw</form> <pos>n</pos> action of winning in mahjong where a player has obtained an <ix>úpin kang</ix> (<xr>see <sc>KANG<sub>2</sub></sc></xr>) and the fourth piece which made the <ix>kang<sub>2</sub></ix>.
 
 <p id=17719><form>syuktung</form> <pos>n</pos> k.o. cheap commercial <tr>alcoholic drink</tr>, called after the brand name Se Hoc Tong.
 
