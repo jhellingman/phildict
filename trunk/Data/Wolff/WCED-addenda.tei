@@ -460,7 +460,7 @@
 
 <p id=21200><form>bugalu</form> <pos>n</pos> <tr>bugaloo</tr> dance. <pos>v</pos> <itype>[A]</itype> dance the bugaloo.
 
-<p id=21201><form>&dagger;bugas</form> <pos>n</pos> <number>2a</number> <formx>&mdash; bugtung</formx> a small boil without a head. <pos>v</pos> 2a <itype>[a4]</itype> have a small boil without a head. <i>Gibugas bugtung ku,</i> I have a small boil without a head.
+<p id=21201><form>&dagger;bugas</form> <pos>n</pos> <number>2a</number> <formx>&mdash; bugtung</formx> a small boil without a head. <pos>v</pos> <number>2a</number> <itype>[a4]</itype> have a small boil without a head. <i>Gibugas bugtung ku,</i> I have a small boil without a head.
 
 <p id=21202><form>&dagger;bugtik</form> <pos>v</pos> <number>1</number> <itype>[B; a]</itype> for containers to stretch, <tr>bulge</tr>, and become tight from being too full. <i>Mubugtik (mabugtik) ang íyang pitáka kun tingsuwildu,</i> His wallet bulges on payday. <i>Bugtíka pagsulud ang sáku,</i> Fill the<corr> sack brimful.</corr>
 
@@ -1369,7 +1369,7 @@
 
 <p id=21645><form>&dagger;sur<sub>1</sub></form> <pos>n</pos> <number>4</number> <tr>south</tr>. <i>Lánaw Sur,</i> South Lanao.
 
-<p id=21646><form>&dagger;surambaw</form> <pos>n</pos> <number>3</number> a large square or rectangular lift net operated with a scareline at night, using a lantern. <form>paN-</form> <pos>v</pos> <itype>[A2; c6]</itype> go fishing with a surambaw.
+<p id=21646><form>&dagger;surambaw</form> <pos>n</pos> <number>3</number> a large square or rectangular lift net operated with a scareline at night, using a lantern. <form>paN-</form> <pos>v</pos> <itype>[A2; c6]</itype> go fishing with a <ix>surambaw</ix>.
 
 <p id=21647><form>súrù<sub>2</sub></form> <pos>v</pos> <itype>[A2S; b6]</itype> start <tr>sizzling</tr> or <tr>bubbling</tr> with heat. <i>Magsurù gánì ang tumuy sa agipu kanà timailhan kunu nga may bisíta,</i> If the end of a firebrand starts to exude bubbling juice, it is a sign that visitors are coming. <pos>n</pos> the sizzling or bubbling of s.t. liquid.
 

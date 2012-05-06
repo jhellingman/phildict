@@ -10,7 +10,7 @@
     </teiHeader>
     <text>
         <front id="frontmatter">
-            <xsl:apply-templates select="document('WCED-frontmatter.xml')//front/*" />
+            <!--<xsl:apply-templates select="document('WCED-frontmatter.xml')//front/*" />-->
         </front>
         <body>
             <xsl:apply-templates select="document('output/typographical-A.xml')//body/*" />
@@ -33,8 +33,8 @@
         </body>
         <back id="backmatter">
             <xsl:apply-templates select="document('output/typographical-addenda.xml')//body/*" />
-            <xsl:apply-templates select="document('WCED-backmatter.xml')//back/*" />
-            <xsl:apply-templates select="document('WCED-frontmatter.xml')//back/*" />
+            <!--<xsl:apply-templates select="document('WCED-backmatter.xml')//back/*" />
+            <xsl:apply-templates select="document('WCED-frontmatter.xml')//back/*" />-->
         </back>
     </text>
     </TEI.2>
