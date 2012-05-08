@@ -43,7 +43,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_metadata`
     `author` varchar(32) NOT NULL default '',
     `title` varchar(32) NOT NULL default '',
     `year` varchar(32) NOT NULL default '',
-    `description` text character set utf8 NOT NULL default '',
+    `description` text NOT NULL default '',
 
     PRIMARY KEY (`workid`)
 );
@@ -59,14 +59,16 @@ INSERT INTO `<xsl:value-of select="$prefix"/>_metadata` VALUES (
 CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_flag`
 (
     `flagid` int(11) NOT NULL,
-    `description` varchar(32) character set utf8 NOT NULL default '',
+    `description` varchar(32) NOT NULL default '',
 
     PRIMARY KEY (`flagid`)
 );
 
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (1, 'Headwords');
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (2, 'Other words');
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (4, 'Normalized');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (1, 'First Headword');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (2, 'Headwords');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (4, 'Other Words');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (8, 'Exact');
+INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (16, 'Normalized');
 
 CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_language`
 (
@@ -82,9 +84,9 @@ INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("en-US", "Englis
 CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_entry`
 (
     `entryid` int(11) NOT NULL auto_increment,
-    `word` varchar(32) character set utf8 NOT NULL default '',
+    `word` varchar(32) NOT NULL default '',
     `page` varchar(4) NOT NULL default '',
-    `entry` text character set utf8 NOT NULL default '',
+    `entry` text NOT NULL default '',
 
     PRIMARY KEY (`entryid`),
     KEY `word` (`word`)
@@ -94,7 +96,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 (
     `entryid` int(11) NOT NULL,
     `flags` int(11) NOT NULL,
-    `word` varchar(32) character set utf8 NOT NULL default '',
+    `word` varchar(32) NOT NULL default '',
     `lang` varchar(5) NOT NULL default '',
 
     KEY `word` (`word`)
@@ -113,11 +115,15 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
         <xsl:apply-templates mode="nodetostring" select="."/>
     </xsl:variable>
 
-    <xsl:variable name="word">
+    <xsl:variable name="headword">
         <xsl:value-of select="(.//w)[1]"/>
     </xsl:variable>
 
-    <xsl:value-of select="local:insertEntrySql($entryid, $word, $entrytext, @page)"/>
+    <xsl:variable name="normalizedHeadword">
+        <xsl:value-of select="fn:lower-case(local:strip_diacritics($headword))"/>
+    </xsl:variable>
+
+    <xsl:value-of select="local:insertEntrySql($entryid, $normalizedHeadword, $entrytext, @page)"/>
 
     <!-- Find all words with language for this entry -->
     <xsl:variable name="words">
@@ -127,8 +133,9 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     <!-- Find unique words in entry -->
     <xsl:for-each-group select="$words/w" group-by="@xml:lang">
         <xsl:for-each-group select="current-group()" group-by=".">
-            <xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then current-group()[1]/@flags  + 4 else current-group()[1]/@flags"/>
-
+            <xsl:variable name="flags" select="current-group()[1]/@flags"/>
+            <xsl:variable name="flags" select="if (current-group()[1] = $headword) then $flags + 1 else $flags"/>
+            <xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then $flags + 24 else $flags + 8"/>
             <xsl:value-of select="local:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
         </xsl:for-each-group>
     </xsl:for-each-group>
@@ -136,7 +143,9 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     <!-- Find unique normalized forms in entry -->
     <xsl:for-each-group select="$words/w[@form != .]" group-by="@xml:lang">
         <xsl:for-each-group select="current-group()" group-by=".">
-            <xsl:value-of select="local:insertWordSql($entryid, current-group()[1]/@flags + 4, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
+            <xsl:variable name="flags" select="current-group()[1]/@flags"/>
+            <xsl:variable name="flags" select="if (current-group()[1]/@form = $normalizedHeadword) then $flags + 1 else $flags"/>
+            <xsl:value-of select="local:insertWordSql($entryid, $flags + 16, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
         </xsl:for-each-group>
     </xsl:for-each-group>
 
@@ -218,8 +227,8 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
 <xsl:template mode="words" match="text()">
     <xsl:variable name="lang" select="(ancestor-or-self::*/@lang|ancestor-or-self::*/@xml:lang)[last()]"/>
 
-    <!-- Determine word type flags: 1 if headword or suggested translation; 2 otherwise -->
-    <xsl:variable name="flags" select="if (ancestor-or-self::form|ancestor-or-self::tr) then 1 else 2"/>
+    <!-- Determine word type flags: 2 if headword or suggested translation; 4 otherwise -->
+    <xsl:variable name="flags" select="if (ancestor-or-self::form|ancestor-or-self::tr) then 2 else 4"/>
     
     <xsl:for-each select="local:words(.)">
         <xsl:if test=". != ''">

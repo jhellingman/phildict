@@ -52,8 +52,7 @@
 <text>
 <body>
 
-
-<div1>
+<div1 id=addenda>
 <head>ADDENDA</head>
 
 <p id=21002>Forms marked with a dagger have already been entered in the main portion of the dictionary, and what is listed here should be studied in conjunction with the main entry.

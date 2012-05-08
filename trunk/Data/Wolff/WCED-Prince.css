@@ -1,158 +1,129 @@
 
-@page:right 
+
+/* perl -S tei2html.pl WCED-complete.xml -p -c WCED-Prince.css */
+
+@media print
 {
-    size: A4;
-    margin: 15mm 10mm;
-    padding: 5mm 0;
-    
-    @top-right 
+    @page
     {
-        content: string(termstr, first) " - " string(termstr, last);
-        font-size: 10pt;
-        text-align: outside;
-        vertical-align: bottom;
-        border-bottom: solid black thin;
-        padding-bottom: 2mm
+        size: a4;
     }
-    
-    @top-left 
+
+    @page:right
     {
-        content: "A Dictionary of Cebuano Visayan";
-        font-size: 10pt;
-        text-align: inside;
-        vertical-align: bottom;
-        border-bottom: solid black thin;
-        padding-bottom: 2mm
+        size: A4;
+        margin: 15mm 10mm;
+        padding: 5mm 0;
+
+        @top-right
+        {
+            content: string(termstr, first) " - " string(termstr, last);
+            font-size: 10pt;
+            text-align: outside;
+            vertical-align: bottom;
+            border-bottom: solid black thin;
+            padding-bottom: 2mm
+        }
+
+        @top-left
+        {
+            content: "A Dictionary of Cebuano Visayan";
+            font-size: 10pt;
+            text-align: inside;
+            vertical-align: bottom;
+            border-bottom: solid black thin;
+            padding-bottom: 2mm
+        }
+
+        @bottom-right
+        {
+            content: counter(page);
+            font-size: 10pt;
+            text-align: outside;
+            border-top: solid black thin
+        }
     }
-    
-    @bottom-right
+
+    @page:left
     {
-        content: counter(page);
-        font-size: 10pt;
-        text-align: outside;
-        border-top: solid black thin
+        size: A4;
+        margin: 15mm 10mm;
+        padding: 5mm 0;
+
+        @top-right
+        {
+            content: "A Dictionary of Cebuano Visayan";
+            font-size: 10pt;
+            text-align: inside;
+            vertical-align: bottom;
+            border-bottom: solid black thin;
+            padding-bottom: 2mm
+        }
+
+        @top-left
+        {
+            content: string(termstr, first) " - " string(termstr, last);
+            font-size: 10pt;
+            text-align: outside;
+            vertical-align: bottom;
+            border-bottom: solid black thin;
+            padding-bottom: 2mm
+        }
+
+        @bottom-left
+        {
+            content: counter(page);
+            font-size: 10pt;
+            text-align: outside;
+            border-top: solid black thin
+        }
     }
-}
 
-@page:left
-{
-    size: A4;
-    margin: 15mm 10mm;
-    padding: 5mm 0;
-    
-    @top-right 
+    @page cover
     {
-        content: "A Dictionary of Cebuano Visayan";
-        font-size: 10pt;
-        text-align: inside;
-        vertical-align: bottom;
-        border-bottom: solid black thin;
-        padding-bottom: 2mm
+        @top { content: normal }
+        @bottom { content: normal }
     }
-    
-    @top-left 
+
+    /*=== Formatting Elements ===*/
+
+    body
     {
-        content: string(termstr, first) " - " string(termstr, last);
-        font-size: 10pt;
-        text-align: outside;
-        vertical-align: bottom;
-        border-bottom: solid black thin;
-        padding-bottom: 2mm
+        font-family: Georgia, serif;
+
     }
-    
-    @bottom-left
+
+    .front, .back
     {
-        content: counter(page);
+        font-size: 11pt;
+    }
+
+    .body
+    {
         font-size: 10pt;
-        text-align: outside;
-        border-top: solid black thin
-    }  
-}
+        display: block;
+        column-count: 2;
+        column-gap: 40;
+        column-rule: solid black thin;
+    }
 
+    div.letter
+    {
+        page-break-before: always;
+    }
 
-@page cover 
-{
-    @top { content: normal }
-    @bottom { content: normal }
-}
+    div.letter h2.main
+    {
+        font-family: Frutiger, sans-serif;
+        font-size: 24pt;
+        margin-top: 4cm;
+        margin-bottom: 2cm;
+        text-align: center;
+    }
 
-
-/*=== Formatting Elements ===*/
-
-
-dictionary
-{
-
-    font-family: serif;
-    font-size: 10pt;
-}
-
-col
-{
-    display: block;
-    column-count: 2;
-    column-gap: 40;
-    column-rule: solid black thin;
-}
-
-
-entry 
-{
-    display: block;
-    margin-top: 0.5ex;
-    text-indent: 1em hanging;
-}
-
-p
-{
-    display: block;
-}
-
-
-b, hw
-{
-    font-weight: bold;
-    font-family: sans-serif;
-    font-size: 11pt;
-}
-
-hw
-{
-    display: inline;
-    page-break-after: avoid;
-    string-set: termstr content()
-}
-
-b > s[lang="ceb"], hw > s[lang="ceb"]
-{
-    font-style: normal;
-}
-
-
-s[lang="ceb"]
-{
-    font-style: italic;
-}
-
-div1 > head
-{
-    display: block;
-    page-break-before: always;
-    font-family: Frutiger, sans-serif;
-    font-size: 24pt;
-    margin-top: 4cm;
-    margin-bottom: 2cm;
-    text-align: center;
-}
-
-
-div2 > head
-{
-    display: block;
-    font-weight: bold;
-    font-family: Frutiger, sans-serif;
-    font-size: 64pt;
-    margin-top: 2cm;
-    text-align: center;
-    page-break-after: avoid;
+    .body p
+    {
+        margin-top: 0.5ex;
+        text-indent: 1em hanging;
+    }
 }

@@ -252,20 +252,22 @@ in general.
 
 
 <list>
-<item><hi rend=bold>PREFACE</hi>                            <ab type=tocPageNum>iii</ab>
-<item><hi rend=bold>LIST OF ABBREVIATIONS</hi>               <ab type=tocPageNum>vi</ab>
-<item><hi rend=bold>INTRODUCTION</hi>
-  <item>Cebuano                            <ab type=tocPageNum>vii</ab>
-  <item>Dialects                           <ab type=tocPageNum>vii</ab>
-  <item>Basis of this Work                <ab type=tocPageNum>viii</ab>
-  <item>Phonology and Transcription         <ab type=tocPageNum>ix</ab>
-  <item>Conventions of Listing              <ab type=tocPageNum>xi</ab>
-  <item>Alternations                       <ab type=tocPageNum>xii</ab>
-  <item>Inflection and Derivation           <ab type=tocPageNum>xv</ab>
-  <item>Classification of Roots           <ab type=tocPageNum>xvii</ab>
-<item><hi rend=bold>ENTRIES</hi>                              <ab type=tocPageNum>1</ab>
-<item><hi rend=bold>ADDENDA</hi>                           <ab type=tocPageNum>1141</ab>
-<item><hi rend=bold>BIBLIOGRAPHY</hi>                      <ab type=tocPageNum>1164</ab>
+<item><hi rend=bold><ref target=preface">PREFACE</ref></hi>                            <ab type=tocPageNum>iii</ab>
+<item><hi rend=bold><ref target=abbr>LIST OF ABBREVIATIONS</ref></hi>               <ab type=tocPageNum>vi</ab>
+<item><hi rend=bold><ref target=intro>INTRODUCTION</ref></hi>
+<list>
+  <item><ref target=s1>Cebuano</ref>                            <ab type=tocPageNum>vii</ab>
+  <item><ref target=s1.1>Dialects</ref>                           <ab type=tocPageNum>vii</ab>
+  <item><ref target=s2>Basis of this Work</ref>                <ab type=tocPageNum>viii</ab>
+  <item><ref target=s3>Phonology and Transcription</ref>         <ab type=tocPageNum>ix</ab>
+  <item><ref target=s4>Conventions of Listing</ref>              <ab type=tocPageNum>xi</ab>
+  <item><ref target=s5>Alternations</ref>                       <ab type=tocPageNum>xii</ab>
+  <item><ref target=s6.1>Inflection and Derivation</ref>           <ab type=tocPageNum>xv</ab>
+  <item><ref target=s7.0>Classification of Roots</ref>           <ab type=tocPageNum>xvii</ab>
+</list>
+<item><hi rend=bold><ref target=letter.a>ENTRIES</ref></hi>                              <ab type=tocPageNum>1</ab>
+<item><hi rend=bold><ref target=addenda>ADDENDA</ref></hi>                           <ab type=tocPageNum>1141</ab>
+<item><hi rend=bold><ref target=biblio>BIBLIOGRAPHY</ref></hi>                      <ab type=tocPageNum>1164</ab>
 </list>
 
 
