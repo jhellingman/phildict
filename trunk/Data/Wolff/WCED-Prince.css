@@ -1,6 +1,7 @@
+<?xml version="1.0"?>
+<style type="text/css">
+<![CDATA[
 
-
-/* perl -S tei2html.pl WCED-complete.xml -p -c WCED-Prince.css */
 
 @media print
 {
@@ -17,7 +18,7 @@
 
         @top-right
         {
-            content: string(termstr, first) " - " string(termstr, last);
+            /* content: string(termstr, first) " - " string(termstr, last); */
             font-size: 10pt;
             text-align: outside;
             vertical-align: bottom;
@@ -62,7 +63,7 @@
 
         @top-left
         {
-            content: string(termstr, first) " - " string(termstr, last);
+            /* content: string(termstr, first) " - " string(termstr, last); */
             font-size: 10pt;
             text-align: outside;
             vertical-align: bottom;
@@ -87,10 +88,9 @@
 
     /*=== Formatting Elements ===*/
 
-    body
+    :root, body, h1, h2, h3, h4
     {
         font-family: Georgia, serif;
-
     }
 
     .front, .back
@@ -109,14 +109,13 @@
 
     div.letter
     {
-        page-break-before: always;
+        /* page-break-before: always; */
     }
 
     div.letter h2.main
     {
-        font-family: Frutiger, sans-serif;
-        font-size: 24pt;
-        margin-top: 4cm;
+        font-size: 36pt;
+        margin-top: 2cm;
         margin-bottom: 2cm;
         text-align: center;
     }
@@ -124,6 +123,11 @@
     .body p
     {
         margin-top: 0.5ex;
-        text-indent: 1em hanging;
+        text-indent: 0.667em hanging;
     }
 }
+
+
+]]>
+</style>
+
