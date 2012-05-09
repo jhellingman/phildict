@@ -8,18 +8,32 @@
     @page
     {
         size: a4;
+        margin: 0;
+
+        @bottom-right, @bottom-left, @top-right, @top-left
+        {
+            border: none;
+            margin: 0;
+        }
+
+        @footnotes
+        {
+            padding-top: 8pt;
+            margin: 0;
+        }
+
+        counter-reset: footnote;
     }
 
     @page:right
     {
-        size: A4;
-        margin: 15mm 10mm;
+        margin: 25mm 20mm;
         padding: 5mm 0;
 
         @top-right
         {
-            /* content: string(termstr, first) " - " string(termstr, last); */
             font-size: 10pt;
+            font-weight: bold;
             text-align: outside;
             vertical-align: bottom;
             border-bottom: solid black thin;
@@ -28,7 +42,7 @@
 
         @top-left
         {
-            content: "A Dictionary of Cebuano Visayan";
+            font-style: italic;
             font-size: 10pt;
             text-align: inside;
             vertical-align: bottom;
@@ -41,30 +55,27 @@
             content: counter(page);
             font-size: 10pt;
             text-align: outside;
-            border-top: solid black thin
         }
     }
 
     @page:left
     {
-        size: A4;
-        margin: 15mm 10mm;
+        margin: 25mm 20mm;
         padding: 5mm 0;
 
         @top-right
         {
-            content: "A Dictionary of Cebuano Visayan";
+            font-style: italic;
             font-size: 10pt;
             text-align: inside;
             vertical-align: bottom;
-            border-bottom: solid black thin;
             padding-bottom: 2mm
         }
 
         @top-left
         {
-            /* content: string(termstr, first) " - " string(termstr, last); */
             font-size: 10pt;
+            font-weight: bold;
             text-align: outside;
             vertical-align: bottom;
             border-bottom: solid black thin;
@@ -76,7 +87,36 @@
             content: counter(page);
             font-size: 10pt;
             text-align: outside;
-            border-top: solid black thin
+        }
+    }
+
+    @page body:right
+    {
+        @top-right
+        {
+            content: string(termstr, first) " \2013\0020" string(termstr, last);
+            border-bottom: solid black thin;
+        }
+
+        @top-left
+        {
+            content: "A Dictionary of Cebuano Visayan";
+            border-bottom: solid black thin;
+        }
+    }
+
+    @page body:left
+    {
+        @top-right
+        {
+            content: "A Dictionary of Cebuano Visayan";
+            border-bottom: solid black thin;
+        }
+
+        @top-left
+        {
+            content: string(termstr, first) " \2013\0020" string(termstr, last);
+            border-bottom: solid black thin;
         }
     }
 
@@ -86,9 +126,14 @@
         @bottom { content: normal }
     }
 
-    /*=== Formatting Elements ===*/
+    /* Formatting Elements */
 
-    :root, body, h1, h2, h3, h4
+    :root, body
+    {
+        margin: 0;
+    }
+
+    :root, body, h1, h2, h3, h4, h5
     {
         font-family: Georgia, serif;
     }
@@ -98,7 +143,13 @@
         font-size: 11pt;
     }
 
-    .body
+    div.body
+    {
+        page: body;
+        counter-reset: page 1;
+    }
+
+    div.body .divBody
     {
         font-size: 10pt;
         display: block;
@@ -114,7 +165,7 @@
 
     div.letter h2.main
     {
-        font-size: 36pt;
+        font-size: 48pt;
         margin-top: 2cm;
         margin-bottom: 2cm;
         text-align: center;
@@ -122,8 +173,44 @@
 
     .body p
     {
-        margin-top: 0.5ex;
+        margin: 0;
         text-indent: 0.667em hanging;
+    }
+
+    p b:first-of-type
+    {
+        /* background-color: yellow; */
+        string-set: termstr content();
+    }
+
+    .rm
+    {
+        font-weight: normal;
+    }
+
+    /* Stuff copied from the tei2html main prince stylesheet */
+
+    span.corr, span.abbr, span.measure, abbr
+    {
+        border-bottom: 0px;
+        text-decoration: none;
+    }
+
+    a:link, a:visited
+    {
+        color: black;
+        background: transparent;
+        text-decoration: none;
+    }
+
+    a.pageref           /* Replace references with pagenumbers with actual pagenumbers */
+    {
+        content: target-counter(attr(href), page);
+    }
+
+    .pagenum            /* Suppress marginal pagenumbers (using display: none will break references!) */
+    {
+        visibility: hidden;
     }
 }
 
