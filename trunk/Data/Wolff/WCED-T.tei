@@ -55,7 +55,7 @@
 <text>
 <body>
 <pb n=950>
-<div1>
+<div1 type=Letter id=letter.t n=T>
 <head>T</head>
 
 
@@ -2090,7 +2090,7 @@
 
 <p id=18732><form>tihib</form> <pos>v</pos> <itype>[A; b]</itype> make a hole in s.t. round by <pb n=1007>chopping off part of the surface. <i>Tihibi (tibhi) ring lubing kuháag sabaw,</i> Punch a hole in this coconut to get the water.
 
-<p id=18733><form>tihik</form> <pos>a</pos> <tr>cheapskate</tr>. <pos>v</pos> <itype>[B12; b6]</itype> become <tr>tightfisted</tr>. <i>Matihik ka kun síging kwinta sa gastu,</i> You&apos;ll become tightfisted if you keep counting expenses. <i>Tihikan ku níya kay dì mutíp,</i> I consider him a cheapskate because he doesn&apos;t give a tip. <form>tihiktíhik</form> <pos>a</pos> done on a <tr>niggardly</tr> scale. <i>Kasal nga way tihiktíhik,</i> A wedding with no expenses spared. <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> do s.t. in a niggardly way. <number>2</number> <xr><sc>dílì, walà, ayaw tihiktíhik</sc></xr> do s.t. <tr>extravagantly</tr>, <tr>without restraint</tr> (slang). <i>Dì ka man magtihiktíhik mangasábà,</i> You scold without restraint. <i>Ayaw siyag tihiktihíka paghaluk,</i> Kiss her without restraint.
+<p id=18733><form>tihik</form> <pos>a</pos> <tr>cheapskate</tr>. <pos>v</pos> <itype>[B12; b6]</itype> become <tr>tightfisted</tr>. <i>Matihik ka kun síging kwinta sa gastu,</i> You&apos;ll become tightfisted if you keep counting expenses. <i>Tihikan ku níya kay dì mutíp,</i> I consider him a cheapskate because he doesn&apos;t give a tip. <form>tihiktíhik</form> <pos>a</pos> done on a <tr>niggardly</tr> scale. <i>Kasal nga way tihiktíhik,</i> A wedding with no expenses spared. <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> do s.t. in a niggardly way. <number>2</number> <formx>dílì, walà, ayaw tihiktíhik</formx> do s.t. <tr>extravagantly</tr>, <tr>without restraint</tr> (slang). <i>Dì ka man magtihiktíhik mangasábà,</i> You scold without restraint. <i>Ayaw siyag tihiktihíka paghaluk,</i> Kiss her without restraint.
 
 <p id=18734><form>tihíras</form> <pos>n</pos> canvas <tr>cot</tr>. <pos>v</pos> <itype>[a12]</itype> make into a cot.
 

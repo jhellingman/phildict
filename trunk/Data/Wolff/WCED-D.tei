@@ -45,7 +45,7 @@
 
 
 
-<div1>
+<div1 type=Letter id=letter.d n=D>
 <head>D</head>
 
 
@@ -757,7 +757,7 @@
 
 <p id=4184><form>dasun</form> <pos>v</pos> <number>1</number> <itype>[A2; c]</itype> say s.t. immediately after s.o. else says s.t. <i>Gidasunan ku níyag tubag sa wà pa ku makatiwas ug pangutána,</i> He answered me immediately before I finished asking the question. <number>2</number> <itype>[A2; a2]</itype> follow an action immediately with another action. <i>Nakadasun pa siyag pátid human makapatámà ug sumbag,</i> After he inflicted a cruel blow, he followed it up with a kick. <i>Dasunun nímug silhig ang ginabas arun dílì magkátù ang húgaw,</i> Sweep up the sawdust right away so the dirt won&apos;t pile up. <number>3</number> <itype>[A; b(1)]</itype> approve of, endorse a plan or idea. <i>Gidasunan dáyun níla ang gahin pára sa unipurmi,</i> They at once approved the allocation for uniforms. <form>dasundasun</form> <pos>v</pos> <itype>[A; b5]</itype> happen in rapid succession, one after another.
 
-<p id=4185><form>dáta<sub>1</sub></form> <pos>v</pos> <itype>[A; b1c]</itype> <tr>pay off partially</tr>. <i>Wà nákù bayri tanan. Gidatáhan ku lang,</i> I did not pay it all off. I just paid a part. <number>1a</number> <itype>[A; b(1)]</itype> for men to have sexual intercourse with s.o. on a regular basis (humorous). <i>Datáhan níya ang íyang babáyi káda Sabadu,</i> He has intercourse with his mistress every Saturday. <number>2</number> pay off a debt partially or entirely with goods. <i>Datáhan nákug lubi ang kúlang,</i> I&apos;ll pay off what&apos;s lacking by giving you coconuts. <pos>n</pos> <number>1</number> installment. <number>2</number> s.t. given in lieu of money to pay off a debt entirely or partially. <form>datadáta</form> <pos>v</pos> <itype>[A; b1c]</itype> pay for s.t. in installments, <pb n=207>buy on an installment basis. <i>Mudatadáta kug pridyidir,</i> I will buy a frigidaire on installment. <pos>n</pos> <number>1</number> <tr>installment</tr> basis. <number>2</number> <xr>= <sc>DÁTA</sc><corr><sub>1</sub></corr>, <ix>n1</ix>.</xr>
+<p id=4185><form>dáta<sub>1</sub></form> <pos>v</pos> <itype>[A; b1c]</itype> <tr>pay off partially</tr>. <i>Wà nákù bayri tanan. Gidatáhan ku lang,</i> I did not pay it all off. I just paid a part. <number>1a</number> <itype>[A; b(1)]</itype> for men to have sexual intercourse with s.o. on a regular basis (humorous). <i>Datáhan níya ang íyang babáyi káda Sabadu,</i> He has intercourse with his mistress every Saturday. <number>2</number> pay off a debt partially or entirely with goods. <i>Datáhan nákug lubi ang kúlang,</i> I&apos;ll pay off what&apos;s lacking by giving you coconuts. <pos>n</pos> <number>1</number> installment. <number>2</number> s.t. given in lieu of money to pay off a debt entirely or partially. <form>datadáta</form> <pos>v</pos> <itype>[A; b1c]</itype> pay for s.t. in installments, <pb n=207>buy on an installment basis. <i>Mudatadáta kug pridyidir,</i> I will buy a frigidaire on installment. <pos>n</pos> <number>1</number> <tr>installment</tr> basis. <number>2</number> <xr>= <sc>DÁTA<corr><sub>1</sub></corr></sc>, <ix>n1</ix>.</xr>
 
 <p id=4186><form>*dáta<sub>2</sub></form> <form>walay &mdash;</form> <tr>no good</tr>. <i>Walay dátang panaptúna, kay húmuk mulubad,</i> The cloth is no good. It fades quickly.
 
@@ -833,7 +833,7 @@
 
 <p id=4222><form>dáwun<sub>2</sub></form> <pos>n</pos> <tr>down payment</tr>. <pos>v</pos> <itype>[A; c]</itype> make a down payment.
 
-<p id=4223><form>dawuntawun</form> <pos>n</pos> <number>1</number> <tr>downtown</tr>. <number>2</number> a light passenger vehicle which plies a certain route and picks up passengers. <form>&mdash; ikspris</form> <xr>= <sc>DAWUNTAWUN, 2</sc>.</xr>
+<p id=4223><form>dawuntawun</form> <pos>n</pos> <number>1</number> <tr>downtown</tr>. <number>2</number> a light passenger vehicle which plies a certain route and picks up passengers. <form>&mdash; ikspris</form> <xr>= <sc>DAWUNTAWUN</sc>, <bx>2</bx>.</xr>
 
 <p id=4224><form>day</form> <xr><ix>see</ix> <sc>INDAY</sc>.</xr>
 
@@ -1341,7 +1341,7 @@
 
 <p id=4475><form>dipwat</form> <xr>= <sc>LIGWAT</sc>.</xr>
 
-<p id=4476><form>dirà</form> <xr>= <sc>NIÁNÀ, DINHÀ</sc> (dialectal),</xr> <xr><ix>see</ix> <sc>KANÀ, DIHÀ<sub>2</sub></sc>.</xr>
+<p id=4476><form>dirà</form> <xr>= <sc>NIÁNÀ</sc>, <sc>DINHÀ</sc> (dialectal),</xr> <xr><ix>see</ix> <sc>KANÀ</sc>, <sc>DIHÀ<sub>2</sub></sc>.</xr>
 
 <p id=4477><form>dirámi</form> <pos>n</pos> <number>1</number> <tr>leftover</tr> food. <number>2</number> grains spilled out of a sack at the place where sacks of grain are transported. <number>3</number> action of making things in sacks spill out so as to steal them. <pos>v</pos> <number>1</number> <itype>[A12; a3]</itype> obtain leftover food, be left over. <i>Nakadirámi mig ígù námung gikaun,</i> We obtained enough leftovers for our dinner. <i>Ug madirámi na nà, dalì rang mapan-us,</i> If it is left over, it will get spoiled quickly. <number>2</number> <itype>[A2; a12]</itype> get clothes cast off. <i>Ug makadirámi mi sa ímung bisting biyà,</i> If we can get your castoff clothing. <number>3</number> <itype>[A; a]</itype> steal things in sacks by doing s.t. to make some spill out. <i>Kusug mudirámi sa kupras ang ubang kargadur,</i> Some longshoremen steal plenty of copra. <number>4</number> <itype>[A; a12]</itype> steal part of revenues or goods being moved in trade. <i>Daghan kaáyu ang tinda nga gidirámi niánang tindíra,</i> That storekeeper stole lots of things.
 

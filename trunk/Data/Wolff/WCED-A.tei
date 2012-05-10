@@ -41,7 +41,7 @@
 <text>
 <body>
 <pb n=1>
-<div1 id=letter.a n=A type=Letter>
+<div1 type=Letter id=letter.a n=A>
 <head>A</head>
 
 
@@ -239,7 +239,7 @@
 
 <p id=95><form>abug<sub>1</sub></form> <pos>n</pos> <tr>dust</tr>. <pos>v</pos> <number>1</number> <itype>[B46; a4b4(1)]</itype> become <tr>dusty</tr>. <i>Muabug ang karsáda ug dúgayng uwanun,</i> The road gets dusty if the rains come late. <i>Giabug ang ámung balay kay dúgay na nga wà puy-i,</i> Our house became all dusty because it hadn&apos;t been lived in for a long time. <i>Tabúni ang libru arun dílì maabugan,</i> Cover the books so they won&apos;t get dusty. <number>2</number> <itype>[B1256]</itype> turn into dust. <i>Sa kadugáyan kitang tanan maabug,</i> In the end we will all turn to dust. <form>ka-(&larr;)</form> <pos>v</pos> <itype>[A13]</itype> get dust all over it. <i>Nagkaábug ang ákung buhuk tungud sa byáhi,</i> My hair is all covered with dust because I&apos;ve just gotten off the bus. <form>-un</form> <pos>a</pos> <tr>dusty</tr>. <form>-l-an(&larr;)</form> exposed to dust. <i>Kining kwartúha alabúgan. Duul man gud sa karsáda,</i> This room is exposed to dust. It&apos;s close to the street.
 
-<p id=96><form>*abug<sub>2</sub></form> <form>paN-</form> euphemism for <xr><sc>PANGABUGHU</sc>.</xr> <xr><ix>see</ix> <sc>ABUBHU</sc>.</xr>
+<p id=96><form>*abug<sub>2</sub></form> <form>paN-</form> euphemism for <xr><sc>PANGABUGHU</sc>.</xr> <xr><ix>see</ix> <sc><corr>*</corr>ABUBHU</sc>.</xr>
 
 <p id=97><form>ábug<sub>1</sub></form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <tr>chase</tr>, <tr>drive</tr>, <tr>drive away</tr>. <i>Abúga ang bábuy ngadtu sa tangkal,</i> Drive the pig into the pen. <i>Abúgi sa lángaw ang lamísa,</i> Drive the flies away from the table. <number>2</number> <tr>drive</tr> s.o. to do s.t. <i>Ang kaúlaw mauy nag-ábug kanákù pagpaháwà sa ámung lungsud,</i> Shame drove me to move out of town. <form>(&rarr;)</form> <pos>n</pos> <tr>stick</tr> with strips of paper, plastic, etc., attached on one end, used to chase flies away. <form>-an(&rarr;)</form> <pos>n</pos> an enclosure of the fish corral into which the fish are driven before being caught.
 
@@ -593,7 +593,7 @@
 
 <p id=266><form>agriminsur</form> <pos>n</pos> land <tr>surveyor</tr>. <pos>v</pos> <itype>[B156]</itype> be a land surveyor.
 
-<p id=267><form>agrísib</form> <xr>= <sc>AGRISÍBA, AGRISÍBU</sc>.</xr>
+<p id=267><form>agrísib</form> <xr>= <sc>AGRISÍBA</sc>, <sc>AGRISÍBU</sc>.</xr>
 
 <p id=268><form>agrisíba</form> <pos>a</pos> <number>1</number> <xr>= <sc>AGRISÍBU</sc>, (female).</xr> <number>2</number> <tr>aggressive</tr>, eager for sex. <i>Agrisíba kunu ang mga mistísa,</i> They say the mestiza girls are sexually <corr sic=aggresive>aggressive</corr>. <pos>v</pos> <itype>[B12]</itype> be sexually aggressive.
 
@@ -1552,11 +1552,11 @@
 
 <p id=734><form>ambáhan</form> <pos>v</pos> <itype>[A; b(1)]</itype> go s.w. in a <tr>large group</tr>. <i>Nag-ambáhan ang mga táwung nanagbù sa bag-ung kardinal,</i> The people trooped in to greet the new cardinal. <pos>n</pos> large moving group.
 
-<p id=735><form>ambak<sub>1</sub></form> <pos>v</pos> <itype>[A; c]</itype> <tr>jump</tr> down to a lower place. <i>Ang túbig nga nag-ambak sa línaw gíkan sa humayan,</i> The water that falls into the pool comes from the ricefield. <i>Giambakan ku sa ungguy,</i> The monkey jumped down on me. <i>Iambak nang písì didtu,</i> Throw that rope down there. <form>ambak-ambak</form><corr><sub>1</sub></corr> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>jump</tr> up and down.&dagger;
+<p id=735><form>ambak<sub>1</sub></form> <pos>v</pos> <itype>[A; c]</itype> <tr>jump</tr> down to a lower place. <i>Ang túbig nga nag-ambak sa línaw gíkan sa humayan,</i> The water that falls into the pool comes from the ricefield. <i>Giambakan ku sa ungguy,</i> The monkey jumped down on me. <i>Iambak nang písì didtu,</i> Throw that rope down there. <form>ambak-ambak<corr><sub>1</sub></corr></form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>jump</tr> up and down.&dagger;
 
 <p id=736><form>ambak<sub>2</sub></form> <pos>n</pos> <tr>headhunters</tr> in Negros of former times who killed strangers to bury with their dead.
 
-<p id=737><form>ambak-ambak</form><corr><sub>2</sub></corr> <pos>n</pos> k.o. <tr>fish</tr>.
+<p id=737><form>ambak-ambak<corr><sub>2</sub></corr></form> <pos>n</pos> k.o. <tr>fish</tr>.
 
 <p id=738><form>ambalang</form> <pos>n</pos> k.o. edible <tr>seaweed</tr> found in tidal flats. It is green, soft, and has short straight branches similar to corals.
 
@@ -2210,7 +2210,7 @@
 
 <p id=1055><form>apartmin, apartmint</form> <pos>n</pos> <tr>apartment</tr>. <pos>v</pos> <itype>[A1; a2]</itype> get, make, make into apartments.
 
-<p id=1056><form>ápas</form> <pos>v</pos> <number>1</number> <itype>[A2; a12b2]</itype> follow and catch up with. <i>Muápas níya ang íyang asáwa sa Rúma,</i> His wife will join him in Rome. <number>2</number> <itype>[A; a12]</itype> go after s.o. to bring him home. <i>Apása siya sa iskuyláhan,</i> Go get him at school. <number>3</number> <itype>[A; a12]</itype> go as high as [such-and-such] an amount in buying s.t. <i>Dílì ku muápas (muapas) ug bayinti sa ímung bábuy,</i> I will not go as high as twenty for your pig. <pos>n</pos> <number>1</number> amount offered in bargaining after an original offer was made. <i>Kwatru ni. Dì mahímug tris. Pilay ímung ápas?</i> This costs four pesos. Three is not enough. How high will you offer? <number>2</number> s.t. uttered to s.o. leaving as a reminder. <i>Ápas pahinumdum,</i> A reminder as he is leaving. <number>3</number> <formx>&mdash; sumpay</formx> <pos>n</pos> <tr>sequel</tr>. <i>Ang &lsquo;Fili&rsquo; ni Risal ápas sumpay sa íyang &lsquo;Noli&rsquo;,</i> Rizal&apos;s &lsquo;Fili&rsquo; is a sequel to his &lsquo;Noli&rsquo;. <form>(&rarr;)</form> <number>1</number> <xr>= <sc>ÁPAS, 3</sc>.</xr> <number>2</number> <itype>[A12; b(1)]</itype> <tr>catch up</tr>, <tr>overtake</tr>. <i>Dì ku makaapas nímu sa lumbà,</i> I can not overtake you in a foot race. <i>Hiapsan ku sa ulan,</i> I will be caught in the rain. <number>3</number> <itype>[A12; a3]</itype> get meaning of. <i>Dílì nákù maapas ang íyang gisulti,</i> I cannot get what he&apos;s talking about. <number>4</number> <itype>[A12; a2]</itype> <tr>keep up</tr> with work. <i>Dílì siya makaapas ug utaw sa ákung paglaba,</i> He cannot keep ironing as fast as I wash. <i>Apasun ku ning trabáhu,</i> I will keep up with the work. <number>5</number> <tr>effect</tr> s.t. <i>Dílì maapas sa tambal,</i> The medicine cannot help. <number>6</number> <itype>[A13; a12]</itype> be after s.t. <i>Nag-apas ka lang sa íyang sápì,</i> You&apos;re only after her money. <form>apas-apas</form> <pos>v</pos> <itype>[A]</itype> keep doing one after another. <i>Nag-apas-apas ug abut ang mga bisíta,</i> The <pb n=51>visitors kept coming, one after another. <form>apas-ápas</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>run</tr> after. <i>Giapas-ápas siya sa íyang trátu,</i> Her boyfriend ran after her. <form>pa-</form> <xr>= <sc>PAAGPAS</sc>.</xr> <xr><ix>see</ix> <sc>AGPAS</sc>.</xr> <form>apsunun, alapsunun</form> <pos>a</pos> requiring instant attention. <i>Ayaw kug langána kay apsunun ning trabáhu,</i> Don&apos;t delay me because this work needs instant attention.
+<p id=1056><form>ápas</form> <pos>v</pos> <number>1</number> <itype>[A2; a12b2]</itype> follow and catch up with. <i>Muápas níya ang íyang asáwa sa Rúma,</i> His wife will join him in Rome. <number>2</number> <itype>[A; a12]</itype> go after s.o. to bring him home. <i>Apása siya sa iskuyláhan,</i> Go get him at school. <number>3</number> <itype>[A; a12]</itype> go as high as [such-and-such] an amount in buying s.t. <i>Dílì ku muápas (muapas) ug bayinti sa ímung bábuy,</i> I will not go as high as twenty for your pig. <pos>n</pos> <number>1</number> amount offered in bargaining after an original offer was made. <i>Kwatru ni. Dì mahímug tris. Pilay ímung ápas?</i> This costs four pesos. Three is not enough. How high will you offer? <number>2</number> s.t. uttered to s.o. leaving as a reminder. <i>Ápas pahinumdum,</i> A reminder as he is leaving. <number>3</number> <formx>&mdash; sumpay</formx> <pos>n</pos> <tr>sequel</tr>. <i>Ang &lsquo;Fili&rsquo; ni Risal ápas sumpay sa íyang &lsquo;Noli&rsquo;,</i> Rizal&apos;s &lsquo;Fili&rsquo; is a sequel to his &lsquo;Noli&rsquo;. <form>(&rarr;)</form> <number>1</number> <xr>= <sc>ÁPAS</sc>, <bx>3</bx>.</xr> <number>2</number> <itype>[A12; b(1)]</itype> <tr>catch up</tr>, <tr>overtake</tr>. <i>Dì ku makaapas nímu sa lumbà,</i> I can not overtake you in a foot race. <i>Hiapsan ku sa ulan,</i> I will be caught in the rain. <number>3</number> <itype>[A12; a3]</itype> get meaning of. <i>Dílì nákù maapas ang íyang gisulti,</i> I cannot get what he&apos;s talking about. <number>4</number> <itype>[A12; a2]</itype> <tr>keep up</tr> with work. <i>Dílì siya makaapas ug utaw sa ákung paglaba,</i> He cannot keep ironing as fast as I wash. <i>Apasun ku ning trabáhu,</i> I will keep up with the work. <number>5</number> <tr>effect</tr> s.t. <i>Dílì maapas sa tambal,</i> The medicine cannot help. <number>6</number> <itype>[A13; a12]</itype> be after s.t. <i>Nag-apas ka lang sa íyang sápì,</i> You&apos;re only after her money. <form>apas-apas</form> <pos>v</pos> <itype>[A]</itype> keep doing one after another. <i>Nag-apas-apas ug abut ang mga bisíta,</i> The <pb n=51>visitors kept coming, one after another. <form>apas-ápas</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>run</tr> after. <i>Giapas-ápas siya sa íyang trátu,</i> Her boyfriend ran after her. <form>pa-</form> <xr>= <sc>PAAGPAS</sc>.</xr> <xr><ix>see</ix> <sc>AGPAS</sc>.</xr> <form>apsunun, alapsunun</form> <pos>a</pos> requiring instant attention. <i>Ayaw kug langána kay apsunun ning trabáhu,</i> Don&apos;t delay me because this work needs instant attention.
 
 <!-- Order of sub-entry -->
 

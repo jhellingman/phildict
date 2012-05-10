@@ -25,6 +25,8 @@
     version="2.0"
     exclude-result-prefixes="xs local xd">
 
+    <xsl:include href="WCED-support.xsl"/>
+
     <xsl:output
         method="xml"
         indent="no"
@@ -83,9 +85,6 @@
     <xsl:template match="TEI.2|text|body|div1">
         <xsl:apply-templates/>
     </xsl:template>
-
-
-
 
 
     <!-- Process each entry -->
@@ -377,77 +376,5 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-
-
-
-
-
-
-    <!--== SUPPORT FUNCTIONS ==-->
-
-    <!-- Turn a word into a string usable as id -->
-    <xsl:function name="local:make-id" as="xs:string">
-        <xsl:param name="word" as="xs:string"/>
-
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'á',          'ax')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'í',          'ix')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ú',          'ux')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'à',          'aq')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ì',          'iq')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ù',          'uq')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&larr;',     'lx')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&rarr;',     'rx')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ,/]+',     '_')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&mdash;',    '--')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '^-',         'x-')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ()\[\],]', '')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '\*',         'xx')"/></xsl:variable>
-
-        <xsl:value-of select="$word"/>
-    </xsl:function>
-
-
-    <!-- Flatten a sequence of nodes to a string -->
-    <xsl:function name="local:as-string" as="xs:string">
-        <xsl:param name="sequence"/>
-
-        <xsl:variable name="string">
-            <xsl:for-each select="$sequence">
-                <xsl:value-of select="."/>
-            </xsl:for-each>
-        </xsl:variable>
-
-        <xsl:value-of select="$string"/>
-    </xsl:function>
-
-
-    <!-- Determine whether a sequence of nodes has no text content -->
-    <xsl:function name="local:is-empty" as="xs:boolean">
-        <xsl:param name="sequence" as="node()*"/>
-
-        <xsl:variable name="string">
-            <xsl:for-each select="$sequence">
-                <xsl:value-of select="."/>
-            </xsl:for-each>
-        </xsl:variable>
-
-        <xsl:value-of select="normalize-space($string) = ''"/>
-    </xsl:function>
-
-
-    <!-- Remove initial empty nodes from a sequence -->
-    <xsl:function name="local:remove-initial-empty" as="node()*">
-        <xsl:param name="sequence" as="node()*"/>
-
-        <xsl:variable name="sequence">
-            <xsl:for-each select="$sequence">
-                <xsl:if test="normalize-space(.) != ''">
-                    <xsl:sequence select="."/>
-                </xsl:if>
-            </xsl:for-each>
-        </xsl:variable>
-
-        <xsl:value-of select="$sequence"/>
-    </xsl:function>
 
 </xsl:stylesheet>

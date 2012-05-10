@@ -11,6 +11,7 @@
 <!ENTITY ucaron      "u&#x030C;"        >
 <!ENTITY icaron      "i&#x030C;"        >
 <!ENTITY schwa       "&#x0259;"         >
+<!ENTITY mdash       "&#x2014;"         >
 
 ]>
 
@@ -26,9 +27,19 @@
         indent="no"
         encoding="UTF-8"/>
 
+    <xsl:include href="WCED-support.xsl"/>
 
     <xsl:template match="form|formx|b|bx">
         <hi rend="bold" lang="ceb">
+            <xsl:apply-templates/>
+        </hi>
+    </xsl:template>
+
+
+    <xsl:template match="p/form[1]">
+        <xsl:variable name="id" select="if (contains(., ',')) then substring-before(., ',') else ."/>
+
+        <hi rend="bold" lang="ceb" id="{local:strip_diacritics(local:make-id(lower-case(local:as-string($id))))}">
             <xsl:apply-templates/>
         </hi>
     </xsl:template>
@@ -49,13 +60,6 @@
 
     <xsl:template match="pos">
         <hi lang="xx">
-            <xsl:apply-templates/>
-        </hi>
-    </xsl:template>
-
-
-    <xsl:template match="sc">
-        <hi rend="sc" lang="ceb">
             <xsl:apply-templates/>
         </hi>
     </xsl:template>
@@ -102,6 +106,14 @@
     </xsl:template>
 
 
+    <xsl:template match="sc">
+        <hi rend="sc" lang="ceb">
+            <ref target="{local:make-id(lower-case(local:as-string(.)))}">
+                <xsl:apply-templates/>
+            </ref>
+        </hi>
+    </xsl:template>
+
 
     <xsl:template match="@*|node()">
         <xsl:copy>
@@ -126,5 +138,6 @@
         <xsl:message terminate="no">ERROR: form inside example [<xsl:value-of select="."/>]</xsl:message>
         <xsl:apply-templates/>
     </xsl:template>
+
 
 </xsl:stylesheet>
