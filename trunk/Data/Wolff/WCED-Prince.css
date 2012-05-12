@@ -133,9 +133,9 @@
         margin: 0;
     }
 
-    :root, body, h1, h2, h3, h4, h5
+    :root, body, h1, h2, h3, h4, h5, .titlePage, .h1, .h2, .h3, .h4, .h5
     {
-        font-family: Times New Roman, Georgia, serif;
+        font-family: Times New Roman, serif;
     }
 
     .front, .back
@@ -187,6 +187,12 @@
     {
         font-weight: normal;
     }
+
+	table td
+	{
+		padding-left: 1.5mm;
+		padding-right: 1.5mm;
+	}
 
     /* Stuff copied from the tei2html main prince stylesheet */
 

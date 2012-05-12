@@ -1,10 +1,13 @@
-<style>
+<?xml version="1.0"?>
+<style type="text/css">
+<![CDATA[
+
 
 table td
 {
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 1.5mm;
+    padding-right: 1.5mm;
 }
 
-
+]]>
 </style>
