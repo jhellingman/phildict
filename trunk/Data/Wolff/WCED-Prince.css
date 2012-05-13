@@ -133,7 +133,7 @@
         margin: 0;
     }
 
-    :root, body, h1, h2, h3, h4, h5, .titlePage, .h1, .h2, .h3, .h4, .h5
+    :root, body, h1, h2, h3, h4, h5, h6, .titlePage, .h1, .h2, .h3, .h4, .h5, .h6
     {
         font-family: Times New Roman, serif;
     }
@@ -149,7 +149,7 @@
         counter-reset: page 1;
     }
 
-    div.body .divBody
+    div.body .divBody, #addenda .divBody
     {
         font-size: 10pt;
         display: block;
@@ -158,7 +158,7 @@
         column-rule: solid black thin;
     }
 
-    div.letter
+    div.letter, #addenda
     {
         /* page-break-before: always; */
     }
@@ -171,7 +171,7 @@
         text-align: center;
     }
 
-    .body p
+    .body p, #addenda p
     {
         margin: 0;
         text-indent: 0.667em hanging;
