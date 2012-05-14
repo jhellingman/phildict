@@ -1,96 +1,172 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=en>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A Tagalog-English and English-Tagalog Dictionary</title>
+<author>Charles Nigg</author>
+<respStmt><resp>#####</resp> <name>#####</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=LCCN>#####</idno>
+<idno type=OLN>#####</idno>
+<idno type=OLW>#####</idno>
+<idno type=OCLC>#####</idno>
+<idno type=PGclearance>#####</idno>
+<idno type=PGDPProjectId>#####</idno>
+<idno type=epub-id>urn:uuid:2c1abf28-87a6-4466-83c4-ef23ad0b3b8a</idno>
+<idno type=PGnum>#####</idno>
+<date>#####</date>
+<availability>
+<p>&availability.en;
+
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">#####<!--A short description of this document.--></note>
+    <note type="Blurb">#####<!--Blurb for on the flap.--></note>
+    <note type="Extract">#####<!--Short extract from the text.--></note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Charles Nigg</author>
+<title>A Tagalog-English and English-Tagalog Dictionary</title>
+<date>1904</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p>
+
+<p>Helpful sites:
+
+<p>http://www.bansa.org/dictionaries/tgl/
+
+<p>http://www.bohol.ph/calderon.php
 
 
-http://www.bansa.org/dictionaries/tgl/
-
-http://www.bohol.ph/calderon.php
-
-
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=en-US>English (United States)</language>
+        <language id=en-UK>English (United Kingdom)</language>
+        <language id=de>German</language>
+        <language id=fr>French</language>
+        <language id=la>Latin</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>#####</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2012-05-14 Started.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text>
 <pb n=1>
+<front id=frontmatter>
+<div1 type=FrenchTitle>
 
 
+<p>NIGG
 
-NIGG
+<p rend="align(center)">Tagalog-English
+<lb>and
+<lb>English-Tagalog
+<lb>Dictionary
 
-Tagalog-English
-and
-English-Tagalog
-
-Dictionary
 <pb n=2>
+<!--
 
-[Illustration: In Memory of
-Stephen Spaulding
-1907&ndash;1925
-Class of 1927
-University of Michigan]
+In Memory of Stephen Spaulding 1907-1925 Class of 1927 University of Michigan
 
-Bequest of
-Oliver Lyman Spaulding
+Bequest of Oliver Lyman Spaulding
+
+-->
+
 <pb n=3>
+<titlePage>
+<docTitle><titlePart>A
 
-A
+<lb>TAGALOG ENGLISH
 
-TAGALOG ENGLISH
+<lb>AND
 
-AND
+<lb>ENGLISH TAGALOG
 
-ENGLISH TAGALOG
+<lb>DICTIONARY</titlePart></docTitle>
 
-DICTIONARY
+<byline>COMPILED AND PUBLISHED
 
-COMPILED AND PUBLISHED
+<lb>BY
 
-BY
+<lb><docAuthor>Charles Nigg</docAuthor>
 
-Charles   Nigg
+<docImprint>MANILA:
 
-MANILA:
+<lb>IMP. DE FAJARDO Y COMP.<hi rend=sup>A</hi>
 
-IMP.   DE FAJARDO  Y COMP.<hi rend=sup>A</hi>
+<lb>101-CARRIEDO 101
 
-101-CARRIEDO 101
+<lb><docDate>1904.</docDate>
+</docImprint>
+</titlePage>
 
-1904.
+
 <pb n=4>
+<div1 type=Preface id=paunawa lang=tl>
+<head>PAUNAWA</head>
 
-PAUNAWA
+<p>Ang dahilan nang pagsulat nitong libro,i, dili iba kun di ang maka
+abuloy nang pagpapakalat nang mahalagang wika nang Ingles[** Inglés?] na n&gtilde;ayo,i,
+lumalatag sa halos lahat nang man&gtilde;a naciones; kayâ ang nasa nang sumulat
+ay ang tumulong hindi lamang sa man&gtilde;a Americano at Inglés na may pitang
+matuto nang wicang Tagalog kundi lalonglalô na sa man&gtilde;a maginoong taga
+rito sa Filipinas na n&gtilde;ayo,i, nagsusumikap sa pagaaral nang wikang Inglés.
 
-Ang dahilan nang pagsulat nitong libro,i, dili iba kun di ang maka
-abuloy nang pagpapakalat nang mahalagang wika nang Ingles[** Inglés?] na n~gayo,i,
-lumalatag sa halos lahat nang man~ga naciones; kayâ ang nasa nang sumulat
-ay ang tumulong hindi lamang sa man~ga Americano at Inglés na may pitang
-matuto nang wicang Tagalog kundi lalonglalô na sa man~ga maginoong taga
-rito sa Filipinas na n~gayo,i, nagsusumikap sa pagaaral nang wikang Inglés.
-
-Pinagpilitan sa pamamagitan nang masiyasat at masinip na paghahalunkat
-ang pagtitipon nang lahat naug[**typo for nang?] man~ga matatanda at man~ga batang salita at
-wikang Tagalog sampo nang man~ga kahulugan nang bawat isa upang maihulog
+<p>Pinagpilitan sa pamamagitan nang masiyasat at masinip na paghahalunkat
+ang pagtitipon nang lahat naug[**typo for nang?] man&gtilde;a matatanda at man&gtilde;a batang salita at
+wikang Tagalog sampo nang man&gtilde;a kahulugan nang bawat isa upang maihulog
 sa wikang Inglés at gayon din naman ang wikang ito sa Tagalog at
 gayondin naman pinihit ang ibinigay sa bawat isang wika sa paghuhulog ang
-halaga at kahulugan sa iba at gayon din na man ang man~ga tinatauag na
+halaga at kahulugan sa iba at gayon din na man ang man&gtilde;a tinatauag na
 Frances baga, ay pinilit ang magkaroon nang tunay na kahulugan sa kaniyang
 tunay na halaga ss iba.
 
-Ang librong ito, ay nakasulat sa bagong ugali nang pagsulat nang
+<p>Ang librong ito, ay nakasulat sa bagong ugali nang pagsulat nang
 wikang Tagalog; Kaya ang titic na C ay naging K: ang Gui ay naging gí:
 ang Qui ay naging ki; at U ay ang naging W. At dahil dito kung may hahanaping
 salita na sa dati ay nasusulat sa C at hindi makita ay dapat hanapin
-sa K. At gayon din naman ang man~ga dating nasa Qui ay dapat hanapin
+sa K. At gayon din naman ang man&gtilde;a dating nasa Qui ay dapat hanapin
 sa Ki; at ang dati sa U ay hanapin sa W.
+
+
+
 <pb n=5>
+<div1 id=preface>
+<head>PREFACE</head>
 
-PREFACE
-
-The author's object in compiling and publishing this
+<p>The author's object in compiling and publishing this
 book is to put before the public a work that will aid
 both the American and the Filipino in learning either
 English or Tagalog whichever the case might be.
 
-It has taken about three years to compile it and
+<p>It has taken about three years to compile it and
 each word has been thoroughly tested so that the
 definitions will be found correct.
 
-It is written in what is called the New Tagalog
+<p>It is written in what is called the New Tagalog
 which differs from the old in the following respects.
 The C has become K, Gui has been shortened to gi; qui
 has been changed to Ki and w is generally substituted
@@ -98,62 +174,65 @@ for U. Therefore should a person look for a word that
 begins with C and fail to find it he should turn to K;
 should he be unable to find Qui he should turn to Ki;
 and in case of u should turn to w.
+
+
+
 <pb n=6>
-[**P3: I have imposed consistent punctuation upon this page]
-NIGG'S  TAGALOG-ENGLISH   DICTIONARY
+<div1 type=Errata id=errata>
+<head>NIGG'S TAGALOG-ENGLISH DICTIONARY</head>
 
-ERRATA
+<head>ERRATA</head>
 
-In a pioneer work of this character it could hardly be hoped that where
+<p>In a pioneer work of this character it could hardly be hoped that where
 there are so many opportunities some errors would not creep in, but these
 for the most part are trivial and of the sort to be expected until Manila
 typesetters become more accustomed to English orthography and American
 ideas of exactness.
 
-It is suggested that teachers would do well to make these corrections in
+<p>It is suggested that teachers would do well to make these corrections in
 ink in the appropriate places and that as most of the changes only involve
 a letter or two the task would not be difficult. The word as it now appears
 is given first in this list, after the page number, and Tagalog, followed by
 the corrected form.
 
-7 aba po-Virgen-Virgin. alaala-momento-memento. alalayan-assert-assist.
+<p>7 aba po-Virgen-Virgin. alaala-momento-memento. alalayan-assert-assist.
 
-8 andukha-hel paid-help, aid.
+<p>8 andukha-hel paid-help, aid.
 
-9 apo-descondent-descendent. asinan-pikcle-pickle. ayunan ang iba-suscribe-subscribe.
+<p>9 apo-descondent-descendent. asinan-pikcle-pickle. ayunan ang iba-suscribe-subscribe.
 
-10 babala sa madala-programe-program. bagay-desig-design. bagay-usefur-useful.
+<p>10 babala sa madala-programe-program. bagay-desig-design. bagay-usefur-useful.
 bagsik-stricness-strictness[**leading e is typo for s][**typo for strictness];-narshness-harshness. bahid-sing-sign.
 baitang-ledder-ladder.
 
-11 bala-theart-threat.
+<p>11 bala-theart-threat.
 
-12 banta-nntion-notion. basag-fractered-fractured.
+<p>12 banta-nntion-notion. basag-fractered-fractured.
 
-13 bigyan-signif-signify. bigyan kapangyarihan-autorize-authorize. bigyang sin-*dak-friggten-frighten.
+<p>13 bigyan-signif-signify. bigyan kapangyarihan-autorize-authorize. bigyang sin-*dak-friggten-frighten.
 
-14 bihis-clotaes-clothes. bilas-marrp-marry. bilog-spahere-sphere. binti-shang-shank.
+<p>14 bihis-clotaes-clothes. bilas-marrp-marry. bilog-spahere-sphere. binti-shang-shank.
 binyagan-Chriatian-Christian. biroan-caroucol-carousal. biruin-6oke-joke.
 binubukulan-origen-origin. bisa positivility-possibility. bilog-rotunditp-rotundity.
 
-15 bugtong-puzjle-puzzle. buhatan-impaech-impeach. buhay-livoly-lively. buhayin-resusticate-resuscitate.
+<p>15 bugtong-puzjle-puzzle. buhatan-impaech-impeach. buhay-livoly-lively. buhayin-resusticate-resuscitate.
 buig-buuch-bunch;-racenne-raceme. bukal-origen-origin; eourse-course; finst-first. bukod sa iba-feroign-foreign. buk-*san-rhow-show.
 
-16 bulaw-wilb-wild. bulukan-rotiing-rotting. bumabasa-beader-reader. bumbuan-grown-crown.
+<p>16 bulaw-wilb-wild. bulukan-rotiing-rotting. bumabasa-beader-reader. bumbuan-grown-crown.
 bumukal-sprink-spring. bumukod-separste-separate.
 
-17 butihan-pertecti[**?]on-perfection. butil-frain-grain. butlig-pustle-pustule. cabelle-*riza-estable-stable.
+<p>17 butihan-pertecti[**?]on-perfection. butil-frain-grain. butlig-pustle-pustule. cabelle-*riza-estable-stable.
 canta-chorous-chorus. daan-ocasion-occasion.
 
-18 dahasan-ferce-force;-stregtbeu[**stregthen?][**P3:image is ...beu]-strengthen. daing-mormur-murmur;-suplication-supplication.
+<p>18 dahasan-ferce-force;-stregtbeu[**stregthen?][**P3:image is ...beu]-strengthen. daing-mormur-murmur;-suplication-supplication.
 dakila-illustration-illustrious[**last 2 letter unclear];-magesti-majestic;-magaificent-magnificent;-protent-potent;-wealty-wealthy;-transciendent-transcendent.
 dakip-cappure-capture.-dali-instunt-instant. dalidalian-pispose-dispose. dalitaan-suffe-suffer.
 dalitain-compoort-comport;-condesend-condescend. dalosdalos-idrot-idiot.
 
-19 damihan-ougment-augment. dapat igalang-hanorable-honorable. dapat ipagta-*gubilin-laudahle-laudable.
-dapat magalin~gin-nepectable-respectable. dapat parusahan-puishable-punishable.
+<p>19 damihan-ougment-augment. dapat igalang-hanorable-honorable. dapat ipagta-*gubilin-laudahle-laudable.
+dapat magalin&gtilde;in-nepectable-respectable. dapat parusahan-puishable-punishable.
 
-20 diccinario-dietionary-dictionary. di hikayat-incorruptable-incorruptible. di karampatan-imprope-improper.
+<p>20 diccinario-dietionary-dictionary. di hikayat-incorruptable-incorruptible. di karampatan-imprope-improper.
 dikdikin-crash-crush. dilag-granduer-grandeur;-brillancy-brilliancy.
 di mababago-stapla-staple;-unchangable-unchangeable.
 di mahigpit-unstaple-unstable. di makarar[**t?][**P3:not a t]aan-impassible-impassable. di
@@ -161,232 +240,232 @@ malapatan-unlie-unlike;-unequa-unequal. di malirip-inscrutab[**h?]le-inscrutable
 di marunong mag-veracios-veracious. di matarok-unfathonable-unfathoma[**hyphen missing, a duplicated]able.
 di nasasalang-numingled-unmingled.
 
-21 dios n~g alak-Bachus-Bacchus. di pagka-[**?]palagay-inconstanty-inconstancy. di
+<p>21 dios n&gtilde; alak-Bachus-Bacchus. di pagka-[**?]palagay-inconstanty-inconstancy. di
 sapat-inadequaty-inadequacy. dispunte-back-stich-backstitch. dowahagi-persuit-pursuit.
 dowahaginin-persue-pursue. duende-fray-fay. dulo-sumis[**?]-summ t[**summit?].
 dumal-abhorence-abhorrence. dumalas-frequant-frequent. dum-*han-polute-pollute.
 
-22 dunong-sience-science. durog-ushed-crushed. durugin-crash-crush.-dusta-object-abject.
+<p>22 dunong-sience-science. durog-ushed-crushed. durugin-crash-crush.-dusta-object-abject.
 gagarin-mark out feout[**???].
 
-23 galing-h[**P3:b?]ehefit-benefit;-sutility-utility. galit-angray-angry;-firetful-fretful. galit
+<p>23 galing-h[**P3:b?]ehefit-benefit;-sutility-utility. galit-angray-angry;-firetful-fretful. galit
 <pb n=7>
 [**Punctuation standardised throughout page, regardless of actual scan. P3]
 
-na galit-mery-very. gamot-portion-potion. gamutin-dotor-doctor. ganiri
+<p>na galit-mery-very. gamot-portion-potion. gamutin-dotor-doctor. ganiri
 vedilecit-videlicet. gapusin-gyne-gyve.
 
-24 gayak-preperative-prep-*rative;-pomptious-pompous. gayatin-slfice-slice. gibain
-mark out lerbel. gilalasin-timdi-timid. gikban-assiat-assist. gilin~gin-grindi-grind.
+<p>24 gayak-preperative-prep-*rative;-pomptious-pompous. gayatin-slfice-slice. gibain
+mark out lerbel. gilalasin-timdi-timid. gikban-assiat-assist. gilin&gtilde;in-grindi-grind.
 
-25 gulo-n-dissention-dissension. gulo-a-conlused-confused. guluhin ang-confonud-confound.
+<p>25 gulo-n-dissention-dissension. gulo-a-conlused-confused. guluhin ang-confonud-confound.
 gumagad-minic-mimic. guminhawa ang-trom-from.
 
-27[** typo for 26?] gunamgunam-reflexion-reflection. guniguni-pantom-phantom. habag, habagin-compasion-compassion.
+<p>27[** typo for 26?] gunamgunam-reflexion-reflection. guniguni-pantom-phantom. habag, habagin-compasion-compassion.
 haluin-conufse-confuse.
 
-27 hampasin n~g-came-cane. hari-severign-sovereign.
+<p>27 hampasin n&gtilde;-came-cane. hari-severign-sovereign.
 
-28 hawan-disengagad-disengaged. hawanan-dissengage-disengage; facillitate-facilitate.
+<p>28 hawan-disengagad-disengaged. hawanan-dissengage-disengage; facillitate-facilitate.
 higanti-vengence-vengeance. hikayat, hikayatin-facination-fascination;
 facinate-fascinate. hilawin-crnde-crude. himanhiman-flatery-flattery.
 
-29 hindi nagbuhat-ooriginal-original.
+<p>29 hindi nagbuhat-ooriginal-original.
 
-30 hinlog-forfathers-forefathers. hiran~gin-chose-choose. hiwasan en-on. hiyaw-seream-scream.
+<p>30 hinlog-forfathers-forefathers. hiran&gtilde;in-chose-choose. hiwasan en-on. hiyaw-seream-scream.
 
-31 hubdan-deude-denude. hubog-curver-curved. hukayin muli-extume-exhume.
+<p>31 hubdan-deude-denude. hubog-curver-curved. hukayin muli-extume-exhume.
 hulan-prophecy-prophesy. huli-adv.-mark out yelp; yelping. hulihan-pack-back.
-hulma-mitrice-matrice. hulugin n~g-srnctify-sanctify. humaba-protroct-protract.
+hulma-mitrice-matrice. hulugin n&gtilde;-srnctify-sanctify. humaba-protroct-protract.
 humakbang-stirs-stir.
 
-32 humarap-appaer-appear. humiyaw-oyell-yell. humpay-interrudtion-interruption.
+<p>32 humarap-appaer-appear. humiyaw-oyell-yell. humpay-interrudtion-interruption.
 humula-v.-perdict-predict.[** appears to be partially inked "e"] humupa-wcak-weak.
 
-33 ibaon-preoare-prepare. ibu id, ibulusok-ruin-rain. idagdag-inscrease-increase.
+<p>33 ibaon-preoare-prepare. ibu id, ibulusok-ruin-rain. idagdag-inscrease-increase.
 idarang-scortch-sco[**P2: missing letter t? P3: Probably r]ch. igalang-regards-regard. igiba-demoish-demolish.
 ihabilin-comission-commission.
 
-34 ihulog ang-tormenst-torments. ilag-n-exasion-evasion. ilagay sa ibang-transslate-translate.
+<p>34 ihulog ang-tormenst-torments. ilag-n-exasion-evasion. ilagay sa ibang-transslate-translate.
 
-35 ilagay sa codigo-codefy-codify. ilap-willness-wildness. ilarawan-portrait-portray.
+<p>35 ilagay sa codigo-codefy-codify. ilap-willness-wildness. ilarawan-portrait-portray.
 inamoy-smeleed-smelled.
 
-36 mark out first two lines at top of first column. inutog-enlage-enlarge. ipagin
+<p>36 mark out first two lines at top of first column. inutog-enlage-enlarge. ipagin
 tindi-annunce-announce. ipagkaloob-cencede-concede.
 
-37 ipagtulakan-imdel-impel. i. ahintulot-privelege-privilege. ipasan-loard-load.
+<p>37 ipagtulakan-imdel-impel. i. ahintulot-privelege-privilege. ipasan-loard-load.
 ipatalo-let lose-let loose. ipatuloy-ersue-pursue.
 
-38 isabog-layish-lavish. isulat ang n~galan-marticulate-matriculate. itago-idclose-inclose.
+<p>38 isabog-layish-lavish. isulat ang n&gtilde;alan-marticulate-matriculate. itago-idclose-inclose.
 itak-gorn-corn.
 
-39 itatua-cuntradict-contradict. itulay-persue-pursue. iuli-reestablih-reestablish.
+<p>39 itatua-cuntradict-contradict. itulay-persue-pursue. iuli-reestablih-reestablish.
 iuna-preceed-precede.
 
-40 kababayan-follow-fellow. kabagay-accomadating-accommodating. kabaitan-diseretion-discretion.
+<p>40 kababayan-follow-fellow. kabagay-accomadating-accommodating. kabaitan-diseretion-discretion.
 kabaitan sa pagtupad-concientiousness-conscientiousness.
-kaban~guhan-fragracy-fragrancy.
+kaban&gtilde;uhan-fragracy-fragrancy.
 
-41 kabigatan-gaavity-gravity. kabiglaanan-quichness-quickness.
+<p>41 kabigatan-gaavity-gravity. kabiglaanan-quichness-quickness.
 
-42 kahabaan n~g buhay-longetivy-longevity. kahambugan-pompuosity-pomposity.
-kahigpitan-pertenacity-pertinacity. kabinaan n~g-effeminence, effeminateness-effeminency,
+<p>42 kahabaan n&gtilde; buhay-longetivy-longevity. kahambugan-pompuosity-pomposity.
+kahigpitan-pertenacity-pertinacity. kabinaan n&gtilde;-effeminence, effeminateness-effeminency,
 effminacy.
 
-43 kaiklian n~g-dulness-dullness. kailan~gang-indespensible-indispensable.
+<p>43 kaiklian n&gtilde;-dulness-dullness. kailan&gtilde;ang-indespensible-indispensable.
 
-44 kakulan~gan n~g bait-indescretion-indiscretion. kalaban-onemy-enemy. kalabaw-carabou-carabao.
-kalagayang bata-perulity-puerility. kalakhan n~g katawan-corpuledcy-corpulency.
+<p>44 kakulan&gtilde;an n&gtilde; bait-indescretion-indiscretion. kalaban-onemy-enemy. kalabaw-carabou-carabao.
+kalagayang bata-perulity-puerility. kalakhan n&gtilde; katawan-corpuledcy-corpulency.
 kalaulin-forsee-foresee.
 
-45 kalibugan-lownes-lowness. kaligayab[**h?]an-gayaty-gaiety. kaliitan-sutility-subtilty.
+<p>45 kalibugan-lownes-lowness. kaligayab[**h?]an-gayaty-gaiety. kaliitan-sutility-subtilty.
 kalog-emputy-empty; hallow-hollow. kalupaan-homliness-homeliness.
 
-46 kamangman~gan-dulness-dullness. kamote-potatoe-potato. kamukha-smilar-similar.
+<p>46 kamangman&gtilde;an-dulness-dullness. kamote-potatoe-potato. kamukha-smilar-similar.
 kamuraan-sauvity-suavity. kanunuan-forefethers-forefathers. kapa
 bayaan-abandoment-abandonment. kapal-tickness-thickness. kapalaluan-arogance-arrogance;
 pompuosity-pomposity; pompuousness-pompousness.
 kapanahunan-epportunity-opportunity.
 
-47 kapangyarihan-meams-means. karan~galan-exellence-excellence. karaniwan-prevaleut-prevalent.
+<p>47 kapangyarihan-meams-means. karan&gtilde;alan-exellence-excellence. karaniwan-prevaleut-prevalent.
 
-48 karapatan-mert-merit. karuagan-effeminence, effeminateness-effiminency [**typo for effeminency], effeminacy.
+<p>48 karapatan-mert-merit. karuagan-effeminence, effeminateness-effiminency [**typo for effeminency], effeminacy.
 karupukan-britleness-brittleness; weadness-weakness. basalau
 laan-impnrity-impurity. kasalbahian-savgaeness-savageness. kasaliwaang-*
 <pb n=8>
 [**P2: trying to make consistent. Format: entry: error-replacedby; entry: error-replacedby]
 inconstency-inconstancy; ficpleness-fickleness; kasaliwaang palad: illiluk-illluck.
 
-49 kasibaan: glottony-gluttony; kasiguruhan: sponser-sponsor; kasiraan: mistak-mistake;
-kasiraan n~g puri: degredation-degradation; kasukaban: threachery-treachery.
+<p>49 kasibaan: glottony-gluttony; kasiguruhan: sponser-sponsor; kasiraan: mistak-mistake;
+kasiraan n&gtilde; puri: degredation-degradation; kasukaban: threachery-treachery.
 
-50 katampalasanan: petulence-petulance; katandaan: longlevity-longevity; katatagaan-adv.:
-midding-middling; katha: minde-mind; katimtiman n~g: constanck-constancy;
+<p>50 katampalasanan: petulence-petulance; katandaan: longlevity-longevity; katatagaan-adv.:
+midding-middling; katha: minde-mind; katimtiman n&gtilde;: constanck-constancy;
 katiyagaan: persistance-persistence.
 
-51 katulinan: accleration-acceleration; katusuhan: sagacousness-sagaciousness; kaukol:
+<p>51 katulinan: accleration-acceleration; katusuhan: sagacousness-sagaciousness; kaukol:
 coreespondent-correspondent; kaunahan: preceedence-precedence; kaunuran:
 dulness-dullness; kaupasalaan: threachery-treachery; kausap: which-whom;
-kawalan n~g bait: indescretior[**t?]-indiscretion; kaw lan n~g gawa: liesure-leisure;
-kawalan n~g gusto: displeasuse-displeasure; kawalan n~g hi a: shame-shamelessness;
-fllippancy-flippancy; kawalan n~g kailan~gan: abandonmant-abandonment.
+kawalan n&gtilde; bait: indescretior[**t?]-indiscretion; kaw lan n&gtilde; gawa: liesure-leisure;
+kawalan n&gtilde; gusto: displeasuse-displeasure; kawalan n&gtilde; hi a: shame-shamelessness;
+fllippancy-flippancy; kawalan n&gtilde; kailan&gtilde;an: abandonmant-abandonment.
 
-52 kayaban~gan: pompuosity-pomposity; pompuousness-pompousness; kayamanan:
+<p>52 kayaban&gtilde;an: pompuosity-pomposity; pompuousness-pompousness; kayamanan:
 mamon-mammon; kayarian: perpection-perfection; kilalanin: forsee-foresee;
 kiling: inclanation-inclination; sidp-side.
 
-53 kulun~gan n~g tupa: sheep-fuld-sheep-fold.
+<p>53 kulun&gtilde;an n&gtilde; tupa: sheep-fuld-sheep-fold.
 
-54 kumapal: enlargo-enlarge; kumapit: sieze-seize; kumpisalin: ascartain-ascertain;
+<p>54 kumapal: enlargo-enlarge; kumapit: sieze-seize; kumpisalin: ascartain-ascertain;
 kung: thongh-though; kupitin: theive-thieve; kurap: movment-movement; kuro:
 imagnation-imagination; kuruin: concept-conceive.
 
-55 kuyumpis: mark out denied; labahin, labhan: laundry-launder; lagpos-a: exhorbitant-exorbitant.
+<p>55 kuyumpis: mark out denied; labahin, labhan: laundry-launder; lagpos-a: exhorbitant-exorbitant.
 
-56 lagusaw: rustliny-rustling; lahat-lahat: guite-quite; lahi: sept-sect; foction-faction;
-lakas n~g: promtitutde-promptitude; laki n~g anoman: granduer-grandeur.
+<p>56 lagusaw: rustliny-rustling; lahat-lahat: guite-quite; lahi: sept-sect; foction-faction;
+lakas n&gtilde;: promtitutde-promptitude; laki n&gtilde; anoman: granduer-grandeur.
 laman: esscence-essence; lamasin: handell-handle.
 
-57 lampas: exssive-excessive; exhorbitant-exorbitant; lamugin: pumel-pummel;
+<p>57 lampas: exssive-excessive; exhorbitant-exorbitant; lamugin: pumel-pummel;
 lansetang: lacne-lance; lanta-a: wfthered-withered; lasap: aesthetice-aesthetics;
 latag: outspaead-outspread.
 
-58 latak n~g alak: lee-lees; laya: ereedom-freedom; lihisan: evoid-avoid; like[**liko?]: unllawful-unlawful;
+<p>58 latak n&gtilde; alak: lee-lees; laya: ereedom-freedom; lihisan: evoid-avoid; like[**liko?]: unllawful-unlawful;
 limbagin muli: republisp-republish.
 
-59 linkod sa: woer-wooer; linta: leach-leech; listahan: dock-docket; listahan n~g m~ga
+<p>59 linkod sa: woer-wooer; linta: leach-leech; listahan: dock-docket; listahan n&gtilde; m&gtilde;a
 tawong: voice-invoice; litaw-a: sencible-sensible; -n: apearance-appearance; liwanagan:
-ivolve-evolve; loob n~g bulaklak: corollo-corolla; loob n~g dibdib: husom-bosom;
+ivolve-evolve; loob n&gtilde; bulaklak: corollo-corolla; loob n&gtilde; dibdib: husom-bosom;
 luat: prolixnees-prolixness[**boring verboseness]; lubag: toose-loose; lubhang: exhorbitant-exorbitant;
 lubhang hambog: presumptious-presumptuous.
 
-60 lubugin: watar-water; lugal: lien-lieu; lugal na pinagtuturuan: collega-college; luhog:
+<p>60 lubugin: watar-water; lugal: lien-lieu; lugal na pinagtuturuan: collega-college; luhog:
 suplication-supplication; lumalo: surposs-surpass; ontvie-outvie.
 
-61 lumigalig: terrupt-interrupt; lumiko sa: thn rtght-the right; lumipana: certain
+<p>61 lumigalig: terrupt-interrupt; lumiko sa: thn rtght-the right; lumipana: certain
 print-certain point; lumitak: creak-crack.
 
-62 lusawin: cosume-consume; maamoy: oderous-odorous; oderiferous-odoriferous.
+<p>62 lusawin: cosume-consume; maamoy: oderous-odorous; oderiferous-odoriferous.
 
-63 mabalakubak: scurry-scurfy; maban~go: arromatic-aromatic; oderiferous-odoriferous;
+<p>63 mabalakubak: scurry-scurfy; maban&gtilde;o: arromatic-aromatic; oderiferous-odoriferous;
 oderous-odorous; mabigla: to-to be; mabisa: diligence-diligent; mabuhay[**-?]
 uli: resusticate-resuscitate.
 
-64 mabulun~gin: grumbiing-grumbling; mabunyi: renowmed-renowned; maburak:
+<p>64 mabulun&gtilde;in: grumbiing-grumbling; mabunyi: renowmed-renowned; maburak:
 mlry-miry; mabuti: convenieut-convenient; madaling hubugin: eithe-lithe;
 madidikit: vicid-viscid.
 
-65 magagalitin: seasily-easily; magagamit: servicible-serviceable; magaling: magnanamous-magnanimous;
+<p>65 magagalitin: seasily-easily; magagamit: servicible-serviceable; magaling: magnanamous-magnanimous;
 magaspang: incident-indecent; magbahala: carn-care;
 magbakod: fance-fence; magbalita: warm-warn.
 
-66 magbawas: siuk-sink; magbigay lugod: gratity-gratify; magdalit: cant-chant; magdilim
+<p>66 magbawas: siuk-sink; magbigay lugod: gratity-gratify; magdalit: cant-chant; magdilim
 ang: mark out tach; magdugtong: at-attach.
 
-67 magitla: starled-startled; magitlahin: skittlish-skittish.
+<p>67 magitla: starled-startled; magitlahin: skittlish-skittish.
 
-68 magkaisa ang: of-at; magkanlalabis: overfow-overflow.
+<p>68 magkaisa ang: of-at; magkanlalabis: overfow-overflow.
 
-69 maglaro: ganblo-gambol; magmula: ame-come.
+<p>69 maglaro: ganblo-gambol; magmula: ame-come.
 
-70 magpaaraw: oa-to; magpahirap: everpower-overpower; magpalakas: stregth-strength;
+<p>70 magpaaraw: oa-to; magpahirap: everpower-overpower; magpalakas: stregth-strength;
 magpamana: demtze-demise; magpasakit: paini-pain.
 
-72 magsubukan: spig-spy; magtuli: circumsize-circumcise; magutom: hanger-hunger;
+<p>72 magsubukan: spig-spy; magtuli: circumsize-circumcise; magutom: hanger-hunger;
 mahalay: impudent-imprudent; mahalin: profer-prefer.
 <pb n=9>
 [**This page was mostly typed in by me. Hyphens, periods and commas were copied as best as I could. P1]
 [**P2: trying to make consistent. Format: entry: error-replacedby; entry: error-replacedby]
 
-74 mahinahon: prndent-prudent; courtious-courteous; mahihin: ohliging-obliging;
+<p>74 mahinahon: prndent-prudent; courtious-courteous; mahihin: ohliging-obliging;
 mahirap: dissatrous-disastrous.
 
-75 makabubuhay: nourising-nourishing; makaisa ang layo: of-at; makasing layo: of-at.
+<p>75 makabubuhay: nourising-nourishing; makaisa ang layo: of-at; makasing layo: of-at.
 
-76 makatulad: lake-like; makiapid: adulterate-commit adultery; makiayon: acomodate-accommodate;
+<p>76 makatulad: lake-like; makiapid: adulterate-commit adultery; makiayon: acomodate-accommodate;
 makipagaway: oposse-oppose; makipagc[**e?]apowa: corteous-courteous;
 malabis: exhorbitant-exorbitant.
 
-77 malabo: uninteligible-unintelligible; malago: fruitrul-fruitful; malagpos: exxcessive-excessive;
+<p>77 malabo: uninteligible-unintelligible; malago: fruitrul-fruitful; malagpos: exxcessive-excessive;
 malakas: afort-afoot; drawny-brawny; malambot: plaint-pliant;
-malan~gib: scurry-scurfy; malan~gis: oleagnecus-oleagenous; malason: poiasn-poison;
+malan&gtilde;ib: scurry-scurfy; malan&gtilde;is: oleagnecus-oleagenous; malason: poiasn-poison;
 malason-a: venemos-venomous; malibag: filty-filthy.
 
-78 maliit na maliit: litle-little; malinaw: crear-clear; malipos: fu[**n?]ll of of pustles-full of
+<p>78 maliit na maliit: litle-little; malinaw: crear-clear; malipos: fu[**n?]ll of of pustles-full of
 pustules; malulutang: bouyant-buoyant; maluma: hecome-become; malumbay:
 glomy-gloomy.
 
-79 mamahala: reek-reck; mamantal: biten-bitten; manahan: rsside-seside[**reside?]; manaing:
-misfortuness-misfortunes; manain~ga: hear en-harken; manintas: cristicize-criticize.
+<p>79 mamahala: reek-reck; mamantal: biten-bitten; manahan: rsside-seside[**reside?]; manaing:
+misfortuness-misfortunes; manain&gtilde;a: hear en-harken; manintas: cristicize-criticize.
 
-80 manduduit: thiel-thief; mangagamotn~g: vetrinarian-veterinarian; ferrier-farrier;
-man~gagkayonkayon: consert-concert; man~gahas: agressive-aggressive.
+<p>80 manduduit: thiel-thief; mangagamotn&gtilde;: vetrinarian-veterinarian; ferrier-farrier;
+man&gtilde;agkayonkayon: consert-concert; man&gtilde;ahas: agressive-aggressive.
 
-81 manghimasok: Interrup-interrupt; manghinapang: farce-force; manindal: added-aided.
+<p>81 manghimasok: Interrup-interrupt; manghinapang: farce-force; manindal: added-aided.
 
-82 manunulsa: papist-rapist; mapagbasagulo: coutious-captious; mapagkit: vicid-viscid.
+<p>82 manunulsa: papist-rapist; mapagbasagulo: coutious-captious; mapagkit: vicid-viscid.
 
-83 mapagod: uot-out; mapagwari: maditating-meditating; oontemplative-com[**typo for n]templative;
-mapakialam: maddlesome-meddlesome; mapakikinaban~gan: servicible-serviceable;
+<p>83 mapagod: uot-out; mapagwari: maditating-meditating; oontemplative-com[**typo for n]templative;
+mapakialam: maddlesome-meddlesome; mapakikinaban&gtilde;an: servicible-serviceable;
 utseful-useful; mapalagay: chose-choose; mapang-agad: quiclky-quickly;
 mapatpat: difinite-definite.
 
-84 mapatulala: stufeying-stupefying; wondeful-wonderful; mapaghati: antiphatethic-antipathetic;
-maran~gal: exellent-excellent; marikit: genseel-genteel;
+<p>84 mapatulala: stufeying-stupefying; wondeful-wonderful; mapaghati: antiphatethic-antipathetic;
+maran&gtilde;al: exellent-excellent; marikit: genseel-genteel;
 handtome-handsome; marumhan: bedpatter-bespatter; marumi: grtmy-grimy;
-droosy-drossy; marun~gis: droosy-drossy; at top of page 85: uninndtece-indecent;
+droosy-drossy; marun&gtilde;is: droosy-drossy; at top of page 85: uninndtece-indecent;
 becoming-unbecoming; liewd-lewd.
 
-85 masagana: evcessively-excessively; masaktan: main-maim; affend-offend; masalab:
+<p>85 masagana: evcessively-excessively; masaktan: main-maim; affend-offend; masalab:
 scortch-scorch; masama-n: fault-fault[**??]; masamain: adhor-abhor; masiba:
 gluttinous-gluttonous; masigla: diligect-diligent.
 
-86 masundo: arter-after; mataba: fertille-fertile; mataginting: sonoreus-sonorous;
+<p>86 masundo: arter-after; mataba: fertille-fertile; mataginting: sonoreus-sonorous;
 masobasob: to full down-to pull down; masundo: arter-after[**corrected twice]; masupok: to be
 on sumed-to be consumed.
 
-87 matapa: g agressive-aggressive; matatangap: recievable-receivable; matibay:
+<p>87 matapa: g agressive-aggressive; matatangap: recievable-receivable; matibay:
 storng-strong; permament-permanent; matiis: obstinent-abstinent; matowid:
 glhteouly righteously.
 javascript: //
@@ -395,341 +474,359 @@ javascript: //
 mauna: preceed-precede; mauntog: oolide-collide; mawalan ang hiya: same-shame;
 mawalan ang pitagan: imprudent-impudent; may ari: propietor-proprietor.
 
-89 may katowiran: justificabile-justifiable; may pan~ganib mahulog: wevering-wavering;
+<p>89 may katowiran: justificabile-justifiable; may pan&gtilde;anib mahulog: wevering-wavering;
 may puri: virgen-virgin; may sala: dilinquent-delinquent; may tatlong
 wika: trilenguar-triangular; minindal: lucheon-luncheon; mitsa: which-wick;
 monja: mun-nun; mahi: xexation-vexation; abhorence-abhorrence; muhiin:
 teidous-tedious.
 
-90 nadadaya: decieving-deceiving; nagalay: dedical[**?]ion-dedication; nagaaraw: mercinary-mercenary;
+<p>90 nadadaya: decieving-deceiving; nagalay: dedical[**?]ion-dedication; nagaaraw: mercinary-mercenary;
 nagbabalita: narraton-narrator; nagbabanalbanalan: demur-demure.
 
-91 naghabandog: donater-donator; nagkakadugtong: continuos-continuous; asiduous-assiduous;
+<p>91 naghabandog: donater-donator; nagkakadugtong: continuos-continuous; asiduous-assiduous;
 nagkasala: violater-violator; nagoapastol: herdsmen-herdsman.
 
-92 nakahihikayat: exeiting-exciting; nakahihiya: abomnible-abominable; hienous-heinous.
+<p>92 nakahihikayat: exeiting-exciting; nakahihiya: abomnible-abominable; hienous-heinous.
 
-93 nakasuka: nanseous-nauseous; nakatatawa: ludricous-ludicrous; nan~gis: crys;
+<p>93 nakasuka: nanseous-nauseous; nakatatawa: ludricous-ludicrous; nan&gtilde;is: crys;
 obsnivel-cry; sob; snivel.
 
-94 napapaloob: withim-within; nararamdaman: sensitiva-sensitive; nauukol sa: revelant-relevant;
+<p>94 napapaloob: withim-within; nararamdaman: sensitiva-sensitive; nauukol sa: revelant-relevant;
 nauukol sa bato: perule-puerile; nauukol sa lupa: eartly-*
 <pb n=10>
 [**type-in page, P2 please watch for typos on my part.]
 [**P2: trying to make consistent. Format: entry: error-replacedby; entry: error-replacedby]
-earthly; nauukol sa m~ga kulay: chromatis-chromatic.
+earthly; nauukol sa m&gtilde;a kulay: chromatis-chromatic.
 
-95 nauukol sa pagtangi: negatory-nugatory; nauukol sa tiyan: ventrial-ventral;
-nauna: preceeding-preceding; n~gala-n~gala: pharnyx-pharynx; n~gimi: emerity-temerity;
+<p>95 nauukol sa pagtangi: negatory-nugatory; nauukol sa tiyan: ventrial-ventral;
+nauna: preceeding-preceding; n&gtilde;ala-n&gtilde;ala: pharnyx-pharynx; n&gtilde;imi: emerity-temerity;
 nilayin: moditate-meditate; ningning: lusteo-luster; gleen-gleam;
 niya: it's-its; nuno: spight-spright; pantom-phantom; ni: wit-with.
 
-96 ordenanza: ordenance-ordinance; oyamin: riducule-ridicule; owang: rembles-resembles;
+<p>96 ordenanza: ordenance-ordinance; oyamin: riducule-ridicule; owang: rembles-resembles;
 pabaya: indescreet-indiscreet; pabuya: premium-premiun[**=wrong way around?]; pagaaliw:
 liesure-leisure; pagaanin: aleviate-alleviate.
 
-97 pagalipusta: effontry-effrontery; pagalis: agression-aggression; pagbabalintuna:
+<p>97 pagalipusta: effontry-effrontery; pagalis: agression-aggression; pagbabalintuna:
 perpersity-perversity; pagbanalbanalan: hypocricy-hypocrisy.
 
-98 pagbawi: redemtion-redemption; pagbubuhat: baginwing-beginning; pagdahas:
+<p>98 pagbawi: redemtion-redemption; pagbubuhat: baginwing-beginning; pagdahas:
 coersion-coercion.
 
-99 paggiba: desolution-desolation; pagullamos: piuching-pinching; paghahalili: reliel-relief;
+<p>99 paggiba: desolution-desolation; pagullamos: piuching-pinching; paghahalili: reliel-relief;
 pagharap: exibition-exhibition; paghihimagsik: rebellourners-rebelliousness;
-paghihiwalay: devergency-divergency; paghiluman n~g sugat:
+paghihiwalay: devergency-divergency; paghiluman n&gtilde; sugat:
 knittisg-knitting.
 
-100 pagiiwan: abandonmant-abandonment; pagiyak: corying-crying; pagkabalisa: reslessmess-restlessness;
+<p>100 pagiiwan: abandonmant-abandonment; pagiyak: corying-crying; pagkabalisa: reslessmess-restlessness;
 pagkabata: perulity-puerility; pagkabawi: recevery-recovery.
 
-101 pagkabigla: quikness-quickness; pagkadios: diety-deity; pagkahibang: delirim-delirium;
-pagkakagalitan: qurreling-quarreling; pagkakalin~ga: colicitude-solicitude;
+<p>101 pagkabigla: quikness-quickness; pagkadios: diety-deity; pagkahibang: delirim-delirium;
+pagkakagalitan: qurreling-quarreling; pagkakalin&gtilde;a: colicitude-solicitude;
 pagkakamukha: likiness-likeness; equaelity-equality.
 
-102 pagkakasalimoot: deustiy-density; pagkakayas: whitling-whittling; pagkalipol:
+<p>102 pagkakasalimoot: deustiy-density; pagkakayas: whitling-whittling; pagkalipol:
 distruction-destruction; extinclion-extinction; pagkalubog: snbmersion-submersion.
 
-103 pagkasagi: broshing-brushing; pagkatina: dying-dyeing; pagkukunuwari: hypocricy-hypocrisy;
+<p>103 pagkasagi: broshing-brushing; pagkatina: dying-dyeing; pagkukunuwari: hypocricy-hypocrisy;
 pagkukupkup: protectios-protection; pagkupas: pading-fading;
 pagkuskus: catching-scratching; paglabag, paglaban[**error in tagalog, or entry of two words?] resistence-resistance;
 paglabas: exodos-exodus; paglagin: prequence-frequence; paglagom:
-junciure-juncture; paglaktaw n~g: elipsis-ellipsis.
+junciure-juncture; paglaktaw n&gtilde;: elipsis-ellipsis.
 
-104 pagligalig: definity-definite; paglilibang: liesure-leisure; pagluhog, pagmamaka-ano[**error in tagalog, or entry of two words?]
+<p>104 pagligalig: definity-definite; paglilibang: liesure-leisure; pagluhog, pagmamaka-ano[**error in tagalog, or entry of two words?]
 suplication-supplication; pagmamatowid: dissentation-dissertation;
 pagmamana: inkeritance-inheritance; pagmamatwiran: disquisitation-disquisition;
 dissentation-dissertation.
 
-105 pagpaalaala: momento-memento; pagpapahayag: anunciation-annunciation;
-pagpapahin~ga: liesure-leisure; pagpapasákit: tortue-torture.
+<p>105 pagpaalaala: momento-memento; pagpapahayag: anunciation-annunciation;
+pagpapahin&gtilde;a: liesure-leisure; pagpapasákit: tortue-torture.
 
-106 pagpilipit: wreating-wreathing; pagpilit: coersion-coercion; pagpukol: trow-throw;
+<p>106 pagpilipit: wreating-wreathing; pagpilit: coersion-coercion; pagpukol: trow-throw;
 pagsalát: proverty-poverty.
 
-107 pagsalin: empting-emptying; pagsasalab: scortching-scorching; pagsuhol: subordination-subornation;
+<p>107 pagsalin: empting-emptying; pagsasalab: scortching-scorching; pagsuhol: subordination-subornation;
 pagsukot: humilliation-humiliation.
 
-108 pagtatamo: sufference-sufferance; pagtatanaw: dicernment-discernment; pagtigil:
+<p>108 pagtatamo: sufference-sufferance; pagtatanaw: dicernment-discernment; pagtigil:
 suspence-suspense.
 
-109 pagtupad: ebedience-obedience.
+<p>109 pagtupad: ebedience-obedience.
 
-111 palakasin: renove-remove; palan~goy: bouyant-buoyant.
+<p>111 palakasin: renove-remove; palan&gtilde;oy: bouyant-buoyant.
 
-112 palasugal: quambler-gambler; palihim: surreptuously-surreptitiously; palutang:
+<p>112 palasugal: quambler-gambler; palihim: surreptuously-surreptitiously; palutang:
 bouyant-buoyant.
 
-113 pamamanglaw: lonliness-loneliness; pamankin: neice-niece; pamuti: adorment-adornment.
+<p>113 pamamanglaw: lonliness-loneliness; pamankin: neice-niece; pamuti: adorment-adornment.
 
-114 panauhan: border-boarder; pan~gamba: suspence-suspense; indicision-indecision;
+<p>114 panauhan: border-boarder; pan&gtilde;amba: suspence-suspense; indicision-indecision;
 pangapas: siekle-sickle; gyue-gyve.
 
-115 pan~gatn~gat: nible-nibble; panghinuli: earphick-earpick; pan~ginoon: propietor-proprietor;
+<p>115 pan&gtilde;atn&gtilde;at: nible-nibble; panghinuli: earphick-earpick; pan&gtilde;inoon: propietor-proprietor;
 panglaw: lonliness-loneliness; pangpatulog: marcotic-narcotic.
 
-116 pangpatuyo: drien-drier; panimba: closhes-clothes; panipit: princers-pincers; panudlok:
+<p>116 pangpatuyo: drien-drier; panimba: closhes-clothes; panipit: princers-pincers; panudlok:
 stimulan-stimulant.
 
-117 panyo: hau[**n?]kerchief-handkerchief; paragala: girt-gift.
+<p>117 panyo: hau[**n?]kerchief-handkerchief; paragala: girt-gift.
 
-118 parusa: penality-penalty; requittal-requital; pasalun~ga: perugnantly[**3rd letter illegible]-repugnantly;
+<p>118 parusa: penality-penalty; requittal-requital; pasalun&gtilde;a: perugnantly[**3rd letter illegible]-repugnantly;
 pasuin: scortch-scorch; patabain: maka-make; patago: clandestinety-clandestinely.
 
-119 patawarin: pardou-pardon; patayin: quenca-quench; patutot: poostitute-prostitute;
+<p>119 patawarin: pardou-pardon; patayin: quenca-quench; patutot: poostitute-prostitute;
 payo: admoniton-admonition.
 <pb n=11>
 [**P2: trying to make consistent. Format: entry: error-replacedby; entry: error-replacedby]
 
-120 pigsa: abcess-abscess; palihin: disort-distort.
+<p>120 pigsa: abcess-abscess; palihin: disort-distort.
 
-121 pito: picolo-piccolo.
+<p>121 pito: picolo-piccolo.
 
-122 pumana: orrow-arrow; pumayapa: tranguilize-tranquilize; pumokpok: trob-throb;
+<p>122 pumana: orrow-arrow; pumayapa: tranguilize-tranquilize; pumokpok: trob-throb;
 pumuno: pod-pad; purihin: plaudit-applaud.
 
-123 pusod n~g: novel-navel; putlin-putulin[**entry or erratum tagalog?]; resind-rescind.
+<p>123 pusod n&gtilde;: novel-navel; putlin-putulin[**entry or erratum tagalog?]; resind-rescind.
 
-124 sakit: desease-disease; sakit na naka: venerial desease-venereal disease.
+<p>124 sakit: desease-disease; sakit na naka: venerial desease-venereal disease.
 
-125 salabin: scortch-scorch; salahula: slutish-sluttish; salitaan: convenant-covenant.
+<p>125 salabin: scortch-scorch; salahula: slutish-sluttish; salitaan: convenant-covenant.
 
-126[**changed from 226] salawahang: indicision-indecision; salubsob: on-or; samá: homliness-homeliness;
+<p>126[**changed from 226] salawahang: indicision-indecision; salubsob: on-or; samá: homliness-homeliness;
 misfurtune-misfortune; sambahin ang: indolize-idolize.
 
-127 sapat: anough-enough; sapilitan: indespensible-indispensable; sayá na: ecstacy-ecstasy.
+<p>127 sapat: anough-enough; sapilitan: indespensible-indispensable; sayá na: ecstacy-ecstasy.
 
-128 sigaw: s heech-screech; sigawan: gowl-howl; sikap: afticiousness-officiousness;
+<p>128 sigaw: s heech-screech; sigawan: gowl-howl; sikap: afticiousness-officiousness;
 sikapat-sikolo[**entry or erratum tagalog?]; cento-cents; silab-silabin[**entry or erratum tagalog?]; scortch-scorch; siksik: thich-thick;
 imaron: intractible-intractable; sinapupunan: grons-groin.
 
-129 siraan: delapidate-dilapidate; sirain ang mabuting, puri: viliate-vitiate; sisi: repientence-repentance;
+<p>129 siraan: delapidate-dilapidate; sirain ang mabuting, puri: viliate-vitiate; sisi: repientence-repentance;
 sowail: intractible-intractable.
 
-130 suga: thether-tether; súhol: bride-bribe; subordination-subornation; suklam: dispicable-despicable.
+<p>130 suga: thether-tether; súhol: bride-bribe; subordination-subornation; suklam: dispicable-despicable.
 
-131 sumasamba sa: adolater-idolater; sumaya: to elate-to be elate; sumira: delapidate-dilapidate;
+<p>131 sumasamba sa: adolater-idolater; sumaya: to elate-to be elate; sumira: delapidate-dilapidate;
 sumisigaw: cryer-crier.
 
-132 sundan: persue-pursue; sunodsunod: alterate-alternate; sunugin: scortch-scorch.
+<p>132 sundan: persue-pursue; sunodsunod: alterate-alternate; sunugin: scortch-scorch.
 
-133 taba: corpulancy-corpulency; tabas pusod: naval-navel; tabi: margen-margin; taga
+<p>133 taba: corpulancy-corpulency; tabas pusod: naval-navel; tabi: margen-margin; taga
 bilang: acomptant-accomptant; taga kabila-<hi>a</hi>: transmountane-transmountain.
 
-134 tagiliran: margen-margin; tagliran: fllank-flank.
+<p>134 tagiliran: margen-margin; tagliran: fllank-flank.
 
-135 tali: litigation-ligature; talino: guickness-quickness; talohaba: elipse-ellipse.
+<p>135 tali: litigation-ligature; talino: guickness-quickness; talohaba: elipse-ellipse.
 
-136 tandaan: memoramdum-memorandum; tangapin: reseive-receive; tankay: culm[**; typo for -?]
+<p>136 tandaan: memoramdum-memorandum; tangapin: reseive-receive; tankay: culm[**; typo for -?]
 handon-culmination; tarok: profoundity-profundity.
 
-137 tayantan~gin: to be well-to be well acquainted.
+<p>137 tayantan&gtilde;in: to be well-to be well acquainted.
 
-138 tinagin: nove-move.
+<p>138 tinagin: nove-move.
 
-139 tipirin: enonomize-economize; tubos: redemtion-redemption.
+<p>139 tipirin: enonomize-economize; tubos: redemtion-redemption.
 
-140 tulisan sa dagat: corsican-corsair; tumag lid: lay-lie.
+<p>140 tulisan sa dagat: corsican-corsair; tumag lid: lay-lie.
 
-141 tumpak: knac-knack.
+<p>141 tumpak: knac-knack.
 
-142 tumuntong: accupy-occupy.
+<p>142 tumuntong: accupy-occupy.
 
-143 udlok: boman-instigater.
+<p>143 udlok: boman-instigater.
 
-145 unatin: stcatch-stretch; usigi: persne-pursue.
+<p>145 unatin: stcatch-stretch; usigi: persne-pursue.
 
-146 usisain: scrutenize-scrutinize; utal: stuterer-stutterer; utusan: edict-make edict;
+<p>146 usisain: scrutenize-scrutinize; utal: stuterer-stutterer; utusan: edict-make edict;
 viage: jonrney-journey; virgen: virgen-virgin; wala on no, walang gawa[**entry or erratum tagalog?]: liesure-leisure.
 
-147 walang kabuluhan: addle-addled; walang kahulugan: wortlesss-worthless; walang
+<p>147 walang kabuluhan: addle-addled; walang kahulugan: wortlesss-worthless; walang
 laman: addle-addled.
 
-151 Andres: Adrew-Andrew; Cristina: Chistiana-Christiana; Cristino: Chistian-Christian;
+<p>151 Andres: Adrew-Andrew; Cristina: Chistiana-Christiana; Cristino: Chistian-Christian;
 Enriquetta: Henrieta-Henrietta; Josepa: Josaphine-Josephine;
 Margarita: Margarita-Margaret.
 
-ENGLISH-TAGALOG
+<div2>
+<head>ENGLISH-TAGALOG</head>
 
-152 Nicolas: Nicolas-Nicholas.
+<p>152 Nicolas: Nicolas-Nicholas.
 
-153 Josaphine: Josaphine Josephine.
+<p>153 Josaphine: Josaphine Josephine.
 
-154 Balph: Balph-Ralph.
+<p>154 Balph: Balph-Ralph.
 
-156 abbet-abbey.
+<p>156 abbet-abbey.
 
-158 acoos-across.
+<p>158 acoos-across.
 
-160 advise-<hi>noun</hi>-advice; avisory-advisory; affoot-a-foot[** ??].
+<p>160 advise-<hi>noun</hi>-advice; avisory-advisory; affoot-a-foot[** ??].
 
-161 albiet-albeit.
+<p>161 albiet-albeit.
 
-162 amatuer-amateur.
+<p>162 amatuer-amateur.
 
-164 annus-anus.
+<p>164 annus-anus.
 
-171 basam-balsam; bainsh-banish.
+<p>171 basam-balsam; bainsh-banish.
 
-176 blowse-blouse.
+<p>176 blowse-blouse.
 
-177 boatswaim-boatswain.
+<p>177 boatswaim-boatswain.
 
-179 beeze-breeze.
+<p>179 beeze-breeze.
 <pb n=12>
 [**P2: trying to make consistent. Format: error-replacedby; error-replacedby]
 [**P3: Adding , between words where appropriate]
 182 but-<hi>noun</hi>-butt; calculous-<hi>noun</hi>-calculus.
 
-184 caribou-carabao.
+<p>184 caribou-carabao.
 
-195 caudone-condone.
+<p>195 caudone-condone.
 
-197 contemtuous-contemptuous.
+<p>197 contemtuous-contemptuous.
 
-198 coutradictory-contradictory.
+<p>198 coutradictory-contradictory.
 
-199 cadate-cordate.
+<p>199 cadate-cordate.
 
-202 crociform-cruciform.
+<p>202 crociform-cruciform.
 
-209 diety-deity.
+<p>209 diety-deity.
 
-210 disvelieve-disbelieve.
+<p>210 disvelieve-disbelieve.
 
-216 duodesimal-duodecimal.
+<p>216 duodesimal-duodecimal.
 
-225 eurie-eyrie; facination-fascination.
+<p>225 eurie-eyrie; facination-fascination.
 
-232 fonteen-fourteen.
+<p>232 fonteen-fourteen.
 
-236 gas coal-oil[**?? P3: I assume it is a line indicator].-geniel-genial.
+<p>236 gas coal-oil[**?? P3: I assume it is a line indicator].-geniel-genial.
 
-238 grande-grandee.
+<p>238 grande-grandee.
 
-239 grogery-groggery.
+<p>239 grogery-groggery.
 
-242 headguarters-headquarters; htase-haste.
+<p>242 headguarters-headquarters; htase-haste.
 
-243 <hi>under</hi> hemp <hi>mark-out</hi> copra.
+<p>243 <hi>under</hi> hemp <hi>mark-out</hi> copra.
 
-247 I-<hi>conj.</hi>-if.
+<p>247 I-<hi>conj.</hi>-if.
 
-248 inparity-imparity; impheacment-impeachment.
+<p>248 inparity-imparity; impheacment-impeachment.
 
-249 impromtu-impromptu.
+<p>249 impromtu-impromptu.
 
-256 ihundate-inundate; iracible-irascible; ironicsronioal-ironics, ironical.
+<p>256 ihundate-inundate; iracible-irascible; ironicsronioal-ironics, ironical.
 
-259 key-<hi>verb</hi>-lock.
+<p>259 key-<hi>verb</hi>-lock.
 
-261 larcency-larceny; laterly-latterly.
+<p>261 larcency-larceny; laterly-latterly.
 
-269 meadw, meado-mead, meadow.
+<p>269 meadw, meado-mead, meadow.
 
-271 midgeo-midget.
+<p>271 midgeo-midget.
 
-273 nunerally-numerally.
+<p>273 nunerally-numerally.
 
-289[**wrong number? higher than next page.] oglle-ogle.
+<p>289[**wrong number? higher than next page.] oglle-ogle.
 
-286 penant-pennant.
+<p>286 penant-pennant.
 
-287 permament-permanent.
+<p>287 permament-permanent.
 
-288[**changed from 188] piet-pier; pharnyx-pharynx; piano, pianofortr-piano, pianoforte.
+<p>288[**changed from 188] piet-pier; pharnyx-pharynx; piano, pianofortr-piano, pianoforte.
 
-294 probosis-proboscis.
+<p>294 probosis-proboscis.
 
-295 premptitude-promptitude; prohetic-prophetic.
+<p>295 premptitude-promptitude; prohetic-prophetic.
 
-304 repitition-repetition.
+<p>304 repitition-repetition.
 
-305 resusticate-resuscitate; resustication-resuscitation; reticle-reticule.
+<p>305 resusticate-resuscitate; resustication-resuscitation; reticle-reticule.
 
-310 senatorium-sanatorium.
+<p>310 senatorium-sanatorium.
 
-312 scissors-<hi>verb</hi>-scissor; screach-screech.
+<p>312 scissors-<hi>verb</hi>-scissor; screach-screech.
 
-315 sarpnes-sharpness.
+<p>315 sarpnes-sharpness.
 
-317 shwb-shrub.
+<p>317 shwb-shrub.
 
-321 safa-sofa.
+<p>321 safa-sofa.
 
-322 soncery-sorcery.
+<p>322 soncery-sorcery.
 
-323 soverign-sovereign.
+<p>323 soverign-sovereign.
 
-324 sgongy-spongy.
+<p>324 sgongy-spongy.
 
-325[**changed from 235] stalliont-stallion.
+<p>325[**changed from 235] stalliont-stallion.
 
-326 stalwar-stalwart.
+<p>326 stalwar-stalwart.
 
-331 supolant-supplant.
+<p>331 supolant-supplant.
 
-334 tater-tatter.
+<p>334 tater-tatter.
 
-336 teamination-termination.
+<p>336 teamination-termination.
 
-341 tradegy-tragedy; tranpierce-transpierce.
+<p>341 tradegy-tragedy; tranpierce-transpierce.
 
-346 uun-un-<hi>a prefix</hi>[**??]; unap-unapt.
+<p>346 uun-un-<hi>a prefix</hi>[**??]; unap-unapt.
 
-348 uneigborly-unneighborly.
+<p>348 uneigborly-unneighborly.
 
-351 venicon-venison.
+<p>351 venicon-venison.
 
-357 whtlle-whittle; wifehoop-wifehood.
+<p>357 whtlle-whittle; wifehoop-wifehood.
 
-358 witess-witness.
+<p>358 witess-witness.
+
+
 <pb n=13>
+<div1>
+<head>The English and Tagalog Alphabets.</head>
 
-The English and Tagalog Alphabets.
-
-Ang Man~ga Alfabetong Englis at Tagalog.
+<head lang=tl>Ang Man&gtilde;a Alfabetong Englis at Tagalog.</head>
 
 /*
-English      Tagalog [P3: Split columns? Leaving as a Formatting issue]
-A..............A         N..............N
-B..............B         O..............O
-C..............          P..............P
-D..............D         Q..............
-E..............E         R..............R
-F..............F         S..............S
-G..............G         T..............T
-H..............H         U..............U
-I..............I         V..............V
-J..............J         W..............W
-K..............K         X..............
-L..............L         Y..............Y
-M..............M         Z..............
+English      Tagalog
+A..............A
+B..............B
+C..............
+D..............D
+E..............E
+F..............F
+G..............G
+H..............H
+I..............I
+J..............J
+K..............K
+L..............L
+M..............M
+N..............N
+O..............O
+P..............P
+Q..............
+R..............R
+S..............S
+T..............T
+U..............U
+V..............V
+W..............W
+X..............
+Y..............Y
+Z..............
+
 */
 
-Ang man~ga reglang sumusunod ay tunkol sa pagsasalitâ n~g wikang Englis.
+<div2 lang=tl>
+<head>Ang man&gtilde;a reglang sumusunod ay tunkol sa pagsasalitâ n&gtilde; wikang Englis.</head>
 
-1. Ang sumusunod ay ang man~ga vocales na letra sa wikang Englis at ang
-kanilang man~ga tunog.
+<p>1. Ang sumusunod ay ang man&gtilde;a vocales na letra sa wikang Englis at ang
+kanilang man&gtilde;a tunog.
 
 /*
 Titik sa Englis                     Tunog sa Tagalog
@@ -740,124 +837,245 @@ O..........................................O
 U..........................................Iu
 */
 
-2. Pag nauna ang titik na W sa letrang R ang W mamatay sa pagsasalita.
+<p>2. Pag nauna ang titik na W sa letrang R ang W mamatay sa pagsasalita.
 
-3. Pag nauna ang titik na C sa man~ga letrang E, I at Y ang pagsasalita
-ay tutunog n~g S.
+<p>3. Pag nauna ang titik na C sa man&gtilde;a letrang E, I at Y ang pagsasalita
+ay tutunog n&gtilde; S.
 
-4. Pag nauna ang titik na C sa man~ga letrang A, O at U ang pagsasalita
-ay tutunog n~g K.
+<p>4. Pag nauna ang titik na C sa man&gtilde;a letrang A, O at U ang pagsasalita
+ay tutunog n&gtilde; K.
 
-5. Kung ang titik na vocal ay sinusundan n~g alinmang letrang consonante
-bukod lamang ang R at isang E, ang vocal sa una ay tutunog n~g
-mahaba at ang E ay patay. Man~ga halimbawa. Cane. Ang pagsasalita
+<p>5. Kung ang titik na vocal ay sinusundan n&gtilde; alinmang letrang consonante
+bukod lamang ang R at isang E, ang vocal sa una ay tutunog n&gtilde;
+mahaba at ang E ay patay. Man&gtilde;a halimbawa. Cane. Ang pagsasalita
 ay keyn, home ang pagsasalita ay hom. scene-sin. bile-bail. abuse-abius.
-Man~ga exception-care, have, come, love, dove, done, prove at gone.
+Man&gtilde;a exception-care, have, come, love, dove, done, prove at gone.
 
-6. Pag nauna ang titik na A sa letrang R ay di mababago ang pagsasalita
-n~g letrang A.
+<p>6. Pag nauna ang titik na A sa letrang R ay di mababago ang pagsasalita
+n&gtilde; letrang A.
 
-7. Kung nagkakalaban ang dalawang regla ay ilalagay sa gitna ang pagsasalita.
+<p>7. Kung nagkakalaban ang dalawang regla ay ilalagay sa gitna ang pagsasalita.
 
-8. Sa man~ga salitang maikli ang titik na vocales ay tutunog n~g gaya nito.
+<p>8. Sa man&gtilde;a salitang maikli ang titik na vocales ay tutunog n&gtilde; gaya nito.
 Ang a ay mamamagitan sa A at e[**typo: E]; ang E ay mamamagitan sa E at I;
 ang I magiging Í; ang O magiging A; at ang U magiging Ú.
 
-9. Kung ang letrang a ay nauna sa man~ga titik na ll, lk. Ó sa W; ang A
-ay tutunog sa pamagitan n~g A[**Á?] at O.
+<p>9. Kung ang letrang a ay nauna sa man&gtilde;a titik na ll, lk. Ó sa W; ang A
+ay tutunog sa pamagitan n&gtilde; A[**Á?] at O.
 
-10. Kung ang man~ga letrang igh ay magkakasama ang pagbasa ay parang ay.
+<p>10. Kung ang man&gtilde;a letrang igh ay magkakasama ang pagbasa ay parang ay.
 
-11. Kung ang man~ga titik na ough[**ongh?] ay magkakasama ang pagsasalita ay parang
-ao; datapua,t, maminsanminsan ay tutunog n~g parang U.
+<p>11. Kung ang man&gtilde;a titik na ough[**ongh?] ay magkakasama ang pagsasalita ay parang
+ao; datapua,t, maminsanminsan ay tutunog n&gtilde; parang U.
 
-12. Kung nagkakasama ang dalawang titik na ow ay tutunog n~g parang ao.
+<p>12. Kung nagkakasama ang dalawang titik na ow ay tutunog n&gtilde; parang ao.
 
-13. Kung ang dalawang letrang na ou ay sinusundan n~g nd ay tutunog nang
-parang ao; n~guni,t, kung ang susunod ay ld ay wiwikain n~g parang U.
+<p>13. Kung ang dalawang letrang na ou ay sinusundan n&gtilde; nd ay tutunog nang
+parang ao; n&gtilde;uni,t, kung ang susunod ay ld ay wiwikain n&gtilde; parang U.
+
 <pb n=14>
 
-14. Ang karaniwang tunog n~g dalawang letrang ch ay parang tsh, kung nasasama
-sa salita. Tan~gi lamang ang man a sumusunod: Machine,
+<p>14. Ang karaniwang tunog n&gtilde; dalawang letrang ch ay parang tsh, kung nasasama
+sa salita. Tan&gtilde;i lamang ang man a sumusunod: Machine,
 Chagrin, Chivalry, Mustache, at Chaise: ang sa ganito ay tutunog nang
 parang sh.
 
-15. Kung and dulo n~g salita ay tion, cian ó sion tutunog na parang shun.
+<p>15. Kung and dulo n&gtilde; salita ay tion, cian ó sion tutunog na parang shun.
 
-16. Kung ang dulo n~g salita ay tous ó teous ay tutunog na parang shus.
+<p>16. Kung ang dulo n&gtilde; salita ay tous ó teous ay tutunog na parang shus.
 
-17. Kapag ang dalawang letrang gh at ph ay nagkakasama ay tutunog nang F.
+<p>17. Kapag ang dalawang letrang gh at ph ay nagkakasama ay tutunog nang F.
 
-18. Kung ang letrang G ay nauna sa A, O, at U, ay tutunog n~g matigas.
+<p>18. Kung ang letrang G ay nauna sa A, O, at U, ay tutunog n&gtilde; matigas.
 
-19. Kung ang titik na G ay sa katapusan n~g alinmang salita ang pagwiwika.
-ay matigas ding para n~g nauna.
+<p>19. Kung ang titik na G ay sa katapusan n&gtilde; alinmang salita ang pagwiwika.
+ay matigas ding para n&gtilde; nauna.
 
-20. Kun ang dalawang letrang M at B ay nagkakasama sa dulo n~g isang
+<p>20. Kun ang dalawang letrang M at B ay nagkakasama sa dulo n&gtilde; isang
 salita, ang B ay mamamatay sa pagwiwika.
 
-21. Kung ang dalawang titik na B at T ay magkakasama sa dulo n~g isang
+<p>21. Kung ang dalawang titik na B at T ay magkakasama sa dulo n&gtilde; isang
 salita, ang B ay mamatay sa pagsasabi.
 
-22. Kung ang letrang G ay nauna sa N at M ay patay ang G.
+<p>22. Kung ang letrang G ay nauna sa N at M ay patay ang G.
 
-23. Ang titik na H ay patay sa man~ga salitang sumusonod: Honest, herb,
+<p>23. Ang titik na H ay patay sa man&gtilde;a salitang sumusonod: Honest, herb,
 hour at honor.
 
-24. Ang letrang L ay patay kailanma,t nauuna sa man~ga titik na D&mdash;K at M.
+<p>24. Ang letrang L ay patay kailanma,t nauuna sa man&gtilde;a titik na D&mdash;K at M.
 
-25. Kun ang dalawang letrang M at N ay nagkakasama sa dulo n~g isang
+<p>25. Kun ang dalawang letrang M at N ay nagkakasama sa dulo n&gtilde; isang
 salita ay ang M lamang ang tutunog at ang N ay patay.
 
-26. Ang letrang Q ay katimbang ó kaparis n~g K. [**R also possible?]
+<p>26. Ang letrang Q ay katimbang ó kaparis n&gtilde; K. [**R also possible?]
 
-27. Kun ang letrang O ay nauuna sa ld ay dapat tumunog n~g mahaba paris
-n~g Tagalog.
+<p>27. Kun ang letrang O ay nauuna sa ld ay dapat tumunog n&gtilde; mahaba paris
+n&gtilde; Tagalog.
 
-28. Kung dalawang letrang ed ay malagay sa katapusan n~g salita at ang
+<p>28. Kung dalawang letrang ed ay malagay sa katapusan n&gtilde; salita at ang
 kaniyan sinusundan ay P at K ay ang ed ay tutunog na parang T.
 
-29. Kun dalawang oo ay nagkakasama at nauna sa P at K ay tutunog n~g U.
-Kun ang dalawang oo ay nagkakasama at nauuna sa l ay tutunog n~g U.
+<p>29. Kun dalawang oo ay nagkakasama at nauna sa P at K ay tutunog n&gtilde; U.
+Kun ang dalawang oo ay nagkakasama at nauuna sa l ay tutunog n&gtilde; U.
 
-31[**30 missing]. Kun sa dulo n~g isang salita ang E ay naiipit n~g isang consonante at
+<p>31[**30 missing]. Kun sa dulo n&gtilde; isang salita ang E ay naiipit n&gtilde; isang consonante at
 D sa katapusan ang E ay patay at ang D ay siyang tutunog.
 
-32. Kun ang W ay nauuna sa letrang R ang W ay patay.
+<p>32. Kun ang W ay nauuna sa letrang R ang W ay patay.
 
-Rules for pronouncing Tagalog.
 
-1. The vowels have but one sound. The a-ah, the e-a; the i-e, o-o; and u-u.
+<div2>
+<head>Rules for pronouncing Tagalog.</head>
 
-2. When the n~g is written with a wave over the n[**over the g?] it has the sound of n~g in
-the termination ang, while without the wave it is pronounced as t[**typo: it] is spelled[**no stop]
+<p>1. The vowels have but one sound. The a-ah, the e-a; the i-e, o-o; and u-u.
 
-3. The c is always hard.
+<p>2. When the n&gtilde; is written with a wave over the <corr sic=n>g</corr> it has the sound of n&gtilde; in
+the termination ang, while without the wave it is pronounced as <corr sic=t>it</corr> is spelled<corr>.</corr>
 
-4. The g is always hard as in gun.
+<p>3. The c is always hard.
 
-5. The h has the same sound as h in English.
+<p>4. The g is always hard as in gun.
 
-6. The accent in Tagalog should never be forgotten as it sometimes changes
+<p>5. The h has the same sound as h in English.
+
+<p>6. The accent in Tagalog should never be forgotten as it sometimes changes
 the meaning of the word as Kayo-cloth while Kayó-you.
 
-The abbreviations used in this dictionary are the following.
 
-Ang man~ga tanda n~g ginagamit sa librong ito ay ang sumusunod:
+<div2>
+<head>The abbreviations used in this dictionary are the following.</head>
 
-a-adjetive[**typo: adjective], adjetivo
+<p lang=tl>Ang man&gtilde;a tanda n&gtilde; ginagamit sa librong ito ay ang sumusunod:
 
-Adv-adverb, adverbio
+<p>a-<corr sic=adjetive>adjective</corr>, adjetivo
 
-n-noun, sustantivo
+<p>Adv-adverb, adverbio
 
-prep.-preposition, preposicion
+<p>n-noun, sustantivo
 
-Conj-Conjunction, conjuncion
+<p>prep.-preposition, preposicion
 
-Pro-pronom[**pronoun?], pronombre
+<p>Conj-Conjunction, conjuncion
 
-Inter-Interjection, Interjecion
+<p>Pro-<corr sic=pronom>pronoun</corr>, pronombre
 
-V[** v ?]-Verb, Verbio
+<p>Inter-Interjection, Interjecion
+
+<p>V-Verb, Verbio
+
+
 <pb n=15>
+</front>
+<body>
+
+<!-- Body omitted; available in separate files -->
+
+</body>
+<back id=backmatter>
+
+
+<divGen type=Colophon>
+
+</back>
+</text>
+</TEI.2>
+
+<!--
+
+CHECKLIST (X = done; / = not applicable)
+
+Initial cleanup
+
+[ ] Check all pb-tags, and join lines
+[ ] Move all footnotes in-line
+[ ] Tag headers
+[ ] Fix all [** Proofer comments]
+[ ] Start all paragraphs with the p-tag
+[ ] Change b, sc, g tags to hi tags with correct attributes.
+[ ] Change tb tags to milestone tags.
+[ ] Fix multiple spaces in a row
+[ ] Verify all paragraphs start with p-tag, also those starting with a tag.
+
+TEI header
+
+[ ] Add TEI header.
+[ ] Fill in details in TEI header
+[ ] Verify Author dates and add to TEI header.
+[ ] Document on-line scan sources.
+[ ] Fill in description in noteStmt.
+[ ] Fill in keywords / Subjects
+[ ] Add auto-generated colophon divGen tag.
+[ ] Fill in reference to LOC record (http://catalog.loc.gov/).
+[ ] Fill in reference to OpenLibrary record (http://openlibrary.org).
+[ ] Fill in reference to WorldCat record (source and work) (http://www.worldcat.org).
+[ ] Generate unique epub-id. (http://www.guidgenerator.com/)
+
+Verse
+
+[ ] Tag all verse.
+[ ] Apply proper indentation: rend="indent(2)"
+
+Lists
+
+[ ] Tag all lists.
+
+Tables
+
+[ ] Format tables
+[ ] Apply ditto-tags.
+
+Table of Contents
+
+[ ] Format table(s) of contents
+[ ] Link entries in table of contents
+[ ] Verify each link
+[ ] Compare with generated table of contents
+
+Images
+
+[ ] Include all illustrations
+[ ] Verify positioning of images makes sense.
+
+Spelling
+
+[ ] Verify generated wordlist
+[ ] Tag language usage
+
+Tools
+
+[ ] Verify Gutcheck
+[ ] Verify jeebees
+
+Miscellany
+
+[ ] Check for [Greek: ...] notation
+[ ] Curlify quotes
+[ ] Check for wrong quotes
+[ ] Disambiguate single quotes, apostrophes, and primes.
+[ ] Unwrap lines
+[ ] Check for lines not unwrapped
+[ ] Verify sequence of page-numbers
+[ ] Handle fractions, such as 1/2. ([0-9])\&ndash;([0-9])/([0-9]) becomes \1\&frac\2\3;
+[ ] Converted all fragments in uppercase to mixed case.
+
+Text Version
+
+[ ] Remove FIGURE notations
+[ ] Verify empty lines between chapter headings
+[ ] Verify empty lines around poetry and lists
+[ ] Center poetry
+[ ] Format title page
+[ ] Remove Ads
+[ ] Format Tables
+[ ] Verify Greek and other transliterations
+
+Additional Checks and Edits (Add as needed for a specific book)
+
+[ ] ....
+
+Post-Posting
+
+[ ] Update status to 1.0 (i.e. Posted).
+[ ] Include PG number and posting date in metadata
+
+-->
