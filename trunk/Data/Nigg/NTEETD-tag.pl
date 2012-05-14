@@ -45,14 +45,14 @@ sub handleLine($)
 {
     my $line = shift;
 
-    # $line =~ s/-*File: 0*([0-9]+)\.png-*\\([^\\]+)\\([^\\]?)(\\([^\\]+))?(\\([^\\]+)\\)?.*$/<pb n=\1>/g;
-    # $line =~ s/<pb n=([0-9]+)>/<span class='pb'>[\1]<\/span>/g;
+    #### $line =~ s/-*File: 0*([0-9]+)\.png-*\\([^\\]+)\\([^\\]?)(\\([^\\]+))?(\\([^\\]+)\\)?.*$/<pb n=\1>/g;
+    #### $line =~ s/<pb n=([0-9]+)>/<span class='pb'>[\1]<\/span>/g;
 
     $line =~ s/ +/ /g;
     $line =~ s/–/-/g;
 
     # drop italic tags for now
-    # $line =~ s/<\/?i\/?>//is;
+    #### $line =~ s/<\/?i\/?>//is;
     
     # tag head word and grammar indicators.
     $line =~ s/^(.*?)-(a|adv|n|prep|conj|pro|inter|v)\.?-/<b>\1<\/b> <i>\2<\/i> /is;
@@ -73,10 +73,10 @@ sub handleLine($)
     $line =~ s/ÑG/N&Gtilde;/sg;
     
     # Turn <pb> tags to XML style tags. 
-    $line =~ s/<pb n=([0-9]+)>/<pb n=\"\1\"\/>/sg;
+    #### $line =~ s/<pb n=([0-9]+)>/<pb n=\"\1\"\/>/sg;
     
     # Convert proofer's comments to SGML comments
-    $line =~ s/\[\*\*(.*?)\]/<!-- \1 -->/sg;
+    #### $line =~ s/\[\*\*(.*?)\]/<!-- \1 -->/sg;
 
     print $line;
 }
