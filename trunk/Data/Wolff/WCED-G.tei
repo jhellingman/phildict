@@ -16,9 +16,12 @@
 <!ENTITY imacracu   CDATA "&#x012B;&#x0301;"    -- i with macron and acute -->
 <!ENTITY umacracu   CDATA "&#x016B;&#x0301;"    -- u with macron and acute -->
 
-<!ENTITY acaron     CDATA "a&#x030C;"           -- a with caron -->
-<!ENTITY ucaron     CDATA "u&#x030C;"           -- u with caron -->
-<!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
+<!ENTITY Acaron     CDATA "&#x01CD;"            -- A with caron -->
+<!ENTITY acaron     CDATA "&#x01CE;"            -- a with caron -->
+<!ENTITY Icaron     CDATA "&#x01CF;"            -- I with caron -->
+<!ENTITY icaron     CDATA "&#x01D0;"            -- i with caron -->
+<!ENTITY Ucaron     CDATA "&#x01D3;"            -- U with caron -->
+<!ENTITY ucaron     CDATA "&#x01D4;"            -- u with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
 <!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
@@ -406,7 +409,7 @@
 
 <p id=5202><form>ganta</form> <xr>= <sc>GANTANG</sc>.</xr>
 
-<p id=5203><form>*gantaaw<form> <form>pa&N;-</form> <pos>v</pos> <itype>[A2; b1]</itype> fish with a spear from a boat at night with a torch or lantern. <pos>n</pos> method of fishing this way.
+<p id=5203><form>*gantaaw</form> <form>pa&N;-</form> <pos>v</pos> <itype>[A2; b1]</itype> fish with a spear from a boat at night with a torch or lantern. <pos>n</pos> method of fishing this way.
 
 <p id=5204><form>gantang</form> <pos>n</pos> <number>1</number> a unit of dry measure equivalent to three liters. <number>2</number> liquid measure of about the same amount. <pos>v</pos> <itype>[B26; c1]</itype> be one <ix>gantang</ix>. <i>Hápit mugantang ang ílang mahurut káda káun,</i> They use up nearly a <ix>gantang</ix> every meal. <form>-an(&rarr;)</form> <pos>n</pos> vessel used to measure <ix>gantang</ix>.
 

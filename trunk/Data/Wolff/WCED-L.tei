@@ -16,9 +16,12 @@
 <!ENTITY imacracu   CDATA "&#x012B;&#x0301;"    -- i with macron and acute -->
 <!ENTITY umacracu   CDATA "&#x016B;&#x0301;"    -- u with macron and acute -->
 
-<!ENTITY acaron     CDATA "a&#x030C;"           -- a with caron -->
-<!ENTITY ucaron     CDATA "u&#x030C;"           -- u with caron -->
-<!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
+<!ENTITY Acaron     CDATA "&#x01CD;"            -- A with caron -->
+<!ENTITY acaron     CDATA "&#x01CE;"            -- a with caron -->
+<!ENTITY Icaron     CDATA "&#x01CF;"            -- I with caron -->
+<!ENTITY icaron     CDATA "&#x01D0;"            -- i with caron -->
+<!ENTITY Ucaron     CDATA "&#x01D3;"            -- U with caron -->
+<!ENTITY ucaron     CDATA "&#x01D4;"            -- u with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
 <!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
@@ -2237,7 +2240,7 @@
 
 <p id=11426><form>lip-ut</form> <pos>a</pos> narrow in space or width. <pos>v</pos> <itype>[B; c1]</itype> for a space or width to be narrow. <i>Nalip-ut ang sayal kay gamay man ang sun-ut sa panaptun,</i> The skirt was made narrow because it was a narrow piece of cloth. <i>Ang mga butang mauy nakalip-ut (nakapalip-ut) sa lugar dinhi,</i> The space was too small because too many things were put in it.
 
-<p id=11427><form>lipuwa<form> <form>pa&N;-</form> <pos>v</pos> <itype>[A23P]</itype> blush. <i>Nanglipuwa ang náwung ni Balúduy dihang giintrudy&ucaron;s siya sa usa ka maanyag,</i> How Balodoy blushed when he was introduced to a beauty.
+<p id=11427><form>lipuwa</form> <form>pa&N;-</form> <pos>v</pos> <itype>[A23P]</itype> blush. <i>Nanglipuwa ang náwung ni Balúduy dihang giintrudy&ucaron;s siya sa usa ka maanyag,</i> How Balodoy blushed when he was introduced to a beauty.
 
 <p id=11428><form>lipyà</form> <pos>n</pos> moldboard, a curved iron plate attached <pb n=621>to a plowshare (punta) which lifts, turns, and pulverizes the soil. <pos>v</pos> <itype>[A; b]</itype> attach a moldboard on a plowshare.
 

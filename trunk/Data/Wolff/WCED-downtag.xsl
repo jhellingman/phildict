@@ -7,9 +7,12 @@
 <!ENTITY amacracu    "&#x0101;&#x0301;" >
 <!ENTITY imacracu    "&#x012B;&#x0301;" >
 <!ENTITY umacracu    "&#x016B;&#x0301;" >
-<!ENTITY acaron      "a&#x030C;"        >
-<!ENTITY ucaron      "u&#x030C;"        >
-<!ENTITY icaron      "i&#x030C;"        >
+<!ENTITY Acaron      "&#x01CD;"         >
+<!ENTITY acaron      "&#x01CE;"         >
+<!ENTITY Icaron      "&#x01CF;"         >
+<!ENTITY icaron      "&#x01D0;"         >
+<!ENTITY Ucaron      "&#x01D3;"         >
+<!ENTITY ucaron      "&#x01D4;"         >
 <!ENTITY schwa       "&#x0259;"         >
 <!ENTITY mdash       "&#x2014;"         >
 

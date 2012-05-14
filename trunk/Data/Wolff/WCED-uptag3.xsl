@@ -7,9 +7,12 @@
 <!ENTITY amacracu    "a"           >
 <!ENTITY imacracu    "i"           >
 <!ENTITY umacracu    "u"           >
-<!ENTITY acaron      "a"           >
-<!ENTITY ucaron      "u"           >
-<!ENTITY icaron      "i"           >
+<!ENTITY Acaron      "&#x01CD;"         >
+<!ENTITY acaron      "&#x01CE;"         >
+<!ENTITY Icaron      "&#x01CF;"         >
+<!ENTITY icaron      "&#x01D0;"         >
+<!ENTITY Ucaron      "&#x01D3;"         >
+<!ENTITY ucaron      "&#x01D4;"         >
 <!ENTITY schwa       "e"           >
 
 ]>

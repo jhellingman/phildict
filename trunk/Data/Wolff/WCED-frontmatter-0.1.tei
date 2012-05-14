@@ -6,9 +6,12 @@
 <!ENTITY amacracu CDATA "a"         -- a with macron and acute -->
 <!ENTITY imacracu CDATA "i"         -- i with macron and acute -->
 <!ENTITY umacracu CDATA "u"         -- u with macron and acute -->
-<!ENTITY acaron   CDATA "a"         -- a with caron -->
-<!ENTITY ucaron   CDATA "u"         -- u with caron -->
-<!ENTITY icaron   CDATA "i"         -- i with caron -->
+<!ENTITY Acaron     CDATA "&#x01CD;"            -- A with caron -->
+<!ENTITY acaron     CDATA "&#x01CE;"            -- a with caron -->
+<!ENTITY Icaron     CDATA "&#x01CF;"            -- I with caron -->
+<!ENTITY icaron     CDATA "&#x01D0;"            -- i with caron -->
+<!ENTITY Ucaron     CDATA "&#x01D3;"            -- U with caron -->
+<!ENTITY ucaron     CDATA "&#x01D4;"            -- u with caron -->
 <!ENTITY schwa    CDATA "e"         -- schwa (turned e) -->
 <!ENTITY N        CDATA "N"         -- N symbol (as used in this dictionary) -->
 

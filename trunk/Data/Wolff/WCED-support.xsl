@@ -19,13 +19,12 @@
 <!ENTITY imacrcir    "&#x012B;&#x0302;" >
 <!ENTITY umacrcir    "&#x016B;&#x0302;" >
 
-<!ENTITY acaron      "a&#x030C;"        >
-<!ENTITY ucaron      "u&#x030C;"        >
-<!ENTITY icaron      "i&#x030C;"        >
-
-<!ENTITY Acaron      "A&#x030C;"        >
-<!ENTITY Ucaron      "U&#x030C;"        >
-<!ENTITY Icaron      "I&#x030C;"        >
+<!ENTITY Acaron      "&#x01CD;"         >
+<!ENTITY acaron      "&#x01CE;"         >
+<!ENTITY Icaron      "&#x01CF;"         >
+<!ENTITY icaron      "&#x01D0;"         >
+<!ENTITY Ucaron      "&#x01D3;"         >
+<!ENTITY ucaron      "&#x01D4;"         >
 
 <!ENTITY schwa       "&#x0259;"         >
 <!ENTITY mdash       "&#x2014;"         >
@@ -92,6 +91,9 @@
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ()\[\],]', '')"/></xsl:variable>
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '\*',         'xx')"/></xsl:variable>
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&dagger;',   'qq')"/></xsl:variable>
+
+        <!-- Ignore subscript one, so non-subscripted cross-references work -->
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '1',          '')"/></xsl:variable>
 
         <xsl:value-of select="$word"/>
     </xsl:function>

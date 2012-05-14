@@ -8,9 +8,12 @@
 <!ENTITY imacr      CDATA "&#x012B;"            -- i with macron -->
 <!ENTITY umacr      CDATA "&#x016B;"            -- u with macron -->
 
-<!ENTITY acaron     CDATA "a&#x030c;"            -- a with caron -->
-<!ENTITY icaron     CDATA "i&#x030c;"            -- i with caron -->
-<!ENTITY Icaron     CDATA "I&#x030c;"            -- I with caron -->
+<!ENTITY Acaron     CDATA "&#x01CD;"            -- A with caron -->
+<!ENTITY acaron     CDATA "&#x01CE;"            -- a with caron -->
+<!ENTITY Icaron     CDATA "&#x01CF;"            -- I with caron -->
+<!ENTITY icaron     CDATA "&#x01D0;"            -- i with caron -->
+<!ENTITY Ucaron     CDATA "&#x01D3;"            -- U with caron -->
+<!ENTITY ucaron     CDATA "&#x01D4;"            -- u with caron -->
 
 <!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"    -- a with macron and grave -->
 <!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"    -- i with macron and grave -->
@@ -23,10 +26,6 @@
 <!ENTITY amacrcir   CDATA "&#x0101;&#x0302;"  -- a with macron and circumflex -->
 <!ENTITY imacrcir   CDATA "&#x012B;&#x0302;"  -- i with macron and circumflex -->
 <!ENTITY umacrcir   CDATA "&#x016B;&#x0302;"  -- u with macron and circumflex -->
-
-<!ENTITY acaron     CDATA "a&#x030C;"           -- a with caron -->
-<!ENTITY ucaron     CDATA "u&#x030C;"           -- u with caron -->
-<!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
 <!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
