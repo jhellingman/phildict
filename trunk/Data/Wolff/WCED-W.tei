@@ -28,6 +28,7 @@
 <!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+<!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
 
 <!ENTITY prime      CDATA "'"            -- prime -->
 <!ENTITY Prime      CDATA "''"            -- double prime -->
@@ -118,7 +119,7 @@
 
 <p id=20613><form>wakling</form> <pos>v</pos> <itype>[A; c1]</itype> push s.t. aside, usually causing it to topple over. <i>Wà ka giyud makawakling ánang mga kartun nga nakasámuk sa ímung lamísa,</i> Why haven&apos;t you pushed those boxes aside since they are in your way as you work at the table? <i>Ayaw nà waklínga (iwakling) arun dì mahúlug,</i> Don&apos;t push that aside or it will fall over.
 
-<p id=20614><form>wakwak<sub>1</sub></form> <pos>n</pos> <tr>bird</tr> which comes out at night, so called from its call. Its call signifies the presence of a vampire (<ix>unglù</ix>) or in some beliefs, it is a form the vampire takes himself. <pos>v</pos> <number>1</number> <itype>[A13]</itype> for the <ix>wakwak</ix> to be about. <number>2</number> <itype>[a12]</itype> victimize s.o. with vampire activity. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> go about engaging in vampire activity. <form>-un</form> <pos>n</pos> <xr>= <sc>UNGLÙ</sc>, <ix>n</ix>.</xr>
+<p id=20614><form>wakwak<sub>1</sub></form> <pos>n</pos> <tr>bird</tr> which comes out at night, so called from its call. Its call signifies the presence of a vampire (<ix>unglù</ix>) or in some beliefs, it is a form the vampire takes himself. <pos>v</pos> <number>1</number> <itype>[A13]</itype> for the <ix>wakwak</ix> to be about. <number>2</number> <itype>[a12]</itype> victimize s.o. with vampire activity. <form>pa&N;-</form> <pos>v</pos> <itype>[A2]</itype> go about engaging in vampire activity. <form>-un</form> <pos>n</pos> <xr>= <sc>UNGLÙ</sc>, <ix>n</ix>.</xr>
 
 <p id=20615><form>wakwak<sub>2</sub></form> <pos>n</pos> the West piece of mahjong <xr>= <sc>WISTI</sc>.</xr>
 
@@ -168,7 +169,7 @@
 
 <p id=20638><form>wangì</form> <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> <tr>bend</tr>, <tr>displace</tr> s.t. without moving it entirely. <i>Akuy muwangì sa tabla ug kuúta ang búla sa ilálum,</i> I will bend back the plank and you reach for the ball inside. <i>Kinsay nagwangì sa úbas sa sagángat?</i> Who bent one of the tines of the spear? <number>2</number> <itype>[AB; c1]</itype> <tr>break off</tr> a piece of s.t. long, get broken off. <i>Muwangì kug sangang pára ilatigus kabáyù,</i> I&apos;ll break off a branch to use for a horsewhip. <i>Muwangì (mawangì) ang ákung mga pánit sa ngilit sa kuku usáhay,</i> The skin on the sides of the nail sometimes breaks. <pos>a</pos> <number>1</number> <tr>displaced</tr>. <number>2</number> broken off. <i>Wanging kuku,</i> <tr>Hangnail</tr>. <form>wangìwángì</form> <pos>n</pos> corners of the mouth at the lips. <pos>v</pos> <itype>[c1]</itype> hit s.o. at the corners of the mouth. <i>Wangìwángía (iwangìwángì) siya pagkurit,</i> Pinch her at the edge of her lips.
 
-<p id=20639><form>*wángis</form> <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> for a pig&apos;s canines to grow long because of age. <i>Nangwángis na ang ámung bábuy apan dì pa mangasáwa ang ámung ulitáwu,</i> Our pig has grown long canines but our young man doesn&apos;t want to get married yet.
+<p id=20639><form>*wángis</form> <form>pa&N;-</form> <pos>v</pos> <itype>[A2]</itype> for a pig&apos;s canines to grow long because of age. <i>Nangwángis na ang ámung bábuy apan dì pa mangasáwa ang ámung ulitáwu,</i> Our pig has grown long canines but our young man doesn&apos;t want to get married yet.
 
 <p id=20640><form>wangkata</form> <pos>n</pos> shape of one&apos;s body (slang&mdash;word play on <ix>katawan</ix>, Tagalog for &lsquo;body&rsquo;). <i>Mau nay wangkata. Pambátug banggà,</i> My! What a body! A sure winner in a beauty contest!
 
@@ -368,7 +369,7 @@
 
 <p id=20736><form>wilga</form> <pos>n</pos> <tr>strike</tr>. <pos>v</pos> <itype>[A; ab(1)]</itype> <tr>go on strike</tr>. <i>Giwilgáhan níla ang kumpaníya,</i> They went on strike against the company. <form>wilgista</form> <pos>n</pos> <tr>striker</tr>. <pos>v</pos> <itype>[B1256]</itype> be a striker. <i>Dì na makabalik sa trabáhu ang nawilgista,</i> Those who had been on strike cannot return to their jobs.
 
-<p id=20737><form>wíli</form> <pos>v</pos> <itype>[B1256; b3(1)c5]</itype> feel sad at leaving s.t. or for the loss of s.t. gone. <i>Nawíli siya nga mibíyà sa íyang hinigugma,</i> He felt sad upon leaving his beloved. <i>Wà kuy kawid-an (kawilíhan) ning kalibútan,</i> I won&apos;t <tr>miss</tr> anything in this world (when I die). <form>&mdash; sa tuguntúgun</form> <pos>v</pos> <itype>[B1256]</itype> take a long time to leave a place for an errand or to get s.t. accomplished. <i>Kadúgay nímung nakalakaw! Nawíli ka sa tuguntúgun?</i> Why can&apos;t you leave right away? What&apos;s holding you? <form>paN-(&rarr;), panga-(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> having a feeling of sadness because of a loss or s.t. left behind. <i>Nagpangwili (nagpangawili) siya nga mugíkan,</i> He is leaving, but not without a feeling of sadness. <form>ka-</form> <pos>n</pos> sad <tr>nostalgia</tr>, <tr>sense of loss</tr>. <form>mawilíhun</form> <pos>a</pos> sad and reluctant to leave. <i>Mawilíhun siya nga nananghid sa pagpaúlì,</i> He said good-night with reluctance. <form>maka-r-</form> <pos>a</pos> engendering a feeling of irreparable loss.&dagger;
+<p id=20737><form>wíli</form> <pos>v</pos> <itype>[B1256; b3(1)c5]</itype> feel sad at leaving s.t. or for the loss of s.t. gone. <i>Nawíli siya nga mibíyà sa íyang hinigugma,</i> He felt sad upon leaving his beloved. <i>Wà kuy kawid-an (kawilíhan) ning kalibútan,</i> I won&apos;t <tr>miss</tr> anything in this world (when I die). <form>&mdash; sa tuguntúgun</form> <pos>v</pos> <itype>[B1256]</itype> take a long time to leave a place for an errand or to get s.t. accomplished. <i>Kadúgay nímung nakalakaw! Nawíli ka sa tuguntúgun?</i> Why can&apos;t you leave right away? What&apos;s holding you? <form>pa&N;-(&rarr;), panga-(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> having a feeling of sadness because of a loss or s.t. left behind. <i>Nagpangwili (nagpangawili) siya nga mugíkan,</i> He is leaving, but not without a feeling of sadness. <form>ka-</form> <pos>n</pos> sad <tr>nostalgia</tr>, <tr>sense of loss</tr>. <form>mawilíhun</form> <pos>a</pos> sad and reluctant to leave. <i>Mawilíhun siya nga nananghid sa pagpaúlì,</i> He said good-night with reluctance. <form>maka-r-</form> <pos>a</pos> engendering a feeling of irreparable loss.&dagger;
 
 <p id=20738><form>wilik</form> <pos>v</pos> <itype>[AN; b6(1)]</itype> remove s.t. from oneself with a motion of rapid shaking. <i>Nangwilik (miwilik) siya humag hunaw,</i> He shook the water off his hands after washing. <pos>n</pos> action of flicking s.t. off of oneself. <i>Giwilik níya ang íyang itsay nga mikulabyun níya,</i> He shook off his girl as she was clinging to his shoulders.
 
@@ -398,7 +399,7 @@
 
 <p id=20751><form>winsild</form> <pos>n</pos> <tr>windshield</tr>.
 
-<p id=20752><form>wintirgrin</form> <pos>n</pos> <tr>oil of wintergreen</tr>. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> apply oil of wintergreen on oneself.
+<p id=20752><form>wintirgrin</form> <pos>n</pos> <tr>oil of wintergreen</tr>. <form>pa&N;-</form> <pos>v</pos> <itype>[A2]</itype> apply oil of wintergreen on oneself.
 
 <p id=20753><form>wir-anwír</form> <pos>a</pos> garment that has been worn for some time without being washed (humorous&mdash;play on <i>was-anwír</i>).
 

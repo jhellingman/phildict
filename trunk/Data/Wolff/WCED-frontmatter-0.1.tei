@@ -1,15 +1,16 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
-<!ENTITY larr       CDATA "&#x2190;"    -- leftwards arrow -->
-<!ENTITY rarr       CDATA "&#x2192;"    -- rightwards arrow -->
-<!ENTITY glots      CDATA "&#x0294;"    -- glottal stop -->
-<!ENTITY amacracu   CDATA "a"           -- a with macron and acute -->
-<!ENTITY imacracu   CDATA "i"           -- i with macron and acute -->
-<!ENTITY umacracu   CDATA "u"           -- u with macron and acute -->
-<!ENTITY acaron     CDATA "a"           -- a with caron -->
-<!ENTITY ucaron     CDATA "u"           -- u with caron -->
-<!ENTITY icaron     CDATA "i"           -- i with caron -->
-<!ENTITY schwa      CDATA "e"           -- schwa (turned e) -->
+<!ENTITY larr     CDATA "&#x2190;"  -- leftwards arrow -->
+<!ENTITY rarr     CDATA "&#x2192;"  -- rightwards arrow -->
+<!ENTITY glots    CDATA "&#x0294;"  -- glottal stop -->
+<!ENTITY amacracu CDATA "a"         -- a with macron and acute -->
+<!ENTITY imacracu CDATA "i"         -- i with macron and acute -->
+<!ENTITY umacracu CDATA "u"         -- u with macron and acute -->
+<!ENTITY acaron   CDATA "a"         -- a with caron -->
+<!ENTITY ucaron   CDATA "u"         -- u with caron -->
+<!ENTITY icaron   CDATA "i"         -- i with caron -->
+<!ENTITY schwa    CDATA "e"         -- schwa (turned e) -->
+<!ENTITY N        CDATA "N"         -- N symbol (as used in this dictionary) -->
 
 ]><TEI.2 lang=en>
 <teiHeader>
@@ -713,7 +714,7 @@ A-K -->
 <div3 n=6.2 id=s6.2>
 <head>6.2 Verbal derivation</head>
 
-<p>The inflectional affixes are added not only to roots (forms containing no other affixes) but also to derived bases (forms containing further affixes). The productive affixes which are added to roots to form bases which in turn may have inflectional affixes added to them are <hi rend=bold>-ay, -an, pa-, paN-,</hi><note n=1 id=n6.2.1><p>The phonemic value of the morphophonemic symbol N is given in the following chart: 
+<p>The inflectional affixes are added not only to roots (forms containing no other affixes) but also to derived bases (forms containing further affixes). The productive affixes which are added to roots to form bases which in turn may have inflectional affixes added to them are <hi rend=bold>-ay, -an, pa-, pa&N;-,</hi><note n=1 id=n6.2.1><p>The phonemic value of the morphophonemic symbol &N; is given in the following chart: 
 
 <table rend="align(center) width(80%) border-collapse(collapse) border(1px solid black)">
 <column rend="border-left(1px solid black) align(center) width(50%)">
@@ -728,7 +729,7 @@ A-K -->
 <row><cell><hi>other consonants or clusters of consonants</hi>      <cell>ng <hi>plus initial consonant</hi>
 </table>
 
-<p>Examples: <hi>palit</hi> + <hi>paN-</hi> = <hi>pamalit</hi> &lsquo;buy&rsquo;; <hi>baligyà</hi> + <hi>paN-</hi> = <hi>pamaligyà</hi> &lsquo;sell&rsquo;; <hi>tindug</hi> + <hi>paN-</hi> = <hi>panindug</hi> &lsquo;stand&rsquo;; <hi>dala</hi> + <hi>paN-</hi> = <hi>panala</hi> &lsquo;bring&rsquo;; <hi>sulud</hi> + <hi>paN-</hi> = <hi>panulud</hi> &lsquo;enter&rsquo;; <hi>kúhà</hi> + <hi>paN-</hi> = <hi>pangúhà</hi> &lsquo;take&rsquo;; <hi>ábang</hi> + <hi>paN-</hi> = <hi>pangábang</hi> &lsquo;rent&rsquo;; <hi>ngisi</hi> + <hi>paN-</hi> = <hi>pangisi</hi> &lsquo;be intent on&rsquo;; <hi>lútù</hi> + <hi>paN-</hi> = <hi>panglútù, panlútù</hi> &lsquo;cook&rsquo;; <hi>hisus</hi> + <hi>paN-</hi> = <hi>panghisus</hi> &lsquo;exclaim Jesus!&rsquo;.</note> <hi rend=bold>ka-, hi-, ha-, hiN-, pakig-, paki-, panggi-, pani-, paniN-</hi><ref type=noteref target=n6.2.1>1</ref>. These affixes are given entries in the dictionary and exemplified there. 
+<p>Examples: <hi>palit</hi> + <hi>pa&N;-</hi> = <hi>pamalit</hi> &lsquo;buy&rsquo;; <hi>baligyà</hi> + <hi>pa&N;-</hi> = <hi>pamaligyà</hi> &lsquo;sell&rsquo;; <hi>tindug</hi> + <hi>pa&N;-</hi> = <hi>panindug</hi> &lsquo;stand&rsquo;; <hi>dala</hi> + <hi>pa&N;-</hi> = <hi>panala</hi> &lsquo;bring&rsquo;; <hi>sulud</hi> + <hi>pa&N;-</hi> = <hi>panulud</hi> &lsquo;enter&rsquo;; <hi>kúhà</hi> + <hi>pa&N;-</hi> = <hi>pangúhà</hi> &lsquo;take&rsquo;; <hi>ábang</hi> + <hi>pa&N;-</hi> = <hi>pangábang</hi> &lsquo;rent&rsquo;; <hi>ngisi</hi> + <hi>pa&N;-</hi> = <hi>pangisi</hi> &lsquo;be intent on&rsquo;; <hi>lútù</hi> + <hi>pa&N;-</hi> = <hi>panglútù, panlútù</hi> &lsquo;cook&rsquo;; <hi>hisus</hi> + <hi>pa&N;-</hi> = <hi>panghisus</hi> &lsquo;exclaim Jesus!&rsquo;.</note> <hi rend=bold>ka-, hi-, ha-, hi&N;-, pakig-, paki-, panggi-, pani-, pani&N;-</hi><ref type=noteref target=n6.2.1>1</ref>. These affixes are given entries in the dictionary and exemplified there. 
 
 <p>When the active inflectional affixes are added to verb bases which contain some of these derivative prefixes, they undergo morphophonemic alternations as shown in the following chart: 
 
@@ -739,9 +740,9 @@ A-K -->
 
 <row><cell><hi>together</hi> with prefix        <cell>ni- (mi-, ning-) <hi>becomes</hi>            <cell>mu- <hi>becomes</hi>
 
-<row rend="border-top(1px solid black)"><cell>paN-                        <cell>naN-                                <cell>maN-
+<row rend="border-top(1px solid black)"><cell>pa&N;-                        <cell>na&N;-                                <cell>ma&N;-
 <row><cell>pakig-                      <cell>nakig-                              <cell>makig-
-<row><cell>paniN-                      <cell>naniN-                              <cell>maniN-
+<row><cell>pani&N;-                      <cell>nani&N;-                              <cell>mani&N;-
 <row><cell>pani-                       <cell>nani-                               <cell>mani-
 <row><cell>panggi-                     <cell>nanggi-                             <cell>manggi-
 </table>
@@ -754,9 +755,9 @@ A-K -->
 <head>7.0 Classification of roots according to their system of affixation</head>
 
 
-<p>With the rich system of derivational and inflectional affixations to which Cebuano roots are subject, there are literally hundreds of different affixed forms for any given root. Since it is manifestly impossible to list exhaustively all affixations for any given root, we follow the principle here that <hi rend=bold><hi rend=sc>PRODUCTIVE FORMATIONS</hi></hi> are generally not listed unless there is s.t. especial <pb n=xvii>about their meanings or morphophonemics. By <hi rend=bold><hi rend=sc>PRODUCTIVE FORMATIONS</hi></hi> we mean affixes which are added to all, or almost all, members of a certain group of roots. For example, the affix <hi>ka-an<hi rend=sub>2</hi></hi> is added to any root which refers to a plant to form a collective noun referring to a place where a group of that type of plant is found. The formation, <hi>ka-</hi>[<hi>plant</hi>]<hi>-an</hi>, is not listed except in cases where there is s.t. special about the affixation, as for example <hi>kalubinhan</hi> &lsquo;coconut grove&rsquo; (from <hi>lubi</hi>) which undergoes special morphophonemics or <hi>kabaknitan</hi> &lsquo;thicket&rsquo; (from <hi>baknit</hi> &lsquo;k.o. vine&rsquo;), where the meaning of the affixed form is not predictable from the meaning of the base and the affixes. The following productive affixes are listed only occasionally. For their meanings and a description of the type of roots to which they are added, see the entries: <hi rend=bold>pa-</hi><hi>1,2</hi>; <hi rend=bold>paN-</hi><hi>1a,c</hi>, <hi rend=bold>panggi-, hi-/ha-; hiN-<hi rend=sub>1</hi>; -ay/-anay; paka-<hi rend=sub>2</hi></hi>, <hi>doubling</hi> or <hi rend=bold>Culu-; -in-<hi rend=sub>1</hi>, -in<hi rend=sub>2</hi>, ka-an<hi rend=sub>2</hi>, -in-an<hi rend=sub>1</hi>, -in-an<hi rend=sub>2</hi>, ma-<hi rend=sub>2</hi></hi>. 
+<p>With the rich system of derivational and inflectional affixations to which Cebuano roots are subject, there are literally hundreds of different affixed forms for any given root. Since it is manifestly impossible to list exhaustively all affixations for any given root, we follow the principle here that <hi rend=bold><hi rend=sc>PRODUCTIVE FORMATIONS</hi></hi> are generally not listed unless there is s.t. especial <pb n=xvii>about their meanings or morphophonemics. By <hi rend=bold><hi rend=sc>PRODUCTIVE FORMATIONS</hi></hi> we mean affixes which are added to all, or almost all, members of a certain group of roots. For example, the affix <hi>ka-an<hi rend=sub>2</hi></hi> is added to any root which refers to a plant to form a collective noun referring to a place where a group of that type of plant is found. The formation, <hi>ka-</hi>[<hi>plant</hi>]<hi>-an</hi>, is not listed except in cases where there is s.t. special about the affixation, as for example <hi>kalubinhan</hi> &lsquo;coconut grove&rsquo; (from <hi>lubi</hi>) which undergoes special morphophonemics or <hi>kabaknitan</hi> &lsquo;thicket&rsquo; (from <hi>baknit</hi> &lsquo;k.o. vine&rsquo;), where the meaning of the affixed form is not predictable from the meaning of the base and the affixes. The following productive affixes are listed only occasionally. For their meanings and a description of the type of roots to which they are added, see the entries: <hi rend=bold>pa-</hi><hi>1,2</hi>; <hi rend=bold>pa&N;-</hi><hi>1a,c</hi>, <hi rend=bold>panggi-, hi-/ha-; hi&N;-<hi rend=sub>1</hi>; -ay/-anay; paka-<hi rend=sub>2</hi></hi>, <hi>doubling</hi> or <hi rend=bold>Culu-; -in-<hi rend=sub>1</hi>, -in<hi rend=sub>2</hi>, ka-an<hi rend=sub>2</hi>, -in-an<hi rend=sub>1</hi>, -in-an<hi rend=sub>2</hi>, ma-<hi rend=sub>2</hi></hi>. 
 
-<p>The inflectional affixes which may be added to a given verb base in a given meaning are indicated by means of a formula which is explained in the following subsections. The derivational affixes <hi rend=bold>paN-</hi><hi>1a,c</hi>, <hi rend=bold>pakig-</hi>, and <hi rend=bold>ka-</hi> are also indicated with these formulas. 
+<p>The inflectional affixes which may be added to a given verb base in a given meaning are indicated by means of a formula which is explained in the following subsections. The derivational affixes <hi rend=bold>pa&N;-</hi><hi>1a,c</hi>, <hi rend=bold>pakig-</hi>, and <hi rend=bold>ka-</hi> are also indicated with these formulas. 
 
 <p>Our classification of verbs consists of two parts separated by a semicolon: the active and the passive. The active classes are indicated by capital letters <hi>A, B, C</hi> and numbers indicating subclasses; and the passive classes are indicated by minuscules <hi>a, b,</hi> and <hi>c</hi> followed by numbers indicating subclasses. E.g. <hi>palit</hi> &lsquo;buy&rsquo;, which is in class <hi>A; a</hi>, takes the active affixes listed for <hi>A</hi> (Section 7.11) and the passive affixes listed for <hi>a</hi> (Section 7.21). In the following subsections the verbs mentioned as examples of each conjugation class are listed with examples for all the relevant affixations. 
 
@@ -784,7 +785,7 @@ A-K -->
 
 <p>The symbol <hi>A3P</hi> indicates that the root occurs with both <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>) and, alternatively, with <hi rend=bold>makapa-</hi> (<hi rend=bold>nakapa-</hi>) with no difference in meaning. Further, the base occurs with nonpotential <pb n=xviii>affixes, but with the nonpotential active affixes, <hi rend=bold>pa-</hi> cannot be added to the base without changing the meaning. The symbol <hi>A123P</hi> means that the root occurs only with potential-active affixes (i.e., does not occur with <hi rend=bold>mu-</hi> or <hi rend=bold>mag-</hi>), but it does occur with <hi rend=bold>maka-</hi> and also with <hi rend=bold>makapa-</hi> having the same meaning as <hi rend=bold>maka-</hi>, e.g. <hi>malarya</hi> &lsquo;get malaria&rsquo;. 
 
-<p>The symbol <hi>N</hi> following <hi>A</hi> or <hi>A</hi> plus the numbers indicates that the prefix <hi rend=bold>paN-</hi> can be added to the base together with the punctual-active affix, <hi rend=bold>mu-</hi>, and with the potential-active affix <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>) but not with the durative affixes, and that the root alone is synonymous with the base plus <hi rend=bold>paN-</hi>. That is to say, the form <hi rend=bold>mu-</hi> (<hi rend=bold>mi-</hi>)[<hi>root</hi>] and <hi rend=bold>maN-</hi> (<hi rend=bold>naN-</hi>)[<hi>root</hi>]<note n=1 id=n7.111.1><hi rend=bold>maN-</hi> is analyzed morphophonemically as <hi rend=bold>mu-</hi> plus <hi rend=bold>paN-</hi>, and <hi rend=bold>naN-</hi> as <hi rend=bold>mi-</hi> plus <hi rend=bold>paN-</hi>. See Section 6.2.</note> are synonymous, and <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>)[<hi>root</hi>] is synonymous with <hi rend=bold>nakapaN-</hi>[<hi>root</hi>] and <hi rend=bold>makapaN-</hi>[<hi>root</hi>]. An example of a root of the <hi>AN</hi> conjugation is <hi>sanghid</hi> &lsquo;ask permission&rsquo;. 
+<p>The symbol <hi>N</hi> following <hi>A</hi> or <hi>A</hi> plus the numbers indicates that the prefix <hi rend=bold>pa&N;-</hi> can be added to the base together with the punctual-active affix, <hi rend=bold>mu-</hi>, and with the potential-active affix <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>) but not with the durative affixes, and that the root alone is synonymous with the base plus <hi rend=bold>pa&N;-</hi>. That is to say, the form <hi rend=bold>mu-</hi> (<hi rend=bold>mi-</hi>)[<hi>root</hi>] and <hi rend=bold>ma&N;-</hi> (<hi rend=bold>na&N;-</hi>)[<hi>root</hi>]<note n=1 id=n7.111.1><hi rend=bold>ma&N;-</hi> is analyzed morphophonemically as <hi rend=bold>mu-</hi> plus <hi rend=bold>pa&N;-</hi>, and <hi rend=bold>na&N;-</hi> as <hi rend=bold>mi-</hi> plus <hi rend=bold>pa&N;-</hi>. See Section 6.2.</note> are synonymous, and <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>)[<hi>root</hi>] is synonymous with <hi rend=bold>nakapa&N;-</hi>[<hi>root</hi>] and <hi rend=bold>makapa&N;-</hi>[<hi>root</hi>]. An example of a root of the <hi>AN</hi> conjugation is <hi>sanghid</hi> &lsquo;ask permission&rsquo;. 
 
 
 
@@ -799,7 +800,7 @@ A-K -->
 
 <p>Verbs of class <hi>B1</hi> lack <hi rend=bold>mu-</hi>, e.g. <hi>págud</hi> &lsquo;get burnt&rsquo;. Verbs of class <hi>B2</hi> lack <hi rend=bold>mag-</hi>, e.g. <hi>palanas</hi> &lsquo;be eroded&rsquo;. Verbs of <hi>B3</hi> occur with <hi rend=bold>maka-</hi> but have a meaning &lsquo;become [so-and-so]&rsquo;, e.g. laun &lsquo;age&rsquo;. Verbs of class B3(1) occur with maka- in two meanings: (1) become [so-and-so], and (2) cause to become [so-and-so]. In the latter meaning it also occurs with <hi rend=bold>makapa-</hi> (<hi rend=bold>nakapa-</hi>), e.g. <hi>lup-ut<hi rend=sub>2</hi></hi> &lsquo;thicken&rsquo;. Verbs of class <hi>B4</hi> lack <hi rend=bold>na-</hi> (<hi rend=bold>ma-</hi>). E.g. <hi>laúsag</hi> &lsquo;got worse and worse&rsquo;. Verbs of class <hi>B5</hi> lack <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>) and verbs of class <hi>B6</hi> lack <hi rend=bold>magka-<hi rend=sub>2</hi></hi>, e.g. <hi>paliyar</hi> &lsquo;for an engine to malfunction&rsquo;. Many verbs in the class <hi>B</hi> conjugation have one or more of these conjugational features. E.g. <hi>duktur</hi> as a verb &lsquo;become a doctor&rsquo; is in class <hi>B16</hi>,&mdash;i.e. it lacks <hi rend=bold>mu-</hi> and lacks <hi rend=bold>magka-</hi>. 
 
-<p>The <corr sic=symbol>symbols</corr> <hi>S</hi> and <hi>N</hi> are used just as with the verbs of the <hi>A</hi> conjugation. The symbolization <hi>B2S</hi> indicates that the penult is short with the durative affixes (<hi rend=bold>mag-</hi>, etc.), e.g. <hi>lúya</hi> &lsquo;get weak&rsquo;. A symbol <hi>BN</hi> indicates that <hi rend=bold>paN-</hi> may be added to the base with the volitional affix (<hi rend=bold>mu-</hi>) and that the root plus <hi rend=bold>mu-</hi> (<hi rend=bold>mi-</hi>, etc.) does not differ in meaning from the root plus <hi rend=bold>maN-</hi> (<hi rend=bold>naN-</hi>).<ref type=noteref target=n7.111.1>1</ref> An example of a verb of conjugation <hi>BN</hi> is <hi>pula</hi>. 
+<p>The <corr sic=symbol>symbols</corr> <hi>S</hi> and <hi>N</hi> are used just as with the verbs of the <hi>A</hi> conjugation. The symbolization <hi>B2S</hi> indicates that the penult is short with the durative affixes (<hi rend=bold>mag-</hi>, etc.), e.g. <hi>lúya</hi> &lsquo;get weak&rsquo;. A symbol <hi>BN</hi> indicates that <hi rend=bold>pa&N;-</hi> may be added to the base with the volitional affix (<hi rend=bold>mu-</hi>) and that the root plus <hi rend=bold>mu-</hi> (<hi rend=bold>mi-</hi>, etc.) does not differ in meaning from the root plus <hi rend=bold>ma&N;-</hi> (<hi rend=bold>na&N;-</hi>).<ref type=noteref target=n7.111.1>1</ref> An example of a verb of conjugation <hi>BN</hi> is <hi>pula</hi>. 
 
 
 

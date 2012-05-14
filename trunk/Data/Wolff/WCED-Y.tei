@@ -28,6 +28,7 @@
 <!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+<!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
 
 <!ENTITY prime      CDATA "'"            -- prime -->
 <!ENTITY Prime      CDATA "''"            -- double prime -->
@@ -158,7 +159,7 @@
 
 <p id=20847><form>yamhang</form> <pos>a</pos> carelessly <tr>inattentive</tr> or <tr>neglectful</tr>. <i>Yamhang kaáyu nang bayhána. Húgaw kaáyug hitsúra,</i> That woman neglects her appearance, and she looks very untidy. <i>Yamhang siyang magtrabáhu. Daghang sayup,</i> She is <tr>careless</tr> in her work and makes lots of mistakes. <pos>v</pos> <itype>[B12; b6]</itype> be carelessly inattentive or neglectful. <form>-an(&rarr;)</form> <xr>= <sc>YAMHANG</sc>.</xr>
 
-<p id=20848><form>yam-id</form> <pos>v</pos> <itype>[AN; b6c1]</itype> <tr>sneer</tr>, twist the lips in <tr>contempt</tr>, <tr>disapproval</tr>. <i>Miyam-id (nangyam-id) ang bátà sa pagkáun,</i> The child pouted at the food. <i>Babáying mubug lupad nga giyam-íran sa katilingban,</i> A woman of loose morals the whole society sneers at. <form>paN-</form> <pos>n</pos> sneer. <form>yam-iran</form> <pos>a</pos> given to sneering or pouting one&apos;s lips. <form>mayam-írun</form> <pos>a</pos> done in a contemptuous, sneering way.
+<p id=20848><form>yam-id</form> <pos>v</pos> <itype>[AN; b6c1]</itype> <tr>sneer</tr>, twist the lips in <tr>contempt</tr>, <tr>disapproval</tr>. <i>Miyam-id (nangyam-id) ang bátà sa pagkáun,</i> The child pouted at the food. <i>Babáying mubug lupad nga giyam-íran sa katilingban,</i> A woman of loose morals the whole society sneers at. <form>pa&N;-</form> <pos>n</pos> sneer. <form>yam-iran</form> <pos>a</pos> given to sneering or pouting one&apos;s lips. <form>mayam-írun</form> <pos>a</pos> done in a contemptuous, sneering way.
 
 <p id=20849><form>yamíhid</form> <xr>= <sc>TAMÍHID</sc>.</xr>
 
@@ -208,7 +209,7 @@
 
 <p id=20872><form>yangù</form> <pos>v</pos> <itype>[A2; c1]</itype> <number>1</number> move the head upwards as a sign of assent or, by extension, as a sign of s.t. else. <i>Miyangù siya sa pagtúgut,</i> He nodded (lifted his head upwards) in assent. <number>2</number> nod downwards, <tr>bow</tr>. <i>Ang Hapun muyangù ágig pagtáhud,</i> A Japanese bows as a sign of greeting. <pos>n</pos> movement of the head in assent or indication of s.t. else. <i>Sa usa ka yangù mudágan dáyun ang íyang mga sulugúun,</i> <pb n=1135>With just one <tr>nod</tr> of the head his servants run immediately. <form>yangùyángù</form> <pos>v</pos> <itype>[A; c1]</itype> <number>1</number> nod the head several times. <number>2</number> <xr>= <sc>GANGÙ</sc>, <i>v1.</i></xr>
 
-<p id=20873><form>yángud</form> <pos>v</pos> <itype>[A2S; a]</itype> <tr>look upward</tr>. <i>Nagyangud ang bátà sa íyang tabánug,</i> The boy is looking at his kite. <form>(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> <tr>depend</tr>, <tr>rely upon</tr> s.o. for support. <i>Nagyangud ku sa ákung magúwang sa pagiskuyla,</i> I <tr>rely</tr> on my brother to support me in school. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> peep up through the cracks in the floor. <i>Kamaldítu. Gamay ka pa gánì mangyángud na,</i> What a naughty child. At your age you already peep at girls through the floor.
+<p id=20873><form>yángud</form> <pos>v</pos> <itype>[A2S; a]</itype> <tr>look upward</tr>. <i>Nagyangud ang bátà sa íyang tabánug,</i> The boy is looking at his kite. <form>(&rarr;)</form> <pos>v</pos> <itype>[A13]</itype> <tr>depend</tr>, <tr>rely upon</tr> s.o. for support. <i>Nagyangud ku sa ákung magúwang sa pagiskuyla,</i> I <tr>rely</tr> on my brother to support me in school. <form>pa&N;-</form> <pos>v</pos> <itype>[A2]</itype> peep up through the cracks in the floor. <i>Kamaldítu. Gamay ka pa gánì mangyángud na,</i> What a naughty child. At your age you already peep at girls through the floor.
 
 <p id=20874><form>yangùngù</form> <pos>v</pos> <itype>[A; c1]</itype> make insistent and repeated requests. <i>Muyangùngù siya hangtud hatágan,</i> He keeps asking for some until he gets it. <pos>n</pos> repeated and insistent requests.
 

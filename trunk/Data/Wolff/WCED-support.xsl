@@ -6,12 +6,27 @@
 <!ENTITY larr        "&#x2190;"         >
 <!ENTITY rarr        "&#x2192;"         >
 <!ENTITY glots       "&#x0294;"         >
+
+<!ENTITY amacrgra    "&#x0101;&#x0300;" >
+<!ENTITY imacrgra    "&#x012B;&#x0300;" >
+<!ENTITY umacrgra    "&#x016B;&#x0300;" >
+
 <!ENTITY amacracu    "&#x0101;&#x0301;" >
 <!ENTITY imacracu    "&#x012B;&#x0301;" >
 <!ENTITY umacracu    "&#x016B;&#x0301;" >
+
+<!ENTITY amacrcir    "&#x0101;&#x0302;" >
+<!ENTITY imacrcir    "&#x012B;&#x0302;" >
+<!ENTITY umacrcir    "&#x016B;&#x0302;" >
+
 <!ENTITY acaron      "a&#x030C;"        >
 <!ENTITY ucaron      "u&#x030C;"        >
 <!ENTITY icaron      "i&#x030C;"        >
+
+<!ENTITY Acaron      "A&#x030C;"        >
+<!ENTITY Ucaron      "U&#x030C;"        >
+<!ENTITY Icaron      "I&#x030C;"        >
+
 <!ENTITY schwa       "&#x0259;"         >
 <!ENTITY mdash       "&#x2014;"         >
 <!ENTITY dagger      "&#x2020;"         >
@@ -46,11 +61,29 @@
         <xsl:param name="word" as="xs:string"/>
 
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'á',          'ax')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'í',          'ix')"/></xsl:variable>
-        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ú',          'ux')"/></xsl:variable>
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'à',          'aq')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'â',          'a3')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&acaron;',   'a4')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&amacracu;', 'a5')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&amacrgra;', 'a6')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&amacrcir;', 'a7')"/></xsl:variable>
+
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'í',          'ix')"/></xsl:variable>
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ì',          'iq')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'î',          'i3')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&icaron;',   'i4')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&imacracu;', 'i5')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&imacrgra;', 'i6')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&imacrcir;', 'i7')"/></xsl:variable>
+
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ú',          'ux')"/></xsl:variable>
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ù',          'uq')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'û',          'u3')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&ucaron;',   'u4')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&umacracu;', 'u5')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&umacrgra;', 'u6')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&umacrcir;', 'u7')"/></xsl:variable>
+
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&larr;',     'lx')"/></xsl:variable>
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&rarr;',     'rx')"/></xsl:variable>
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ,/]+',     '_')"/></xsl:variable>
@@ -63,6 +96,47 @@
         <xsl:value-of select="$word"/>
     </xsl:function>
 
+    <xsl:function name="local:make-sortkey" as="xs:string">
+        <xsl:param name="word" as="xs:string"/>
+
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'a',          'a0')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'á',          'a1')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'à',          'a2')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'â',          'a3')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&acaron;',   'a4')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&amacracu;', 'a5')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&amacrgra;', 'a6')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&amacrcir;', 'a7')"/></xsl:variable>
+
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'i',          'i0')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'í',          'i1')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ì',          'i2')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'î',          'i3')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&icaron;',   'i4')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&imacracu;', 'i5')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&imacrgra;', 'i6')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&imacrcir;', 'i7')"/></xsl:variable>
+
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'u',          'u0')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ú',          'u1')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'ù',          'u2')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'û',          'u3')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&ucaron;',   'u4')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&umacracu;', 'u5')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&umacrgra;', 'u6')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&umacrcir;', 'u7')"/></xsl:variable>
+
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&larr;',     '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&rarr;',     '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ,/]+',     '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&mdash;',    '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '^-',         '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '[ ()\[\],]', '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '\*',         '')"/></xsl:variable>
+        <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, '&dagger;',   '')"/></xsl:variable>
+
+        <xsl:value-of select="$word"/>
+    </xsl:function>
 
     <xsl:function name="local:strip_diacritics" as="xs:string">
         <xsl:param name="string" as="xs:string"/>

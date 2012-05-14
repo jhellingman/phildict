@@ -28,6 +28,7 @@
 <!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+<!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
 
 <!ENTITY prime      CDATA "'"            -- prime -->
 <!ENTITY Prime      CDATA "''"            -- double prime -->
@@ -78,7 +79,7 @@
 
 <p id=21012><form>adbinturar</form> <xr>= <sc>ABINTURAR</sc>.</xr>
 
-<p id=21013><form>&dagger;adlaw &mdash; gabíi</form> doing s.t. all the time. <i>Adlaw gabíi ang ákung trabáhu,</i> I work day and night. <form>may &mdash; rang magabíi</form> the day will come when the tables will be turned (lit. the day will come that will turn to night). <i>Ímu kung gidaugdáug kay ábi pubri man ku, apan may adlaw rang magabíi,</i> You are stepping all over me because I am poor, but the day will come when the tables are turned. <form>-an(&rarr;), hiN-an(&rarr;)</form> <pos>n</pos> the share of palm toddy given to the owner of the tree, reckoned as the amount gathered on one particular day of the week.
+<p id=21013><form>&dagger;adlaw &mdash; gabíi</form> doing s.t. all the time. <i>Adlaw gabíi ang ákung trabáhu,</i> I work day and night. <form>may &mdash; rang magabíi</form> the day will come when the tables will be turned (lit. the day will come that will turn to night). <i>Ímu kung gidaugdáug kay ábi pubri man ku, apan may adlaw rang magabíi,</i> You are stepping all over me because I am poor, but the day will come when the tables are turned. <form>-an(&rarr;), hi&N;-an(&rarr;)</form> <pos>n</pos> the share of palm toddy given to the owner of the tree, reckoned as the amount gathered on one particular day of the week.
 
 <p id=21014><form>adlib<sub>1</sub></form> <pos>v</pos> <itype>[A; b6]</itype> deliver s.t. <tr>extemporaneously</tr> without any script. <i>Kinahanglan sa usa ka anawunsir nga maáyu muadlib,</i> It&apos;s necessary for an announcer to be good at <tr>ad-libbing</tr>. <i>Giadlíban na lang níya ang lima ka minútus,</i> He just filled in the five minutes by ad-libbing.
 
@@ -94,7 +95,7 @@
 
 <p id=21020><form>&dagger;ágak</form> <pos>v</pos> <number>3</number> <itype>[A; a12]</itype> <tr>guide</tr> s.o. in doing things. <i>Musúkul kus kásu ug dúnay muágak nákù,</i> I&apos;ll put up a fight in court if I have legal counsel. <i>Agákun tikaw sa pag-atiman sa tanum,</i> I&apos;ll show you how to tend the plants.
 
-<p id=21021><form>&dagger;agálun paN-</form> <pos>v</pos> <itype>[A23]</itype> for a long-lost thing to be found again by its owner or for a thing long sold by its owner to find its way back to him. <i>Nangagáwun ang ákung singsing nga narimáti kay aku ra gihápuy nakapalit sa pagsubasta,</i> My ring must consider me its master, because after I pawned it and failed to redeem it, I still got it back at the auction.
+<p id=21021><form>&dagger;agálun</form <form>pa&N;-</form> <pos>v</pos> <itype>[A23]</itype> for a long-lost thing to be found again by its owner or for a thing long sold by its owner to find its way back to him. <i>Nangagáwun ang ákung singsing nga narimáti kay aku ra gihápuy nakapalit sa pagsubasta,</i> My ring must consider me its master, because after I pawned it and failed to redeem it, I still got it back at the auction.
 
 <!-- NOTE: source had italics -->
 
@@ -234,7 +235,7 @@
 
 <p id=21088><form>arast&acaron;r</form> <xr>= <sc>ALAST&Acaron;R</sc>.</xr>
 
-<p id=21089><form>*araw-áraw</form> <form>paN-</form> <pos>a</pos> for one&apos;s daily and ordinary use (slang). <i>Pang-araw-áraw níya ang ílang mutsatsa, ang íyang uyab panagsa ra níya dulgi,</i> He has his maid for ordinary, everyday intercourse, and only rarely his fiancée.
+<p id=21089><form>*araw-áraw</form> <form>pa&N;-</form> <pos>a</pos> for one&apos;s daily and ordinary use (slang). <i>Pang-araw-áraw níya ang ílang mutsatsa, ang íyang uyab panagsa ra níya dulgi,</i> He has his maid for ordinary, everyday intercourse, and only rarely his fiancée.
 
 <p id=21090><form>&dagger;arbul<sub>2</sub></form> <form>&mdash; di</form> <xr>= <sc>ARBUR DI</sc>.</xr>
 
@@ -293,7 +294,7 @@
 
 <p id=21117><form>báag<sub>2</sub></form> <xr>= <sc>BÁLAG</sc>.</xr>
 
-<p id=21118><form>báag<sub>3</sub></form> <pos>n</pos> a small preparation of food for a get-together. <i>Ug dúnay báag sa inyu muadtu ku,</i> I&apos;ll go to your house when you have a little eating party. <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> attend a small eating party.
+<p id=21118><form>báag<sub>3</sub></form> <pos>n</pos> a small preparation of food for a get-together. <i>Ug dúnay báag sa inyu muadtu ku,</i> I&apos;ll go to your house when you have a little eating party. <form>pa&N;-</form> <pos>v</pos> <itype>[A2; b6]</itype> attend a small eating party.
 
 <p id=21119><form>&dagger;baang, báang</form> <form>(&larr;)</form> <pos>n</pos> <number>1</number> the mouth opened to eat s.t. <i>Kagamay nga táwu apan dakug báang,</i> Such a small man, but how wide he can open his mouth to eat. <number>2</number> <tr>mouthful</tr>. <i>Usa ra ka báang sa buáya,</i> You are only one mouthful for a crocodile.
 
@@ -319,7 +320,7 @@
 
 <p id=21130><form>&dagger;bagyu &mdash; sa kinabúhì</form> <tr>misfortunes</tr> in life (literary). <i>Taliw&amacrgra; sa ímung kalípay muhúrus usáhay ang mga bagyu sa kinabúhì,</i> Into every life some rain must fall.
 
-<p id=21131><form>&dagger;bahù paniN-</form> <number>1b</number> <formx>-ng yútà</formx> for death to be <pb n=1146>near (lit. smell of earth&mdash;humorous). <i>Nagpanimahù nang yútà ang kansirun,</i> The cancer patient already smells of the grave.
+<p id=21131><form>&dagger;bahù</form> <form>pani&N;-</form> <number>1b</number> <formx>-ng yútà</formx> for death to be <pb n=1146>near (lit. smell of earth&mdash;humorous). <i>Nagpanimahù nang yútà ang kansirun,</i> The cancer patient already smells of the grave.
 
 <p id=21132><form>bait</form> <pos>v</pos> <itype>[A13]</itype> walk the straight and narrow path (slang). <i>Dì na siya muinum. Nagbait na siya,</i> He doesn&apos;t drink anymore. He is following the straight and narrow path.
 
@@ -355,7 +356,7 @@
 
 <p id=21148><form>balikturyan</form> <pos>n</pos> student who failed a grade (word play on <ix>balidikturyan</ix> and <ix>bálik</ix> &mdash; humorous).
 
-<p id=21149><form>&dagger;balisbis paN-an</form> <pos>v</pos> <number>2</number> <itype>[A2; b6]</itype> for rain to be heavy enough to flow from the eaves. <i>&lsquo;Kusug ba ang ulan?&rsquo;&mdash;&lsquo;Ígù giyung nakapamalisbisan,&rsquo;</i> &lsquo;Was the rain heavy?&rsquo;&mdash;&lsquo;It was heavy enough to flow from the eaves.&rsquo;
+<p id=21149><form>&dagger;balisbis</form> <form>pa&N;-an</form> <pos>v</pos> <number>2</number> <itype>[A2; b6]</itype> for rain to be heavy enough to flow from the eaves. <i>&lsquo;Kusug ba ang ulan?&rsquo;&mdash;&lsquo;Ígù giyung nakapamalisbisan,&rsquo;</i> &lsquo;Was the rain heavy?&rsquo;&mdash;&lsquo;It was heavy enough to flow from the eaves.&rsquo;
 
 <p id=21150><form>&dagger;balista</form> <pos>v</pos> <number>3</number> <itype>[A23]</itype> for wind or luck to change to an opposite direction. <i>Mibalista ang hángin maung nanimbang na pud sila sa píkas,</i> The wind blew in the opposite direction and so the people moved to the other side of the boat to balance it. <i>Namawì na pud si Pabling. Mibalista na tingáli ang íyang dimálas,</i> Pabling is having a winning streak. Maybe his luck is starting to change. <form>-da</form> <xr>= <sc>BALISTA</sc>, <i>v3.</i></xr>
 
@@ -415,7 +416,7 @@
 
 <p id=21177><form>baybay<sub>3</sub></form> <pos>n</pos> k.o. <tr>dance</tr> in which partners embrace each other and swing the upper part of their body sidewise in rhythm with the music. <pos>v</pos> <itype>[AC; c1]</itype> dance the <ix>baybay</ix>.
 
-<p id=21178><form>bayi kababayin-an</form> <pos>n</pos> <number>2</number> <xr>= <sc>BAYIN-AN</sc>.</xr> <pos>v</pos> <itype>[A12]</itype> belong to the group consisting of friends or relatives of the bride.
+<p id=21178><form>bayi</form> <form>kababayin-an</form> <pos>n</pos> <number>2</number> <xr>= <sc>BAYIN-AN</sc>.</xr> <pos>v</pos> <itype>[A12]</itype> belong to the group consisting of friends or relatives of the bride.
 
 <p id=21179><form>baylarína</form> <xr>= <sc>BAYLIRÍNA</sc>.</xr> <ix>see</ix> <xr><sc>BAYLI</sc>.</xr>
 
@@ -451,7 +452,7 @@
 
 <p id=21195><form>&dagger;bitiránu</form> <pos>n</pos> <number>3</number> <tr>widower</tr> (humorous).
 
-<p id=21196><form>&dagger;bitúun</form> <number>6</number> <formx>&mdash; sa dágat</formx> the <tr>Blessed Virgin</tr>. <form>paN-</form> <number>3</number> <formx>&mdash; ang panan-aw</formx> <pos>v</pos> <itype>[A2S3P]</itype> <tr>see stars</tr>. <i>Namitúun ákung panan-aw pagkaigù sa ákung mata,</i> I saw stars when I was hit in the eyes.
+<p id=21196><form>&dagger;bitúun</form> <number>6</number> <formx>&mdash; sa dágat</formx> the <tr>Blessed Virgin</tr>. <form>pa&N;-</form> <number>3</number> <formx>&mdash; ang panan-aw</formx> <pos>v</pos> <itype>[A2S3P]</itype> <tr>see stars</tr>. <i>Namitúun ákung panan-aw pagkaigù sa ákung mata,</i> I saw stars when I was hit in the eyes.
 
 <p id=21197><form>bluprint</form> <pos>n</pos> <tr>blueprint</tr>. <pos>v</pos> <itype>[A; c1]</itype> make a blueprint of s.t.
 
@@ -509,7 +510,7 @@
 
 <p id=21223><form>butíkul</form> <pos>n</pos> <number>1</number> <tr>pockmarks</tr> (humorous). <number>2</number> person with pockmarks (humorous). <form>-un</form> <pos>a</pos> having pockmarks (humorous).
 
-<p id=21224><form>&dagger;butu paN-</form> <pos>v</pos> <number>1a</number> <itype>[A2]</itype> develop skin eruptions. <i>Namutu ang ákung líug,</i> I developed skin eruptions. <pos>n</pos> eruptions of the skin caused by tuberculosis of the skin.
+<p id=21224><form>&dagger;butu</form> <form>pa&N;-</form> <pos>v</pos> <number>1a</number> <itype>[A2]</itype> develop skin eruptions. <i>Namutu ang ákung líug,</i> I developed skin eruptions. <pos>n</pos> eruptions of the skin caused by tuberculosis of the skin.
 
 <p id=21225><form>buyna<sub>2</sub></form> <pos>n</pos> black <tr>beret</tr> made of felt. <pos>v</pos> <itype>[A; b6]</itype> wear a beret.
 
@@ -521,7 +522,7 @@
 
 <p id=21229><form>&dagger;byúda &mdash; aligri</form> a flirtatious widow. <i>Nagpalámì uruy ang byúda aligri,</i> Humph! The merry widow seems to be having fun. <pos>v</pos> <itype>[B13]</itype> be, become a flirtatious widow.
 
-<p id=21230><form>&dagger;dágat paN-an(&rarr;)</form> <pos>n</pos> <number>1</number> <tr>fishing boat</tr>. <number>2</number> <tr>fishing grounds</tr>. <pos>v</pos> <itype>[a12]</itype> be made into a fishing boat or fishing ground.
+<p id=21230><form>&dagger;dágat</form> <form>pa&N;-an(&rarr;)</form> <pos>n</pos> <number>1</number> <tr>fishing boat</tr>. <number>2</number> <tr>fishing grounds</tr>. <pos>v</pos> <itype>[a12]</itype> be made into a fishing boat or fishing ground.
 
 <p id=21231><form>&dagger;daghan</form> <pos>v</pos> <number>2</number> <itype>[b8]</itype> put <tr>more than enough</tr> of s.t. <i>Nadaghanan ra sa asin ang ákung linatan,</i> I put <tr>too much</tr> salt into my stew.
 
@@ -1072,7 +1073,7 @@
 
 <p id=21497><form>&dagger;múdus</form> <form>&mdash; upirandi</form> <pos>n</pos> <tr>modus operandi</tr>, system employed for doing s.t., esp. against the law.
 
-<p id=21498><form>&dagger;mutung paN-</form> <pos>v</pos> <itype>[A2]</itype> be, become <tr>violent</tr> when desperate. <i>Nangmutung ang ulitáwu nga wà sugta,</i> The young man became violent because he was spurned.
+<p id=21498><form>&dagger;mutung</form> <form>pa&N;-</form> <pos>v</pos> <itype>[A2]</itype> be, become <tr>violent</tr> when desperate. <i>Nangmutung ang ulitáwu nga wà sugta,</i> The young man became violent because he was spurned.
 
 <p id=21499><form>námun</form> <xr>= <sc>NÁMÙ</sc> (dialectal).</xr> <xr><ix>see</ix> <sc>KAMI</sc>.</xr>
 
@@ -1120,7 +1121,7 @@
 
 <p id=21521><form>panghalwan</form> <pos>n</pos> <tr>barracuda</tr>.
 
-<p id=21522><form>parian</form> <pos>n</pos> a small gathering of people in villages to engage in business on a small scale, gamble, take in entertainments. <pos>v</pos> <number>1</number> <itype>[A1]</itype> hold a <ix>parian</ix>. <form>paN-</form> <pos>v</pos> <itype>[A23]</itype> attend a <ix>parian</ix>.
+<p id=21522><form>parian</form> <pos>n</pos> a small gathering of people in villages to engage in business on a small scale, gamble, take in entertainments. <pos>v</pos> <number>1</number> <itype>[A1]</itype> hold a <ix>parian</ix>. <form>pa&N;-</form> <pos>v</pos> <itype>[A23]</itype> attend a <ix>parian</ix>.
 
 <p id=21523><form>pariti</form> <pos>n</pos> a law granting Americans equal rights with Filipinos in the Philippines.
 
@@ -1370,7 +1371,7 @@
 
 <p id=21645><form>&dagger;sur<sub>1</sub></form> <pos>n</pos> <number>4</number> <tr>south</tr>. <i>Lánaw Sur,</i> South Lanao.
 
-<p id=21646><form>&dagger;surambaw</form> <pos>n</pos> <number>3</number> a large square or rectangular lift net operated with a scareline at night, using a lantern. <form>paN-</form> <pos>v</pos> <itype>[A2; c6]</itype> go fishing with a <ix>surambaw</ix>.
+<p id=21646><form>&dagger;surambaw</form> <pos>n</pos> <number>3</number> a large square or rectangular lift net operated with a scareline at night, using a lantern. <form>pa&N;-</form> <pos>v</pos> <itype>[A2; c6]</itype> go fishing with a <ix>surambaw</ix>.
 
 <p id=21647><form>súrù<sub>2</sub></form> <pos>v</pos> <itype>[A2S; b6]</itype> start <tr>sizzling</tr> or <tr>bubbling</tr> with heat. <i>Magsurù gánì ang tumuy sa agipu kanà timailhan kunu nga may bisíta,</i> If the end of a firebrand starts to exude bubbling juice, it is a sign that visitors are coming. <pos>n</pos> the sizzling or bubbling of s.t. liquid.
 
@@ -1466,7 +1467,7 @@
 
 <p id=21692><form>&dagger;tiniblas</form> <pos>n</pos> <number>2</number> ceremony held on the Wednesday before Easter.
 
-<p id=21693><form>&dagger;tipas</form> <form>paN-</form> <pos>n</pos> a <tr>charm</tr> that renders one bullet-proof.
+<p id=21693><form>&dagger;tipas</form> <form>pa&N;-</form> <pos>n</pos> a <tr>charm</tr> that renders one bullet-proof.
 
 <p id=21694><form>tipli</form> <pos>n</pos> <tr>soprano</tr> voice. <pos>v</pos> <itype>[A; b6]</itype> sing the soprano voice.
 

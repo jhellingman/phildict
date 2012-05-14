@@ -29,6 +29,7 @@
 <!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+<!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
 
 <!ENTITY prime      CDATA "'"            -- prime -->
 <!ENTITY Prime      CDATA "''"            -- double prime -->
@@ -414,7 +415,7 @@
 
 <p id=15485><form>rilis<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[c6]</itype> <tr>set free</tr>. <i>Narilis ang binilanggù,</i> The prisoner was <tr>released</tr>. <number>2</number> <itype>[A; c6]</itype> issue a <tr>permit</tr>, publish test results. <i>Narilis na ang ímung lún,</i> Your loan has been released. <i>Hápit nang irilis ang risulta sa bar,</i> The results of the bar exam are about to be released. <form>pris &mdash;</form> <pos>n</pos> <tr>press release</tr>. <pos>v</pos> <itype>[A; c]</itype> issue a press release.
 
-<p id=15486><form>rilis<sub>2</sub>, rílis</form> <pos>n</pos> <number>1</number> <tr>railway</tr> <tr>tracks</tr>. <number>2</number> district in Cebu where the railroad station used to be, and where there is a red light district. <form>babáyi sa &mdash;</form> <pos>n</pos> <tr>prostitute</tr>. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> <number>1</number> patronize a prostitute. <i>Nangrilis siya kay gibigáan,</i> He went to the red light district because he got the urge to have sex. <number>2</number> go through the area where the railway used to be. <i>Mangrilis tag ági igpaúlì,</i> Let&apos;s go by the railway tracks when we go home.
+<p id=15486><form>rilis<sub>2</sub>, rílis</form> <pos>n</pos> <number>1</number> <tr>railway</tr> <tr>tracks</tr>. <number>2</number> district in Cebu where the railroad station used to be, and where there is a red light district. <form>babáyi sa &mdash;</form> <pos>n</pos> <tr>prostitute</tr>. <form>pa&N;-</form> <pos>v</pos> <itype>[A2]</itype> <number>1</number> patronize a prostitute. <i>Nangrilis siya kay gibigáan,</i> He went to the red light district because he got the urge to have sex. <number>2</number> go through the area where the railway used to be. <i>Mangrilis tag ági igpaúlì,</i> Let&apos;s go by the railway tracks when we go home.
 
 <p id=15487><form>rilisiyun</form> <xr>= <sc>RILASIYUN</sc>.</xr>
 
@@ -596,7 +597,7 @@
 
 <p id=15576><form>rist&acaron;r</form> <xr>= <sc>RISTA</sc>.</xr>
 
-<p id=15577><form>ristawran</form> <pos>n</pos> <tr>restaurant</tr>. <pos>v</pos> <itype>[A1; c1]</itype> engage in a restaurant business; make into a restaurant. <form>paN-</form> <pos>v</pos> <itype>[A2; c]</itype> go to a restaurant.
+<p id=15577><form>ristawran</form> <pos>n</pos> <tr>restaurant</tr>. <pos>v</pos> <itype>[A1; c1]</itype> engage in a restaurant business; make into a restaurant. <form>pa&N;-</form> <pos>v</pos> <itype>[A2; c]</itype> go to a restaurant.
 
 <p id=15578><form>risulta</form> as a <tr>result</tr>. <i>Sígi lang siyag ínum. Risulta, giulsir,</i> He keeps drinking. As a result, he developed an ulcer. <pos>n</pos> <tr>result</tr>. <i>Makaguul ang risulta sa iksámin,</i> The results of the exam are depressing. <i>Mau kanay risulta sa gahiag úlu,</i> That&apos;s what happens to s.o. who is stubborn. <pos>v</pos> <itype>[A23]</itype> result in s.t. <form>-du</form> <pos>n</pos> result of a bad practice or behavior. <i>Ang ímung ulsir risultádu na nà sa sígi nímung pagpagutum,</i> The ulcer you&apos;ve got comes from letting yourself go hungry all the time.
 
@@ -656,7 +657,7 @@
 
 <p id=15606><form>riyumatismu</form> <pos>n</pos> <tr>rheumatism</tr>.
 
-<p id=15607><form>riyunyun</form> <pos>n</pos> <tr>reunion</tr> of a class or family. <pos>v</pos> <itype>[C]</itype> hold a reunion. <i>Magriyunyun ang pamilya káda Pasku,</i> The family holds a reunion every Christmas. <form>paN-</form> <pos>v</pos> <itype>[A2]</itype> attend a reunion.
+<p id=15607><form>riyunyun</form> <pos>n</pos> <tr>reunion</tr> of a class or family. <pos>v</pos> <itype>[C]</itype> hold a reunion. <i>Magriyunyun ang pamilya káda Pasku,</i> The family holds a reunion every Christmas. <form>pa&N;-</form> <pos>v</pos> <itype>[A2]</itype> attend a reunion.
 
 <!-- Entry RPS deviates in using abbreviation -->
 

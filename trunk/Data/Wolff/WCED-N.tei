@@ -21,6 +21,7 @@
 <!ENTITY icaron     CDATA "i&#x030C;"           -- i with caron -->
 
 <!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+<!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
 
 ]><TEI.2 lang=en>
 <teiHeader>
@@ -569,7 +570,7 @@
 
 <p id=13051><form>nukliyar</form> <pos>n</pos> <tr>nuclear</tr>.
 
-<p id=13052><form>núkus</form> <pos>n</pos> <tr>squid</tr>. <form>&mdash; sa ípil</form> <pos>n</pos> k.o. small squid with a caudal fin running the length of the body. <form>&mdash; tarúrut</form> <xr>= <sc>TARÚRUT</sc>, <i>n2.</i></xr> <form>nukusnúkus</form> <pos>v</pos> <itype>[A13]</itype> keep changing one&apos;s mind about agreeing to s.t. <i>Dì ku gustung magnukusnúkus ka. Muuban kag dílì,</i> Make up your mind once and for all. Are you coming or not? <form>paN-</form> <pos>v</pos> <itype>[A2; b6]</itype> go fishing for squids.
+<p id=13052><form>núkus</form> <pos>n</pos> <tr>squid</tr>. <form>&mdash; sa ípil</form> <pos>n</pos> k.o. small squid with a caudal fin running the length of the body. <form>&mdash; tarúrut</form> <xr>= <sc>TARÚRUT</sc>, <i>n2.</i></xr> <form>nukusnúkus</form> <pos>v</pos> <itype>[A13]</itype> keep changing one&apos;s mind about agreeing to s.t. <i>Dì ku gustung magnukusnúkus ka. Muuban kag dílì,</i> Make up your mind once and for all. Are you coming or not? <form>pa&N;-</form> <pos>v</pos> <itype>[A2; b6]</itype> go fishing for squids.
 
 <p id=13053><form>núli</form> <pos>n</pos> Rizal&apos;s novel <ix>Noli Me Tangere</ix>.
 
@@ -633,7 +634,7 @@
 
 <p id=13083><form>núts</form> <pos>n</pos> <tr>notes</tr> taken for future study or reference. <i>Núts sa Písiks,</i> Physics notes. <pos>v</pos> <itype>[A; c]</itype> <tr>take notes</tr>.
 
-<p id=13084><form>*nutsi</form> <form>&mdash; buyna</form> <pos>n</pos> <number>1</number> the night of <tr>Christmas Eve</tr> or the repast prepared for eating at midnight or after mass on Christmas Eve. <number>2</number> <tr>New Year&apos;s Eve</tr>. <pos>v</pos> <itype>[A; c6]</itype> prepare a Christmas Eve meal. <i>Magnutsibuyna lang tag pinubri,</i> We&apos;ll have a simple meal at midnight on Christmas Eve. <form>paN-</form> <pos>v</pos> <itype>[A2; c6]</itype> spend Christmas Eve. <i>dáma di-</i> <ix>see</ix> <xr><sc>DÁMA</sc>.</xr> <form>midiya &mdash;</form> <xr>= <sc>NUTSI BUYNA</sc>, <i>1.</i></xr>
+<p id=13084><form>*nutsi</form> <form>&mdash; buyna</form> <pos>n</pos> <number>1</number> the night of <tr>Christmas Eve</tr> or the repast prepared for eating at midnight or after mass on Christmas Eve. <number>2</number> <tr>New Year&apos;s Eve</tr>. <pos>v</pos> <itype>[A; c6]</itype> prepare a Christmas Eve meal. <i>Magnutsibuyna lang tag pinubri,</i> We&apos;ll have a simple meal at midnight on Christmas Eve. <form>pa&N;-</form> <pos>v</pos> <itype>[A2; c6]</itype> spend Christmas Eve. <i>dáma di-</i> <ix>see</ix> <xr><sc>DÁMA</sc>.</xr> <form>midiya &mdash;</form> <xr>= <sc>NUTSI BUYNA</sc>, <i>1.</i></xr>
 
 <p id=13085><form>núud</form> (from <ix>túud</ix>) <pos>v</pos> <itype>[A13]</itype> <tr>prove true</tr>. <i>Nagnúud ang ákung katáhap,</i> My suspicions proved true.
 
