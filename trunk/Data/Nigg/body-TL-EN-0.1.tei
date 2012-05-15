@@ -1,6 +1,7 @@
 
 
-A
+<div1 type=Letter n=A>
+<head>A</head>
 
 
 
@@ -583,7 +584,10 @@ Azul-a-Blue.
 
 Azul ang mata-a-Blue eyed.
 
-B
+
+
+<div1 type=Letter n=B>
+<head>B</head>
 
 B.-B.
 
@@ -2150,7 +2154,9 @@ gratification.
 Buyain-v-To Reward; satisfy; satiate;
 gratify.
 
-C
+
+<div1 type=Letter n=C>
+<head>C</head>
 
 Cabellería-n-Cavalry.
 
@@ -2180,7 +2186,9 @@ Cornetin-n-Cornet.
 
 Cuartel-n-Barrack.
 
-D
+
+<div1 type=Letter n=D>
+<head>D</head>
 
 Daan-n-Road; street; lane; gangway; place;
 spot; time; occasion; leisure; itinerary.
@@ -3086,7 +3094,10 @@ Duyan n~g lubid-n-Swing.
 
 Duyo n~g bilanguan-n-Dungeon.
 
-E
+
+<div1 type=Letter n=E>
+<head>E</head>
+
 
 Edad-n-Age.
 
@@ -3100,7 +3111,10 @@ Espada-n-Sword.
 
 Europa-n-Europe.
 
-F
+
+<div1 type=Letter n=F>
+<head>F</head>
+
 
 Favor-n-Favor; boon.
 
@@ -3116,7 +3130,10 @@ Freno-n-Bridle.
 
 Frenohan-v-To bridle; curb.
 
-G
+
+<div1 type=Letter n=G>
+<head>G</head>
+
 
 Gaan-n-Lightness; levity; celerity.
 
@@ -3813,7 +3830,11 @@ Gutom-a-Hungry.
 
 Gutumin-v-To make hungry; starve.
 
-H
+
+
+<div1 type=Letter n=H>
+<head>H</head>
+
 
 Haba-n-Length.
 
@@ -5076,7 +5097,13 @@ Hutukin-v-To arch; bend; curve.
 
 Huwarin-v-To imitate; copy; simulate.
 
-I
+
+
+
+
+<div1 type=Letter n=I>
+<head>I</head>
+
 
 Iabang-v-To wait for; watch for;
 await.
@@ -5107,9 +5134,6 @@ Ibabá-v-To lower; put down.
 Iba,t, iba-a-Various.
 
 <pb n=66>
-
-
-I
 
 Ibabala-v-To explain; announce; anticipate;
 foretell; signify.
@@ -6502,7 +6526,10 @@ Iyakod-v-To humble; lower.
 
 
 
-J
+
+<div1 type=Letter n=J>
+<head>J</head>
+
 
 Jelea-n-Jelly; jam.
 
@@ -6515,7 +6542,11 @@ Judio-a-Jewish; Jew; hebrew.
 Jumento-n-jackass; ass.
 
 
-K
+
+
+<div1 type=Letter n=K>
+<head>K</head>
+
 
 Ka-pro.-You; thee.
 
@@ -9411,7 +9442,11 @@ Kutuhin-n-Lousy.
 
 Kutuhin-v-To become lousy.
 
-L
+
+
+<div1 type=Letter n=L>
+<head>L</head>
+
 
 Laan-n-Secret; reserve.
 
@@ -10876,7 +10911,8 @@ Lutuin sa mantika-v-To fry.***
 
 
 
-M
+<div1 type=Letter n=M>
+<head>M</head>
 
 
 Maaaring ipahintulot-a-Permissible;
@@ -16327,7 +16363,10 @@ Mutya n-Love;
 Mutyang a-Beloved; dear, darling.
 
 
-N
+
+<div1 type=Letter n=N>
+<head>N</head>
+
 
 Na-prop-.Who; which; that, whom.
 
@@ -17422,13 +17461,16 @@ Nuynoyin-v-To explore; examine; name,
 specify.
 
 
-O
+
+<div1 type=Letter n=O>
+<head>O</head>
+
 
 Octubre-n-October.
 
 Onza-n-Ounce.
 
-Oo adv-Yes; sure, aye: yea; indeed.
+Oo-adv-Yes; sure, aye: yea; indeed.
 
 O opo-adv. Yes sir; yes-ma'am.
 
@@ -17456,7 +17498,11 @@ scoff; hoax.
 
 Oyamin.-v-To ridicule, scoff, jeer.
 
-P
+
+
+<div1 type=Letter n=P>
+<head>P</head>
+
 
 Pa-adv.-Yet; still, notwith standing.
 
@@ -22714,54 +22760,8 @@ Puta-n Whore; harlot; prostitute.
 
 Putakti n-Hornet; wasp; yellow jacket.
 
-Q
-
-Queso n-Cheese.
-
-R
-
-Rabo-n-Mortise.
-
-Regla n-Rule; order; precept; method.
-
-Religion-n-Religion; faith; creed; belief.
-
-Retaso-n-Remnant.
-
-S
 
 
-Sa-prep.-To; of; from; with; at; for; on;
-or; about; through; towards; in.
-
-Sa aba ko inter. Poor me; unlucky me;
-pity me.
-
-Saan adv. Where; whither; to or at what
-place.
-
-Saan banda -adv.- Where; whither, at
-what place; at which side.
-
-Saan man adv.-Whereever; everywhere;
-anywhere.
-
-Sabado n Saturday.
-
-Sabak-n-Crotch joint; mortise; groove.
-
-Sa balasan n Northwind.[**huh?]
-
-Sabarin-v-To vex; harrow: perturb; disturb;
-interrupt; interfere; disgust.
-
-Sabat-n-Wedge.
-
-Sabatan-v-To Wedge; split with a
-wedge.
-
-Sabatin-v-To ambush; ambuscade; lay
-in wait; meet; encounter.
 
 <pb n=248>
 
@@ -22800,11 +22800,28 @@ Puyat-a- Sleepless.
 
 Puyatin-v- To keep awake.
 
-Q
+
+
+<div1 type=Letter n=Q>
+<head>Q</head>
+
+
+Queso n-Cheese.
 
 Quitá&mdash;You, by me.
 
-R
+
+<div1 type=Letter n=R>
+<head>R</head>
+
+
+Rabo-n-Mortise.
+
+Regla n-Rule; order; precept; method.
+
+Religion-n-Religion; faith; creed; belief.
+
+Retaso-n-Remnant.
 
 Retrato-n- Portrait; picture.
 
@@ -22816,7 +22833,42 @@ Rigudon-n- Quadrille; cotillon.
 
 Rin-adv.- Also; too; self same; similarly
 
-S
+
+<div1 type=Letter n=S>
+<head>S</head>
+
+
+Sa-prep.-To; of; from; with; at; for; on;
+or; about; through; towards; in.
+
+Sa aba ko inter. Poor me; unlucky me;
+pity me.
+
+Saan adv. Where; whither; to or at what
+place.
+
+Saan banda -adv.- Where; whither, at
+what place; at which side.
+
+Saan man adv.-Whereever; everywhere;
+anywhere.
+
+Sabado n Saturday.
+
+Sabak-n-Crotch joint; mortise; groove.
+
+Sa balasan n Northwind.[**huh?]
+
+Sabarin-v-To vex; harrow: perturb; disturb;
+interrupt; interfere; disgust.
+
+Sabat-n-Wedge.
+
+Sabatan-v-To Wedge; split with a
+wedge.
+
+Sabatin-v-To ambush; ambuscade; lay
+in wait; meet; encounter.
 
 Sabaw-n- Broth.
 
@@ -24630,7 +24682,9 @@ Suyod-n-Fine haircomb.
 
 Suyurin-v-To comb with a fine comb.
 
-T
+
+<div1 type=Letter n=T>
+<head>T</head>
 
 Taan-n-Reserve; exception; secret; caution.
 
@@ -26600,7 +26654,8 @@ Tuyuin-a-To dry; dessicate.
 
 
 
-U
+<div1 type=Letter n=U>
+<head>U</head>
 
 Uban-a-Hoary; gray headed; white.
 
@@ -27233,7 +27288,8 @@ scathe; make fun of.
 
 
 
-V
+<div1 type=Letter n=V>
+<head>V</head>
 
 Varnis-n-Varnish.
 
@@ -27266,7 +27322,8 @@ Voluntarios-n-Volunteer.
 Voto-n-Vote.
 
 
-W
+<div1 type=Letter n=W>
+<head>W</head>
 
 Wágas-a-Neat; pure; clean; clear; free;
 innocent; virtuous; genuine.
@@ -27571,42 +27628,6 @@ mean; ignorant.
 Walang tuto-a-Ignorant; dumb; silly;
 unlearned; foolish.
 
-Y
-
-Yabag-n-Footstep; tread; noise of a
-footstep.
-
-Yagyag-n-Trot.
-
-Yacap-n-Hug; embrace.
-
-Yacapin[**sp?]-v-To hug; embrace; imbosom [**Spelling: "embosom"?].
-
-Yaman-n-Riches; mammon.
-
-Yaman-adv-Since; well; then; now; that.
-
-Yaman-prep-Therefore.
-
-Yamut-n-Disgust; abhorrence; molestation;
-displeasure; impatience; vexation;
-loathing; disturbance; chafe;
-disquiet; distaste.
-
-Yamuan-n-Rasure; scrapings; filings;
-parings.
-
-Yamutin-v-To disturb; displease; vex;
-molest; irritate; worry; bother; disgust.
-
-Yangyan~gan-n-Place of stretching anything;
-stretcher.
-
-Yanig-n-Oscillation; vibration; shake;
-trembling; wave.
-
-Yanigin-v-To wave; shake.
-
 <pb n=298>
 
 Walang ulo-a-Headless.
@@ -27668,7 +27689,42 @@ Wisikan-v-To sprinkle; water; spray.
 
 
 
-Y
+<div1 type=Letter n=Y>
+<head>Y</head>
+
+Yabag-n-Footstep; tread; noise of a
+footstep.
+
+Yagyag-n-Trot.
+
+Yacap-n-Hug; embrace.
+
+Yacapin[**sp?]-v-To hug; embrace; imbosom [**Spelling: "embosom"?].
+
+Yaman-n-Riches; mammon.
+
+Yaman-adv-Since; well; then; now; that.
+
+Yaman-prep-Therefore.
+
+Yamut-n-Disgust; abhorrence; molestation;
+displeasure; impatience; vexation;
+loathing; disturbance; chafe;
+disquiet; distaste.
+
+Yamuan-n-Rasure; scrapings; filings;
+parings.
+
+Yamutin-v-To disturb; displease; vex;
+molest; irritate; worry; bother; disgust.
+
+Yangyan~gan-n-Place of stretching anything;
+stretcher.
+
+Yanig-n-Oscillation; vibration; shake;
+trembling; wave.
+
+Yanigin-v-To wave; shake.
 
 Yano-a-Average; regular; even; ordinary;
 mediocre; plain; flat; neither good

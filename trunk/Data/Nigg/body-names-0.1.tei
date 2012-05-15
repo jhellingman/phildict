@@ -1,6 +1,7 @@
 <pb n=301>
 
-MAN~GA PAN~GALAN
+<div1>
+<head>MAN~GA PAN~GALAN</head>
 
 
 Adan-n-Adam.
@@ -163,8 +164,8 @@ Ysayas-n-Isaiah.
 Zoilo-u[**n]-Zoilus.
 
 
-
-MAN~GA BUAN
+<div1>
+<head>MAN~GA BUAN</head>
 
 
 Enero-n-January.
@@ -182,7 +183,8 @@ Deciembre-n-December.
 
 
 
-MAN~GA ARAW 
+<div1>
+<head>MAN~GA ARAW</head>
 
 
 Lingo-n-Sunday.
@@ -197,8 +199,8 @@ Sábado-n-Saturday.
 
 <pb n=305>
 
-
-PROPER NAMES
+<div1>
+<head>PROPER NAMES</head>
 
 
 Adam-n-Adam.
@@ -367,7 +369,8 @@ Zoilus-n-Zoilo.
 
 
 
-Months of of the year
+<div1>
+<head>Months of of the year</head>
 
 
 January-n-Enero.
@@ -384,7 +387,8 @@ November-n-Noviembre.
 December-n-Diciembre.
 
 
-Days of of the week
+<div1>
+<head>Days of of the week</head>
 
 Sunday-n-Lingo.
 Monday-n-Lunes.
