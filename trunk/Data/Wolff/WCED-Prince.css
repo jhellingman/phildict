@@ -167,6 +167,17 @@
         /* page-break-before: always; */
     }
 
+	.titlePage, #frontmatter .div1, #backmatter .div1
+	{
+		page-break-before: always;
+	}
+
+	#series
+	{
+		margin-left: 30mm;
+		margin-right: 30mm;
+	}
+
     div.letter h2.main
     {
         font-size: 48pt;

@@ -87,7 +87,7 @@
 </revisionDesc>
 </teiHeader>
 <text>
-<front>
+<front id=frontmatter>
 <div1 type=Introduction id=series>
 <head>THE CORNELL UNIVERSITY SOUTHEAST ASIA PROGRAM</head>
 
