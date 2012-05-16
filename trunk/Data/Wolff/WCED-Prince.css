@@ -92,6 +92,8 @@
 
     @page body:right
     {
+        margin: 15mm 20mm;
+
         @top-right
         {
             content: string(termstr, first) " \2013\0020" string(termstr, last);
@@ -107,6 +109,8 @@
 
     @page body:left
     {
+        margin: 15mm 20mm;
+
         @top-right
         {
             content: "A Dictionary of Cebuano Visayan";

@@ -44,6 +44,9 @@ sub processAll
     system ("$saxon WCED-complete.xsl WCED-complete.xsl > WCED-complete.xml");
     system ("perl -S tei2html.pl WCED-complete.xml");
 
+    # Generate PDF version
+    system ("perl -S tei2html.pl -p -c=WCED-Prince.css WCED-complete.xml");
+
     # Generate SQL for database
     system ("$saxon WCED-collect.xsl WCED-collect.xsl > WCED-structural.xml");
     system ("$saxon WCED-structural.xml WCED-db.xsl > output/WCED-db.sql");
