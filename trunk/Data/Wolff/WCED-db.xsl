@@ -102,6 +102,23 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     KEY `word` (`word`)
 );
 
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
+(
+    `noteid` int(11) NOT NULL auto_increment,
+    `entryid` int(11) NOT NULL,
+    `userid` int(11) NOT NULL,
+    `date` int(11) NOT NULL,
+    `ip` varchar(16) NOT NULL default '',
+    `note` text NOT NULL default '',
+    `public` char(1) NOT NULL default 'F',
+
+    PRIMARY KEY (`noteid`),
+    KEY `entryid` (`entryid`),
+    KEY `userid` (`userid`),
+    KEY `date` (`date`)
+);
+
+
 </xsl:template>
 
 
