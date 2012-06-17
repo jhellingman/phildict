@@ -1,52 +1,10 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
+=== Y ===
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-Y
-
-
-{y} particle showing grammatical relations. {1} subject marker in
+y particle showing grammatical relations. {1} subject marker in
 sentences with nominal, pronomial, numerical, or interrogative
 predicates. Kinsay muuban nákù? Who will go with me? Siyay muadtu, He
 is the one who will go. Si Huway ákung paadtúun, I’ll send John. Duhay
@@ -1068,8 +1026,6 @@ porridge.
 yúturn n {1} U-turn. {2} sign prohibiting a U-turn. v [A2; c6] make a
 U-turn.
 
-
-
 yutyut_1 a {1} baggy and wrinkly around the waist. Yutyut kaáyu nga
 karsúnis nga dakù ug pila ka sukud pára níya, A very baggy pair of
 pants several sizes too big for him. {2} = yatyat_2. -un(→) a of a
@@ -1086,9 +1042,3 @@ yùyù a sagging, drooping. Yùyù ang abága sa pildíru, His shoulders are
 drooping because he is sad after he lost. v [B126; c16] sag, droop.
 Nayùyù ang hayhayan tungud sa kabug-at sa hinayhay, The clothesline
 sagged under the weight of the wash.
-
-
-
-
-
-

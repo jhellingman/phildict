@@ -1,40 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-M
+=== M ===
 
 
 ma n short for the vocative of máma, ‘mother’.
@@ -705,8 +672,6 @@ a long time by kicking the shuttlecock far away.
 malubgas n k.o. small anchovy with a dark blue dorsal region and
 silvery white on its ventral region, widely eaten preserved in salt.
 
-
-
 maluíbun n name given to ornamental climbing vines with dark green or
 yellow green cordate leaves, often grown indoors: Scindapsus aureus and
 Philodendron oxycardium.
@@ -1195,8 +1160,6 @@ without the benefit of a church wedding.
 mansinítas = mansanítas.
 
 mansiyun n mansion.
-
-
 
 mansu v [A; a] {1} break in a work animal. Si Dyígu ray makamansu ning
 kabayúa, Only Diego can tame this horse. {2} train, discipline s.o.
@@ -1739,8 +1702,6 @@ masyadur see masiyar.
 
 masyaw n yellow corn.
 
-
-
 mat n mat for gymnastics.
 
 mát n math, a subject in school.
@@ -2170,8 +2131,6 @@ the book because he was the only one there. Who else could have? Kan-un
 giyud ni níya. May láin pa? He’ll eat this, don’t worry. Would he fail
 to do so!
 
-
-
 máya n k.o. small bird found in rice fields, the chestnut mannikin:
 Lonchura malacca. — nga bungul n k.o. brown-colored maya which is
 believed to be deaf because it is not easily disturbed or afraid of
@@ -2579,8 +2538,6 @@ going to mimeograph the program. tig- n mimeographer.
 mína_1 n {1} mine, mineral deposit. {2} explosive mine. v [A; a2] mine
 a mineral deposit. minahan n mine. Túa siya magtrabáhu sa minahan, He
 is working in the mine. minahun n mineral deposit to be mined.
-
-
 
 mína_2 n situation in pool wherein two or more balls are in contact
 with each other and the one in the back is directly in line with one of
@@ -3482,8 +3439,6 @@ munti_2 n monte, k.o. card game. v [A2C; b6] play monte.
 muntinglúpà n Muntinlupa, national penitentiary of the Philippines.
 v [B1256] be sent to Muntinlupa.
 
-
-
 muntúra n {1} saddle. Lisud ang magkabayù nga way muntúra, It’s
 difficult to ride a horse without a saddle. {2} seat of a bicycle.
 v [c] mount s.t. on s.t., usually so as to put it in full view. Kamira
@@ -3597,8 +3552,6 @@ of money. v [B1256; a2] be, become a muse; make s.o. the muse.
 musgut v [A; c1] pout and frown from annoyance. Mimusgut siya nga ákung
 gisúgù, She frowned when I sent her on an errand. -un(→) a always
 frowning in countenance.
-
-
 
 musì n name given to an edible k.o. pufferfish with no spines.
 
@@ -3803,9 +3756,3 @@ as a course. {3} go, word uttered by a conductor of a passenger vehicle
 to signal the driver to drive off. Dihang misinggit ang kunduktur ug
 myúsik, mipabulhut dáyun ang draybir, When the conductor shouted
 ‘music, maestro’, the driver immediately took off.
-
-
-
-
-
-

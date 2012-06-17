@@ -1,41 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-
-I
+=== I ===
 
 
 i_1 {1} — midiya half past. Alas tris i midiya, Three-thirty.
@@ -170,8 +136,6 @@ nag-ibis sa ákung mangga? Who sliced a piece off my mango?
 íbit v [A; b(1)] get a share of s.t. s.o. has (usually used in negative
 sentences). Ayawg tagúa nang ímung gikaun kay dì ku muíbit ánà, Don’t
 hide the food you’re eating because I won’t take any of it from you.
-
-
 
 ibud v [A; b6(1)] {1} put grain before fowl to feed them. {2} feed
 grains into a stone mill. {3} put grains into a hole in the ground to
@@ -733,8 +697,6 @@ v [A2] attend a spiritual retreat.
 ihirsitu n one’s own children. Nag-alinupung ang ákung mga ihirsitu, My
 children come one next to the other. -s = ihirsitu (plural).
 
-
-
 íhu_1 term of address for son or s.o. whom one considers his son. —
 dibastardu illegitimate child. — dipúta mother-fucker, a vulgar
 appellation for a person at whom one is very angry. Gisúnug sa íhu
@@ -1031,8 +993,6 @@ fixed routes.
 
 ikspurtadur n exporter. v [B156] be an exporter.
 
-
-
 ikspús v [A; c6] expose films.
 
 ikspusisiyun n exposition.
@@ -1126,8 +1086,6 @@ embarrassed. Nagpangikug siyang misaka sa báy, He felt terribly
 embarrassed as he went into the house. ilikgan, ikgánun a easily
 feeling hesitation. ka- n feeling of shyness to ask or refuse a favor.
 
-
-
 kailikgan n person whom one hesitates to approach or refuse. Kailikgan
 ku nà siya kay bugtung igsúun sa ákung Máma, I can never turn him down,
 for he is my mother’s only brother. ma-un(←) a characterized by
@@ -1220,8 +1178,6 @@ believe you. maN-r-(→) n swindler.
 iláda = hiláda.
 
 iládu {1} see ila_1. {2} = hiláda.
-
-
 
 iladur = hiladur, see hiláda.
 
@@ -3112,8 +3068,6 @@ irgu_2 therefore, as a consequence we may conclude that. Miingun ka wà
 ka mulakaw. Irgu, dihà ra ka sa balay, You said you did not leave.
 Therefore, you were in the house.
 
-
-
 irgutína n k.o. medicine to prevent hemorrhage after childbirth.
 
 irgu trit n ergot, k.o. drug to make the muscles contract.
@@ -3529,8 +3483,6 @@ iskríba n scribe.
 iskribánu n clerk of court. v [B1256; a12] be, make into a clerk of
 court.
 
-
-
 iskribinti, iskribyinti n clerk, esp. a government clerk. v [B16; c1]
 be, become a clerk.
 
@@ -3725,8 +3677,6 @@ show slides. {2} [c6] put a slide under a microscope.
 isláyis v [A; a] slice off, cut into slices. Akuy muisláyis sa pán,
 I’ll slice the bread. Islaysan ta kag kík, I’ll slice a piece of cake
 for you. n slice, piece cut off. a sliced.
-
-
 
 isliblis a sleeveless dress or blouse. v [A13; c1] wear, make into a
 sleeveless dress or blouse.
@@ -4255,8 +4205,6 @@ istíkir n sticker. v [b6(1)] paste a sticker on s.t.
 
 istilítu n stiletto, a small dagger-like instrument used for making
 holes in cloth to be embroidered. v [c6] use s.t. as a stiletto.
-
-
 
 istilmáting n steel sheets laid on soft ground for vehicles or
 temporary airstrips. v [A13; b6] surface with steel matting.
@@ -4912,7 +4860,3 @@ nag-iyut sa míd? Did you screw the maid? íyut ta, yuta coarse
 interjection of disbelief. Yuta! Mu nay íyang gisulti apan dì ku mutúu,
 My foot! That’s what he says, but I don’t believe it. pala-(→) a having
 great appetite for screwing.
-
-
-
-

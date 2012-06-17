@@ -1,47 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-T
+=== T ===
 
 
 ta_1 see kita.
@@ -218,8 +178,6 @@ nawung, She has a finely-shaped face. (→) n {1} style of dress. Minugbù
 ang tabas sa sinínà karun, Short dresses are the style now. {2} k.o.
 cock feather coloration of a splotch of darker color on a light field.
 -in-an(→) n the style of a particular article of clothing.
-
-
 
 tábaw n joist, parallel board to which the floor boards are nailed.
 v [A3; c] put in joists. Ang báhì sa pugáhan lig-un itábaw, The core of
@@ -1670,8 +1628,6 @@ takmag v [A; b(1)] for a male animal to mount on the female. Basta
 mangúlag ang anay, mutakmag giyud ang butù, If the sow is in heat, the
 male will mount her.
 
-
-
 takmù_1 v [a3b8] hit one’s chin on s.t. Natakmù ku sa kurdísu
 pagkatumba nákù, I hit my chin on the window sill when I fell down.
 
@@ -2006,8 +1962,6 @@ talantun (not without l) n talent, the unit of weight (Biblical).
 talapya (not without l) = tilapya.
 
 tálas = patálas.
-
-
 
 talatala (not without l) a foolish, slightly crazy. Talatala, ngánung
 giusíkan nímu, Stupid! Why are you wasting it? n {1} k.o. small frog
@@ -2397,8 +2351,6 @@ because they were left unironed. -un(→) a mildewed, freckled.
 talumus (from lumus—not without l) n anything used to cover the body
 when bathing. v [A; c1] put on s.t. during bath. Dílì magtalumus ang
 mga bátang mangalígù, Children don’t put on anything when they swim.
-
-
 
 talun n {1} pad of paper. {2} booklet of s.t. Gihurut kug palit ang usa
 ka talun nga tíkit sa swipstik, I bought a whole booklet of sweepstake
@@ -3446,8 +3398,6 @@ used as a spice: Andropogon citratus. v [A; b6] season with tanglad.
 tanglas a smooth to the throat when drunk or taken as medicine. Maháwut
 ug tanglas nga tubà, Mellow and smooth palm toddy. ma- = tanglas.
 
-
-
 tangpi = tampi.
 
 tangsà_1 v [B; b6] be, become very thin, emaciated. Magtangsà
@@ -4177,8 +4127,6 @@ n cockfighting enthusiast. -un(→) a a perfect match, ideal for pairing
 off in marriage. Ikaw duktur ug siya nars; tariun giyud mu kaáyu,
 You’re a doctor and she’s a nurse; you are a perfect match.
 
-
-
 tarik n {1} outrigger boom, the poles to which the floats are attached.
 {2} penis (slang). v [a] put, make into an outrigger boom.
 
@@ -4368,8 +4316,6 @@ tastas v [A; a] undo stitches. Tastása ang tahì sa sákung himúung
 hábul, Undo the stitches of the sacks to make them into a blanket.
 a stitches that came undone.
 
-
-
 táta n {1} father, address of respect to a father, esp. among Muslims.
 {2} address of respect to an old man, esp. a close relative. v [A; a]
 address or call s.o. táta.
@@ -4500,8 +4446,6 @@ the five teams, their score was the lowest.
 tausduk v [B4; c1] be piled or heaped high. Nagtausduk ang labhanan sa
 palanggána, The laundry is piled high in the basin. Ayawg tausdúka
 (itausduk) ang kan-un sa plátu, Do not heap the food on the plate.
-
-
 
 tawa a jovial of face or visage. Ang táwu nga tawa (matawa) ug
 panagway, A person of joyful mien. ma- = tawa. ka-(←) v [A2S; b3C5]
@@ -4916,8 +4860,6 @@ affected with this rot.
 
 tíbak_2 = tíbin.
 
-
-
 tibaknul = tibagnul.
 
 tibalas n the Schach shrike: Lanius nasutus.
@@ -5198,8 +5140,6 @@ uruy ang báyut, There goes the sissy pretending to be tough.
 
 tigasub, tigásub = tikasub, tikásub.
 
-
-
 tígaw_1 v [A; a1] disturb, break up the quiet, serenity, or stillness
 of. Ang butu mauy mitígaw sa kamíngaw sa kagabhíun, The explosion
 disturbed the stillness of the night. Ayawg tigáwa ang duut sa isdà,
@@ -5297,8 +5237,6 @@ tigkung a stooped and thin. v [B] become stooped and thin. Nagkatigkung
 siya sa íyang sakit, She’s wasting away with her sickness.
 
 tig-l- alternant prefix to tig-r-, but of more limited distribution.
-
-
 
 tigma = tingba. see tingub, v1.
 
@@ -6768,8 +6706,6 @@ v [B246] make a tiny popping sound when squashed. Mutínù ang búhì nga
 lusà kun tusdun, Unhatched eggs of head lice will make a tiny popping
 sound when you press them between your thumbnails.
 
-
-
 tínù_2 v [A; a12] ascertain, verify. Tinúang way bantay inigsulud nátù,
 Be sure there’s no guard when we break in. a absolutely certain. Tínù
 nang kadaúgan. Dílì malális, We most certainly will win. There is no
@@ -7130,8 +7066,6 @@ tirminu ning ákung byáhi kay nag-agad sa panahun, My trip has no fixed
 date. It depends on the weather. v [A; c] give a term, name. Unsay
 maáyung itirminu ánang sakíta? What would be a good term for that
 disease?
-
-
 
 tirmumitru n thermometer.
 
@@ -8090,7 +8024,6 @@ same. {2} [B1256; b6] become, be chief. (→) term of address to s.o.
 superior in authority, particularly a law officer. Wà táwun ku mangáwat
 tsip, I didn’t steal anything, officer.
 
-
 tsipi short form: tsi. expression used to drive away cats. Tsipi!
 Nagpanan-aw na pud ning irínga sa pinirítung isdà, Scat! That cat is
 looking at the fried fish.
@@ -8100,7 +8033,6 @@ tsipun n {1} chiffon fabric or cloth material. {2} chiffon cake.
 tsíris = siráli.
 
 tsirman n chairman. v [AB56; c1] be chairman.
-
 
 tsís_1 = tsísir. -ir n chaser taken after liquor. v [A13; c] have a
 chaser. Túbig lay átung itsísir kay way kúk, We will just have water as
@@ -8207,8 +8139,6 @@ group broke into boisterous laughter when he told them s.t. funny.
 
 túab n neckhole or armholes in a dress. v [A; b6(1)] cut the neckhole
 or armhole of a garment.
-
-
 
 tuagsik = tuásik.
 
@@ -8462,8 +8392,6 @@ n {1} spring. {2} source of s.t. that gushes in abundance. Diyus nga
 tuburan sa kalúuy, All-merciful (lit. giver of all mercy) God. tinubdan
 n source, origin. Tinubdan sa sapà, The brook’s source. Tinubdan sa
 balità, Source of news.
-
-
 
 tubug n k.o. medium-sized tree having small, round, green, inedible
 fruits in bunches growing directly from the trunk and branches: Ficus
@@ -8842,8 +8770,6 @@ coin.
 tugpù_2 v [A; a1] tease unmarried people by pairing them off. Ug akuy
 mutugpù, magkadáyun giyud pagkaminyù, If I tease people by pairing them
 off in marriage, they end up getting married.
-
-
 
 tugsad v [A2; b6] hit, reach the ground from an elevated position.
 Milayat siya ug didtu mutugsad sa píkas tampi, He jumped and landed on
@@ -9298,8 +9224,6 @@ tuklung a for rice or corn to have overripe grains. Tukung na kaáyu ang
 humay nga wà maáni dáyun, The rice in the fields is bent over now
 because it was not harvested right away. v [B12; b6] get grains that
 are overripe.
-
-
 
 tuklus v {1} [A; c] hand s.t. to s.o. Ituklus ang suwat, Hand over the
 letter. {2} [b5] = paN-. paN- [A; b] {1} go to a banquet with the
@@ -9927,8 +9851,6 @@ tumbálay = tungbálay.
 
 tumbalik = sumbalik.
 
-
-
 tumbáling v [a12] pay attention. Tumbalínga ang ákung tambag, Heed my
 advice. Ngánung tumbalíngun ka nákù? Si kinsa man ka? Why should I obey
 you. Who are you anyway? Ayaw tumbalínga ang íyang mga sugsúg, Don’t
@@ -10028,8 +9950,6 @@ the flag.
 tumur n tumor. v [B126; b4] become, have a tumor. Pusibling matumur ang
 bun-ug, A bruise may turn into a tumor. Gitumuran ang íyang tútuy, She
 got a tumor on her breast.
-
-
 
 tumus n {1} second growth of the edible roots of a sweet potato. Gagmay
 ning amutíha kay tumus ni, These sweet potatoes are small because they
@@ -10450,8 +10370,6 @@ apply this lotion. Tuníki siya arun mahumut, Put perfume on her so she
 will smell good. paN- v [A2; c6] apply this lotion to oneself.
 
 *tuniku bínu — istumakal n an old medicinal liquor.
-
-
 
 tunil_1 n bamboo palm toddy container of two nodes.
 
@@ -11108,8 +11026,6 @@ tútuk_2 v [A; b6] stare. Nagsiga íyang mata nga mitútuk nákù, He stared
 at me with his eyes blazing. Itútuk ímung mga mata sa kahitas-an, Fix
 your eyes to the heavens. -in-ay v [C; c3] stare at each other.
 
-
-
 tutul, tútul v [A2; b(1)] object. Ug way mututul, aprubádu na ang
 musiyun, If no one objects, the motion is approved. Unsang partíha sa
 risulusiyun ang ímung gitutúlan? What part of the resolution are you
@@ -11581,9 +11497,3 @@ tyusupíya n theosophy.
 
 tyútur n tutor. v [AB156; b(1)] tutor s.o., be a tutor. Sayun siyang
 tyutúran kay brayit, It’s easy to tutor him because he is bright.
-
-
-
-
-
-

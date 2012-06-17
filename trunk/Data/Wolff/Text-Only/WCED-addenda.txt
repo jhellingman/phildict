@@ -1,57 +1,14 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-
-
-ADDENDA
+=== ADDENDA ===
 
 Forms marked with a dagger have already been entered in the main
 portion of the dictionary, and what is listed here should be studied in
 conjunction with the main entry.
 
+
+==== A ====
 
 †ab-ab v [B; b6] for a fire to be blazing. Miab-ab (naab-ab) na ang
 káyu pag-abut sa bumbíru, The fire was already ablaze when the firemen
@@ -136,8 +93,6 @@ him. Nangagáwun ang ákung singsing nga narimáti kay aku ra gihápuy
 nakapalit sa pagsubasta, My ring must consider me its master, because
 after I pawned it and failed to redeem it, I still got it back at the
 auction.
-
-
 
 †agaw ig-(←) ug ikatrayinta idús ug tungà (humorous) one’s fiancee
 (lit. thirty-second and a halfth cousin).
@@ -224,8 +179,6 @@ when it runs fast.
 aliyunyun (from yunyun) n an insect similar to a spider, of light
 dirty-brown color, having long spindly legs, so called because it moves
 its body up and down when it is disturbed.
-
-
 
 almahadun = almuhadun.
 
@@ -488,6 +441,8 @@ ay-ar it n a recently introduced variety of rice, the IR-8 miracle
 rice.
 
 
+==== B ====
+
 báag_2 = bálag.
 
 báag_3 n a small preparation of food for a get-together. Ug dúnay báag
@@ -653,8 +608,6 @@ warned her not to go out with that man all the time.
 †bandu_2 n {2} place where a group of people united for a common
 purpose meet. Bandu Usminya, The place where the followers of Osmeña
 meet.
-
-
 
 †bangdaybangday n {2} children’s game of flicking rubber bands by turns
 wherein one wins a rubber band if it lands lying over the opponent’s.
@@ -875,8 +828,6 @@ unud.’—‘Bū́tangi,’ ‘What a tightwad! He asks for gravy but won’t b
 the meat it’s supposed to go with.’—‘OK, you win (I can’t answer
 that).’
 
-
-
 †butar v {2} [A2; b6] favor or give one’s approval to s.o. or s.t.
 Mubutar ku kun duktúra ímung pangasaw-un, I would approve if you
 married a doctor. Dílì sad ku makabutar ánang idíya nga muwilga ta, I
@@ -907,6 +858,9 @@ late so long as it is a good catch.)
 †byúda — aligri a flirtatious widow. Nagpalámì uruy ang byúda aligri,
 Humph! The merry widow seems to be having fun. v [B13] be, become a
 flirtatious widow.
+
+
+==== D ====
 
 †dágat paN-an(→) n {1} fishing boat. {2} fishing grounds. v [a12] be
 made into a fishing boat or fishing ground.
@@ -1004,8 +958,6 @@ have a total rest).
 dátù_3 n k.o. crudely distilled medicinal liquor of local make.
 
 dawa v [B46; b6] for the blood in a dish of dugùdugù to curdle.
-
-
 
 dawungdung a, v1, 2 = dagungdung. {3} = dayungyung.
 
@@ -1107,6 +1059,9 @@ lorry. {3} acronym for galvanized iron.
 dyú term of address to American men (from the WW II appellation of
 American GI’s). Máni, dyú, Give me money, Joe.
 
+
+==== G ====
+
 †gabíi gabíing gabhiúna exactly last night. Gabíing gabhiúna mukrás ang
 ayruplánu, The plane crashed just last night.
 
@@ -1115,8 +1070,6 @@ kay wà kuy gabing, I can go out anywhere because there is no one I have
 to stay home for.
 
 gábing = gabling.
-
-
 
 gái short for tagái. see *tágà.
 
@@ -1196,6 +1149,8 @@ siya, He used to fool around with his studies, but now he is serious. a
 following the straight and narrow.
 
 
+==== H ====
+
 hábir sak n knapsack.
 
 †hagkut — ug kamut light-fingered. Ayaw isayàsayà ang ímung kwarta kay
@@ -1234,8 +1189,6 @@ maglupad, He is a good shot. He can fell a bird on the wing.
 hapaag v [A; b5] playfully jump on s.o. Natumba ming duha kay mihapaag
 man siya nákù nga walà ku kabantay, We both fell to the ground because
 he jumped on me when I wasn’t looking.
-
-
 
 †hapnut a {2} for a mixture of solids and liquids to be smooth and
 stiff. v [B; a12] be, become smooth and thick. Muhapnut ang sikwáti ug
@@ -1333,6 +1286,8 @@ blister on her arm when she spilled hot water on it.
 
 †huwis — diprimir istansiya n judge in the Court of First Instance.
 
+
+==== I ====
 
 †igurut {2} euphemism for ignuranti.
 
@@ -1465,8 +1420,6 @@ one does not belong to.
 istritkat n straight cut pants. v [c16] tailor trousers in the straight
 cut style.
 
-
-
 istú is n acronym for ‘smooth two sides’ (S-2-S), a classification of
 lumber, only the top and bottom surfaces of which have been planed.
 
@@ -1474,6 +1427,8 @@ lumber, only the top and bottom surfaces of which have been planed.
 Gamay lang kaáyu nga sakit muhílak dáyun, She whines a lot. The
 slightest thing and she has to burst into tears.
 
+
+==== K ====
 
 †kabáyù kabayùkabáyù n {3} a toy-horse race which determines winners by
 lottery.
@@ -1598,6 +1553,8 @@ nullifying the sale.
 kurasunáda = kursunáda.
 
 
+==== L ====
+
 labanu = gwayabanu.
 
 lagang_2 a a woman who is completely bald. v [B12; b] for a woman to
@@ -1697,8 +1654,6 @@ weak because he just recovered from an illness. {2} crippled. v [B; b6]
 be, become weak, crippled. Nalupug siya human mahúlug, He became
 crippled after he suffered a fall.
 
-
-
 lúrù_2 v [AN; a] stare at s.o. with a sharp look. Gilurúan níya ang
 bátà, maung mihílak, He gave the child a sharp look, and it burst into
 tears.
@@ -1710,6 +1665,8 @@ fathers and our mothers because our mothers are sisters and our fathers
 are brothers. v [B156] be, become related on both the paternal and
 maternal sides.
 
+
+==== M ====
 
 maagmaag v [B; c1] talk or write without coherence. Nagmaagmaag ang
 diskursu sa pulitiku, The politician is talking incoherently.
@@ -1800,6 +1757,9 @@ esp. against the law.
 ulitáwu nga wà sugta, The young man became violent because he was
 spurned.
 
+
+==== N ====
+
 námun = námù (dialectal). see kami.
 
 nárik n relief clothing, used or second-hand clothing from the States
@@ -1825,6 +1785,9 @@ nípa n acronym for the National Economic Protectionism Association.
 mga binatunan, They call their servants by shouting out a number.
 
 †nutaryu — publiku n notary public. v [B16] be, become a notary public.
+
+
+==== P ====
 
 †pabur -abli a {1} favorable. {2} in favor. Paburabli kaáyu ku sa ímung
 mga plánu, I’m very favorable to your plans. v [B12; b6] {1} be
@@ -1975,6 +1938,8 @@ pretentious. Napuyuk siyang namaistra, She has started to put on now
 that she has become a teacher.
 
 
+==== R ====
+
 ráking tsir n rocking chair. v [A; a] make, obtain a rocking chair.
 
 †rakrak v {3} [A; c] give s.o. a good cussing out.
@@ -2035,6 +2000,8 @@ agency. v [B16] be, become a retailer of this sort.
 
 †rúyal — blu n royal blue color.
 
+
+==== S ====
 
 †sábak v {5} [A; a12] give s.o. on-the-spot instruction on how to do
 s.t. Ayaw pagunauna kay sabákun tikawg dráyib, Don’t try to drive on
@@ -2323,6 +2290,9 @@ syúgar dádi n sugar daddy, a man who keeps a woman.
 
 syurthan n shorthand. v [A; c1] write s.t. in shorthand.
 
+
+==== T ====
+
 tabagak n k.o. fish similar to the malangsi but with a broader body,
 esp. around the abdomen.
 
@@ -2377,8 +2347,6 @@ tampukun sa likud? You say mean things about me when I’m not around.
 Why do you stab me in the back?
 
 tamudlaw = lamudlaw.
-
-
 
 †tangantángan panahun pa sa — in the olden times, when people still
 used castor oil for lamps. Ang ílang gigámit nga libru panahun pa sa
@@ -2490,8 +2458,6 @@ tukistukis sa ílang baryu káda adlaw, There is a small-scale illegal
 cockfight in their barrio every day. v [A; c] hold a small illegal
 cockfight (slang).
 
-
-
 †tumuy sa — sa dílà be at the tip of one’s tongue, but still one cannot
 quite remember it. Dì giyud kung kahinumdum ug kinsa tu ka apan nía ra
 giyud sa tumuy sa ákung dílà, I cannot quite remember who you are, but
@@ -2505,6 +2471,9 @@ tusínu n salt pork. v [A; a] make salt pork.
 
 †túud [plant name] nga — n the most common variety of [such-and-such a
 plant]. Kamúting túud, The common sweet potato.
+
+
+==== U ====
 
 úa = úi.
 
@@ -2558,7 +2527,7 @@ batáa. Dì patúu ug badlung, These children are like crows you shout at.
 They just won’t listen when you try to get rid of them.
 
 
-
+==== W ====
 
 wan-a = walà na. see walà.
 
@@ -2573,7 +2542,7 @@ wáway child talk for áway. v [A; a12] quarrel with (child talk).
 cute tricks it lures me to stay home.
 
 
-
+==== Y ====
 
 yá word shouted simultaneously with the execution of a karate chop,
 blow, or kick.
@@ -2587,9 +2556,3 @@ yatap (from patay—slang) v [A; a1] kill. Ang kriminal nga nagyatap sa
 gitulísan, The criminal that killed the robbery victim.
 
 yíma n candied yolk. v [A; a] make yolk candy.
-
-
-
-
-
-

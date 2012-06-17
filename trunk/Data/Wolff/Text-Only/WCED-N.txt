@@ -1,42 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-
-
-N
+=== N ===
 
 
 na_1 particle following the first word of the predicate. {1} now
@@ -113,8 +78,6 @@ singaríhan ninyug nabigar magabíi? What do you roam around at night
 for?
 
 nabu = anabu.
-
-
 
 náda n nothing, naught. Walà siya hatági ug swildu sa íyang trabáhu.
 Náda lang ang tanan níyang kahágù, She wasn’t paid for her work. All
@@ -1368,8 +1331,6 @@ nyuríta see sinyuríta.
 
 nyurítu see sinyurítu.
 
-
-
 nyús n {1} news. {1a} newspaper. {2} in mahjong, a four-piece
 combination consisting of the nurti, isti, wisti, and sur which gets
 extra winnings. v {1} [A; c6] release news. Patingúgag radiyu kay
@@ -1381,10 +1342,3 @@ nyusbuy n newsboy. v [B156; a12] become a newsboy.
 
 nyutral n {1} neutral in an argument. {2} neutral gear. v {1} [A13]
 stay neutral. {2} [A13; c6] shift into neutral.
-
-
-
-
-
-
-

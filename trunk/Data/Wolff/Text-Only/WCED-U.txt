@@ -1,51 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-
-
-
-U
+=== U ===
 
 
 u_1 or. Kinsa may muadtu, ikaw u aku? Who will go, you or me? Muadtu ka
@@ -503,8 +459,6 @@ Rizal gave his life for the independence of our country.
 
 ugam n whitish substance coating the tongue and upper palate. v [A123P;
 b4] get ugam.
-
-
 
 ugang n mother hen.
 
@@ -1836,8 +1790,6 @@ naípun sa dikulur, His white shirt got stained because it was put
 together with the colored ones. a color that has run. Kining mantsa
 umag sa ákung midiyas, This stain is where my socks ran.
 
-
-
 umágad see ágad_2.
 
 umagak, umágak n mother hen.
@@ -2187,8 +2139,6 @@ around the house. n clothing for ordinary use. -in- n rolled tobacco
 leaf for smoking. v {1} [A] smoke rolled tobacco leaf. {2} [A1; c1]
 roll tobacco leaves for smokes. ti-(←) see tiúnay.
 
-
-
 undag v [B2; b(1)] sink, settle down to the bottom of a liquid medium.
 Lawum ang giundágan sa barkung nalúnud, The ship sank in deep waters.
 
@@ -2278,8 +2228,6 @@ dakù sa ákung swildu, The fare takes a large chunk out of my salary.
 n {1} bite. {2} action of biting. Usa ka ungab mahurut nà dáyun, That
 would all be gone in a bite. -in-an n the area from which a large chunk
 has been bitten.
-
-
 
 ungab_2 v [A; b36] cry aloud. Nakamata ku kay nag-ungab siya, I woke up
 because he cried so loud.
@@ -3084,8 +3032,6 @@ upusisiyun n {1} opposition, resistance. Way upusisiyun kanang balaúra,
 There is no opposition to that bill. {2} opposition party in Congress.
 v [B126] be in, join the opposition.
 
-
-
 upuy-upuy, upuy-úpuy v [A3P] behave meekly or timidly before s.o.,
 usually from fear or lack of self-confidence. Miupuy-upuy pagsulud ang
 suluguun sa lawak sa íyang agálun, The maid entered her master’s room
@@ -3276,8 +3222,6 @@ n orange juice.
 
 urinúla n chamber pot or bedpan. v [A13; c1] use a chamber pot.
 
-
-
 urit = hala. Urit! Adtu na mi, All right! We are going now. v [A2]
 cease doing s.t. and call it a day. Muurit kug sayu kay nagláin ang
 ákung láwas, I think I’ll call it a day as I’m not feeling well.
@@ -3403,8 +3347,6 @@ sa ingun nátù, Though he is famous, he goes easy on people like us.
 coconut palm bud.
 
 ús = ulus. see ulhus.
-
-
 
 usa_1 numeral one. {1} — ka a one. Sa usa ka púlung siyay nidaug, In
 short, he won. {b} a certain (unnamed) one. May usa ka hárì nga taas
@@ -4175,8 +4117,6 @@ coconut trees are becoming unproductive.
 íyang giuyátan, The branch broke because he hung on it with all his
 weight.
 
-
-
 úyat_2 v [A; b] take hold of s.t. or hold s.t. lifting it. Siyay
 nag-úyat sa kápa sa rayna, She held the queen’s cape. Nakaúyat siya sa
 alambri sa kuryinti, He accidentally took hold of the electric wire.
@@ -4250,9 +4190,3 @@ male cousin of his generation. v {1} [B2; b6] become old. Miúyung
 (naúyung) lag kalit ang íyang nawung sukad mamatay ang íyang asáwa, His
 face suddenly aged when his wife died. {2} [B126; b6] become a
 grandfather.
-
-
-
-
-
-

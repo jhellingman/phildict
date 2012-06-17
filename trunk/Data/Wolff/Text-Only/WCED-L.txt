@@ -1,41 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-
-L
+=== L ===
 
 
 la_1 = lámang (dialectal).
@@ -275,8 +241,6 @@ is put. -anan(←), labnganan n place one crosses.
 lab-ang v [A; ab] pass over, miss. Milab-ang siyag usa ka dahun sa
 íyang gibása, He skipped a page of what he was reading. Lab-ang ug usa
 ka parapu, Skip one paragraph. n amount missed, interval.
-
-
 
 labanus n radishes. The white (Chinese) radishes are the variety most
 commonly grown in Cebu.
@@ -906,8 +870,6 @@ lagalaw (not without l) = lagaraw.
 
 lagamak = lugamak.
 
-
-
 lagang_1 n chambered nautilus.
 
 lagapak, lagápak = lugapak.
@@ -1044,8 +1006,6 @@ n fishing with a pole which is left alone s.w. and tended only when
 s.t. bites. pama- v [A2] put in an application s.w. on a slim chance.
 Mamalagdas lang kug aplay dihà básin pag dawátun, I’ll try my luck in
 applying in case I am accepted.
-
-
 
 lagdù n droplets. Gagmayng lagdù nga namilit sa kadahúnan, Small
 droplets that stuck to the leaves. v [B6] form droplets, fall in
@@ -1318,8 +1278,6 @@ walking faster when it started to rain. Inum sa ímung tambal arun ka
 malagsik, Take your medicine so you get your energy. ka- n briskness.
 ma-un a of a quick, brisk, healthy sort.
 
-
-
 lagsik_2 v [B456; b2] for small things to fly off, splatter. Milagsik
 ang lápuk pagluksu nákù, Mud splattered in all directions when I
 jumped. Nanglagsik ang bildu pagkahúlug sa básu, Bits of glass flew off
@@ -1409,8 +1367,6 @@ lagukluk (from lukluk) v [A; b(1)] hide, conceal by staying out of
 sight or away from the open. Dì ka giyud makalagukluk ug pangitáun ka
 níla, You can’t hide from them if they look for you. Lawum ang lungag
 nga gilaguklúkan sa kasag, The hole where the crab hid itself was deep.
-
-
 
 lagúlu n coarse fern with huge leathery pinnate leaves found in open
 mud flats, in mangrove swamps, and along tidal streams: Acrostichum
@@ -1503,8 +1459,6 @@ punishment. Ikaw mauy nakalagusu (nakapalagusu) nákù sa tinuntu, You
 dragged me into doing mischief. Ayaw kug ilagusu sa ímung kasábà kay wà
 kuy lábut, Don’t scold me, too, because I didn’t have any part in it.
 
-
-
 lagúsù n a soft, crunching sound, as for example that produced by
 chewing s.t. fleshy and easy to chew, but not soft. v [A2S] produce
 such a sound. Mulagúsù ang kapáyas nga tagudtud ug kan-un, A hard but
@@ -1595,8 +1549,6 @@ slender. Mulagwis ang kawáyan, Bamboo grows tall and slender.
 lagwum = laglum. see lalum.
 
 lagyu = lagiw.
-
-
 
 lagyum = laglum. see lalum.
 
@@ -3029,8 +2981,6 @@ a4b4] form slimy substances of these various kinds.
 
 lamugmugan = limugmugan. see limugmug.
 
-
-
 lamuk n mosquito. v [a4] {1} be infested with mosquitoes. Ang lugar nga
 may lámak lamukun, A place where there is standing water gets infested
 with mosquitoes. {2} wait s.w. too long. Gilamuk na lang kug hinuwat,
@@ -4192,8 +4142,6 @@ Gipangasáwa siya bísan usa na siya ka larag nga búlak, S.o. married her
 even though she was a faded flower (no longer a virgin). n fallen
 leaves.
 
-
-
 láran v [A12; a12] beat, outdo. Dakù túud si Klí apan walà siya
 makaláran ni Prísir, Clay may be big but he couldn’t beat Frazier. pa-
 v {1} [A3] allow oneself to be outdone. {2} [A13] allow oneself to get
@@ -4803,8 +4751,6 @@ be greedy. (←)_1 [B12] take a strong liking to s.t. Nía rag ímung
 libru. Way naláug, Here’s your damn book. Who wants it anyway (lit. no
 one has taken a liking to it).
 
-
-
 láug_2 v [A; a] {1} go out to go about with no particular purpose.
 Unsay ímung giláug didtu? Dúna kay gibisitáhan? What did you stroll
 over to their place for? Did you visit s.o.? {2} get out of a place,
@@ -5253,8 +5199,6 @@ you can reach the fruit. {2a} [AN; b] gather bent or discolored leaves.
 ka- tiredness, feeling of being weak from fatigue. n yellowed leaves on
 trees that are about to drop.
 
-
-
 laylay_2 v [A; a2] sing with no words other than meaningless syllables.
 Naglaylay ang inahan nga nagpakatúlug sa bátà, The mother is singing
 the baby to sleep. n song hummed or sung with syllables la, la.
@@ -5424,8 +5368,6 @@ just as good. Dílì na ku makahuwat sa ímung bána. Líbad pa ug ikawy
 ákung tagáan sa kwarta? I can’t wait for your husband any longer.
 Wouldn’t it be the same thing if I gave the money to you? Bisag ása sa
 duha. Líbad pa, Either one of the two. It’s all the same.
-
-
 
 libadúra n leaven. Pán nga way libadúra, Unleavened bread.
 
@@ -6837,8 +6779,6 @@ accidents.
 
 lingagngag = alingagngag.
 
-
-
 lingas a unable to keep still but moving about all the time instead.
 Lingas kaáyu ning batáa, dì mahimutang, This boy is always moving
 about, he can’t keep still. v [B; b6] be moving about always and not
@@ -7107,8 +7047,6 @@ watching TV.
 linsa v [A; b6] string a guideline in construction. Akuy mulinsa sa
 pagpinsa arun dì maghiwì, I’ll string a guideline for the fence so it
 won’t come out crooked. n string used as a guide.
-
-
 
 linsúwak v [B1256] fall headlong. Nalinsúwak siya gíkan sa bintánà, He
 fell headlong from the window.
@@ -8343,8 +8281,6 @@ even if given the chance. tag- n spirit inhabiting a particular place.
 Gidaútan nà siya sa taglugar kay íyang giputul ang káhuy, The spirit of
 the place made him ill when he cut the tree down.
 
-
-
 lugar_2 = kinta_1.
 
 lugas n {1} grain. Usa ka lugas humay, A grain of rice. Maáyu ang lugas
@@ -9413,8 +9349,6 @@ láta sa litsi, Punch a hole in the milk can. (→) n {1} hole. Lungag sa
 dágum, Eye of a needle. Lungag sa ilung, Nostrils. {2} vagina
 (euphemism).
 
-
-
 lung-ag v [A; a] boil rice or any carbohydrate until the product is
 cooked and dry. Lung-ága nang ságing hilaw pára pamáhaw, Cook the green
 bananas for breakfast. -in- n {1} staple being cooked. Sigáig
@@ -9502,8 +9436,6 @@ mga balud nga mihasmag sa mga batu, The waves beat against the stone
 with a thudding sound. {2} [A13] throb vigorously in the depths of
 one’s feelings. Ang kayugut nga naglungkaub sa íyang dughan, Anger that
 is raging in his heart. -in-, -in-(←) n heavy sound of thumping.
-
-
 
 lungkì a limping, partially disabled in the leg, usually permanently.
 v [B16; c1] walk with a limp. Naáyu túud siya sa pulyu apan nalungkì
@@ -10225,8 +10157,6 @@ lutu, lutù_1 n blister gotten by rubbing. v [B23(1)6; b4] develop or
 form blisters. Milutu (giluthan) ang íyang tudlù sa paglinúbù sa mais,
 Blisters have formed on her fingers from shelling the corn.
 
-
-
 lútu v {1} [A; b3] wear black clothes in mourning. Kinsa may inyung
 gilutúhan? Whom are you mourning? {2} [a12] make, sew into mourning
 clothes. {3} [b(1)] consider a member of the family or s.o. close to
@@ -10635,8 +10565,3 @@ lyáwi = yábi, n1, v.
 lyukimya n leukemia. v [B1246; a4] be afflicted with leukemia.
 
 lyúpis = lúpis.
-
-
-
-
-

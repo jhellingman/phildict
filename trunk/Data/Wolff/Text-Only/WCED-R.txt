@@ -1,47 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-R
+=== R ===
 
 
 ra particle following the first word of a predicate. {1} only
@@ -206,8 +166,6 @@ rákit_3 n racket, fraudulent means of obtaining money. Rákit lang giyud
 nang kapunúngan. Pangwarta lang, Their organization is just a racket to
 get money. v [c16] dishonestly take money entrusted to one. Girákit
 lang ang ámung ámut, The man just pocketed our contribution.
-
-
 
 rakrak v [A; b(1)] {1} fire bullets rapidly in bursts. Balay nga
 girakrakan, A house riddled with bullets. {2} in billiards, hit the
@@ -1366,8 +1324,6 @@ riyunyun n reunion of a class or family. v [C] hold a reunion.
 Magriyunyun ang pamilya káda Pasku, The family holds a reunion every
 Christmas. paN- v [A2] attend a reunion.
 
-
-
 RPS /arpíis/ abbreviation for Republic of the Philippines Ship put on
 Philippine naval craft. Ang arpíis Lapulápu mauy yáti sa Prisidinti,
 The RPS Lapulapu is the yacht of the President.
@@ -1438,8 +1394,6 @@ rolling it up: roll of film, paper, coil of rope.
 
 rulyu_2 n lecture in the cursillo (a series of religious lectures and
 prayers for laymen). v [A; b6(1)] give the lecture in a cursillo.
-
-
 
 rulyista n lecturer in a cursillo.
 
@@ -1546,8 +1500,6 @@ The thing that’s wrong with you is that you don’t know how.
 
 rusítas n rosette design of jewelry.
 
-
-
 ruska n screw or small nut. v [b6(1)] attach with, drive in a screw or
 bolt.†
 
@@ -1580,9 +1532,3 @@ My head is awhirl after I drank s.t. Nagruyda ang palábad sa ayruplánu,
 The airplane propeller is whirling. Ruydáhun (iruyda) sa kábaw ang
 galingan sa intusan, The carabao will pull the sugar cane grinder
 around.
-
-
-
-
-
-

@@ -1,42 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-K
+=== K ===
 
 
 ka_1 see ikaw.
@@ -452,8 +417,6 @@ dip or scoop up. paN- v [A2; b6] catch fish fry with a dip net. Mangabù
 mig bangus páras púnung, We will catch the fry of milkfish with a dip
 net for the fishpond.
 
-
-
 kabud v [A; c] tie ropes, strings, wires around s.t. large. Kinsay
 nagkabud sa alambri diri sa halígi? Who wound the wire around the post?
 Ikabud ang písì sa kabáyù sa íyang hiktanan, Tie the rope of the horse
@@ -737,8 +700,6 @@ ang kágards nga dyúlin, You can’t bet marbles with a rough surface.
 kágards, The amateur contest is for the above thirty’s. {3} broke, out
 of money for gambling. Dì na ku mudúwà kay kágards, I won’t play any
 more because I’m broke. v [B; b6] be, become pockmarked.
-
-
 
 kagas a haggard and emaciated. v [B1456] be haggard and emaciated.
 Nagkagas na ang pinirísung wà pakan-a, The prisoner is haggard and thin
@@ -1624,8 +1585,6 @@ for digging).
 
 kalibhay = kalìhay.
 
-
-
 kalibkib n the slivers of coconut meat and brown exterior portion which
 remain after the meat of the coconut has been shredded. binday nga -un
 woman’s sex organ that is thin like the kalibkib.
@@ -1935,8 +1894,6 @@ kalumpit n an old variety of paddy rice with white grains.
 
 kalung_1 n upland river crab with a red breast.
 
-
-
 kalung_2 = kalug.
 
 kalunggu n {1} feathers just coming in. {2} warts. v {1} [AN; b6] for
@@ -2135,8 +2092,6 @@ uses: Geodorum nutans. v [A; b6(1)] glue s.t. with kamáug.
 
 kam-aw n shallow earthen bowl, used to hold food. v [c16] put in a
 small earthen bowl.
-
-
 
 kamay v [AN; b5] summon by a wave of the hand. Ang dakung pátag sa
 Kauswágan daw nagkamay (nagpangamay) kaníya, The wide plains of
@@ -2420,8 +2375,6 @@ right away.
 
 kamug = kamul.
 
-
-
 *kamug way — {1} with no inheritance. Nakaasawa siyag way kamug, He has
 married s.o. without any inheritance. {2} penniless. Wà na kuy kamug
 kay nahurut ug pamáyad, I’m flat broke again because I paid all my
@@ -2616,8 +2569,6 @@ stillness of the night. Nanganawkánaw ang kalapad sa humayan, The rice
 fields extended into the distance. Gamay na ang ayruplánung
 nanganawkánaw sa kalangítan, The airplane looked very small in the
 distance.
-
-
 
 kánay v {1} [A23] for a feeling to spread throughout one’s body. Ang
 kabugnaw sa túbig mikánay ngadtu sa ákung tinái, The coolness of the
@@ -2908,8 +2859,6 @@ in a group of serenaders. v [B156; a12] be the singer.
 kansiyun_2, kansiyung n in mahjong, drawing of the piece needed for one
 to go mahjong from the flower pile (payil sa búlak). Winning in this
 way entitles one to extra pay.
-
-
 
 kansursilyu = karsunsilyu.
 
@@ -3397,8 +3346,6 @@ ka, I said white, not black, you oaf.
 
 karáhu_2 n lizard fish: Trachinocephalus sp. and Saurida sp.
 
-
-
 karáhu_3 n penis (slang).
 
 karakara v [A; b(1)] hurry s.o. or oneself up. Káda human sa ámung
@@ -3678,8 +3625,6 @@ v [A; a2] have one of these two dishes.
 
 kari_2 {1} = kiri. {2} = ari (dialectal).
 
-
-
 kári n curry powder. v [A; a12] cook with curry. karihan n curry powder
 container.
 
@@ -3792,8 +3737,6 @@ from the stomach.
 
 karnába = kardába.
 
-
-
 karnabal_1 n carnival or fair. v [A1; b6] hold a carnival or fair. paN-
 v [A2] go to a fair or carnival. -an(→) fair grounds.
 
@@ -3893,8 +3836,6 @@ suitcase.
 
 kartíra_2 = karitíra.
 
-
-
 kartíru n mail carrier, postman. v [B156; a2] be, become a postman.
 
 kartíyu v {1} [AN; a] be able to work out a problem, think one’s way
@@ -3955,7 +3896,6 @@ tulu ka biráda, I will deliver you three carromata-loads of sand.
 {2} [A13; a12] go s.w. in a carromata. paN- v [A2; b6] earn one’s
 livelihood by hauling things on a carromata. karumatilya n a small
 three-wheeled cart, pushed by people.
-
 
 karun short form: run {1} this time now. Gikinahanglan ka karun, You
 are needed now. Sukad karun ayaw na pagpakítà dinhi, From now on, don’t
@@ -4481,8 +4421,6 @@ katikismu n catechism. v [A13] hold a catechism class.
 katikista n a person who teaches the fundamentals of religion. v [AB16;
 a12] be a catechist.
 
-
-
 katisismu = katikismu.
 
 katimpa n k.o. large sweet potato with white peelings and yellowish
@@ -4946,7 +4884,6 @@ kaw-uy v [A12; c] have the strength to get up or lift the limbs. Dì na
 ku makakaw-uy kay gútum na kaáyu, I cannot lift my arms or legs because
 I’m famished.
 
-
 kay {1} because, for the reason that. Undang na ta kay gikápuy man ku,
 Let’s quit because I’m tired. Kay magminyù ka man giyud, na hala, sígi,
 Since you’re bent on getting married, all right, go ahead. ábi — just
@@ -5027,8 +4964,6 @@ c1] kill a man by stabbing. Kay-águn (ikay-ag) nákù ang ímung tinái ug
 maglúib ka, I’ll kill you if you betray me. a scattered about.
 
 kayag-ang = kagangkagang. see kágang.
-
-
 
 kayagkag_1 n k.o. fishing in which the net is made to touch the bottom
 of the sea. The fish are driven towards it by people beating large
@@ -5150,7 +5085,6 @@ white flesh: Chrysophyllum cainito.
 kayril n watch chain. v [A] wear a watch chain.
 
 káyu = kaláyu.
-
 
 *káyù paN- v {1} [A2S; ac1] ask for s.t. Nagpangayug pakitábang ang
 nabanggà, The accident victims shouted for help. Pangayúa ang suklì,
@@ -5745,7 +5679,6 @@ out the ketchup stain which got into the table cloth.
 
 *kimì_3 = *timì.
 
-
 kimika n chemistry. -l n chemical engineering course. v [B156] take up
 chemical engineering. — indyinir n chemical engineer.
 
@@ -5860,8 +5793,6 @@ kinampay n any root crop or fruit that is violet, usually said of yams,
 and by extension star apples and ice cream.
 
 kinaunsa see unsa.
-
-
 
 kindàkindà = kírà.
 
@@ -6002,7 +5933,6 @@ Kinlaw ang lamísang gisilakan, The table is gleaming because it was
 shellacked. v [B; a] gleam brightly with a steady light. Nagkinlaw ang
 linimpyáhang sapátus, The shoes I polished are gleaming.
 
-
 kinsa {1} who, whose? Kinsay muanhi rung hápun? Who will come this
 afternoon? Kinsa ring lapis? Whose pencil is this? — [noun]-a {2} which
 person (of several). Kinsang batáang naligsan? Which child was it that
@@ -6045,8 +5975,6 @@ nà, From now on, we won’t do it every week. We’ll do it twice a month.
 Culu- every half month. -in-(→), -l-(→) n by the fifteen days.
 Kininsina (kinsinal) ang ámung pagswildu, We pay salaries every fifteen
 days.
-
-
 
 kinta_1, kintà_1, kintǎ {1} let’s just consider how it would be—perhaps
 it is so, perhaps not. Naghátag sila arun kinta pagpakítà sa
@@ -6098,7 +6026,6 @@ above the ground than normal. Kintid kaáyu ang íyang míni, Her
 miniskirt is very short. v [B; b6] come out too short. Magkakintid ang
 kurtína káda laba, The curtains become shorter every time they are
 washed.
-
 
 kintsay n variety of celery (Apium graveolens) with narrow stalks, the
 leaves of which are used as a seasoning in Chinese dishes.
@@ -6761,8 +6688,6 @@ klasipikahung mga sambag: ang hinug diri, ang hilaw dihà, We’ll sort
 out these tamarinds: the ripe ones go over here, and green ones, over
 there.
 
-
-
 klasmit n {1} classmate. {2} people who have similar defects,
 sicknesses (colloquial). Náa rang ímung klasmit u, nga hubákun sad,
 Here comes your ‘classmate’. He is asthmatic, too. v [A12C; ac3] be
@@ -6973,8 +6898,6 @@ kritikal a critical, grave. Kritikal ang kahimtang sa masakitun, The
 patient’s condition is critical.
 
 kritiku n critic.
-
-
 
 kriyáda = kriyádu (female).
 
@@ -7738,8 +7661,6 @@ toes. Tag-as kag kulamuy. Angayan kang magtuun ug pyánu, You’ve got
 long fingers. You should take piano lessons. — sa baláud n arms of the
 law.
 
-
-
 kúlan n long-term variety of white rice with very fine and slender
 grains that ripen after eight months.
 
@@ -8020,8 +7941,6 @@ kay húgaw, Spit that out. It’s dirty.
 
 kulípad = kulípà.
 
-
-
 kulípas v [AN; c1] refuse to acknowledge. Ang mga táwung bakákun dílì
 mahadluk mukulípas (mangulípas) sa ílang sulti, Liars are not afraid to
 disclaim their own words. Si San Pidru mauy nagkulípas nga wà siya
@@ -8129,8 +8048,6 @@ kuliut = kulikut. see kulíkut.
 kulíut_1 v [B2S46; c1] grimace or distort one’s face in anger or pain.
 Ayaw kuliúta (ikulíut) ímung nawung bísan ug dì ka ganáhan, Don’t
 contort your face, even if you don’t like it.
-
-
 
 kulíut_2 = kulíkut.
 
@@ -9207,8 +9124,6 @@ kumurga = kumulga. -nti = kumulganti.
 
 kúmus_1 = kulámus.
 
-
-
 kúmus_2, kum-us = gum-us.
 
 kumusta how is (was, are, etc.). Kumusta ka? How are you? Kumusta ang
@@ -9392,8 +9307,6 @@ kunggrísu = kungrísu.
 kunggu = kalunggu.
 
 kungking n vagina (euphemism used to children).
-
-
 
 kungkista v [A; a12] subject a foreign land and make it a colony.
 Gikungkista ang Pilipínas sa mga Katsílà, The Philippines were
@@ -9679,8 +9592,6 @@ puntus níla, Mark a score for each point they make on a piece of paper.
 {2} shout out the score. Ikuntǎr (kuntara) ang matag puntus, Shout out
 the score every time s.o. makes a point.
 
-
-
 kuntidyus n contagious ward in a hospital.
 
 kuntimpuraryu n contemporary, one living in the same era as another or
@@ -9759,8 +9670,6 @@ behind s.t. Kuntráhi (kuntrahi) nang gitaúras batúnis arun dílì magísì,
 Put a reinforcement behind where you sew on the button so it won’t rip.
 {6a} = balinsiyána, v 2. -in- n a seam sewn with the balinsiyána
 stitch. paN- n s.t. worn as protection against s.t.†
-
-
 
 kuntrabandu n contraband. v [B1256] be classified as contraband.
 Makuntrabandu giyud ang butang nga dílì ipaági sa kustum, Smuggled
@@ -10209,8 +10118,6 @@ wouldn’t be shocked by his sudden death? ka-, kahi- n startling or
 shocking surprise. Sa dakù níyang kahikurat, nabuhian níya ang butilya,
 Because of his great shock, he lost his hold on the bottle. -l-an(←)
 a nervous, easily startled.
-
-
 
 kuratsa n curacha, a lively folk dance of the Eastern Visayas or the
 music thereto. v [A2C; c1] dance the curacha.
@@ -12019,8 +11926,6 @@ kyugpus = kulugpus.
 
 kyúkus = kulúkus.
 
-
-
 kyungkung v [B3(1)6; c1] curl up. Mikyungkung (nakyungkung) ang núkus
 sa ínit nga bága, The dried squid curled up in the glowing embers.
 Nagkiyungkung pa gihápun ka dihà bísag taas na ang adlaw? You are still
@@ -12042,8 +11947,3 @@ mouth shut as to what really happened. {3} [B; a1P] be doubled up in
 fear or pain. Mikyúum siya sa pagkaigù níya sa kutukutu, He doubled up
 from pain when he was hit in the solar plexus. a {1} tightly closed.
 {2} keeping the mouth shut.
-
-
-
-
-

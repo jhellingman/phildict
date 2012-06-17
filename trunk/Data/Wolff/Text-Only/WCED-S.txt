@@ -1,47 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-S
+=== S ===
 
 
 sa_1 particle indicating grammatical relations. short form: s.
@@ -93,8 +53,6 @@ sa_2 {1} short for unsa used at end of phrases. see unsa, 5. {2} short
 for unsa gánì. see gánì, 5a.
 
 sā́ = sála_2.
-
-
 
 sà short for ísà, úsà.
 
@@ -350,8 +308,6 @@ sa íyang pitáka, The man who snatched her bag was apprehended.
 sabsab v [AN; a2] graze. Túa sa lagúna nanabsab, It’s in the pasture
 grazing. Háin áning kandínga nagsabsab sa misítas? Which of these goats
 ate the ornamental plants?
-
-
 
 sabud_1 v {1} [A2; b(1)] catch s.t. against an obstruction. Bantay kay
 musabud ang ímung tiil sa tiil sa lamísa, Watch out or you will hit
@@ -711,8 +667,6 @@ sagay a matured coconuts at the stage when one can hear the water but
 the husk is still green. v {1} [B5] reach the mature, but not brown,
 stage. {2} [A; a] gather mature coconuts.
 
-
-
 ságay v [B2456] for s.t. highly fragile to break into pieces. Miságay
 ang bangà nga natumba, The earthen jar broke to pieces when it toppled
 over.
@@ -738,9 +692,6 @@ v [A; b6] put rubbish s.w. Kinsa may nagsagbut diri sa tugkaran? Who
 strewed rubbish all over the yard? ka-an(→) n place where there are
 weeds. -un(→) a full of weeds, trash. v [B1256] get to be full of weeds
 or trash.
-
-
-
 
 saghid v [A; b4(1); c6P] brush, come into light contact. Napásù ku kay
 nasaghiran sa kamut ku ang ínit nga plansa, I burned myself when I
@@ -813,8 +764,6 @@ the mudskipper when it races over the surface of the water. Spidbut nga
 nagsagitsit sa túbig, Speedboat rushing over the water. — gu words
 uttered to start a race. Únu, dus, sagitsit, gu, Get ready, get set,
 go!
-
-
 
 sagiwsiw v [A] for blood to flow profusely. Misagiwsiw ang dugù sa
 gisubáan, Blood flowed profusely from the woman that had a hemorrhage.
@@ -1066,8 +1015,6 @@ anybody else’s. Ngánung aku may pangutan-ung sumáhì (sahíay) sa usa ka
 ignuranti? Why are you asking me, as if I were a fool?
 
 sáhid = salahid.
-
-
 
 sahù (from unsay áhù. see unsa, 1d.) Sahù bag dì ka mangasáwa nákù.
 Maáyug nahúngut ang kalibútan, Who gives a damn if you don’t marry me?
@@ -1569,8 +1516,6 @@ of a group subject to s.o. Ang ginsakúpan ni Sultan Ramil, Sultan
 Ramil’s men. pa- v [A; ac] hire oneself out, be hired as household
 help.
 
-
-
 sakup_3 v [A; b5c1] close s.t. Ang maulahig lakaw mauy musakup sa
 pulta, The last to leave the house will close the door. Sakpa (sakpi,
 isakup) ang ímung libru, Close your book. a closed.
@@ -1999,8 +1944,6 @@ s.t. Nanalidsid ang sakayan sa baybáyun, The boat followed the
 coastline. {2} [A; b6] skid, slide in doing a curve. Musalidsid ang
 trák kay danglug ang karsáda, The truck will skid because the road is
 slippery.
-
-
 
 sálig v {1} [A2S; b6] trust, rely. Dì ku musálig níya kay bakákun siya,
 I don’t trust him because he is a liar. Nagsalig ku nga muanhi ka apan
@@ -3067,8 +3010,6 @@ sandalyas n sandals. v [A; b6(1)] wear or use sandals.
 
 sandanan = sandanun.
 
-
-
 sandánaw = alindánaw.
 
 sandanay, sandanun n a name close friends or relatives call each other
@@ -3614,8 +3555,6 @@ Musanit ang tagà sa bàbà sa isdà, The hook will snag in the fish’s
 mouth. Nasanit sa gamut sa káhuy ang dáru, The plow got caught in the
 roots of a tree.
 
-
-
 sanitári inspiktur n sanitary inspector. v [B126; b6] be a sanitary
 inspector.
 
@@ -3805,8 +3744,6 @@ crumple s.t. by subjecting it to heavy wear; become so. Musan-ut
 (masan-ut) ang sangput sa karsúnis ug idalus-us, The seat of the pants
 will wear out if you slide in them. Ang íyang karsúnis nasan-ut sa
 túhud, His trousers became baggy at the knees.
-
-
 
 sanúud (from suud) a intimate, close in relationship as friends. (→)
 a close in physical space. Sanuud ra mu kaáyung pagkalingkud, You are
@@ -4494,8 +4431,6 @@ concentrated.
 
 sawásid = saluwásid.
 
-
-
 saway v {1} [AN; a1c] speak disparagingly about s.t., mention bad
 qualities of s.t. Kadtung magsaway áning panaptúna dílì swítu sa
 panaptun, Whoever speaks disparagingly of this cloth doesn’t know
@@ -4545,8 +4480,6 @@ vinegar. Isawsaw ang nuug sa túbig, Swish the rag around in the water.
 sawsyung n {1} a player who inadvertently gets more cards than the
 required number. {2} a player who announces mahjong on a false alarm,
 penalized if the other players have displayed their hands.
-
-
 
 sawu- for words with sawu- see also salu-.
 
@@ -4955,8 +4888,6 @@ more because nowadays the students fight back.
 
 sibilisar v [A; a12] civilize. sibilisádu a civilized, well-mannered.
 v [B12] be, become civilized. sibilisasiyun n civilization.
-
-
 
 sibilsíbil n game of hide-and-seek played in pairs. v [A12C; c1] play
 hide-and-seek in pairs.
@@ -5804,8 +5735,6 @@ became reddish because of the long drought.
 
 silaba n syllable.
 
-
-
 silabi = sulábi, 2. see labi.
 
 silabun = labun, 1.
@@ -5900,8 +5829,6 @@ silibrǎr v [A; b5] celebrate, observe the memory of an event. Dílì siya
 musilibrǎr sa íyang adlaw, He will not celebrate his birthday.
 silibrasiyun n celebration.
 
-
-
 silid n degree, a course of study or career. Silid sa pagkaduktǔr,
 Medical course.
 
@@ -5935,8 +5862,6 @@ the page. {2} peep, look hard through a small opening. Gisil-ing níya
 sa bungbung kung kinsay nahiabut, He peeped through the slit in the
 wall to see who was coming. -an(→), -anan n opening one can peep
 through.
-
-
 
 silíngan n neighbor. v [A2C; c3] {1} be, have one for a neighbor. Lisud
 ikasilíngan ang palaaway, It’s difficult to happen to have a
@@ -6102,8 +6027,6 @@ right. {2} [A23] deviate from a previous course, track of conversation.
 Dílì usáhay siya masabtan kay musimang siya sa unsay gipanagsultíhan,
 Sometimes you can’t understand him because he deviates from what he was
 talking about. -l-an, -an, -anan(←) n fork of a road or path.
-
-
 
 simaníya n chimney of a house, smokestack.
 
@@ -6555,8 +6478,6 @@ happened to the plane that crashed.
 singulu (from úlu) v [A] for the child’s head to crown in childbirth.
 Sakit sa ngatanan kun musingulu na ang bátà, The pain is most intense
 when the child’s head crowns.
-
-
 
 singut n {1} perspiration, sweat. {2} condensation on an object cooler
 than the atmosphere. búngag — prickly heat. a annoying, irritating to
@@ -7292,8 +7213,6 @@ sirkulu = sirkul.
 
 sirkumpirinsiya n circumference.
 
-
-
 sirkumstansiya n specific situation in which s.t. happened. Kining
 hitabù usa ka sirkumstansiya sa pangágaw sa katungdánan, The happening
 is a specific instance of usurpation of authority.
@@ -7788,8 +7707,6 @@ development.
 two-man boat. v [A2; b6(1)] fish by trolling. subiran n a small and
 narrow outriggered boat used for trolling of this sort.
 
-
-
 subída n upgrade. v [A] go uphill, on an upgrade. Ug musubída ang
 karsáda, isigunda, When the road goes into an upgrade, shift into
 second. Nangínit ang makina samtang nagsubída ang trák, The motor
@@ -8236,8 +8153,6 @@ The mauling victim died of internal hemorrhage. v [B1463; b3(1)] vomit
 or spit blood. Nagsugpà si Tiryu, ang tibíhun, Terio, the TB patient,
 is spitting blood.
 
-
-
 sugpù v [AB12; a1] put an end, cut short s.t. that is flourishing. Akuy
 musugpù sa íyang dautang batásan, I will put an end to her ugly habits.
 Masugpù ang túbù sa bátà ug pukáwun ug sayu, A child’s growth gets
@@ -8386,8 +8301,6 @@ Pidru báhin sa ímung tanyag, I will just mention your offer to Pedro
 casually. {2} suggest, put an idea into the mind. Gisugyútan ku siya sa
 paglún sa bangku, I suggested that he get a loan at the bank.
 n {1} thing mentioned casually. {2} suggestion.
-
-
 
 súhà v {1} [C; c1] for objects having length to be in disarray, with
 the ends pointing in different directions. Nagsúhà ang mga bátà nga
@@ -8615,8 +8528,6 @@ inquisitive as though his questions were easy to answer.
 suklat v [b4(1)] be struck accidentally with the end of a stick or
 finger. Nasuklatan ang ákung tuu nga mata sa íyang tudlù, He
 accidentally poked his finger in my eye.
-
-
 
 suklay = sudlay, n, v1, 2, paN-.
 
@@ -10428,8 +10339,6 @@ scratch.
 
 sút = súlut_1,2.
 
-
-
 súta_1 n a coat coloration of animals consisting usually of half black
 and half white fur.
 
@@ -10523,8 +10432,6 @@ just follow my steps. {2} [A; c16] wear s.t. belonging to s.o. else.
 Sun-un ang ákung sinínà sa ákung manghud, My younger sister will wear
 my dress.
 
-
-
 suun_2 v [A; c] {1} fill up a hole, cavity with solid objects. Siyay
 misuun ug balas sa ímung sapátus, He filled your shoes with sand.
 Sun-ig batu ang mga láta, Fill the cans with stones. {2} = sul-ut, 2.
@@ -10586,8 +10493,6 @@ leaves with an odor like citrus and small mucilagenous berries, red
 when ripe: Triphasia trifolia.
 
 suwà_2 = sulà_1.
-
-
 
 suwa- for words with suwa- see also sula- and swa-.
 
@@ -10911,8 +10816,3 @@ v [A1; b6] {1} film a motion picture. {2} take pictures. Magsyúting mi
 sa baybay, We’ll take pictures at the beach.
 
 syútis {1} = asyútis. {2} = sayúti.
-
-
-
-
-

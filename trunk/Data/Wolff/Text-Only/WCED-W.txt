@@ -1,50 +1,8 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
+=== W ===
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-W
 
 wá_1 expression of mild disappointment uttered when s.o. fails to do
 what one wanted him to do. Wá, kaláin dì man diay maná sa sini! Gosh,
@@ -131,8 +89,6 @@ side so we can peek. {2} [A2; c6] lay one’s work aside. Muwáhing siya
 sa íyang gitrabáhu kun náay magkinahanglan níya, He will lay whatever
 he is working aside if s.o. needs him. wahingwáhing v [AN; c1] flip
 through pages.
-
-
 
 wáis = wayis (slang).
 
@@ -495,8 +451,6 @@ wardas = waldas.
 wardin n warden, a chief or principal keeper of a prison. v [B16; a2]
 be, become a warden.
 
-
-
 wardiwardi v [A; c] squander wealth, spend money thoughtlessly. Maáyu
 lang kamung muwardiwardi sa kwarta nga wà ninyu hagúi, It’s easy for
 you to squander money which you didn’t work for.
@@ -587,8 +541,6 @@ home from school he throws his books down and runs out to play.
 me. n pushing away with a rapid motion of the hands. — sa tabuk
 expression uttered upon hearing s.o. sneezing (lit. go away to the
 other side of the river).
-
-
 
 waslik_2 n wife (slang). Batan-un siyag waslik, He has a young wife.
 
@@ -1008,8 +960,3 @@ n waterproof fabric. — ripílint n water repellent fabrics. — sarásay
 n coconut palm toddy (slang).
 
 wuyuwuyu = wayawaya.
-
-
-
-
-

@@ -1,40 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-P
+=== P ===
 
 
 pa_1 {1} still, yet: up to now, up to a specific point in the past.
@@ -408,8 +375,6 @@ pagang a for hair to be dry and lack oil. v [B] for hair to become dry
 and lose its gloss. Mupagang (mapagang) ang buhuk kun sabunan, The hair
 will lose its luster if you wash it with soap. -un a easily getting dry
 and losing luster.
-
-
 
 paganti a paid off. Paganti na ang útang, The debt has been paid off.
 
@@ -880,8 +845,6 @@ Don’t strip an abaca plant with a young stem. n action of cutting.
 pakha n Chinese woman whose feet have been bound from birth to make
 them tiny.
 
-
-
 paki- prefix added to nouns to form adjectives meaning ‘extremely fond
 of [noun]’. Paki Núra giyud ning mga batan-un run, The youngsters these
 days are very fond of Nora Aunor. Pakiayiskrim, Very fond of ice cream.
@@ -1170,8 +1133,6 @@ si Pidung básig musugut, Try your luck in asking Pedong to do it. He
 might agree to. hiN- v [AN; b(1)] read the palm. Human siya kahimadli
 naghingári lang siyag hinuktuk, Ever since he had his fortune read, he
 has moped. panghiN- n palmistry. manghihimalad n palmist.
-
-
 
 paláran a fortunate. Paláran ka kay ikay napílì, You’re lucky you were
 chosen. kapaláran n fate, destiny. Súgù sa kapaláran ang nahitabù, What
@@ -1673,8 +1634,6 @@ palug_1 n half a buck (slang).
 
 palug_2 n a k.o. fresh-water fish, about 3″ long, blackish and scaly.
 
-
-
 palumar n dovecote. v [A1; b6] construct or put up a dovecote s.w.
 
 palung_1 (not without l) = palaw.
@@ -1766,8 +1725,6 @@ v [A2; b8] {1} grow fronds. Namalwa (gipamalwáhan) na ang pitsay, The
 Chinese cabbage has grown leaves. {2} gather palm fronds. Mamalwa tag
 isugnud, We’ll gather palm fronds for fuel. palwáhun a like a frond.
 Palwáhun ug ilung, Flatnosed.
-
-
 
 palya = paliyar. -du, -wu see paliyar.
 
@@ -1953,8 +1910,6 @@ gipánà, sígi ka man lag katáwa, You seem to be crazy, the way you’re
 laughing all the time. -in- cuss word to express mild annoyance. Ang
 pinánà wà uruy kan-a sa kílat, The devil! Why doesn’t lightning strike
 him? Pinánà! Diyut ku mapásù, Darn! I nearly got burned.
-
-
 
 panábu = gwayabanu.
 
@@ -2504,8 +2459,6 @@ panúlung (from dúlung) n {1} bow of ship. {2} fascia board providing
 facing for the rafters underneath the eaves of a roof.
 
 panumbálay see *tungbálay.
-
-
 
 panumbaling see tumbáling.
 
@@ -3109,8 +3062,6 @@ it for nothing. {3} people having similar defects or sicknesses
 (humorous colloquial). Mikúyug siyag pakilimus sa íyang paryinti nga
 bakul sab, He went begging together with his fellow-cripple. v [A12NC]
 be related by blood or by affinity. kaparyintíhan n group of relatives.
-
-
 
 pas, pás_1 v [A; c] in drinking sprees where only one glass is used,
 let one’s turn to drink pass onto the next person. Mupás sà ku íning
@@ -4064,8 +4015,6 @@ páwud = pálud. palawran see pálud.
 
 pawug = kagwang, 2.
 
-
-
 páwul n foul committed in sports. v [A; a12] commit a foul, in sports.
 Giwarníngan ang buksidur kay gipáwul níya ang kuntra, The boxer was
 warned because he committed a foul against his opponent. {2} [B126] not
@@ -4890,8 +4839,6 @@ forms.
 pilápil n rice field; rice paddy. v [A1; a12] prepare a piece of land
 for planting rice. -an(→) = pilápil, n.
 
-
-
 pílas v [B6; b4] {1}">get chafed. Mupílas (pilásan) ang bukubuku sa
 kabáyù ug way hampílù, The back of the horse will get chafed if you
 don’t use a saddlecloth. Gipilásan ang ákung páa pagsinakay sa kabáyù,
@@ -5011,8 +4958,6 @@ piligru, a.
 pilígu n a sheet of galvanized iron, plywood, paper. v [c16] count by
 the sheets.
 
-
-
 pilíik v {1} [A2S; c1] cry loudly in a high-pitched voice, squeal.
 Mipilíik ang bátà nga íyang gikusì, The child he pinched shrieked.
 Nagpiliik na ang mga bábuy. Pasáwi na, The pigs are squealing. Feed
@@ -5108,8 +5053,6 @@ pílit_2 v [A; a] insist on doing s.t. or that s.o. else do s.t. Mipílit
 siya pagsulud sa kwartu nga ngitngit kaáyu, He insisted on getting
 inside the very dark room. Ayaw kug pilíta sa pagpasulti sa tinúud,
 Don’t force me to say the truth. ma-un a insistent.
-
-
 
 pilíti = plíti.
 
@@ -5207,8 +5150,6 @@ become argumentative. Culu- v [A1] acting argumentative on trivial
 points where one shouldn’t do so. Dì siya makapupilusupu nákù kay
 suphun man dáyun, He can’t start subjecting me to his spidery logic
 because I’ll cut him short.
-
-
 
 pílut v [AB; a] sew up, patch a hole permanently, become so. Akuy
 mupílut sa gisì sa ímung sinínà, I’ll mend the tear in your dress.
@@ -5943,8 +5884,6 @@ pis-ak v [A; a] split wood along the grain, or by extension, split
 similar materials. Nagpis-ak ka na ba ug káhuy isugnud? Have you split
 wood to use for fuel? n piece chopped off.
 
-
-
 pisami = kisami.
 
 pisan v [AN; a1] buy s.t. in bulk. Pisánun ku ang ímung pitu ka alat
@@ -6421,8 +6360,6 @@ a12] use chips in playing a game. -an a moneyed, rich (slang). Pitsásan
 nang bayhána maáyu pangasaw-un, That woman is well-heeled. She’d make a
 good wife. v [B1256] become moneyed.
 
-
-
 pitsay n Chinese cabbage, a vegetable cultivated for its long, whitish
 leaves, eaten cooked: Brassica pekinensis. — bisayà n k.o. pitsay with
 darker leaves: Brassica chinensis.
@@ -6520,8 +6457,6 @@ The sidewalks are getting jammed because of all the goods for sale.
 {2} [B12] be hard up financially. {3} [b8] be in a difficult situation,
 in a tight corner, etc. Musúkul ku ug mapit-usan, I’ll fight back if I
 am cornered. ka- n tightness, esp. of one’s financial condition.
-
-
 
 pitut n act of derision made by expelling air with the two lips
 allowing them to vibrate a couple of times and punctuating it with a t.
@@ -7062,8 +6997,6 @@ praníla n flannel. v [A; b6] wear, make of flannel.
 pransis n an elongated loaf of bread with pointed tips and a cut at the
 center.
 
-
-
 Pransiya n France.
 
 prantáda = plantáda.
@@ -7370,8 +7303,6 @@ feel fresh and vigorous after we take a bath. {2} [B1; b6] be, become
 rude or ill-mannered.
 
 pristihiyu n prestige.
-
-
 
 prísu n prisoner. v {1} [A3P; a2] put in jail. Unsang saláay nakaprísu
 (nakapaprísu) nímu? What crime did you commit that you went to jail?
@@ -8234,8 +8165,6 @@ pukwat = puklat.
 
 pukway = bukway.
 
-
-
 púl_1 n pull, influence wielded by a person, usually to obtain favors.
 v [A12] have pull. Ug dì ka makapúl dì ka makatrabahu, You can’t get a
 job without pull.
@@ -8601,8 +8530,6 @@ skills. She doesn’t even know how to cook rice. v {1} [B12] be, become
 lazy. {2} [B12] become slow in learning. -in-(→) a done in a lazy,
 indolent way. Pinuluhu man nang ímung linaktan! Hurry up! You are
 walking so lazily. v [A; b5] do s.t. in a lazy and indolent manner.
-
-
 
 pulukuy child’s word for male genitalia.
 
@@ -9318,8 +9245,6 @@ Bín ang andar sa makina, Ben reduced the speed of the engine. a doing
 s.t., but in restricted quantities. Káun nga way punyu, Eating without
 restraint. — siráwu a doing s.t. on any extremely restricted scale.
 
-
-
 punyus n cuffs of the sleeves. v [A; c1] make, attach the cuffs of the
 sleeves.
 
@@ -9511,8 +9436,6 @@ purk an bins n baked beans. v [A1; c1] have baked beans.
 *purki ang — v [A12] the only thing wrong. Ang nakapurki ning tawhána
 kay dì mamínaw ug tambag, The only thing wrong with this fellow is that
 he won’t heed advice.
-
-
 
 purk tsap n pork chops. v {1} [A1; bc] have pork chops. {2} [a13] make
 it pork chops.
@@ -9722,8 +9645,6 @@ The coconut tree is developing buds now. Ang primírung ipusaw
 (ipamusaw) ánang lubíha way búngang mahímù, The first bud that coconut
 tree will bring forth will not develop fruit.
 
-
-
 pus-aw v [B; b6] {1} for a color to fade. Mipus-aw (napus-aw) ang
 sinínà sa dúgay nga uran, The dress faded after long use. {2} for
 liquids to become clear, less murky. Mupus-aw ang túbig kun papundúhun,
@@ -9808,8 +9729,6 @@ kumpanyáha, He has a high position in that company. v {1} [A; c1] move
 into position. Magpusisiyun na gánì ang mga bátà sa ílang sáyaw, isúgud
 dáyun ang sunáta, When the children are in position for their dance,
 start the music. {2} [A12] get a position in a firm.
-
-
 
 pusit n k.o. small squid.
 
@@ -10539,8 +10458,6 @@ pyanghaw in which the piece one is waiting for is drawn.
 
 pyanguk n = †pungaw.
 
-
-
 pyangut a having a look of distaste on the face. Pyangut ang íyang
 dagway kay gibahuan siya, He has a look of distaste on his face because
 it stinks here. v [B; c1] get a look of distaste on the face. Mauy
@@ -10635,8 +10552,3 @@ pyuríya = payuríya.
 pyúrus = bayúus.
 
 pyuus, pyúus = bayúus.
-
-
-
-
-

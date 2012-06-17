@@ -1,42 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-
-
-
-D
+=== D ===
 
 
 da {1} = ada. {2} = ra. {3} — man = mau ra (dialectal).
@@ -392,8 +357,6 @@ rumbling sounds.
 dagúhung n howling sound of the wind. v [B4; b6] make howling sound.
 Nagdagúhung ang hángin sa bagyu, The wind howled in the storm.
 
-
-
 dagukduk_1 (from dukduk) n hammering, knocking sound. v [B4] make
 hammering, knocking sound. Ug mudagukduk ang makina náay dipiktu,
 There’s s.t. wrong with the machine if it knocks. {2} [b(1)] go fishing
@@ -627,8 +590,6 @@ Gidaíkan nákù ang sigarilyu, I lighted the cigarette.
 dail n full moon. Inigsáwup sa adlaw mau say isubang sa dail, The full
 moon rises as soon as the sun sets. v [B; b6] for the moon to become
 full. -un a moon that is full.
-
-
 
 daílus v {1} [A; b6] move, slide or trickle slowly across or down on a
 surface. Inigsaylu sa balud mudaílus pud pagbálus ang sakayan, When the
@@ -959,8 +920,6 @@ dálam (not without l) n Congress.
 
 dalambà n scaffolding.
 
-
-
 dálan n {1} street, road, way. Giaspaltu ang tanang dálan, All the
 streets are paved. Nagbúlag silag dálan, They parted ways. {2} way,
 means. Ang pagbása dálan sa kinaadman, Reading is a way to knowledge.
@@ -976,8 +935,6 @@ dalángin see panalángin.
 
 dálap n k.o. measles with eczema, affecting the eyes. v [a4] have
 measles.
-
-
 
 dalapúgan n k.o. sea fish growing to a foot in length.
 
@@ -1057,8 +1014,6 @@ agtang, Sweat trickled down his forehead. n trickling.
 
 dalikdik n rolls, blobs of dirt on the body, esp. in the folds of the
 skin. v [a4] have folds of dirt.
-
-
 
 dalikyat v [A; b5c] do s.t. for a short time, go s.w. for a short time.
 Mudalikyat ku sa íla, I will stop in to see them for a moment.
@@ -1661,8 +1616,6 @@ make s.t., usually a house. Lig-un ug dapat kining baláya, This house
 is made of strong materials. a flat-footed. v [B2] become flat-footed.
 ig-r-(→) = dapat, n.
 
-
-
 dápaw_1 n {1} hair on plants that causes itchiness. {2} rash resulting
 from contact with plants that have itchy hair. v [b4] be affected with
 dápaw. dapawdapaw n k.o. sea urchin with fine, whitish needles. -un
@@ -2201,8 +2154,6 @@ dawuntawun n {1} downtown. {2} a light passenger vehicle which plies a
 certain route and picks up passengers. — ikspris = dawuntawun, 2.
 
 day see inday.
-
-
 
 day-a v [B; b6] for s.t. to hang out from a place in which it is
 contained. Miday-a ang íyang tinái, His guts were hanging out. Prútas
@@ -3725,8 +3676,6 @@ used in hemming, making buttonholes, and wherever a sturdy stitch is
 desired. v [A; b5] sew a hem. -díra n one who sews a hem. v [B156; a2]
 be a hemmer.
 
-
-
 dispunir v [A; b] take care of s.o.’s financial obligations for him. Wà
 kuy gidáng kwarta, Dispunihi ku úsà íni, I didn’t bring any money.
 Please take care of this for me.
@@ -4033,8 +3982,6 @@ us.
 
 drápir n medicine dropper. v [c1] use a medicine dropper.
 
-
-
 drayib v {1} [A; b(1)] drive a motor vehicle. {2} [A; c1] drive a ball
 in tennis or pingpong. Idrayib (drayba) ug kusug ang pingpung, Slam the
 pingpong ball. {3} [A; b6(1)] drive a basketball. {4} [A; b6] be the
@@ -4221,8 +4168,6 @@ Dugámis sa mangga, Sweet juice of the mango. v [A12S3] drip with sweet
 juice. Kansang ngábil nga nagdugamis sa kabatan-un, Whose lips are
 dripping with the honey of youth.
 
-
-
 dúgang v [AB2S4; c] add to s.t., increase in amount. Magdúgang ba tag
 palit? Shall we buy more? Nagdugang (nagkadugang) ang kasakit, Her
 illness is getting worse. Dugángi ang ákung báhin, Add to my share,
@@ -4240,8 +4185,6 @@ the mother-in-law joined in. {2} [A2; c] do s.t., usually unnecessary,
 as a sideline to one’s main business. Gidugapan níyag panlabáda ang
 súhul sa íyang bána, She took in wash as an addition to her husband’s
 salary.
-
-
 
 dúgay a {1} taking a long time. Dúgay nga intirbiyu, A lengthy
 interview. Dúgay ang kaayuhun sa sangla, It takes long for leprosy to
@@ -4482,8 +4425,6 @@ second cousins. tinagurha by two’s. v [A] do by two’s. Magtinagurha
 silag linya, They will line up in two’s. ika- n second. walay ikaduha
 without equal. Bakákun nga walay ikaduha, A liar without peer. kalúha
 see kalúha. kaluhaan, kaluwaan, kawhaan twenty.†
-
-
 
 duhadúha a {1} doubtful, unlikely. Duhadúha nga muabut siya, It’s
 unlikely that he will arrive. {2} suspicion. {3} hesitation. v [A; bc3]
@@ -4964,8 +4905,6 @@ dunat intir n a one-way street.
 have intercourse because the wife is menstruating. (Lit. You can’t
 cross because the river is flooding.)
 
-
-
 dundun_1 a for a surface to offer a braking effect to s.o. trying to
 walk over it. Dundun kaáyung laktan sa baybáyun, It is very difficult
 to walk on sand.
@@ -5154,8 +5093,6 @@ much too small. v {1} [B1256] turn out to be a virgin. {2} [A12; a3]
 get oneself a virgin for intercourse. {3} [b6] consider an opening
 small. {4} [A12] break in a virgin. Aku ang nakadunsilya ánang bayhána,
 I broke in that woman.
-
-
 
 dunsul = dungsul.
 
@@ -5778,10 +5715,3 @@ dyúwit = dúwit.
 dyuy rayding v [A1C; b6] go for a ride for pleasure. Nagdyuy rayding mi
 didtu sa riklimisyun, We went for a ride in the reclamation area.
 n ride.
-
-
-
-
-
-
-

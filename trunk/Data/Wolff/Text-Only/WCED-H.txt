@@ -1,39 +1,8 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
+=== H ===
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-
-H
 
 ha {1} particle at end of the sentence. {a} asking interlocutor if he
 understands. Dì ni sabunan, ha? Don’t wash this with soap, do you
@@ -656,8 +625,6 @@ who earns his living by stripping abaca.
 
 haguyag = hágud, v 2.
 
-
-
 hagwà = hadlà.
 
 hagwásun = agwásun.
@@ -1038,8 +1005,6 @@ halinub-un see túbù.
 haliphip v [A; b] mend holes in woven materials, esp. by reweaving the
 holes. Maáyu kay gihaliphipan na ang búyut masudlan nag humay, Now that
 the holes in the bag have been mended, we can put rice in it.
-
-
 
 halithálit v [A; b5c1] do s.t. hurriedly as time permits one to do it.
 Muhalithálit kug buwad ug humay mintras náay ínit, I’ll dry rice as
@@ -1604,8 +1569,6 @@ children rushed down the stairs. {3} [A13] move out of a place at top
 speed. Naghandalas mig panágan pag-ulan, We got out of there as fast as
 we could when it started to rain.
 
-
-
 handalítik = handilítik.
 
 handámay = handalámay.
@@ -2141,8 +2104,6 @@ hapag n {1} a round shallow tray made of woven thin strips of bamboo or
 rattan used by peddlers of food. {2} flat or only slightly sloping roof
 of nípà or cogon. v [c1] make a nípà or cogon roofing flat or slightly
 sloping.
-
-
 
 hapak v {1} [A; a1b28] strike s.t. forcefully, with a slapping sound.
 Hapaka ang búla inigsirbi nímu, Strike the ball hard when you serve.
@@ -2778,8 +2739,6 @@ hatdug n hot dog. v [A1; a12] fix hot dogs, have hot dogs as food.
 
 hátì v [A; a] hunt with a dog. Maáyu muhátì nang irúa ug usa, That dog
 is good for hunting deer.
-
-
 
 hat kík = hagkik.
 
@@ -3692,8 +3651,6 @@ and marine. hilahílà v [A; b6] {1} wriggle around. {2} remain seated,
 instead of working. Makahilàhílà ka kay daghan kag masúgù, You can
 afford to sit on your behind because you have lots of servants.
 
-
-
 hílà_2 v [A3P; a1] make a slash in flesh with s.t. sharp. Hiláa ang
 pinaakan sa bitin ug padug-a, Slit the snakebite and let it bleed.
 
@@ -4054,8 +4011,6 @@ nahimbà (mihimbà) ning bugas? Nakuháag dakù, Why do we suddenly have so
 little rice left? S.o. took a lot away from it.
 
 himbangkaágan = hibangkaágan. see *bangkáag.
-
-
 
 himbay a slow-moving, without energy in walking. v = himbayhimbay.
 himbayhimbay v [A1P; c1] dilly-dally in walking. Ngánung
@@ -5714,8 +5669,6 @@ experience. Mihukyaw ang ákung ginhawaan pagkakità nákù sa bátang
 naligsan, I was overcome with horror when I saw the child run over by a
 truck.
 
-
-
 Hul. n abbreviation for Hulyu, July.
 
 húlab v [AN2; b6] boast by telling a lie. Gihuwában mi níyang dakù
@@ -6166,8 +6119,6 @@ n relief, assuagement as an end effect. Walay kahumpayun (kahumpáyan)
 ning íyang kaguul, There is no end to her sorrows. ma-un, maka-r-
 a soothing.
 
-
-
 humpid v [A; c1] {1} arrange, stack things in a neat and orderly way.
 Akuy mihumpid (naghumpid) sa mga basíyung butilya, I arranged the empty
 bottles in order. Íyang humpírun (ihumpid) ang íyang mga papílis, He’ll
@@ -6256,8 +6207,6 @@ Hun. n abbreviation for Hunyu, June.
 hún v [A; b(1)] for birds, esp. poultry to roost to sleep. Kilumkílum
 na gánì muhún dáyun ang mga manuk, When it’s twilight, the chickens
 roost for the night.
-
-
 
 húnad v [A; b(1)] wash wounds, sores. Hunári ug alkuhul ang langgus
 arun dílì ansúyan, Wash the abrasions with alcohol so they won’t get
@@ -7082,8 +7031,6 @@ huwásù a shoddily made. Huwásù nga pagkaáyu sa sapátus, daling naukab,
 The shoes were poorly repaired. They came apart again. v [B1; c1] for
 workmanship to be poor.
 
-
-
 huwat (from hulat) expression commanding a draft animal to stop: whoa.
 
 huwátid = huyátid.
@@ -7226,7 +7173,3 @@ paggastu sa tibuuk puhúnan, It was showing poor judgment to spend all
 the capital. {2} state of consciousness. Gianistisyáhan ku, piru wà
 giyud ku mawad-i sa hwisyu, I was anesthetized, but I did not lose
 consciousness.
-
-
-
-

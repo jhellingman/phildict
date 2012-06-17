@@ -1,38 +1,7 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]>
-
-
-
-
-
-G
+=== G ===
 
 
 G. abbreviation for Ginúu ‘Mister’. G. ug Gng. Purtunátu Búut, Mr. and
@@ -858,8 +827,6 @@ gángì n dance (slang). v {1} [A1; b(1)] hold a dance. Sa ámù na lang ta
 maggángì kay luag, Let’s hold our dance at my house because there’s
 lots of room. {2} [AC; a] dance the slow drag.
 
-
-
 gangis n k.o. fish.
 
 gángis n k.o. cicada. háring — {1} the toughest of all, the most
@@ -1431,8 +1398,6 @@ with a vise so it will be easy to saw it.
 
 gátu_2 = gatilyu.
 
-
-
 gátud v [A; a12] make s.t. rough by covering it with cuts. Nagátud ang
 tabla nga gihímung taparan, The board got an uneven surface because it
 was used as a chopping board. gatudgatud a rough in surface. Gatudgatud
@@ -1791,8 +1756,6 @@ gilit n razor blade (from the brand name Gillette). v [a12] cut with a
 razor blade. Dì maputul nang hilúha ug dì gilitun, That string won’t
 break if you don’t cut it with a razor blade.
 
-
-
 gil-it v [A; c6] for a tiny portion of s.t. to stick out from behind or
 inside s.t. that conceals it. Migil-it na ang adlaw sa subangan, The
 sun has emerged from the east. Igil-it ang tumuy sa ímung dílà, Stick
@@ -2065,8 +2028,6 @@ Munti, Riot in the Muntinlupa prison. v [A2C; a2] have a civil war.
 Naggíra patánì ang managsúun báhin sa kabílin, The brothers and sisters
 are fighting to the death over the inheritance. di-, bapur di-, barku
 di-, búki di- n warship.
-
-
 
 giráwut v {1} [A1; a2] fire s.o. from his job. Gigiráwut siya kay
 tapulan, He was fired because he was lazy. {2} [A2; b3] get out of a
@@ -2379,8 +2340,6 @@ dealing with them. Íyang gipagrasyahan ang usa ka sapían pinaági sa
 pagsirbi ug maáyu niíni, He worked his way into the good graces of a
 wealthy man by serving him well.
 
-
-
 grasyáda n female working student in an exclusive girls’ school. v [B6]
 be a grasyáda.
 
@@ -2486,8 +2445,6 @@ The car sustained heavy damage so it was overhauled. a damaged, broken
 down, dilapidated. Gubà ang tulay, The bridge is out of order. -in-
 n pieces of materials from s.t. demolished. ma-un(←) a destructive. -un
 a of a broken-down, dilapidated sort.
-
-
 
 gubàgubà v vase shells, k.o. small univalves with rough, grey
 exteriors, furnishing edible meat.
@@ -3458,8 +3415,3 @@ pear-shaped, spiny fruits, very juicy, soft and fibrous, eaten as is:
 Anona muricata.
 
 gyíra = gíra.
-
-
-
-
-
