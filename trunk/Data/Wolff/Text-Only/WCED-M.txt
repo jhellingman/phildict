@@ -1,0 +1,3811 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]>
+
+
+
+
+
+
+
+M
+
+
+ma n short for the vocative of máma, ‘mother’.
+
+má = mala.
+
+mā̀ n {1} onomatopoetic word for the lowing sound of a cow or a water
+buffalo. {2} a cow or water buffalo (child’s talk). v [A; b6] low,
+produce a lowing sound.
+
+ma-_1 future verb affix. (Past: na-. Subjunctive: ma-.) {1} potential
+of the direct passive. (See -un_1 for meanings of the direct passive.
+See maka- for meanings of the potential.) Mapalit nà nímu bísag ása,
+You can buy that anywhere. Wà ku pa mabása, I haven’t had a chance to
+read it. Uy! Dì man diay ákù ning nadá nákung pitáka, Heavens, I took
+s.o. else’s purse by mistake. {2} potential of the instrumental
+passive. (See i-_1 for meanings of the instrumental passive.) Dì ni
+mabaligyà kay mahal da kaáyu ang prisyu, You can’t sell this because
+it’s too expensive. Wà pa nákù mahátag níya kay wà pa siya muabut, I
+haven’t had a chance to give it to him because he hasn’t arrived. Halá!
+Nabungat ra ba nákù ang sikrítu, Oh God! I let out the secret.
+{3} active of stative verbs: may become [so-and-so]. Ayaw nag hikápa.
+Magubà unyà nà, Don’t touch that. It might break. Ilhan nga mulubad
+nang panaptúna ug mapula ang túbig, You’ll know the cloth runs if the
+water turns red. Nawálà ang ákung singsing, My ring got lost. {3a} with
+roots that refer to nonvolitional actions: [do]. Matingála siya ug
+ngánu tu, He will be amazed at why it should be so. Wà ku mabaláka, I
+am not worried. Mahū́g unyà ka ug mabálì ang sanga, You will fall if
+the branch breaks. Ug matúlug na sila, When they are asleep. Mahadluk
+ku, I am afraid. Dì ka ba malúuy níya? Don’t you feel sorry for him?
+{3b} with nouns: become [so-and-so]. Ug maduktur ka na, When you get to
+be a doctor. {3c} with nouns which refer to a place: wind up in
+[such-and-such] a place. Malangit kag maimpirnu ba? Will you go to
+heaven or will you go to hell? Mauspital giyud kag pasagdan lang nà
+nímung sakíta, You’ll end up in the hospital if you let your sickness
+go. {3d} with nouns referring to time: get to be [such-and-such] a
+time. Ug maalas tris na gánì, mulakaw na ku, If it gets to be three
+o’clock, I’ll leave. Ug magabíi nag wà pa siya, If it gets to be
+nightfall and he hasn’t arrived. {3e} (only with the future) when
+[such-and-such] a time or season comes about. Magkítà ra silag mapista,
+They only see each other during fiestas. Tábù dinhi ug maduminggu, They
+hold market here on Sundays.
+
+ma-_2 {1} affix added to most adjective roots which do not refer to a
+measurement to form adjectives which mean ‘very [so-and-so]’. This
+formation is used in literary or formal styles. Usa ka mapait nga
+pahíyum, A very bitter smile. {2} added to some verbs to form
+adjectives meaning [do]ing, usually with a short penult. Bátang
+mahilak, A crybaby. Matulug, Of a sleepy sort. Matawa, Full of
+laughter.
+
+ma-ánun alternant of ma-un, used with some bases in place of ma-un.
+Masuk-ánun, Tending to get irritated.
+
+máas a old, aged. Bisan máas na siya tisar gihápung mulakaw, He may be
+old, but he still walks erect. v [B] become old. Kun mumáas na ang
+kalbásà dílì na maútan, When a squash becomes too old, it is no longer
+good to eat.
+
+maáyu see áyu.
+
+mabà = mubù.
+
+mabaw a {1} shallow. Mabaw ra kaáyu nang ímung pangatarúngan, Your
+reasoning is very shallow. Dì kalanguyan nang subáa kay mabaw, You
+can’t swim in that river. It’s too shallow. Ang baskit nga mabaw ug
+lubut diyútayg sulud, A shallow basket holds little. Mabaw nga
+panaksan, Shallow bowl. {2} in set expressions: — ug lubut sensitive or
+quick to anger. Muhílak diay bísag kumidiya ra. Kamabaw nímug lubut uy,
+Why did you cry when it was just a joke? How sensitive you are! {3} —
+ug salabútan unintelligent. Dúgay siyang kasabut kay mabaw rag
+salabútan, She doesn’t understand readily because she is unintelligent.
+v [B; b7c1] become shallow. Imabaw (mabwa) lang pagkálut ang tamnan ug
+kamúti, Just make the hole for the sweet potatoes shallow. hi-/ha-(→)
+see himábaw under babaw. -g- shallow (plural). i- n place above s.t.
+Imabaw sa kaban nákù gibutang ang libru, I put the book on top of the
+trunk. -in-, -in-g- v [a12] do in a shallow way. Kun minagbáwun lang ni
+nátù pagsabut ang giisplikar sa maistru, dílì giyud ta makapasar, If
+you fail to understand (lit. understand shallowly) what the teacher
+explained, you won’t pass. ka-(←) n half brother, sister. Kamábaw ku
+siya kay paríhu mig inahan, He is my half brother because we have the
+same mother. v [A23] be half brothers, sisters.
+
+mabdus a {1} pregnant. {2} for rice grains to be in the panicle. Mabdus
+na ang humay, The rice grains are forming. v {1} [B26] get, make
+pregnant. Mimabdus si Maríya kay hagithagitun kaáyu, Maria got pregnant
+because she was flirtatious. {1a} [A1; c] carry in the womb. Gimabdus
+nà siya pagkamatay sa íyang amahan, He was in his mother’s womb when
+his father died. {2} [B] for rice grains to form in the panicle.
+{3} [B1] for borrowed things to have been kept too long. Dúgay kaáyu
+nímung giúlì ang ákung libru. Mimabdus na nà, You kept my book too long
+(lit. so long that it got pregnant). {4} [B1] — sa pasálig get fooled
+by assurances (lit. got pregnant because of promises). Daghan nang
+mimabdus sa pasálig sa mga pulitiku, Many people have been fooled by
+the politician’s assurances. pa- v [A; c2] get s.o. pregnant.
+Gipamabdus (gipamabdúsan) si Maríya ni Pidru, Pedro got Maria pregnant.
+
+mabgas = malubgas.
+
+mabúlu n k.o. medium-sized tree of the primary forest, cultivated for
+its fruit. The wood is hard and used for furniture, the heartwood being
+nearly black: Diospyros discolor.
+
+mad-as a land that has dried up. v [B1] be, become dry land. Nagmad-as
+ang pilapilan nga walà na makultibar, The rice paddies are dry after
+being left uncultivated.
+
+mádil n fashion model. v {1} [A1; c] model s.t. {2} [B156; a2] be a
+fashion model. -un(→) a having a body like a model.
+
+madrasta n stepmother.
+
+madri_1 n nun. — dipamilya woman head of the family. — supiryúra mother
+superior. v [B156; a] be, become a nun. paka- v [A; a12] pretend to be
+a nun, treat like a nun. madrihun a having ways or traits of a nun.
+Madrihun kaáyug nawung bayhána, inusinti kaáyug dagway, That woman is
+like a nun. Such an innocent face.
+
+madri_2 n main frame of a door or window shutter. v [c1] make a main
+frame of a shutter.
+
+madri kakaw n small ornamental tree flowering profusely with pink or
+lavender blooms, used for firewood and fencing: Gliricidia sepium.
+
+madri míya an exclamation of alarm, surprise, or disgust mainly by
+speakers who have been under Spanish influence. Madri míya, tingálig
+mahū́g nang bátà, My God! Watch out, the baby is going to fall. Madri
+míya! Nabúhat nímu tu! My God! You actually did that!
+
+madrína n godmother, the female sponsor at one’s baptism, wedding,
+confirmation, or ordination. v [B136; c1] be, become the madrína.
+
+madyik n {1} magic involving supernatural powers. {2} sleight-of-hand
+trick. Nalingaw ang mga bátà sa ákung madyik, The children enjoyed my
+tricks. v {1} [A1; a2] practice magic. {2} [A; a] steal s.t. small.
+Huy, kinsay nagmadyik sa ákung bulpin diri? Hey, who swiped my ball
+point pen? -íru n magician.
+
+madyung_1 n {1} sandspurs, k.o. coarse grass growing about 1′ that
+bears spikes with rows of round burrs, around ¼″ in diameter. {2} the
+burrs of this grass. ka- v [A13] get sandspurs all over one.
+
+madyung_2 n mahjong. a win the mahjong set. Pung! Madyung ku, Bingo! I
+get mahjong! v {1} [A3; a] play mahjong. Dílì na lang ta magdúlag
+baráha. Madyúngun ta na lang ni, Let’s not play cards. Let’s just play
+mahjong. {2} [A12] win at mahjong. Wà pa ku makamadyung, I haven’t
+gotten mahjong yet. -an(→) n {1} mahjong den. {2} mahjong set.
+{3} piece needed to get ‘mahjong’. Ang madyungan ni Turuy tris sirkulu,
+Toroy is waiting for the three circle piece. -íru, -íra a mahjong
+addict.
+
+madyurit n drum majorette. v [B16; a2] be a majorette.
+
+mag- durative active verbal affix, future. (Past: nag- or ga-.
+Subjunctive: mag-.) Magmata sila árung urása, They are awake at this
+time. Nagmata (or gamata) pa ba kahà sila? Do you think they are still
+awake? Walà na sila magmata, They are not awake any more. Verbs with
+mag-, nag- have the following meanings (as opposed to verbs with mi-,
+mu- — see mu-): {1} action not necessarily intentional. Walà siya
+magsulti, He didn’t say. Walà ku maghátag níya ánang librúha, I didn’t
+give him that book. {2} durative action, action or state continuing in
+time. Wà na siya maghilak, He isn’t crying any more. Ug magtindug ang
+mga táwu sa atubángan, dì mi makakità, If the people in front are
+standing, we won’t be able to see. {2a} added to nouns. Ug magkalayu na
+ang kakugnan háyag kaáyu ang lángit, When the fields are ablaze, the
+skies light up. Human sa púlù ka gutlù, ang puthaw magbaga, After ten
+seconds the steel will glow. {3} added to verbs referring to a state:
+be in [such-and-such] a state. Ug mag-abri ang pultahan, musulud giyud
+ang lángaw, If the door is open, the flies are sure to come in. Walà na
+magtuyuk ang ligid, The wheel is no longer turning. {3a} added to
+adjectives: be [adj.]. Magmalipáyun ta, Let us be happy. Mawà kay
+hitsúra ug magpula nang ímung nawung, You will not look good if your
+face is all red. {3b} added to words referring to a state of the
+weather. Atúa giyud siya sa dágat, magbálud kinig maglínaw, He is at
+sea, whether it is wavy or calm. Mag-ulan kag mag-ínit, Rain or shine
+(lit. whether you are rainy or shining). {4} referring to an action
+which redounded on the agent: do [so-and-so] to oneself. Mag-ílis pa
+ku, I will change my clothes. Gustu kung maglumus, I want to drown
+myself. {4a} added to nouns: become a [so-and-so]. Magpárì ku, I will
+become a priest. Magsirkadur tingáli ning bataána, This child probably
+wants to become a trapeze artist. {5} referring to an action which two
+or more people did with each other. (Verbs with mag- of this sort
+always have penultimate stress.) Didtu sila mag-ábut, They met in that
+place. Magsákay ta, Let us ride together. Ug maglagyù pagkabutang ang
+mga balay, If the houses are far apart from one another. {5a} with
+nouns: be in the [noun] relation. Magkumpári kami ug akuy pakugúsun sa
+íyang anak, We will be kumpári’s if I become his child’s godfather.
+Mag-amígu lang ta, Let’s be friends.
+
+maga- alternative form for mag- in meanings 2, 2a, 3, 3a, 4. Words with
+maga- can substitute for the examples there given.
+
+Magahat n pagan non-Cebuano peoples in the mountains (applies to pagans
+in Negros and in Mindanao). v [A13] be very touchy. Ug napildi ka ug
+dakù magmagahat diay ka? You are touchy just because you lost heavily?
+
+magalyánis n downtown shopping district of Cebu (after the name of
+Magallanes Street, which formerly was the principal shopping street in
+Cebu).
+
+magang, mágang v [BN] for corn to flower. Inigmagang sa mais, mugítib
+na ang lugas, When the corn flowers, the grains begin to develop.
+
+magasin_1 n magazine, periodical.
+
+magasin_2 n ammunition clip for automatic firearms.
+
+magay n maguey, cultivated as a source of sisal fiber: Agave cantala or
+sisalana. (←) v [A] make into sisal hemp. magay mágay n ornamental
+plant similar to the maguey but smaller in size: Sansevieria spp.
+
+magaya = malagaya.
+
+Magindánaw n Muslims of Cotabato and Zamboanga del Sur.
+
+magka- durative active future for verbs referring to a state: be,
+becoming more and more [so-and-so]. (Past: nagka-. Subjunctive:
+magka-.) Verbs with this affix always have a stressed final syllable.
+Imbis nga magkakusug, nagkahinay hinúun, Instead of getting faster and
+faster, it was getting slower and slower. Wà lagi magkaduul ang bapur
+nganhi, nagkalayù hinúun, The boat is not coming nearer. It’s actually
+getting further and further away.
+
+magka-(←) potential active verb affix, future. (Past: nagka-.
+Subjunctive: magka-.) Used with verbs referring to mutual actions (cf.
+mag-_1, 5) but otherwise paralleling the potential meanings listed
+under maka-. {1} can [do] with each other. Dì tang tanan magkasákay, We
+cannot all ride together. {2} manage to [do] with each other. Wà mi
+magkasábut, We didn’t manage to come to an agreement. Nagkaábut sila sa
+tungàtúngà, They met in the middle. {3} happen to [do] with each other.
+Ug magkakítà gánì ang ímung babáyig asáwa, If your mistress and your
+wife happen to run into each other.
+
+mag-l- alternant of mag-r-, and usually in competition with it, but
+with some roots only mag-r- is frequent or the form with mag-r- has
+acquired a different nuance. Magbalantay, Watchman. Magbuluhat ug mga
+mwiblis, Furniture maker.
+
+maglalatik n k.o. folk dance in which half coconut shells are knocked
+to the rhythm of the accompanying music.
+
+magnisya n milk of magnesia. — simpli a half dose of milk of magnesia
+(as opposed to — dubli, the full dose).
+
+magnit n {1} magnet. {2} kissing scene (slang—from the notion that the
+faces come together as if magnetized). Daghang magnit ánang salidáha,
+There are plenty of kissing scenes in that movie. {3} syúgar — sugar
+magnate. v [A; a] {1} pick up with a magnet. {2} swipe, steal, spirit
+away. Kinsay nagmagnit sa ákung bálùn? Who swiped my lunch? {3} [C]
+kiss one another usually in a show (slang). a won over. Inigkanta nímu,
+magnit na silang tanan, When you sing, they’ll all be won over.
+
+mag-r- n prefix added to verbs to form nouns which refer to one who
+does [verb] on a regular basis. Magbabantay, Watchman. Magsusúlat,
+Writer. Magpapatigayun, Businessman. Magyuyutà, Landowner or farmer.
+Magbubúhat, The Creator (God) or one who does.
+
+magsúun see *súun.
+
+magtalisay n k.o. tree similar in shape and appearance to the talísay,
+but with smaller leaves and harder wood: Terminalia sp.
+
+mágu n {1} magi. {2} s.o. outstanding, expert. Mágu sa kinablit, A
+wizard at the guitar.
+
+mágù n tarsier.
+
+magus = amagus.
+
+máha n name given to various puddings and confections. — blangka
+pudding made of kernels of young corn and coconut milk or just plain
+milk. — diúbi a pudding made of úbi and coconut milk. — riyal candy
+made out of peanuts, milk, and sugar.
+
+mahal a {1} dear, expensive. Mahal na kaáyu ang bugas karun, Rice is
+very expensive now. Magbáyad kag mahal sa ímung gibúhat, You shall pay
+dearly for what you have done. {2} beloved. Siya ang ákung mahal
+(minahal) nga bána, He is my beloved husband. {3} blessed (address to
+saints). Pasalamáti ang Mahal nga Birhin, Give thanks to the Blessed
+Virgin. {4} — nga adlaw the days of the Lenten season. {5} in set
+phrases: very little, almost without. — ug pahíyum stingy with the
+smiles. — ug tíngug weak-voiced. v {1} [B; ab7] become expensive, go up
+in price. Basta Amirkánu mupalit, mahalun giyug baligyà, For an
+American the price is always jacked up. {2} [A; a12] love. Ang mga
+bayáni nagmahal sa ílang yútang natawhan, Heroes love their native
+land. Gimahal ku ikaw, I love you. -in- n beloved, dear one. ka-an(←)
+n majesty (address to royalty). Matúman ang ímung gihangyù, kamahálan,
+Your order will be fulfilled, Your Majesty. -l-un(←), -un(←)
+a precious. -un a dear or costly kind. ma-in-un(←) a loving,
+affectionate.
+
+mahan = man kahà (dialectal). see man.
+
+maharlika n the name given to the native nobles in pre-Hispanic times.
+
+máhay n feelings of hurt and regret at what s.o. did. Arun walay máhay
+apúran ta kamung tanan, So there will be no hurt feelings, I’ll give
+you each one. v [A; b3c5] have feelings of hurt. Nagmáhay kung napalit
+ku tung sapatúsa, I’m sorry I bought those shoes. Ikay ákung gimaháyan
+sa nahitabù, I blame you for (lit. you are the reason I’m regretting)
+what happened. Gikamaháyan ta ka kay wà ka mudúaw nákù, You hurt me
+because you did not pay me a visit. walay — v [A13] there was nobody
+that felt bad, said in two situations: when people who attack on s.o.
+are beaten up instead (i.e., they cannot blame anyone but themselves),
+and when people who set on s.o. are unsuccessful (i.e., no one felt bad
+because they were successful).
+
+mahika n magic.
+
+mahiku n word referring to an unknown location when asking or giving a
+location, usually used in anger. Lupad ngadtu sa mahiku, animála ka,
+Get out, I don’t care where, you beast. Ambut ásang mahikúha tu nákù
+ikabutang ang pisti nga hunsuy, I don’t know where the heck I left that
+blinkety-blank pipe.
+
+mahistrádu n judge. v [B156; a12] be made, become a judge.
+
+mahugani n mahogany.
+
+maigang n medium to large tree of the primary forest, with fruit
+similar in flavor and taste to lungbuy: Eugenia polycephaloides.
+
+mailúku = mamilúku.
+
+ma-in-un(←), ma-in-ánun alternant of ma-un used with some bases in
+place of ma-un. Matinabángun, Helpful. Masinabtánun, Full of
+understanding.
+
+mais n {1} maize, the corn plant or any part of it. {1a} bugas — corn
+grits. Mahal na ang prisyu sa bugas mais karun, The price of corn grits
+has increased. v [A1] have corn grits as one’s staple food. Nagmais
+lang mi kay barátu man kay sa humay, We had corn grits as our staple
+food because it is cheaper than rice. -an, ka-an, -al n cornfield.
+v [A1; a12] have a cornfield. maismáis n {1} ornamental plant similar
+to the corn plant, and growing up to 3′: Dracaena sanderiana and  D.
+fragrans. {2} folding knife with a handle that is made of sheet metal,
+molded into the form of an ear of corn. {3} name given to the largest
+species of flying fish (bangsi). -un = maismáis, 3.
+
+maistra n {1} female teacher. {1a} term of address or title for a
+teacher. Nía na si Maistra Lúling, Here is Mrs. Loling, the teacher.
+{2} education course. Maistra ang gikúhang kursu ni Pirla, Perla is
+majoring in Education. (→) voc. teacher, ma’am. v {1} [A; b6] for a
+woman to teach. Tunghaan nga gimaistráhan ni Sunya, The school where
+Sonia is teaching. {2} [B156; a1] be a (female) teacher. Maistráhun ku
+ning ákung anak, I’ll make my daughter into a teacher. ubra — see ubra.
+
+maistru n 1, 1a = maistra (male). {2} education course. {3} the leader
+or instigator of activity, usually bad. Ikay maistru sa tanang mga
+binúang, You are the instigator of all the foolishness. {4} band or
+orchestra master. Pasakalyi, maistru, kay mukanta ku, Introduction,
+maestro. I shall sing now. — ámu boatswain. — kusiníru chief cook.
+v {1} [A; a] teach. {2} [B6; a1] be a teacher. †
+
+maka-_1 potential active verb affix, future. (Past: naka-. Subjunctive:
+maka-. Short form: ka-.) Dì ku makaalsa (kaalsa) niánà, I cannot lift
+that. Nakatilaw (katilaw) na ku niánà, I have tried that. Wà ku
+makasakay (kasakay), I couldn’t get a ride. {1} refers to an action
+s.o. has the capability of doing. (Only the future form is used in this
+meaning.) Makamau na kung mukinatsilà sa nag-idad kug diyis, I knew how
+to speak Spanish when I was ten years old. {2} refers to an action
+which one had the opportunity or managed to do. Ug makaadtu ku sa inyu
+human sa paniudtu, muhapit ku, If I get a chance to go to your place
+after lunch, I’ll drop in. Wà ku makalakaw kay síging abut ang mga
+bisíta, I didn’t have a chance to go out because we kept having
+visitors. {2a} with nouns: manage to get. Ug trís ákung mahulbut run,
+makamadyung ku, If I draw a three, I will get mahjong. Niíning trabahúa
+hálus ta makasininà, With this work I can hardly earn enough to buy a
+shirt. {3} refers to an accidental or unintentional action. Diriyut
+siya makaihì sa dihang gilatigu siya sa íyang inahan, Her mother
+whipped her so hard she nearly wet her pants. Makaingun kag nindut ug
+makakità ka, Once you see it, you won’t be able to help exclaiming at
+how beautiful it is.
+
+maka-_2 short form: ka-_4 n affix added to numbers to form words which
+mean [do so-and-so] many times. Makapila (kapila) ku na ikaw ingna? How
+many times did I tell you? Makaduha na ku malígù didtu, I have gone
+swimming there twice. Makadaghan na ku mabiktima, I have been
+victimized many times.
+
+makahiyà = kipìkipì. see kipì.
+
+makalibri = kalibri_2.
+
+makan n {1} macan, k.o. large-grained rice of wet fields, highly prized
+for ordinary eating. {2} k.o. very fat pig. a obese. Gwapahun untang
+bayhána apan makan lang, She’s quite beautiful, only she’s fat.
+
+makapunù (from punù) n variety of coconut which produces ordinary fruit
+and once in a while fruit which are completely full of soft meat,
+slightly harder near the shell. The makapunù fruit is highly esteemed
+and is used for sweets.
+
+maka-r- affix added to verbs referring to a state to form adjectives
+which mean cause s.o. to get into [such-and-such] a state to a great
+extent. Forms with this affix usually have long penults. Makasusúbung
+hitabù, A very saddening event. Makalulúuy, Inspiring pity.
+Makalalagut, Angering.
+
+makarúni n macaroni. v [A13] cook a macaroni dish.
+
+Makaw n {1} Chinaman from Macao. {2} Chinaman in a restaurant business
+(so called because many cooks in Chinese restaurants immigrated from
+Macao). lútung — see lútù.
+
+máki_1 n a large, enamel-coated, round, metal platter, 18″ or so in
+diameter for holding cooked rice or corn.
+
+máki_2 n a Chinese dish of sliced meats, stewed and thickened with
+cornstarch.
+
+makig-(←) prefix added to bases with a prefix pakig- to indicate
+future, volitional active forms. Past: nakig-. Subjunctive: makig-. No
+durative or potential forms. (See pakig- for meanings.) Short forms:
+kig- and tig-. Makigkáun (kigkáun, tigkáun) siya nákù sa gawas, He
+wants to take me out to eat. Nakig-áway siyag dakung táwu, He picked a
+fight with a large person. Walà ku makigpustaánay níya, I did not
+challenge him to bet.
+
+makina n {1} machine. {2} engine. Dílì na muandar ang makina sa awtu,
+The automobile engine won’t start. {3} sewing machine. Ang makina
+kinahanglánun kaáyu sa sastri, A sewing machine is a necessity to a
+dressmaker. {4} — sa bugas corn, rice mill. — dimutur n motorized
+machine, engine. v [a12] {1} do by machine. Ayawg kinamuta nà pagtahì,
+makinaha nà, Don’t sew it with your hands. Do it by machine. {2} put an
+engine s.w.
+
+makinarya n {1} machinery, set of machinery put together for a specific
+use. {2} machinery, set of activities or groups organized to accomplish
+s.t. Ang makinarya sa Partídu Libiral, The machinery of the Liberal
+Party.
+
+makinilya n {1} typewriter. {2} clipper to trim hair. {3} windlass.
+v {1} [A; a2] type. Makinilyáhun giyud basta sulat nga aplikisiyun,
+Letters of application should be typed. {1a} [A; a12] hit with a number
+of rapid blows, as if punching a typewriter. Gimakinilya nákù siyag
+dyab, I hit him with a rapid-fire succession of jabs. {2} cut hair with
+a clipper. -ádu, -in- a typewritten.†
+
+makinista n engine man, machine operator. v [B16; a2] become an engine
+man.
+
+makiníta n {1} process of embroidery done by pricking the needle over
+the design on the top side of the cloth until the whole design is
+completed, after which the design on the bottom side is trimmed. The
+top becomes the right side. {2} needle for this sort of embroidery.
+v [A; a2] embroider in this method.
+
+makmak v {1} [A; a1] pound s.t. hard with s.t. Makmáka ang puthaw
+samtang ínit pa, Pound the iron while it is hot. {2} [A; ab2] beat
+severely, pound. {2a} — ug kasábà, sulti [A; a12] scold severely,
+lambast. Dì ka ángay mumakmak níyag kasábà kay dì ka ginikánan, You
+have no right to scold him severely because you are not his father.
+
+makra = marka.
+
+maksut = laksut.
+
+mákù = dakù (dialectal). — dyamù very big. Mákù dyamù ang ílang báy,
+They have a huge house.
+
+makúpa n k.o. small tree cultivated for its red, top-shaped fruits,
+with white, spongy meat and a mild flavor, a large meaty variety of the
+Syzygium samarangense. The same genus as tambis, but much firmer of
+flesh.
+
+mal n {1} in billiards, a false shot causing one to lose his turn.
+{2} unlucky number. Daghang mahadluk sa numiru trísi kay mal kunu, Lots
+of people are afraid of thirteen because it is said to be an unlucky
+number. v [B126] make a bad shot. Mamal kag láin ang maigù sa bulamánu,
+You lose your turn if you hit the wrong ball. — numiru = mal, n2. —
+tiráda n in billiards, a shot that is not well executed. Mal tiráda
+tung ímu kay layù ra kaáyu sa lungag ang ímung gitiráhan, That was a
+bad shot. The target ball was a mile from the pocket.
+
+mala a {1} dry, not wet. Mala na ang mga hinayhay, The clothes that
+were hung up are dry now. {2} not displaying lively attention,
+disinterested. Tingálig dì siya muapil kay mala siya ug tinubagan, He
+probably won’t participate because he gave a disinterested answer.
+v {1} [APB; a2] dry up, become dried. Mimala ang mga sapà, The rivers
+dried up. Ang kaínit sa adlaw mauy mumala (mupamala) sa mga basakan,
+The heat of the sun will dry the rice fields up. Nag-úsik lang sa
+panahun ang nagmala (nagpamala) íning salúga, Whoever dried this floor
+off was just wasting his time. Tiil nga makamalag (makapamalag)
+basakan, Big feet (lit. that can dry up a rice paddy). Namad-an ug
+singut ang íyang bukubuku, The sweat on his back has dried up.
+{2} [A13] be uninteresting, boring. Wà ku mutiwas sa sini kay nagmala
+lang, I did not see the movie to the end because it was boring.
+{2a} [b4] — sa dugù become pale. Pagpangutána sa pulis, gimad-an sa
+dugù ang nawung sa dalága, The lady’s face became pale when the
+policeman questioned her. ma- n land. Ang ubang bakì nagpuyù sa túbig,
+ug ang uban sa mamala, Some frogs live in water and some on land.
+tilapya sa ma- n prostitute (humorous). kamad-an n upland rice field.
+
+malabagákay n k.o. rattan used in house building.
+
+malabanu = gwayabanu.
+
+malabutang n k.o. rattan used in construction.
+
+malagaya n k.o. white-husked rice with very small, roundish, white
+grains, used in preparation of medicinal rice cakes or mixed with
+medicinal plants in poultices.
+
+Malakanyan, Malakanyang n Malacañang, the Philippine Presidential
+Palace.
+
+mal-am a {1} old in age. {2} grown up, but not doing things befitting
+one’s age (derogatory). Mal-am na, lubut gihápuy ilingkud, He is
+already grown but he hasn’t got anything upstairs (lit. all he does
+with his buttocks is sit on them—a readily understood circumlocution
+which avoids stating outright a hurtful truth).
+
+malangsi n k.o. sardine or small herring, growing to 4″ long and 1″
+wide.
+
+malapati n k.o. fish.
+
+malapi (not without l) kumpradur di- n one who buys goods which he
+knows the seller has no right to dispose of. v [B1256] be a buyer of
+stolen goods. Makumpradur dimalapi giyud ka kun makapalit ka niánang
+kináwat, You’ll be a buyer of stolen goods if you buy that stolen
+article.
+
+malapunti n k.o. red deep-sea fish with big reddish scales, 2′ by 6″,
+similar to a snapper, but with a filament projecting from the tip of
+the tail.
+
+malarya n malaria. v [A123P; a4] get, cause to get malaria. Way lamuk
+nga makamalarya (makapamalarya) dinhi, There are no mosquitoes here
+that cause malaria. Tambáli ang gimalarya, Give medicine to the man
+with malaria. malaryahun a having malaria.
+
+málas see dimálas.
+
+malasádu, malasáwu a soft-boiled, half-cooked. Malasádung itlug,
+Soft-boiled eggs. Ang atay malasádu nga pagkalútù, The liver was cooked
+rare. v [A1B26; a2] come out soft, rare, cause to do so.
+
+malasugi, malasúgi n swordfish or sailfish: Xiphias gladius, et al.
+
+malatálu a bananas that are almost full-grown (but still far from
+ripe). Basta tinggutum tub-un na ang ságing bísag malatálu pa kaáyu, In
+times of famine they cut down the bananas even before they mature.
+v [B3; b6] for bananas to reach this stage.
+
+malatinduk n mackerel scad, k.o. carangoid fish, but long and fleshy
+like a tinduk banana.
+
+*málay walay — innocently unaware, unknowing (slang). Way málay ang
+asáwa nga may kabit ang íyang bána, The wife was unaware that her
+husband had a mistress. Wà silay málay nga gipitluk nag ílang manuk,
+They were unaware that their chicken had been stolen.
+
+maláyang n k.o. fine, white rice introduced by the PACD.
+
+malaypálay n poisonous part of the viscera and skin of a pufferfish,
+which is removed before eating.
+
+Maláyu n Malay in race. a tending to have the features of the Malayan
+race.
+
+malbas = marbas.
+
+maldisiyun n malediction, a curse. v [A; b2c1] curse. Imaldisiyun
+(maldisiyunun) siya sa párì, The priest will pronounce a malediction on
+him.
+
+maldíta = maldítu (female).
+
+maldítu a {1} naughty, evil. Kadtung maldítung bátà ang nagpapilit sa
+babulgam sa ímung sinínà, That naughty child put bubble gum on your
+dress. Daghang maldítu sa piyir, There are lots of bad types at the
+waterfront. {2} having unexpected ability. Maldítu! Natubag giyud ang
+dyakpat nga pangutána dà, He’s smart! He answered the jackpot question
+correctly. — sa babáyi one who deceives women. v [B12; b6] become
+naughty. -in-(→) a in an evil way. v [A; b] do mischief, evil,
+philander. Makamau nang muminalditu ang gamay kung anak, My little baby
+has already learned how to be naughty.
+
+mal-idukáda = mal-idukádu (female).
+
+mal-idukádu a ill-educated, ill-mannered. v [B126; b6] be ill-educated
+or bad-mannered.
+
+malígas = hulmígas.
+
+malignu n spirits of departed people who have not entered heaven and
+are doing their penance (kundínu). If they are not prayed for they may
+inflict sickness as a reminder. ispiritu — = malignu. v [A1; a4] be
+sick with an illness sent by a malignu.
+
+malignù = karbalyas.
+
+malimnu = karbalyas.
+
+malingka see himalingka.
+
+malisya n {1} awareness of sex. Dúna na siyay malisya kay dì na man
+maghúbù ug malígù, She is already aware of her sex because she won’t
+bathe in the nude any longer. {2} bad thoughts regarding sex. Ug way
+malisya, ngánung miagik-ik man ka? If you are not harboring evil
+thoughts, why are you snickering? {3} ill will. Way malisya ang ákung
+paghátag niíni, There’s no ill intent in my giving this to you. {4} bad
+omen, usually of death or misfortune. v [A13; b] send such an omen.
+Nagmalisya siya únà mamatay. Nagpakítà únà siya sa íyang mga anak nga
+túa sa Amirika, He sent an omen before he died. He appeared to his
+children in America. malisyúsa = malisyúsu (female). malisyúsu
+a {1} conscious of sex in an unwholesome way. Ngánung dì ka man
+pagúnit? Kamalisyúsu gud nímu! Why don’t you want me to touch your
+hands? How sex-conscious you are! {2} maliciously done, out of ill
+will. Malisyúsung mga pasángil nga way gipasikáran, Malicious and
+baseless accusations. v [B12; a2] {1} be, become sex conscious in an
+unwholesome way. {2} become malicious in behavior.
+
+málit n mallet.
+
+malíta n suitcase. v [A13] carry a suitcase. Magmalíta lang ku kay
+daghan kug dalhunun, I’ll take a suitcase because I have so many things
+to take.
+
+malitin n {1} a leather bag designed to hold medicine and some medical
+instruments. {2} a small suitcase.
+
+malmal_1 v [B1256; a12] be taught, rehearsed, or be inculcated to a
+high degree. Namalmal mig maáyu sa ininglis kay Amirkánu ámung maistru,
+We were taught English thoroughly because our teacher was an American.
+Malmálun nátù ang bátà sa bili sa pagdagínut, We will inculcate the
+value of thrift in the children’s minds.
+
+malmal_2 v {1} [A; a1] beat s.o. up, usually in the mouth. Akuy
+mimalmal sa irù nga mikáun sa isdà, I gave the dog that ate the fish a
+sound beating. {2} [A; a12] use s.t. or scold s.o. abusively. Natural
+nagubà ang makinilya kay gimalmal, Of course he broke the typewriter
+because he abused it. Malmálun kag kasábà bísag gamayng sayup, You get
+abusive scoldings for the slightest mistakes.
+
+malpagadur a failing to pay one’s debts. v [B1256] get to be a
+defaulter in one’s debts. Ug mamalpagadur ka, wà nay musálig pagpaútang
+nímu, If you become a bad debtor, no one will dare allow you credit.
+-a(←) = malpagadur (female).
+
+maltabána n glazed brown urn, about 2′ high with a small mouth and
+handles at the shoulders. v [A13; a12] make into, put in glazed clay
+jars.
+
+maltratar v [A; a12] maltreat, mistreat. Maltratahun siya sa íyang
+amaáma, His stepfather will maltreat him.
+
+*málu — pa ug {1} on the chance that [such-and-such] a good thing
+happen. Palit tag swipstik, málu pag makaswirti, Let’s buy a sweepstake
+ticket. We might just win. {2} [so-and-so] isn’t bad, if that is what
+comes out. Málu pa nà ug swildúhan kag bayinting adlaw? Would it be bad
+if you were paid twenty pesos a day?
+
+malù_1 — [dat.] serves [dat.] right. Malù nímu nga gipagirawut kay
+tapulan ka, Serves you right that you were fired because you are lazy.
+
+malù_2, málù_1 n pollen of corn. v [A1] grow pollen. Dì na dúgayng
+masanggì ang mais basta magmalù na, It won’t be long before the corn
+can be harvested if there is pollen in the tassel.
+
+málù_2 n the one who is ‘it’ in the game of takyan or marbles. v [A;
+a12] make a person remain ‘it’ for a long time. Malúun kug maáyu si
+Huwan pinaági sa pagpátid sa takyan ug layù, I’ll make Juan be ‘it’ for
+a long time by kicking the shuttlecock far away.
+
+malubgas n k.o. small anchovy with a dark blue dorsal region and
+silvery white on its ventral region, widely eaten preserved in salt.
+
+
+
+maluíbun n name given to ornamental climbing vines with dark green or
+yellow green cordate leaves, often grown indoors: Scindapsus aureus and
+Philodendron oxycardium.
+
+málung n name of the sarong worn by the Muslims. v [A13; b6(1)] wear a
+málung. {2} [a2] make into a málung.
+
+malunggay = kalamunggay.
+
+málus_1 a highly fermented salted fish paste. Málus na ang ginamus, The
+salted fish paste is already highly fermented. v {1} [AB2] for salted
+fish to become highly fermented, cause it to do so. {2} [B] develop a
+horrible smell. Kalígù na kay nagkamálus ka na, Take a bath. You’re
+beginning to smell awful.
+
+malyíti n gavel.
+
+malyurka n a k.o. liquor of low proof made from cane sugar, flavored
+with anise.
+
+mám n {1} ma’am, term of address to a teacher or woman of high station.
+Maáyung buntag kanímu, mám, Good morning, Ma’am. {2} lady teacher. Usa
+sa mga mám nákù sa hayiskul mau si Mis Agápay, One of my teachers in
+high school was Miss Agapay. v [A13; a12] call s.o. Ma’am.
+
+máma_1 n mother. v [B13; a12] call s.o. máma.
+
+máma_2 n mute. v [B12] become a mute. Namáma nà siya tungud sa
+kalísang, He was struck dumb by his great fright.
+
+mamà n {1} chew of betel nut (búnga) and piper betel leaves (búyù) with
+lime (ápug) and optionally tobacco. {2} action of chewing. v [AC12;
+a12] chew betel nut. Dì ku makamamà kay hálang, I can’t chew betel
+because it burns the tongue. — ug dugù v [A13; c] get a bloody mouth
+(lit. chew blood). Magmamà ka giyug dugù ug hisumbagan ta ka, You will
+have a bloody mouth if I punch you. mam-anan, malam-an n container for
+the lime, betel nut, and betel leaf. malam-un n set of complete
+ingredients ready for chewing. hiN- a fond of chewing betel.
+
+mamadur n breast pump. v [b] use a breast pump.
+
+mámam n {1} baby talk for inum ‘drink’. {2} drinking spree (humorous
+slang). v {1} [A] drink (baby talk). {2} [AC; a] hold a drinking spree.
+Puwa na ang tápay, nakamámam tingáli, His ears are red. He must have
+had s.t. to drink.
+
+mamay n {1} wet nurse. {2} any nursemaid. v {1} [A; a] wet-nurse.
+Gimamay ang bátà nga ílu, The orphaned infant was wet-nursed. {2} [A;
+a] take care of a child. Siyay nagmamay sa tanan námung mga bátà, She
+took care of all our children.
+
+mambad = manbad.
+
+mambu n mambo, a Latin American dance and its music. v {1} [A; a12]
+dance the mambo. {2} [c1] play music in mambo rhythm.
+
+mámi_1 n mommy. v [A3; a12] call s.o. mommy.
+
+mámi_2 n a Chinese dish consisting of soup and narrow egg noodles with
+meat. v [A; a] make mámi.
+
+mamilúku n child’s sunsuit, a one-piece romper with short pants and no
+sleeves. v {1} [A; a] wear a sunsuit. {2} [c16] make into a sunsuit.
+
+maming = lubaylúbay, n. see lubay.
+
+mampud short for mánu man pud. see ngánu and upud.
+
+Mampur n Montford, a person who is said to have lived in olden times.
+karáan pa ni — older than Montford. Tabas sa íyang bistídu nga karáan
+pa ni Mampur, Style of dress that dates back to Montford’s time.
+panahun pa ni — very old, from Montford’s time. Sa panahun pa ni Mampur
+ang ákung radiyu ug wà pa giyud magubà, My radio is as old as the hills
+and still in fine shape. Sa panahun pa ni Mampur nang kumidiyáha, That
+joke is as old as the hills.
+
+mamsà_1 n {1} name given to the large species of Caranx, a
+highly-prized food fish. {2} dakung — influential, important person.
+
+mamsà_2 n schoolteacher, humorous word play on mám. Ayaw mug sábà kay
+náa na si Mamsà, Everybody shut up. The teacher is coming. v [B126] be
+a schoolmarm.
+
+mamun_1 n k.o. sponge cake. v [A; a12] make, make into mamun.
+
+mamun_2 n k.o. fruit tree similar to a gwayabanu but with a smaller and
+rounder fruit: Anona sp.
+
+mámurd, mámurds a {1} marbles without a flaw. {2} for girls to be
+well-rounded and smooth-skinned. Mámurds kaáyu ang trátu ni Bin, Ben’s
+girl friend is very beautiful. mamuray v [C2] compare which is the
+smoothest, most well-rounded. Mamuray tag dyúlin, Let’s compare our
+marbles to see which is the smoothest and best rounded.
+
+man {1} because. Kay ang íya dapit man sa dáhun, mamúnga dáyun, Because
+his part was the part with the leaves, it would bear fruit quickly. —
+ugud because (giving an explanation). Namatay ang tanum kay wà man gud
+bùbúi, The plant died because no one watered it. {2} after an
+interrogative: particle to make the question not abrupt. Háin man siya?
+Could you tell me where he is? {3} particle with a statement
+contradicting a previous statement or presumption. Dì man nà mau,
+That’s not the one. {4} particle with a statement giving information.
+Nía man si Pidru karung buntága, Oh, Pedro is here this morning. — diay
+I notice that. Nindut man diay ka kaáyung mukanta! Oh, I see you sing
+very beautifully. — kahà [so-and-so] apparently is the case. Kami man
+kahay muluhud, anus-a man ang kasal? We are supposed to sponsor you, so
+when is the wedding going to be? Dì lang ka tagáan. Dì man kahà ka
+gustu, I won’t give you any. You apparently won’t want any, anyway. —
+lagi I notice [so-and-so] is the case, nevertheless. Ingun siya dì ka
+muanhi. Nía ka man lagi, He said you weren’t coming, but here you are!
+{5} in other phrases: ingun — as well as. Mubuhis ang tagasyudad ingun
+man ang tagabaryu, The city people, as well as the barrio folks, pay
+taxes. mau — gánì that’s why, despite what you would expect ... Mau man
+gánì nga namula ang ákung pánit kay nabulad ku, I have red skin,
+despite what you would expect, because I was out in the sun. na — see
+na, 4. pála — run that’s flattery. Pála man run ug dì pa tinúud, That
+would have been flattery if it were not true. túud — and so, as one
+would expect. Túud man miabut dáyun ang pulis, And so, as one would
+expect, the police immediately arrived.
+
+maN- (see p. xvi for the meaning of the symbol N) prefix added to bases
+with a prefix paN- to indicate future volitional active forms. (past
+naN-; subjunctive maN-. Durative forms: future and subjunctive
+magpaN-(→); past nagpaN-(→). Potential active: future and subjunctive
+makapaN-; past nakapaN-.) Mangutána ta kun háin siya, Let us ask where
+he is. Wà siya mangutána, He didn’t ask. Nangutána ku piru way tubag, I
+asked but there was no answer. Nagpanguput siya sa kahadluk, He held on
+with all his might for fright. Walà ku makapangutána, I didn’t get a
+chance to ask. Makapangasáwa ka na, You can get married now.
+
+mana, mána_1 n a title of respect to a female older than the speaker.
+v [A13; a12] call s.o. mána.
+
+mána_2 n k.o. cultivated tree, the bark and leaves of which are used
+for spices.
+
+manáging n k.o. white parrot, the racket-tailed parrot: Prioniturus
+discurus.
+
+manalabtan see sabat.
+
+manámù short for amahan námù n the Lord’s Prayer.
+
+mananabtan see sabat.
+
+manananggal = anananggal.
+
+mananangkuy n folk doctor (general term). v [B13; a12] become a healer.
+
+mananap n animal, beast, insect. a brute, having the feelings of a
+beast. Ikawng mananápa ka. Ngánung gibun-ug man nímu ang ákung anak?
+You beast. Why did you beat my son? -in- a beastly.
+
+manan-aw n general name for ornamental air orchids.
+
+manandis a henpecked husband. v [B2] become henpecked.
+
+manang, mánang n {1} title for elder sister. {2} title given to any
+woman older than the speaker. v [A13; a12] call s.o. manang. (→) voc.
+form. short form: nang.
+
+mananggíti n toddy gatherer. v [B156] be, become a toddy gatherer.
+
+manánuy a sweet-sounding, melodious. Ang manánuyng tíngug sa langgam,
+The sweet, melodious voice of the bird.
+
+manátad n k.o. dove: the green-winged ground dove: Chalcophaps indica.
+túlin pa sa — very swift.
+
+manau, manaul_1 n k.o. parasitic air plant, with long linear lanceolate
+leaves radiating from the center: Asplenium nidus.
+
+manaul_2 n the white-breasted sea eagle: Haliaetus leucogaster.
+
+manay, mánay n title for a female much older than the speaker. v [A13;
+a12] call s.o. manáy. (→) voc. form.
+
+maN-ay regional alternant of maN-r-.
+
+manbad (from subad) n {1} any large deep-sea fish. {2} usurer. Nadátù
+siya kay mambad nga dakù, He became rich because he was a great usurer.
+{3} dakung — an important person of great influence. Si Lawril dakung
+mambad sa pulitika, Laurel is a big figure in politics. a {1} fierce
+and grasping. Púru mga mambad ang tagaadwána. Padug-un ka giyud ug
+táman, The customs people are voracious beasts. They’ll bleed you dry.
+{2} fierce, termagant woman. Túa na pud, gitapuk-an na pud si Tiryu sa
+íyang mambad nga asáwa, There goes Terio’s shrewish wife at him again.
+{3} s.o. that is dangerous to women. Ayawg túu níya kay mambad nà sa
+mga babáyi, Don’t believe him because he is dangerous to women. ka-
+n quality of being fierce and grasping. Ang kamambad sa pamingkúngan,
+The fierceness of a hammerhead shark.
+
+mandalúsa = salimbángun.
+
+Mandalúyung n a district in Rizal, Luzon. taga-, gíkan sa — crazy (lit.
+one who has been a patient at the mental hospital in Mandaluyong).
+
+mandamyintu diaristu warrant of arrest.
+
+mandǎr n {1} command; word or phrase esp. in set form by which a
+command is given. Ang mandǎr sa kapitan pagpahúnung ug tíru, The
+captain’s command to cease fire. {2} order, a serving of food in a
+public eating place. Unsa man tuy ímung mandǎr, pipsi u kuk? What did
+you order, Pepsi or Coke? v [A; c] {1} command, give an order to.
+{1a} command, order people around. Nagmandǎr na sad ang tapulan, The
+lazy lout is giving orders again. {2} order, request a serving to be
+brought. Nakamandǎr na ba mu? Have you ordered? mandasiyun n command.
+Ang mga ultimu mutúman sa mandasiyun sa kábu, The privates follow the
+commands of the corporal. a liking to give orders. Mandasiyun kaáyu
+nang ákung maguwang unyà dì mutábang sa trabáhu, My older brother loves
+to give orders, and yet he doesn’t help with the work.
+
+mandasiyun see mandǎr.
+
+manday {1} it’s too late to be of use. Manday human na ang baratilyu,
+It’s too late. The sale is over. {1a} just when s.t. happens that is
+too late or inconvenient, s.t. else happens. Manday wà tay kwarta mu
+puy idaut sa mga bátà, Just when we are broke, the children get sick.
+Manday human ka nag káun mu pay ipanangpit, You invite me to eat only
+after you’re done? Manday lumalarga na aku mu pay pagkaíla námù, We got
+acquainted just as we were about to leave town. {2} — untà instead of
+doing what was expected. Manday untà masukù siya, mipahíyum hinúun,
+Instead of he getting angry, he smiled. {2a} although, despite the fact
+that. Manday daghang anak, gastadur hinúun, Although she has lots of
+children, she spends money like mad.†
+
+mandi, manding n a title of address for an elder sister or female
+relative much older than the speaker. v [B2; a12] call s.o. manding.
+
+mandù v {1} [A; b6(1)] give an order, command. Gimandúan ang mga tríni
+pagdágan líbut sa kampu, The trainees were ordered to run around the
+camp. {2} [A; b6] rule or reign. Siya ang hára nga mimandù sa pangílin,
+She was the queen that reigned over the fiesta. {3} [A3; b6] prevail.
+Human sa makusug nga litì ug bagyu mimandù ang túmang kalínaw, After
+the fierce thunderstorm, quiet prevailed. n {1} order, command. Tumána
+ang ákung mandù, Carry out my order. mag-r- n ruler, commander. ma-un
+a commanding. ‘Lakaw,’ tíngug ni Aldu nga mamandúun, ‘Go!’ said Aldo in
+a commanding voice. ka-an n area over which s.o. rules. Ang kamandúan
+sa armi pinangulúhan ni Hiniral Riyis, The Army Command is headed by
+General Reyes.
+
+mandunggu n beef tripes. mandunggáda n dish made of blood and the
+internal organs of beef. v [A12; a12] make, make into a dish of blood
+and internal organs of beef.
+
+manga always written mga. {1} particle optionally placed preceding a
+noun or adjective to indicate plurals, but referring only to things
+that are not all exactly alike. Ang mga istudiyanti nanambung sa
+míting, The various students attended the meeting. Mga karáan kining
+mga libru, These are all old books. {1a} particle preceding the name
+for parts of the body of which there are more than one. Sakit ákung mga
+mata, My eyes hurt. {2} preceding a form referring to time,
+measurement: about, approximately. Mga alas utsu, At around eight
+o’clock. Mupalit kug kutsi, tingáli mga Iníru, I will buy a car,
+probably around January. Mga duha ka búwan kanhi, About two months ago.
+Mga duha ka pulgáda, About two inches. Mga dus písus, Around two pesos.
+
+mangagat, mangágat n snapper, name given to most species of Lutianus.
+
+mangágaw n k.o. annual, stiff-haired herb, much-branched from the base,
+with small flowers in dense axilliary clusters. The stem yields a white
+milky sap which is used to cure fevers: Euphorbia pilulifera and hirta.
+
+mangga n mango: Mangifera indica. manggáhun a {1} plump in cheeks.
+{2} having red splotches like some varieties of mangoes. manggahan
+n mango orchard. v [A13] grow mangoes.
+
+manggad n {1} prized position, treasure, riches, wealth. Náa sa baul
+ibutang ang ílang manggad, Their treasures are placed inside a trunk.
+{2} dry goods. Nabasà ang mga manggad nga íyang gisúruy, The dry goods
+he was peddling got wet. v {1} [AB; c] treasure, hold s.t. dear. Wà
+sila magmanggad sa kabílin sa ílang katigulángan, They do not value the
+things their ancestors left them. Manggára (imanggad) ang íyang mga
+púlung, Treasure his words. {2} [A] care for with devotion, lavish
+attention. Way mumanggad sa ákung mga tanum ug mubyáhi ku, No one will
+tend to my plants if I go on a trip. manggaránun a wealthy, rich.
+Lagmit sa mga manggaránun mga garbúsu, The rich are usually arrogant.
+
+manggas n {1} sleeve, cuff. Íyang gilúkut ang manggas sa íyang
+kamisadintru, He rolled up his shirt sleeves. {2} bottom of trousers.
+Bukad ug manggas ang bilbátum, Bell-bottom trousers have wide trouser
+legs. v [A; a] provide with sleeves or cuffs.
+
+manggátus see gatus.
+
+manggi- the future volitional active form of verbs with a prefix
+panggi-. past: nanggi-. Didtu sila sa sála manggidáma, They were in the
+living room playing checkers.
+
+manggilis n k.o. sweet potato with light reddish peelings and white
+meat. Its rather dry meat makes it good eating.
+
+manggi-un(←) alternant of ma-un used with some bases instead of ma-un.
+Manggihatágun, Generous.
+
+manggu n handle of a pick, ax or a similar tool. v [b6(1)] make a
+handle of this sort.
+
+manggulimbaw n k.o. shrimp growing to 1½″ with one claw bigger than the
+other.
+
+manggustan n mangosteen.
+
+manghud n younger brother, sister. a {1} younger in age than s.o. else.
+Manghud ka nákug duha ka túig, You are two years younger than I am.
+{2} less in intensity. Ang íyang pátid manghud lag diyútay sa pátid sa
+kabáyung simarun, His kick was just a little less than a wild horse’s.
+Ang ímung tíngug manghud lag diyútay sa hunghung, Your voice is just a
+little softer than a whisper. v [A1; b(1)] have a younger brother or
+sister. Pilay idad sa nagmanghud ning batáa? How old is the child just
+before this one? Anus-a man nà siya manghúri? When are you going to
+have another baby (lit. when is he going to have a younger brother or
+sister)? ig- n younger brother or sister. Kanang mga gagmayng bátà
+pulus níya igmanghud, Those little children are all his younger
+brothers and sisters. kamanghúran, kinamanghúran n youngest child.
+
+mangkay n old maid. Dílì tanang mangkay masulub-un, Not all spinsters
+are lonely. v [B1; c1] become an old maid.
+
+mangkimangki n fast dance characterized by monkey-like movements of the
+hands. v [A] dance the mangkimangki.
+
+mangku n s.o. with an arm deformity characterized by being twisted at
+the elbow. v [B12] have a deformed arm. Namangku siya dihang napíang
+íyang síku, He got a deformed arm when he broke his elbow.
+
+mangkù n k.o. small mackerel with a maximum width of 3″.
+
+mangkumu = † magkunu.
+
+mangliw, mangluy = amamangluy.
+
+mangnu, mangnù v {1} [A12; b2] remember. Hatági kug diyútay nga panahun
+tingálig mamangnuan (himangnuan) ku, Give me a little time. Maybe I
+will remember it. {2} [AP] cause to notice, be aware of. Ang pagbagting
+sa rilu mauy nagmangnù (nagpamangnù) nákù nga udtu na, The ringing of
+the clock reminded me that it was already noon. {2a} [A] be careful.
+Magmangnù (magmangnù) ka kanúnay arun dì ka masayup, Be careful so that
+you won’t commit any mistakes. {3} [A12; b2] come to. Didtu na siya
+makamangnù sa huspital, He regained consciousness in the hospital.
+pahi- v [A; b6(1)] advise, instruct s.o. not to do s.t. Gipahimangnúan
+ku siya nga dílì pasudlag ínit ang pridyidir, I have warned him against
+putting anything hot into the refrigerator. n instruction against.
+
+mangsi = malangsi.
+
+mangtas n {1} cruel, fierce beast. Ang táwung nalúnud gikaun sa usa ka
+mangtas sa dágat, The drowning man was eaten up by the shark (lit.
+fierce beast of the sea). {2} fierce, heartless in character. Dílì
+makamaung malúuy sa pubri kanang mangtas nga adunáhan, That heartless
+rich man does not know pity for the poor. Mangtas nga katalagman, A
+fearful calamity. v [B2; b6] be, become fierce and devoid of tender
+feelings.
+
+mangù a brainless, dull, stupid. Mangù ka man kahà kay dì ka man
+kasabut, You must be brainless because you don’t understand. v [B23;
+b6] be, become stupid.
+
+Mangyan n non-Christian natives of Mindoro.
+
+manhak n k.o. bird.
+
+mani n peanuts. — sa kasuy a the edible nuts of the cashew. manimani
+{1} k.o. creeping herb similar to purslane (ulasíman) in appearance,
+used as pig feed. {2} k.o. balat found a few inches beneath the sand
+along the shore. It roughly resembles a peanut.
+
+*máni n dinuwin, gud — during World War II, the name given to the
+prewar money as opposed to the Japanese kurà and the imirdyinsi máni.
+girilya — money issued by the guerilla authorities during the war.
+imirdyinsi — the emergency money issued after the outbreak of
+hostilities and prior to the Japanese occupation. — urdir money order.
+
+manibila = manubíla.
+
+mánids v [A] manage a business. -ir(→) manager. -ir(→) hiniral
+n general manager. n manager of a business or boxer. v [AB156] be,
+become manager.
+
+maníhu v [A; a2] {1} drive a motor vehicle. Ambi, aku lay mumaníhu sa
+dyíp, Let me drive the jeep. {2} operate or manipulate a contraption.
+Makamaníhu man nà siyag dagkung makina, He can operate big machines.
+{3} manage to make s.t. operate. Manihúa ra ring pawuntin pin ug
+makahímù ka bag paági, Try fooling around with this fountain pen and
+see if you can make it write. {3a} see to it that s.t. gets done. Aku
+lay mumaníhu arun magmalampúsun ang átung prugráma, I’ll see to it that
+our program is successful. {3b} manage to do s.t. in a roundabout or
+underhanded way, where the usual methods won’t work. Makamaníhu ka ba
+pagpasulud nákù sa trabáhu? Can you manage to get me into the job?
+{3c} do s.t. surreptitiously or secretly. Lingawun ku ang tindíra
+manihúa pud ang káha, While I keep the store clerk busy, you take care
+of the cash register.
+
+maniit n k.o. edible, small crab of shallow waters with a thick shell
+and strong pincers. a quarrelsome, esp. said of women.
+
+manikin n mannequin.
+
+manikiyur n nail polish. v [A; b] manicure. -ista n a manicurist.
+v [B156; a12] be a manicurist.
+
+Maníla, Manílà_1 n Manila, the largest city in the Philippines. — buy
+boy who has grown up in Manila and is, therefore, sophisticated. —
+pípar Manila paper. v [B1256] be in Manila. manilan-un n from Manila,
+of the Manila type. manilinyu, -a n one from Manila.
+
+manílà_2 n k.o. striped grouper: Grammistes sexlineatus.
+
+maniN- future volitional prefix of verbs with the base paniN-. (Past:
+naniN-. Subjunctive: maniN-.) Manimalus giyud ku, I will get revenge.
+Walà ku manimúhì sa ákung gikuptan, I didn’t let go what I was holding
+on to.
+
+manínay n godmother, the female sponsor at one’s wedding, and, by
+extension, the sponsor at one’s baptism, confirmation, or ordination.
+v [A; a] become one’s godmother.
+
+maniníyut n photographer. Word play on maniníyat to make it sound
+humorously risqué (recalling iyut, the taboo word for sexual
+intercourse).
+
+manínuy n godfather, the sponsor at one’s wedding, and, by extension,
+at one’s baptism, confirmation, or ordination. v [A; a] become one’s
+godfather.
+
+manistil = mistil.
+
+maniubra n {1} maneuver, skillful handling of a vehicle. {2} s.t. done
+in a secret and underhanded way. Maniubra sa pulitika, A political
+maneuver. v [A; c1] {1} maneuver s.t. skillfully. Maniubráha
+(imaniubra) pag-áyu ang sakayan arun dílì masángad, Manipulate the boat
+skillfully so that it won’t run aground. {2} contrive s.t. skillfully
+in an underhanded way. Nakalusut dáyun ang ákung lún sa bangku kay
+gimaniubrag maáyu sa ákung amígu, My loan went through OK because my
+friend maneuvered it skillfully.
+
+mankumunidad n commonwealth. v [B1256] become a commonwealth.
+
+maN-l- {1} = maN-r-, but used only regionally. {2} affix added to verbs
+referring to sorcery, praying, and other relations with the
+supernatural to form nouns which mean one who engages in this activity.
+Manalagnà, Seer. Manalabtan, Leader in prayers. Mamalaktul, One who
+practices the sorcery called paktul.
+
+manlà n k.o. edible crustacean similar to a prawn but with pincers. It
+burrows under soft mud in swampy places.
+
+manlawud (from lawud) n name given to fishes that are found in deep
+waters.
+
+manlulundà = manulunda.
+
+manlut_1 = banlut.
+
+manlut_2 n k.o. large, green grasshopper.
+
+maN-r- affix added to verb bases to form a noun referring to a person
+who does [such-and-such] as an occupation. It is most commonly added to
+roots which form verbs by the addition of paN-. Mangingisdà, Fisherman.
+Mananabang, Midwife. Manunúnud, Heir.
+
+maN-r-ay regional alternant of maN-r-.
+
+mansa n {1} stain. Dílì makúhà ang mansa sa tubà, Stains from palm
+toddy won’t come out. {2} moral blemish, dishonor. Walay mansa ang
+ákung ngálan, My name is unsullied. v [A; b25] {1} stain. {2} stain
+one’s honor. Kaputlì nga walà pa kamansáhi sa kasinatían, Purity that
+has not been stained by experience. -du a {1} stained. Dì giyud nà siya
+musul-ub ug sinínà nga mansádu, She never wears stained clothes.
+{2} easily stained. Mansádu kaáyu ang sinínà nga putì, A white dress
+easily gets dirty. mansahun a {1} having stains. {2} panty stained with
+blood. Iladlad pag-áyu ang mga mansahun, Bleach those stained panties
+very well.
+
+mansánas n apple.
+
+mansanilya n k.o. perennial aromatic herb cultivated for ornamental and
+medicinal purposes: Chrysanthemum indicum.
+
+mansanítas n small spreading tree of waste spaces, the bast fibers of
+which make rope in times of scarcity: Muntingia calabura.
+
+mansibádu n common-law couple. v [B16; a12] live as man and wife
+without the benefit of a church wedding.
+
+mansinítas = mansanítas.
+
+mansiyun n mansion.
+
+
+
+mansu v [A; a] {1} break in a work animal. Si Dyígu ray makamansu ning
+kabayúa, Only Diego can tame this horse. {2} train, discipline s.o.
+Namansu sa párì ang walay hibangkaágan nga bátà, The priest trained the
+child that was innocent of all knowledge. {2a} give s.o. a lot of work
+to do. Kining batáa namansu sa mga trabáhu sa balay, The household
+chores were dumped on the child. mansuhan, mansuhánan n training
+ground.
+
+mantágà = mantalágà.
+
+mantálà (not without l) v {1} [A13] herald, announce. Ang tuktugáuk sa
+sunuy nagmantálà sa umaábut nga kabuntágun, The crowing of the rooster
+announces the approaching morning. {2} [A; c] publish in a magazine or
+newspaper. Gimantálà sa mantaláan ang umaábut nílang kasal, Their
+approaching wedding was published in the papers. {3} [A13] advertise.
+Mga lúhà nga nagmantálà sa ákung kapildíhan, Tears that advertised my
+defeat. -an, paN-an n {1} newspaper, magazine. {2} press. mag-r-
+n publisher. tagapaN- n press relations officer. tig- n {1} advertising
+man. Milíhuk ang tigmantálà sa bag-ung kumpaníya, The new company’s ad
+man worked hard. {2} an announcer, s.o. or s.t. who or that spreads
+talk or news around. Kanang bayhána mauy tigmantálà sa tanang mahinabù
+dinhi, That woman is the person who spreads the gossip of all that is
+going on around here. {3} publisher.
+
+mantalágà n giant octopus.
+
+mantas = mangtas.
+
+mantiának = mantiyának.
+
+mantíaw interjection showing dismay and displeasure, but to be taken
+lightly. Mantíaw ning batáa, muulì lag mukáun, My! This child never
+comes home except to eat.
+
+mantíkà n {1} lard, fat from flesh. {1a} lúpig pay — kun matúlug
+tending to sleep deeply (lit. better at sleeping than lard).
+{2} cooking oil. bugnaw ug — derisive reference to one who has indolent
+habits or is a slowpoke. (→) v {1} [A; b] fry in lard. Mantikai ang
+báhaw, Fry the leftover food. {2} [A] exude lard or oil. Haúna dáyun
+kun mumantikà na ang tambuk, Take the pan out of the fire when lard
+comes out of the pork fat. {3} [A] for public transportation to move
+slowly and sluggishly at times that there are few passengers. Wà giyuy
+pasahíru. Nagmantikà ang trák sa dálan, There are few passengers, and
+the bus is moving slowly down the street empty. -in-an n food fried in
+oil. -un a {1} greasy. Sud-an nga mantikáun, Greasy food. {2} obese.
+Babáying mantikáun, An obese woman.
+
+mantíka dikakaw n cocoa butter.
+
+mantikilya n butter or margarine. v [A; c] spread butter on s.t.
+
+mantil n tablecloth. v {1} [A; b] put, use a tablecloth. {2} [a12] make
+into a tablecloth.
+
+mantilya n veil used to cover a woman’s head in church. v {1} [A; b]
+wear a veil. {2} [a12] make into a veil.
+
+mantilyína n head covering for wearing inside a church. v [A; c] wear a
+head covering in church.
+
+mantinil, mantinir v [A3; c] make do with, content oneself with s.t.
+less than the best. Magmantinil lang tag amútig way bugas, We’ll make
+do with sweet potatoes if there’s no rice. Nagmantinil lang siyag
+pangarga, He just took a temporary job as a stevedore. Mantiniri
+(mantinihi) lag kawáyan pára halígi ang balay, Just use bamboo for the
+meantime as a post for the house. -in- a of makeshift or second choice
+sort.
+
+mantiw a tall and lanky. v [B; b6] be, become, make lanky.
+
+mantiyának n supernatural being which preys on newborn infants. It
+drinks the blood from childbirth and tries to get at the newborn baby’s
+liver. If the baby dies, he drinks the mother’s milk without her
+knowledge and kills her thereby. It is pictured the size of a baby,
+with horns and fangs, with long pointed ears, dirty brown in color and
+angular in features. It has the ability to walk, change its appearance,
+and make itself invisible.
+
+mantsa = mansa.
+
+mantsinítas = mansanítas.
+
+mantsúsu a easily soiled or stained. Mantsúsu kaáyu ang putì nga
+bistídu, White clothing gets soiled easily. v [A3P; b6] be, become
+easily soiled.
+
+mánu_1 v [AC2; a] in ball games, play off one with another to determine
+who plays first or whose play it is. Átung manúhun ug kinsay mayur,
+I’ll play it off with you to see who starts the game. n act of
+determining the order of who plays first. manuhan n a line from which
+s.t. is tossed to determine who is first.
+
+mánu_2 n title of address for a male older than the speaker. v [A; a12]
+call s.o. mánu.
+
+mánu_3 n hand of dried tobacco leaves containing 100 leaves. v [A; a12]
+bind tobacco leaves into hands.
+
+mánu_4 = ngánu.
+
+*mánu_5 see dimánu, armas di-, bula di-, buyna —, sigunda —. manumánu
+v [AC2; c1] do s.t. by human strength, hands alone. Manumanúhun
+(imanumánu) lang ni nátug bira ang awtu, Let’s just push this car by
+hand. n fight with the hands. †
+
+manúbig (from túbig) n k.o. crab of swamps and rivers lighter in color
+than the kágang.
+
+manubíla n a mechanism one manipulates to steer: steering wheel, handle
+bars, etc. v [c1] make a steering mechanism.
+
+Manúbu, Manúbù n name of an ethnic group in the mountains of eastern
+Mindanao.
+
+manugimpu, manugimpul n k.o. parasitic plant which attaches itself to
+trees. It extends out a vine-like trunk which clings and covers the
+host.
+
+manuk n {1} chicken. Pinirítung manuk, Fried chicken. {1a} layù ra sa
+tinái sa — {1a1} off the subject, not to the point. (Lit. far from the
+chicken’s intestines.) {1a2} wound of no consequence, harmless scratch.
+{2} gamecock. {2a} a protegé involved in any race or competition:
+politics, boxing, love, et al. Napildi ang íyang manuk, His candidate
+(protegé) was defeated. v {1} [A1] have chicken for one’s meal. {2} [A;
+a12] make s.o. one’s protegé, candidate in a competition. Akuy mumanuk
+nímu ug dì ba sugut dáyun nang bayhána, If I put you up as a candidate
+that girl will surely accept you. Midaug siya kay gimanuk mang Sirhing,
+He got elected because he was a protege of Serging’s. -an, -an(←)
+n {1} poultry business. {2} one who has lots of chickens. v [A1] have a
+poultry business. -in- a sleeping half-awake because of insomnia or
+because of a need to remain conscious. v [A; c1] sleep in such manner.
+Magminanuk kug katū́g paghuwat sa pirs trip, I’m just going to nap
+because I have to make it to the first trip. -un(←) a slightly
+cross-eyed. Gwápa untang bayhána, ugáling manúkun lang, That girl is
+beautiful, but she is cross-eyed. n = lukgaw. -un a = -un(←), a. n the
+cow-nosed ray, so called because it moves like a bird in the water:
+Rhinoptera javanica.
+
+manukmánuk n {1} wind coming in strong gusts. {2} weather vane.
+v [B456; b4] be caught in gusting winds. Piligrung ilawud ug
+magmanukmánuk ang hángin, It’s dangerous to set sail in gusty weather.
+
+manukúlu n monocle. v {1} [A1] wear a monocle. {2} [A12] get a monocle.
+
+manul n variety of jasmine of the same species as sampagíta but with
+double petals and rounded leaves: Jasmimum spp.
+
+manulunda, manulundà n angel. Daw manulundà ang íyang kaanyag, She has
+the beauty of an angel.
+
+manumbága = tinumbága. see tumbága.
+
+manung, mánung n {1} title for an elder brother. {2} title of respect
+for a man older than the speaker. v [A; a12] call s.o. mánung. (→) voc.
+form. Short form: nung.
+
+manunggal n k.o. tree.
+
+manunggul n k.o. limestone found in tidal flats, rough and irregular in
+surface, grey on the outside, but white on the inside. It is used for
+road surfacing, stone walls, or wherever a porous stone is desirable.
+
+mánus = amánus.
+
+manútu = mánu_3.
+
+mánuy n {1} title for an elder brother or uncle. {2} expression used by
+a person who has been defeated in a scuffle to indicate submission.
+Hala, mánuy arun dílì ku lubáun ning ímung buktun, Go on, say ‘uncle’
+so I won’t twist your arm. v [A; a12] call s.o. mánuy. (→) voc. form.
+Short form: nuy.
+
+manwal n manual, handbook.
+
+manya n {1} fit of bad temper. Ang paghilakhílak ánang batáa manya lang
+nà, That child’s persistent crying is just a tantrum. {2} caprice,
+fancy. Manya lang tung pagpapalit níyag láing sapátus, His asking for
+another pair of shoes was just out of caprice. a for a horse to tend to
+balk, move slow. v {1} [B; c1] throw a tantrum, act like a spoiled
+brat. {2} [A; b6] for a horse to throw a fit or just balk. Dinhà giyud
+sa kinasang-an ang kabáyù magmanya, ug wà mulíhuk bísag unsáug búnal,
+The horse balked right in the middle of the crossing and wouldn’t move
+no matter how hard it was whipped. {3} [A; b5c1] move slowly. Ang
+mumanya ug tambung sa lamísa dì masalinan, If you dilly-dally in
+getting to the table, nothing will be left for you.
+
+manyak a having an uncontrollable urge to do things, esp. sexual.
+v [B12; b6] be, become a maniac. Namanyak siya human makatilaw ug
+kausa, She became a nympho after her first experience. Ngánung namanyak
+man siya sa pangáwat nga sapían man? Why did she become a kleptomaniac
+when she is so rich?
+
+manyampuk = láwung.
+
+*manyána — ka lang, ka purin you’re out of it, you don’t know what’s
+going on. Manyána ka lang (purin). Nagkúyug ímung trátug láin, You
+don’t know what’s going on. Your boy friend is going out with other
+girls.
+
+manyang n hard liquor distilled from fermented water obtained from the
+bud of the nipa palm.
+
+mápa n map. v {1} [A; b(1)] plan a course of action, esp. in committing
+a crime. Nagmápa sila unsáun pagtúlis ang tindáhan, They are planning
+how to rob the store. {2} [B36; b] for dirt or stains to form a
+map-like configuration on s.t. Mimápa ang íyang buling sa líug, The
+dirt formed map-like configurations on his neck. Gimapáhan sa tintà ang
+ímung bulsa, The ink has formed a map-like configuration on your
+pocket.
+
+máping_1 = mápa, v1.
+
+mapunti = malapunti.
+
+Mar. n abbreviation for Marsu ‘March’.
+
+marabal a person or animal that has grown very large. Kadakung marabal
+sa ilipanti, What a giant that elephant is! Kadakung marabal ning
+batáa, What a giant this child has gotten to be.
+
+marabilyas n a k.o. ornamental bush often called alas kwatru because
+its flowers open at around four o’clock in the afternoon: Mirabilis
+jalapa.
+
+marabya = murabya.
+
+maragábit n k.o. rice suitable for planting in uplands or in paddies.
+
+maragáti n k.o. fishing whereby a line with several hooks baited only
+with decoys is dragged behind a boat.
+
+marákas n maracas. v [A3; a] play the maracas, make into maracas.
+
+maral n k.o. carnivorous civet, dark gray in color, having a very
+offensive odor.
+
+máram = márang.
+
+maramà, marámà a tough, roughneck. Ang marámà nga táwu ísug ug walay
+gikahadlúkan, A tough guy is rough and is not afraid of anyone. v [B12]
+be tough and bad.
+
+Maranaw n Lanao Muslims.
+
+marang = malasugi.
+
+márang n k.o. large fruit tree, bearing fruit similar to the jackfruit
+(nangkà), but smaller and sweeter. Not commonly cultivated except in
+Mindanao: Artocarpus odoratissima.
+
+marapíta n variety of banana with thick green peelings, 20 cm. long and
+{5} cm. wide coming to what looks like a nipple at the end, eaten
+cooked.
+
+maratun n {1} marathon race. {2} any long-distance or endurance
+contest. v [C2; c1] hold a marathon, compete in a marathon.
+
+marbas n k.o. half-woody herb of waste places, with numerous medicinal
+uses: Abutilon indicum.
+
+margarin, margarína n margarine. v [A; b] put margarine on s.t.
+
+margáti n system of planting rice which has increased the yield,
+whereby the bed is more carefully prepared and the seedlings planted
+further apart than is traditionally done.
+
+mari = kumári.
+
+maribágu n k.o. shrub of the seashore: Hibiscus tiliaceus.
+
+maribuhuk = agúhu.
+
+mariguld = ahítu.
+
+marihwána n marijuana.
+
+márik n pickax. v [A; a] do s.t. with a pickax.
+
+marika = umari ka. see ari.
+
+marína n collar in a woman’s dress. Taúri unyag marína ang ákung
+sinínà, Attach a collar to my dress. v {1} [b6(1)] attach, make a
+collar. {2} [a12] make into a collar.
+
+mariníra n sailor’s collar or the middy collar on a woman’s dress.
+v [A; c] make a middy collar.
+
+marínu n sailor on a merchant ship or in the navy or soldier assigned
+on a boat. v [B156] be a sailor. Magmarínu kang dagatun ka man? You
+want to be a sailor even if you easily get seasick? asul — navy blue.
+mariníru = marínu.
+
+maripúsa n a k.o. orchid that has flowers that look like white
+butterflies, branching in sprays: Phalaenopsis amabilis.
+
+marísi = mirísi.
+
+Maríya name Mary. — klára {1} character in Rizal’s Noli Me Tangere who
+embodied the traditionally praised feminine virtues of modesty and
+shyness. {2} traditional nineteenth century costume with a full skirt
+and low-cut blouse worn with a triangularly-folded kerchief. v [A; c16]
+behave like or act the role of Maria Clara. {2} wear the Maria Clara. —
+Santisima n The Blessed Virgin Mary. Santa — n mildly profane
+exclamation of discomfiture. buhuk ni — = maribuhuk. see agúhù. †
+
+maríya buhuk = maribuhuk. see agúhù.
+
+mariyal = máha riyal. see máha.
+
+marka n {1} a visible trace or impression on a surface. Dúnay mga marka
+sa tiil sa kawatan didtu, The burglar left footprints over there. {2} a
+brand, label or sign printed, written, or stamped on s.t. Unsay marka
+ánang ribintadúra? What brand are those firecrackers? {3} grade in
+school. Pagtuun pag-áyu arun muísa ang marka mu sa klási, Study hard so
+that your grades will get better. v {1} [A; b] put a mark on. Kinsay
+nagmarka áning ákung libru? Who put a mark in my book? Markáhan sa mga
+inspiktur ang karni únà ibaligyà, The meat inspectors will first stamp
+a mark on the meat before having it sold. {2} [A] for a meter to give
+an indication, read. Nagmarka nag utsinta ang dágan sa awtu, The
+speedometer already read eighty. {3} [b] be eyed for a purpose.
+Gimarkáhang patyun, Marked for assassination. Sapátus nga gimarkáhan
+níyang palitun, Shoes which he has long been having his eye on. —
+bulkan n twenty-peso bill (slang—so called from the picture of Mount
+Mayon that was on the back of the bill in former times). — dimunyu
+n strong liquor, so called from a brand of strong liquor which has the
+picture of the devil on it. — kalabíra n the skull markings on the
+container of highly poisonous matter. v [B26N] be dead (slang). Biyà sa
+ínum arun dì ka mamarka kalabíra ug sayu, Stop drinking or you will die
+young.
+
+markir n {1} marker or piece of paper to keep track of the lines.
+{2} marker put s.w. to indicate a location.
+
+markis n marquis. v [AB156; a12] be made or become a marquis. -a(←)
+n marchioness.
+
+*markit may (walay) — marriageable (not) marriageable. Minyù nang
+tawhána, wà na nay markit, That man is already married. He is not
+available any more. walà ang — v [B126; a12] get to be unavailable for
+marriage or considered so to be.
+
+marku_1 n wall stud. v [A; a] make a wall stud.
+
+marku_2 n breasts. Nagbitay ang mga marku sa babáyi, mu rag búnga sa
+kapáyas, The woman’s breasts are hanging like papayas. v [A; a] nudge
+s.o. in the breast.
+
+markut v [A; b] propagate plants by marcotting. n propagation of plants
+by marcotting.
+
+marmul n marble. Dúwang nga marmul, A marble font. v [A12; a1] have
+marble, make into marble.
+
+marpil n false teeth. v {1} [A1; b6] have false teeth. Kinahanglang
+marpílan ang ímung pangag, You should have a bridge made for your
+missing tooth. {2} [A; a] make into false teeth.
+
+marsanti = martsanti.
+
+marsíku = amursíku.
+
+marsiyal n marshall, a military commander. Mag-una ang marsiyal ug may
+paráda, The marshall leads a parade. v [A; b6] be, become a marshall.
+
+Marsu n March. see abril for verb forms.
+
+marsútu n k.o. suiting material of high quality (from the brand name
+Marsotto). v [A1] wear clothing made of this cloth.
+
+martabána = maltabána.
+
+Marti n Mars.
+
+martilyu n hammer. — dikabra n claw hammer. — dibúla n ball peen
+hammer. v [A; a1] hammer. Martilyúha ang tabla arun matangtang, Hit the
+piece of wood with a hammer to get it off.
+
+martiníku = bartuníku.
+
+martir n {1} martyr. — sa Gulgúta Jesus Christ. {2} one who has
+suffered like a martyr. Si Lusíla usa ka martir tungud kay gisákit
+siyag maáyu sa íyang bána, Lucila is a martyr because she is tortured
+by her husband. v [Ab16] make s.o. suffer like a martyr.
+
+Martis n Tuesday. See birnis for verb forms. — Santu the Tuesday of the
+Holy Week.
+
+*marts un yur —, sagitsit, gu command in a race: On your mark, get set,
+go!
+
+martsa v {1} [A; b6] march. {1a} attend one’s graduation exercises.
+{2} [A; c1] dance a march or play a march number. n speed of an
+automotive transmission used at higher speed. Kwarta, kinta martsa,
+Fourth, fifth gear.
+
+martsanti n middleman, one who buys and sells commodities between
+producers and retailers.
+
+martuníku = bartuníku.
+
+marubya = murabya.
+
+marúnung a {1} wise to the ways of the world. Dì nà maílad kay marúnung
+nà, He knows what’s coming off. You can’t fool him. {2} have proficient
+knowledge or skill in s.t. Katubag si Pidru sa lisud nga pangutána.
+Marúnung giyud, Peter was able to answer the questions. He certainly is
+bright. v [B12] be, become sly or crafty. -in-(→) v [A; c1] do s.t. in
+a cunning, sly way. Minarununga (iminarunung) sad nà pagpaági arun ka
+makabalus, Be cunning about it so you can get revenge.
+
+maruy = miruy.
+
+marúya n name given to a variety of sweets, all of which are formed
+into rounded patties and fried: {1} made of ground rice. {2} made of
+sliced bananas. (= bangdaybangday). {3} made of shredded sweet potatoes
+(= bitsubitsu). v [A; a] make marúya.
+
+maryánas = biyatilis.
+
+Maryúsip see hisusmaryusip.
+
+*mas {1} — [adj.] more [adj.]. Ang ákung balay mas gamay sa imúha, My
+house is smaller than your house. Mas maáyu nga pritúhun ni kay sa
+tanukun, It is much better to fry this than to boil it. {2} — báli it
+is better to [do]. Mas báli ihátag kay sa hulaman nga dílì iúlì, I
+would rather give s.t. away than lend it and not get it back.
+
+mása_1 v [A; a] mix solids with a little liquid. Kinsay mumása sa
+simintu? Who’ll mix the cement? Masáha na nang himúung dúnat, Mix the
+dough for the doughnuts now. n {1} dough or other mixture of solids
+with water. {2} proportions, things that make up a mixture. Ang másang
+gigámit tris dus, They use a mixture in proportions of three to two.
+masahan n place to mix dough or similar mixtures.
+
+mása_2 n the masses, common people. — kumun n {1} common masses.
+{2} property owned in common by heirs.
+
+masáhi v [A; b] massage. Masahían ta nang ímung páang gipamaúlan, Let’s
+massage your sore legs. n massage. -sta n masseur, masseuse. v [B156;
+a12] be, become a masseur.
+
+masámung n a man who is married into one’s immediate family—i.e., is
+married to one’s sister or daughter. Masámung si Íki námù kay naminyù
+siyang Maríyang ákung manghud. Masámung sad siya sa ákung ginikánan,
+Eke is a masámung to us because he married my sister Maria. He’s also
+my parents’ masámung. v [A12; a12] get as a son- or brother-in-law; be,
+become this relation.
+
+másang v [A23; c1] hit s.t. directly with full impact. Mimásang sa
+ákung nawung ang íyang kúmù, His fist smashed into my face. Imásang
+(masánga) ang garapun sa pusti, Smash the glass jar against the post.
+
+masariyal = máha riyal. see máha.
+
+mási n k.o. sweet made from mashed taro or ground sticky rice formed
+into balls with peanuts. v [A; c1] make mási.
+
+*masig_1 — ka [noun] each of two or more in a group. Nahiyusan ang
+masig ka ligid, All of the wheels had a flat tire. Nagdápat ang ílang
+masig ka áping, Their two cheeks touched.
+
+masig_2 short for maskin ug. See bísan.
+
+masimasi v [A; b5] hurry s.o. to work. Ug náay magmasimasi nátug
+patrabáhu, dì na hinúun tang katunung, We make mistakes if we are
+always pressed to hurry our work. Dílì kaáyu haum ang sinínà kay
+gimasimasi (gimasimasihan) man ang sastri ug pahuman, The dress does
+not fit well because the dressmaker was pressed to finish it hurriedly.
+ka- v [A13] be pressed to work in a frenzy. Magkamasimasi mig panlútù
+basta pyista, mau nga dì mi makalingawlíngaw, We get so busy cooking
+during fiestas we can’t enjoy ourselves.
+
+masimási n mashi-mashi, a k.o. dance. v [A] dance the mashi-mashi.
+
+masin-gan = masinggan.
+
+masinggan n {1} machine gun. {2} k.o. rapid-firing bamboo popgun. v [A;
+a12] shoot with a machine gun. -in- a like a machine gun. Kasábang
+minasinggan, Scolding like a burst of machine gun fire.
+
+masítas n small ornamental plants, a flower pot with a plant in it. —
+sa ingkantu = lukdulukdu. v [A12] obtain ornamental plants. -an(→)
+n flower pot. masitíra n flower pot.
+
+masiyar v [A; c1] {1} offer, quote a price in selling. Ug mumasiyar
+siya sa kálù ug písus, palita, If he offers the hat for a peso, buy it.
+{2} bet money on s.t. Áning manúka mumasiyar ku ug mil písus, On this
+cock I will bet a thousand pesos. masyáda n {1} the amount placed as
+bet. Gatus ang ákung masyáda apan sitinta ray gidáwat, I wanted to bet
+one hundred, but they only accepted seventy. {2} total amount of money
+bet by both sides. {3} fee paid in playing a set of bowling, tennis,
+pingpong, and the like. v [A; b] pay this fee. masyadur n the person in
+cockfighting who calls out bets offered and matches them with other
+bets.
+
+maskáda n bits of tobacco for chewing. v [A; a] chew tobacco.
+
+maskara n mask. v [A; b] wear a mask.
+
+maski, maskin = bísan.
+
+maskipap, maskipaps n k.o. popular dance. v [A] do this dance.
+
+maskirid bul n masquerade ball. v [A1; c1] hold a masquerade ball.
+
+maskuláda = muskuládu (female).
+
+maskuládu = muskuládu.
+
+masputítu, masputítus n k.o. dance, the mashed potatoes. v [A] do this
+dance.
+
+*mastir — kátir n master cutter of a tailoring shop. — ki n master key.
+— mayind n mastermind. v [A; a2] be the mastermind. Pulis ang
+nagmastirmayind sa túlis, A cop masterminded the robbery.
+
+masturbisyun n k.o. dance wherein both hands are alternately used as if
+masturbating. v [A] do the masturbation dance.
+
+másu n sledge hammer. v [A; a1] do s.t. with, make into a sledge
+hammer.
+
+mas-uk v [B126] die, be killed. Nakrás ang ayruplánu ug namas-uk ang
+pilútu, The plane crashed and the pilot got killed.
+
+masun n freemason. v [B156] become a freemason.
+
+masuy n brand of mild liquor taken for medicinal purposes or for
+pleasure. bínu uy — = masuy.
+
+masyáda see masiyar.
+
+masyádu a {1} being too much of s.t. Kini si Tunyu masyádu na, dúgayng
+mukáun ug dì pa manghúgas sa plátu, This Tonio is too much; he eats
+late and doesn’t even do the dishes. {2} how very. Masyádu kamahal! How
+very expensive!
+
+masyadur see masiyar.
+
+masyaw n yellow corn.
+
+
+
+mat n mat for gymnastics.
+
+mát n math, a subject in school.
+
+mata n {1} eyes. Nagluhang mga mata, Eyes filled with tears.
+{1a} tawutáwu sa — the pupil of the eyes. {2} eyeglasses. Nangítà ku sa
+ákung mata, I’m looking for my glasses. {3} eyelets in the shoes.
+{4} any growth or structure in some way similar to the eyes. — sa
+báling mesh of the net. — sa baskit mesh of the basket. — sa lubi two
+spots in the coconut shell which resemble human eyes. — sa gábi a
+button-like outgrowth on the flesh of the taro rootstock. — sa, ug
+lumban an eye-like operculum found in turban shells. — sa pinya eyes of
+the pineapple, the hollow cavity found on the surface of the flesh of
+the pineapple fruit which contains seeds. -g tikì n small boil that has
+come to a head. {5} — sa ulitáwu (dalága) expression used when playing
+with children to make them blink their eyes. {6} = ay_4. {7} -mbáka =
+mat-an, 5 (lit. cow-eyes). v {1} [a12] hit in the eye. Mat-a pag-igù
+ang mantágà, Hit the giant octopus on the eyes. {2} [A; a2b23] wake up,
+be awake. Ngánung mimata ka mag sayu? Why did you wake up early?
+Nagmata ka na ba? Are you awake now? {2a} — ug buntag [A13] be unaware
+of what’s going on (lit. be awake only in the morning). Nagmata ka lag
+buntag sa gibúhat sa ímung asáwa, You don’t seem to know what’s going
+on with your wife. {2b} himat-an, hikatulgan have s.t. constantly in
+one’s mind, awake or asleep. Himat-an hikatulgan ku ang ákung prublíma,
+I am constantly thinking about my problem, day and night. {3} [b8] for
+a child to become aware of his surroundings. Ang íyang namat-an nga
+pagmatutù mau ang kang Iyù Sinun, The first parent he ever knew was
+Uncle Senon. {3a} be born s.w. (lit. aware of light). Kining dapíta ang
+ákung namat-ag maháyag, This is the place I was born. {4} [A; a12] for
+fats to liquify. Mumata ang mantíkà kun inítun, The lard will liquify
+when you heat it. — pubri a looking down upon others as not one’s
+equal. Mata pubri kaáyu. Dì mutagad sa mga kabus, She looks down on
+others and pays no attention to the poor. (←) v {1} [A2; a12] estimate
+a measurement by inspection. Wà nay kinahanglan ug pulgadíra, matáun na
+lang, You don’t need a measuring stick. You can estimate it just by
+inspection. {1a} look for s.t. simply with the eyes. Matáun lang ang
+imbaw, You can find clams by just looking at the water. {2} [AC; a1]
+say frankly, tell face to face. Nagkamáta ang duha ka kandidátu sa
+platapurma, The two candidates had it out face to face on the platform.
+Matáhun tikag sulti, I’ll talk to you frankly. {3} [A13] for bivalves
+to be active, as manifested by their being open or bubbling. Magmáta na
+gáning mga imbaw sayun ra pagtultul, When the clams are active it is
+easy to locate them. matamata v [a4] {1} see an illusion, mirage.
+Gimatamata ug busay ang táwu sa disyirtu, The man in the desert saw a
+mirage, a waterfall. {2} be unable to choose or decide wisely because
+of bedazzlement. Wà giyud ku kapílì. Gimatamata ku sa kadaghang
+palítun, I wasn’t able to choose because there were so many beautiful
+things to buy. matamáta = máta, v1. hig-/hag- v [B1256] {1} wake up
+accidentally. Nahigmata ku kay sábà, I woke up because it was so noisy.
+{2} become aware of s.t. Karun pa ku mahigmata sa íyang kabangis, For
+the first time I became aware of what a terrible person he was. mat-an
+a {1} having eyes or an eye-like configuration. {2} artful, wily,
+cunning. Ang mga Insik mat-an kaáyu sa nigusyu, Chinese are very shrewd
+in business. {3} mat-ay balíli, dunggánay gabíi the walls have ears.
+(Lit. the grass has eyes and the night has ears.) Hináya ang inyung
+sulti kay mat-an ra bay balíli ug dunggánay gabíi, Talk quietly because
+the walls have ears. {4} mat-an pa sa pinya a wily, cunning (having
+more eyes than a pineapple). Dì ka kaílad ni Dyú kay mat-an pa nà sa
+pinya, You can’t fool Joe. He is very alert. n k.o. fish with huge
+eyes: Selar crumenophthalmos. paN- = ay_4. tagi-, tagli-, tagu- n k.o.
+eye infection. v [A123P; a4] get this infection.
+
+matáda v {1} [A; a] divide the meat into portions. {2} [c16] sell meat
+by the portion. -in- = matáda, v2.
+
+matadíra = matadíru (female).
+
+matadíru_1 n {1} butcher, one who slaughters and cuts up animals.
+{2} butcher who sells meat. v [B156; a] work as a butcher.
+
+matadíru_2 a clever, skillfully shrewd in deception and trickery. Ayawg
+kumpiyansahi nang tawhána kay matadíru kaáyu nà sa baráha, Don’t trust
+that man because he’s very cunning in card games. v [B1; b6] become
+cunning.
+
+matadur n {1} = matadíru1, 2. {2} matador. {3} killer, fierce. Manuk
+nga matadur, A killer gamecock. v [B156; a12] be, become a matador.
+
+matag {1a} — [word referring to time or day] every. Bisitáhan ku níya
+matag adlaw, He visits me every day. {1b} — [verb base] every time
+[so-and-so] is done. Usa ka bandihádu ang mahurut níya matag káun, Each
+time he ate he consumed a platter of rice. — karun ug unyà every now
+and then. Tan-áwa ang linat-an matag karun ug unyà, Take a look at the
+stew every now and then. — usa [dat.] each and every one of [dat.].
+Matag usa níla muámut ug singku písus, Each and every one of them will
+contribute five pesos.
+
+matalak-un, matak-ánun see taka.
+
+matang_1 humorous euphemism for matay, exclamation.
+
+matang_2, mátang a kind. Ipiktíbu kining matánga sa midisína, This k.o.
+medicine is effective. Makasayaw siya sa tanang mátang sa tugtug, She
+can dance to all kinds of music. ka-(←) a of the same kind, alike. Túa
+ra ang íyang kamátang nga mga mugbug lupad, That’s where you find her
+k.o. people, prostitutes.
+
+matansa v [A; a] butcher an animal, slaughter it or cut it up. n fee
+paid to the market authority for approval to slaughter animals.
+
+matansíra, matansíru = matadíra, matadíru.
+
+matay v {1} [B126; b3(1)4(1)c5] die. Namatay si Simyun sa tísis, Simeon
+died of tuberculosis. Sakit nga makamatay, A disease that kills.
+Katigúlang ang íyang namatyan (gikamatyan), He died of old age.
+Namatyan silag bag-ung inanak, They lost a newly-born child. Ikamatay
+nákù ang ímung pagbíyà, If you leave me I will die. {2} [B126] stop
+functioning. Namatay ang rilu, The watch stopped. Namatay ang makina
+taliwā̀ sa lawud, The engine went dead in the middle of the sea.
+Namatay ang sugà pagbutu sa pyús, The light went out when the fuse
+blew. {2a} [B12] for the moon to be in its invisible phase. exclamation
+{1} of displeasure. Matay! Kabahù, Jesus! What a smell! Matayng mahála,
+How expensive it is! {2} swearing as to the truth of s.t. Matay! Ug wà
+pa ka, patay tà ku run, Believe me. If it hadn’t been for you, I’d be
+dead now. Tinúud lagi nà. Matay pa, It’s true, so help me God. ka-(←)
+v [C2] for people to be killing each other. Nagkamátay lang kanúnay ang
+mga nanagkaáway didtu sa Byitnam, There is a lot of killing in this war
+in Vietnam. n mass death, killing on a vast scale. Mahitabù ang kamátay
+tungud sa típus, Typhus can mean mass death. paka- v [A13; b6] {1} die
+for a cause. Gipakamatyan níya ang yútang natawhan, He gave his life
+for his country. {1a} commit suicide. Magpakamatay siya kun mapakyas,
+He will kill himself if he fails. {2} [a12] allow s.o. to die.
+Pakamatyun lang mi ninyu sa gútum? Will you let us die of hunger?
+{3} [b6] allow dirt to get deeply engrained. Ang linadlad nga
+pakamatyan sa sabun kúling maputì, If you bleach clothes under the sun
+without sprinkling (lit. allow the soap to die in the bleaching), it
+will never get white. panga-(←) v [A23] die (plural). Nangamátay ang
+ákung mga manuk, My chickens died. sa tanang nanga- more [so-and-so]
+than anyone else (said of bad traits). Tapulan ka sa tanang nangamátay,
+You’re the laziest of the lazy. hi-un nga búlan n last quarter.
+bispiras sa hi-un the last day the moon can be seen before the new moon
+(patay ang búwan). himalatyun a dying. Lúya na kaáyu ang himatyun
+níyang inahan, His dying mother is already very weak. Himatyun na ang
+sugà kay wà nay gás, The lamp is dying down because the kerosene is all
+gone. -in- n human corpse. adlaw sa — All Souls’ Day. -in-(←) v [A;
+b3c] cry loudly, wail, usually over the dead. Ngánung nagminátay ka
+man, namatyan ka? Why are you wailing so loud? Did s.o. die? n loud
+wailing. ka- expression of strong anger or disgust. Kamatay, wà giyud
+masúd ang tris dà, Damn! The number three ball didn’t go into the
+pocket! kalamatyan, kinamatyan n a fatal spot in the body. Kalamatyan
+ang kasingkásing, The heart is a fatal spot in the body. ka-un(→)
+n death. Kalit nga kamatáyun, Sudden death. kina-un a as if one is
+about to die. Ngánung kinamatyun nang ímung trabáhu? Wà na bay ugma?
+Why are you working as if you were going to die? Is there going to be
+no tomorrow? mag-l-(←) n about to die. Lawus na ang dáhun sa mangga kay
+magmalátay man, The leaves on the mango tree are withering because they
+are dying. †
+
+máti v [A; a12] checkmate in chess. Bantayi ang hárì kay matíhun tikaw,
+Watch the king because I’m going to checkmate you. n checkmate.
+
+matikmátik v [A3; a12] do s.t. with careful reckoning and planning. Aku
+lay magmatikmátik ug paági nga mabáwì ang yútà, I will find means to
+get the lot back. Matikmatíka pag-áyu arun dì ka maalkansi, Figure it
+carefully so you don’t lose.
+
+matikud v [A12; b8] notice, become aware of s.t. Karun pa aku
+makamatikud sa dakù kung sayup, I just realized what a big mistake I
+had made. Wà ku mamatikdi ang ímung pag-abut, I didn’t notice your
+arrival.
+
+matimáti wait for a while. Matimáti úsà kay náa pay átung paabútun,
+Wait awhile. We are expecting some more people to come. v {1} [c1]
+finish slowly. Átù lang ning matimatíhun (imatimáti) pagkáun arun dúgay
+mahurut, Let us eat it slowly so it can last a little longer. {2} [A;
+c1] make do with less equipment, or give s.t. less attention,
+disregarding the quality of the work. Matimatíhun ku lang nig kinamut
+ang drúwing bísag way rúlir, I’ll just make a rough drawing by hand
+because there is no ruler.
+
+matimátiks n mathematics.
+
+mating humorous euphemism for matay, exclamation of displeasure. Mating
+bug-áta ning ákung dá! My! How heavy this is!
+
+matiriyal_1 n particle or trace of truth in feelings and emotion. May
+matiriyal sa katinuúran ang íyang púlung, His words have some particles
+of truth. v [A] for feelings and emotions to start developing.
+Mimatiriyal ang íyang pagdúda dihang kanúnay nang higabin-ag paúlì ang
+bána, She developed suspicions when her husband started always coming
+home late nights. Nakamatiriyal ang gugma sa ílang duha ka
+kasingkásing, Love sprouted in their hearts.
+
+matiriyal_2 n person’s capability for a certain position. Maáyu siyang
+matiriyal pagkaprisidinti, He is a good presidential timber.
+
+matirniti n {1} maternity clinic. {2} maternity dress. v {1} [A13; c16]
+wear, make a maternity dress. {2} [B1256] wind up in the maternity
+clinic—i.e. have a baby out of wedlock. Mamatirniti ka giyung bayhána
+kag mag-unauna ka sa mga láki, You’ll end up in a maternity clinic if
+you are forward with men. — lib maternity leave.
+
+matiryális n materials used for constructing. — pwirtis {1} durable
+materials for construction. {2} for a woman to be well-built. Maáyung
+pangasaw-un kay matiryális pwirtis, She’s a good prospect because she
+is well built.
+
+matmat_1 v {1} [A; a1] unravel, undo s.t. all tangled. Aku ray mumatmat
+sa hílu nga nagubut, I’ll unravel the tangled thread. {2} [A; c]
+recount a story, events. Ákung imatmat sa husgádu ang nahitabù, I’ll
+tell the judge what happened.
+
+matmat_2 = alimatmat.
+
+matngà v [A; a12] be hit full in the area intended with a big impact.
+Namatngà pagkaigù ang langgam sa batu, The stone hit the bird squarely.
+a hit square. Matngà giyud pagkaigù ang lansang nga gimartilyu, He hit
+the nail square on the head.
+
+matngun v {1} [A13; b(1)] take care of by observing precautions, handle
+carefully. Magmatngun ka arun dì ka madisgrasya, Be careful so you
+don’t meet an accident. {2} [A1; b(1)] pay attention, heed. Wà mu
+magmatngun sa ákung tambag, ha? You didn’t heed my advice, did you?
+{3} [A12; b8] be aware of, realize. Nakamatngun siya nga walà na ang
+íyang pitáka, He noticed that his wallet was gone. Namatngunan na níya
+nga walà diay salà ang bátà, He has just realized that the child was
+innocent. — ug buut v {1} [A; b8] be aware of, reach the age of reason.
+Dinhi na ku ning baláya sukad ku makamatngun ug buut, I have lived in
+this house since I saw light. {2} [A12] regain consciousness. Didtu na
+siya makamatngun ug buut sa uspital, He regained consciousness in the
+hospital. pahi- v [A; c] advise and admonish. Pahitmangúni siya báhin
+sa íyang pag-inum, Advise him about his drinking. n admonishment. kahi-
+n awareness of s.t.
+
+matráka n grager, used as a noisemaker in the procession on Good
+Friday. matrakáhun ug bàbà talking like a machine gun. Báhu ning tabian
+matrakáhun ug bàbà, This gossip! Her mouth goes like a machine gun.
+
+matrídu = matríru.
+
+matrikula n school fees. v [c6] pay tuition.
+
+matrimunyal n double bed.
+
+matríra = matríru (female).
+
+matríru a {1} wise to the ways of the world. Dì na nà siya matuntu kay
+matríru, You can’t pull a fast one on him. He’s wise to the ways of the
+world. {2} wise, tricky. Matríru ang mga matansíru kay dílì hustu ang
+timbangan, The meat sellers are very tricky because the scales are not
+honest. {3} for game to be shy and not easily approached by persons.
+v [B1] be, become wise to the ways of the world or tricky.
+
+matris_1 n uterus.
+
+matris_2 n mattress.
+
+matrúna n {1} the head maid in a wealthy household, the one in charge
+of running the household. {2} housemother of a women’s dormitory or
+boarding house. a matronly-looking, old, and slightly stout. v [B136;
+c16] be, become a house mother or head maid; get to be matronly in
+appearance.
+
+mats v [B; c6] for wearing apparel to match. Mimats ang ímung sapátus
+sa pitáka, Your shoes match your purse.
+
+matsa v [A1; c1] do s.t. in a relaxed and unhurried manner. Ayaw
+matsaha (imatsa) nang ímung linaktan ug sugúun ka, Don’t take it so
+slow when you are told to do s.t.
+
+matsing_1 n small monkey. a {1} like a monkey in appearance.
+{2} mischievous. Matsing kaáyu ning batáa u, lukup lag panúngug sa
+uban, This child is mischievous. He keeps on teasing the others.
+v [B145] look ugly like a monkey. Nagmatsing lang nang dagway mu, You
+have a monkey’s face.
+
+matsing_2 n matching type exam.
+
+matsuy humorous euphemism for matay, exclamation of displeasure. Matsuy
+ning batáa, langas kaáyu, My! What a nuisance this child is.
+
+mátud [gen.] according to what [so-and-so] says. Mátud níya, maáyu
+kanang klási, According to him that is a good kind. ‘Adtu na ta,’ mátud
+níya, He said, ‘Let’s go.’
+
+matulì n k.o. balat (sea cucumber).
+
+matúmat v [C; bc3] engage in a friendly, casual chat. Dì ku
+makigmatúmat nímug dúgay kay nagdalì ku, I can’t chat with you for long
+because I’m in a hurry.
+
+matun n ruffian, tough guy. Daghang istambay nga matun sa piyir, There
+are many ruffians hanging around at the pier. v [B2; b6] be, become a
+tough guy.
+
+matutù v [A; a12] {1} take care of a child. Kinsay nagmatutù sa ímung
+anak samtang walà ka? Who took care of your child when you were gone?
+{2} rear, bring up. Akuy nagmatutù kaníla hangtud sa ílang
+pagkaulitáwu, I reared the boys until they were teen-agers. {2a} [A;
+b5c] inculcate with s.t. Matutua (matutui) ang mga tinun-an sa
+nasyunalismu, Teach the pupils nationalism. {3} nurture a feeling. May
+gimatutù siyang pagdumut álang kanákù, He is nursing a grudge against
+me. n care, guidance. Matutù sa inahan, Mother’s guidance.
+
+matyag v [A; a12b2] observe, watch to see. Siyay mumatyag sa kamaisan
+nga dì kan-un sa mga amù, He will watch the cornfield to see if the
+monkeys are getting at it. Nakamatyag ka nag táwung giupirahan? Have
+you ever watched a person being operated on? see also batyag.
+
+matyanak = mantiyának.
+
+mau short forms: mu, maw is, are, was, were. {1a} preceding subject in
+sentences with nominal predicates. Kadtung íyang gisulti mau ang
+nakapalágut nákù, What he said was what angered me. Ang kangihit sa
+tambal muy nakapataas sa prisyu, The scarcity of medicine is what made
+prices high. {1b} with no subject: it’s [predicate] which is the one.
+Nagtúu giyud aku nga kanà mau, I believe that that is the one. Ug mau
+kanà, ang útang maimpas sunud búlan, If that is the case, the debt will
+be paid off next month. Ang ímung tubag dílì mau, Your answer is not
+right. — bítaw that is so. Kadakung trabáhu nu? Mau bítaw, What a big
+job, isn’t it? It certainly is! — kaáyu the very one. Mau ni? Mau
+kaáyu, Is this the one? Yes it is the very one. — gayud that is the way
+it is. Mau giyud nà siya ug mahubug, That is the way he is when drunk.
+— gihápun it’s (it was) as usual. Ang atup sa ámung balay mau gihápun,
+nípà, The roof of our house is the usual kind—of palm thatch. — lang
+see lámang, 2c1. — kini ug kini, — kanà ug kanà in giving excuses,
+reasons or alibis: it is because of this, because of that. {1c} in
+response to a question as to the identification of s.t.: yes, it is the
+one. Mau ba ni ang imúha? Dílì mau, Is this yours? No, that is not the
+one. Si Pidru na ba nà? Mau na, Is that Peter now? It’s him all right.
+{1d} yes, that is the case, said esp. in response to negative comments.
+‘Kusug siyang manghulam mu rag kamaung muúlì.’—‘Mau,’ ‘She likes to
+borrow things as if she knew enough to return them (which she
+doesn’t).’—‘Yes, that is so.’ {1e} — nang, — na sa ginháwang [verb]
+doing one’s best, tiring oneself out doing [verb]. Mau na nga pangítà
+nákù, (or mau na sa ginháwa nákung pangítà) ug sápì apan kamu nagsígi
+lang ug ínum, I wear myself out earning money, and all you do is drink.
+{1f} — ra pud núun that’s the only thing that’s wrong with it. ‘Dì man
+pasulayan sa dì pa mapalit.’—‘Mau ra pud núun,’ ‘It’s good, but you
+can’t try it out before you buy it.’—‘That’s the only thing that is
+wrong with it.’ {1g} -y (ang) pag-[verb], i-[verb] is the time
+[so-and-so] happens. Mauy ipanangpit níya manday human na, He calls you
+after he’s finished eating. Pag-adtu níya mau say pag-adtu nákù, When
+he went was the time I went, too. {1g1} — pa see pa-, 2e, 8b. {1h} —
+nga [noun] the aforementioned, said. Wà ku makaila sa maung táwu, I
+don’t know that particular person. {1i} — pay ... — pay even though
+[such-and-such] is the case, [so-and-so] is true of the same person
+anyway. Mu pay mangáyù mu pay mangísug, He asks a favor, and yet he has
+the nerve to get angry. {2} — nga [sentence] therefore, consequently.
+Sígi kung praktis, mau nà nga maáyu kung mubayli, I always practice.
+That’s why I dance well. Sa ámù kanúnay nga mangísug si Máma. Mau gánì
+nga dílì layhang mupaúlì si Pápa, Mother is always angry at home. That
+is why even Dad doesn’t like to go home. {3} — ra no more, that’s all.
+‘Adúna pay láin?’—‘Mau ra,’ ‘Is there any more?’—‘That’s all there is.’
+{3a} — ra nga the same. Mau rang klasíha nà. Purus tagdiyis, Those are
+of the same class. They are all ten cents apiece. {4} — ra ug {4a} it
+seems. Mu rag láin nà, It seems to be a different one. {4b} rather. Mu
+rag giuhaw ku, I am rather thirsty. Ang báhù dílì mangga, mau rag
+nangkà hinúun, The smell is not that of the mango, it is rather like
+that of the jackfruit. Mau ra ug nahuwasan na ku sa ákung kakulbà, I
+feel a bit relieved from my fright. {4c} as if [so-and-so] were the
+case. Nagpaduludiskursu siya mu rag si kinsa, He took it upon himself
+to give a speech as though he were s.o. v {1} [B1256] turn out to be
+correct. Gisulaysuláyan kug duut ang usa sa mga timbri, namau bayà, I
+tried pressing one of the buttons at random. It happened to be the
+right one. {2} [A13] be the same. Bísan ug atbang ta sa pulitika magmau
+lang gihápun ang átung pagbinatiay, Though we are opponents in
+politics, our feelings towards each other are still the same. ka-
+v [B1256; b8] know how to do s.t. Makamau kang musulat? Do you know how
+to write? Wà kuy nakamauhan, I don’t know anything. di-(←) see dimáu.
+paka- v [A13; a12] pretend, consider s.t. as right or the one. Ngánung
+pakamauhun man nímu nga ang ákù man ni? Why do you insist this is the
+very one, when it is mine? maumáu v [A; a12] {1} make temporary repairs
+by just trying things out, make do with s.t. less than what is really
+needed. Ug maáyu kang mumaumáu ug áyu, mudágan giyud nang mutúra, If
+you are good at fiddling around with your motorcycle, at least it will
+run. {2} fabricate, make s.t. not real. Sa mga kumunista ang Diyus usa
+ka maumáu, To the communists, God is a figment of man’s imagination.
+maumáu na sa ginháwa = mau, 1e.
+
+ma-un(←) affix added to verbs and adjectives to form adjectives which
+mean ‘having the characteristic of doing or becoming [so-and-so]’.
+Malipáyun, Happy. Maluyáhung tíngug, In a weak voice. Mapangilyupúung
+naghangyù sa Prisidinti nga luwasun ang íyang anak, With pleas she
+implored the President to spare her son. Mapasalígung balità,
+Reassuring news. Matuhùtuhúun, Gullible, superstitious.
+
+maung n blue denim. v [A12] wear blue denim.
+
+mauraúra somewhat similar. Ang ibid mauraúra sa halu ug hitsúra, gáling
+may sílik lang sa líug, The agamid lizard is somewhat similar to the
+monitor lizard, only it has a crest on its neck.
+
+maut a hypocrite, one who puts up a praiseworthy, but completely false
+front. Pagkamaut bayhána, manugilun nga hingatag piru labihan diayng
+hakúga, What a hypocrite that woman is. She claims to be generous but
+actually she is a terrible tightwad. v [B12] be, become a hypocrite.
+-in- a hypocritical. v [A13; c1] act hypocritically. Ayawg minaut kay
+nasáyud mi sa ímung pagkatáwu, Don’t be hypocritical. We know what you
+are.
+
+máut (from daut) a {1} not good, substandard in quality. Máut ning
+ripridyiritúra kay dì muayis, This refrigerator is no good because it
+won’t produce ice. {2} unfavorable condition or state. Mubagyu tingáli
+kay máut man ang panahun, There seems to be a typhoon because the
+weather is bad. {3} unpleasant in ways. Máut ug batásan, Disagreeable
+in his ways. Máut bayà nang mamalíkas, It’s bad to curse.
+{4} unpleasant in looks, smell, and the like. Máut kaáyu árung bahúa
+uy, What a bad smell! v [B; a1] be, become bad, ugly, unpleasant to the
+senses, etc. ka- n badness, ugliness, defectiveness.
+
+mawu- for words with mawu- see also malu-.
+
+mawungmáwung v [A; c1] cover up, hide one’s feeling. Dúnay mga táwu nga
+makamau giyung mumawungmáwung sa ílang kaguul, There are people who
+know how to hide their grief.
+
+mawutpis n {1} boxer’s mouthpiece. v [A13] wear a mouthpiece.
+
+maw-uy a arousing pity, touching. Maw-uy kaáyung tan-áwun ang bátà nga
+makalilímus, The child beggar was a pitiful sight.
+
+may {1} there is, are, was, were. May tulu ka táwung nangítà nímu,
+There were three persons looking for you. Kun may isúgù, At your
+service (lit. if there is an order to give). {2} have. May sigarilyu ka
+dihà? Do you have any cigarettes on you? {2a} may pagka- be somewhat.
+May pagkatabian ni si Áning, Aning is somewhat talkative. {2b} — idad
+be of age. May idad na siya ug makabutar na, He is already of age and
+he can vote now. {3} near a place. Didtu siya magtindug sa may
+pultahan, He was standing there by the door. {4} some, [so-and-so] long
+ago, May duha ka búwan na níyang trabáhu dinhi, He’s been working here
+for about two months now. {4a} — mga at about [such-and-such] a time.
+Didtu siya sa may mga alas kwatru, He was there at around four. — láin
+pa yes, of course (is there anything or anyone else). Siya giyuy
+nagkúhà sa libru kay siya ra may dihà. May láin pa? He must have taken
+the book because he was the only one there. Who else could have? Kan-un
+giyud ni níya. May láin pa? He’ll eat this, don’t worry. Would he fail
+to do so!
+
+
+
+máya n k.o. small bird found in rice fields, the chestnut mannikin:
+Lonchura malacca. — nga bungul n k.o. brown-colored maya which is
+believed to be deaf because it is not easily disturbed or afraid of
+noise.
+
+mayà a happy and cheerful in appearance. v [B4; c16] be, become gay.
+Pagmayà kay adlaw nímu run, Be cheerful. Today is your birthday. Imayà
+(mayaa) nang inyung panagway kay litratúhan na ta, Put on a cheerful
+expression because they are going to take our picture. ka-
+n cheerfulness.
+
+mayáman a rich, moneyed (colloquial). Mayáman kaáyu ku run kay bag-ung
+swildu, I am very rich now because I have just received my pay.
+
+mayamaya, mayamáya n red snapper, Lutianus spp.
+
+mayánà n k.o. ornamental herbs with variously colored green and purple
+leaves which have medicinal uses: Coleus blumei.
+
+mayáus n k.o. thin-bodied slipmouth (palutput).
+
+maybay n k.o. large, light green, cooking banana, only a little smaller
+than the tinduk.
+
+mayhu, mayhum (from humay) n rice (humorous slang). Ayay! Mayhum diay
+karun ang átung kan-un, Goody. We are going to have rice today. v [A1]
+eat rice as one’s staple.
+
+mayik n {1} microphone. {2} sound system with an amplifier. Mayik ang
+ílang gigámit sa bayli kay mahal ang musiku, They used a sound system
+for the dance because an orchestra would be too expensive. v [A1] use a
+mike or sound system.
+
+maylab n one’s sweetheart or loved one (humorous). Ímu nang maylab ang
+ímung kúyug? Was that your sweetheart that was with you?
+
+maymay v [A; b] advise, admonish s.o. in a nice tone. Maymáyi siyang
+dílì na maghubughúbug, Advise and encourage him not to get drunk any
+more. n advice or admonition. pa- v [A3] listen to advice. Ang táwung
+dì magpamaymay háyan mahitabù, A person who does not listen to advice
+is likely to get into trouble. ma-un a admonishing.
+
+maynur n one’s minor subject. v [A; a2] take as one’s minor.
+
+maypáy = malaypálay.
+
+mayrun a having money (colloquial). Mayrun tingáli ni dà, kay
+nangimbitar man, You’re probably in the clover today since you’re
+inviting us.
+
+maytir n miter joint. — baks miter box.
+
+Máyu n May. see abril for verb forms: plúris di — see plúris.
+
+mayukmuk n {1} powdery soil. Ayaw pagdúlà sa mayukmuk kay abug kaáyu,
+Don’t play with the powdery soil because it’s very dusty. {1a} river
+sediment. Ang mayukmuk sa subà nadala sa bahà, The river sediment was
+carried off by the flood. {2} small fry: little children, anything
+small or lower in class. Basta mga mayukmuk lagmit way púl, If you are
+a small fry you have no influence. Nangatū́g na ang mga mayukmuk, The
+kids are all asleep now. v [b2] get powdered soil on one. ka- v [A13]
+get powdery soil all over one.
+
+máyung a for the weather to be somewhat overcast, sunless. v [B] be,
+become overcast. Maáyu rung ipasíyu sa bátà kay nagmáyung na, It’s a
+fine time to take the baby for a stroll. It is a little overcast.
+
+may-ung v {1} [C3; c6] have a resemblance, make things look alike.
+Magkamay-ung ug panagway ang mag-ágaw, The cousins have a resemblance.
+Imay-ung ang ímung nawung sa kang Dulpi nga kataw-anan, Make your face
+like Dolphy’s funny face. {2} [A12; b8] recognize, be familiar to s.o.
+Mu rag nakamay-ung ku sa ági niíning sulat, I think I recognize the
+handwriting in this letter. {3} [A12; b2] notice s.t. Namay-ungan níya
+nga may táwung misulud, She noticed a man entering. ka- n s.t. which
+resembles s.t. else. Kamay-ung ang ímung panagway ánang artistáha, You
+have a resemblance to that actor.
+
+mayunis, mayunísa n mayonnaise. v [b] put, use mayonnaise.
+
+mayur n {1} municipal or city mayor. {2} in a game, the one who has the
+first play or turn. {3} major chord or key. Du mayur, C major. — diidad
+a of legal age. v [B256] be of legal age. — dúma = — dúmu (female). —
+dúmu majordomo of an estate, hotel, ship, or other large institutions
+requiring a chief steward. v [B156] be, become the majordomo. For other
+phrases with mayur as the first word, see the entry under the second
+word. v [A3; a2] be, become mayor. Si Talyuks ang átung mayurun sa
+syudad, Let’s make Talyux the mayor in the city. (←) v [A2C2; ac3] play
+off against one another to see who goes first in the game. Átung
+mayúrun kun kinsay muúnag lábay sa búla, Let’s play it off to determine
+who will be the first to throw the ball.
+
+mayuríya n majority of a body convened. Mibutar ang mayuríya sa
+musiyun, The majority voted for the motion. Si Usminya nakakuhag
+singkuwinta bútus nga mayuríya, Osmeña got a majority of fifty votes.
+v [A] get a majority of votes.
+
+mayurù n k.o. white upland rice with long and slender grains, harvested
+after six months.
+
+mayuskula n majuscule.
+
+mga abbreviation for manga.
+
+mi_1 see kami.
+
+mi_2 n the note mi. — mayur E major. — minur E minor.
+
+mī̀ n {1} representation for the sound made by a goat. {2} goat
+(slang). Mukáun kug mī̀ piru dì kug aw-aw, I eat goat meat but not dog.
+
+mi- past punctual active verbal prefix. see mu-.
+
+míd n a female household help. v [B156; a12] be, become a maid. pa-
+v [A] hire oneself out as a maid.
+
+mídal n medal. Nakadawat ug mídal ang balidikturyan, The valedictorian
+was awarded a medal. v [A12; b(1)] receive a medal. bruns, guld, silbir
+— n bronze, gold, silver medal. -ist(→) n gold, bronze, silver
+medalist. v [B1256] become a medal awardee.
+
+midalya n {1} medal. {2} religious medal worn by devotees. {2a} dried
+palutput, so called because of its resemblance to a medal (humorous).
+v [A1; c] wear, win, award s.o. a medal.
+
+midalyun n medallion. v [A1; c] wear, put a medallion on s.o.
+
+mídi n midi skirt. v {1} [A13] wear a midi dress. {2} [c1] make a midi
+dress.
+
+midída n cloth tape measure used in dressmaking.
+
+midikal a connected with the practice or study of medicine.
+
+midikilyu = miriku.
+
+midiku n physician, doctor. — ligal n legal physician who certifies the
+medical facts surrounding a death.
+
+mid-in dyapan n {1} shoddy in workmanship or quality. {2} weakling,
+sickly. Tambuk tan-áwun apan mid-in dyapan. Dalì rang mayasmì, She
+looks fat, but she is weak. She easily gets sick.
+
+midisin n course of medicine. — kabinit n medicine cabinet. — bag
+n medicine bag.
+
+midisína n {1} medicine. Pagpalit ug midisína sa butíka, Buy medicine
+at the drugstore. {2} chemical for the processing of s.t. Midisína sa
+kulung, Chemicals for a permanent wave. {3} course in medical school.
+
+midiya half. Midiya pulgáda ang gibag-un, Half an inch thick. Midiya
+ang bátà sa sinihan, A child pays half fare in the movies. Midiya kílu
+nga karni, Half a kilo of meat. i- thirty minutes after the hour. Alas
+dus imidiya, Two thirty. v [B56] get to be to the half hour. ‘Alas
+singku na ba?’—‘Mumidiya na hinúun,’ ‘Is it already five o’clock?’—‘It
+is nearly five thirty.’ — agwa n a roof projecting beyond the wall at a
+downward angle over the whole length or width of a house, or just over
+a window or door. v [A; b] add an overhang. — bangku n wind coming at a
+forty-five degree angle from directly in back of a boat. Pabur gihápun
+sa sakayan ang hángin nga midiya bangku, A wind which comes from the
+back but at an angle is still favorable to sailboats. — díya n half
+day. Midiya díya ra ang trabáhu basta Sabadu, We work half-day on
+Saturdays. v [A; c16] do s.t. half-day. — nutsi n the dinner served at
+midnight on Christmas. — pága n half fare. — táwu n s.o. who is
+extraordinarily short. midiyamidiya v [b(1)] do s.t. in a moderate way.
+Midiyamidiyáhi lang pagpadágan arun dílì ta madisgrasya, Drive at a
+moderate rate so we don’t meet an accident. Midiyamidiyáhi ug hugut ang
+twirka arun dílì maharùs, Tighten the screw moderately so it won’t get
+stripped. midiyahan n {1} a fifth, so called because it contains half
+the volume of a bottle which formerly was in wide use. {2} small train
+station between two main stations where a train can stop to take on or
+discharge passengers or freight but cannot issue tickets. †
+
+midiyas n {1} socks, stockings. {2} condom (humorous euphemism).
+v {1} [A; b] put on, wear socks, stockings. {2} [A; c] use a condom.
+-an(←) n for an animal to have a different color on its legs so that it
+looks as if it is wearing stockings.
+
+midiyu — [adj.] somewhat, a little bit. Midiyu hubug ka dà, You’re a
+little bit drunk. Midiyu língin ang purma, It is somewhat roundish in
+shape.
+
+midiyus n {1} makeshift or temporary means to accomplish s.t. Pangitáan
+ta nig midiyus arun muandǎr ang makina, Let’s look for some temporary
+way we can get this engine to run. {2} means of resolving a problem.
+Kadtung íyang labad sa úlu midiyus lang tu sa paglikay sa trabáhu, His
+headache was just an excuse to get out of doing work. Wà kuy láing
+midiyus gawas sa pagpangútang, I have no other way of resolving the
+problem except borrowing money. Ang labing maáyung midiyus sa ímung
+ubu, The best remedy for your cough.
+
+midtik n {1} Medical Technology course. Ang íyang gikúhà midtik, He is
+taking up Med. Tech. {2} housemaid (humorous and depreciatory word play
+on míd). Naíbug ka ánang midtik man nà? Did you fall for that girl when
+she’s just a maid?
+
+midtirm n mid-term exams. v [A1] have the mid-term exams.
+
+mid-ub-ánur n maid of honor at a wedding. v [A12; c6] be, become the
+maid of honor.
+
+mídul kard n name given to the pieces in mahjong from {2} through
+{8} as compared to the tirminális (1 and 9).
+
+midwayip n {1} trained midwife. {2} course of midwifery. {3} maid
+(humorous, deprecatory word play on míd). v [B156; a12] be, become a
+midwife. -iri n midwifery.
+
+midyur n {1} major in the military or police force. {2} major field of
+study in an academic course. Sáyans ang íyang midyur, She is a science
+major. v {1} [B126; a12] be, make s.o. a major. {2} [A; c16] take a
+certain course as one’s major.
+
+migkap v [B146] be slothfully inactive. Ang táwung magmigkap dì madúgay
+niíning trabahúa, A person who loafs will not last long on this job.
+
+migkat = migkap.
+
+migrupunu = mikrupunu.
+
+mihihì = bahìhì.
+
+mihìmihì v [A; b6] for a child to whimper or cry softly from discomfort
+or naughtiness. Nagmihìmihì na sab si Bíbi. Katulgun tingáli, Baby is
+whimpering again. She probably is sleepy. Ayaw kug mihìmihii ug dúna
+kay pangayúun, Don’t whimper at me if you want s.t.
+
+mihit = nihit.
+
+mihúras n {1} improvements. Ang Mayur walay nahímung mihúras hangtud
+karun, The Mayor has not made any improvements to this day. Kining
+mangga usa lang sa daghang mihúras niíning yutáa, This mango tree is
+only one of the many improvements on this land. {1a} favor of a
+financial nature. Unsang mga mihúras ang ímung nahátag kaníya nga dakù
+man siyag útang buut nímu? What have you done for him that he owes you
+a debt of gratitude? {2} virtues, good qualities. Unsa may mga mihúras
+niánang bayhána nga nakagustu man ka níya? What are the good qualities
+that made you like that woman? {3} assets. Kanang magtiayúna dakù
+kaáyug mihúras nga ikabílin sa ílang mga anak, That couple has a large
+number of possessions to leave their children. v [A12] make
+improvements. Dílì makamihúras kaaáyu ang mayur sa íyang lungsud kun
+kuntra partídu siya sa administrasiyun, A town mayor can make few
+improvements in his municipality if he is not aligned with the
+administration.
+
+mík n {1} a Mexican copper coin worth one-hundredth of the Mexican
+peso. Formerly circulated, it is now used only as offerings to spirits
+or used topically for medicinal purposes. {2} fake coin.
+
+mikà a idle, not doing things. v [B145] {1} sit around lazily. Magmikà
+lang ang babáying way hibangkaágan sa panimalay, A girl who knows
+nothing about household work sits around lazily. {2} go about in low
+spirits. Unsay nahitabù nga nagmikà ka man? What happened that you are
+in such low spirits?
+
+mikanikal n course of mechanic engineering. — indyinir n mechanical
+engineer. — indyiníring = mikanikal.
+
+mikaniku n mechanic. v [B156; a2b8] be, become a mechanic.
+
+mikanismu n mechanism, the workings of a machine.
+
+mik-ap_1 v [A; b] make up a lacking subject or part of a subject in
+school. Kinahángang mik-ápan ang absin, You have to make up your
+absences.
+
+mik-ap_2 n make-up, cosmetics. Bagà siyag mik-ap, She had heavy make-up
+on. v [A; b] put make-up on s.o. or on oneself.
+
+míki n {1} k.o. large yellow noodle made of wheat flour. {2} dish made
+of such noodles. v {1} [A; a2] make, make into noodles. {2} [A13; b(1)]
+prepare a dish of noodles.
+
+mikrubyu n microbes.
+
+mikru krúm n mercurochrome.
+
+mikrupunu n microphone. v [A13] use a microphone.
+
+mikruskupyu n microscope. v [A1; b6] look at with a microscope.
+
+mikskla v {1} [A; a] mix solids or liquids. Mikskláha ang pintal ug
+túbig, Mix the paint and the water together. Mikskláhi ug pulug ang
+minása nga simintu, Mix dye into the cement mixture. {1a} [A1] prepare
+s.t. that has to be mixed. Nakamikskla ka na ba ug ilimnun? Have you
+prepared (mixed) the drinks? n mixture, proportion in which s.t. is
+mixed. Ispísung mikskla, A thick mixture.
+
+mil n thousand. Ang balur sa ákung awtu trayinta mil, My car is worth
+thirty thousand pesos. v see disiutsu. — únu, dusyintus, etc. One
+thousand one, two, etc. milmíl a valued in thousands. Dì ku makaabut
+pagpalit niánang mga milmíl nga kantidad, I cannot afford to buy things
+that cost in three figures.
+
+míl v [A; c6] post in the mail. Imíl ba kining suwáta? Shall I mail
+this letter?
+
+milagru n {1} miracle. Milagru ray makaluwas sa masakitun, Only a
+miracle can save the sick man. {2} — ug it would be a miracle if
+[so-and-so] were to happen. Milagrug mutúgut si Pápa mu pagpatan-aw
+nímug sini, It will be a snowy day in May before your father will let
+you go to the show. v {1} [A; b6] perform miracles. {2} [A1] do s.t.
+which is completely unexpected. Nagmilagru uruyng tihik nga nanghátag,
+A miracle! The cheapskate is giving out money. -sa = milagrúsu
+(female). -su a miraculous. Ang milagrúsung birhin sa Patíma, The
+miraculous Virgin of Fatima. v [B1246] be, become miraculous.
+
+milàmilà v [B146; a4] for eyes to be watery, full of pus. Gimilàmilà
+(nagmilàmilà) ang mata sa palahúbug, The drunkard’s eyes are all
+watery.
+
+milangkuliya, milangkulíya v [A13; a4] feel melancholic, esp. from
+homesickness. Gimilangkulíya nà siya sa íyang trátung túa sa Amirika,
+She is homesick for her boy friend in the States.
+
+miláru n thick syrup from brown sugar. v [A; a] make thick brown-sugar
+syrup.
+
+milbaks n mailbox.
+
+milibiki n brace, a carpentry tool used for boring wood. v [A; a12] use
+this tool.
+
+miligrámu n milligram.
+
+miliguy = kawatkawat. see káwat.
+
+milimitru n millimeter.
+
+milindris n k.o. ornamental shrub with white, pink, or purplish flowers
+growing on small terminal panicles: Lagerstroemia indica.
+
+milisya n collective term for Filipino recruits during World War I. -nu
+n member of the Filipino militia. v [B156; c1] become a member of the
+Philippine militia.
+
+militar n the military, soldiers. Nanghilabut ang militar sa iliksiyun,
+The military interfered with the election. pwirsa — military force.
+salúdu — military salute. upisyal — military officials. v {1} [A1; b6]
+wear a military uniform. Gimilitaran ang sundálung namatay, The soldier
+who died was dressed in a military uniform. {2} [B1356; c1] become a
+military man. {3} [c1] be done in a military manner. Militarun
+(imilitar) ang kasal sa ákung manghud kay níbi may íyang pamanhunun, My
+younger sister will be married in a military wedding because the groom
+is a navy man.
+
+*milk pawdir — n powdered milk.
+
+milma v [B; a] lessen, slow down. Bísan tigúlang na siya wà mumilma ang
+íyang kusug, Even when he was old, his strength did not decrease.
+Nagmilma na ang dágan sa trák, The truck slowed down. Hilánat ang
+nakamilma sa íyang gána sa pagkáun, Fever has lessened his appetite.
+Milmáhan ta ang paggastugastu, We will go slow on spending. Unsa kahay
+imilma ku niánang íyang pagkahimabáyi, I wonder what I can do to
+discourage his amorous activities.
+
+milù n k.o. civet similar to the maral, but lighter in color and not so
+odorous.
+
+milun, mílun n cantaloupe: Cucumis melo.
+
+milung v [B126] feel disappointed and embarrassed that s.t. expected
+did not turn out to be or happen. Dà, namilung lagi sila kay walà man
+diay salída sa sini, labun pa, walà na giyud maniudtu, They were
+embarrassed and disappointed. There was no movie that day, and they had
+gone without even eating lunch.
+
+milya n mile. v [B256] be, get to be about one mile. Mumilya giyud ang
+gilay-un, The distance is about a mile. -hi n mileage.
+
+milyun n million. v see disiutsu. — dálar ismayil n a million dollar
+smile. — dálar ligs n shapely legs. -arya = milyunaryu (female). -aryu
+n millionaire. v [B16] be, become a millionaire.
+
+milyun pláwir n k.o. low, ornamental shrub with large, rounded, hairy
+leaves and clusters of blue or pinkish flowers: Hydrangea macrophylla.
+
+mimbru n member. Mimbru sa simbahan, Church member. v [B156; c16] be,
+make a member. pa- v [A3] join s.t. to become a member.
+
+mími baby talk for: {1} going to sleep. {2} drinking. v [A23] sleep or
+drink.
+
+míming n term of endearment for a cat.
+
+mímis_1 v [c] rub s.t. violently on s.t. Gimímis sa iring ang ilagang
+gitangag dihas yútà, The cat rubbed the rat it was holding in its mouth
+on the ground.
+
+mímis_2 n {1} a variety of first-class rice having white, smooth,
+shiny, slender, and long grains. {2} any first-class white rice.
+
+mímu, mimurandum n memorandum.
+
+mimuráyis v {1} [A; a12] memorize. {2} [a12] skip a meal. Gimimuráyis
+ku ang paniudtu, I skipped lunch.
+
+mimurya v {1} [A; a12] memorize. {2} [a12] skip a meal. Gimimurya námù
+ámung pamáhaw sa ámung byáhi, We skipped our breakfast during our trip.
+
+mimyu = mimyugrap.
+
+mimyugrap v [A; a12] mimeograph. Magmimyugrap ku sa prugráma, I am
+going to mimeograph the program. tig- n mimeographer.
+
+mína_1 n {1} mine, mineral deposit. {2} explosive mine. v [A; a2] mine
+a mineral deposit. minahan n mine. Túa siya magtrabáhu sa minahan, He
+is working in the mine. minahun n mineral deposit to be mined.
+
+
+
+mína_2 n situation in pool wherein two or more balls are in contact
+with each other and the one in the back is directly in line with one of
+the pocket holes, so that it is almost certain that the ball or balls
+in front will be knocked into the hole. Sigurádung masúd nang utsu kay
+mína man, The eight ball will surely go into the hole because they are
+directly aligned.
+
+minandis = manandis.
+
+Mindanaw n Mindanao.
+
+ming- = mi-.
+
+míng n {1} sound used to call cats. {2} baby talk for a cat.
+
+míngaw a {1} lonely, deserted. Míngaw ang balay, kay nanáug ang tanan,
+The house is deserted because everyone went out. {2} lonely in feeling.
+Míngaw ang syudad ug istranyu ka, A city is a lonely place for a
+stranger. v {1} [B; b6] be lonely, quiet. Nagmingaw ka man gud, ikaw ra
+bang usa? You seem to be lonely. Are you alone? {2} [a4b3] feel
+homesick, miss s.o. Wà ka ba mingáwa (mingawa) sa ímung mga bátà?
+Didn’t you miss your children? Buut akung magpaduul gayud sa namingáwan
+(gikamingáwan) kung asáwa, I want very much to be near my wife whom I
+miss so much. — sa gunting v [a12] for hair to be uncut (humorous). Ang
+buhuk sa mga Bítuls gimíngaw sa gunting, The Beatles’ hair is lonely
+for the scissors. ka- n loneliness, homesickness. ma- a quiet, silent.
+Mamíngaw nga kagabhíun, Quiet night. ma-un a lonely. Mamingáwun kaáyu
+siya sukad mamatay ang íyang bána, She has been lonely since her
+husband died. ka-an a lonely, deserted place. Nagtubù siya sa
+kamingáwan sa kabukíran, He grew up in the lonely mountains.
+
+minghuy = pinghuy.
+
+mingkay n endearing term for a cat.
+
+mingming = míng.
+
+minì a {1} unintelligent. Lisud ikasulti ning minì kay láin ug tubag,
+It is difficult to talk with an unintelligent person because he can’t
+answer to the point. {2} fake, counterfeit. Kwartang minì, Counterfeit
+money. Diplúmang minì, Fake diploma.
+
+min-ibin, min-ibint n main event in boxing. v [A13] hold a main event.
+†
+
+minimu_2, minimum n minimum wage. Sayis ang adlaw ang minimu karun, The
+minimum wage is six pesos a day. v [A; c1] pay a minimum wage.
+
+minindyaytis n meningitis. v [a4] be afflicted with meningitis.
+
+miniral, minirális n minerals. Miniral nga gikinahanglan sa láwas,
+Minerals which the body requires. Ang yútà sa Sibu tugub sa mga
+miniral, The lands in Cebu are rich in minerals.
+
+minirba n hand-fed printing press (so called from the trade name,
+Minerva).
+
+miníru n miner. v [B1456] be a miner.
+
+miniskirt n miniskirt, k.o. skirt that hugs the hips and is 2–5″ above
+the knee. v [A] wear a miniskirt.
+
+ministil see mistil.
+
+ministiryu n divine or religious ministration. Ang ministiryu sa
+iglisya álang sa kalibútan, The church’s ministry is to the whole
+world.
+
+ministru n {1} minister, usually of a Protestant church. {2} minister
+to a head of state. primir — prime minister. v [B156; a12] be a church
+minister or minister to a head of state.
+
+míns n menstruation. v [A13; a4] have menstruation. Ayaw kalígug
+magmíns (minsun) ka, Don’t bathe if you’re menstruating.
+
+minsáhi n {1} message left for s.o. Nagbílin bag minsáhi ang mitilipunu
+nákù? Did the man who called me leave a message? {2} message. Ang
+minsáhi sa Santu Pápa, The Pope’s message. -ru n messenger. v [B156;
+a2] be, become a messenger.
+
+mintal n mental hospital. v [B1256] wind up in a mental hospital. Ayaw
+pagpalábig hunàhúnà sa ímung prublíma kay mamintal ka unyà, Don’t worry
+too much about your problem or you’ll wind up in the loony bin.
+
+mintalidad n mentality, mental ability or way of thinking. Mubù kaáyug
+mintalidad ang mga bátà sa ákung klási, The children in my class are of
+a low mental ability. Mau nay mintalidad sa mga batan-un karun, That’s
+the way young people think these days.
+
+mintira a pronouncing words with phonemes metathesized, e.g. balyu for
+baylu, sùdan for sud-an, etc. v [B; c1] pronounce words with phonemes
+reversed. Nagmintíra ang íyang ubang púlung kay natakdan sa mga taga
+Simala, He pronounces some of his words with the sounds reversed
+because his speech is influenced by the Simala speech.
+
+mintiryu n cemetery. v [B1256] die (lit. go to the cemetery). Sa ímung
+kabágis mamintiryu giyud kag sayu, You are such a ruffian you won’t
+live long.
+
+mintras while, during or the time that. Mintras naghulat ka,
+pagkalingawg basabása dihà, While you are waiting, just amuse yourself
+reading. Paglípay mintras búhì pa, Enjoy yourself while you’re still
+alive. — tantu {1} = mintras. {2} for the time being. Lápis lay gamíta
+mintras tantu nga wà tay bulpin, Just use a pencil for the time being
+since we have no ball point pen.
+
+mintul n mentholated candy.
+
+mínù n a magic spell cast by supernatural inhabitants of forested areas
+on persons wandering in their area. The victim is caused to see mirages
+and loses his way. The mirage may consist of trails diverging from the
+main path or thick underbush, so that the trail vanishes, or a person
+whom the traveler follows and then vanishes. The spell may last for
+days but can be counteracted if the victim removes his clothing and
+puts it back on inside out. v [a4] be lost because of the mínù spell.
+
+minúdu a sold in small quantities. Binaskit giyud ang sambag, dílì
+minúdu, You have to buy the tamarinds by the basket; you can’t buy just
+a few. v [A; c1] sell in small quantity or amount. pa- v [c6] for a
+young woman to engage in sex occasionally. Ayaw ipaminúdu ang ímung
+pagkababáyi, Don’t sell your virtue bit by bit (i.e. don’t give in to
+sexual advances).
+
+minuldi see muldi.
+
+minúnga = binúnga.
+
+min-úpis n main office.
+
+minur_1 n {1} in low gear or speed. Gibutang ku sa minur ang mútur, I
+put the motorcycle at low gear. {2} for engines to be revolving at slow
+speed, idling speed. v [B6; b7c] for an engine to slow down. Wà siya
+muminur sa kurbáda, He didn’t slow down at the curve. Ningminur ang
+dágan sa makina kay way gasulína, The engine slowed down because it ran
+out of gasoline. minurmínur v [b7] decrease the intensity of, or the
+amount of work. Minurminúri lang ang ímung káun arun dílì ka mutambuk,
+Decrease your food intake so that you will not grow fat.
+
+minur_2 n {1} minor key. {2} minor chord. {3} songs in a minor key.
+
+minur diidad n minor in age.
+
+minuríya n minority.
+
+mínus a {1} few, less in quantity. Mínus ang abut run kay húlaw, The
+yield is lower this time because of the long drought. Mínus kaáyu ang
+pumapálit ánang klasíhas panaptun, Few buy that kind of cloth. {2} low.
+Mínus ang grádu, Having low marks. {3} inferior in quality. Ayawg palit
+íni kay mínus kaáyung klasíha, Don’t buy this because it’s an inferior
+sort. {4} slow in comprehension. Ikaw kay mínus ka, dílì dáyun
+makasabut, Because you are slow in comprehension you don’t get it
+right. v [APB6; b7] lower or reduce; be less, get scarce. Dílì giyud
+mumínus (mamínus) sa kinyintus ang ákung kítà, My income will not be
+less than five hundred pesos. (→) v [A12; b] look down haughtily on
+s.t. Nakaminus ka nákù nga biyà may ímung ihátag? Do you look down on
+me since you give me the rejects? Gikaminusan níla ang ímung trabáhu,
+They look down on the kind of job you have.
+
+minuskula n lower case letters.
+
+minutíru n minute hand of a clock.
+
+minútu n minute. Lima na lang ka minútu sa dílì pa ang alas singku, It
+is five minutes before five o’clock. -s minutes (used after the numbers
+of Spanish origin). Dus minútus, Two minutes. see also unminútu.
+
+minyak, minyat n k.o. small musk shrew.
+
+minyù a married. Pagdagínut na kay minyù ka na, Be thrifty because
+you’re married now. Daghan sa mga minyù nga nanagbúlag, Many married
+couples have separated. v [B16C; ab] get married. Gustu na si Rumulítu
+nga magminyù, Romulito wants to get married now. Ug maminyù na ku, When
+I am married. Makigminyù na ang ákung trátu, My girl friend wants to
+get married now. Minyúun (paminyúun) sila arun dì magkawatkawat sa
+gawas, Let’s let them get married so they won’t be meeting outside in
+secret. Gipaburusan siya, piru wà minyúi, He made her pregnant but did
+not marry her. ka-un n marriage. Gihiúsa sila sa kaminyúun, They were
+united in marriage. Kinabúhì sa kaminyúun, Married life. mag-l- n about
+to get married.
+
+míra n myrrh.
+
+mirakul a persons short in height (humorous—so called from miracle
+rice, a newly developed variety of rice which ripens rapidly). — rayis
+n miracle rice.
+
+miramíra v [A; b] wave the fingers at s.o. in anger. Gimiramiráhan ku
+níya, mu rag si kinsang dunyáha, She waved her fingers at me as if she
+were some grand señora.
+
+mirasul n sunflower: Helianthus annuus.
+
+mirída n bad omen, usually portending death of s.o. far away. v [A13;
+b(1)] for a portent of death to appear. Pagkamatay ni Pidil sa Manílà
+nagmirída sa íla kay may itum nga alibangbang nga nagtuyuktúyuk, When
+Fidel died, there was an omen that appeared to them: a black butterfly
+fluttering about in their house.
+
+miriguráwun n a children’s game in which all the participants hold
+hands to form a circle; then they let the circle turn singing at the
+same time.
+
+mirkánu = amirikánu.
+
+miriku n folk doctor that treats illnesses of natural or supernatural
+cause. v {1} [B156; b(1)] be, become a folk doctor. {2} [A; c1] have a
+sickness treated by a folk doctor. Imiriku (mirikuha) kanang ímung
+buyagbuyag, Have a folk doctor take care of that skin ailment. pa-
+v [A; c] go to a folk doctor for treatment.
+
+mirinda = miryinda.
+
+miringgi_1 n meringue. v [A; a] make meringue, put meringue on s.t.
+
+mirísi expression indicating that s.o. got his just desserts. Mirísi
+nga nahúlug ka kay kiat man, That’s what you get when you won’t sit
+still. Now you fell.
+
+miritu n merit, praiseworthy quality. Way miritu ang ímung paghátag ug
+hinábang ug ímung gikabug-at sa buut, There is no merit in giving help
+with strings attached.
+
+mirkádu n market. Mamalit kug útan ug sibúyas sa mirkádu, I will buy
+vegetables and onions in the market. v {1} [A1N; a12] go shopping.
+Mangmirkádu (magmirkádu) tag sayu, Let’s do our shopping early. Isdà
+lay ákung mirkadúhun kay náa na man ang tanan, All I’ll buy is fish
+because we’ve got everything else. {2} [B1; a1] make into, become a
+market. Gimirkadúhan ang iskwátir irya, A market has been put up in the
+squatter’s area.
+
+mirkána, mirkánu = amirkána, amirkánu.
+
+Mirkulis n Wednesday. see birnis for verb forms. — Santu Wednesday of
+the Holy Week.
+
+mirkyur krúm, mirkyuru krúm = mikru krúm.
+
+mirma v [B] for the body to reduce. Mumirma ang ímung láwas ug wà kay
+tulug, You will lose weight if you lack sleep.
+
+mirtiyulit n merthiolate.
+
+mirun n {1} spectator in table games. {2} one who goes to cockfights
+but doesn’t pay admission and attaches himself to people on the outside
+that want to bet, helping them place their bets. {3} one who eats
+without paying, mooching off others or who rides, enters, or engages in
+any other activity without paying. {4} anyone who asks for handouts
+shamelessly, though perfectly able to support himself. v [B6; c1]
+{1} be a spectator. {2} act as the mirun for gamblers. Gimirun nà siya
+sa mga tahur, The professional gamblers use him to help place their
+bets. {3} get to act like a moocher. Mamirun kag magtsinílas sa
+simbahan, You will be no better than a moocher if you wear slippers to
+church.
+
+miruy a having lost all one’s money in betting. Miruy na ku ug mapildi
+ning katapúsan kung kwarta, I’ll go home in a barrel if I lose this
+last piece of money. v [B126; a12] lose all one’s money in betting.
+Miruyun ka lang ánang mga tawhána, You will just lose all your money to
+those men.
+
+miryinda n light meal taken between lunch and supper. v [A; c] take
+one’s afternoon snack. — sína n a light supper given in the afternoon.
+v [A13] have a merienda cena.
+
+mis_1 n {1} Miss, a title of high respect for an unmarried woman, e.g.
+term used to address a nurse. {2} muse, beauty queen. v [B16; c1] be,
+become a muse, beauty queen.
+
+mis_2 n month, used only after un or usa ka ‘one’. Un (usa ka) mis, One
+month. v [B256] be a month. Hápit na mumis sukad sa íyang paggíkan,
+It’s almost a month now since she left. -is(←) = mis_2 (plural). Dus
+(duha ka) mísis, Two months.
+
+mísa_1 n mass in the church. — diaginaldu, digalyu nine consecutive
+dawn masses ending on Christmas Eve. — digrasya thanksgiving mass. —
+ditris mass officiated by three priests. — griguryána mass said for one
+hundred successive days for the soul of a departed person. — ispisiyal
+any special mass. — kantáda mass that is sung. — kumun mass said for a
+number of dead people at once. — kunsilibráda mass celebrated by more
+than one priest. — mayur high mass with incense. — puntipikal
+pontifical mass. — rikim requiem mass. — risáda low mass. — sulimni
+high mass with a special offering, usually offered for the patron saint
+of a place. v [A; b] say mass. pa- [A; b] have a mass offered.
+n {1} mass offered. Maghatud kug pamísa sa simbahan pára sa kalag sa
+ákung inahan, I will make a mass offering for the soul of my mother.
+{2} amount given to have a mass said.
+
+mísa_2 n billiard table. Maáyung pagkaníbil ang mísa. Tul-id kaáyu ang
+dágan sa búla, The billiard table is good and level. The ball rolls
+straight. sarhintu di- n desk sergeant. -da n amount paid for the use
+of game facilities, usually based per game. Bayinti sintábus ang misáda
+sa bilyar, Each game you pay twenty centavos. v [A; b6(1)] pay the
+misáda.
+
+misal, mísal n missal. v [A13] bring, use a missal in church.
+
+misay n pet cat.
+
+misbuy n messboy on a boat. v [B156; a2] be, become a messboy, make
+s.o. a messboy.
+
+misik v {1} [a3] for s.t. to be misplaced. Namisik ang ákung papil nga
+gitrabáhu, I misplaced the paper I was working on. {2} walay — v [c6]
+nothing was missed, s.t. happened to all. Way namisik níla, nakadawat
+silang tanan ug latigu, Not one of them was spared. They all got
+whipped. Way imisik níla sa pagkáun nga ibutang sa lamísa, They did not
+miss a morsel of the food left on the table.
+
+misímis v [A; c1] attack s.t. with utter abandon and intense violence.
+Kinsa may nagmisímis niíning bag-ung piryudiku? Who crumpled this
+newspaper till it is utterly ruined? Gimisímis sa iring ang ilagà nga
+íyang nadakpan, The cat picked up the mouse it caught and moved it
+about violently.
+
+misimus = musimus.
+
+misirabli a miserable. Misirabling kahimtang sa prísu, The prisoners
+are in a miserable condition. v [B1; c1] be, become miserable, look
+miserable. Misirabli ang pamilya sukad abandunaha sa amahan, The family
+has been miserable since the father abandoned them.
+
+misirinúbis Cebuano pronunciation of miserere nobis in the litany of
+the Rosary.
+
+mísis_1 see mis_2.
+
+mísis_2 n {1} Mrs., title given to a married woman. {2} one’s wife.
+Siya ang mísis ni Tínung, This is Tinong’s wife. v [a12] call s.o.
+Mrs.; be, become Mrs. (→) voc. short form: sis. Ása ka, sis? Where are
+you going, Ma’am?
+
+misíta = lamisíta.
+
+misítas = masítas. misitasan = masitasan.
+
+misitíra = masitíra. see masítas.
+
+misíyas n Messiah. Si Kristu ang Misíyas, Christ, the Messiah.
+
+misiyun n {1} a series of special exercises getting the people in an
+area to fulfill their church obligations. Magsúgud na karung adláwa ang
+misiyun sa simbahan, The church mission will start today. {2} foreign
+missionary. Misiyun ang nagdala ánang simbahána, A missionary is
+running that church. {3} mission for which s.o. is being sent. Unsay
+ímung misiyun pag-adtu sa Amirika? What is your purpose in going to
+America? v [A; b6] hold a church mission s.w. to get the parishioners
+to fulfill their religious obligations. -aryu, -íru n missionary.
+v [B156] be, become a missionary.
+
+miskínu a in small quantities, scarce. Miskínu ang túbig tungud sa
+húlaw, There’s very little water because of the drought. Miskínu ang
+taksi dinhing dapíta, Taxis are scarce in this area. Miskínu sila
+mupakáun sa ílang mga kasíra, They feed their boarders in a niggardly
+way. v [AB; c1] get to be scarce, small in quantities. Mumiskínu
+(mamiskínu) ang ímung ginastuhan ug maminyù ka, You won’t spend on such
+a big scale once you get married.
+
+miskla = mikskla.
+
+mismis n particles of yellowish substance sticking to the face after
+sleep, hardened mucus from the eyes or mouth. v [A123P; a4] cause, have
+such substances on the face. Panghilam-us kay gimismis ka, Wash your
+face because you have mucus on your face.
+
+mismu {1} with nouns or pronouns referring to a person: even
+[so-and-so]. Sa klin-ap wik ang mismu nga mga tituládu manilhig, During
+Clean-up Week even white collar workers sweep. Aku mismu many milútù
+niíni, I cooked this myself. walay — not even this little bit. Way
+mismung usa ka dakù ang íyang gitábang nákù, He didn’t even give me a
+single penny in help. {2} with forms referring to a place: right in
+[such-and-such] a place. Sa Maníla mismu may mga Huk, There are Huks
+right in Manila. Didtu mismu siya mamatay, He died right in that place.
+{2a} karun, awra — right this very moment. Karun mismu nag-íhap na sila
+sa mga balúta, Right this very moment they are counting the ballots.
+
+mistík n mistake. v [B126; a12] make a mistake in school or on one’s
+paper.
+
+mistil need to, have to do (used only negatively or in questions).
+Mistil pa ba nà nímu buhátun? Must you do that? Dì na siya mistil
+sultíhan, He does not need to be told. -in- = mistil.
+
+mistir n {1} title for a gentleman. {2} husband. Háin man magtrabáhu
+ang ímung mistir? Where is your husband working? {3} title for the
+winner of a contest among men, as Mr. Universe. v {1} [A3; a12] call
+s.o. Mr. {2} [B156; c6] be, become Mr. [so-and-so]. Kun gustu kang
+mamistir Pilipins pagbarbil, If you want to become a Mr. Philippines,
+practice weight lifting. (→) voc. Ása ka Mistǐr? Where are you going,
+Sir?
+
+mistiri tyún n mystery tune contest on the radio.
+
+mistiryu n mystery, one of the fifteen events in the lives of Jesus and
+Mary serving as a subject for meditation during the saying of the
+rosary. Mistiryu sa Himáyà, Kalípay, Kasákit, The Glorious, Joyful,
+Sorrowful Mysteries. {2} mystery, s.t. that is difficult to understand.
+-sa = mistiryúsu (female). -su a mysterious. Usa ka mistiryúsung
+istranyu ang nagluwas nákù, A mysterious stranger rescued me. v [B12]
+get mysterious. Nagkamistiryúsu na hinúun ang íyang kamatáyun, His
+death is getting to become more and more of a mystery.
+
+mistísa n {1} woman of mixed blood. Mistísa Insik, Woman with Chinese
+blood. {2} k.o. light-skinned cooking banana. {3} drink of beer, coke,
+and cheap hard liquor. — dris n a modern version of the old Filipina
+dress (sáyang pinarawhan) which may lack the panuylu or long skirt
+(íkug) or the stiff sleeves (paráwu). mistisahun a having Caucasian
+features. mistisilya a having some mestiza blood or features.
+
+mistísu n {1} person of mixed blood. {1a} person with Caucasian
+features, considered to be handsome. {2} animal of mixed breed.
+v [B126; b6] be, become mestizo. — balúlang, bangus, patsang n a word
+of ridicule for an ugly mestizo. mistisuhun a looking like a person
+with Caucasian blood. -in-(→) n k.o. working knife (búlu) with a square
+end, longer than the usual búlu but shorter than the sundang.
+
+mistra = maistra, 1.
+
+mistru = maistru, 1.
+
+miswa_1 n fine, brittle, thread-like noodles of white flour. v [A1;
+b(1)] make a dish of miswa.
+
+miswa_2 n humorous term of address for young ladies, used intimately
+without affixing the name. Huy, Miswa, dalì na, Miss, Miss. Come here.
+Nía nang mga miswa, Here comes the girls.
+
+misyunibirs n Miss Universe. v {1} [B16] be, become Miss Universe.
+{2} [A12; b8] get a Miss Universe winner. Nakamisyunibirs
+(namisyunibirsan) na ang Pilipínas, The Philippines has produced a Miss
+Universe.
+
+mitad n half the number or size of s.t. Ang mitad sa karni kang Piduy,
+Half the piece of meat belongs to Pete. v [b6] in a game, give s.o. a
+handicap of half the number of points. Arun lang magkadúlà ta mitaran
+ta ka, Just so we can play I will give you a handicap of half the
+number of points.
+
+mítal n metal. Palábad nga mítal, Metal propeller.
+
+mitalika see tíla.
+
+mitaliku a metallic. Hílu nga mitaliku, Metallic thread.
+
+mitàmità_1 v [A; b6] act childishly by crying or threatening when
+demands are not met, complaining all the time, and the like. Ug dúna
+kay gustu ayawg mitàmità kay dakù ka na, If you want s.t. don’t just
+scream. You’re too big for that.
+
+mitàmità_2 v [A; b6] pick at food, eat without appetite. Magmitàmità
+siyag káun ug way sud-an, She only picks at the food if there’s no food
+to go with the rice. -un a always without appetite in eating, given to
+picking at food.
+
+mithì n ideals, virtues. Unsay ímung mga mithì sa kinabúhì? What are
+your ideals in life? v [a12] have s.t. as one’s ideal, cherish.
+Ibaligyà hasta kalag tungud sa gimithì nga kalampúsan, They sell their
+souls to attain the success they so desire. paka- = mithì, v.
+
+miti, mitimíti, mitilmítil = mitirmítir.
+
+míting n {1} meeting convened. {2} political meeting or rally. —
+diabansi political rally the night before an election. v [A2C2; ab]
+hold a meeting. -anan n place for holding meetings.
+
+mitirmítir v [A; a] put a limit to or limit one’s acts. Ása
+mumitirmítir ug sulti si Máma ug manuyù, Mama does not mince words when
+she is angry. Karung panahúna kinahanglan nga magmitirmítir ug
+sinud-anan, In these times it is necessary to limit our food
+consumption. a being done in a scarce, limited way.
+
+mitkan n mess kit, commonly used as a lunch box. v [A1; c6] put s.t. in
+a mess kit.
+
+mitmit v [B46; a4] for the eyes to be full of yellowish discharge.
+Nagmitmit (gimitmit) íyang mata sa mútà, His eyes are full of eye
+discharge.
+
+mitnà n minute. Pipila ka mitnà ang nanglábay únà ku makatíngug,
+Several minutes elapsed before I could say a word.
+
+mitru n {1} taxi meter. {2} meter (not used after the numbers of
+Spanish origin). Duha ka mitru (mitrus), Two meters. -s meters. Dus
+mitrus, Two meters. v [A3; c1] measure by the meters. mitrusan,
+mitruhan n measuring stick or tape.
+
+mitsa_1 n small cylindrical tin can of around 4–6 oz. in a size used
+for kerosene lamps. Mitsa nga punug sinsilyu, A tin can filled with
+coins. mitsahan n kerosene lamp made out of small empty tin cans.
+
+mitsa_2 n wick, fuse of explosive. Mubù ra ang mitsa sa dinamíta. Maung
+mibutu dáyun, The dynamite has too short a wick. That is why it
+exploded immediately. v [A; c1] use, make as a dynamite wick.
+
+mitsádu n dish consisting of round of beef into which strips of pork
+fat have been inserted stewed with spices to tender, served sliced with
+tomato sauce.
+
+mitsilin n cement used for patching rubber (so called from the brand
+name). v [A13; a2] patch with rubber cement.
+
+mituáku short for: Mitúu Aku The Apostles’ Creed.
+
+mitudu n {1} method of teaching, learning in music. Mitudu sa sista,
+Method of learning how to play the guitar. {2} being methodical. Way
+mitudu ang pagpanglimpiyu, You aren’t being methodical in your
+cleaning.
+
+mituluhíya n mythology.
+
+miunmíun v [A; b5] {1} be careful in using money or consuming goods.
+Magmiunmíun ta sa bugas arun mulungtad, We must economize on our rice
+so it will last. {2} hold back one’s temper or feelings, restrain
+oneself. Ayawg imiunmíun ang ímung kaguul arun dílì ka masakit, Don’t
+suppress your grief so that you will not get ill.
+
+*míya íha — my darling girl. Uy, íha míya dì nà mau ang ímung nadá.
+Iúlì nà, Oh, honey, you took the wrong one. Put it back! see also
+madri.
+
+miyaw n {1} meow of a cat. {2} cat in baby talk. (←) v [A] cry meow.
+Kusug mumíyaw ang iring nga mangúlag, A cat in heat cries loud.
+
+míyur n mayor.
+
+Mlbn. n abbreviation for manlalában. see lában.
+
+mm {1} sound made prior to plunging into one’s speech. Mm, kinsa tu?
+Umm, who was it now? {2} sound emitted in showing approval of s.t.
+tasted or smelled. see also um.
+
+Mr. n abbreviation for Mistir.
+
+mu_1 see ámù.
+
+mu_2 see ikaw.
+
+mu_3 see kamu.
+
+mu_4 = mau.
+
+mū̀ = múlù.
+
+mu- punctual active verbal prefix, future. (Past: mi- or ni- or ming-.
+Subjunctive: mu-.) Muadtu ku didtu ugmà, I will go there tomorrow.
+Miadtu (niadtu, ning-adtu, ming-adtu) ku didtu gahápun, I went there
+yesterday. Walà ku muadtu didtu, I did not go there. Verbs with mu-,
+mi- have the following meanings (as opposed to verbs with nag-, mag-;
+see mag-). {1} volitional action. Walà siya musulti, He wouldn’t
+(refused to) say. Gipapaháwà siya kay walà muhátag sa báhin, He was
+evicted because he refused to give the landowner his share. {2} action
+which is non-durative. Muhílak siyag kusiun, He will burst out crying
+if he is pinched. Mumata mi sa alas singku káda buntag, We wake up
+every morning at five. Mutindug mi ug musulud siya, We will get up if
+he comes in. {2a} added to nouns to form verbs of this meaning.
+Mukaláyu ang kakugnan, The grasslands will burst into flames. {3} added
+to verbs referring to state: come into [such-and-such] a state, become
+[so-and-so]. Muabri ang pultahan, The door will open (come open).
+Mutúyuk ang galingan, The mill will turn. {3a} added to adj.: become
+[adj.]. Mugamay ímung láwas ug dì ka mukáun, You will get thin if you
+don’t eat. Mupula ímung ngábil ug ímung lipistíkan, Your lips will
+become red if you put lipstick on them. {3b} added to roots referring
+to measurements: become [so-and-so] much. Ug mualas utsu na gánì, lakaw
+na lang, If it gets to be eight o’clock, just go on ahead. Muduha na ka
+túig, It is almost two years now. (Lit. It will become two years.)
+Mutúhud ang túbig, The water is nearly knee-deep (lit. will become
+knee-deep). {3c} added to verbs referring to capability: be capable of
+[do]ing. Kining sakayána mukarga ug lima ka táwu, This boat will hold
+five people. Kining dyípa musakay ug dúsi ka buuk, This jeep can carry
+a dozen people. {4} added to verbs or adjectives referring to manner:
+[do] in [such-and-such] a way. Mukusug siyag katáwa, He will laugh
+loudly. Maáyu siyang mulútù, He cooks well. {5} added to nouns
+referring to a place: go to [such-and-such] a place. Mugráhi ang taksi
+run, The taxi is headed for the garage. Mulawud siya bísan magbagyu, He
+will go to sea, even in the typhoon.
+
+múb n move in chess and the like. Ákù pang múb ha, It’s my move, all
+right? v [A; c] make a move. Dugáya sad nímung mumúb, uy, Heavens, how
+long does it take you to move?
+
+mubgas = malubgas.
+
+múbil n {1} mobile patrol. Pag-abut sa múbil nanágan ang mga sugarul,
+When the mobile patrol arrived, the gamblers disappeared. {2} Mobil oil
+gasoline station. — patrul = múbil, 1.
+
+mubù a {1} short, brief. Mubù nga sirmun, A brief sermon. {2} short in
+height or quantity. Mubù si Napuliyun, Napoleon was a short man. Mubù
+ang mga sinínà karun, Dresses are short nowadays. {3} low. Mubù ang
+lamísa pára sa mga bátà, The tables for the children are low. {3a} low
+in price, grade. Pilía nang tinda nga mubù ra ug prisyu, Choose
+low-priced goods. Mubù ug grádu ang buluk, The dull child got a low
+grade. {4} in phrases: having little. — ug buut in a bad mood. Ayaw nag
+samuksamuka kay mubù run nag buut, Don’t disturb him because he is in a
+bad mood now. — ug ginháwa short-winded. — ug idukasiyun having little
+education. Mubù siyag idukasiyun maung way batásan, He’s just ignorant.
+That’s why he is ill-mannered. — ug lánat lacking endurance. Mubù ra
+siyag lánat sa lánguy, He cannot swim very far. — ug lupad like a
+prostitute. Ang mga babáying mubù ug lupad tinámay sa katilingban,
+Women of easy virtue are held in contempt by the community. — ug
+paminsar lacking thinking power. Mubù nà siyag paminsar. Maung gigastu
+ang puhúnan, He didn’t think very hard and that is why he spent his
+capital. — ug panlantaw lacking foresight. — ug pasinsiya lacking
+patience. — ug tinan-awan nearsighted. — ug tubul sensitive, easy to
+take offense. Kamubù nímug tubul uy. Dì man ka kakumidiyáhan, You’re
+too sensitive. It’s impossible to make a joke with you. — ug tul-an
+having short limbs. {5} low in pitch. Mubù siyag tíngug, She has a low
+voice. v {1} [B1; ab7] be brief, concise. Mub-a ang ímung tubag, Make
+your answer short. {2} [AB; b7c1] become low, make s.t. low. Imubù
+(mub-a) lang pagtábas ang ákung sayal, Just cut my skirt short. Mub-i
+ning ákung buhuk dapit sa kílid, Cut my hair short on the sides. ha-
+a short. -g- a short (plural). Sa mugbù pa ang lubi, In olden times
+(when the coconuts were still short). -in- n shortenings. Ang yúbi mauy
+minubù sa University of the Visayas, U.V. is short for the University
+of the Visayas.
+
+múda n mode, current fashion. Múda karun ang mugbù nga sinínà, Short
+dresses are the style these days. v [B1; c1] be in fashion.
+
+mudílu n {1} fashion model, one who poses for photographers or artists.
+{2} style or design. {3} model to emulate. Mudílu sa maáyung pamatásan,
+A paragon of good behavior. {4} a small copy, model of s.t. Mudílu sa
+ayruplánu, Model airplane. v [A; c6] work as a model that poses.
+
+mudipikar v [A; c1] modify s.t. to adopt it for a new use. Mudipikahun
+nátù ning silyang himúung tuwangtúwang, Let’s modify this chair to turn
+it into a rocking chair.
+
+mudiradur n in the United Church of Christ in the Philippines (a
+merging of several Protestant sects), the executive head of a
+conference composed of several local congregations in a certain area.
+v [B156; a2] be the moderator.
+
+múdirn n modern dance of the late sixties and seventies. v [A23] dance
+a modern dance.
+
+mudirnu a modern. Mudirnung paági sa panguma, Modern farming methods.
+v [B12; a12] be, become modern; make s.o. or s.t. modern.
+
+mudista n seamstress, usually one who sews very ordinary clothes.
+v [B156; a12] be, become a seamstress.
+
+mudmud v {1} [A; c] press or bury one’s face hard against s.t. Mihilak
+siya ug mimudmud sa íyang nawung sa unlan, She cried and buried her
+face in the pillow. {2} [A; c6] put s.o. in a tight situation. Gimudmud
+siya sa labihang kapit-us, He was oppressed by extreme poverty.
+
+mudtu = udtu (except with hiN- and doubling).
+
+múdu a liking as evinced by pleasant behavior. Wà ka ba kamatngun nga
+si Kurdapya may múdu nímu? Have you not noticed that Cordapia has a
+liking for you?
+
+mud-uk a having an unsmiling, sour expression. v [A; c1] have a sour
+look on the face from being in a bad mood. Dílì giyud nang batáang
+makamaung mumud-uk bísag kasab-an, That child never looks angry even
+when he is scolded. -un a of an unsmiling, angry sort.
+
+múdus n procedure, system. Karáang múdus sa panguma ang íyang gigámit,
+He uses old methods of farming. Mau kanà ang ílang múdus pag-ílad sa
+táwu, That is their procedure for swindling people. †
+
+mug-aw v [B1256] feel lonely and empty when parted from a dear one.
+Namug-aw sila pagkahibalu nílang gitában nag ílang anak, They had a
+lonely and empty feeling when they heard that their daughter had
+eloped. Namug-aw man lang tag hinulat nímu, I felt so lonely waiting
+for you.
+
+mugmug = limugmug.
+
+mugnà v [A; a2] create, bring into existence. Kinsay nagmugnà sa
+kasámuk dinhi? Who created a disturbance here? Gimugnà sa Amirika ang
+mga mangilngig nga paági sa pagpatay, America has created terrifying
+devices to kill people. Gimugnáan ku níya ug usa ka kanta sa gugma, He
+composed a love song for me. n creation. Ang kalibútan mugnà sa Diyus,
+The earth is God’s creation. mag-r- n creator. tig-, tag- n creator,
+originator of a certain thing. Si Baldu ang tagmugnà sa pagpalusut sa
+mga kuntrabandu, Baldo is the one who thought up ways of smuggling
+contraband goods.
+
+mugtuk a frowning, scowling of face. Kinsay ganáhan makig-úban níya nga
+mugtuk kaáyug náwung? Who cares for her company when she has such a
+frowning face? v [B; c1] look gloomy, sad, pouting. Nagmugtuk siya kay
+gipugus pagpatrabáhu, He pouted because he was being forced to work.
+Nagmugtuk ang íyang nawung kay gipapha siya sa trabáhu, He has a
+dejected look because he was fired from his job.
+
+mug-ut = mud-uk.
+
+*muhir babáying — derogatory, but meaningless, reference to a woman
+(from the analogy of phrases of the form babáying [adj.], which mean
+‘woman doing s.t. improper’—e.g. babáying kiat ‘flirt’, whereas muhir
+[from Spanish] has no meaning by itself.) Nía na pud magsamuksamuk nang
+babáying muhir, Here comes that female again, making a nuisance of
+herself.
+
+muhun n {1} concrete land marker buried in the ground. {2} penis
+(humorous). v [A; b] post land markers.
+
+mukasin n moccasin shoes, shoe that has no heel and is made of soft
+leather. v [A; b] wear moccasins.
+
+mukda v [A12; b2] {1} suddenly realize s.t. so as to get startled. Dihà
+na ku makamukda nga wà kuy kwarta pagbáyad nákù, I suddenly realized I
+had no money when I was about to pay. Namukdahan ku pagkadungug sa
+balità, I was stunned by the news. {2} be caught in the act. Himukdahan
+ang mga sugarul sa pulis, The police caught the gamblers red-handed.
+
+múku n variety of cooking banana, growing in bunches with fewer hands
+and shorter individual pieces than the kardába, but firm of flesh and
+round.
+
+*múkuy = sagmúkuy.
+
+mul n mould or pattern for making a hat the right size. v [A; a1] use,
+make a head mould.
+
+múla n large breed of horse, reddish-brown in color.
+
+mulásis n molasses.
+
+muldi n {1} mold for forming s.t. Muldi sa halublak, Mold for making
+hollow blocks. {2} piece of s.t. shaped by a mold. Pila ang muldi sa
+bibingka? How much are the rice cakes apiece? {3} anything that is made
+in large quantities in the same size and shape, such as spare parts.
+v [A1; a] mold for s.t., make s.t. with a mold. muldihan = muldi, n1.
+-in- n printing, block letters. v [A; c16] print, write in block
+letters.
+
+mulignù = karabalyas.
+
+mulínu n a small hand-cranked mill. v [A; a12] grind s.t. in a grinder.
+Maáyung mulinúhun dáyun ang kapi human ug sanlag, You should grind the
+coffee beans immediately after roasting them.
+
+mulistiya v {1} [A; b5] molest, bother s.o. Ipadakup kanang táwung
+nagmulistiya kanímu, Have that man who molested you arrested. {2} [A;
+ac] inconvenience, bother s.o. asking a favor. Ayaw kug mulistiyáhag
+hulamhúlam ug kwarta, Don’t you bother me by borrowing money. Unsa na
+say ímung imulistiya nákù? What are you going to bother me with this
+time?
+
+mulitsing = muritsing.
+
+mulmul_1 n general name given to parrot fish: Scarus spp.
+
+mulmul_2 n chicken feather coloration, ranging from light tan to
+reddish brown with a yellowish tinge.
+
+multa n fine. Adúnay multa sa mangíhì dinhi, Whoever urinates here will
+be fined. v {1} [A; b6(1)] pay a fine. Ngánung mumulta man ku nga wà
+man ku makalápas sa baláud? Why should I pay a fine when I haven’t
+broken the law? {2} [A; c] impose a fine. Multáhan ang muabsin sa
+parti, Anyone who is absent from the party will be fined.
+
+multibaytamins n multi vitamin tablets.
+
+multiplay v [A; c1] multiply, do the operation of multiplication. Ang
+mga hay-iskul karun dì pa gihápun makamaung mumultiplay, High school
+students nowadays don’t even know how to do multiplication.
+
+multiplikar = multiplay. multiplikasiyun n multiplication.
+
+multu n ghost of a dead person. Gipakítà siya sa multu, The ghost
+appeared to him. v [A13; a2] for ghosts to appear. Nagmultu ang kalag
+ni Krispin sa ikakwarinta díyas human siya mamatay, The ghost of
+Crispin appeared on the fortieth day after his death. Ang balay nga
+gimultúhan sa namatay, The house where the soul of the deceased
+appeared.
+
+mulù v [A; bc] complain about grievances or what one feels. Nagmulù ang
+mga saup kay gagmay rag ílang mabáhin, The tenants are grumbling
+because they got a small share. Ayaw imulù nákù ang ímung sakit. Didtu
+sa duktur, Don’t tell me your complaints. Tell it to a doctor.
+n complaint about what one feels. mud-ánun a given to much complaining
+and grumbling.
+
+mulyi_1 n pier, wharf. Nagkargadur siya sa mulyi, He is working as a
+stevedore at the pier. v [a12] make into a wharf, pier.
+
+mulyi_2 n spring, tightly coiled wire that rebounds. v [A1; a] attach,
+use as a spring.
+
+mulyi_3 v [A; a12] sharpen a thin-bladed instrument. Kinsay mumulyi
+niíning bulang? Who will sharpen this gaff? Mulyíhun ta ning mga
+habulan nga bulang, Let’s sharpen the blades of these dull gaffs.
+mulyihan n k.o. grindstone used to hone thin-bladed instruments.
+
+mulyínu n mill consisting of a large stone turned by a draft animal.
+
+mumhu n little particles of cooked rice or corn that fall next to the
+plate when eating. ka- v [A13] be full of morsels of rice. mumhuun
+a full of morsels of rice or corn.
+
+mumintu n moment. Mga mumintu sa kinabúhì nga dì níya hingkalimtan,
+Moments in his life which he cannot forget. see also unmumintu.
+
+múmu n muumuu. v [A; c] wear, make into a muumuu.
+
+mumù a having as much of s.t. as one could want. Mumù sa pagpanggà ang
+bugtung, An only child has love lavished on him. v [B12] get to have as
+much of s.t. as one would want. Nagkamumù mi sa pagkáun sa nagkadatù
+mi, We were getting to have all the food we want as we got richer.
+
+mùmù v [A; c] bump the mouth against s.t. Nagdugù ang ngábil sa bátà
+kay namùmù sa lamísa, The child’s lip is bleeding because he bumped it
+against the table.
+
+múmug = limugmug.
+
+múmuy n pet name for a monkey. Gipakáun níyag ságing ang múmuy, He fed
+the monkey a banana.
+
+munamúna a doing s.t. to the best of one’s ability, with maximum
+effort. Munamúna giyud nákung dágan apan wà giyud kung kaapas, I ran as
+fast as I could but I couldn’t overtake her. Náay ákung tinígum apan
+munamúna sab nákung dagínut, I have saved some money, but with great
+sacrifice.
+
+munarkíya n monarchy.
+
+munastiryu n monastery, nunnery.
+
+múnay n k.o. bread made with more eggs and butter than ordinary bread
+and covered with a thin layer of beaten eggs which is baked onto it.
+
+mundu_1 = baul mundu.
+
+mundu_2, munduy n small, thin-skinned, but very full and compact
+variety of cooking banana.
+
+mungà n mother hen. v [A1; a12] raise a mother hen. Mungaa ang
+hingitlug, Make the hens that are good layers into mother hens. -an(←)
+= himungáan. see búnga.
+
+*mungálung hi-/ha- v [B1236; b8] {1} be aware. Sa pagkahimungáwung
+nákug buut, nawálà na sila, When I came to, they were gone. Wà ku
+makahimungáwung nga nawálà ákung singsing, I wasn’t aware that my ring
+was gone. {2} remember a face vaguely. Wà ku makahimungáwung sa íyang
+dagway, I couldn’t place his face. {3} get a good enough look at a face
+to recognize it. Wà ku makahimungáwung sa íyang dagway kay ngitngit, I
+couldn’t recognize his face because it was dark. pahi- v [A; a] bring
+s.o. to his senses. Ug wà makapahimungáwung nákù ang ákung mga anak,
+mapatay ku siya, If my children hadn’t brought me to my senses, I would
+have killed him.
+
+*mungawmúngaw pa- v [A] pretend not to know or be aware.
+Nagpamungawmúngaw siyang wà kahibáwu nga nakadaug siya sa swipstik, He
+pretended not to know that he had won a prize in the sweepstakes.
+
+*mungáwung = *mungálung.
+
+munggus n mung bean, stewed like lentils or made into bean sprouts:
+Phaseolus aureus. v [A13; b6] prepare a dish of mung beans. Nindut
+munggusan ang bulad bulinaw, Dried anchovies goes well if cooked with
+mung beans.
+
+mungha n cenobite nun. v [B156] {1} be a cenobite nun. {2} cloister
+oneself like a nun.
+
+munghi n cenobite monk. v [B156] be, become a monk.
+
+mungit n {1} k.o. edible fish of the rocks of an unusually strong
+smell. {2} allusion to s.o. who smells bad. Kalígù uy nanimáhù ka mang
+mungit, Wash yourself, man. You smell like a mungit fish.
+
+mungkádu kuluni n colony of members of a religious brotherhood, so
+called after their founder Hilario C. Moncado. mungkadista n a follower
+of Moncado.
+
+munha, munhi = mungha, munghi.
+
+*munisipal hunta, kunsíhu — n municipal board.
+
+munisipyu n {1} municipal building in a town. {2} town not as big as a
+city. v [B126; a12] be, become a municipality.
+
+munitur n monitor, a student chosen to help a teacher with order,
+attendance, and other non-teaching chores. v [B126; a12] be, become a
+monitor, make s.o. the monitor.
+
+muntáda v {1} [A; c] mount, set s.t. up resting on s.t. Nagmuntáda sila
+sa mga kanyun ibabaw sa kútà, They are mounting the cannons on the
+upper walls of the fort. {2} [A] be mounted, put up s.w. Nagmuntáda ang
+bátà sa kúna, The baby is lying flat on the crib.
+
+muntǎr v {1} [A; c] set s.t. up, install s.t. for use. Wà pa ku
+makamuntǎr sa utáwan, I have not set the ironing board up yet. Gimuntǎr
+na ang ilibítur, The elevator has been installed. {2} [A2] mount, get
+on a saddle. Dì ku makamuntǎr sa silyíta sa bisiklíta kay hábug, I can
+not get on the bicycle seat because it’s too high. {3} for male animals
+to copulate. Dílì mumuntǎr ang butù kay walà bigái, The male won’t
+mount because he isn’t sexed up.
+
+munti_1 n = muntinglúpà.
+
+munti_2 n monte, k.o. card game. v [A2C; b6] play monte.
+
+muntinglúpà n Muntinlupa, national penitentiary of the Philippines.
+v [B1256] be sent to Muntinlupa.
+
+
+
+muntúra n {1} saddle. Lisud ang magkabayù nga way muntúra, It’s
+difficult to ride a horse without a saddle. {2} seat of a bicycle.
+v [c] mount s.t. on s.t., usually so as to put it in full view. Kamira
+nga gimuntúra ibabaw sa lamísa, A camera mounted on top of the table.
+pa- v [A3] place conspicuously s.w. À, náa man giyus úna magpamuntúra,
+mu ra mag hárì, Hm, how he dared take a seat right in the front, as if
+he were a king!
+
+munumintu = munyumintu_2.
+
+munyíka n doll. v {1} [A13; c6] play with dolls. {2} [A12] obtain a
+doll. {3} [a12] make into a doll. — nga nuug n rag doll.
+
+munyumintu_1 n monument. v [A13; b(1)] set up a monument.
+
+munyumintu_2 n small marker of cement to indicate the corners of land
+boundaries. v [A; a2] put a cement marker up.
+
+múr (from murtál) I swear, it’s true. Tinúud laging gipalitan kag
+sinínà, múr, I swear to God, she bought you a dress. — pa I swear, it’s
+true.
+
+mura = mau ra. see mau.
+
+múra n muslim woman.
+
+murabya n variety of banana.
+
+murádu a reddish purple. n = amurádu. v [a12] color s.t. reddish
+purple.
+
+mural n {1} morale. Makadáut sa mural sa sundáwu, Can destroy the
+soldiers’ morale. {2} moral or moral lesson.
+
+muralidad n morality, moral conduct. Mubù na kaáyu ang muralidad sa mga
+táwu karun, The current generation does not conform to high standards
+of morality.
+
+muralista n one who is a stickler for moral propriety.
+
+murdir v [a12] murder, corrupt a language, song. Gimurdir ni Nína ang
+ispíling sa ákung ngálan, Nena murdered the spelling of my name.
+
+murgi n morgue. v [c1] be kept in a morgue. Murgihun (imurgi) na lang
+ang minatay samtang maghulat kun kinsay mukúhà, The body will be kept
+in the morgue while they wait for s.o. to claim it.
+
+murína = murínu (female).
+
+murínu a brown or dark-brown in complexion. v [B125] be, become brown
+in complexion.
+
+muritsing v [B12; b6] be smeared, spotted with dirt, grimy. Mauy
+nakamuritsing (nakapamuritsing) sa ákung sinínà ang úling nga ákung
+gidala, The charcoal which I was carrying soiled my dress. ka- [A13] be
+smeared all over. Nagkamuritsing man lang nang nawung mu sa sikwáti,
+Your face is all besmeared with chocolate.
+
+murkun n dish made of ground meat mixed with spices and wrapped in the
+leaf fat or thinly sliced pork or beef, and boiled and then fried.
+v [A13] make, have murkun.
+
+murpína n morphine.
+
+mursíku, mursíkus = amursíku.
+
+murtal_1 a {1} mortal sin. Ayawg pangáwat kay salà kanang murtal, Do
+not steal because that is a mortal sin. {2} I swear, it’s true. Wà lagi
+ku mamakak, murtal (murtal sin) pa, I am not lying, I swear. — sin =
+murtal, 2.
+
+murtal_2 n mortar cannons. Murtal ang gamítun pagbungkag sa kaáway,
+They use mortars to scatter the enemy. v [A; a] fire a mortar cannon
+on.
+
+murtar sin = murtal_1, a2.
+
+muru a pouting, unsmiling face. v [B46; c1] having a sour face in
+displeasure. Nagmuru ang babáying nasukù, The angry woman is frowning.
+
+murumúru n {1} play in verse, dramatizing noble deeds of royalty,
+performed on an elaborate and lavish scale on the feast day of a patron
+saint. {2} s.t. put on merely as a show, not with serious purpose. Usa
+lang nà ka murumúru ang imbistigasiyun sa kahugáwan sa Arsii, The
+investigation of the Rice Administration scandals is all a big show.
+v [A1; c1] hold a Moro-Moro play.
+
+murun n k.o. torch made from a section of bamboo around 3 cm. in
+diameter with a neck and fuelled with kerosene. v [A13; a12] make, make
+into a torch of this sort.
+
+múrus n {1} Muslim (derogatory reference). {2} unbaptized infant
+(humorous). -in-, -in-(←) a doing things like the Moros: {1} speak the
+language of the Moros. {2} fight, settle arguments like the Moros.
+{3} setting outrageously high prices. {4} traitorous, stabbing in the
+back. v [A; c1] do s.t. like the Moros. ka-an n place where many
+Muslims live.
+
+murúsu = amurúsu.
+
+muryumuryu n a notorious red light and slum district near the
+waterfront of Cebu City.
+
+mus n k.o. soil with heavy humus content used by florists.
+
+músa n {1} muse, a beauty queen. Si Bilin ang nahímung músa sa klási,
+Belen became the class muse. {2} in a benefit dance where girls are
+auctioned off to dancing partners, the girl who gets the highest amount
+of money. v [B1256; a2] be, become a muse; make s.o. the muse.
+
+musgut v [A; c1] pout and frown from annoyance. Mimusgut siya nga ákung
+gisúgù, She frowned when I sent her on an errand. -un(→) a always
+frowning in countenance.
+
+
+
+musì n name given to an edible k.o. pufferfish with no spines.
+
+musika n music.
+
+musikal n musical film.
+
+musiku n music band. Mitukar ang musiku ug usa ka martsa, The band
+played a march. v [b6] provide a band. musikíra = musikíru (female).
+musikíru n {1} musician. {2} member of a band. v [B156] be a musician
+or member of a band.
+
+musimus a being of the poorest and lowest class (derogatory term).
+Musimus giyud nga pagkatáwu dì kahibawu mugámit ug kutsára, He was born
+in a stable. He doesn’t even know how to use a spoon. v [B126; b6] be,
+become lowly and looked down upon. Ug mutumpang ka ánang way grádu,
+mamusimus ka sad, If you step into the gutter to fight with that
+ignoramus, you’ll bring yourself down to his level.
+
+muskatil n muscatel wine.
+
+muskit n {1} a ship cook’s helper. Ang muskit mauy katábang sa
+kusiníru, The ship cook’s helper gives the cook assistance. {2} cook
+who is hired or just offers his services for a special occasion. Mau
+nay ámung muskit káda pyista, He is our cook every fiesta. {3} the one
+who is it (the server) in a game of takyan or marbles. v {1} [B136; a2]
+be, become a cook for a special occasion. {2} [A; a12] make a person
+remain it for a long time. Muskítun kug maáyu si Pidru. Lagyuun nákug
+pátid ang takyan, I’ll make Pedro be it for a long time. I’ll kick the
+shuttlecock far away.
+
+muskitíru n mosquito net. v [A; a] put up, use a mosquito net; make
+into a mosquito net. Magmuskitíru ta kay daghang namuk, We have to put
+up a mosquito net because there are lots of mosquitoes. — ug tabla
+v [A13] be dead (lit. wearing a wooden mosquito net). Ug dì ka muhúnung
+ug ínum magmuskitíru kag tabla, If you don’t stop drinking, you will
+wind up in a coffin (wearing a wooden mosquito net).
+
+muskubádu n raw, unrefined sugar.
+
+muskuládu, muskuláwu a muscular, brawny. Dì siya musúkul nímu kay
+muskuládu ka, He won’t fight with you because you are brawny. v [B1256]
+be, become muscular.
+
+musmus v {1} [A; c6] push s.o.’s face hard against s.t. Imusmus ku nang
+nawung mu sa bungbung, I’m going to push your face against the wall.
+{2} [B1256] fall down hard hitting one’s face on s.t. Nadalispang siya
+ug namusmus sa lápuk, He slipped and fell down face first in the mud.
+
+mus na short for bámus na. see bámus.
+
+mustása n mustard, commonly raised as a vegetable: Brassica
+integrifolia.
+
+mustra n explanation by example, showing how s.t. is or works. Mustra
+kun unsáun pagbúhat ang plánu sa balay, A demonstration on how to make
+the plans of a house. Mustra lang kini. Dílì ibaligyà, This is just a
+sample for display. It is not for sale. v [A; c] demonstrate how to do
+s.t. -dur(→) n mannequin or showcase used to display.
+
+músu v {1} [A; b] hire oneself out to do a piece of work. Bugas ang
+gisúhul sa nagmúsu ug gúna, The man who did the weeding was given rice
+in compensation. {2} [c2] hire a work animal. Íyang karabaw mauy átung
+imúsu (musúhan) sa dáru, We will hire his carabao. n s.o. or s.t. hired
+out. pa- v {1} [A; a] hire s.o. {2} [A; c] hire one’s work animal out
+to s.o. else.
+
+musulíyu n mausoleum.
+
+musyun n motion in a meeting of a voting body. v [A; c6] make a motion.
+
+mútà n dried pus or mucous secretion in the eyes. v [B126] become this
+secretion in the eyes. Ang abug sa mata mamútà, If dust gets into the
+eyes it will turn into pus. (→) v [B146; a4] be filled with this
+secretion. Nagmutà (gimutà) ang mata sa gipiskat, The man with the sore
+eyes has dried pus in his eyes. hi- v [A; b] remove the mútà from the
+eyes. paNhi- v [A2; b] remove pus from one’s eyes. hi-an(→) n the
+corner of the eye where the mútà is deposited. -un(→) a full of mútà.
+
+mutíbu n motive. Pangabubhu ang mutíbu sa pagpatay, Jealousy was the
+motive for the murder.
+
+mutil n motel or cabins, usually used for illicit romance.
+
+mutimuti = kamukámu.
+
+mutsatsa = mutsatsu (female), n, v1.
+
+mutsatsu n {1} male servant, houseboy. {2} in children’s games, the
+loser who serves out a penalty. v {1} [B126; a2] be, become a servant.
+{2} [A12] hire or have s.o. as a servant. Nakamutsatsu mig kawatan, We
+got a thief as a servant. pa- v [A1] hire oneself out as a servant.
+Didtu siya sa Manílà magpamutsatsu, He worked as a servant in Manila.
+paka- v [A13; a12] consider, treat like a houseboy.
+
+mutsu a being temporarily rich (colloquial). Daghan kug amígu basta
+mutsu ka, You will have lots of friends as long as you’re in the
+clover. — diníru having lots of money. v [B1256] have lots of money.
+Mamutsu lang tag tingswildu, We are rich only on payday.
+
+mutu, mutù n mound, hill. Túa sa luyung mutu ang ámung balángay, Our
+town lies beyond that hill.
+
+mut-uk (from but-uk) v [b2] be dumbfounded, be struck speechless
+because of the sudden impact of words or events. Hingmut-ukan
+(namut-ukan) ku sa ímung nutisya kay mu rag dì katuúhan ang nahitabù, I
+was struck dumb by your news because it sounded unbelievable.
+
+mutùmútù_1 = tumùtúmù.
+
+mutùmútù_2 v [A12; a12] estimate, calculate approximately. Mutùmutúa
+lang unsa kadaghana ang gikinahanglan, Just estimate how many we need.
+
+mutun n block, a metal or wooden case containing a pulley or pulleys.
+v [A13; a2] attach a block to s.t.; haul out s.t. by means of a block.
+
+mutung a for an animal in a group or flock to be fierce and domineering
+over the others. v [B1] gain supremacy over others. Ang sunuy nagmutung
+sa pultri, The cock is the boss of the chicken yard. †
+
+mutur n {1} engine, motor. Nadáut ang mutur sa tiprikurdir, The motor
+of the tape recorder got broken. {2} motorcycle. {3} corn or rice mill.
+Túa siya sa mutur nagpagaling ug mais, He is at the corn mill to have
+the corn milled. -bayik, -saykul n motorbike, motorcycle. v {1} [c] put
+s.t. as an engine; use s.t. as an engine. {2} [A; a12] go by
+motorcycle. di- motorized, having a motor. -ista n motorist, driver.
+
+mutursaykul, mutursiklu n motorcycle.
+
+mutyà n {1} precious gem with magical properties. May mutyà nà siya
+búsà dílì dutlan, He has a charm and so he is invulnerable. {1a} — sa
+ságing tinduk n in folk belief, a precious stone which falls from the
+blossom of a tinduk banana when it opens at midnight on a moonless
+night. Supernatural beings in the form of powerful monsters watch for
+this stone to fall. If a man obtains this stone, he is endowed with
+magical powers but he must wrest it from the supernatural beings who
+are also after it. {2} anything precious or valued highly. Ang bugtung
+níyang mutyà dinhi sa kalibútan mau ang íyang anak, Her only treasure
+here on earth is her child. {2a} daw may -ng gisapnay, nagsapnay ug —
+being extraordinarily careful in handling s.t. (as if one were carrying
+a precious gem). Ampíngi ang ímung dungug sáma sa mutyang sinapnay,
+Guard your honor like a jewel. {2b} treasured, most valued. — sa mga
+mata apple of one’s eye. v [A12; b(1)] possess a precious gem having a
+charm. paka- v [A13; a12] consider, treat as a precious gem.
+
+muu = mau.
+
+múuk v {1} [A1] be asleep soundly. Magmúuk ug katúlug ang bátà human
+digúa, A baby sleeps soundly after you bathe it. {2} [A1; b(1)] stay in
+bed due to inactivity. Magmúuk lang siya kanúnay sa banig bísag udtu
+na, She is always staying in bed, even if the sun is up. {3} [A13] be
+so that air cannot get at it. Ug magmúuk ang ímung samad, dílì mamaáyug
+dalì, If your wound is wrapped up so air cannot get at it, it will take
+a long time to get better. muukmúuk ug katáwa v [A; b3] roll with
+laughter, suppressing the sound. Nagmuukmúuk mi pagkatáwa sa ámung
+maistrung wà makapamutúnis, We practically exploded with laughter at
+our teacher because he hadn’t buttoned his pants. -an(→), pala-
+a sleepyhead.
+
+muung n k.o. cardinal fish: name given to numerous small, red,
+lightly-scaled fish of the family Apogonidae.
+
+muut, múut (from buut) a funny, extremely laughable. Muut kaáyu si
+Dulpi mudala ug kumidiya, Dolphy is very funny in a comedian’s role.
+v {1} [B12; a2] be funny, hilarious. Muúta nang ímung mga líhuk arun
+mangatáwa sila, Make your actions funny so that they will laugh.
+{2} [B1256] be, become amused at s.t. funny. Namuut ku sa íyang
+kumidiya, I was amused at her jokes. para-(←) a funny, laughable. Ang
+mga salída ni Dyíri Líwis pulus paramúut, Jerry Lewis’s films are all
+funny.
+
+muwaybuway = buraybúray.
+
+muy {1} exclamation initial to a sentence: My! How very. Muy hináya pud
+nímu nga musulat! How slow you write! {2} exclamation expressing deep
+disgruntlement or dissatisfaction. Muy! Ug magsígi ning gastúha,
+makapútu, My! If these expenses go on, it will make us go bankrupt.
+
+mùy = muy, 2.
+
+*muyù hig-/hag- = hisag-/hasag-. see sagmuyù.
+
+mwiblis n furniture. v [A12] get furniture.
+
+mwilyi = mulyi_1, 2, 3.
+
+mwistra = mustra. -dur = mustradur.
+
+myápi = pyápi.
+
+myáus = mayáus.
+
+myimbru = mimbru.
+
+myintras = mintras.
+
+Myirkulis = mirkulis.
+
+myúsik n {1} piece of music being played. Dúnay myúsik sa intirmisyun
+sa sini, There’s music during the intermission in the movies. {2} music
+as a course. {3} go, word uttered by a conductor of a passenger vehicle
+to signal the driver to drive off. Dihang misinggit ang kunduktur ug
+myúsik, mipabulhut dáyun ang draybir, When the conductor shouted
+‘music, maestro’, the driver immediately took off.
+
+
+
+
+
+
