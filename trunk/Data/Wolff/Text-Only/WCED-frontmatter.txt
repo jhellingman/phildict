@@ -35,20 +35,20 @@ York 14850.
 
 
 
-A DICTIONARY OF CEBUANO VISAYAN
+                    A DICTIONARY OF CEBUANO VISAYAN
 
-Compiled by
+                              Compiled by
 
-JOHN U. WOLFF
+                             JOHN U. WOLFF
 
 
-Cornell University, Southeast Asia Program
+               Cornell University, Southeast Asia Program
 
-and
+                                  and
 
-Linguistic Society of the Philippines
+                 Linguistic Society of the Philippines
 
-1972
+                                  1972
 
 
 
@@ -173,22 +173,22 @@ Ithaca, New York December, 1971
 CONTENTS
 
 
-	PREFACE 			   				iii
-	LIST OF ABBREVIATIONS		    	 vi
-	INTRODUCTION
+    PREFACE                             iii
+    LIST OF ABBREVIATIONS                vi
+    INTRODUCTION
 
-	  Cebuano			     			vii
-	  Dialects			     			vii
-	  Basis of this Work		       viii
-	  Phonology and Transcription	     ix
-	  Conventions of Listing	      	 xi
-	  Alternations			     		xii
-	  Inflection and Derivation	     	 xv
-	  Classification of Roots	   	   xvii
+      Cebuano                           vii
+      Dialects                          vii
+      Basis of this Work               viii
+      Phonology and Transcription        ix
+      Conventions of Listing             xi
+      Alternations                      xii
+      Inflection and Derivation          xv
+      Classification of Roots          xvii
 
-	ENTRIES 			     			  1
-	ADDENDA 			  			   1141
-	BIBLIOGRAPHY			           1164
+    ENTRIES                               1
+    ADDENDA                            1141
+    BIBLIOGRAPHY                       1164
 
 
 
@@ -200,41 +200,41 @@ ABBREVIATIONS AND SYMBOLS USED IN THIS DICTIONARY
 
 
 a, adj.     adjective
-Culu-	    prefix consisting of the initial consonant of the root
-			followed by ulu
-dat.	    dative
-gen.	    genitive
-k.o.	    kind of
--l-	     	infix consisting of l followed by the initial vowel of
-			the root
-lit.	    literally
-n	     	noun
-nom.	    nominative
-r-	     	prefix consisting of the initial consonant followed by
-			the first vowel of the root
-s.o.	    someone
-s.t.	    something
-s.w.	    somewhere
-v	     	verb
-voc.	    vocative
-x-	     	x is a prefix
--x	     	x is a suffix
--x-	     	x is infixed after the initial consonant
-x1, x2  	there are two roots with the shape x, members of different
-			morphemes
-x-y	     	x is a prefix, and y is a suffix
-x(y)	    y can be substituted for x with virtually no difference
-			in meaning
-x-/y-	    x or, alternatively with no change in meaning, y
-—		  	root
-=		    alternative pronunciation. Defined under the
-			form listed on the right
-(→)		    shift to right: when an affix is added the vowel of the 
-			penult is shortened (Section 5.11, p. xii)
-(←)		    shift to left: when an affix is added the vowel of the 
-			penult is lengthened (Section 5.11, p. xii)
-†		    additions added to the entry on pp. 1140 ff.
-*		    root which is not used alone
+Culu-       prefix consisting of the initial consonant of the root
+            followed by ulu
+dat.        dative
+gen.        genitive
+k.o.        kind of
+-l-         infix consisting of l followed by the initial vowel of
+            the root
+lit.        literally
+n           noun
+nom.        nominative
+r-          prefix consisting of the initial consonant followed by
+            the first vowel of the root
+s.o.        someone
+s.t.        something
+s.w.        somewhere
+v           verb
+voc.        vocative
+x-          x is a prefix
+-x          x is a suffix
+-x-         x is infixed after the initial consonant
+x1, x2      there are two roots with the shape x, members of different
+            morphemes
+x-y         x is a prefix, and y is a suffix
+x(y)        y can be substituted for x with virtually no difference
+            in meaning
+x-/y-       x or, alternatively with no change in meaning, y
+—           root
+=           alternative pronunciation. Defined under the
+            form listed on the right
+(→)         shift to right: when an affix is added the vowel of the 
+            penult is shortened (Section 5.11, p. xii)
+(←)         shift to left: when an affix is added the vowel of the 
+            penult is lengthened (Section 5.11, p. xii)
+†           additions added to the entry on pp. 1140 ff.
+*           root which is not used alone
 
 
 
@@ -378,7 +378,6 @@ not be confirmed directly from our texts or informants.
 
 
 
-
 2.1 Personnel
 
 The collection, transcription, and classification of the texts was
@@ -419,28 +418,29 @@ it.
 
 
 
-SECTION 3
+
 
 3.0 Phonology and transcription
 
+
 The following chart gives the Cebuano phonemes and the articulation: 
 
-	+==============================================================+
-	|                   			  Consonants			       |
-	+===============+========+==============+=======+======+=======+
-	|				|bilabial|apico-alveolar|palatal|dorsal|glottal|
-	|				|	 	 |				|		|      |       |
-	|voiceless stops|   p	 |    	 t		|   c	|   k  |  ʔ    |
-	|voiced stops	|   b	 |    	 d		|   j	|   g  |       |
-	|nasals 		|   m	 |    	 n		|		|   ŋ  |	   |
-	|spirants		|	 	 | 	     s		|		|      |   h   |
-	|liquids		|   w	 |     l, r		|   y	|      |       |
-	+===============+========+==============+=======+======+=======+
-	|			    			Vowels			   				   |
-	+======================+===============+=======================+
-	|  high- or mid-front  |  low central  |   high- or mid-back   |
-	|    	  i	     	   |	   a       |	 	   u	       |
-	+======================+===============+=======================+
+    +--------------------------------------------------------------+
+    |                                 Consonants                   |
+    +---------------+--------+--------------+-------+------+-------+
+    |               |bilabial|apico-alveolar|palatal|dorsal|glottal|
+    |               |        |              |       |      |       |
+    |voiceless stops|   p    |       t      |   c   |   k  |   ʔ   |
+    |voiced stops   |   b    |       d      |   j   |   g  |       |
+    |nasals         |   m    |       n      |       |   ŋ  |       |
+    |spirants       |        |       s      |       |      |   h   |
+    |liquids        |   w    |     l, r     |   y   |      |       |
+    +---------------+--------+--------------+-------+------+-------+
+    |                           Vowels                             |
+    +----------------------+---------------+-----------------------+
+    |  high- or mid-front  |  low central  |   high- or mid-back   |
+    |         i            |       a       |           u           |
+    +----------------------+---------------+-----------------------+
 
 In addition there is a fourth mid-central vowel which occurs
 dialectally (Bohol, Southern Leyte, Southern Cebu, and other scattered
@@ -473,7 +473,6 @@ This contrast does not obtain in all dialects.
 
 3.2 Transcription
 
-
 The transcription here adopted adheres as closely as possible to the
 spelling found in Cebuano publications and at the same time is strictly
 phonemic—that is, each phoneme is indicated, and no phoneme in a
@@ -483,9 +482,7 @@ the exceptions listed in the following sections.
 
 
 
-
 3.21 Vowels
-
 
 We write only three vowels: i, u, a. In Cebuano publications /i/ is
 sometimes written i, sometimes e, but with no consistency; and /u/
@@ -511,9 +508,7 @@ acute accent: nahū́g [nahúug] ‘fell’, ang-ā́ng [ʔangʔáang]
 
 
 
-
 3.22 Glottal stop /ʔ/
-
 
 In Cebuano publications /ʔ/ is only sometimes indicated. [8] Here we
 indicate /ʔ/ in word or syllable final position with a grave accent
@@ -532,9 +527,7 @@ indicate a glottal stop: [9] maáyu /maʔā́yu/ ‘good’, alas
 
 
 
-
 3.23 /ŋ/, /c/, /j/, /dy/, /ty/
-
 
 The phoneme /ŋ/ is transcribed ng, as in Cebuano publications: bángun
 /báŋun/ ‘get up’. The sequence /ng/ is transcribed n-g: san-glas
@@ -555,9 +548,7 @@ or, alternatively, dy in Cebuano publications.) [12]
 
 
 
-
 3.24 Ciy and Cy; Cuw and Cw; ayi and ay; awu and aw
-
 
 The contrast between /Ciy/ and /Cy/ and between /Cuw/ and /Cw/ (where C
 is any consonant) obtains only in the position where the /y/ or /w/
@@ -623,7 +614,6 @@ morphological characteristics of the affixed forms.
 
 5.1 Morphophonemic alternations
 
-
 Since the listing in this dictionary is strictly by root, an outline of
 the important morphophonemic alternations is given here. In the entries
 nonpredictable morphophonemic alternations are indicated by writing the
@@ -631,9 +621,7 @@ affixed forms out.
 
 
 
-
 5.11 Shift of stress
-
 
 The general rule is that an affixed form has the stress on the same
 syllable as the root alone. Where this general rule is broken, there is
@@ -642,8 +630,8 @@ the root had penultimate stress, there is said to be SHIFT TO THE FINAL
 SYLLABLE, indicated by the symbol (→): 
 
 
-káun	 /kā́ʔun/  	‘eat’  + nag-(→)  = nagkaun /nagkaʔún/  ‘is eating’
-tugnaw   /túgnaw/	‘cold’ + -un(→)   = tugnawun /tugnawún/ ‘be cold’
+káun     /kā́ʔun/   ‘eat’  + nag-(→)  = nagkaun /nagkaʔún/  ‘is eating’
+tugnaw   /túgnaw/  ‘cold’ + -un(→)   = tugnawun /tugnawún/ ‘be cold’
 
 
 When an affixed form has penultimate stress where the root had final
@@ -662,21 +650,14 @@ pattern is said to be by the addition of an affix consisting of shift
 of stress alone: 
 
 
-------
-TABLE
-
-|inúm [15]   |/ʔinúm/ |‘drink’	 |+ |(←)  |= |ínum 
-|/ʔī́num/  |‘drink heavily’
-|búnal    |/búnal/   |‘beat’ |+ |(→)  |= |bunal |/bunál/  
-|‘club’
-------
+inúm [15] /ʔinúm/ ‘drink’  + (←)  = ínum /ʔī́num/  ‘drink heavily’
+búnal     /búnal/ ‘beat’   + (→)  = bunal /bunál/ ‘club’
 
 
 
 
 
 5.12 Dropping of vowels
-
 
 When a suffix is added to a root with a stressed final syllable, the
 tendency is to drop the vowel of the final syllable of the root: 
@@ -685,11 +666,11 @@ tendency is to drop the vowel of the final syllable of the root:
 ------
 TABLE
 
-|dakup	  |/dakúp/   |arrest	|+  |-an   |=	  |dakpan    
+|dakup    |/dakúp/   |arrest   |+  |-an   |=     |dakpan    
 |/dákpan/     |be arrested
-|pisik	  |/pisík/   |splash	|+  |-an   |=	  |piskan    
+|pisik    |/pisík/   |splash   |+  |-an   |=     |piskan    
 |/pískan/     |be splashed
-|lakat	  |/lakát/   |go	|+  |-unun |=	  |laktunun  
+|lakat    |/lakát/   |go   |+  |-unun |=     |laktunun  
 |/laktunún/   |errand
 ------
 
@@ -700,8 +681,8 @@ This occasionally also happens to roots with stressed penults:
 ------
 TABLE
 
-|kalímut |/kalímut/	 |forget     |+  |-i		|=	 
-|kalimti	 |/kalímti/	 |forget it
+|kalímut |/kalímut/    |forget     |+  |-i        |=   
+|kalimti     |/kalímti/     |forget it
 ------
 
 
@@ -720,17 +701,17 @@ suffix):
 ------
 TABLE
 
-|bása		  |/bása/	   |read	|+   |-un    |=  
-|basáhun	|/basáhun/	    |be read
-|adtu		 |/ʔádtu/	  |go	       |+  |-un    |=  
-|adtúun	|/ʔadtū́ʔun/      |gone to get
-|kabaláka	   |/kabaláka/     |worry     |+  |-an     |=	
+|bása        |/bása/     |read    |+   |-un    |=  
+|basáhun   |/basáhun/     |be read
+|adtu        |/ʔádtu/   |go          |+  |-un    |=  
+|adtúun    |/ʔadtū́ʔun/      |gone to get
+|kabaláka     |/kabaláka/     |worry     |+  |-an     |=  
 |kabalak-an |/kabalákʔan/   |s.t.  to worry about (with the vowel of
 the final syllable of the root dropped—5.12).
-|sulti		  |/súlti/	    |talk	  |+  |-un     |=  
-|sultíhun	 |/sultī́hun/ 	|talk it out
-|sulti		  |/súlti/	    |talk	 |+  |-ánay  |=  
-|sultiánay	|/sultiʔā́nay/     |conversation
+|sulti        |/súlti/     |talk     |+  |-un     |=  
+|sultíhun   |/sultī́hun/     |talk it out
+|sulti        |/súlti/     |talk    |+  |-ánay  |=  
+|sultiánay |/sultiʔā́nay/     |conversation
 ------
 
 
@@ -746,10 +727,10 @@ consonant) almost always become /Cʔ/ and /Ch/: [16]
 ------
 TABLE
 
-|káun		 |/káʔun/	  |eat	       |+   |-a       |=  
-|kan-a	    |/kánʔa/	      |eat it (with the final syllable of the
+|káun       |/káʔun/   |eat         |+   |-a       |=  
+|kan-a      |/kánʔa/        |eat it (with the final syllable of the
 root dropped).
-|luhud	 |/luhúd/     |kneel	    |+	|-an  |=  |ludhan   |/lúdhan/ 
+|luhud   |/luhúd/     |kneel       |+  |-an  |=  |ludhan   |/lúdhan/ 
    |kneel on (with the vowel of the final syllable of the root
 dropped).
 ------
@@ -761,8 +742,8 @@ The sequences /ʔVh/ usually becomes /hVʔ/ (where V is a vowel):
 ------
 TABLE
 
-|túu	  |/túʔu/    |believe     |+	|-an  |=  |tuhúan  
-|/tuhū́ʔan/	|believable (where /h/ is intercalated by the rule of
+|túu     |/túʔu/    |believe     |+  |-an  |=  |tuhúan  
+|/tuhū́ʔan/  |believable (where /h/ is intercalated by the rule of
 5.13).
 ------
 
@@ -775,15 +756,15 @@ is dropped.
 ------
 TABLE
 
-|ngálan  |/ŋálan/  |name	   |+  |-an  |=  |nganlan  |/ŋánlan/ 
+|ngálan  |/ŋálan/  |name    |+  |-an  |=  |nganlan  |/ŋánlan/ 
 |be named
-|sulud	 |/sulúd/     |enter	    |+	|-un  |=  |sudlun   |/súdlun/ 
+|sulud   |/sulúd/     |enter       |+  |-un  |=  |sudlun   |/súdlun/ 
    |enter it
-|inum	 |/ʔinúm/   |drink	   |+  |-a   |=  |imna	   |/ʔímna/  
+|inum    |/ʔinúm/   |drink       |+  |-a   |=  |imna     |/ʔímna/  
  |drink it
-|putus	 |/putús/     |wrap	    |+	|-un  |=  |pustun   |/pústun/ 
+|putus   |/putús/     |wrap        |+  |-un  |=  |pustun   |/pústun/ 
    |wrap it
-|lusut	 |/lusút/     |go through  |+	|-an  |=  |lutsan   |/lū́can/
+|lusut   |/lusút/     |go through  |+  |-an  |=  |lutsan   |/lū́can/
   |go through it
 ------
 
@@ -802,7 +783,7 @@ Intervocalically, /d/ usually becomes /r/ or, less frequently, /l/:
 ------
 TABLE
 
-|búkid 	  |mountain	   |+ |ka-an |=  |kabukíran or,
+|búkid       |mountain    |+ |ka-an |=  |kabukíran or,
 alternatively, kabukílan mountains
 ------
 
@@ -814,9 +795,9 @@ change to /d/ when final or abutting on a consonant.
 ------
 TABLE
 
-|walà	  |/waláʔ/   |be lost     |+	|-un  |=  |wad-un   |/wadʔun/ 
+|walà    |/waláʔ/   |be lost     |+  |-un  |=  |wad-un   |/wadʔun/ 
  |lose s.t. (with loss of the final vowel of the root).
-|hurut	 |/hurút/     |use up	    |+	|-un  |=  |hutdun   |/hútdun/ 
+|hurut   |/hurút/     |use up      |+  |-un  |=  |hutdun   |/hútdun/ 
    |use s.t. up (with metathesis).
 ------
 
@@ -828,9 +809,9 @@ change to /g/: [17]
 ------
 TABLE
 
-|pálung  |/páluŋ/ |extinguish  |+  |-an  |=	|pagngan  |/págŋan/
+|pálung  |/páluŋ/ |extinguish  |+  |-an  |=  |pagngan  |/págŋan/
 |extinguish it
-|haluk	 |/halúk/     |kiss	    |+	|-an  |=  |hagkan   |/hágkan/ 
+|haluk   |/halúk/     |kiss        |+  |-an  |=  |hagkan   |/hágkan/ 
    |kiss it
 ------
 
@@ -843,9 +824,9 @@ provenience.
 ------
 TABLE
 
-|mantinil	 |make do with	  |+  |-an  |=	|mantinihan    |make do
+|mantinil    |make do with    |+  |-an  |=  |mantinihan    |make do
 with it
-|imbitar	 |invite	  |+  |-un  |=	|imbitahun     |invite
+|imbitar     |invite      |+  |-un  |=  |imbitahun     |invite
 him
 ------
 
@@ -874,7 +855,7 @@ normally occurs unless a statement to the contrary is made.
 5.21   Dropping of /l/
 
 
-5.211	Intervocalic /l/
+5.211   Intervocalic /l/
 
 Most (but not all) roots which contain an /l/ between /a/’s and
 /u/’s compete with roots which lack /l/. The forms without /l/ are
@@ -903,7 +884,7 @@ a note is made to the contrary. [20]
 
 
 
-5.212	Post-consonantal /l/
+5.212   Post-consonantal /l/
 
 There is a tendency to drop post-consonantal /l/ usually (but not
 always) with compensatory lengthening of the vowel of the penult:
@@ -915,7 +896,7 @@ dropping of intervocalic /l/, and alternative forms are listed.
 
 
 
-5.213	Final /l/
+5.213   Final /l/
 
 In Bohol and southern Leyte there is a tendency for /al/ at the end of
 a word to become /aw/ and /ul/ to become /u/: bagal or bagaw
@@ -1020,36 +1001,36 @@ TABLE
 
 
 
-|  |		  |Future	   |Past		       
+|  |          |Future      |Past               
 |Subjunctive
 |Active | | |
 
-|  |Punctual	  |mu-		   |mi-, ni-, ning-, ming-	|mu-
-|  |Durative	  |mag-, maga-	   |nag-, naga-, ga-		|mag-,
+|  |Punctual      |mu-         |mi-, ni-, ning-, ming-  |mu-
+|  |Durative      |mag-, maga-     |nag-, naga-, ga-        |mag-,
 maga-
-|  |Potential	  |maka-, ka-	   |naka-, ka-			|maka-,
+|  |Potential     |maka-, ka-      |naka-, ka-          |maka-,
 ka-
 
 |Direct Passive | | |
 
-|  |Punctual	  |-un		   |gi- 			|-a
-|  |Durative	  |paga-un*	   |gina-*		       
+|  |Punctual      |-un         |gi-             |-a
+|  |Durative      |paga-un*    |gina-*             
 |paga-a*
-|  |Potential	  |ma-		   |na- 			|ma-
+|  |Potential     |ma-         |na-             |ma-
 
 |Local Passive | | |
 
-|  |Punctual	  |-an		   |gi-an			|-i
-|  |Durative	  |paga-an*	   |gina-an*		       
+|  |Punctual      |-an         |gi-an           |-i
+|  |Durative      |paga-an*    |gina-an*               
 |paga-i*
-|  |Potential	  |ma-an, ka-an    |na-an			|ma-i,
+|  |Potential     |ma-an, ka-an    |na-an           |ma-i,
 ka-i
 
 |Instrumental Passive | | |
 
-|  |Punctual	  |i-		   |gi- 			|i-
-|  |Durative	  |iga-*	   |gina-*			|iga-*
-|  |Potential	  |ma-, ika-	   |na-, gika-			|ma-,
+|  |Punctual      |i-          |gi-             |i-
+|  |Durative      |iga-*       |gina-*          |iga-*
+|  |Potential     |ma-, ika-       |na-, gika-          |ma-,
 ika-
 ------
 
@@ -1078,17 +1059,17 @@ TABLE
 
 
 
-|together with prefix	     |ni- (mi-, ning-) becomes		  |mu-
+|together with prefix        |ni- (mi-, ning-) becomes        |mu-
 becomes
 
-|paN-			     |naN-				  |maN-
-|pakig- 		     |nakig-				 
+|paN-                |naN-                |maN-
+|pakig-              |nakig-                 
 |makig-
-|paniN- 		     |naniN-				 
+|paniN-              |naniN-                 
 |maniN-
-|pani-			     |nani-				 
+|pani-               |nani-              
 |mani-
-|panggi-		     |nanggi-				 
+|panggi-             |nanggi-                
 |manggi-
 ------
 
@@ -1435,23 +1416,8 @@ passive affixes.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 NOTES
+
 
 [1] We arrive at this figure by totalling the population of towns and
 villages in Cebuano-speaking areas in the Census of 1960 (about seven
@@ -1611,36 +1577,36 @@ exhaustively. The difference in tense meanings (between future, past,
 and subjunctive) are described in this note. The forms designated
 FUTURE refer to future time (as the name suggests): 
 
-Palitun ku ang isdà, I will buy the fish.
-Akuy mupalit ug isdà, I will buy some fish.
-Kinahanglang palitun nímu, You must buy it.
+	Palitun ku ang isdà, I will buy the fish.
+	Akuy mupalit ug isdà, I will buy some fish.
+	Kinahanglang palitun nímu, You must buy it.
 
 
 They also may refer to habitual actions and general statements. 
 
-Maáyu siyang mulútug kík, He bakes cakes well.
-Mupalit kug isdà káda adlaw, I buy fish every day.
-Mupula ug lutúun, If you cook it, it will turn red or When you cook
-it, it turns red.
+	Maáyu siyang mulútug kík, He bakes cakes well.
+	Mupalit kug isdà káda adlaw, I buy fish every day.
+	Mupula ug lutúun, If you cook it, it will turn red or When you 
+	cook it, it turns red.
 
 
 They may also refer to exhortations: 
 
-Palitun ta! Let’s buy it!
-Mupalit tag isdà, Let’s buy some fish.
+	Palitun ta! Let’s buy it!
+	Mupalit tag isdà, Let’s buy some fish.
 
 
 The forms designated PAST refer to past actions. 
 
-Gipalit ku ang isdà, I bought the fish.
-Nakatilaw na kug isdà, I have already tasted fish.
-Sa nagpalit kug isdà, As I was buying fish.
+	Gipalit ku ang isdà, I bought the fish.
+	Nakatilaw na kug isdà, I have already tasted fish.
+	Sa nagpalit kug isdà, As I was buying fish.
 
 
 They also refer to actions still going on. 
 
-Naghilak ang bátà, The child is crying.
-Naglútù pa siya sa isdà, He is still cooking the fish.
+	Naghilak ang bátà, The child is crying.
+	Naglútù pa siya sa isdà, He is still cooking the fish.
 
 
 The forms designated as SUBJUNCTIVE occur in a phrase and following a
@@ -1649,18 +1615,18 @@ walà ‘not (past)’, anus-a ‘when (future)’, sa miáging
 Duminggu ‘last Sunday’, adtu ‘there (future)’, túa ‘there
 (present)’, and the like. 
 
-Ugmà níya palita, He will buy it tomorrow.
-Anus-a nímu palita ang isdà? When will you buy the fish?
-Didtu níya palita, He bought it there.
-Sunud Duminggu níya palita, He will buy it next Sunday.
-Walà níya palita, He did not buy it.
+	Ugmà níya palita, He will buy it tomorrow.
+	Anus-a nímu palita ang isdà? When will you buy the fish?
+	Didtu níya palita, He bought it there.
+	Sunud Duminggu níya palita, He will buy it next Sunday.
+	Walà níya palita, He did not buy it.
 
 
 The passive subjunctive forms are also used as imperative forms: 
 
-Palita ang isdà! Buy the fish!
-Ayaw lutúa, Don’t cook it.
-Limpiyúhi ninyu! You (plural) clean it.
+	Palita ang isdà! Buy the fish!
+	Ayaw lutúa, Don’t cook it.
+	Limpiyúhi ninyu! You (plural) clean it.
 
 
 Further examples of the tense differences can be found in the
@@ -1672,23 +1638,16 @@ future and past in the apodosis of conditions contrary to fact.
 following chart: 
 
 
-------
-TABLE
+	For roots beginning with         N plus the initial
+									 consonant after root produces
 
-
-
-
-|For roots beginning with			 |N plus the initial
-consonant after root produces
-
-|p, b							  |m
-|t, d, s						  |n
-|k, ʔ (written as initial vowel), ng		|ng
-|l							  |ngl or,
-alternatively, nl
-|other consonants or clusters of consonants	 |ng plus initial
-consonant
-------
+	p, b                             m
+	t, d, s                          n
+	k, ʔ (written as initial vowel), 
+		ng                           ng
+	l                                ngl or, alternatively, nl
+	other consonants or clusters     
+	of consonants                    ng plus initial consonant
 
 
 Examples: palit + paN- = pamalit ‘buy’; baligyà + paN- =
