@@ -630,8 +630,8 @@ the root had penultimate stress, there is said to be SHIFT TO THE FINAL
 SYLLABLE, indicated by the symbol (→): 
 
 
-káun     /kā́ʔun/   ‘eat’  + nag-(→)  = nagkaun /nagkaʔún/  ‘is eating’
-tugnaw   /túgnaw/  ‘cold’ + -un(→)   = tugnawun /tugnawún/ ‘be cold’
+káun     /kā́ʔun/   ‘eat’  + nag-(→) =  nagkaun /nagkaʔún/  ‘is eating’
+tugnaw   /túgnaw/  ‘cold’ + -un(→)  =  tugnawun /tugnawún/ ‘be cold’
 
 
 When an affixed form has penultimate stress where the root had final
@@ -639,7 +639,7 @@ stress, there is said to be SHIFT TO THE PENULTIMATE SYLLABLE,
 indicated by the symbol (←): 
 
 
-sakay /sakáy/ ‘ride’ + nag-(←) = nagsákay /nagsā́kay/ ‘ride together’
+sakay /sakáy/ ‘ride’ + nag-(←)  =  nagsákay /nagsā́kay/ ‘ride together’
 
 
 In many cases an unaffixed root has both final stress and penultimate
@@ -650,10 +650,8 @@ pattern is said to be by the addition of an affix consisting of shift
 of stress alone: 
 
 
-inúm [15] /ʔinúm/ ‘drink’  + (←)  = ínum /ʔī́num/  ‘drink heavily’
-búnal     /búnal/ ‘beat’   + (→)  = bunal /bunál/ ‘club’
-
-
+inúm [15] /ʔinúm/ ‘drink’  + (←) =  ínum /ʔī́num/  ‘drink heavily’
+búnal     /búnal/ ‘beat’   + (→) =  bunal /bunál/ ‘club’
 
 
 
@@ -663,89 +661,55 @@ When a suffix is added to a root with a stressed final syllable, the
 tendency is to drop the vowel of the final syllable of the root: 
 
 
-------
-TABLE
-
-|dakup    |/dakúp/   |arrest   |+  |-an   |=     |dakpan    
-|/dákpan/     |be arrested
-|pisik    |/pisík/   |splash   |+  |-an   |=     |piskan    
-|/pískan/     |be splashed
-|lakat    |/lakát/   |go   |+  |-unun |=     |laktunun  
-|/laktunún/   |errand
-------
+dakup /dakúp/   arrest + -an   =  dakpan /dákpan/      be arrested
+pisik /pisík/   splash + -an   =  piskan /pískan/      be splashed
+lakat /lakát/   go     + -unun =  laktunun /laktunún/  errand
 
 
 This occasionally also happens to roots with stressed penults: 
 
 
-------
-TABLE
-
-|kalímut |/kalímut/    |forget     |+  |-i        |=   
-|kalimti     |/kalímti/     |forget it
-------
-
-
+kalímut /kalímut/  forget + -i =  kalimti /kalímti/    forget it
 
 
 
 5.13   Adding of /h/ or /ʔ/ to roots ending in a vowel when a suffix
-is added
-
+       is added
 
 Some roots which end in a vowel add /ʔ/ before a suffix, some roots
 add /h/, other roots add either /ʔ/ or /h/ (depending on which
 suffix): 
 
 
-------
-TABLE
-
-|bása        |/bása/     |read    |+   |-un    |=  
-|basáhun   |/basáhun/     |be read
-|adtu        |/ʔádtu/   |go          |+  |-un    |=  
-|adtúun    |/ʔadtū́ʔun/      |gone to get
-|kabaláka     |/kabaláka/     |worry     |+  |-an     |=  
-|kabalak-an |/kabalákʔan/   |s.t.  to worry about (with the vowel of
-the final syllable of the root dropped—5.12).
-|sulti        |/súlti/     |talk     |+  |-un     |=  
-|sultíhun   |/sultī́hun/     |talk it out
-|sulti        |/súlti/     |talk    |+  |-ánay  |=  
-|sultiánay |/sultiʔā́nay/     |conversation
-------
-
+bása /bása/  read         + -un   = basáhun /basáhun/   be read
+adtu /ʔádtu/  go          + -un   = adtúun /ʔadtū́ʔun/   gone to get
+kabaláka /kabaláka/ worry + -an   = kabalak-an /kabalákʔan/  s.t. to 
+                                    worry about (with the vowel of
+                                    the final syllable of the root 
+                                    dropped—5.12).
+sulti /súlti/  talk       + -un   = sultíhun /sultī́hun/ talk it out
+sulti /súlti/  talk       + -ánay = sultiánay /sultiʔā́nay/ conversation
 
 
 
 5.14  Metathesis
 
-
 In affixed forms, the sequences /ʔC/ and /hC/ (where C is any
 consonant) almost always become /Cʔ/ and /Ch/: [16] 
 
 
-------
-TABLE
-
-|káun       |/káʔun/   |eat         |+   |-a       |=  
-|kan-a      |/kánʔa/        |eat it (with the final syllable of the
-root dropped).
-|luhud   |/luhúd/     |kneel       |+  |-an  |=  |ludhan   |/lúdhan/ 
-   |kneel on (with the vowel of the final syllable of the root
-dropped).
-------
+káun  /káʔun/  eat    + -a  = kan-a /kánʔa/ eat it (with the final 
+                              syllable of the root dropped).
+luhud /luhúd/  kneel  + -an = ludhan /lúdhan/ kneel on (with the 
+                              vowel of the final syllable of the root
+                              dropped).
 
 
 The sequences /ʔVh/ usually becomes /hVʔ/ (where V is a vowel): 
 
 
-------
-TABLE
-
-|túu     |/túʔu/    |believe     |+  |-an  |=  |tuhúan  
-|/tuhū́ʔan/  |believable (where /h/ is intercalated by the rule of
-5.13).
-------
+túu /túʔu/ believe + -an  =  tuhúan /tuhū́ʔan/ believable (where /h/ 
+                             is intercalated by the rule of 5.13).
 
 
 Sequences of a liquid or /s/ plus a consonant tend to be metathesized
@@ -753,20 +717,11 @@ when a suffix is added if the vowel of the final syllable of the root
 is dropped. 
 
 
-------
-TABLE
-
-|ngálan  |/ŋálan/  |name    |+  |-an  |=  |nganlan  |/ŋánlan/ 
-|be named
-|sulud   |/sulúd/     |enter       |+  |-un  |=  |sudlun   |/súdlun/ 
-   |enter it
-|inum    |/ʔinúm/   |drink       |+  |-a   |=  |imna     |/ʔímna/  
- |drink it
-|putus   |/putús/     |wrap        |+  |-un  |=  |pustun   |/pústun/ 
-   |wrap it
-|lusut   |/lusút/     |go through  |+  |-an  |=  |lutsan   |/lū́can/
-  |go through it
-------
+ngálan /ŋálan/  name       + -an  =  nganlan /ŋánlan/  be named
+sulud  /sulúd/  enter      + -un  =  sudlun  /súdlun/  enter it
+inum   /ʔinúm/  drink      + -a   =  imna    /ʔímna/   drink it
+putus  /putús/  wrap       + -un  =  pustun  /pústun/  wrap it
+lusut  /lusút/  go through + -an  =  lutsan  /lū́can/   go through it
 
 
 These alternations also manifest themselves in competing root forms:
@@ -780,40 +735,26 @@ kamalunggay ‘k.o. tree’.
 Intervocalically, /d/ usually becomes /r/ or, less frequently, /l/: 
 
 
-------
-TABLE
-
-|búkid       |mountain    |+ |ka-an |=  |kabukíran or,
-alternatively, kabukílan mountains
-------
+búkid mountain + ka-an  =  kabukíran or, alternatively, kabukílan 
+                           mountains
 
 
 Vice versa, in roots with intervocalic /l/ or /r/, the /l/ or /r/ may
 change to /d/ when final or abutting on a consonant. 
 
 
-------
-TABLE
-
-|walà    |/waláʔ/   |be lost     |+  |-un  |=  |wad-un   |/wadʔun/ 
- |lose s.t. (with loss of the final vowel of the root).
-|hurut   |/hurút/     |use up      |+  |-un  |=  |hutdun   |/hútdun/ 
-   |use s.t. up (with metathesis).
-------
+walà  /waláʔ/  be lost + -un  =  wad-un /wadʔun/ lose s.t. (with loss 
+                                 of the final vowel of the root).
+hurut /hurút/  use up  + -un  =  hutdun /hútdun/ use s.t. up (with 
+                                 metathesis).
 
 
 When a /d/, /l/, or /r/ comes to abut on velar consonant it tends to
 change to /g/: [17] 
 
 
-------
-TABLE
-
-|pálung  |/páluŋ/ |extinguish  |+  |-an  |=  |pagngan  |/págŋan/
-|extinguish it
-|haluk   |/halúk/     |kiss        |+  |-an  |=  |hagkan   |/hágkan/ 
-   |kiss it
-------
+pálung  /páluŋ/ extinguish + -an  =  pagngan /págŋan/ extinguish it
+haluk   /halúk/ kiss       + -an  =  hagkan  /hágkan/ kiss it
 
 
 /r/ or, occasionally, /l/ at the end of a root may change to /h/ when
@@ -821,15 +762,8 @@ suffixes are added. These are almost always words of Spanish
 provenience. 
 
 
-------
-TABLE
-
-|mantinil    |make do with    |+  |-an  |=  |mantinihan    |make do
-with it
-|imbitar     |invite      |+  |-un  |=  |imbitahun     |invite
-him
-------
-
+mantinil make do with + -an  =  mantinihan  make do with it
+imbitar  invite       + -un  =  imbitahun   invite him
 
 
 
@@ -991,49 +925,31 @@ The asterisks mark forms which are not normally used in colloquial
 speech. 
 
 
+                Future       Past              Subjunctive
+Active   
 
-------
-TABLE
+  Punctual      mu-          mi-, ni-, ning-,  mu-
+                             ming-  
+  Durative      mag-, maga-  nag-, naga-, ga-  mag-, maga-
+  Potential     maka-, ka-   naka-, ka-        maka-, ka-
 
+Direct Passive   
 
+  Punctual      -un          gi-               -a
+  Durative      paga-un*     gina-*            paga-a*
+  Potential     ma-          na-               ma-
 
+Local Passive   
 
+  Punctual      -an          gi-an             -i
+  Durative      paga-an*     gina-an*          paga-i*
+  Potential     ma-an, ka-an na-an             ma-i, ka-i
 
+Instrumental Passive   
 
-
-|  |          |Future      |Past               
-|Subjunctive
-|Active | | |
-
-|  |Punctual      |mu-         |mi-, ni-, ning-, ming-  |mu-
-|  |Durative      |mag-, maga-     |nag-, naga-, ga-        |mag-,
-maga-
-|  |Potential     |maka-, ka-      |naka-, ka-          |maka-,
-ka-
-
-|Direct Passive | | |
-
-|  |Punctual      |-un         |gi-             |-a
-|  |Durative      |paga-un*    |gina-*             
-|paga-a*
-|  |Potential     |ma-         |na-             |ma-
-
-|Local Passive | | |
-
-|  |Punctual      |-an         |gi-an           |-i
-|  |Durative      |paga-an*    |gina-an*               
-|paga-i*
-|  |Potential     |ma-an, ka-an    |na-an           |ma-i,
-ka-i
-
-|Instrumental Passive | | |
-
-|  |Punctual      |i-          |gi-             |i-
-|  |Durative      |iga-*       |gina-*          |iga-*
-|  |Potential     |ma-, ika-       |na-, gika-          |ma-,
-ika-
-------
-
+  Punctual      i-           gi-               i-
+  Durative      iga-*        gina-*            iga-*
+  Potential     ma-, ika-    na-, gika-        ma-, ika-
 
 
 
