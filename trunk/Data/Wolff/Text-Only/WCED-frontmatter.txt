@@ -1,6 +1,15 @@
 
 
 
+TRANSCRIBER’S NOTE
+
+This text-only version of John U. Wolff’s Dictionary of Cebuano
+Visayan uses letters with Unicode combining diacritics, such as ā̀, 
+a lower case letter a with a macron and grave accent. These letters 
+may not render correctly on all computers. 
+
+
+
 THE CORNELL UNIVERSITY SOUTHEAST ASIA PROGRAM
 
 
@@ -34,7 +43,6 @@ York 14850.
 
 
 
-
                     A DICTIONARY OF CEBUANO VISAYAN
 
                               Compiled by
@@ -49,9 +57,6 @@ York 14850.
                  Linguistic Society of the Philippines
 
                                   1972
-
-
-
 
 
 
@@ -74,6 +79,7 @@ inferred.
 
 Publication of this work was aided by a grant from the Southeast Asia
 Program, Cornell University and by The Asia Society, New York City. 
+
 
 
 
@@ -189,7 +195,6 @@ CONTENTS
     ENTRIES                               1
     ADDENDA                            1141
     BIBLIOGRAPHY                       1164
-
 
 
 
@@ -353,7 +358,6 @@ among non-intimates.
 
 
 
-
 2.0 Basis of this work
 
 
@@ -415,7 +419,6 @@ We made heavy use of the anthropological sources listed in the
 bibliography but independently checked all information incorporated and
 used terminology listed in them only insofar as we could corroborate
 it. 
-
 
 
 
@@ -574,7 +577,6 @@ open syllables: bayinti ‘twenty’ but ayta ‘give me’; dawunggan
 
 
 
-
 4.0 Listing of Entries
 
 
@@ -608,9 +610,7 @@ morphological characteristics of the affixed forms.
 
 
 
-
 5.0 Alternations
-
 
 5.1 Morphophonemic alternations
 
@@ -784,10 +784,7 @@ normally occurs unless a statement to the contrary is made.
 
 
 
-
-
 5.21   Dropping of /l/
-
 
 5.211   Intervocalic /l/
 
@@ -880,7 +877,6 @@ In these cases competing forms are listed.
 
 
 
-
 5.24  Change of /y/ to /dy/
 
 In Bohol and Southern Leyte /y/ becomes /j/ (written dy). Some forms
@@ -968,34 +964,20 @@ contain some of these derivative prefixes, they undergo morphophonemic
 alternations as shown in the following chart: 
 
 
-------
-TABLE
+    together with       ni- (mi-, ning-)    mu- becomes
+    prefix              becomes
 
-
-
-
-
-|together with prefix        |ni- (mi-, ning-) becomes        |mu-
-becomes
-
-|paN-                |naN-                |maN-
-|pakig-              |nakig-                 
-|makig-
-|paniN-              |naniN-                 
-|maniN-
-|pani-               |nani-              
-|mani-
-|panggi-             |nanggi-                
-|manggi-
-------
+    paN-                naN-                maN-
+    pakig-              nakig-              makig-
+    paniN-              naniN-              maniN-
+    pani-               nani-               mani-
+    panggi-             nanggi-             manggi-
 
 
 These affixes are given entries and defined there. 
 
 
 
-
-SECTION 7
 
 7.0 Classification of roots according to their system of affixation
 
@@ -1038,9 +1020,7 @@ are listed with examples for all the relevant affixations.
 
 
 
-
 7.1 Active verb classes
-
 
 7.11 Class A conjugation, the action verbs
 
@@ -1108,7 +1088,6 @@ conjugation is sanghid ‘ask permission’.
 
 
 
-
 7.12  Class B conjugation, the stative verbs
 
 Verbs of class B refer to s.t. that happened to s.o. or s.t. If they
@@ -1148,7 +1127,6 @@ of conjugation BN is pula.
 
 
 
-
 7.13 Class C conjugation, the mutual action verbs
 
 Verbs of class C refer to an action which two or more agents engage in
@@ -1173,11 +1151,7 @@ illustrates a verb of class C2 (lacking the potential form magka-1).
 
 
 
-
-
 7.2 Passive verb classes
-
-
 
 7.21  Class a verbs
 
@@ -1281,7 +1255,6 @@ Kamau ‘know’ (listed under mau) is a verb of class b8.
 
 
 
-
 7.23 Class c verbs
 
 Verbs of class c have instrumental passive affixes which refer to a
@@ -1291,7 +1264,6 @@ occur with the local passive affixes (-an1) referring to a focus which
 is the place or the beneficiary of the action (-an1, meaning 1). Lábay
 ‘throw away’ illustrates a verb of this type. Dalágan,1
 illustrates a verb of class c which refers to motion. 
-
 
 
 
@@ -1326,7 +1298,6 @@ to a focus which is the reason on account of which the agent came into
 
 The symbol c6 refers to verbs of class c which do not occur with local
 passive affixes. 
-
 
 
 
@@ -1493,37 +1464,32 @@ exhaustively. The difference in tense meanings (between future, past,
 and subjunctive) are described in this note. The forms designated
 FUTURE refer to future time (as the name suggests): 
 
-	Palitun ku ang isdà, I will buy the fish.
-	Akuy mupalit ug isdà, I will buy some fish.
-	Kinahanglang palitun nímu, You must buy it.
-
+    Palitun ku ang isdà, I will buy the fish.
+    Akuy mupalit ug isdà, I will buy some fish.
+    Kinahanglang palitun nímu, You must buy it.
 
 They also may refer to habitual actions and general statements. 
 
-	Maáyu siyang mulútug kík, He bakes cakes well.
-	Mupalit kug isdà káda adlaw, I buy fish every day.
-	Mupula ug lutúun, If you cook it, it will turn red or When you 
-	cook it, it turns red.
-
+    Maáyu siyang mulútug kík, He bakes cakes well.
+    Mupalit kug isdà káda adlaw, I buy fish every day.
+    Mupula ug lutúun, If you cook it, it will turn red or When you 
+    cook it, it turns red.
 
 They may also refer to exhortations: 
 
-	Palitun ta! Let’s buy it!
-	Mupalit tag isdà, Let’s buy some fish.
-
+    Palitun ta! Let’s buy it!
+    Mupalit tag isdà, Let’s buy some fish.
 
 The forms designated PAST refer to past actions. 
 
-	Gipalit ku ang isdà, I bought the fish.
-	Nakatilaw na kug isdà, I have already tasted fish.
-	Sa nagpalit kug isdà, As I was buying fish.
-
+    Gipalit ku ang isdà, I bought the fish.
+    Nakatilaw na kug isdà, I have already tasted fish.
+    Sa nagpalit kug isdà, As I was buying fish.
 
 They also refer to actions still going on. 
 
-	Naghilak ang bátà, The child is crying.
-	Naglútù pa siya sa isdà, He is still cooking the fish.
-
+    Naghilak ang bátà, The child is crying.
+    Naglútù pa siya sa isdà, He is still cooking the fish.
 
 The forms designated as SUBJUNCTIVE occur in a phrase and following a
 form which itself indicates time: e.g. kagahápun ‘yesterday’,
@@ -1531,19 +1497,17 @@ walà ‘not (past)’, anus-a ‘when (future)’, sa miáging
 Duminggu ‘last Sunday’, adtu ‘there (future)’, túa ‘there
 (present)’, and the like. 
 
-	Ugmà níya palita, He will buy it tomorrow.
-	Anus-a nímu palita ang isdà? When will you buy the fish?
-	Didtu níya palita, He bought it there.
-	Sunud Duminggu níya palita, He will buy it next Sunday.
-	Walà níya palita, He did not buy it.
-
+    Ugmà níya palita, He will buy it tomorrow.
+    Anus-a nímu palita ang isdà? When will you buy the fish?
+    Didtu níya palita, He bought it there.
+    Sunud Duminggu níya palita, He will buy it next Sunday.
+    Walà níya palita, He did not buy it.
 
 The passive subjunctive forms are also used as imperative forms: 
 
-	Palita ang isdà! Buy the fish!
-	Ayaw lutúa, Don’t cook it.
-	Limpiyúhi ninyu! You (plural) clean it.
-
+    Palita ang isdà! Buy the fish!
+    Ayaw lutúa, Don’t cook it.
+    Limpiyúhi ninyu! You (plural) clean it.
 
 Further examples of the tense differences can be found in the
 definitions of the future case-mode affixes listed as entries in the
@@ -1554,16 +1518,16 @@ future and past in the apodosis of conditions contrary to fact.
 following chart: 
 
 
-	For roots beginning with         N plus the initial
-									 consonant after root produces
+    For roots beginning with         N plus the initial
+                                     consonant after root produces
 
-	p, b                             m
-	t, d, s                          n
-	k, ʔ (written as initial vowel), 
-		ng                           ng
-	l                                ngl or, alternatively, nl
-	other consonants or clusters     
-	of consonants                    ng plus initial consonant
+    p, b                             m
+    t, d, s                          n
+    k, ʔ (written as initial vowel), 
+        ng                           ng
+    l                                ngl or, alternatively, nl
+    other consonants or clusters     
+    of consonants                    ng plus initial consonant
 
 
 Examples: palit + paN- = pamalit ‘buy’; baligyà + paN- =

@@ -6,7 +6,7 @@
 <xsl:template match="/">
     <TEI.2 lang="en">
     <teiHeader>
-        <xsl:apply-templates select="document('WCED-frontmatter.xml')//teiHeader" />
+        <xsl:apply-templates select="document('WCED-frontmatter.xml')//teiHeader/*" />
     </teiHeader>
     <text>
         <front id="frontmatter">
