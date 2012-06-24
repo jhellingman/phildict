@@ -1,0 +1,78 @@
+
+== INSTRUCTION ==
+
+To add expansions to the entries of WCED, do the following:
+
+
+Step 0:
+
+    Before you start: study the introduction on how to handle
+    the abbreviated sub-entries, in particular, study the meaning
+    of paN-, -l-, -r-, Culu-. Also study the use of stress marks.
+
+        Culu-   prefix consisting of the initial consonant of the root 
+                followed by ulu
+        -l-     infix consisting of l followed by the initial vowel 
+                of the root
+        r-      prefix consisting of the initial consonant followed by 
+                the first vowel of the root
+        -x-     x is infixed after the initial consonant
+
+
+
+
+Step 1: search for (regular expression):
+
+        <form>[^<]*-[^<]*</form>
+
+    This will find all forms with a dash in it.
+
+    A dash can have two meanings in those forms:
+
+        a. Indicate omitted head-word
+        b. Indicate syllable-inital glottal stop.
+
+    We are only interested in the first (a) meaning. Sometimes, it will require
+    some knowledge of the language to decide which meaning is intended.
+
+
+Step 2: If a form contains a dash indicates an omitted head-word, then
+
+        a. put { before it and |} after it.
+        b. put the expanded form after the |
+        c. replace the omitted head-word dashes in the form before | with ~
+        d. apply the proper accent marks, if needed.
+        c. insert a intial-glottal-stop dash if needed.
+
+        You will end up with forms like:
+            
+            {~un|abgawun}
+            {ma&N;~l~(&larr;)|mangalabay}
+
+
+Step 3:
+
+    After you take a break, register in this file how far you got:
+
+    Letter:     Done up-to and including entry
+
+    A           agwanta
+    B
+    D
+    G
+    H
+    I
+    K
+    L
+    M
+    N
+    P
+    R
+    S
+    T
+    U
+    W
+    Y
+    Addenda
+
+    Check-in the file.
