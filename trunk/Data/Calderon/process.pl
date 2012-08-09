@@ -14,7 +14,7 @@ while (<>)
 	if ($line =~ /^H: ([A-Z]+)/)
 	{
 		$letter = $1;
-		print  "<div1>\n<head>$letter</head>\n";
+		print  "<div1 id=letter$letter>\n<head>$letter</head>\n";
 	}
 
 	if ($line =~ /^C: (.*?)$/)
@@ -62,6 +62,7 @@ while (<>)
 
 print "</body>\n";
 print "<back id=backmatter>\n";
+print "<divGen id=toc type=toc>\n";
 print "<divGen type=Colophon>\n";
 print "</back>\n";
 print "</text>\n";

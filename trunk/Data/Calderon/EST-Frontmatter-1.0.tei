@@ -14,6 +14,7 @@
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
 <pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=epub-id>urn:uuid:62659f2b-410e-48eb-bd4d-1e08cdc237a9</idno>
 <idno type=PGclearance>20040908133150calderon</idno>
 <idno type=PGDPProjectId>projectID4142e5469dd03</idno>
 <idno type=PGnum>20738</idno>
@@ -33,6 +34,9 @@
 
 </availability>
 </publicationStmt>
+<notesStmt>
+    <note type="Description">Sofronio G. Calderón&apos;s tri-lingual English-Spanish-Tagalog dictionary originally appeared in 1915. The words used in this dictionary reflect the usage and spellings current at that time.</note>
+</notesStmt>
 <sourceDesc>
 <bibl>
 <author>Sofronio G. Calderón</author>
@@ -66,7 +70,8 @@
 </profileDesc>
 <revisionDesc>
     <list>
-        <item>28-FEB-2007 Started.
+        <item>2007-02-08 Started.
+        <item>2012-08-09 Adjustments for ePub generation.
     </list>
 </revisionDesc>
 </teiHeader>
@@ -112,7 +117,7 @@ Primera Edición.
 
 
 <pb n=2>
-<div1 type=Colophon>
+<div1 id=imprint type=Imprint>
 
 <p rend="align(center)"><hi>Es propiedad de la Imprenta, Librería y Papelería de J. Martínez.</hi>
 
