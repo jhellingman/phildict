@@ -1,5 +1,4 @@
-
-
+# process.pl -- Process the Calderon EST dictionary.
 
 while (<>) 
 {
@@ -61,9 +60,8 @@ while (<>)
 	}
 }
 
-
 print "</body>\n";
-print "<back>\n";
+print "<back id=backmatter>\n";
 print "<divGen type=Colophon>\n";
 print "</back>\n";
 print "</text>\n";

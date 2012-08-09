@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Diccionario Ingles-Espa&ntilde;ol-Tagalog</title>
-<author>Sofronio G. Calder&oacute;n</author>
+<title>Diccionario Ingles-Español-Tagalog</title>
+<author>Sofronio G. Calderón</author>
 <respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
@@ -29,12 +29,14 @@
 
 <p>The pronuciations sometimes reveal a Spanish influx.
 
+<p>The newly designed cover contains the flags of Spain, the United States, and the Philippines, current at the time this book was first published (ignoring the fact that use of the Philippine flag was forbidden at that time by the US authorities).
+
 </availability>
 </publicationStmt>
 <sourceDesc>
 <bibl>
-<author>Sofronio G. Calder&oacute;n</author>
-<title>Diccionario Ingles-Espa&ntilde;ol-Tagalog</title>
+<author>Sofronio G. Calderón</author>
+<title>Diccionario Ingles-Español-Tagalog</title>
 <date>1915</date>
 </bibl>
 </sourceDesc>
@@ -44,27 +46,44 @@
 
 </encodingDesc>
 <profileDesc lang=en>
-	<langUsage>
-		<language id=en>English</language>
-		<language id=en-US>English (United States)</language>
-		<language id=en-UK>English (United Kingdom)</language>
-		<language id=es>Spanish</language>
-		<language id=tl>Tagalog</language>
-		<language id=und>Undetermined</language>
-	</langUsage>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=en-US>English (United States)</language>
+        <language id=en-UK>English (United Kingdom)</language>
+        <language id=es>Spanish</language>
+        <language id=tl>Tagalog</language>
+        <language id=und>Undetermined</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>English language -- Dictionaries -- Spanish</item>
+                <item>English language -- Dictionaries -- Tagalog</item>
+                <item>English language -- Dictionaries -- Polyglot</item>
+            </list>
+        </keywords>
+    </textClass>
 </profileDesc>
 <revisionDesc>
-	<list>
-		<item>28-FEB-2007 Started.
-	</list>
+    <list>
+        <item>28-FEB-2007 Started.
+    </list>
 </revisionDesc>
 </teiHeader>
 <text>
-<front>
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Newly Designed Front Cover.</figDesc>
+</figure>
+
+
 <pb n=1>
 <titlePage>
 <docTitle><titlePart>Diccionario</titlePart>
-<titlePart>Ingles-Espa&ntilde;ol-Tagalog</titlePart>
+<titlePart>Ingles-Español-Tagalog</titlePart>
 <titlePart>(Con partes de la oracion y pronunciacion figurada)</titlePart>
 </docTitle>
 
@@ -72,20 +91,20 @@
 <byline>
 <lb>Por
 
-<lb><docAuthor>Sofronio G. Calder&oacute;n</docAuthor>
+<lb><docAuthor>Sofronio G. Calderón</docAuthor>
 
-<lb>Presidente de la sociedad literaria &ldquo;<hi rend=sc>Aklatang Kasilawan</hi>&rdquo;; 2.<hi rend=sup>o</hi> Vice-Presidente de la &ldquo;<hi rend=sc>Samahan n&gtilde; m&gtilde;a M&aacute;nanagalog</hi>&rdquo; (&oacute; Asociaci&oacute;n de Tagalistas); Colaborador de la &rdquo;<hi rend=sc>Aklatang Bayan</hi>&rdquo;; Miembro honorario de la "<hi rend=sc>Aklatang Barusog</hi>&rdquo;; Miembro de la &ldquo;<hi rend=sc>University Extension Institute</hi>&rdquo;; Miembro de la &ldquo;<hi rend=sc>Philipphine Academy</hi>&rdquo; etc.
+<lb>Presidente de la sociedad literaria &ldquo;<hi rend=sc>Aklatang Kasilawan</hi>&rdquo;; 2.<hi rend=sup>o</hi> Vice-Presidente de la &ldquo;<hi rend=sc>Samahan n&gtilde; m&gtilde;a Mánanagalog</hi>&rdquo; (ó Asociación de Tagalistas); Colaborador de la &rdquo;<hi rend=sc>Aklatang Bayan</hi>&rdquo;; Miembro honorario de la "<hi rend=sc>Aklatang Barusog</hi>&rdquo;; Miembro de la &ldquo;<hi rend=sc>University Extension Institute</hi>&rdquo;; Miembro de la &ldquo;<hi rend=sc>Philipphine Academy</hi>&rdquo; etc.
 </byline>
 
 <docImprint>
-Primera Edici&oacute;n.
+Primera Edición.
 
 <lb>Manila
 <lb>Libreria y Papeleria
 <lb>&ndash;:de:&ndash;
 <lb>J. Martinez
 
-<lb>Plaza P. Moraga 34/36, Plaza Calder&oacute;n 108 y Real 153/155, Intramuros.
+<lb>Plaza P. Moraga 34/36, Plaza Calderón 108 y Real 153/155, Intramuros.
 <lb><docDate>1915</docDate>
 </docImprint>
 </titlePage>
@@ -95,9 +114,9 @@ Primera Edici&oacute;n.
 <pb n=2>
 <div1 type=Colophon>
 
-<p rend="align(center)"><hi>Es propiedad de la Imprenta, Librer&iacute;a y Papeler&iacute;a de J. Mart&iacute;nez.</hi>
+<p rend="align(center)"><hi>Es propiedad de la Imprenta, Librería y Papelería de J. Martínez.</hi>
 
-<p rend="align(center)">Imprenta de J. Mart&iacute;nez, Estraude 7, Binondo.
+<p rend="align(center)">Imprenta de J. Martínez, Estraude 7, Binondo.
 
 
 </front>
@@ -106,5 +125,5 @@ Primera Edici&oacute;n.
 
 <!-- DICCIONARIO
 
-Ingles-Espa&ntilde;ol-Tagalog -->
+Ingles-Español-Tagalog -->
 
