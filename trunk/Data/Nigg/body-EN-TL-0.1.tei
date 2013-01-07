@@ -4472,7 +4472,7 @@ Boss-n-Amo; pan~ginoon; puno; jeffe.
 Boss-v-Mamahala; magpuno; magjeffe.
 
 Botany-n-Karunun~gan tungkol sa m~ga
-gulay;[**,] kahoy;[**,] at bulaklak.
+gulay<corr sic=";">,</corr> kahoy<corr sic=";">,</corr> at bulaklak.
 
 Botch-v-Pamamaga; mansa; gawa na
 hindi tama.
@@ -4504,9 +4504,9 @@ Bottomless-a-Walang pusot<corr sic=",">;</corr> di matarok.
 
 Boudoir-n-Silid n~g babayi.
 
-Bough-[**n-]Malaking san~ga.
+Bough-<corr>n-</corr>Malaking san~ga.
 
-Bought-v-[**.]imp-Binili; namili.
+Bought-v<corr sic="-">. </corr>imp-Binili; namili.
 
 Bouillon-n-Sabaw.
 
@@ -4532,7 +4532,7 @@ Bound-v-Ilagay <corr sic="n~g">ang</corr> man~ga hanga.
 
 Bound-v-<corr sic="Lumunda">Lumundag</corr>; umudlot; lumukso.
 
-Bound-v. imp. &amp; p[**.]p.-Tinali; nakatali.
+Bound-v. imp. &amp; p<corr>.</corr>p.-Tinali; nakatali.
 
 Boundary-n-Hangahan; hanga<corr>;</corr> wakal;
 wakas<corr>;</corr> danay<corr>;</corr> hibaybay; katapusan.
@@ -4554,7 +4554,7 @@ Bourn-Bourne-n-Sapang munti.
 Bout-n-Talo; away<corr>;</corr> laban.
 
 Bovine-a-<corr sic="Naaukol">Nauukol</corr> sa bakang lalaki
-Botoro[**typo: ó toro].
+<corr sic=Botoro>ó toro</corr>.
 
 Bow-v-Batiin; yumuko; iyuko; sumuko.
 
@@ -4801,7 +4801,7 @@ Brevity-n-Kaiklian.
 
 Brew-v-Ilahok.
 
-Brew-v-Gumawa ng[**typo: n~g] servesa.
+Brew-v-Gumawa <corr sic=ng>n~g</corr> servesa.
 
 Brew-n-Lahok.
 
@@ -4820,7 +4820,7 @@ Bribery-n-Suhol; pagsusuhol.
 Bricabrac-n-Man~ga sangkap na munti
 ang halaga.
 
-Brick-n-Lario[**unclear capital M:L]; ladrillo.
+Brick-n-Lario; ladrillo.
 
 Brick-v-Ilagay <corr sic="n~g">ang</corr> lario.
 
@@ -4887,7 +4887,7 @@ Brilliant-n-Brilliante.
 
 Brim-n-Gilid; gasa; tagiliran.
 
-Brim-v-Punuin; pumuno hangang[**2 ; not in scan] sa
+Brim-v-Punuin; pumuno hangang sa
 gilid.
 
 Brimful-a-Puno hangang sa gilid.
@@ -4906,7 +4906,7 @@ Bring-v-Dalhin; magdala; ilapit.
 
 Briny-a-Maasim.
 
-Brisk-a-Maliksi; magdala;[**2nd defn doesn't fit here, s/b deleted (prob. typo duplicate from entry Bring above)] masaya.
+Brisk-a-Maliksi; <corr sic="magdala; "></corr>masaya.
 
 Brisket-n-Dibdib n~g hayop.
 
@@ -4920,9 +4920,9 @@ Bristly-a-Matutsang.
 
 British-a-Nauukol sa Inglaterra.
 
-British-n-Ang[**no ; in scan] tawo sa Inglaterra.
+British-n-Ang tawo sa Inglaterra.
 
-Briton-n-Tawong[**no ; in scan] Ingles; Ingles.
+Briton-n-Tawong Ingles; Ingles.
 
 Brittle-a-Marupok; lahan~gin; malutong;
 bitakin.
@@ -4939,9 +4939,9 @@ Broadcast-n-Pagsasabog.
 
 Broadcast-a-Masabog.
 
-Broadcast-avd.[**typo: adv.]-Pasabog.
+Broadcast-<corr sic=avd.>adv.</corr>-Pasabog.
 
-Broadcloth-n-<corr sic="Kayo">Kayong</corr>[**no ; in scan] parang merino.
+Broadcloth-n-<corr sic="Kayo">Kayong</corr> parang merino.
 
 Broaden-v-Luan~gin; lumuang.
 
@@ -4949,7 +4949,7 @@ Broadside-n-Tagliran.
 
 Broadsword-n-Sabat na <corr sic="malapat">malapad</corr> at matalim.
 
-Brogan[**Should be Brogan? P2: changed from Progan]-n-Sapatos[**no ; in scan] na magaspang.
+Brogan-n-Sapatos na magaspang.
 
 <pb n=357>
 
@@ -4998,9 +4998,9 @@ Brother-n-Kapatid na lalaki.
 
 Brotherhood-n-Ang pagkakapatid; katipunan.
 
-Brother-in-law[**changed from low]-n-Bayaw; siaho.
+<corr sic="Brother-in-low">rother-in-law</corr>-n-Bayaw; siaho.
 
-Brotherly-a-Parangkapatid[**typo: Parang kapatid].
+Brotherly-a-<corr sic=Parangkapatid>Parang kapatid</corr>.
 
 Brougham-n-Carruage.
 
@@ -5042,7 +5042,7 @@ Brutal-a-Bastos; walang awa; parang
 hayop; hindi marunong maawa.
 
 Brutality-n-<corr sic="Kawalang">Kawalan</corr> n~g awa; kabastosan;
-kahalayan; kahayupan; kabagsikan[**rejoined; EOL - after kabag faint in scan].
+kahalayan; kahayupan; kabagsikan.
 
 Brute-n-Hayop; tawong bastos.
 
@@ -5071,7 +5071,7 @@ Buckle-v-Humubog; bumaluktot.
 
 Buckram-n-Sukob.
 
-Buckshot-n-Per de gones[**typo: Perdegones].
+Buckshot-n-<corr sic="Per de gones">Perdegones</corr>.
 
 Buckskin-n-Katad n~g tupa ó usá.
 
@@ -5101,9 +5101,7 @@ Buggy-n-Karruageng munti.
 
 Bugle-n-Corneta.
 
-Bugler-n-Ang corneta.
-[**incomplete defn--this is the same defn as for 'Bugle';
-defn s/b "Ang tumutugtog n~g corneta" (one who plays the bugle)]
+Bugler-n-<corr sic="Ang corneta">Ang tumutugtog n~g corneta</corr>.
 
 Build-v-Itayo<corr>;</corr> gumawa<corr>;</corr> gawin.
 
@@ -5138,10 +5136,7 @@ Bulletin-n-Pahayag.
 
 Bull frog-n-Palaka.
 
-Bullion-n-Ginto ó pilak na hindi pa.
-[**as it is, defn means 'gold or silver that is not yet...';
-'nadadalisay' (refined) should come after 'pa' to complete defn;
-defn borrowed from http://www.bansa.org/dictionaries/tgl/?dict_lang=tgl&type=search&data=bullion]
+Bullion-n-Ginto ó pilak na hindi pa<corr> nadadalisay</corr>.
 
 Bullock-n-Bulo.
 
@@ -5149,7 +5144,7 @@ Bulls eye-n-Gitna n~g targeta.
 
 Bully-n-Tawong hambog at masama.
 
-Bully-v-Maghambog; lumampastan~ganin[**typo: lumapastan~ganin].
+Bully-v-Maghambog; <corr sic="lumampastan~ganin">lumapastan~ganin</corr>.
 
 Bulwark-n-Maliit na kuta.
 
@@ -5161,12 +5156,12 @@ Bump-<corr sic="v">n</corr>-Umpog; untog.
 
 Bumper-n-Panumpog.
 
-Bumpkin-n-Tawong bastos;[**,] hamak ó
-ulol<corr>;</corr> tawong bukid.[**only 2 defns here]
+Bumpkin-n-Tawong bastos<corr sic=";">,</corr> hamak ó
+ulol<corr>;</corr> tawong bukid.
 
 Bumptious-a-Man~gahas.
 
-Bun [**-]Bunn-n-Pandesal.
+Bun<corr sic=" ">-</corr>Bunn-n-Pandesal.
 
 Bunch-n-Buig<corr sic="-n-">; </corr><corr sic=Kiwan>kawan</corr>.
 
@@ -5204,11 +5199,11 @@ Buoy-n-Tanda na lumutang sa ibabaw
 n~g tubig at tinuturo kung saan dapat
 magdaan ang man~ga sasakyan.
 
-Buoy-v-Palutan~gin.[**supplied missing P]
+Buoy-v-Palutan~gin.
 
 Buoyancy-n-Gaan.
 
-Buoyant[**changed from Bouyant]-a-Magaan; masaya.
+<corr sic=Bouyant>Buoyant</corr>-a-Magaan; masaya.
 
 Burden-n-Timbang<corr sic=":">;</corr> bigat<corr>;</corr> gawa; kahirapan; kapagalan.
 
@@ -5277,7 +5272,7 @@ Burst-n-Putok.
 
 Burthen-n-Bigat<corr>;</corr> hirap; kahirapan.
 
-Burthen[**changed from Busthen]-v-Bigatan; mahirapan.
+<corr sic=Busthen>Burthen</corr>-v-Bigatan; mahirapan.
 
 Bury-v-Ilibing<corr>;</corr> ibaon; humukay.
 
@@ -5289,13 +5284,13 @@ Bushel-n-Cabán.
 
 Bushy-a-Masan~ga; malago.
 
-Busily-v[**typo: adv.]-Masipag.
+Busily-<corr sic=v>adv.</corr>-Masipag.
 
 Busk-v-Iayos; ihanda.
 
 <pb n=360>
 
-Busom[**couldn't find any sources that show 'busom' as variant sp pf 'bosom']-n-Loob n~g dibdib.
+Busom-n-Loob n~g dibdib.
 
 Buss-n-Halik.
 
@@ -5364,7 +5359,7 @@ Buy-v-Bumili; mamili.
 
 Buyer-n-Ang namimili.
 
-Buzz-n-[**]Hanging; Haginit[**typo: Haging; haginit].
+Buzz-n-<corr sic="Hanging; Haginit">Haging; haginit</corr>.
 
 Buzz-v-Humaging.
 
@@ -5421,7 +5416,7 @@ Cable-n-Kable.
 
 Cable-v-Magtelegrama.
 
-Cable gram-n-Telegrama; [**]Hatid Kawad[**typo: hatid kawad].
+Cable gram-n-Telegrama; <corr sic="Hatid Kawad">hatid kawad</corr>.
 
 Caboose-n-Coche.
 
@@ -5442,7 +5437,7 @@ Caddish-a-Bastos; hamak; palalo.
 
 Caddy-n-Maliit na sisiglan n~g cha.
 
-Cadence-n-Pagkaayon n~g voces sa pagsasalita.[**fixed -*]
+Cadence-n-Pagkaayon n~g voces sa pagsasalita.
 
 Cadet-n-Ang nag aaral n~g magpuno sa
 hukbo.
@@ -5539,7 +5534,7 @@ Calligraphy-n-Sulat na mainam.
 
 Callosity-n-Kalipakan.
 
-Callous[**s/b Callus, Callous is adj]-n-Lipak.
+<corr sic=Callous>Callus</corr>-n-Lipak.
 
 Callous-<corr sic="n">a</corr>-Malipak.
 
@@ -5550,7 +5545,7 @@ mahinahon.
 
 Calm-v-Katahimikan;[**1st defn s/b deleted, this is noun; the 3rd defn 'tumahimik' is the verb form] humimpil; tumahimik;
 pahimpilin; palubayin; payapain;
-tiwasay<corr>;</corr>[**tiwasay is adj, s/b deleted or replace w/ 'itiwasay'] pumayapa.
+<corr sic=tiwasay>itiwasay</corr><corr>;</corr> pumayapa.
 
 Calmness-n-Katahimikan; kapalagayan;
 kapayapaan; kapanatagan.
@@ -5571,7 +5566,7 @@ Calumniatory-a-Falso; hindi tama; sinun~galing.
 Calumny-n-Paratang na falso; alibugha.
 
 Calve-v-Man~ganak<corr sic=";"></corr> (nauukol sa kalabaw
-ó baka[** )].
+ó baka<corr>)</corr>.
 
 Calyx-n-Man~ga dahon sa labas n~g bulaklak.
 
@@ -5596,7 +5591,7 @@ Camphor-n-Alcampor.
 
 Camphorate-v-Ilagay <corr sic="n~g">ang</corr> alcampor.
 
-Can-v-Maka[**prefix maka-]; umubra.
+Can-v-<corr sic=Maka>Maka-</corr>; umubra.
 
 Can-n-Lata.
 
@@ -5612,11 +5607,11 @@ kulay.
 
 Cancel-v-Lipulin; burahin; umayaw.
 
-Cancellation[**changed from Cancellaton]-n-Pagbura; paglipol.
+<corr sic=Cancellaton>Cancellation</corr>-n-Pagbura; paglipol.
 
 Cancer-n-Pigsa.
 
-Cancerous-a-Nauukol[**changed from aNuukol] sa pigsa.
+Cancerous-a-<corr sic=aNuukol>Nauukol</corr> sa pigsa.
 
 Cancriform-a-May hitsurang aliman~go;
 hitsurang aliman~go.
@@ -5666,7 +5661,7 @@ ang suso.
 Cannelcoal-n-Uling na maitim at matigas.
 
 Cannibal-n-Ilon~got; ang tawong kumakain
-ang[**typo: n~g] kapwa.
+<corr sic=ang>n~g</corr> kapwa.
 
 Cannibalism-n-Kasalbahian; pagkasalbahi;
 pagkakain n~g kapwang tawo.
@@ -5681,7 +5676,7 @@ Cannon ball-n-Bala n~g kanyon.
 
 Cannon shot-n-Putok n~g kanyon.
 
-Cannot-n-Walang kaya; di maka[**prefix maka-].
+Cannot-n-Walang kaya; di <corr sic=maka>maka-</corr>.
 
 Canoe-n-Bangka.
 
@@ -5704,7 +5699,7 @@ Cant-v-Kumanta; mag awit.
 Cant-n-Salita na nakakahawig sa kanta<corr>;</corr>
 labas n~g sulok.
 
-[**]Canteloup-Canteloupe[**typo: Cantaloup-Cantaloupe]-n-<corr sic="Kunting">Munting</corr> melon<!--matched scan-->.
+<corr sic=Canteloup-Canteloupe>Cantaloup-Cantaloupe</corr>-n-<corr sic="Kunting">Munting</corr> melon<!--matched scan-->.
 
 Cantata-n-Poema na may halo <corr sic=ang>n~g</corr> m~ga
 kanta.
@@ -5779,7 +5774,7 @@ Capitulation-n-Pagsuko.
 
 Capon-n-Kapon.
 
-Caprice[**changed from Cprice]-n-Ligaya<corr>;</corr> inam; pagkaibig.
+<corr sic=Cprice>Caprice</corr>-n-Ligaya<corr>;</corr> inam; pagkaibig.
 
 Capricious-<corr sic="n">a</corr>-Mainam; maligaya.
 
