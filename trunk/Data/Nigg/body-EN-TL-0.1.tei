@@ -17514,15 +17514,15 @@ Grease-v-Pahiran n~g sebo<corr sic=":">;</corr> pahiran n~g mantika.
 
 Greasy-a-Mamantika<corr sic=":">;</corr> mataba; masebo; malagkit; malibag.
 
-Great-grand child[**grandchild]-n-Apo sa tuhod.
+<corr sic="Great-grand child">Great-grandchild</corr>-n-Apo sa tuhod.
 
 Great-granddaughter-n-Apo sa tuhod. (babayi).
 
-Great-grand father[**grandfather]-n-Ama n~g nuno.
+<corr sic="Great-grand father">Great-grandfather</corr>-n-Ama n~g nuno.
 
-Great-grand mother[**grandmother]-n-Ina n~g nuno.
+<corr sic="Great-grand mother">Great-grandmother</corr>-n-Ina n~g nuno.
 
-Great-grand son[**grandson]-n-Apo sa tuhod (lalaki).
+<corr sic="Great-grand son">Great-grandson</corr>-n-Apo sa tuhod (lalaki).
 
 Grebe-n-Pilepile.
 
@@ -18865,7 +18865,7 @@ Homicide-n-Ang natay sa kapowa.
 
 Homilist-n-Pari<corr>;</corr> pastor.
 
-Hammock[**typo: Hommock (as checked vs TIA copy; also, Hammock already appears on 477.png)]-n-Gulod; pugpog.
+<corr sic=Hammock>Hommock</corr>-n-Gulod; pugpog.
 
 Hone-<corr sic="n">v</corr>-Hasaan; <corr sic="Talaran">talaran</corr>.
 
@@ -18887,7 +18887,7 @@ Honey comb-n-Kalaba.
 Honey moon-n-Panahon n~g ligaya at sarap
 n~g bagong kasal; luna de miel.
 
-Honor-n-Karan~galan<corr>;</corr> dilang[**typo: dilag;] galang; puri.
+Honor-n-Karan~galan<corr>;</corr> <corr sic=dilang>dilag;</corr> galang; puri.
 
 Honor-v-Igalang; purihin; mahalin.
 
@@ -20562,7 +20562,7 @@ magbigay alam<corr>;</corr> isumbong.
 
 Information-n-Balita<corr>;</corr> alam; bala.
 
-Informer [**-]Informant-n-Ang nagsabi; ang
+Informer<corr sic=" ">-</corr>Informant-n-Ang nagsabi; ang
 sumumbong; manunubok<corr>;</corr> manunumbong.
 
 Infraction-n-Sala; kasalanan.
@@ -21844,8 +21844,10 @@ Keep secret-v-Huag sabihin.
 
 Keg-n-Bariles na munti.
 
-Ken-n-Malaman[**v]; kilalanin[**v]; kumilala[**v];
-karunun~gan<corr>;</corr>[**n] tanawan[**v]; pagkikilala[**n].[**combo of noun &amp; verb defns; maybe separate into 2 entries]
+<!-- Separated noun and verb definitions of Ken -->
+Ken-v-Malaman; kilalanin; kumilala; tanawan.
+
+Ken-n-Karunun~gan; pagkikilala.
 
 Kennel-n-Kubo n~g aso.
 
@@ -22478,7 +22480,7 @@ Lee-n-Latak n~g alak.
 
 <corr sic="Leesh">Leech</corr>-n-Linta.
 
-Leer-[**v]-Tumin~gin n~g pabastos.
+Leer-<corr>v</corr>-Tumin~gin n~g pabastos.
 
 Leer-n-Tin~gin na bastos<corr>.</corr>
 
@@ -23067,8 +23069,11 @@ Long-a-Mahaba.
 
 <pb n=525>
 
-Long-v-Mainip; kainipan; nais.[**only 'Mainip' is the correct defn;
-the others are defn for 'Longing' (noun)]
+<!-- Split entry Long into Long and Longing -->
+
+Long-v-Mainip.
+
+Longing-n-Kainipan; nais.
 
 Longevity-n-Kahabaan n~g buhay.
 
@@ -23083,12 +23088,11 @@ Long suffering-a-Matitiisin.
 
 Long suffering-n-Pagtitiis.
 
-Long ongued[**typo: tongued]-a-Mahaba ang dila; masalita.
+Long <corr sic=ongued>tongued</corr>-a-Mahaba ang dila; masalita.
 
-Long ways[** spacing?][**typo: Longways]-adv.-Pahaba.
+<corr sic="Long ways">Longways</corr>-adv.-Pahaba.
 
-Long winded-a-Mahaba ang hinin~ga[** spacing? |M:inserted spaces present in scan]; malakas
-<corr sic="ng">ang</corr>[** n~g ? |M:no] baga.
+Long winded-a-Mahaba ang hinin~ga; malakas <corr sic="ng">ang</corr> baga.
 
 <corr sic="Long wise">Longwise</corr>-a-Pahaba<corr>.</corr>
 
@@ -23158,7 +23162,7 @@ Lost-a-Nawala; natalo; naligaw.
 
 Lot-n-Kapalaran; <corr sic=pagkataon>pagkakataon</corr>; solar; bahagi; karamihan; dami.
 
-Loth[** spelling? |M:this is ok]-a-Ayaw.
+Loth-a-Ayaw.
 
 Lotion-n-Gamot na pamahid.
 
@@ -23680,12 +23684,12 @@ Manifest-v-Ilathala; ipakita; itanyag;
 ipahayag; ipatalastas; ipakilala;
 ipasabi.
 
-Manifesto [**-]Manifestation-n-Pakita; pahayag;
+Manifesto<corr sic=" ">-</corr>Manifestation-n-Pakita; pahayag;
 <corr sic="tangyag">tanyag</corr>; alaala; pagtatalastas.
 
 Manifold-a-Marami.
 
-Manakin[**'Manakin' is correct sp, but based on alphab. order, the intended word is the variant 'Manikin']-n-Tawong pandak; unano.
+<corr sic=Manakin>Manikin</corr>-n-Tawong pandak; unano.
 
 Manipulate-v-Mamahala; ulogin.
 
@@ -23734,10 +23738,9 @@ Manufacture-n-Paggawa; gawa.
 
 Manufacture-v-Gumawa; gawa.
 
-Manufactory[**Typo corr. from Manufactury]-n-Gawaan.
+<corr sic=Manufactury>Manufactory</corr>-n-Gawaan.
 
-Manumission-n-Pagbigay n~g kalayaan sa
-alipin.
+Manumission-n-Pagbigay n~g kalayaan sa alipin.
 
 Manumit-v-Ibigay <corr sic="n~g">ang</corr> kalayaan sa alipin.
 
@@ -23938,7 +23941,7 @@ Matin-n-Dasal sa umaga.
 
 Matinee-n-Komedia sa hapon.
 
-Matress-n-Hihigan na malambot.[**matress obsolete sp. of mattress; also, entry Mattress appears some entries below]
+Matress-n-Hihigan na malambot.
 
 Matricide-n-Ang natay sa sariling ina.
 
@@ -24318,7 +24321,7 @@ Messiah-n-Jesu Cristo; Mesias.
 
 <corr sic="Mesieurs">Messieurs</corr>-n-Man~ga ginoo.
 
-Met-v-[**.]imp<corr>.</corr> &amp; p<corr>.</corr> p.-Sinalubong; sumalubong<corr>.</corr>
+Met-v<corr sic="-">. </corr>imp<corr>.</corr> &amp; p<corr>.</corr> p.-Sinalubong; sumalubong<corr>.</corr>
 
 Metal-n-Metal.
 
@@ -24491,7 +24494,7 @@ Mimicker-n-Ang bumadya; manbabadya.
 
 Mimicry-n-Badya.
 
-Miniatory[** spelling? |M: Minatory is ok, obsolete sp of Minatory; although based on alphab order, Minatory seems to be intended word]-a-Maabala.
+<corr sic=Miniatory>Minatory</corr>-a-Maabala.
 
 Mince-v-Tadtarin.
 
@@ -24587,87 +24590,85 @@ Mirthful-a-Masaya; natutuwa; malugod.
 
 Miry-a-Mabalaho; maputik.
 
-[**lots of Mis- words with spaces after the prefix on this page &amp; the next 2 pages]
-Mis adventure[** spacing?]-n-Kasalatan; sakuna.
+<!-- Spaces after 'Mis' removed in following words -->
 
-Mis apply[** spacing?]-v-Mamali sa paggamit.
+Misadventure-n-Kasalatan; sakuna.
 
-Mis application[** space?]-n-Kamalian sa paggamit.
+Misapply-v-Mamali sa paggamit.
 
-Mis [** spaces throughout 'Mis' ? |M:PPer's decision to retain spaces or not]apprehend-v-Maulinig; mamali sa
-pagdidinig<corr>.</corr>
+Misapplication-n-Kamalian sa paggamit.
 
-Mis apprehension-n-Kamalian nang pagdinig<corr>.</corr>
+Misapprehend-v-Maulinig; mamali sa pagdidinig<corr>.</corr>
 
-Mis appropriate-v-Ankinin.
+Misapprehension-n-Kamalian nang pagdinig<corr>.</corr>
 
-Mis appropriation-n-Pagaankin.
+Misappropriate-v-Ankinin.
 
-Mis behave-v-Maglikot.
+Misappropriation-n-Pagaankin.
 
-Mis behavior-n-Kaharotan<corr>;</corr> kalikutan.
+Misbehave-v-Maglikot.
 
-Mis calculate-v-Mamali sa pagbilang.
+Misbehavior-n-Kaharotan<corr>;</corr> kalikutan.
 
-Mis calculation-<corr sic="v">n</corr>-Mali <corr sic="ss">sa</corr> pagbilang.
+Miscalculate-v-Mamali sa pagbilang.
 
-Mis carriage-n-Pagkunan; agasan.
+Miscalculation-<corr sic="v">n</corr>-Mali <corr sic="ss">sa</corr> pagbilang.
 
-Mis carry-v-Makunan; maagasan.
+Miscarriage-n-Pagkunan; agasan.
+
+Miscarry-v-Makunan; maagasan.
 
 <corr sic="Misellaneous">Miscellaneous</corr>-a-Sari <corr sic="ssri">sari</corr><corr>.</corr>
 
-Mis chance-n-Sawing kapalaran.
+Mischance-n-Sawing kapalaran.
 
-Mischance[** spaced above]-v-Masawing palad.
+Mischance-v-Masawing palad.
 
-Mischief-n-Kalikutan; samá[** accent? |M:yes].
+Mischief-n-Kalikutan; samá.
 
 Mischievous-a<!--matched scan-->-Malikot.
 
 Mischievousness-n-Kalikutan<corr>.</corr>
 
-Mis conceive-v-Maulinigan.
+Misconceive-v-Maulinigan.
 
-Mis conception-n-Kaulinigan<corr>.</corr>
+Misconception-n-Kaulinigan<corr>.</corr>
 
-Mis conduct-n-Kilos na masama<corr>.</corr>
+Misconduct-n-Kilos na masama<corr>.</corr>
 
-Mis conduct-v-Mamahala n[**typo: n~g] hindi tama.
+Misconduct-v-Mamahala <corr sic=n>n~g</corr> hindi tama.
 
-Mis construct-v-Saysayin n~g hindi tama;
-mamali sa pa~gsasaysay[**typo: pagsasaysay.]
+Misconstruct-v-Saysayin n~g hindi tama; mamali sa <corr sic="pa~gsasaysay">pagsasaysay.</corr>
 
-Mis construction-n-Kamalian sa pag sasaysay.
+Misconstruction-n-Kamalian sa pag sasaysay.
 
-Mis construe-v-Mamali sa pagsasaysay.
+Misconstrue-v-Mamali sa pagsasaysay.
 
-Mis count-v-Mamali sa pagbilang.
+Miscount-v-Mamali sa pagbilang.
 
-Mis count-n-Mali sa pagbilang.
+Miscount-n-Mali sa pagbilang.
 
 Miscreant-n-Tawong masamá<corr>.</corr>
 
 Miscreant-a-Masamá; hamak; bastos<corr>.</corr>
 
-Mis date-v-Mamali sa paglalagay n~g fecha<corr>.</corr>
+Misdate-v-Mamali sa paglalagay n~g fecha<corr>.</corr>
 
-Misdate[** spaced above]-n-Mali sa paglalagay nang fecha[** hyphen missing |M:rejoined anyway].
+Misdate-n-Mali sa paglalagay nang fecha.
 
 Mis deed-n-Kilos na masama; kasalanan<corr>.</corr>
 
-Mis deamen[** spelling? |M:typo: Misdemean]-v-Kumilos na masama; magkasala[**rejoined, EOL - present in TIA copy].
+<corr sic="Mis deamen">Misdemean</corr>-v-Kumilos na masama; magkasala.
 
-Mis demeanor-n-Sala; kasalanan.
+Misdemeanor-n-Sala; kasalanan.
 
-Mis direct-v-Ituro <corr sic="n~g">ang</corr> hindi tama.
+Misdirect-v-Ituro <corr sic="n~g">ang</corr> hindi tama.
 
-Mis direction-n-Pagtuturo nang hindi
-tama.
+Misdirection-n-Pagtuturo nang hindi tama.
 
-Mis do-v-Gawin n~g hindi tama.
+Misdo-v-Gawin n~g hindi tama.
 
-Mis doer-n-Tawong may kasalanan.
+Misdoer-n-Tawong may kasalanan.
 
 Miser-n-Tawong masakim ó maramot.
 
@@ -24680,63 +24681,61 @@ kasaliwaan; karukhaan.
 
 Misfit-a-Di bagay.
 
-Mis fortune-n-Sawing kapalaran.
+Misfortune-n-Sawing kapalaran.
 
-Mis fortunate-a-Kulang palad; sawing palad[** hyphen missing |M:rejoined].
+Misfortunate-a-Kulang palad; sawing palad.
 
-Mis give-v-Magduda; mag agam agam <corr sic="na">ang</corr>
-loob.
+Misgive-v-Magduda; mag agam agam <corr sic="na">ang</corr> loob.
 
 <pb n=540>
 
-Mis giving-n-Duda<corr>;</corr> agamagam <corr sic="na">sa</corr> loob.
+Misgiving-n-Duda<corr>;</corr> agamagam <corr sic="na">sa</corr> loob.
 
-Mis gotten-a-Falso ang pagkamit.
+Misgotten-a-Falso ang pagkamit.
 
-Mis govern-v-Mamahala ó mamuno n~g
+Misgovern-v-Mamahala ó mamuno n~g
 masamá.
 
 Mis government-n-Pamamahala n~g falso
 ó <corr sic="masamn">masama</corr><corr>.</corr>
 
-Mis guidance-n-Pagturo n~g hindi tama.
+Misguidance-n-Pagturo n~g hindi tama.
 
-Mis guide-v-Ituro sa hindi tama.
+Misguide-v-Ituro sa hindi tama.
 
-Mishap-n-Kakulan~gan n~g palad; kasaliwaan[**missing EOL hyphen after kasa |M:or not picked up by scan]
-n~g kapalaran.
+Mishap-n-Kakulan~gan n~g palad; kasaliwaan n~g kapalaran.
 
-Mis inform-v-Ipatalastas ang hindi tama.
+Misinform-v-Ipatalastas ang hindi tama.
 
-Mis interpret-v-Magkamali.
+Misinterpret-v-Magkamali.
 
-Mis interpretation-n-Mali sa pagsasaysay<corr>.</corr>
+Misinterpretation-n-Mali sa pagsasaysay<corr>.</corr>
 
-Mis judge-v-Mamali; huag tamaan.
+Misjudge-v-Mamali; huag tamaan.
 
-Mis judgment-n-Mali; kamalian.
+Misjudgment-n-Mali; kamalian.
 
-Mis manage-v-Mamahala n~g masama[** accent? |M:no] ó
+Mismanage-v-Mamahala n~g masama ó
 falso.
 
-Mis management-n-Kapalsohan n~g pamamahala.
+Mismanagement-n-Kapalsohan n~g pamamahala.
 
-Mis name-v-Ibahin ang n~galan<corr>.</corr>
+Misname-v-Ibahin ang n~galan<corr>.</corr>
 
-Mis place-v-Ilagay sa hindi<!--matched scan--> karampatan
+Misplace-v-Ilagay sa hindi<!--matched scan--> karampatan
 lugar<corr>.</corr>
 
-Mis placement-n-Paglalagay sa hindi karampatang
+Misplacement-n-Paglalagay sa hindi karampatang
 lugar.
 
-Mis pronounce-v-Sabihin n~g pautal.
+Mispronounce-v-Sabihin n~g pautal.
 
-Mis pronounciation-n-Mali sa pagsabi<corr>.</corr>
+Mispronounciation-n-Mali sa pagsabi<corr>.</corr>
 
-Mis rule-v-Mamahala ó maghari n~g di
+Misrule-v-Mamahala ó maghari n~g di
 ayon sa katowiran.
 
-Mis rule-n-Kabagsikan nang pag gogobierno[** gobierno or hyphen? |M:rejoined, EOL - after gogo invisible].
+Misrule-n-Kabagsikan nang pag gogobierno.
 
 Miss-n-Dalaga; binibini.
 
@@ -24746,7 +24745,7 @@ Miss-v-<corr sic="Ilakaw">Ilaktaw</corr>; mawala; sumala.<!--matched scan-->
 
 <corr sic="Miss al">Missal</corr>-n-Libro n~g misa.
 
-Mis send-v-Mamali sa pagpadala<corr>.</corr>
+Missend-v-Mamali sa pagpadala<corr>.</corr>
 
 Misshapen-a-Masamang hitsura.
 
@@ -24756,9 +24755,9 @@ Mission-n-Bilin; dahilan.
 
 <corr sic="Mis sive">Missive</corr>-n-Sulat na maikli; bilin.
 
-Mis spend-v-<corr sic="Musawin">Lusawin</corr> ó isabog ang pagaari.
+Misspend-v-<corr sic="Musawin">Lusawin</corr> ó isabog ang pagaari.
 
-Mis statement-n-Kamalian sa pagsasaysay[** pagsasaysay ? |M:yes; matched scan].
+Misstatement-n-Kamalian sa pagsasaysay.
 
 Mist-n-Angi<corr>;</corr> ambon.
 
@@ -24774,53 +24773,52 @@ Mistate-v-Mamali sa pagsasaysay.
 
 Mister-n-Ginoo.
 
-Mis treat-v-Lumapastan~gan<corr>.</corr>
+Mistreat-v-Lumapastan~gan<corr>.</corr>
 
 Mistress-n-Babayi<corr>;</corr> kalunya.
 
-Mis trust-n-Duda.
+Mistrust-n-Duda.
 
-Mis trust-v-Magduda.
+Mistrust-v-Magduda.
 
-Mis trustful-a-May duda.
+Mistrustful-a-May duda.
 
 Misty-a-Maambon.
 
-Mis tiness[**typo: Mistiness]-n-Ambon; angi.
+Mistiness-n-Ambon; angi.
 
-Mis understand-v-Maulinigan<corr>;</corr> mamali;
+Misunderstand-v-Maulinigan<corr>;</corr> mamali;
 pagdinig.
 
 <pb n=541>
 
-Mis understanding-n-Kaulinigan; galit<corr>;</corr>
+Misunderstanding-n-Kaulinigan; galit<corr>;</corr>
 kagalitan; pagtatalo.
 
-Mis use-v-Hamakin<corr>;</corr> salbahiin.
+Misuse-v-Hamakin<corr>;</corr> salbahiin.
 
-Mis use-n-Pagpahamak.
+Misuse-n-Pagpahamak.
 
 Mite-n-Bagay na munti.
 
-Miter[** Mitre |M:Miter]-n-Gorra n~g arsobispo[** arzobispo ? |M:no].
+Miter-n-Gorra n~g arsobispo.
 
-Miter[** Mitre |M:Miter]-v-Idugtong<corr>.</corr>
+Miter-v-Idugtong<corr>.</corr>
 
-[**Transcriber's Note: typo fixed, next entry changed from "Mititage" to "Mitigate"]
-Mitigate-v-Lumambot; maawa.
+<corr sic=Mititage>Mitigate</corr>-v-Lumambot; maawa.
 
 Mitigation-n-Awa<corr>;</corr> lambot.
 
 Mix-v-Ihalo<corr>;</corr> haluin<corr>;</corr> ilahok<corr>;</corr> ibahog.
 
-Mixture-n-Kahalo<corr>;</corr> pag lahok; halo; lahok[** hyphen missing |M:faint; rejoined];
+Mixture-n-Kahalo<corr>;</corr> pag lahok; halo; lahok;
 pagkakahalo.
 
 Mizzen-a-Kahulihulihan.
 
-Mizzle[** spelling? |M:this is correct]-v-Umambon; umangi.
+Mizzle-v-Umambon; umangi.
 
-Mizzle[** spelling? |M:this is correct]-n-Ambon; angi.
+Mizzle-n-Ambon; angi.
 
 Moan-v-Humalinghing.
 
@@ -24839,7 +24837,7 @@ Americano.
 
 Mocha-n-Bayan sa Arabia.
 
-Mocha-n-Kafe[** afe? or Kafe? |M:fixed, checked vs TIA copy but typo for 'Kafeng'] nangaling sa Arabia.
+Mocha-n-<corr sic=Kafe>Kafeng</corr> nangaling sa Arabia.
 
 Mock-v-Gagarin<corr>;</corr> gumagad; badyahin.
 
@@ -24859,8 +24857,8 @@ Moderate-a-Mabait<corr>;</corr> banayad; mahinahon.
 
 Moderate-v-Husayin<corr>;</corr> baguhin.
 
-Moderation[**-n-][** not marked as a noun in the original]Kabanayaran<corr>;</corr> bait<corr>;</corr> kabaitan<corr>;</corr>
-hinahon<corr>;</corr> tining na[**typo: n~g] loob.
+Moderation<corr>-n-</corr>Kabanayaran<corr>;</corr> bait<corr>;</corr> kabaitan<corr>;</corr>
+hinahon<corr>;</corr> tining <corr sic=na>n~g</corr> loob.
 
 Modern-a-Bago; mura.
 
@@ -24878,7 +24876,7 @@ kahusayan.
 
 Mohair-n-Balahibo n~g kambing.
 
-Moiety[** spelling? |M:this is correct]-n-Ang kalahati; kagitna.
+Moiety-n-Ang kalahati; kagitna.
 
 Moist-a-Basa.
 
@@ -24888,19 +24886,19 @@ Moisture-n-Hamog.
 
 Molar-a-Nauukol sa bagang.
 
-Molar[**r not very clear in scan]-n-Bagang.
+Molar-n-Bagang.
 
 Molasses-n-Pulot; inuyat.
 
-Mold[** Mould ? |M:no, follow scan]-n-Amag.
+Mold-n-Amag.
 
-Mold[** Mould ? |M:no]-v-Umamag.
+Mold-v-Umamag.
 
-Molding[** Moulding ? |M:no]-n-<corr sic="Marko">Marka</corr>.
+Molding-n-<corr sic="Marko">Marka</corr>.
 
-Molder[** Moulder ? |M:no]-v-Maging alikabok.
+Molder-v-Maging alikabok.
 
-Moldy[** Mouldy ? |M:no]-a-Maamag.
+Moldy-a-Maamag.
 
 Mole-v-Humukay.
 
@@ -24918,7 +24916,7 @@ Molt-v-Malugas ang buhok.
 
 Molten-a-Natunaw; lusaw; tunaw.
 
-Moment-n-Dali<corr>;</corr> kisap mata[** spacing? |M:spaced]; bigat<corr>;</corr> halaga[** space? |M:this looks ok].
+Moment-n-Dali<corr>;</corr> kisap mata; bigat<corr>;</corr> halaga.
 
 Momentary-a-Hindi pirme.
 
@@ -24948,7 +24946,7 @@ Mongol-Mongolian-n-Insik<corr sic=":">;</corr> hapon.
 
 Mongolian-a-Nauukol sa Insik.
 
-Monition[** spelling - Munition ? |M:Monition is correct]-n-Pan~garal; babala.
+Monition-n-Pan~garal; babala.
 
 Monitor-n-Ang<!--matched scan--> nagtuturo.
 
@@ -25003,7 +25001,7 @@ Moor-v-Sumayad ang sasakyan.
 
 Mooring-n-Punduhan.
 
-Moorland-n-Lupang malawak[** space? |M:yes] ó mabalaho<corr>.</corr>
+Moorland-n-Lupang malawak ó mabalaho<corr>.</corr>
 
 Moory-a-Malawak; mabalaho.
 
@@ -25013,7 +25011,7 @@ Moot-n-Pan~gan~gatowiran.
 
 Mop-n-Pan~gisis.
 
-Mop-v-Magisis[**.]<!--matched scan-->
+Mop-v-Magisis<corr>.</corr><!--matched scan-->
 
 Mope-v-Magbaliw.
 
@@ -25040,7 +25038,7 @@ More-adv.-Lubhang; lalong.
 More over-adv.-Bukod pa sa ito; <corr sic="kukód">bukod</corr>;
 lampas pa rito.
 
-Morn [**-]Morning-n-Umaga.
+Morn<corr sic=" ">-</corr>Morning-n-Umaga.
 
 Morn-Morning-a-Umaga.
 
@@ -25049,7 +25047,7 @@ Morocco-n-Katad na fino.
 Morose-a-Matigas ang ulo; masun~git;
 bastos.
 
-Morphia [**-]Morphine-n-Extrcto[** Extracto] de Apian.
+Morphia<corr sic=" ">-</corr>Morphine-n-<corr sic=Extrcto>Extracto</corr> de Apian.
 
 Morrow-n-Samakalawa.
 
@@ -25065,7 +25063,7 @@ Mortgage-n-Sangla.
 
 Mortgage-v-Isangla.
 
-Morigage[** spelling? &amp; if mortage, noun (**verb actually -M) appears twice |M:yes, entry s/b deleted]-v-Isangla.
+<corr sic="Morigage-v-Isangla."></corr>
 
 Mortification-n-Hiya; kapighatian.
 
@@ -25077,7 +25075,7 @@ Mortise-v-Magrabo.
 
 Mosaic-n-Palamote.
 
-Mosaic-a-Nauukol sa[**s/b deleted] kay <corr sic="Msises">Moises</corr>.
+Mosaic-a-Nauukol <corr sic="sa "></corr>kay <corr sic="Msises">Moises</corr>.
 
 Mosquito-n-Lamok.
 
@@ -25109,7 +25107,7 @@ Mother-a-Natural; dati.
 
 <corr sic="Mother hood">Motherhood</corr>-n-Pagkaina; kalagayan ina.
 
-Mother in-law[**typo: Mother-in-law]-n-Bienang babayi.
+<corr sic="Mother in-law">Mother-in-law</corr>-n-Bienang babayi.
 
 Motherless-a-Ulila sa ina.
 
@@ -25146,7 +25144,7 @@ Mounting-n-Pagakyat.
 
 Mountain-n-Bundok.
 
-Mountain-<corr sic="n">a</corr>-Nauukol sa bundok.[** noun appears twice |M:fixed]
+Mountain-<corr sic="n">a</corr>-Nauukol sa bundok.
 
 Mountaineer-n-Tawong taga bundok.
 
@@ -25197,7 +25195,7 @@ Much-n-Karamihan.
 
 Much-a-Maraming<corr>.</corr>
 
-Mucilage-n-Pandikit[** first letter missing |M:fixed]; pagkit.
+Mucilage-n-Pandikit; pagkit.
 
 Mucilaginous-a-Pagkit; malagkit.
 
@@ -25226,9 +25224,9 @@ Mulatto-n-Mestizong negro.
 
 Mulch-n-Dayaming bulok.
 
-Mulct[** Mulch ? |M:no]-n-Multa.
+Mulct-n-Multa.
 
-Mulct[** Mulch ? |M:no]-v-Multahin; magmulta.
+Mulct-v-Multahin; magmulta.
 
 Mule-n-Mula; kabayong mula.
 
@@ -25238,7 +25236,7 @@ Mulish-a-Nauukol sa mula.
 
 Mullet-n-Bumbuan.
 
-Multiped[** Multiplied ? |M:no]-n-Hayop na marami ang paa.
+Multiped-n-Hayop na marami ang paa.
 
 Multiplication-n-Pagdadami; pagmumultiplicar;
 pagpaparami.
@@ -25320,11 +25318,11 @@ Musician-n-Musico.
 
 Musket-n-Baril.
 
-Musk-melon[** hyphen unclear |M:present]-n-Melon.
+Musk-melon-n-Melon.
 
 Muslin-n-Frenela; musilina.
 
-Musquito[** Mosquito |M:Musquito is obsolete variant]-n-Lamok.
+Musquito-n-Lamok.
 
 Muss-n-Gulo; kaguluhan.
 
@@ -25410,11 +25408,11 @@ Nailer-n-Ang mamamako.
 
 Naked-a-<corr sic="Hubat">Hubad</corr>; hubo; walang damit.
 
-Name-n-Pan~galan[**; ] n~galan.
+Name-n-Pan~galan<corr>;</corr> n~galan.
 
 Name-v-Magn~gan~galang.
 
-Nameless-[**P2 missing grammar spec][**-a]-Walang pan~galang.
+Nameless-<corr>a-</corr>Walang pan~galang.
 
 Namely-adv.-Sunodsunod.
 
@@ -25424,13 +25422,13 @@ Nap-n-Siesta<corr>;</corr> tulog sa tanghali.
 
 Nap-v-Magsiesta; matulog.
 
-Nape-n-Batong[** unclear |M:fixed; checked vs TIA copy].
+Nape-n-Batong.
 
 Napkin-n-Servilleta.
 
 Narcotic-n-Pangpatulog.
 
-Narrate-v-Magbalita; magsaysay; salaysayin[** hyphen? |M: after salay, yes, EOL; rejoined]<corr>;</corr> magsabi.
+Narrate-v-Magbalita; magsaysay; salaysayin<corr>;</corr> magsabi.
 
 Narration-n-Salaysay; balita; kuento.
 
@@ -25441,7 +25439,7 @@ Narrow-a-Makitid; makipot.
 
 Narrow-v-Kumipot; kumitid.
 
-<corr sic="Narrow">Narrowness</corr>-n-Kakiputan[**2nd a inverted in scan]; kakitiran.[** noun appears twice |M:headword s/b Narrowness]
+<corr sic="Narrow">Narrowness</corr>-n-Kakiputan; kakitiran.
 
 Nasal-a-Nauukol sa ilong; humal.
 
@@ -25455,8 +25453,7 @@ Natal-a-Nauukol sa kapan~ganakan.
 
 Nation-n-Sang katawohan; nacion.
 
-National-a-Nauukol sa sang katawohan;[**extra ;]
-ó nacion.
+National-a-Nauukol sa sang katawohan<corr sic=";"></corr> ó nacion.
 
 Nationality-n-Pagkatawo.
 
@@ -25488,8 +25485,7 @@ Nausea-n-Alibadbad; suya<corr>;</corr> kasuklaman.
 
 Nauseate-v-Masuya<corr>;</corr> suklamin.
 
-Nauseous-a-Nakaaalibadbad[** really a triple a? |M:yes]; nakasusuklam;[**P2: is this joined to next line? |M:yes, EOL - after suk not visible]
-masuklamin.
+Nauseous-a-Nakaaalibadbad; nakasusuklam; masuklamin.
 
 Nautical-a-Nauukol sa tubig.
 
@@ -25497,7 +25493,7 @@ Naval-a-Nauukol sa tubig.
 
 Nave-n-Loob n~g simbahan<corr>;</corr> maso.
 
-Navel-n-Pusod ng[**typo: n~g] katawan.
+Navel-n-Pusod <corr sic=ng>n~g</corr> katawan.
 
 Navigable-a-Makararaan ang sasakyan.
 
@@ -25509,7 +25505,7 @@ Navigator-n-Ang lumalayag<corr>.</corr>
 
 Navy-n-Man~ga sasakyang panlaban.
 
-Nay-adv.-Hindi;[** random ; ? |M:no] wala.
+Nay-adv.-Hindi; wala.
 
 Near-adv.-Malapit<corr>;</corr> kasama; kasiping.
 
@@ -25517,7 +25513,7 @@ Near-a-Kalapit; kasiping.
 
 Near-v-Lumapit.
 
-Nearly-vdv.[**typo: adv.]-Halos; kumulang sa.
+Nearly-<corr sic="vdv.">adv.</corr>-Halos; kumulang sa.
 
 Neat-a-Malinis; mainam; dalisay; marikit;
 wagas.
@@ -25528,7 +25524,7 @@ Neat-a-Nauukol sa baka.
 
 Neatness-n-Kainaman; kalinisan; karikitan.
 
-Neb[** spelling? |M:this is correct]-n-Ilong; n~guso<corr>.</corr>
+Neb-n-Ilong; n~guso<corr>.</corr>
 
 Necessary-n-Kailan~gan.
 
@@ -25544,7 +25540,7 @@ Neck lace-n-Kuintas.
 
 Neck tie-n-Corbata.
 
-Necrology-n-Pagtatanda sa man~ga nanan~gamamatay[**typo: nan~gamamatay].
+Necrology-n-Pagtatanda sa man~ga <corr sic="nanan~gamamatay">nan~gamamatay</corr>.
 
 Necromancy-n-Pagtatanda sa man~ga nan~gamamatay.
 
@@ -25572,8 +25568,7 @@ Nefarious-a-Masama; hamak; nakahihiya.
 
 Negation-n-Pagkakaila; <corr sic="tatangihan">katangihan</corr>; pagtatalikuran.
 
-Negative-a-Magkaila.[**POS s/b verb, but Negative (v) already appears below,
-so entry s/b deleted]
+<corr sic="Negative-a-Magkaila."></corr>
 
 Negative-n-Katangihan; pagkakaila.
 
@@ -25582,7 +25577,7 @@ Negative-v-Talikuran; magkaila.
 Neglect-v-Malimutin; magpabaya; pabayaan;
 mag lin~gat.
 
-Neglect-n-Kapabayaan; katamaran; paglimot[** hyphen? |M:not visible; rejoined].
+Neglect-n-Kapabayaan; katamaran; paglimot.
 
 Neglectful-a-Malilimutin<corr sic=":">;</corr> pabaya; malin~gat.
 
@@ -25604,8 +25599,7 @@ Neigh-v-Humuni ang kabayo.
 
 Neigh-n-Huni n~g kabayo.
 
-Neighbor-n-Kapit bahay; kapwa mong[** hyphen? |M:no]
-tawo.
+Neighbor-n-Kapit bahay; kapwa mong tawo.
 
 Neighbor-v-Lumapit sa.
 
@@ -25617,8 +25611,7 @@ Neither-a-Alin man ay wala.
 
 Neither-conj.-Wala.
 
-Neophyte-n-Ang bagong nagaaral; bagong[** hyphen? |M:yes,faint in scan; rejoined]
-binyagan.
+Neophyte-n-Ang bagong nagaaral; bagong binyagan.
 
 Nephew-n-Pamanking lalaki.
 
@@ -25647,7 +25640,7 @@ Net-v-Man~gitid; mamanti.
 
 Net-a-Malinis; fuera ang gastos.
 
-Nether-a-[**]Na sa[**Nasa] ilalim; sa loob.
+Nether-a-<corr sic="Na sa">Nasa</corr> ilalim; sa loob.
 
 Nether most-a-Kailaliman; kaloob looban.
 
@@ -25666,7 +25659,7 @@ Neutrality-n-Katahimikan.
 
 Neutralize-v-Tumahimik.
 
-Never-ada.[**P2 typo: adv.]-Kailan man; kahi't kailanman;
+Never-<corr sic=ada.>adv.</corr>-Kailan man; kahi't kailanman;
 kailan man ay hindi.[**see note for Kailanman, 087.png]
 
 Never the less-adv.-Datapua't.
@@ -25675,14 +25668,14 @@ New-a-Bago; sariwa.
 
 <pb n=549>
 
-News-n-Balita; m~ga[** unclear |M:looks ok] balita.
+News-n-Balita; m~ga balita.
 
 News monger-n-Ang nagtitinda n~g m~ga
 pahayagan.
 
-News paper-n-Pahayagan; diario; dahon.[** uncertain |M:entry looks ok]
+News paper-n-Pahayagan; diario; dahon.
 
-Newt-n-<corr sic="utiki">Butiki</corr>[** first letter missing? |M:yes]<corr>;</corr> tukô.[**I haven't seen ô before in this book |M: ô is ok, text uses diacriticals.]
+Newt-n-<corr sic="utiki">Butiki</corr><corr>;</corr> tukô.
 
 Next-a-Kasunod; kalapit.
 
@@ -25698,7 +25691,7 @@ Nibble-n-Munting kagat.
 
 Nice-a-Mainam<corr>;</corr> maganda; marikit; masarap.
 
-Nicety-n-Kainaman;[** Mainaman? |M:supplied missing K] karikitan; ganda.
+Nicety-n-Kainaman; karikitan; ganda.
 
 Niche-n-Sulok.
 
@@ -25706,9 +25699,9 @@ Nick-n-Bin~gaw.
 
 Nick-v-Bumin~gaw; bin~gawin.
 
-Nickel-n-Bagol<corr>;</corr> tansong puti[** letter missing?][** puri ? |M:added t, almost invisible in scan].
+Nickel-n-Bagol<corr>;</corr> tansong puti.
 
-Nick nack-n-Bagay na kakaunti ang halaga<corr>.</corr>[**typo fixed, added spaces]
+Nick nack-n-Bagay na kakaunti ang halaga<corr>.</corr>
 
 Nick name-n-Bansag; iit; pamagat.
 
@@ -25760,7 +25753,6 @@ Nineteen-n-Labingsiam.
 Nineteen-a-Labingsiam.
 
 Nineteenth-a-Ika labing siam.
-[**P2: line above and below may have spaces in wrong place, cf ninetieth vs ninety below |M:Both are ok]
 
 Nineteenth-n-Ang ikalabing siyam.
 
@@ -25778,7 +25770,7 @@ Ninth-n-Ang ikasiam.
 
 Ninthly-adv.-Sa ikasiam.
 
-Nip-v-Kumurot[** first letter missing? |M:fixed]; kurutin.
+Nip-v-Kumurot; kurutin.
 
 Nip-n-Kurot.
 
@@ -25792,7 +25784,7 @@ No-adv.-Hindi; wala.
 
 <pb n=550>
 
-Nobility-n-Kadakilaan; karan~galan<corr sic=",">;</corr> kabunyian;[**P2? join to next line? |M:yes, though EOL - after ka not visible] kabantugan; kadilagan<corr>.</corr>
+Nobility-n-Kadakilaan; karan~galan<corr sic=",">;</corr> kabunyian; kabantugan; kadilagan<corr>.</corr>
 
 Noble-a-Marilag; maran~gal; bunyi; dakila<corr>;</corr>
 bantog; bayani.
@@ -25832,7 +25824,7 @@ na pirme.
 
 Nomad-a-Malikot; hampas lupa.
 
-Nominal-a-Nauukol sa mga n~galang.[** accent? |M:no, speck; fixed]
+Nominal-a-Nauukol sa mga n~galang.
 
 Nominate-v-Ihalal; pumili.<!--matched scan-->
 
@@ -25842,14 +25834,13 @@ Nominative-a-Nauukol sa n~galan.
 
 Nonage-n- <corr sic="abataan">Kabataan</corr>.
 
-Nonagenarian-n-Tawo na may siam[** unclear |M:this is ok]
-<corr sic="no">na</corr> puong taon n~g gulang.
+Nonagenarian-n-Tawo na may siam <corr sic="no">na</corr> puong taon n~g gulang.
 
 <corr sic="Non attendance">Nonattendance</corr>-n-Kawalan.
 
 Nondescript-a-Di pa sinaysay;<!--matched scan--> di masaysay; di masabi.
 
-None-a-wala[**typo: Wala.]
+None-a-<corr sic=wala>Wala.</corr>
 
 None-pro.-Anoman ay wala; wala sino
 man.
@@ -25873,7 +25864,7 @@ Nook-n-Sulok<corr>.</corr>
 
 Noon-n-Katanghalian; tanghali.
 
-Noon-a-Tanghalian[** unclear - Kanghalian ? |M:no, 1st letter is T].
+Noon-a-Tanghalian.
 
 Noon day-n-Katanghalian.
 
@@ -25901,14 +25892,13 @@ Norman-n-Taga Norwega.
 
 Norse man-n-Taga Norwega.
 
-North-n-Hilagaan[**accent above 3rd a? |M:no].
+North-n-Hilagaan.
 
 North-a-Hilaga.
 
 North-v-Magpunta ó ipadala sa hilagaan.
 
-Norther[** Northern? |M:no]-n-Han~gin nangaling sa hilagaan;
-balas.
+Norther-n-Han~gin nangaling sa hilagaan; balas.
 
 Northerly-a-Hilagaan.
 
@@ -25920,7 +25910,7 @@ Northerly-adv<corr>.</corr>-Sa gawing hilaga.
 
 Northern most-a-Malayo sa hilagaan.
 
-<corr sic="North ward">Northward</corr>[**-]Northwards-adv.-Sa gawing
+<corr sic="North ward">Northward</corr><corr sic=" ">-</corr>Northwards-adv.-Sa gawing
 hilaga; patun~go sa hilagaan.
 
 Northeast-n-Habagat.
@@ -25977,9 +25967,9 @@ Notoriety-n-Kabalitaan; kabantugan.
 
 Notorious-a-Mabalita; bunyi.
 
-Not witb[**typo: with] standing-adv.-Datapua't; n~gnni't[**typo: n~guni't].
+<corr sic="Not witb[**typo: with] standing">Notwithstanding</corr>-adv.-Datapua't; <corr sic="n~gnni't">n~guni't</corr>.
 
-Not withs tanding[** spacing |M: spacing inconsistent in text, but 'Not with standing' looks more logical spacing]-prep.-Datapua,t[**different '! |M:this is ok]; n~guni't<corr>.</corr>
+<corr sic="Not withs tanding">Notwithstanding</corr>-prep.-Datapua,t; n~guni't<corr>.</corr>
 
 Nought-n-Walang ano man.
 
@@ -26005,12 +25995,11 @@ Novice-n-Ang bagong nagaaral.
 
 Now-adv.-N~gayon.
 
-Now a days-abv.[**typo: adv.]-Sa panahon n~gayon.
+Now a days-<corr sic=abv.>adv.</corr>-Sa panahon n~gayon.
 
-Now-and-then[**-adv.-][** no part of speech] Maminsan minsan.
+Now-and-then<corr sic=" ">-adv.-</corr>Maminsan minsan.
 
-Noway-Noways-adv.-Sa anomang paraan
-ay hindi.
+Noway-Noways-adv.-Sa anomang paraan ay hindi.
 
 No where-ad.-Kahit saan.
 
@@ -26030,10 +26019,9 @@ Nudge-v-Maniko<corr>;</corr> tulakin n~g siko.
 
 Nudity-n-Kahubuan; kahubaran.
 
-Nugatory[**Negatory ? |M:no]-a-Walang halaga<corr sic=";"></corr> ó kabuluhan<corr>.</corr>
+Nugatory-a-Walang halaga<corr sic=";"></corr> ó kabuluhan<corr>.</corr>
 
-Nugget-n-Butil<corr>;</corr> tingkal; pirasong metal[**(EOL) hyphen? |M:yes; rejoined]
- na mahal.
+Nugget-n-Butil<corr>;</corr> tingkal; pirasong metal na mahal.
 
 Nuisance-n-Kinasusuklaman.
 
@@ -26043,11 +26031,11 @@ Nullification-n-Kawalan nang kabuluhan.
 
 Nullify-v-Pawalan n~g kabuluhan.
 
-Numb-a-Namamahid[**tyo: Namamanhid].
+Numb-a-<corr sic=Namamahid>Namamanhid</corr>.
 
-Numb-v-Mamamahid[**typo: Mamanhid.]
+Numb-v-<corr sic=Mamamahid>Mamanhid.</corr>
 
-Number-n-Bilang<corr>;</corr> número[**looks like ú here, but just u further down? |M:stet ú, text inconsistent w/ accents]<corr>.</corr>
+Number-n-Bilang<corr>;</corr> número<corr>.</corr>
 
 Number-v-Bumilang<corr>;</corr> bilan~gin.
 
@@ -26063,21 +26051,20 @@ Numerally-adv.-Ayon sa bilang.
 
 Numerate-v-Bumilang; bilan~gin.
 
-Numeration-n-[**]Pagbil <corr sic="ng">Pagbilang</corr><corr>;</corr> kabilan~gan.
+Numeration-n-<corr sic="Pagbil ng">Pagbilang</corr><corr>;</corr> kabilan~gan.
 
 Numerator-n-Taga bilang.
 
-Numeric [**-]Numerical-a-Nauukol sa bilang<corr>.</corr>
+Numeric<corr sic=" ">-</corr>Numerical-a-Nauukol sa bilang<corr>.</corr>
 
 Numerous-a-Marami<corr>;</corr> makapal.
 
-Num skull[** Numbskull ? |M:no]-n-Ulol; tawong hindi marunong;
+Num skull-n-Ulol; tawong hindi marunong;
 tawong mapurol ang isip.
 
 Nun-n-Monja.
 
-Nuncupative-Nuncupatory[** spelling? |M:this is ok]-a-Di nakasulat;
-sinabi lamang<corr>.</corr>
+Nuncupative-Nuncupatory-a-Di nakasulat; sinabi lamang<corr>.</corr>
 
 Nunnery-n-Bahay n~g m~ga monja.
 
@@ -26089,17 +26076,17 @@ Nurse-n-Magsisiwa; taga iwi n~g bata.
 
 Nurse-v-Mag iwi.
 
-Nurseling[** spelling? |M:this is correct]-n-Bata; sangol.
+Nurseling-n-Bata; sangol.
 
 Nurture-n-Pagsisiwa; pagiiwi; pagtuturo.
 
-Nurture-v-Magiwi; magturo[** 'r' inverted or 'u' ? |M:inverted 'r'].
+Nurture-v-Magiwi; magturo.
 
 Nut-n-Bito.
 
 Nut-v-Magbito.
 
-Nutant[** spelling? |M:this is valid obsolete word]-a-Nakayuko.
+Nutant-a-Nakayuko.
 
 Nut meg-n-Anis<corr>;</corr> mascada.
 
@@ -26162,10 +26149,10 @@ Obituary-a-Nauukol sa nan~gamatay.
 Object-n-Patun~go; dahilan; pakay; pinagusapan;
 salitaan.
 
-Object-v-Lumaban; umayaw; isalangsang;[**fixed -*]
+Object-v-Lumaban; umayaw; isalangsang;
 salun~gatin; huag pumayag.
 
-Objection-n-Salangsan~gan; pintas; kaayawan.[**fixed -*]
+Objection-n-Salangsan~gan; pintas; kaayawan.
 
 Objectionable-a-May pintas.
 
@@ -26177,23 +26164,23 @@ Oblation-n-Alay.
 
 Obligate-v-Pilitin; pumilit.
 
-Obligation-n-Katungkulan.[**missing/unclear letter K? |M:fixed, K faint]
+Obligation-n-Katungkulan.
 
 Obligatory-a-Kailan~gan.
 
 Oblige-v-Pilitin; pigipitin.
 
-Obliging[**added missing i]-a-Masunurin; mahinhin.
+Obliging-a-Masunurin; mahinhin.
 
 Oblique-a-Mahalang; hiwas.
 
-Oblique[**added missing l]-v-Ipahalang; ihapay.
+Oblique-v-Ipahalang; ihapay.
 
-Obliquity-n-Pagkahapay;[**missing letter |M:P partly visible in scan] hiwas.
+Obliquity-n-Pagkahapay; hiwas.
 
 Obliterate-v-Lipulin; burahin; gibain.
 
-Obliteration-n-Pagbura; kaburahan; kalipulan.[**fixed -*]
+Obliteration-n-Pagbura; kaburahan; kalipulan.
 
 Oblivion-n-Kadiliman; pagkalimot.
 
@@ -26205,7 +26192,7 @@ Obloquy-n-Alibugha; alipusta.
 
 Obnoxious-a-Makayayamot.
 
-Obovate[** spelling? |M:this is correct]-a-Hitsurang itlog.
+Obovate-a-Hitsurang itlog.
 
 Obscene-a-Malibog; mahalay; marumi.
 
@@ -26243,7 +26230,7 @@ Observing-a-Mapagmasid.
 
 Obsolete-a-Lipas; nakaraan; laon.
 
-Obstacle-n-Abala; kaabalahan; kapinsalan[**typo: kapinsalaan;]
+Obstacle-n-Abala; kaabalahan; <corr sic=kapinsalan>kapinsalaan;</corr>
 kahirapan; hirap.
 
 Obstinate-a-Sowail; matigas ang ulo;
@@ -26282,7 +26269,7 @@ Occasion-n-Dahilan; panahon.
 
 Occasional-a-Maminsanminsan<corr>.</corr>
 
-Occident-n-Kalunuran<corr sic=",">;</corr>[** K ? |M:supplied missing K] pag lubog.
+Occident-n-Kalunuran<corr sic=",">;</corr> pag lubog.
 
 Occidental-a-Gawing kalunuran.
 
@@ -26360,8 +26347,7 @@ Offal-n-Laman sa loob.
 Offend-v-Magkasala; pagalitin; yamutin;
 manampalasan.
 
-Offense-n-Sala; kasalanan<corr>;</corr> alipusta; kapaslan~gan<corr>;</corr>[**P2 joined to next line? |M:yes]
-katampalasanan.
+Offense-n-Sala; kasalanan<corr>;</corr> alipusta; kapaslan~gan<corr>;</corr> katampalasanan.
 
 Offensive-a-Hamak; masama; maalipusta<corr>.</corr>
 
@@ -26396,11 +26382,11 @@ Offish-a-Maulol<corr>;</corr> loco.
 
 Off set-a-Matimban~gin; tumapat.
 
-Offspring-n-Lahi; man~ga anak at inapo[**rejoined, - after na not visible].
+Offspring-n-Lahi; man~ga anak at inapo.
 
-Oft-Often-avd.[**typo: adv.]-Madalas; towitowi na.
+Oft-Often-<corr sic=avd.>adv.</corr>-Madalas; towitowi na.
 
-Often times [** -]<corr sic="Of">Oft</corr> times-adv.-Madalas.
+Often times<corr sic=" ">-</corr><corr sic="Of">Oft</corr> times-adv.-Madalas.
 
 <corr sic=Oglle resp=e>Ogle</corr>-v-Magmasdan; magmata.
 
@@ -26415,11 +26401,8 @@ Oil cloth-n-Tapete.
 Oily-a-Malan~gis.
 
 Ointment-<corr sic="n">v</corr>-Ibuhos ang lan~gis sa ulo.
-[**defn is phrased as a verb,
-but I couldn't verify whether use of 'ointment' as verb is valid]
 
-Old-a-Matanda; laon; luma; magulang[**P2? magulang |M:yes];
-ubanin; dati.
+Old-a-Matanda; laon; luma; magulang; ubanin; dati.
 
 Olden-a-Dating; matandang.
 
@@ -26429,7 +26412,7 @@ Oldish-a-Matanda n~g kaunti.
 
 <corr sic="Oid">Old</corr> maid-n-Dalagang matanda.
 
-Olcaster[** spelling? out-of-sequence][**typo: Oleaster]-n-Puno n~g olivas.
+<corr sic=Olcaster>Oleaster</corr>-n-Puno n~g olivas.
 
 Olfactory-a-Nauukol sa amoy.
 
@@ -26450,7 +26433,7 @@ ligtaan<corr>.</corr>
 
 <corr sic="Ommission">Omission</corr>-n-Laktaw<corr>;</corr> kalimutan.
 
-Omnipotence-n-Kapangyarihan; kakapalan.[** hyphen? |M:yes, faint in scan; rejoined]
+Omnipotence-n-Kapangyarihan; kakapalan.
 
 Omnipotent-a-Makapal; makapangyayari;
 maalam n~g lahat.
@@ -26462,7 +26445,7 @@ man~ga bagay.
 
 On-prep<corr>.</corr>-Sa; sa ibabaw.
 
-Once-adv.-Minsan. At-once.[**subentry headword]-[** punctuation? |M:this is ok]N~gayon din.
+Once-adv.-Minsan. At-once.-N~gayon din.
 
 One-n-Isa.
 
@@ -26470,7 +26453,7 @@ One-a-Isang.
 
 Oneness-n-Kaisahan.
 
-One by one-n[**typo: adv.]-Isaisa; isa,t,isa[**typo: isa,t, isa].
+One by one-<corr sic=n>adv.</corr>-Isaisa; <corr sic="isa,t,isa">isa,t, isa</corr>.
 
 Onerous-a-Sowail; mabigat; matigas ang
 ulo.
@@ -26479,7 +26462,7 @@ Onion-n-Cebuyas.
 
 Only-a-Bugtong.
 
-Only-adv.-Lamang[**supplied L].
+Only-adv.-Lamang.
 
 Onset-n-Pagmula; babag.
 
@@ -26503,9 +26486,9 @@ Opaque-a-Madilim<corr>;</corr> di maaninag.
 
 Opaqueness-n-Kalabuan; kadiliman.
 
-Ope[** spelling? |M:this is ok]-a-Bukas.
+Ope-a-Bukas.
 
-Ope[** spelling? |M:this is ok]-v-Buksan; bumukas.
+Ope-v-Buksan; bumukas.
 
 Open-v-Bukas; maliwanag; maluang; watak;
 hayag; maaliwalas.
@@ -26564,12 +26547,11 @@ Oppression-n-Paginis; kahirapan.
 
 Oppressive-a-Maban~gis; napakahirap.
 
-Optative[** spelling? |M:this is correct]-a-Nauukol sa nais ó sa pita.
+Optative-a-Nauukol sa nais ó sa pita.
 
 Optic-n-Mata.
 
-Optic [** -]Optical-a-Nauukol sa tin~gin ó sa
-mata.
+Optic<corr sic=" ">-</corr>Optical-a-Nauukol sa tin~gin ó sa mata.
 
 Optimist-n-Mangagamot n~g mata.
 
@@ -26608,7 +26590,7 @@ Orbit-n-Lakad n~g isang planeta.
 
 Orchard-n-Halamanan.
 
-Orchestra-n-Orkesta[**typo?: Orkestra |M:no, stet Orkesta].
+Orchestra-n-Orkesta.
 
 Ordain-v-Iayos; ayusin; itatag; ilagay sa
 katungkulan.
@@ -26645,7 +26627,7 @@ Organ-n-Harmonica.
 
 <pb n=558>
 
-Organic [** -]Organical-a-Nauukol sa harmonica.
+Organic<corr sic=" ">-</corr>Organical-a-Nauukol sa harmonica.
 
 Organist-n-Taga tugtog sa harmonica.
 
@@ -26656,7 +26638,7 @@ Organization-n-Pagtatayo; pagpundar.
 
 Orient-n-Silan~ganan.
 
-Orient [** -]Oriental-a-Nauukol sa silan~ganan[** space? |M:defn looks ok].
+Orient<corr sic=" ">-</corr>Oriental-a-Nauukol sa silan~ganan.
 
 Oriental-n-Taga silan~ganan.
 
@@ -26678,7 +26660,7 @@ Originally-adv.-Sa dati.
 
 Originality-n-Datihan; kaunahan.
 
-Orison[** spelling? |M:this is correct]-n-Orasion.
+Orison-n-Orasion.
 
 Ornament-n-Gayak; sangkap; pamuti;
 biyaya<corr>;</corr> hiyas.
@@ -26709,7 +26691,7 @@ Ossify-v-Maging buto.
 
 Ostent-n-Hitsura; bikas; pakita.
 
-Otensible[**typo:Ostensible]-a-Maliwanag.
+<corr sic=Otensible>Ostensible</corr>-a-Maliwanag.
 
 Ostentation-n-Kahambugan; <corr sic="pakpapakita">pagpapakita</corr>.
 
@@ -26717,7 +26699,7 @@ Ostentatious-a-Hambog.
 
 Ostler-n-Ang nagalaga sa kabayo.
 
-Ostracea[** spelling? |M:this is correct]-n-Talaan.
+Ostracea-n-Talaan.
 
 Ostracize-v-Huag isama sa kapwang
 tawo.
@@ -26740,7 +26722,7 @@ Ounce-n-Onza.
 
 Our-pro.-Amin; atin; namin; natin.
 
-Ours-[** random hyphen in scan? |M:no]pro.-Namin; natin.
+Ours-pro.-Namin; natin.
 
 Our self-pro.-Sarili namin; amin sarili;
 sarili natin; ating sarili.
@@ -26757,7 +26739,7 @@ Out bid-v-<corr sic="Tawirin">Tawarin</corr> n~g mataas sa iba.
 
 Out break-n-Pagalsa; alsa.
 
-Out building-n-Bahay ó kamalig na nakabubukod[**rejoined, - after 'na' invisible].
+Out building-n-Bahay ó kamalig na nakabubukod.
 
 Out cast-n-Tawong di makikisama sa
 iba.
@@ -26771,13 +26753,13 @@ Out cry-n-Tunang; sigaw n~g marami.
 
 Out door-a-Nauukol sa labas nang bayan.
 
-Out doors-vpv.[**typo: adv.]-Sa labas n~g bahay.
+Out doors-<corr sic=vpv.>adv.</corr>-Sa labas n~g bahay.
 
 Outer-a-Labas.
 
 Outer most-a-Kalayolayoan.
 
-Out fit-n-Man~ga kasamaan.[**actual definition is 'Man~ga kasuotan']
+Out fit-n-Man~ga <corr sic=kasamaan>kasuotan</corr>.
 
 Out go-v-Pumaroon sa ibabaw; lumayo.
 
@@ -26791,13 +26773,13 @@ Out house-n-Bahay na nakabukod.
 
 Out landish-a-Katakataka.
 
-Out las[**typo: last]-v-Tumagal sa iba.
+Out <corr sic=las>last</corr>-v-Tumagal sa iba.
 
 Out law-<corr sic="u">n</corr>-Taga labas; tulisan.
 
 Out lawry-n-Pagkatulisan.
 
-Out lay-[**n][**P2 missing specifier]-Gastos<corr>;</corr> gugol.
+Out lay-<corr>n</corr>-Gastos<corr>;</corr> gugol.
 
 Out let-n-Labasan.
 
@@ -26845,7 +26827,7 @@ Out vie-v-Humigit; mamukod.
 Out walk-v-Lumakad nang matulin sa
 iba.
 
-Outward-Out wards[**typo: Outwards]-adv.-Sa gawing labas.
+Outward-<corr sic="Out wards">Outwards</corr>-adv.-Sa gawing labas.
 
 Out wear-v-Tumagal sa iba.
 
@@ -26909,7 +26891,7 @@ Over hear-v-Marinig<corr>;</corr> duminig.
 
 Over joy-n-Kasayahan.
 
-Over land-avd.[**typo: adv.]-Sa lupa ang daan.
+Over land-<corr sic=avd.>adv.</corr>-Sa lupa ang daan.
 
 Over look-v-Laktawin; ilaktaw; malimutin.
 
@@ -27029,8 +27011,7 @@ Paddy-n-Pitak.
 
 Padlock-n-Seradura.
 
-Padlock-v-Ilagay <corr sic="n~g">ang</corr> <corr sic="saradura">seradura</corr>; [**]susuhin<!--matched scan-->
-n~g[**typo: susihin ang] seradura.
+Padlock-v-Ilagay <corr sic="n~g">ang</corr> <corr sic="saradura">seradura</corr>; <corr sic="susuhin n~g">susihin ang</corr> seradura.
 
 Padrone-n-Patron.
 
@@ -27043,7 +27024,7 @@ Paganish-a-Parang hindi binyagan.
 
 Paganism-n-Kalagayang hindi binyagan<!--matched scan-->.
 
-Page-n-Mukha n~g dahon; [**]pag ina[**typo: pagina]; alila.
+Page-n-Mukha n~g dahon; <corr sic="pag ina">pagina</corr>; alila.
 
 Page-v-Bilan~gin ang dahon.
 
@@ -27068,7 +27049,7 @@ Pains-n-In~gat; kain~gatan.
 
 Pains taker-n-Tawong main~gat.
 
-Pains takipg[**typo: taking][**P2 n]-n-Pag in~gat.
+<corr sic="Pains takipg">Painstaking</corr>-n-Pag in~gat.
 
 Pains taking-a-Main~gat.
 
@@ -27126,7 +27107,7 @@ dahilan.
 
 Pallid-a-Maputla; mamutla.
 
-Pallidness[**missing i supplied]-Pallidity-n-Kaputlaan.
+Pallidness-Pallidity-n-Kaputlaan.
 
 Pallor-n-<corr sic="Pagkaputia">Pagkaputla</corr>; kaputlaan.
 
@@ -27144,7 +27125,7 @@ Palpable-a-Makararamdam sa hipo.
 
 Palpitate-v-Tumibok; kumutog; kumaba.
 
-Palpitation-n-Tibok<corr>;</corr> kutog[*;] kaba.
+Palpitation-n-Tibok<corr>;</corr> kutog<corr>;</corr> kaba.
 
 Palsy-n-Sakit na pasma.
 
@@ -27296,7 +27277,7 @@ Parlor-n-Silid na tinatawag ang loob.
 
 <pb n=564>
 
-Parochial-a-Nauukol sa paroquia; makitid[**2 words? |M:no];
+Parochial-a-Nauukol sa paroquia; makitid;
 makipot<corr>;</corr> may hanga.
 
 Parol-n-Salita n~g bibig.
@@ -27308,7 +27289,7 @@ Parole-<corr sic="v">n</corr>-Pan~gako.
 Parole-v-Patawarin; han~guin<corr>;</corr> iligtas;
 ibigay<!--matched scan--> <corr sic="n~g">ang</corr> kalayaan.
 
-Parricide-n-Ang natay sa sariling ama-*ó[**- s/b space]
+Parricide-n-Ang natay sa sariling <corr sic="ama-ó">ama ó</corr>
 ina.
 
 Parrot-n-Loro.
@@ -27333,7 +27314,7 @@ Partake-v-Sumali; kumain; kumuha.
 Partial-a-Di buo; mabahagi; mahilig<corr>;</corr> may
 tinitignan.
 
-Partiality-n-Kahiligan; kabilin~gan[**typo: kahilin~gan].
+Partiality-n-Kahiligan; <corr sic="kabilin~gan">kahilin~gan</corr>.
 
 Participate-v-Sumali.
 
@@ -27361,8 +27342,7 @@ Parturition-n-Pan~gan~ganak.
 
 Party-n-Samahan; katipunan; kapisanan.
 
-Party-colored-Parti[**-]colored-a-Sarisari
-ang kulay.
+Party-colored-Parti<corr sic=" ">-</corr>colored-a-Sarisari ang kulay.
 
 Parvenu-n-Tawong hambog ó palalo.
 
@@ -27388,7 +27368,7 @@ Passing-n-<corr sic="Padaan">Pagdaan</corr>.
 
 Passing-a-Makaraan.
 
-Passion-[**n-]Galit; pagkakagalit; kagalitan;
+Passion-<corr>n-</corr>Galit; pagkakagalit; kagalitan;
 tanim <corr sic="na">sa</corr> loob.
 
 Passion-n-Pasion.
@@ -27419,7 +27399,7 @@ Pastor-n-Pastor; pari.
 
 Pastoral-a-Nauukol sa pastor.
 
-Pastorate [** -]Pastorship-n-Kalagayang pastor.
+Pastorate<corr sic=" ">-</corr>Pastorship-n-Kalagayang pastor.
 
 Pastry-n-Man~ga mamon.
 
@@ -27501,7 +27481,7 @@ Patroness-n-<corr sic="Kabaying">Babaying</corr> kasuki.
 
 Patronize-v-Sumuki; magkasuki.
 
-Patten[** spelling? |M:this is correct]-n-Bakia.
+Patten-n-Bakia.
 
 Patter-v-Pumatak.
 
@@ -27542,7 +27522,7 @@ Pawn-v-Isangla.
 Pawnbroker-n-Ang mayari n~g bahay na
 sanglaan<corr>.</corr>
 
-Pay-n-Upa; bayad; kaupahan; ikababayad[**rejoined, faint - after ikaba].
+Pay-n-Upa; bayad; kaupahan; ikababayad.
 
 Pay-v-Bayaran; magbayad; umupa;
 upahan.
@@ -27565,7 +27545,7 @@ payapa.
 Peaceful-a-Tahimik<corr>;</corr> mabini; mahinahon;
 walang basagulo; payapa.
 
-Peach-n-Melocotones[** Melocoton as singular? |M:Melocotones is ok].
+Peach-n-Melocotones.
 
 Peach-v-Bintan~gin; paratan~gin.
 
@@ -27577,15 +27557,15 @@ Peal-v-Tugtugin n~g malakas.
 
 Peanut-n-Muni.
 
-Pear-n-Peras[** plural ? |M:Altho plural in Spanish, peras is singular in Tagalog].
+Pear-n-Peras.
 
-Pearl-n-Perlas[** plural? |M:singular in Tagalog].
+Pearl-n-Perlas.
 
 Pearly-a-Parang perlas.
 
 Peasant-n-Taga <corr sic="buked">bukid</corr>; tawong mahirap.
 
-Pease[** Peas ? |M:Pease is ok, obsolete word; also, there's already a Pea entry above]-n-Guisante.
+Pease-n-Guisante.
 
 Pebble-n-Batong munti.
 
@@ -27627,7 +27607,7 @@ Pedestrianism-n-Paglalakad.
 
 Pedigree-n-Hinlog; lahi.
 
-Peek-v-Sumilip.[** unclear |M:looks ok]
+Peek-v-Sumilip.
 
 <pb n=567>
 
@@ -27655,7 +27635,7 @@ Peg-n-Pakong kahoy.
 
 Peg-v-Ipako.
 
-Pelf[** spelling? |M:this is correct]-n<!--matched scan-->-Salapi<corr>;</corr> kayamanan.
+Pelf-n<!--matched scan-->-Salapi<corr>;</corr> kayamanan.
 
 Pell-n-Balat.
 
@@ -27677,7 +27657,7 @@ Pelvic-a-<corr sic="Naaukol">Nauukol</corr> sa buto n~g bayawang.
 
 Pen-n-Kulun~gan.
 
-Pen-v-uKulun~gin[**typo: Kulun~gin;] kumulong.
+Pen-v-<corr sic="uKulun~gin">Kulun~gin;</corr> kumulong.
 
 Pen-n-<corr sic="luma">Pluma</corr>.
 
@@ -27687,7 +27667,7 @@ Penalty-n-Parusa.
 
 <corr sic="P nance">Penance</corr>-n-Katiisan.
 
-Pence-n-Dalawang kuarta; [**]isan g[**typo: isang] malapad.
+Pence-n-Dalawang kuarta; <corr sic="isan g">isang</corr> malapad.
 
 Pencil-n-Lapis.
 
@@ -27725,18 +27705,18 @@ Penmanship-n-Sulat kamay.
 
 <corr sic=Penant resp=e>Pennant</corr>-n-Bandera.
 
-Pennate [** -]Pennated-a-May pakpak.
+Pennate<corr sic=" ">-</corr>Pennated-a-May pakpak.
 
 Penniless-a-Mahirap; salat; walang
 kuarta.
 
-Pennon[** spelling? |M:this is correct]-n-Bandila; pakpak.
+Pennon-n-Bandila; pakpak.
 
 Pensile-a-Nakasabit; nakabitin.
 
 Pensive-a-Palaisipin; mapag wari; malungkot.
 
-Pent-v-[**.]imp<corr>.</corr> &amp; p<corr>.</corr> p.-Nakakulong.
+Pent-v<corr sic="-">. </corr>imp<corr>.</corr> &amp; p<corr>.</corr> p.-Nakakulong.
 
 Pentateuch-n-Ang m~ga utos ni Moises.
 
@@ -27830,7 +27810,7 @@ kasukaban.
 
 Perforate-v-Butasin<corr>;</corr> turukin; balibulin.
 
-Perforation-n-Pagbutas[** ;] pagkabutas butas.
+Perforation-n-Pagbutas<corr>;</corr> pagkabutas butas.
 
 Perforce-adv.-Sa kakailan~gan; sa lakas.
 
@@ -27841,7 +27821,7 @@ Performance-n-Kilos<corr>;</corr> teatro; acto.
 
 Perfume-n-Paban~go.
 
-Perfume-v-Paban~gohin; ilagay <corr sic="n~g">ang</corr> paban~go.[**paban~go one word as below? |M:yes]
+Perfume-v-Paban~gohin; ilagay <corr sic="n~g">ang</corr> paban~go.
 
 Perfumery-n-Paban~go.
 
@@ -27876,7 +27856,7 @@ huag tumupad sa ipinanumpa.
 Perjury-n-Kasinun~galin~gan.
 
 Permanence-Permanency-n-Pananatili;
-pamamaraty[**typo: pamamarati;] katibayan; pagkalagi.
+<corr sic=pamamaraty>pamamarati;</corr> katibayan; pagkalagi.
 
 Permanent-a-Lagi; matibay.
 
@@ -27898,7 +27878,7 @@ Permutation-n-Kapalitan; pagpalit.
 
 Permute-v-Ipamalit; palitan; pumalit.
 
-Pernicious-a-Masama; makasasama[** ;] makasisira<corr>;</corr>
+Pernicious-a-Masama; makasasama<corr>;</corr> makasisira<corr>;</corr>
 makamamatay.
 
 Perpendicular-a-Patayo; tirik; nakatayo.
@@ -27934,9 +27914,9 @@ Persecution-n-Kahirapan; dowahagi.
 Perseverance-n-Katiyagaan<corr sic=",">;</corr> kalakasan
 n~g loob; katibayan n~g loob.
 
-Persevere-v-Pilitin; magtagal<corr>;</corr> tumagal.[** |M:entry looks ok]
+Persevere-v-Pilitin; magtagal<corr>;</corr> tumagal.
 
-Persist-v-Ipaglaon; lumagi; pilitin; pumilit[** |M:looks ok].
+Persist-v-Ipaglaon; lumagi; pilitin; pumilit.
 
 Persistence-Persistency-n-Kapilitan; katiyagaan;<!--matched scan-->
 pagpilit.
@@ -27959,7 +27939,7 @@ Personify-<corr sic="n">v</corr>-Gagarin ang kapwa.
 
 Perspective-a-Nauukol sa plano.
 
-Perspective-n-T-n~gin[**typo: Tin~gin]; plano.
+Perspective-n-<corr sic="T-n~gin">Tin~gin</corr>; plano.
 
 Perspire-v-Pumawis.
 
@@ -27999,7 +27979,7 @@ masama.
 
 Perverseness-n-Katigasan n~g ulo; pagkabalintuna.
 
-Perversity-n-Katigasan[** |M:looks ok] n~g ulo; pagkabalintuna.
+Perversity-n-Katigasan n~g ulo; pagkabalintuna.
 
 Pervert-v-Iakay sa masama; pasamain.
 
@@ -28070,14 +28050,14 @@ Phase-n-Hitsura.
 
 Phial-n-Boteng munti.
 
-[**]Philantrophic-Philantropical[**typo: Philanthrophic-Philanthropical]-a-Mabuti ó
+<corr sic="Philantrophic-Philantropical">Philanthrophic-Philanthropical</corr>-a-Mabuti ó
 magandang loob
 
 <corr sic="Philantropy">Philanthropy</corr>-n-Kagandahan n~g loob.
 
 Philter-n-Gayuma.
 
-Phiz[**Fizz? |M:Phiz is an obsolete word]-n-Mukha
+Phiz-n-Mukha
 
 Phlegm-n-Kalagra.
 
@@ -28085,13 +28065,11 @@ Phlegmatic-a-Makalagra.
 
 Phonetic-a-Nauukol sa voces.
 
-Phonetics-n-Karunun~gan tungkol sa
-mañga[**typo: man~ga] tunog.
+Phonetics-n-Karunun~gan tungkol sa <corr sic="mañga">man~ga</corr> tunog.
 
 Phonic-a-Nauukol sa tunog.
 
-Phonics-n-Karunun~gan tungkol sa mañga[**typo: man~ga]
-tunog.
+Phonics-n-Karunun~gan tungkol sa <corr sic="mañga">man~ga</corr> tunog.
 
 Phonographic-a-Nauukol sa fonografo.
 
@@ -28109,7 +28087,7 @@ n~g retrato.
 Phrenology-n-Karunun~gan tungkol sa
 utak n~g ulo.
 
-Phrensy[**Frenzy? |M:Phrensy is obsolete variant sp]-n-Kaululan.
+Phrensy-n-Kaululan.
 
 Phthisic-n-Tisis.
 
@@ -28129,7 +28107,7 @@ Physics-n-Karunun~gan tungkol sa fisica.
 
 Physiognomy-n-Hitsura; mukha.
 
-[**]Piano-Pianofortr[**Errata: Piano, Pianoforte]-n-Piano.
+<corr sic=Piano-Pianofortr resp=e>Piano, Pianoforte</corr>-n-Piano.
 
 Pianist-n-Pianista.
 
@@ -28139,7 +28117,7 @@ Pick-v-Pumulot; tukain; gayatin.
 
 Pick-n-Tuka; piko.
 
-Pick [**-]ax-Pick-axe-n-Piko.
+Pick<corr sic=" ">-</corr>ax-Pick-axe-n-Piko.
 
 Picket-n-<corr sic="Tuugkol">Tungkod</corr> na matulis.
 
@@ -28187,7 +28165,7 @@ Piggish-a-Matakaw.
 
 Pig headed-a-Matigas ang ulo.
 
-Pigment-n-Tina[**unsure of first letter |M:T].
+Pigment-n-Tina.
 
 Pigmy-n-Tawong pandak; unano.
 
@@ -28217,7 +28195,7 @@ Pillow-n-Unan.
 
 Pillow-v-Mahiga sa unan.
 
-Pillow[**P2 obvious typo Plliow changed] case-n-Punda n~g unan<corr>.</corr>
+<corr sic=Plliow>Pillow</corr> case-n-Punda n~g unan<corr>.</corr>
 
 Pilot-n-Ang umugit sa sasakyan.
 
@@ -28237,11 +28215,11 @@ Pinch-v-Kurutin; kumurot.
 
 Pinch-n-Kurot.
 
-Pinch bek[**typo: beck]-a-Hindi totoo<corr sic=":">;</corr> sinun~galing.
+Pinch <corr sic=bek>beck</corr>-a-Hindi totoo<corr sic=":">;</corr> sinun~galing.
 
 Pinchers-n-Sipit; panipit.
 
-Pincushion-n-Lalagian[**typo: Lalagyan (checked vs TIA copy)] n~g aspili.
+Pincushion-n-<corr sic=Lalagian>Lalagyan</corr> n~g aspili.
 
 Pine-v-Lumungkot; manimdim.
 
@@ -28249,7 +28227,7 @@ Pine-n-Pina.
 
 Pineapple-n-Piña.
 
-Pinery[** spelling? |M:this is correct]-n-Gubat n~g pina.
+Pinery-n-Gubat n~g pina.
 
 <corr sic="Pinon">Pinion</corr>-n-Balahibo; pakpak; pangapos
 n~g baraso<corr>.</corr>
@@ -28301,7 +28279,7 @@ Piratical-a-Nauukol sa tulisang dagat.
 
 Piscatorial-a-Nauukol sa isda.
 
-Piscivorous[** spelling? |M:this is correct]-a-Kumakain n~g isda.
+Piscivorous-a-Kumakain n~g isda.
 
 Pistol-n-<corr sic="Revolber">Rebolber</corr>; pistola.
 
@@ -28317,7 +28295,7 @@ Pitch-dark-a-Madilim na madilim.
 
 Pitcher-n-Pitchel.
 
-Pitch fork-n-Panghakot[** missing capital |M:supplied P] n~g damung tuyo.
+Pitch fork-n-Panghakot n~g damung tuyo.
 
 Pitchy-a-May halong alketran.
 
@@ -28348,7 +28326,7 @@ Placard-v-Ipahayag<corr>.</corr>
 
 Place-n-Lugar; daan.
 
-Place-v-Ilagay sa lugar<corr>;</corr> lagyan<corr>;</corr> lumagay[** hyphen missing, rejoined];
+Place-v-Ilagay sa lugar<corr>;</corr> lagyan<corr>;</corr> lumagay;
 ayosin; maglagay<corr>.</corr>
 
 Placid-a-Maamong loob<corr>;</corr> tahimik; walang
@@ -28404,25 +28382,25 @@ Plantation-n-Lupang sinasaka.
 
 Planter-n-Manananim.
 
-Plash[** Plush? |M:no]-n-Labak<corr>;</corr> tilansik.
+Plash-n-Labak<corr>;</corr> tilansik.
 
-Plash[** spelling? |M:This is correct]-v-Tumilansik ang tubig.
+Plash-v-Tumilansik ang tubig.
 
-Plashy[** spelling? |M:This is correct]-a-Malabak.
+Plashy-a-Malabak.
 
 Plaster-n-Halo n~g apog at buhan~gin.
 
 Plaster-v-Pahiran n~g apog.
 
-Plat[** Plait? |M:no]-n-Humabi<corr>.</corr>
+Plat-n-Humabi<corr>.</corr>
 
-Plat[** spelling? |M:this is correct]-n-Habi; kapirasong lupa.
+Plat-n-Habi; kapirasong lupa.
 
 Plate-n-Pingan; pirasong metal.
 
 Plateau-n-Lupang mataas at patag.
 
-Plat form[** added missing 'o']-n-Tablado<corr>;</corr> plataforma.
+<corr sic="Plat form">Platform</corr>-n-Tablado<corr>;</corr> plataforma.
 
 Platoon-n-Pulutong n~g sundalo.
 
@@ -28430,7 +28408,7 @@ Platter-n-Bandejada.
 
 Plaudit-<corr sic="v">n</corr>-Pagpuri.
 
-Plaudit-v-Purihin[** note verb appears twice |M:one is actually noun;fixed].
+Plaudit-v-Purihin.
 
 Plausible-a-Bagay<corr>;</corr> dapat purihin.
 
@@ -28473,20 +28451,20 @@ Pleat-v-Suriin.
 
 <corr sic="Plebian">Plebeian</corr>-a-Hamak; mababa; karaniwan<corr sic="-">.</corr>
 
-<corr sic="Plebian">Plebeian</corr>-n-Tawong hamak; tawong karaniwan[**P2 possibly joined to next line |M: rejoined, faint EOL - after ka].
+<corr sic="Plebian">Plebeian</corr>-n-Tawong hamak; tawong karaniwan.
 
 Pled-v. imp. &amp; p. p.-Namagitan; namanhikluhod;
 dumaing.
 
 Pledge-n-Sanla.
 
-Pledge[** removed random space]-v-Isangla<corr>.</corr>
+Pledge-v-Isangla<corr>.</corr>
 
-Plenary-a-Puno<corr>;</corr> lubos[** unclear |M:looks ok].
+Plenary-a-Puno<corr>;</corr> lubos.
 
 Plentitude-n-Kasaganaan<corr>;</corr> karamihan.
 
-Plenteous [** -]Plentiful-a-Masagana; marami.
+Plenteous<corr sic=" ">-</corr>Plentiful-a-Masagana; marami.
 
 Plenty-n-Karamihan; kasaganaan.
 
@@ -28527,7 +28505,7 @@ Plow-n-Araro; kasangkapan panlinang.
 
 Plow-v-Ararohin; magararo; maglinang.
 
-Plowboy,[**-] Plowman-n-Ang nagaararo.
+Plowboy<corr sic=", ">-</corr>Plowman-n-Ang nagaararo.
 
 Plowshare-n-Sudsod.
 
@@ -28559,7 +28537,7 @@ Plump-a-Mabilog<corr>;</corr> mataba; may katawan.
 
 Plump-v-Lumaki; tumaba.
 
-Plump-avd.[**typo: adv.]-N~gayon din; pagdaka.
+Plump-<corr sic=avd.>adv.</corr>-N~gayon din; pagdaka.
 
 Plunder-n-Ang pagumit; ang inumit; umit.
 
@@ -28595,7 +28573,7 @@ Poach-<corr sic="n">v</corr>-Prituhin sa tubig; umitin; magnakaw.
 
 Pock-n-Bulutong.
 
-Pock hole,[**-] Pock mark-n-Bulutong.
+Pock hole<corr sic=", ">*-</corr>Pock mark-n-Bulutong.
 
 Pocket-n-Bulsa.
 
@@ -28619,7 +28597,7 @@ Poet-n-Manunula.
 
 Poetess-n-Babaying manunula.
 
-Poetic [** -]Poetical-a-Nauukol sa tula.
+Poetic<corr sic=" ">-</corr>Poetical-a-Nauukol sa tula.
 
 Poetry-n-Verso; tula.
 
@@ -28672,8 +28650,7 @@ Police man-n-Policía<corr>.</corr>
 
 Policy-n-Billete sa loteria.
 
-Polish-v-Bulihin<corr>;</corr> pakinisin<corr>;</corr> pakintabin;
-kíntabin[** accent? |M:yes].
+Polish-v-Bulihin<corr>;</corr> pakinisin<corr>;</corr> pakintabin; kíntabin.
 
 Polish-n-Kinang<corr>;</corr> kintab<corr>;</corr> buli.
 
@@ -28688,16 +28665,16 @@ Political-a-Político.
 
 Politician-n-Ang marunong mag gobierno.
 
-Politics-n-Karunun~gan tungkol sa paggogobierno.[**fixed -*]
+Politics-n-Karunun~gan tungkol sa paggogobierno.
 
-Polity[** Policy? |M:no]-n-Pag gogobierno.
+Polity-n-Pag gogobierno.
 
 Polka-n-Polka.
 
 Poll-n-Padron<corr>;</corr> listahan n~g lahat n~g tawo
 sa isang lugar.
 
-[**]Pool-n[**typo: Poll-v]-Ilista ang lahat n~g tawo sa isang
+<corr sic="Pool-n">Poll-v</corr>-Ilista ang lahat n~g tawo sa isang
 lugar.
 
 Pollute-v-Dumhan; pan~gitin; sirain.
@@ -28782,7 +28759,7 @@ Population-n-Man~ga tawo sa isang lugar.
 
 Populous-a-Matawo.
 
-Porch-n-Sibi.[**var. of Sibe]
+Porch-n-Sibi.
 
 Porcine-a<!--matched scan-->-Nauukol sa baboy.
 
@@ -28840,7 +28817,7 @@ Portray-v-Gumawa nang larawan; saysayin.
 
 Portrayal-n-Pagsasaysay.
 
-Portress[** spelling? |M:this is correct]-n-Babaying utusan.
+Portress-n-Babaying utusan.
 
 Pose-v-Ayusin; ilagay sa lugar.
 
@@ -28886,7 +28863,7 @@ Posteriors-n-Bayawang n~g hayop.
 
 Posterity-n-Inapo; lahi; kanunuan.
 
-Postern-n-Pintuan sa likuran nang bahay[** hyphen missing, rejoined].
+Postern-n-Pintuan sa likuran nang bahay.
 
 Post haste-n-Kadalian.
 
@@ -28921,7 +28898,7 @@ Potash-n-Sosa.
 
 Potato-n-Papas.
 
-Potency-n-Kadakilaan[**uncertain |M:looks ok]; karilagan; kapangyarihan;
+Potency-n-Kadakilaan; karilagan; kapangyarihan;
 kayamanan.
 
 Potent-a-Mayaman; dakila; makapangyayari;
@@ -28931,7 +28908,7 @@ Potentate-n-Hari; ang makapangyayari.
 
 Potential-a-Nauukol sa kapangyarihan.
 
-Pother[** spelling? |M:this is correct]-n-Gulo; kaguluhan.
+Pother-n-Gulo; kaguluhan.
 
 <pb n=579>
 
@@ -28955,7 +28932,7 @@ Poultry-n-Man~ga manok.
 
 Pounce-n-Pulvo; kuko n~g ibon.
 
-Ponce[** Pounce]-v-Hulihin.
+<corr sic=Ponce>Pounce</corr>-v-Hulihin.
 
 Pound-n-Libra.
 
@@ -28990,13 +28967,13 @@ Practicable-a-Madaling gumawa<corr>;</corr> ginhawa.
 
 Practical-a-Mangyari; madaling gumawa.
 
-Practice-n-Kasanayan; paggamit; sanay[**EOL hyphen after sa missing].
+Practice-n-Kasanayan; paggamit; sanay.
 
 Practice-v-Magsanay;<!--matched scan--> gamitin.
 
 Prairie-n-Lupang malaki at patag.
 
-Praise-n-Pagpuri; pagmamahal[** pagmamahal ? |M:yes].
+Praise-n-Pagpuri; pagmamahal.
 
 Praise-v-Purihin; <corr sic="Mahalin">mahalin</corr>.
 
@@ -29014,9 +28991,9 @@ Prate-v-Magsalita n~g walang kabuluhan.
 
 Prate-n-Salita na walang kabuluhan.
 
-Prattle-n-Salita na walang kabuluhan[** unclear |M:looks ok].
+Prattle-n-Salita na walang kabuluhan.
 
-Prattle-v-Magsalita<!--matched scan--> [**na] parang bata.
+Prattle-v-Magsalita<!--matched scan--> <corr>na </corr>parang bata.
 
 Pray-v-Magdasal<corr>;</corr> lumuhog.
 
@@ -29048,8 +29025,7 @@ Precede-v-Mauna; umuna.
 
 Precedence-n-Kaunahan.
 
-Precedent-n-Ang sinundan; halimbawa;
-[**p1 unsure of t |M:t]tularan<corr>.</corr>
+Precedent-n-Ang sinundan; halimbawa; tularan<corr>.</corr>
 
 Precept-n-Utos; talunton.
 
@@ -29135,11 +29111,11 @@ Pregnancy-n-Kabuntisan.
 
 Pregnant-a-Buntis.
 
-Prehension-n-Pagkuha[**P1 unsure if b or h |M:h]<corr>;</corr> pagdampot.
+Prehension-n-Pagkuha<corr>;</corr> pagdampot.
 
-Prejudge-v-Hatulan nang hindi pa inusisa[** hyphen missing, rejoined].
+Prejudge-v-Hatulan nang hindi pa inusisa.
 
-Prejudgment-n-Paghatol n~g hindi pa-*inuusisa[** hyphen? |M:yes but typo for 'pa inuusisa'].
+Prejudgment-n-Paghatol n~g hindi <corr sic=pa-inuusisa>pa inuusisa</corr>.
 
 Prejudicial-a-Makasisira<corr>.</corr>
 
@@ -29156,7 +29132,7 @@ muna.
 
 Premeditation-n-Banta; wari.
 
-Premier-a-Uunang[**typo: Unang;] mabuti; magaling<corr>.</corr>
+Premier-a-<corr sic=Uunang>Unang;</corr> mabuti; magaling<corr>.</corr>
 
 Premium-n-Ganti; ganting palad; pabuya;
 ganting loob.
@@ -29172,8 +29148,7 @@ Preparatory-a-Nakagayak.
 
 Prepay-v-Magbayad muna.
 
-Prepayment-n-Pagbabayad n~g hindi pa[** hyphen? |M:no]
-yari.
+Prepayment-n-Pagbabayad n~g hindi pa yari.
 
 Preponderate-v-Bumigat sa iba.
 
@@ -29219,9 +29194,9 @@ President-n-Presidente.
 
 Presidential-a-Nauukol sa presidente.
 
-Presidentship-n-[** missing capital |M:fixed, K faint]Katung kulang[**typo: Katungkulang] presidente.
+Presidentship-n-<corr sic="Katung kulang">Katungkulang</corr> presidente.
 
-Press-v-Hapitin; higpitan<corr>;</corr> ipitin; pilitin.[** hyphen? |M:rejoined, - not visible]
+Press-v-Hapitin; higpitan<corr>;</corr> ipitin; pilitin.
 
 Press-n-Hapitan.
 
@@ -29232,7 +29207,7 @@ Pressure-n-Hapit; kadalian; kakailan~gan.
 Presume-v-Sumapantaha; magsapantaha.
 
 Presumption-n-Sapantaha; hinala; bintang;
-kabambugan[**typo: kahambugan;] kahan~ginan.
+<corr sic=kabambugan>kahambugan;</corr> kahan~ginan.
 
 Presumptive-a-Marahil.
 
@@ -29244,7 +29219,7 @@ Presupposition-n-Haka.
 
 Pretend-v-Magkonowari; magbalobalo.
 
-Pretense [** -]Pretence-n-Dahilan<corr>;</corr> pagkokonowari;
+Pretense<corr sic=" ">-</corr>Pretence-n-Dahilan<corr>;</corr> pagkokonowari;
 sapantaha.
 
 Pretension-n-Dahilan<corr>;</corr> katowiran.
@@ -29253,7 +29228,7 @@ Pretentious-a-Hambog<corr>;</corr> mayabang.
 
 Preterit-a-Nakaraan; nangyari na.
 
-Pretermit[** spelling? |M:This is correct]-v-Laktawin; maiwan.
+Pretermit-v-Laktawin; maiwan.
 
 <pb n=582>
 
@@ -29276,7 +29251,7 @@ Prevarication-n-Kasinun~galin~gan.
 
 Prevaricator-n-Tawong sinun~galing.
 
-Prevent-v-[**]Sowain abalahi[**typo: Sowayin; abalahin]; pigilin.
+Prevent-v-<corr sic="Sowain abalahi">Sowayin; abalahin</corr>; pigilin.
 
 Prevention-n-Pagpigil; abala.
 
@@ -29315,7 +29290,7 @@ Priest-n-Pari.
 
 Prig-n-Tawong man~gahas.
 
-Prig-v-Umitim[**typo: Umitin;] umumit.
+Prig-v-<corr sic="Umitim">Umitin;</corr> umumit.
 
 <corr sic="Prigish">Priggish</corr>-a-Hambog; palalo; mayabang.
 
@@ -29323,7 +29298,7 @@ Prim-a-Ayos<corr>;</corr> husay; mahusay.
 
 Primary-a-Primero<corr>;</corr> naunang.
 
-Primate-n-Arzobispo.[** no entry for primate as in mammal? |M:yes; nothing wrong with that]
+Primate-n-Arzobispo.
 
 Prime-a<!--matched scan-->-Unang<corr>;</corr> mainam.
 
@@ -29338,9 +29313,9 @@ Prince-n-Principe<corr>;</corr> anak n~g hari.
 
 Princess-n-Princessa; anak n~g hari.
 
-Princely-a-Parang principe; dakilangdakila.[**fixed -*]
+Princely-a-Parang principe; dakilangdakila.
 
-Principal-a-Unang; totoong<corr>;</corr> tunay; maginoo[** hyphen missing, rejoined].
+Principal-a-Unang; totoong<corr>;</corr> tunay; maginoo.
 
 Principal-n-Puno.
 
@@ -29388,8 +29363,7 @@ lihim<corr>;</corr> hindi hayag.
 
 Prize-n-Ganting palad; <corr sic="pabuha">pabuya</corr>.
 
-[**Transcriber's Note: typo fixed, following item changed from "prike" to "prize"]
-Prize-v-Halagahan.
+<corr sic=prike>Prize</corr>-v-Halagahan.
 
 Probable-adv.-Marahil.
 
@@ -29447,8 +29421,7 @@ Prodigal-n-Tawong burara.
 
 Prodigality-n-Pagkaburara.
 
-Prodigious-a-Malaki na totoo; lubhang;[**extra ;]
-malaki.
+Prodigious-a-Malaki na totoo; lubhang<corr sic=";"></corr> malaki.
 
 Produce-v-Gumawa; gawin; kathain;
 magkaroon; mamun~ga.
@@ -29484,7 +29457,7 @@ Proffer-v-Iabot; ialok; ialay.
 
 Proffer-n-Alok; balak.
 
-Proficiency-n-Kasanayan; luta; karunun~gan[** hyphen? |M:not visible, but rejoined].
+Proficiency-n-Kasanayan; luta; karunun~gan.
 
 Proficient-a-Marunong<corr>;</corr> sanay<corr>.</corr>
 
@@ -29494,7 +29467,7 @@ Profile-n-Larawan; retrato.
 
 Profit-n-Pakinabang; tubo.
 
-Profit-v-Tumubo; pakinaban~gtn[**typo: pakinaban~gan]; makinabang<corr>.</corr>
+Profit-v-Tumubo; <corr sic="pakinaban~gtn">pakinaban~gan</corr>; makinabang<corr>.</corr>
 
 Profitable-a-May pakinabang; matubo;
 bagay<corr>;</corr> akma; pakinaban~gan; mabuti.
@@ -29514,7 +29487,7 @@ Profundity-n-Kalaliman; lalim.
 
 Profuse-a-Sagana; marami.
 
-Profuseness [** -]Profusion-n-Kasaganaan;
+Profuseness<corr sic=" ">-</corr>Profusion-n-Kasaganaan;
 karamihan.
 
 Progenitor-n-Nuno; kanunuan.
@@ -29533,7 +29506,7 @@ Progress-n-Pagbuti; pagsulong; kagalin~gan.
 
 Progression-n-Pagsulong; galing.
 
-Progressive-[**]n-Magpasulong[**typo: a-Mapagsulong]; mabubuti.
+Progressive-<corr sic=n>a</corr>-<corr sic=Magpasulong>Mapagsulong</corr>; mabubuti.
 
 Prohibit-v-Magbawal; ipagbawal<corr>;</corr><!--matched scan--> sowayin.
 
@@ -29552,7 +29525,7 @@ Prolific-a-Mamun~ga.
 Prolix-a-Matagal; malaon; maluat; bagal;
 mabagal.
 
-Prolixity [** -]Prolixness-n-Katagalan; kaluatan;
+Prolixity<corr sic=" ">-</corr>Prolixness-n-Katagalan; kaluatan;
 kabagalan.
 
 Prolocutor-n-Taga<!--matched scan--> pamagitan.
@@ -29575,7 +29548,7 @@ bantog; bunyi.
 Promiscuous-a-Walang ayos; halohalo<corr>;</corr>
 hindi mahusay.
 
-Promise-n-pan~gako[**typo: Pan~gako;] tipan; salitaan.
+Promise-n-<corr sic="pan~gako">Pan~gako;</corr> tipan; salitaan.
 
 Promise-v-Man~gan~gako; ipan~gako.
 
@@ -29585,14 +29558,14 @@ Promontory-n-Lupang mataas at makitid.
 
 Promote-v-Ipataas; umabuloy.
 
-Promotion-n-Pagpataas[** unclear |M:looks ok]<corr>;</corr> abuloy.
+Promotion-n-Pagpataas<corr>;</corr> abuloy.
 
 Prompt-a-Maliksi; matulin; masipag;
 nakagayak<corr>;</corr> nakahanda.
 
 Prompt-v-Ibuho<corr>;</corr> isurot sa isip.
 
-<corr sic=Premptitude resp=e>Promptitude</corr>[**-]Promptness-n-Kaliksihan;
+<corr sic=Premptitude resp=e>Promptitude</corr><corr sic=" ">-</corr>Promptness-n-Kaliksihan;
 katulinan; kasipagan<corr>.</corr>
 
 Prone-a-Nadapa; nakadapa<corr>.</corr>
@@ -29605,7 +29578,7 @@ Pronoun-n-Pronombre.
 
 Pronounce-v-Wikain; <corr sic="Magsabi">magsabi</corr>; sabihin.
 
-Pronunciamento[** spelling - this is spanish |M:it's ok]-n-Pahayag; paunawa.
+Pronunciamento-n-Pahayag; paunawa.
 
 Pronunciation-n-Kasaysayan; pagsasalaysay.
 
@@ -29629,7 +29602,7 @@ Property-n-Lupa; ari; kayamanan.
 
 Prophecy-n-Hula.
 
-Prophesy[** Prophecy above |M:Prophesy is correct when verb]-v-Humula; hulaan.
+Prophesy-v-Humula; hulaan.
 
 Prophet-n-Manghuhula; mago.
 
@@ -29659,9 +29632,7 @@ Propound-v-Ialok; magsaysay.
 
 Proprietor-n-Ang mayari.
 
-Proprietress-n-<corr sic="Aang">Ang</corr> may ari babayi.[**babayi is prob meant
-to be enclosed in parens (babayi) &amp; italicized based on defns of
-other male-female noun pairs]
+Proprietress-n-<corr sic="Aang">Ang</corr> may ari <corr>(</corr><hi>babayi</hi><corr>)</corr>.
 
 <corr sic="Prepriety">Propriety</corr>-n-Kahusayan; kaayusan; ayos<corr>.</corr>
 
@@ -29678,8 +29649,7 @@ Prose-n-Karaniwang sulat.
 
 Prosecute-v-Ihabla.
 
-Prosecution-n-Paghabla; Bagong[** bagong] binyagan.[**2nd defn is
-out of place; delete]
+Prosecution-n-Paghabla<corr sic="; bagong binyagan"</corr>.
 
 Prosecutor-n-Ang naghahabla.
 
@@ -29712,9 +29682,9 @@ Prostrate-v-Ihiga; itihaya; baliktarin.
 Prostration-n-Pagtitihaya; kalungkutan;
 <corr sic="kopanglawan">kapanglawan</corr>.
 
-Protasis-n-Patnugot[** ;] punong aral.
+Protasis-n-Patnugot<corr>;</corr> punong aral.
 
-Protect-v-Ikalong; kupkopin[** ;] tulun~gin;
+Protect-v-Ikalong; kupkopin<corr>;</corr> tulun~gin;
 <corr sic="tumanhilik">tumankilik</corr>; ipaglaban; bantayin; ipagsangalang;
 magtangol.
 
@@ -29744,7 +29714,7 @@ tumagal.
 
 Protracted-<corr sic="n">a</corr>-Maluat; matagal.
 
-Protraction-n-Luat; haba; kahabaan; kaluatan[** ;]
+Protraction-n-Luat; haba; kahabaan; kaluatan<corr>;</corr>
 tagal.
 
 Protrude-v-Sumipot; lumitaw; ilabas.
@@ -29757,22 +29727,22 @@ Protuberate-v-Mamaga; bumukol.
 
 Protuberation-n-Pamamaga; bukol.
 
-Proud-a-Palalo; hambog[** ;] mayabang.
+Proud-a-Palalo; hambog<corr>;</corr> mayabang.
 
 Prove-v-Damahin; siyasatin; ibigay ang
 katotohanan.
 
 Provender-n-Pagkain n~g hayop.
 
-Proverb-<corr sic="v">n</corr>-Talinhaga; halimbawa; kasahihan[**typo: kasabihan;]
+Proverb-<corr sic="v">n</corr>-Talinhaga; halimbawa; <corr sic=kasahihan>kasabihan;</corr>
 kawikaan; kamkaan; patnugot.
 
 Proverbial-a-Nauukol sa talinhaga.
 
-Provide-v-Ibigay ang kailan~gan; tumulong[** ;]
+Provide-v-Ibigay ang kailan~gan; tumulong<corr>;</corr>
 bigyan n~g kailan~gan.
 
-Provided-conj[**,]-Kung sakali.
+Provided-conj<corr>.</corr>-Kung sakali.
 
 Providence-n-Gayak; handog; handa.
 
@@ -29792,7 +29762,7 @@ Provisional-a-Hangang hindi; interino.
 
 Proviso-n-Condition; salitaan.
 
-Provocation-n-Dahilan<corr>;</corr> katowiran<corr>;</corr> sul-sol[**typo: sulsol].
+Provocation-n-Dahilan<corr>;</corr> katowiran<corr>;</corr> <corr sic=sul-sol>sulsol</corr>.
 
 <pb n=587>
 
@@ -29811,13 +29781,13 @@ Proximity-n-Kalapitan; pagkasundo.
 
 Proximo-n-Ang buang darating.
 
-Prudence-n-Kabaitan[** ;] bait; dunong; karunun~gan;[**invisible - after ka, rejoined]
-tuto; hinahon; kabanayaran[** ;]
+Prudence-n-Kabaitan<corr>;</corr> bait; dunong; karunun~gan;
+tuto; hinahon; kabanayaran<corr>;</corr>
 tumpak; taros; katalinuhan.
 
-Prudent-a-Mahinahon; mabait; marunong[**P2: joined to next line?][** invisible dash, rejoined];
+Prudent-a-Mahinahon; mabait; marunong;
 matumpak; maalam; bihasa;
-matalino; main~gat; tahimik; himanhiman[**fixed -*].
+matalino; main~gat; tahimik; himanhiman.
 
 Prudential-a-Marunong<corr>;</corr> nangaling sa karunun~gan;
 mabait.
@@ -29825,7 +29795,7 @@ mabait.
 Prune-v-Putlin ang man~ga san~ga nang
 kahoy.
 
-Pry-v-Madiwaras[**typo: Madiwara;] usisain[** ;] mag usisa; magdiwara[** ;]
+Pry-v-<corr sic=Madiwaras>Madiwara;</corr> usisain<corr>;</corr> mag usisa; magdiwara<corr>;</corr>
 itaas.
 
 Pry-n-Panghuit; kadiwaraan.
@@ -29833,9 +29803,9 @@ Pry-n-Panghuit; kadiwaraan.
 Prying-a-Madiwara.
 
 Psalm-n-Salmo; kantang nauukol sa
-P. D.[**meaning 'Pan~ginoon Dios']
+<abbr expand="Pan~ginoon Dios">P. D.</corr>
 
-Psalmist-n-Ang sumulat<!--matched scan--> n~g m~ga kantang[**EOL - after 'kan' not visible, but rejoined]
+Psalmist-n-Ang sumulat<!--matched scan--> n~g m~ga kantang
 nauukol sa P. Dios.
 
 Pseudonym-n-N~galan na hindi totoo.
@@ -29844,7 +29814,7 @@ Pshaw-inter.-Oroy; ba.
 
 Psyche-n-Kaluluwa; isip.
 
-Psychic [**-]Psychical-a-Nauukol sa kaluluwa.
+Psychic<corr sic=" ">-</corr>Psychical-a-Nauukol sa kaluluwa.
 
 Public-a-Alam n~g madla; hayag; karaniwan.
 
@@ -29859,12 +29829,12 @@ hotel.
 Publication-n-Pag limbag; tawag sa
 madla.
 
-Publish-v-Ipahayag; ipalastas[**typo: ipatalastas;] ilathala;
+Publish-v-Ipahayag; <corr sic=ipalastas>ipatalastas;</corr> ilathala;
 ikalat.
 
 Pucker-n-N~guso.
 
-Pucker-v-N~gumnso[**typo: N~gumuso].
+Pucker-v-<corr sic="N~gumnso">N~gumuso</corr>.
 
 Puddle-n-Labak.
 
@@ -29886,7 +29856,7 @@ Pugilism-n-Suntukan.
 
 <corr sic="Pugnaceous">Pugnacious</corr>-a-Mapagbasagulo.
 
-Pugnose-n-Ilong [**na] masapad.
+Pugnose-n-Ilong <corr>na </corr>masapad.
 
 Pule-v-Sumiap.
 
@@ -29970,7 +29940,7 @@ Pur-v-Sumiap.
 
 Pur-n-Siap.
 
-Pur blind-a-Balan~gaw.[**defn doesn't fit, s/b 'Bulag']
+Pur blind-a-<corr sic="Balan~gaw">Bulag</corr>.
 
 Purchase-v-Bumili<corr>;</corr> mamili.
 
@@ -30045,7 +30015,7 @@ Purulent-a-May nana.
 
 Purvey-v-Ialok; maglako<corr>;</corr> magtinda.
 
-Purview-n-Katawan n~g isang larawan[**typo: utos (utos is statute; larawan is statue)]<corr>;</corr>
+Purview-n-Katawan n~g isang <corr sic=larawan>utos</corr><corr>;</corr>
 kapangyarihan.
 
 Pus-n-Nana; kabulukan n~g sugat.
@@ -30060,7 +30030,7 @@ Pusillanimity-n-Karuagan.
 
 <corr sic="Pnsillanimous">Pusillanimous</corr>-a-Duag<corr>;</corr> dun~go.
 
-Puss [** -]Pussy-n-Pusa; kuting.
+Puss<corr sic=" ">-</corr>Pussy-n-Pusa; kuting.
 
 Pustule-n-Butlig.
 
@@ -30074,13 +30044,13 @@ Putative-a-Nabalita.
 
 Put off-v-Ilayo.
 
-Put out [**whether-v-or-a-not visible |M:-v-]Ilabas<corr>;</corr>[** could be 'Habas' ? |M:no] palabasin.
+Put out-v-Ilabas<corr>;</corr> palabasin.
 
 Putrefy-v-Bumulok<corr>;</corr> mabulok.
 
 Putrid-a-Bulok<corr>;</corr> mabulok.
 
-Putridity [** -]Putridness-n-Kabulukan.
+Putridity<corr sic=" ">-</corr>Putridness-n-Kabulukan.
 
 Puzzle-n-Basagulo; bugtong.
 
@@ -30095,7 +30065,7 @@ Pyjama-n-Carsoncillos.
 Pyriform-a-Hitsurang peras.
 
 Pyrotechnics-n-Paggawa at paggamit
-ang[**typo: n~g] kuetes.
+<corr sic="ang">n~g</corr> kuetes.
 
 Python-n-Sawa.
 
@@ -30172,7 +30142,7 @@ Qualify-v-Umabot sa grado.
 
 Quality-n-Kalidad.
 
-Qualm-n-Kahinaan; agam agam na[**typo: n~g] loob<corr>.</corr>
+Qualm-n-Kahinaan; agam agam <corr sic=na>n~g</corr> loob<corr>.</corr>
 
 Qualmish-a-Masakit ang sikmura.
 
@@ -30188,7 +30158,7 @@ Quarrel-n-Basagulo; talo<corr>;</corr> usap.
 Quarrel-v-Mag basagulo; makipagtalo;
 mag usap.
 
-Quarrelsome-a-Mapag basagulo; palaaway.[** hyphen (after palaa)? |M:yes, rejoined]
+Quarrelsome-a-Mapag basagulo; palaaway.
 
 Quarry-n-Pinaghukayan n~g bato.
 
@@ -30213,7 +30183,7 @@ Quaver-n-Inig; ningning.
 
 Quay-n-Muella.
 
-Quean[** spelling? |M:this is correct]-n-Babayi; batang babayi.
+Quean-n-Babayi; batang babayi.
 
 Queasy-a-Masakit ang sikmura<corr>;</corr> makilitiin.
 
@@ -30251,7 +30221,7 @@ Question-n-Tanong.
 
 Question-v-Magtanong<corr>;</corr><!--matched scan--> itanong.
 
-Questionable-a-Falso; hindi totoong[**no ; in scan] malinis
+Questionable-a-Falso; hindi totoong malinis
 ó mahusay.
 
 Questionless-a-Malinis; totoo; tunay; dalisay;
@@ -30269,9 +30239,9 @@ Quick-adv.-Madali.
 
 Quicken-v-Tumulin; magmadali.
 
-Quick lime[**spacing looks like two words]-n-Apog.
+Quick lime-n-Apog.
 
-Quick silver[**-n-][**not marked as n.[or anything else:P3]]; Azogue.
+Quick silver<corr sic="; ">-n-</corr>Azogue.
 
 Quid-n-Pirasong mascada.
 
@@ -30287,7 +30257,7 @@ kapahin~gahan.
 
 Quiet-v-Tahimikin; magpahin~ga.
 
-Quietude [** -]Quietness-n-Katahimikan; pagpapahin~ga.
+Quietude<corr sic=" ">-</corr>Quietness-n-Katahimikan; pagpapahin~ga.
 
 Quill-n-Puno n~g balahibo n~g ibon.
 
@@ -30295,7 +30265,7 @@ Quilt-n-Kumot.
 
 Quilt-v-Magkumot.
 
-Quinine-n-Kinina[** missing capital |M:fixed, K very very faint].
+Quinine-n-Kinina.
 
 Quinquangesima-a-Ikalimangpuo<corr>.</corr>
 
@@ -30314,7 +30284,7 @@ Quip-n-Uyam; alibugha.
 
 Quip-v-Magalibugha.
 
-Quire[** spelling? |M:this is correct]-n-Dalawangpuo at apat na dahon
+Quire-n-Dalawangpuo at apat na dahon
 n~g papel.
 
 Quirk-n-Kilos.
@@ -30335,7 +30305,7 @@ Quiz-n-Bugtong.
 
 Quondam-a-Dating; unang.
 
-Quota-n-Bapagi[**typo: Bahagi;] parte.
+Quota-n-<corr sic="Bapagi">Bahagi;</corr> parte.
 
 Quote-v-Sabihin ang sinabi n~g iba.
 
@@ -30386,7 +30356,7 @@ Radiant-a-<corr sic="Maningnig">Maningning</corr>; makintab; makisap.
 
 Radiate-v-Kumislap; kumisap.
 
-Radiate-a-Maningning; makislap; makisap.[** (EOL) hyphen after maki? |M:yes, rejoined]
+Radiate-a-Maningning; makislap; makisap.
 
 Radical-a-Nauukol sa ugat ó sa pinagmulaan.
 
@@ -30396,7 +30366,7 @@ Radically-adv.-Buhat sa pinagmulaan.
 
 Radicate-v-Magtanim.
 
-Radicel[** spelling? |M:This is ok]-n-Munting ugat.
+Radicel-n-Munting ugat.
 
 Radish-n-Labanos.
 
