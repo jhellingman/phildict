@@ -37,7 +37,7 @@
 
 
     <xd:doc type="stylesheet">
-        <xd:short>Stylesheet to make implied structure in Wolff's dictionary explicit.</xd:short>
+        <xd:short>Stylesheet to make the implied structure in Wolff's dictionary more explicit.</xd:short>
         <xd:detail>This stylesheet attempts to recognize the structure of Wolff's Cebuano-English dictionary, and apply appropriate tags.</xd:detail>
         <xd:author>Jeroen Hellingman</xd:author>
         <xd:copyright>2012, Jeroen Hellingman</xd:copyright>
@@ -66,12 +66,41 @@
                 <xsl:apply-templates mode="xr" select="//xr"/>
             </xrs>
         </xsl:result-document>
+
+        <!-- Create list of root-forms in separate document -->
+        <xsl:result-document
+                href="roots.xml"
+                method="xml"
+                encoding="UTF-8">
+
+            <forms>
+                <xsl:apply-templates mode="form" select="//form"/>
+            </forms>
+        </xsl:result-document>
     </xsl:template>
 
+    <xsl:template mode="form" match="form">
+        <xsl:variable name="forms">
+            <xsl:apply-templates mode="form"/>
+        </xsl:variable>
+        <!-- remove asterisks and split on comma, space, or slash -->
+        <xsl:for-each select="tokenize(replace($forms, '\*', ''), '[,\s/]+')">
+            <form>
+                <xsl:value-of select="."/>
+            </form>
+            <xsl:text>&lf;</xsl:text>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template mode="form" match="sub"/>
+
+    <xsl:template mode="form" match="abbr">
+        <xsl:value-of select="@expan"/>
+    </xsl:template>
 
     <xsl:template mode="xr" match="xr">
         <xr>
-            <xsl:value-of select="."/>
+            <xsl:copy-of select="."/>
         </xr>
         <xsl:text>&lf;</xsl:text>
     </xsl:template>

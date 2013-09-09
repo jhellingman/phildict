@@ -60,9 +60,11 @@ sub processLetter
     # system ("perl WCED-downtag.pl WCED-$letter.tei > WCED-typo-$letter.tei");
     # system ("perl -S tei2html.pl WCED-typo-$letter.tei 2> tmp-$letter.err");
 
-    system ("perl -S tei2html.pl -x WCED-$letter.tei 2> tmp.err");
-    system ("perl WCED-text.pl WCED-$letter.tei > WCED-$letter.txt");
-    system ("$saxon WCED-$letter.xml WCED-uptag2.xsl > structural-$letter.xml");
+    system ("perl -S WCED-abbr.pl WCED-$letter.tei > WCED-2-$letter.tei 2> tmp.err");
+
+    system ("perl -S tei2html.pl -x WCED-2-$letter.tei 2> tmp.err");
+    system ("perl WCED-text.pl WCED-2-$letter.tei > WCED-$letter.txt");
+    system ("$saxon WCED-2-$letter.xml WCED-uptag2.xsl > structural-$letter.xml");
     system ("$saxon structural-$letter.xml WCED-view.xsl > output/structural-$letter.html");
 
     # Generate SQL
