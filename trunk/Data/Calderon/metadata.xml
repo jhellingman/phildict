@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Diccionario Ingles-Español-Tagalog</dc:title>
+      <dc:creator>Sofronio G. Calderón</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2007-03-04</dc:publisher>
+      <dc:date>2007-03-04</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net.
+This dictionary contains a lot of obsolete words that may make one wonder how they ever landed in this dictionary, such as the word Ettin for a Giant, which is obsolete in English since the 16th century. Be aware of this, especially when using this dictionary in “reverse.”
+Numerous, but not all, misspellings and older spellings have been silently corrected or modernized. Some misspellings seem to be taken from other contemporary English-Spanish dictionaries. (Internet search-engines are wonderful in revealing such things.)
+The pronuciations sometimes reveal a Spanish influx.
+The newly designed cover contains the flags of Spain, the United States, and the Philippines, current at the time this book was first published (ignoring the fact that use of the Philippine flag was forbidden at that time by the US authorities).
+</dc:rights>
+      <dc:subject>English language -- Dictionaries -- Spanish</dc:subject>
+      <dc:subject>English language -- Dictionaries -- Tagalog</dc:subject>
+      <dc:subject>English language -- Dictionaries -- Polyglot</dc:subject>
+      <dc:description>Sofronio G. Calderón’s tri-lingual English-Spanish-Tagalog dictionary originally appeared in 1915. The words used in this dictionary reflect the usage and spellings current at that time.</dc:description>
+   </rdf:Description>
+</rdf:RDF>
