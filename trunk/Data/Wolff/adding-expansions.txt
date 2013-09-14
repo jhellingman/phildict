@@ -23,6 +23,10 @@ Step 0:
 
     Note also the em-dash and arrows used for sub-entry forms.
 
+    IMPORTANT: combinations like hiN-/haN-(->) need to be read like hiN-(->)/haN-(->). Simularly mag-r-/-l- stands for mag-r-/mag-l-.
+
+    IMPORTANT: sometimes, the em-dash stands for a sub-entry, not for the main entry. This needs to be carefully checked! (and unfortunately sometimes is ambigious)
+
     Stress
 
         unmarked: stress is on the penultimate vowel.
@@ -51,14 +55,14 @@ Step 2: If a form contains a dash indicates an omitted head-word, then
 
         a. put { before it and |} after it.
         b. put the expanded form after the |.
-        c. replace the omitted head-word dashes in the form before | with ~.
-        d. apply the proper accent marks, if needed.
-        c. insert a intial-glottal-stop dash if needed.
+        c. apply the proper accent marks, if needed.
+        d. insert a intial-glottal-stop dash if needed.
+        e. remove the accent grave for glottal-stop if no longer needed.
 
         You will end up with forms like:
             
-            {~un|abgawun}
-            {ma&N;~l~(&larr;)|mangalabay}
+            {-un|abgawun}
+            {ma&N;-l-(&larr;)|mangalabay}
 
 
 Step 3:
@@ -67,9 +71,9 @@ Step 3:
 
     Letter:     Done up-to and including entry
 
-    A           agwanta
-    B
-    D
+    A           DONE
+    B           DONE
+    D           di
     G
     H
     I
