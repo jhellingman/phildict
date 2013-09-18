@@ -27,7 +27,7 @@
 
 
 <xsl:template match="/">
-    <xsl:result-document href="WCED-structure.sql" method="text" encoding="UTF-8">
+    <xsl:result-document href="SQL/structure.sql" method="text" encoding="UTF-8">
         <xsl:call-template name="database-structure"/>
     </xsl:result-document>
 
@@ -100,6 +100,14 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     `lang` varchar(5) NOT NULL default '',
 
     KEY `word` (`word`)
+);
+
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_head`
+(
+    `entryid` int(11) NOT NULL,
+    `head` varchar(64) NOT NULL default '',
+
+    KEY `head` (`head`)
 );
 
 CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
@@ -178,7 +186,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 </xsl:function>
 
 
-<!-- INSERT INTO `wced_entry` VALUES (id, page, "entry"); -->
+<!-- INSERT INTO `wced_entry` VALUES (id, word, entry, page); -->
 
 <xsl:function name="local:insertEntrySql">
     <xsl:param name="entryid"/>
@@ -195,6 +203,21 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$page"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="local:escapeSql($entry)"/><xsl:text>&quot;</xsl:text>
+    <xsl:text>);</xsl:text>
+</xsl:function>
+
+
+<!-- INSERT INTO `wced_head` VALUES (id, head, page); -->
+
+<xsl:function name="local:insertHeadSql">
+    <xsl:param name="entryid"/>
+    <xsl:param name="head"/>
+
+    <xsl:text>&lf;</xsl:text>
+    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` VALUES (</xsl:text>
+        <xsl:value-of select="$entryid"/>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
     <xsl:text>);</xsl:text>
 </xsl:function>
 

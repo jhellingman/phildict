@@ -48,9 +48,9 @@ sub processAll
     system ("perl -S tei2html.pl -p -c=WCED-Prince.css WCED-complete.xml");
 
     # Generate SQL for database
-    system ("$saxon WCED-collect.xsl WCED-collect.xsl > WCED-structural.xml");
-    system ("$saxon WCED-structural.xml WCED-db.xsl > output/WCED-db.sql");
-    system ("perl toEntities.pl output/WCED-db.sql > output/WCED-db-ent.sql");
+    system ("$saxon WCED-collect.xsl WCED-collect.xsl > structural/complete.xml");
+    system ("$saxon structural/complete.xml WCED-db.xsl > SQL/WCED-db.sql");
+    system ("perl toEntities.pl SQL/complete.sql > SQL/complete-ent.sql");
 }
 
 sub processLetter
@@ -60,17 +60,20 @@ sub processLetter
     # system ("perl WCED-downtag.pl WCED-$letter.tei > WCED-typo-$letter.tei");
     # system ("perl -S tei2html.pl WCED-typo-$letter.tei 2> tmp-$letter.err");
 
-    system ("perl -S WCED-abbr.pl WCED-$letter.tei > WCED-2-$letter.tei 2> tmp.err");
+    system ("perl -S WCED-abbr.pl WCED-$letter.tei > tmp/$letter.tei 2> tmp/$letter.err");
 
-    system ("perl -S tei2html.pl -x WCED-2-$letter.tei 2> tmp.err");
-    system ("perl WCED-text.pl WCED-2-$letter.tei > WCED-$letter.txt");
-    system ("$saxon WCED-2-$letter.xml WCED-uptag2.xsl > structural-$letter.xml");
-    system ("$saxon structural-$letter.xml WCED-view.xsl > output/structural-$letter.html");
+    chdir "tmp";
+    system ("perl -S tei2html.pl -x $letter.tei 2> $letter-tei2html.err");
+    chdir "..";
+
+    # system ("perl WCED-text.pl WCED-2-$letter.tei > WCED-$letter.txt");
+    system ("$saxon tmp/$letter.xml WCED-uptag2.xsl > structural/$letter.xml");
+    system ("$saxon structural/$letter.xml WCED-view.xsl > structural/$letter.html");
 
     # Generate SQL
-    system ("$saxon structural-$letter.xml WCED-db.xsl > output/WCED-db-$letter.sql");
-    system ("perl toEntities.pl output/WCED-db-$letter.sql > output/WCED-db-ent-$letter.sql");
+    system ("$saxon structural/$letter.xml WCED-db.xsl > SQL/$letter.sql");
+    system ("perl toEntities.pl SQL/$letter.sql > SQL/$letter-ent.sql");
 
     # Generate HTML similar to original typography.
-    system ("$saxon WCED-$letter.xml WCED-downtag.xsl > output/typographical-$letter.xml");
+    system ("$saxon tmp/$letter.xml WCED-downtag.xsl > typographical/$letter.xml");
 }

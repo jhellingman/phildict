@@ -73,8 +73,8 @@ Step 3:
 
     A           DONE
     B           DONE
-    D           di
-    G
+    D           DONE
+    G           DONE
     H
     I
     K
@@ -86,7 +86,7 @@ Step 3:
     S
     T
     U
-    W
+    W           DONE
     Y
     Addenda
 

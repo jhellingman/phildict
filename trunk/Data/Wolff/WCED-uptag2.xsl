@@ -56,30 +56,62 @@
             <xsl:text>&lf;&lf;</xsl:text>
         </dictionary>
 
-        <!-- Create list of cross-references in separate document -->
+        <xsl:call-template name="list-cross-references"/>
+        <!-- <xsl:call-template name="list-roots"/> -->
+        <xsl:call-template name="list-heads"/>
+    </xsl:template>
+
+    <!--=========================================================================-->
+
+    <xsl:template name="list-heads">
+        <!-- Create list of head words in separate document -->
         <xsl:result-document
-                href="cross-references.xml"
+                href="output/heads.xml"
                 method="xml"
                 encoding="UTF-8">
-
-            <xrs>
-                <xsl:apply-templates mode="xr" select="//xr"/>
-            </xrs>
+            <heads>
+                <xsl:apply-templates mode="heads" select="//form|//formx"/>
+            </heads>
         </xsl:result-document>
+    </xsl:template>
 
+    <xsl:template mode="heads" match="form|formx">
+        <xsl:variable name="heads">
+            <xsl:apply-templates mode="heads"/>
+        </xsl:variable>
+        <xsl:variable name="id" select="ancestor::p/@id"/>
+        <!-- remove asterisks and split on comma or slash -->
+        <xsl:for-each select="tokenize(replace($heads, '\*', ''), '[,/][,/ ]*')">
+            <head id="{$id}">
+                <xsl:value-of select="."/>
+            </head>
+            <xsl:text>&lf;</xsl:text>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template mode="heads" match="sub"/>
+
+    <xsl:template mode="heads" match="pb"/>
+
+    <xsl:template mode="heads" match="abbr">
+        <xsl:value-of select="@expan"/>
+    </xsl:template>
+
+    <!--=========================================================================-->
+
+    <xsl:template name="list-roots">
         <!-- Create list of root-forms in separate document -->
         <xsl:result-document
-                href="roots.xml"
+                href="output/roots.xml"
                 method="xml"
                 encoding="UTF-8">
-
             <forms>
-                <xsl:apply-templates mode="form" select="//form"/>
+                <xsl:apply-templates mode="roots" select="//form|//formx"/>
             </forms>
         </xsl:result-document>
     </xsl:template>
 
-    <xsl:template mode="form" match="form">
+    <xsl:template mode="roots" match="form|formx">
         <xsl:variable name="forms">
             <xsl:apply-templates mode="form"/>
         </xsl:variable>
@@ -92,19 +124,35 @@
         </xsl:for-each>
     </xsl:template>
 
-    <xsl:template mode="form" match="sub"/>
+    <xsl:template mode="roots" match="sub"/>
 
-    <xsl:template mode="form" match="abbr">
+    <xsl:template mode="roots" match="abbr">
         <xsl:value-of select="@expan"/>
     </xsl:template>
 
+
+    <!--=========================================================================-->
+
+    <xsl:template name="list-cross-references">
+        <!-- Create list of cross-references in separate document -->
+        <xsl:result-document
+                href="output/cross-references.xml"
+                method="xml"
+                encoding="UTF-8">
+            <xrs>
+                <xsl:apply-templates mode="xr" select="//xr"/>
+            </xrs>
+        </xsl:result-document>
+    </xsl:template>
+
     <xsl:template mode="xr" match="xr">
-        <xr>
-            <xsl:copy-of select="."/>
-        </xr>
+        <xsl:copy-of select="."/>
         <xsl:text>&lf;</xsl:text>
     </xsl:template>
 
+    <xsl:template mode="xr" match="pb"/>
+
+    <!--=========================================================================-->
 
     <!-- Eliminate the TEI header, front, back and headings -->
     <xsl:template match="teiHeader"/>
@@ -341,9 +389,6 @@
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
-
-
-
 
 
 
