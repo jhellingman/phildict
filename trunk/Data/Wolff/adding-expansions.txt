@@ -80,14 +80,14 @@ Step 3:
     K
     L
     M
-    N
+    N           DONE
     P
-    R
+    R           DONE
     S
     T
     U
     W           DONE
-    Y
+    Y           DONE
     Addenda
 
     Check-in the file.
