@@ -59,6 +59,8 @@
         <xsl:call-template name="list-cross-references"/>
         <!-- <xsl:call-template name="list-roots"/> -->
         <xsl:call-template name="list-heads"/>
+        <xsl:call-template name="list-heads-sql"/>
+
     </xsl:template>
 
     <!--=========================================================================-->
@@ -96,6 +98,58 @@
     <xsl:template mode="heads" match="abbr">
         <xsl:value-of select="@expan"/>
     </xsl:template>
+
+    <!--=========================================================================-->
+
+    <xsl:template name="list-heads-sql">
+        <!-- Create list of head words in separate document -->
+        <xsl:result-document
+                href="sql/heads.sql"
+                method="text"
+                encoding="UTF-8">
+            <heads>
+                <xsl:apply-templates mode="heads-sql" select="//form|//formx"/>
+            </heads>
+        </xsl:result-document>
+    </xsl:template>
+
+    <xsl:template mode="heads-sql" match="form|formx">
+        <xsl:variable name="heads">
+            <xsl:apply-templates mode="heads-sql"/>
+        </xsl:variable>
+        <xsl:variable name="id" select="ancestor::p/@id"/>
+        <!-- remove asterisks and split on comma or slash -->
+        <xsl:for-each select="tokenize(replace($heads, '\*', ''), '[,/][,/ ]*')">
+            <xsl:value-of select="local:insertHeadSql($id, .)"/>
+        </xsl:for-each>
+    </xsl:template>
+
+    <xsl:template mode="heads-sql" match="sub"/>
+
+    <xsl:template mode="heads-sql" match="pb"/>
+
+    <xsl:template mode="heads-sql" match="abbr">
+        <xsl:value-of select="@expan"/>
+    </xsl:template>
+
+    <xsl:function name="local:insertHeadSql">
+        <xsl:param name="id"/>
+        <xsl:param name="word"/>
+
+        <xsl:variable name="normalizedWord">
+            <xsl:value-of select="lower-case(local:strip_diacritics($word))"/>
+        </xsl:variable>
+
+        <xsl:text>&lf;</xsl:text>
+        <xsl:text>INSERT INTO `heads` VALUES (</xsl:text>
+        <xsl:value-of select="$id"/>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedWord"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>);</xsl:text>
+    </xsl:function>
+
 
     <!--=========================================================================-->
 
@@ -167,7 +221,12 @@
     </xsl:template>
 
 
-    <!-- Process each entry -->
+    <xd:doc>
+        <xd:short>Process each entry.</xd:short>
+        <xd:detail>Entries are processed in two phases. In the first phase, we infer the overal
+        logical structure of the entry, in the second phase, we do some cleanup tasks.</xd:detail>
+    </xd:doc>
+
     <xsl:template match="p">
 
         <xsl:variable name="entry">
@@ -186,7 +245,7 @@
     </xsl:template>
 
 
-    <!--== INFER LOGICAL STRUCTURE ==-->
+    <!--== PHASE 1: INFER LOGICAL STRUCTURE ======================-->
 
     <xd:doc>
         <xd:short>Split entry into sub-entries.</xd:short>
@@ -281,9 +340,10 @@
         the numbers are not given when only one sense is present.</p>
 
         <p>The sense-numbering seems to indicate some further hierarchy by the
-        use of letters; however their usage seems not very consistent.</p>
+        use of letters; however their usage is not very consistent.</p>
 
-        <p>In a few cases, a sense contains a phrase (formatted as a head-word).</p></xd:detail>
+        <p>In a few cases, a sense contains a phrase (formatted as a head-word). These have to 
+        manually handled.</p></xd:detail>
     </xd:doc>
 
     <xsl:template name="split-role">
@@ -392,7 +452,12 @@
 
 
 
-    <!--== PHASE 2 ==-->
+    <!--== PHASE 2: CLEAN-UP =====================================-->
+
+    <xd:doc>
+        <xd:short>Copy by default.</xd:short>
+        <xd:detail>Copy elements in entries by default.</xd:detail>
+    </xd:doc>
 
     <xsl:template mode="phase2" match="@*|node()">
         <xsl:copy>
@@ -407,6 +472,7 @@
             <xsl:apply-templates mode="splitoncommas" select="@*|node()"/>
         </form>
     </xsl:template>
+
 
     <!-- formx becomes form again -->
     <xsl:template mode="phase2" match="formx">
@@ -430,6 +496,36 @@
                 </w>
             </xsl:non-matching-substring>
         </xsl:analyze-string>
+    </xsl:template>
+
+
+    <!-- Two presentations of forms: abbreviated and expanded -->
+
+    <xsl:template name="handle-form">
+        <xsl:variable name="expan">
+            <xsl:apply-templates select="." mode="expan-form"/>
+        </xsl:variable>
+        <xsl:variable name="abbr">
+            <xsl:apply-templates select="." mode="abbr-form"/>
+        </xsl:variable>
+
+        <!-- TODO -->
+
+    </xsl:template>
+
+
+    <xsl:template mode="expan-form abbr-form" match="@*|node()">
+        <xsl:copy>
+            <xsl:apply-templates mode="#current" select="@*|node()"/>
+        </xsl:copy>
+    </xsl:template>
+
+    <xsl:template mode="expan-form" match="abbr">
+        <xsl:value-of select="@expan"/>
+    </xsl:template>
+
+    <xsl:template mode="abbr-form" match="abbr">
+        <xsl:value-of select="."/>
     </xsl:template>
 
 
