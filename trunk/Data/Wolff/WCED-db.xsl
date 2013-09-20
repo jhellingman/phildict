@@ -186,7 +186,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 </xsl:function>
 
 
-<!-- INSERT INTO `wced_entry` VALUES (id, word, entry, page); -->
+<!-- INSERT INTO `wced_entry` VALUES (entryid, word, entry, page); -->
 
 <xsl:function name="local:insertEntrySql">
     <xsl:param name="entryid"/>
@@ -222,17 +222,17 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 </xsl:function>
 
 
-<!-- INSERT INTO `wced_word` VALUES (id, flags, "word", "lang"); -->
+<!-- INSERT INTO `wced_word` VALUES (entryid, flags, "word", "lang"); -->
 
 <xsl:function name="local:insertWordSql">
-    <xsl:param name="wordid"/>
+    <xsl:param name="entryid"/>
     <xsl:param name="flags"/>
     <xsl:param name="word"/>
     <xsl:param name="lang"/>
 
     <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_word` VALUES (</xsl:text>
-        <xsl:value-of select="$wordid"/>
+    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_word` (entryid, flags, word, lang) VALUES (</xsl:text>
+        <xsl:value-of select="$entryid"/>
         <xsl:text>, </xsl:text>
         <xsl:value-of select="$flags"/>
         <xsl:text>, </xsl:text>

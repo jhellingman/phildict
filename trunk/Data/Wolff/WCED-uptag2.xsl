@@ -17,6 +17,7 @@
 <!ENTITY ucaron      "&#x01D4;"         >
 <!ENTITY schwa       "&#x0259;"         >
 <!ENTITY mdash       "&#x2014;"         >
+<!ENTITY dagger      "&#x2020;"         >
 
 ]>
 
@@ -34,7 +35,6 @@
         method="xml"
         indent="no"
         encoding="UTF-8"/>
-
 
     <xd:doc type="stylesheet">
         <xd:short>Stylesheet to make the implied structure in Wolff's dictionary more explicit.</xd:short>
@@ -82,8 +82,8 @@
             <xsl:apply-templates mode="heads"/>
         </xsl:variable>
         <xsl:variable name="id" select="ancestor::p/@id"/>
-        <!-- remove asterisks and split on comma or slash -->
-        <xsl:for-each select="tokenize(replace($heads, '\*', ''), '[,/][,/ ]*')">
+        <!-- remove asterisks and daggers and split on comma or slash -->
+        <xsl:for-each select="tokenize(replace($heads, '[*&dagger;]', ''), '[,/][,/ ]*')">
             <head id="{$id}">
                 <xsl:value-of select="."/>
             </head>
@@ -119,7 +119,7 @@
         </xsl:variable>
         <xsl:variable name="id" select="ancestor::p/@id"/>
         <!-- remove asterisks and split on comma or slash -->
-        <xsl:for-each select="tokenize(replace($heads, '\*', ''), '[,/][,/ ]*')">
+        <xsl:for-each select="tokenize(replace($heads, '[*&dagger;]', ''), '[,/][,/ ]*')">
             <xsl:value-of select="local:insertHeadSql($id, .)"/>
         </xsl:for-each>
     </xsl:template>
@@ -133,7 +133,7 @@
     </xsl:template>
 
     <xsl:function name="local:insertHeadSql">
-        <xsl:param name="id"/>
+        <xsl:param name="entryId"/>
         <xsl:param name="word"/>
 
         <xsl:variable name="normalizedWord">
@@ -141,8 +141,8 @@
         </xsl:variable>
 
         <xsl:text>&lf;</xsl:text>
-        <xsl:text>INSERT INTO `heads` VALUES (</xsl:text>
-        <xsl:value-of select="$id"/>
+        <xsl:text>INSERT INTO `heads` (entryid, head, normalized_head) VALUES (</xsl:text>
+        <xsl:value-of select="$entryId"/>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
