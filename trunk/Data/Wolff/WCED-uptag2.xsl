@@ -104,7 +104,7 @@
     <xsl:template name="list-heads-sql">
         <!-- Create list of head words in separate document -->
         <xsl:result-document
-                href="sql/heads.sql"
+                href="sql/WCED_head.sql"
                 method="text"
                 encoding="UTF-8">
             <heads>
@@ -141,7 +141,7 @@
         </xsl:variable>
 
         <xsl:text>&lf;</xsl:text>
-        <xsl:text>INSERT INTO `heads` (entryid, head, normalized_head) VALUES (</xsl:text>
+        <xsl:text>INSERT INTO `wced_head` (entryid, head, normalized_head) VALUES (</xsl:text>
         <xsl:value-of select="$entryId"/>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
@@ -466,66 +466,37 @@
     </xsl:template>
 
 
-    <!-- split up forms -->
-    <xsl:template mode="phase2" match="form">
-        <form>
-            <xsl:apply-templates mode="splitoncommas" select="@*|node()"/>
+    <xd:doc>
+        <xd:short>Add id's to forms, and change formx back to form.</xd:short>
+        <xd:detail>Add id's to forms, and change formx back to form. The id is derived from the expanded version of the form, 
+        using only the part before the comma (i.e., first cited form).</xd:detail>
+    </xd:doc>
+
+    <xsl:template mode="phase2" match="form | formx">
+        <xsl:variable name="expanded-form">
+            <xsl:apply-templates mode="expanded-form" select="."/>
+        </xsl:variable>
+        <xsl:variable name="id">
+            <xsl:value-of select="local:make-id(if (contains(',', $expanded-form)) then substring-before(',', $expanded-form) else $expanded-form)"/>
+        </xsl:variable>
+        <form id="{$id}">
+            <xsl:if test="not(@lang)">
+                <xsl:attribute name="lang" select="'ceb'"/>
+            </xsl:if>
+            <xsl:apply-templates mode="phase2" select="@*|node()"/>
         </form>
     </xsl:template>
 
-
-    <!-- formx becomes form again -->
-    <xsl:template mode="phase2" match="formx">
-        <form lang="ceb">
-            <xsl:apply-templates mode="splitoncommas" select="@*|node()"/>
-        </form>
-    </xsl:template>
-
-    <xsl:template mode="splitoncommas" match="*|@*">
-        <xsl:copy-of select="."/>
-    </xsl:template>
-
-    <xsl:template mode="splitoncommas" match="text()">
-        <xsl:analyze-string select="." regex="(, |\*|[/])">
-            <xsl:matching-substring>
-                <xsl:value-of select="."/>
-            </xsl:matching-substring>
-            <xsl:non-matching-substring>
-                <w id="{local:make-id(.)}">
-                    <xsl:value-of select="."/>
-                </w>
-            </xsl:non-matching-substring>
-        </xsl:analyze-string>
-    </xsl:template>
-
-
-    <!-- Two presentations of forms: abbreviated and expanded -->
-
-    <xsl:template name="handle-form">
-        <xsl:variable name="expan">
-            <xsl:apply-templates select="." mode="expan-form"/>
-        </xsl:variable>
-        <xsl:variable name="abbr">
-            <xsl:apply-templates select="." mode="abbr-form"/>
-        </xsl:variable>
-
-        <!-- TODO -->
-
-    </xsl:template>
-
-
-    <xsl:template mode="expan-form abbr-form" match="@*|node()">
-        <xsl:copy>
-            <xsl:apply-templates mode="#current" select="@*|node()"/>
-        </xsl:copy>
-    </xsl:template>
-
-    <xsl:template mode="expan-form" match="abbr">
+    <xsl:template mode="expanded-form" match="abbr">
         <xsl:value-of select="@expan"/>
     </xsl:template>
 
-    <xsl:template mode="abbr-form" match="abbr">
-        <xsl:value-of select="."/>
+    <xsl:template mode="expanded-form" match="*|@*">
+        <xsl:apply-templates mode="#current"/>
+    </xsl:template>
+
+    <xsl:template mode="expanded-form" match="text()">
+        <xsl:copy/>
     </xsl:template>
 
 

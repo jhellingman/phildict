@@ -43,7 +43,7 @@ sub main()
 
 
 #
-# handleEntry() -- print the SQL statment for an entry.
+# handleEntry() -- print the SQL statement for an entry.
 #
 sub handleEntry($)
 {

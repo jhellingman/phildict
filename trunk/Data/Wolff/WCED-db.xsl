@@ -141,7 +141,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     </xsl:variable>
 
     <xsl:variable name="headword">
-        <xsl:value-of select="(.//w)[1]"/>
+        <xsl:value-of select="(.//form)[1]"/>
     </xsl:variable>
 
     <xsl:variable name="normalizedHeadword">
@@ -263,13 +263,18 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 <!-- Ignore codes and numbers -->
 <xsl:template mode="words" match="pos | itype | number | sub"/>
 
+<!-- Handle both expanded and collapsed forms -->
+<xsl:template mode="words" match="abbr">
+    <xsl:apply-templates mode="words" select="@expan"/>
+    <xsl:apply-templates mode="words"/>
+</xsl:template>
 
-<xsl:template mode="words" match="text()">
+<xsl:template mode="words" match="@expan|text()">
     <xsl:variable name="lang" select="(ancestor-or-self::*/@lang|ancestor-or-self::*/@xml:lang)[last()]"/>
 
     <!-- Determine word type flags: 2 if headword or suggested translation; 4 otherwise -->
     <xsl:variable name="flags" select="if (ancestor-or-self::form|ancestor-or-self::tr) then 2 else 4"/>
-    
+
     <xsl:for-each select="local:words(.)">
         <xsl:if test=". != ''">
             <w>
@@ -308,9 +313,9 @@ http://dev.thomas-appel.com/licenses/gpl.txt
         <xsl:when test="boolean(name())">
             <xsl:choose>
                 <!--
-                     if element is not empty
+                     if element is not empty (removed normalize-space(.) from test below)
                 -->
-                <xsl:when test="normalize-space(.) != $empty or *">
+                <xsl:when test=". != $empty or *">
                     <xsl:apply-templates select="." mode="opentag"/>
                         <xsl:apply-templates select="* | text()" mode="nodetostring"/>
                     <xsl:apply-templates select="." mode="closetag"/>
