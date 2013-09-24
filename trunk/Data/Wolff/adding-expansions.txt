@@ -62,7 +62,7 @@ Step 2: If a form contains a dash indicates an omitted head-word, then
         You will end up with forms like:
             
             {-un|abgawun}
-            {ma&N;-l-(&larr;)|mangalabay}
+            {ma&N;-l-(&larr;)|mangalábay}
 
 
 Step 3:
@@ -75,7 +75,7 @@ Step 3:
     B           DONE
     D           DONE
     G           DONE
-    H
+    H           DONE
     I
     K
     L
