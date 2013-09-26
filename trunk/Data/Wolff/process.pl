@@ -72,7 +72,9 @@ sub processLetter
 
     # Generate SQL
     system ("$saxon structural/$letter.xml WCED-db.xsl > SQL/$letter.sql");
-    system ("perl toEntities.pl SQL/$letter.sql > SQL/$letter-ent.sql");
+    # system ("perl toEntities.pl SQL/$letter.sql > SQL/$letter-ent.sql");
+
+    system ("mv SQL/WCED_head.sql SQL/WCED_head-$letter.sql");
 
     # Generate HTML similar to original typography.
     system ("$saxon tmp/$letter.xml WCED-downtag.xsl > typographical/$letter.xml");

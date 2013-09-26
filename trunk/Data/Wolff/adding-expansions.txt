@@ -76,8 +76,8 @@ Step 3:
     D           DONE
     G           DONE
     H           DONE
-    I
-    K
+    I           DONE
+    K           Up to kilu
     L
     M
     N           DONE
@@ -94,7 +94,7 @@ Step 3:
 
 Step 4:
 
-    After all expansion have been marked, use a tool (to be developed)
+    After all expansion have been marked, use a tool
     to replace them with proper TEI mark-up.
 
         <abbr expan="abgawun">-un</abbr>
