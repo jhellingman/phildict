@@ -50,7 +50,7 @@ sub processAll
     # Generate SQL for database
     system ("$saxon WCED-collect.xsl WCED-collect.xsl > structural/complete.xml");
     system ("$saxon structural/complete.xml WCED-db.xsl > SQL/complete.sql");
-    system ("perl toEntities.pl SQL/complete.sql > SQL/complete-ent.sql");
+    # system ("perl toEntities.pl SQL/complete.sql > SQL/complete-ent.sql");
 }
 
 sub processLetter

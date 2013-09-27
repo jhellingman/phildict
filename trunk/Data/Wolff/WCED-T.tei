@@ -1653,7 +1653,7 @@
 
 <p id=18519><form>tartanilya</form> <pos>n</pos> two-wheeled, horse-drawn <tr>rig</tr>. <pos>v</pos> <itype>[A13; a12]</itype> ride on a rig. <i>Tartanilyáhun nímu nang duul kaáyu,</i> Do you have to ride a rig for such a short distance?
 
-<p id=18520><form>táru</form> <pos>n</pos> large cubical tin can made to contain kerosene and hold five gallons. <pos>v</pos> <itype>[B256]</itype> get to be one <ix>táru</ix> full. <i>Wà ra mutáru ang nainum námung tubà,</i> We didn&apos;t even consume five gallons of palm toddy.
+<p id=18520><form>táru</form> <pos>n</pos> large cubical tin can made to contain kerosene and hold <measure reg="18.93 liters">five gallons</measure>. <pos>v</pos> <itype>[B256]</itype> get to be one <ix>táru</ix> full. <i>Wà ra mutáru ang nainum námung tubà,</i> We didn&apos;t even consume five gallons of palm toddy.
 
 <p id=18521><form>tarug</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> budge a little. <i>Ígù lang natarug ang kutsing ákung gitúlud,</i> The car I was pushing just barely budged. <number>2</number> <itype>[B12; a1]</itype> for s.t. implanted to become loose. <i>Manghíngù na ang bátà kay nagkatarug na íyang ngípun,</i> The child will soon lose his teeth now that they are getting loose. <number>3</number> <itype>[B126]</itype> for feelings to be moved, softened. <i>Bisan lúhà dì makatarug (makapatarug) sa íyang balatían,</i> Even tears cannot move his feelings. <pos>a</pos> s.t. planted that is loose. <i>Húmuk na ibtun ang lansang kay tarug na,</i> It&apos;s easy to pull the nail out now because it&apos;s loose. <pos>n</pos> a loose tooth. <i>Ipaibut na ímung tarug,</i> Have your loose tooth pulled.
 
@@ -4433,7 +4433,7 @@
 
 <p id=19893><form>tuytuy<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> make a sound to call chickens. <i>Ánad kaáyung manúka kay mudúul dáyug tuytúyun,</i> What a tame chicken! As soon as you go &lsquo;toytoy&rsquo; to it, it comes. <number>2</number> <xr>= <sc>túkuy</sc>, <i>v1.</i></xr> <pos>n</pos> <number>1</number> sound for calling chickens. <number>2</number> <xr>= <sc>túkuy</sc>.</xr>
 
-<p id=19894><form>tuytuy<sub>3</sub></form> <pos>n</pos> <number>1</number> any small <tr>clay jar</tr>. <number>2</number> one-node bamboo tube container for water or palm toddy. <number>3</number> small-mouthed, thick, dark-green glass <tr>jug</tr> holding about six gallons, used for storing coconut palm toddy. A network of rattan with a handle on both sides is fitted around the body. <form>-an(&rarr;)</form> <xr>= <sc>tuytuy<sub>3</sub></sc>.</xr>
+<p id=19894><form>tuytuy<sub>3</sub></form> <pos>n</pos> <number>1</number> any small <tr>clay jar</tr>. <number>2</number> one-node bamboo tube container for water or palm toddy. <number>3</number> small-mouthed, thick, dark-green glass <tr>jug</tr> holding about <measure reg="23 liters">six gallons</measure>, used for storing coconut palm toddy. A network of rattan with a handle on both sides is fitted around the body. <form>-an(&rarr;)</form> <xr>= <sc>tuytuy<sub>3</sub></sc>.</xr>
 
 <p id=19895><form>túyu</form> <pos>n</pos> <tr>soy sauce</tr>. <pos>v</pos> <itype>[b]</itype> put soy sauce in s.t.
 
