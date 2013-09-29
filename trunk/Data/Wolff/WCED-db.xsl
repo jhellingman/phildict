@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE xsl:stylesheet [
 
-<!ENTITY lf "&#x0A;" >
+<!ENTITY lf         "&#x0A;"            >
+<!ENTITY dagger     "&#x2020;"          >
 
 ]>
 
@@ -106,6 +107,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_head`
 (
     `entryid` int(11) NOT NULL,
     `head` varchar(64) NOT NULL default '',
+    `normalized_head` varchar(64) NOT NULL default '',
 
     KEY `head` (`head`)
 );
@@ -145,7 +147,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     </xsl:variable>
 
     <xsl:variable name="normalizedHeadword">
-        <xsl:value-of select="fn:lower-case(local:strip_diacritics($headword))"/>
+        <xsl:value-of select="local:normalize($headword)"/>
     </xsl:variable>
 
     <xsl:value-of select="local:insertEntrySql($entryid, $normalizedHeadword, $entrytext, @page)"/>
@@ -165,7 +167,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
         </xsl:for-each-group>
     </xsl:for-each-group>
 
-    <!-- Find unique normalized forms in entry -->
+    <!-- Find unique normalized forms of words in entry -->
     <xsl:for-each-group select="$words/w[@form != .]" group-by="@xml:lang">
         <xsl:for-each-group select="current-group()" group-by=".">
             <xsl:variable name="flags" select="current-group()[1]/@flags"/>
@@ -174,13 +176,54 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
         </xsl:for-each-group>
     </xsl:for-each-group>
 
+    <!-- Find all headings -->
+    <xsl:variable name="heads">
+        <xsl:apply-templates mode="heads" select=".//form|.//formx"/>
+    </xsl:variable>
+
+    <!-- List unique head-words in entry -->
+    <xsl:for-each-group select="$heads/h" group-by=".">
+        <xsl:variable name="mainEntry" select="if (current-group()[1] = $headword) then 1 else 0"/>
+        <xsl:value-of select="local:insertHeadSql($entryid, current-group()[1], local:normalize(current-group()[1]))"/>
+    </xsl:for-each-group>
 </xsl:template>
+
+
+<xsl:template mode="heads" match="form|formx">
+    <xsl:variable name="heads">
+        <xsl:apply-templates mode="heads"/>
+    </xsl:variable>
+
+    <!-- TODO: determine what POS and X-ref status this headword has -->
+    <!-- remove asterisks and daggers and split on comma or slash -->
+    <xsl:for-each select="tokenize(replace($heads, '[*&dagger;]', ''), '[,/][,/ ]*')">
+        <h>
+            <xsl:value-of select="."/>
+        </h>
+    </xsl:for-each>
+</xsl:template>
+
+<xsl:template mode="heads" match="sub"/>
+
+<xsl:template mode="heads" match="pb"/>
+
+<xsl:template mode="heads" match="abbr">
+    <xsl:value-of select="@expan"/>
+</xsl:template>
+
+
+
+<xsl:function name="local:normalize" as="xs:string">
+    <xsl:param name="string" as="xs:string"/>
+
+    <xsl:value-of select="fn:lower-case(local:strip_diacritics($string))"/>
+</xsl:function>
 
 
 <!-- SQL support functions -->
 
-<xsl:function name="local:escapeSql">
-    <xsl:param name="string"/>
+<xsl:function name="local:escapeSql" as="xs:string">
+    <xsl:param name="string" as="xs:string"/>
 
     <xsl:value-of select="fn:replace($string, '&quot;', '&quot;&quot;')"/>
 </xsl:function>
@@ -207,17 +250,20 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 </xsl:function>
 
 
-<!-- INSERT INTO `wced_head` VALUES (id, head, page); -->
+<!-- INSERT INTO `wced_head` VALUES (id, head, normalizedHead); -->
 
 <xsl:function name="local:insertHeadSql">
     <xsl:param name="entryid"/>
     <xsl:param name="head"/>
+    <xsl:param name="normalizedHead"/>
 
     <xsl:text>&lf;</xsl:text>
     <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` VALUES (</xsl:text>
         <xsl:value-of select="$entryid"/>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedHead"/><xsl:text>&quot;</xsl:text>
     <xsl:text>);</xsl:text>
 </xsl:function>
 
@@ -259,8 +305,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:value-of select="fn:replace(fn:normalize-unicode($string, 'NFD'), '\p{M}', '')"/>
 </xsl:function>
 
-
-<!-- Ignore codes and numbers -->
+<!-- Ignore POS codes, verb classes, and numbers -->
 <xsl:template mode="words" match="pos | itype | number | sub"/>
 
 <!-- Handle both expanded and collapsed forms -->

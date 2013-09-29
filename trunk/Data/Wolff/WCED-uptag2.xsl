@@ -56,10 +56,12 @@
             <xsl:text>&lf;&lf;</xsl:text>
         </dictionary>
 
+        <!--
         <xsl:call-template name="list-cross-references"/>
-        <!-- <xsl:call-template name="list-roots"/> -->
+        <xsl:call-template name="list-roots"/>
         <xsl:call-template name="list-heads"/>
-        <xsl:call-template name="list-heads-sql"/>
+        <xsl:call-template name="list-heads-sql"/> 
+        -->
 
     </xsl:template>
 

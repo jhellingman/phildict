@@ -79,7 +79,7 @@ Step 3:
     I           DONE
     K           DONE
     L           DONE
-    M           mata
+    M           DONE
     N           DONE
     P
     R           DONE
