@@ -78,7 +78,7 @@ Step 3:
     H           DONE
     I           DONE
     K           DONE
-    L           lanat
+    L           DONE
     M
     N           DONE
     P
