@@ -81,7 +81,7 @@ Step 3:
     L           DONE
     M           DONE
     N           DONE
-    P
+    P           DONE
     R           DONE
     S
     T
