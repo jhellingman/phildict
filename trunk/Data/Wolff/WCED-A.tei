@@ -2379,7 +2379,7 @@
 
 <p id=1135><form>aranya, aranyas</form> <pos>n</pos> <number>1</number> <tr>chandelier</tr>. <number>2</number> teardrop-shaped pieces of crystal that hang on a chandelier. <number>3</number> earring with a pendant shaped like a teardrop. <number>4</number> k.o. hanging fancy hibiscus: <bio>Hibiscus schizopetalus</bio>. <number>5</number> <xr>= <sc>tahuri</sc> (so called because the <ix>tahuri</ix> is teardrop-shaped).</xr>
 
-<p id=1136><form>arapal</form> (from <ix>dápal</ix>) <pos>n</pos> a cactus similar to the prickly pear, but thornless: <bio>Nopalea cochinellifera</bio>. <pos>v</pos> <itype>[A13]</itype> appear in distinct rounded lumps like a cactus. <i>Nag-arapal nga pangánud,</i> Billowing clouds.
+<p id=1136><form>arapal</form> (from <ix>dápal</ix>) <pos>n</pos> a cactus similar to the prickly pear, but thornless: <bio>Nopalea <corr sic=cochinellifera>cochinillifera</corr></bio>. <pos>v</pos> <itype>[A13]</itype> appear in distinct rounded lumps like a cactus. <i>Nag-arapal nga pangánud,</i> Billowing clouds.
 
 <p id=1137><form>aráru</form> <xr>= <sc>aláru</sc>.</xr>
 
@@ -2505,7 +2505,7 @@
 
 <p id=1198><form>armáda</form> <pos>n</pos> <tr>armada</tr>.
 
-<p id=1199><form>armádu</form> <corr><pos>a</pos></corr><tr>armed</tr>. <i>Usa ka grúpung armádu ang mitúlis sa bálu,</i> An armed group robbed the widow. <pos>v</pos> <itype>[B1256]</itype> be, become armed.
+<p id=1199><form>armádu</form> <corr><pos>a</pos> </corr><tr>armed</tr>. <i>Usa ka grúpung armádu ang mitúlis sa bálu,</i> An armed group robbed the widow. <pos>v</pos> <itype>[B1256]</itype> be, become armed.
 
 <p id=1200><form>armamintu</form> <pos>n</pos> <tr>armament</tr>. <i>Lumbà sa armamintu,</i> Armament race.
 
