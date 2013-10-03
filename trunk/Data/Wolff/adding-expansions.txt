@@ -83,7 +83,7 @@ Step 3:
     N           DONE
     P           DONE
     R           DONE
-    S
+    S           DONE
     T
     U
     W           DONE
