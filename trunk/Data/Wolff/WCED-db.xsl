@@ -112,6 +112,14 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_head`
     KEY `head` (`head`)
 );
 
+CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_translations`
+(
+    `entryid` int(11) NOT NULL,
+    `translation` varchar(64) NOT NULL default '',
+
+    KEY `translation` (`translation`)
+);
+
 CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 (
     `noteid` int(11) NOT NULL auto_increment,
@@ -186,8 +194,45 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
         <xsl:variable name="mainEntry" select="if (current-group()[1] = $headword) then 1 else 0"/>
         <xsl:value-of select="local:insertHeadSql($entryid, current-group()[1], local:normalize(current-group()[1]))"/>
     </xsl:for-each-group>
+
+    <!-- Find all translations -->
+    <xsl:variable name="translations">
+        <xsl:apply-templates mode="translations" select=".//tr"/>
+    </xsl:variable>
+
+    <!-- List unique head-words in entry -->
+    <xsl:for-each-group select="$translations/t" group-by=".">
+        <xsl:value-of select="local:insertTranslationSql($entryid, current-group()[1])"/>
+    </xsl:for-each-group>
+
 </xsl:template>
 
+
+<!-- MODE: translations -->
+
+<xsl:template mode="translations" match="tr">
+    <xsl:variable name="translations">
+        <xsl:apply-templates mode="translations"/>
+    </xsl:variable>
+
+    <!-- remove asterisks and daggers and split on comma or slash -->
+    <xsl:for-each select="tokenize(replace($translations, '[*&dagger;]', ''), '[,/][,/ ]*')">
+        <t>
+            <xsl:value-of select="."/>
+        </t>
+    </xsl:for-each>
+</xsl:template>
+
+<xsl:template mode="translations" match="sub"/>
+
+<xsl:template mode="translations" match="pb"/>
+
+<xsl:template mode="translations" match="abbr">
+    <xsl:value-of select="@expan"/>
+</xsl:template>
+
+
+<!-- MODE: heads -->
 
 <xsl:template mode="heads" match="form|formx">
     <xsl:variable name="heads">
@@ -258,12 +303,27 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="normalizedHead"/>
 
     <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` VALUES (</xsl:text>
+    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head) VALUES (</xsl:text>
         <xsl:value-of select="$entryid"/>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedHead"/><xsl:text>&quot;</xsl:text>
+    <xsl:text>);</xsl:text>
+</xsl:function>
+
+
+<!-- INSERT INTO `wced_translation` VALUES (id, translation); -->
+
+<xsl:function name="local:insertTranslationSql">
+    <xsl:param name="entryid"/>
+    <xsl:param name="translation"/>
+
+    <xsl:text>&lf;</xsl:text>
+    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_translation` (entryid, translation) VALUES (</xsl:text>
+        <xsl:value-of select="$entryid"/>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$translation"/><xsl:text>&quot;</xsl:text>
     <xsl:text>);</xsl:text>
 </xsl:function>
 
