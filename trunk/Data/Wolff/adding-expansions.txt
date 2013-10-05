@@ -85,7 +85,7 @@ Step 3:
     R           DONE
     S           DONE
     T
-    U
+    U           DONE
     W           DONE
     Y           DONE
     Addenda     DONE
