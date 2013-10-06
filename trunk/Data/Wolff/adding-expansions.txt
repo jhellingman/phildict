@@ -84,7 +84,7 @@ Step 3:
     P           DONE
     R           DONE
     S           DONE
-    T
+    T           DONE
     U           DONE
     W           DONE
     Y           DONE

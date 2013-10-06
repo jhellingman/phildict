@@ -641,7 +641,7 @@
 
 <p id=5984><form>hanà</form> <pos>v</pos> <number>1</number> <itype>[A; c]</itype> get ready to start doing s.t., make motions to do s.t. <i>Mihanà siyag pátid nákù,</i> He made a move to kick me. <i>Dílì gánì ta makahanà ug tindug pangutan-un tag ása ta,</i> We can&apos;t even make a move to get up before he asks us where we&apos;re going. <i>Ayaw ihanà ang pusil kay mubutu,</i> Don&apos;t aim the gun, because it might go off. <number>2</number> <itype>[A23]</itype> threaten to happen. <i>Mihanag kapálung ang pitrumaks,</i> The lantern was threatening to go out.
 
-<p id=5985><form>hanab</form> <pos>n</pos> k.o. heavy bolo with a pointed tip and curved blade. 12&ndash;14&Prime; long.
+<p id=5985><form>hanab</form> <pos>n</pos> k.o. heavy bolo with a pointed tip and curved blade. <measure reg="30&ndash;36 cm">12&ndash;14&Prime;</measure> long.
 
 <p id=5986><form>hanagdung</form> <xr>= <sc>hinagdung</sc>.</xr>
 
@@ -691,7 +691,7 @@
 
 <p id=6008><form>handilika</form> <xr>= <sc>anghilika</sc>.</xr>
 
-<p id=6009><form>handilítik</form> <pos>n</pos> k.o. shrimp around 6&Prime;, with small claws and of scorpion-like appearance. Edible, but not highly esteemed.
+<p id=6009><form>handilítik</form> <pos>n</pos> k.o. shrimp around <measure reg="15 cm">6&Prime;</measure>, with small claws and of scorpion-like appearance. Edible, but not highly esteemed.
 
 <p id=6010><form>handul<sub>1</sub></form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> handle, take care of a case in court. <number>2</number> teach, handle a class. <i>Pila ka sabdyik ímung handúlun?</i> How many subjects are you going to handle? <number>3</number> handle, deal with s.o. younger or of lower status. <i>Maáyu siyang muhandul sa íyang mga sákup,</i> He handles his tenants well. <i>Dì ka kamaung muhandul sa ímung manghud,</i> You don&apos;t know how to handle your little brother.
 
@@ -819,7 +819,7 @@
 
 <p id=6072><form>hantik</form> <xr>= <sc>amimitas</sc>.</xr>
 
-<p id=6073><form>hanting</form> <pos>n</pos> k.o. pointed, sharp <tr>knife</tr> 6&ndash;7&Prime; long, thick at the upper edge. <form>{&mdash;|hanting} náyip</form> <xr>= <sc>hanting</sc>.</xr>
+<p id=6073><form>hanting</form> <pos>n</pos> k.o. pointed, sharp <tr>knife</tr> <measure reg="15&ndash;18 cm">6&ndash;7&Prime;</measure> long, thick at the upper edge. <form>{&mdash;|hanting} náyip</form> <xr>= <sc>hanting</sc>.</xr>
 
 <p id=6074><form>hantuk</form> <pos>v</pos> <number>1</number> <itype>[A3N; a2b2]</itype> in a game of <ix>sungkà,</ix> to hit the jackpot landing in a hole opposite the hole in which the opponent has a large number of pieces, thus winning all of his pieces. <number>2</number> <itype>[A12N; a2]</itype> hit the jackpot by marrying s.o. rich. <i>Magminyù ku apan manghantuk giyud kug anak ug asyindíru,</i> I&apos;ll get married, but it&apos;ll have to be the jackpot&mdash;a planter&apos;s daughter. <pos>n</pos> stones gotten from the opponent when one hits the jackpot in <ix>sungkà.</ix>
 
@@ -1135,7 +1135,7 @@
 
 <p id=6227><form>hawughug</form> <xr>= <sc>halughug<sub>1</sub></sc>.</xr>
 
-<p id=6228><form>hawulháwul</form> <pos>n</pos> k.o. sardine, of particularly tasty flesh with a multitude of bones going in four directions. Blue on top and silver on bottom, growing to 8&Prime;.
+<p id=6228><form>hawulháwul</form> <pos>n</pos> k.o. sardine, of particularly tasty flesh with a multitude of bones going in four directions. Blue on top and silver on bottom, growing to <measure reg="20 cm">8&Prime;</measure>.
 
 <p id=6229><form>hawus</form> <pos>v</pos> <itype>[B1246; b4]</itype> for the body to be extremely tired, exhausted. <i>Gihawsan kug kinarga ug balas,</i> I am dead tired loading sand.
 

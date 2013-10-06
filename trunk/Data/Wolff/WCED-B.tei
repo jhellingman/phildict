@@ -145,7 +145,7 @@
 
 <p id=1557><form>badútu</form> <xr>= <sc>barútu</sc>.</xr>
 
-<p id=1558><form>badyang<sub>1</sub></form> <pos>n</pos> k.o. tuberous plant with arrow-shaped leaves reaching 4&prime; and more. Edible but itchy root, grown as ornamental and wild: <bio>Alocasia macrorrhiza</bio>.
+<p id=1558><form>badyang<sub>1</sub></form> <pos>n</pos> k.o. tuberous plant with arrow-shaped leaves reaching <measure reg="1.2 m">4&prime;</measure> and more. Edible but itchy root, grown as ornamental and wild: <bio>Alocasia macrorrhiza</bio>.
 
 <p id=1559><form>badyang<sub>2</sub></form> <xr>= <sc>báyang<sub>1</sub></sc>.</xr>
 
@@ -185,7 +185,7 @@
 
 <p id=1577><form>bagal<sub>1</sub>, bágal<sub>1</sub></form> <pos>a</pos> <number>1</number> <tr>lumpy</tr>. <i>Bagal kaáyu ang yútà pagdáru níla,</i> The soil was very lumpy when they plowed the field. <number>2</number> have s.t. protruding in a lump. <i>Bágal ang íyang kílid kay dihà may pistúla,</i> There was s.t. protruding on his side because he had a pistol. <number>3</number> <xr>= <sc>bagul</sc>, <ix>a.</ix></xr> <pos>n</pos> impacted, chunky earth. <i>Dagkù kaáyu ang bagal sa yútà sa daruhan,</i> The lumps of earth in the fields are very big. <pos>v</pos> <itype>[B]</itype> <number>1</number> become lumpy. <number>2</number> be protruding. <number>3</number> <xr>= <sc>bagul</sc>, <ix>v.</ix></xr> <form>bagalbagal</form> <pos>v</pos> <itype>[B]</itype> become lumpy. <i>Ang kapi mibagalbagal kay ang túbig wà pa man mubúkal,</i> The powdered coffee was full of lumps because the water was not boiling.
 
-<p id=1578><form>bagal<sub>2</sub>, bágal<sub>2</sub></form> <pos>n</pos> <tr>shell</tr> of eggs, cartridges, and <pb n=77>all shellfish but shrimps. <i>Bagal sa mga kinhasun,</i> Shells from the sea animals. <i>Bagal sa blastingkap,</i> Empty shells of a dynamite blasting cap. <form>{(&larr;)|bágal}, {-an(&larr;)|bagálan}</form> <pos>n</pos> k.o. <tr>shrimp</tr> of tidal swamps, growing to 3&Prime; with a thick transparent shell.
+<p id=1578><form>bagal<sub>2</sub>, bágal<sub>2</sub></form> <pos>n</pos> <tr>shell</tr> of eggs, cartridges, and <pb n=77>all shellfish but shrimps. <i>Bagal sa mga kinhasun,</i> Shells from the sea animals. <i>Bagal sa blastingkap,</i> Empty shells of a dynamite blasting cap. <form>{(&larr;)|bágal}, {-an(&larr;)|bagálan}</form> <pos>n</pos> k.o. <tr>shrimp</tr> of tidal swamps, growing to <measure reg="7.7 cm">3&Prime;</measure> with a thick transparent shell.
 
 <p id=1579><form>bagalnga</form> <pos>n</pos> small tree of thickets: <bio>Melia azedarach</bio>.
 
@@ -451,7 +451,7 @@
 
 <p id=1709><form>bail</form> <pos>a</pos> for fruit or root crops to be hardened due to exposure to heat or mishandling. <i>Bail ang kamúti kay nabuwad sa ínit,</i> The sweet potatoes are hard because they were left in the sun. <pos>v</pos> <itype>[B2; b6]</itype> <tr>get hardened</tr>. <form>{&mdash;|bail} ug náwung</form> <pos>a</pos> <tr>shameless</tr>. <i>Bail ug náwung bayhána kay dì lang mubáli ug insultu,</i> That woman certainly is shameless because she doesn&apos;t mind insults. <form>{pa-|pabail}, {pa-(&larr;)|pabáil}</form> <pos>v</pos> <itype>[A; b6c1]</itype> do s.t. despite the shame it brings. <i>Nagpabail (nagpabáil) siyag pangáyug hinábang kay way kadangpan,</i> He swallowed his pride to ask for help because he has no one to turn to.
 
-<p id=1710><form>bais</form> <pos>n</pos> k.o. large, edible fresh-water <tr>eel</tr> of brown color, growing to 4&prime; and more: <bio>Anguilla sp</bio>.
+<p id=1710><form>bais</form> <pos>n</pos> k.o. large, edible fresh-water <tr>eel</tr> of brown color, growing to <measure reg="1.2 m">4&prime;</measure> and more: <bio>Anguilla sp</bio>.
 
 <p id=1711><form>baíwas</form> <pos>v</pos> <itype>[C3]</itype> for two persons to fail to meet because one had left when the other arrived. <i>Nagkabaíwas ta kay pag-abut nákù mu say paglakaw nímu,</i> We missed each other because when I arrived, you had left.
 
@@ -469,7 +469,7 @@
 
 <p id=1718><form>bakag</form> <xr>= <sc>baklag</sc>.</xr>
 
-<p id=1719><form>bakagan</form> <pos>n</pos> k.o. bony, reddish, flat fish, as wide as the palm and about 1&prime; in length. <pos>v</pos> <itype>[B2]</itype> become thin and bony. <i>Nabakagan siya sa pagkapilian sa pagkáun,</i> She is thin and bony because she is choosy in her food.
+<p id=1719><form>bakagan</form> <pos>n</pos> k.o. bony, reddish, flat fish, as wide as the palm and about <measure reg="30 cm">1&prime;</measure> in length. <pos>v</pos> <itype>[B2]</itype> become thin and bony. <i>Nabakagan siya sa pagkapilian sa pagkáun,</i> She is thin and bony because she is choosy in her food.
 
 <p id=1720><form>bakak</form> <pos>a</pos> be a <tr>lie</tr>, false. <i>Bakak kaáyu nang íyang diklarasiyun,</i> His allegation is a big lie. <pos>v</pos> <itype>[A; c]</itype> tell a lie.<i> Dì ku mubakak nímu,</i> I won&apos;t tell you a lie. <i>Ang mga numiru dílì mamakak,</i> Figures don&apos;t lie. <form>{panghi&N;-|panghimakak}</form> <pos>v</pos> <itype>[A; b15]</itype> <tr>deny</tr>, show s.t. to be false. <i>Mapanghimakak (kapanghimakakan) nákù ang ímung tabì,</i> I can prove your gossip false. <form>{-un(&larr;)|bakákun}</form> <pos>a</pos> <tr>liar</tr>.
 
@@ -495,7 +495,7 @@
 
 <p id=1731><form>bakasiyun</form> <pos>n</pos> <tr>vacation</tr>. <pos>v</pos> <itype>[A; b6]</itype> take, spend vacation. <i>Adtu ku sa Hungkung bakasiyun,</i> I will spend my vacation in H. K. <form>{-ista|bakasiyunista}</form> <pos>n</pos> one who is taking a vacation. <i>Ang Bagyu nagsugwak sa mga bakasyunista,</i> Baguio is crowded with vacationers.
 
-<p id=1732><form>bakat</form> <pos>n</pos> k.o. hamper, a woven container about 2&prime; high with a top. <form>{-in-|binakat}</form> k.o. large, round, smooth <tr>tomato</tr>.
+<p id=1732><form>bakat</form> <pos>n</pos> k.o. hamper, a woven container about <measure reg="61 cm">2&prime;</measure> high with a top. <form>{-in-|binakat}</form> k.o. large, round, smooth <tr>tomato</tr>.
 
 <p id=1733><form>bakatin</form> <pos>n</pos> wild <tr>pig</tr>.
 
@@ -1293,7 +1293,7 @@
 
 <p id=2122><form>banduy</form> <xr>= <sc>bagduy</sc>.</xr>
 
-<p id=2123><form>bandyu</form> <pos>n</pos> musical instrument similar to the <tr>banjo</tr>, but with 6 double strings and a shorter neck, about 10&Prime; long. <pos>v</pos> <itype>[A]</itype> play this instrument. <form>bandyubandyu</form> <pos>n</pos> k.o. fish with long spines and a roundish body that resembles a banjo: <bio>Argyrops spinifer</bio>.
+<p id=2123><form>bandyu</form> <pos>n</pos> musical instrument similar to the <tr>banjo</tr>, but with 6 double strings and a shorter neck, about <measure reg="26 cm">10&Prime;</measure> long. <pos>v</pos> <itype>[A]</itype> play this instrument. <form>bandyubandyu</form> <pos>n</pos> k.o. fish with long spines and a roundish body that resembles a banjo: <bio>Argyrops spinifer</bio>.
 
 <p id=2124><form>bang</form> <pos>n</pos> word used in writing to indicate the sound of an explosion.
 
@@ -1485,7 +1485,7 @@
 
 <p id=2216><form>banhà</form> <number>1</number> <tr>noisy</tr> in a loud way. <number>2</number> exclamation telling s.o. to shut up or to stop making noise. <i>Banhà! <corr sic="Di">Dì</corr> ni mirkádu,</i> Be quiet! This is not the market, you know. <i>Banhà! Wà kay lábut,</i> Shut up! It&apos;s none of your business. <pos>v</pos> <number>1</number> <itype>[A1; a2]</itype> make noise, consider s.t. noisy. <i>Dì ta magbanhà sulud sa simbahan,</i> Let&apos;s not make noise inside the church. <number>2</number> <itype>[A3; c]</itype> divulge s.t. <i>Wà ku magbanhà ning sikritúha sa uban,</i> I never said a word about this secret to anyone. <pos>n</pos> loud voice. <form>{ka-|kabanhà}</form> <pos>n</pos> <xr>= <sc>banhà</sc>, <ix>n</ix>.</xr>
 
-<p id=2217><form>banhal</form> <pos>n</pos> a k.o. <tr>machete</tr> about 20&Prime; long with a blade, the top and bottom of which curve together into a point. On the top edge about three-quarters of the way toward the end there is a hook.
+<p id=2217><form>banhal</form> <pos>n</pos> a k.o. <tr>machete</tr> about <measure reg="51 cm">20&Prime;</measure> long with a blade, the top and bottom of which curve together into a point. On the top edge about three-quarters of the way toward the end there is a hook.
 
 <p id=2218><form>banhaw</form> <pos>v</pos> <itype>[A3; a2]</itype> bring back to life. <i>Kanang awíta mibanhaw sa ákung kabatan-un,</i> That song brings me back to my youth. <i>Si Kristu ang nagbanhaw ni Lasarus,</i> Christ resurrected Lazarus.
 
@@ -1685,7 +1685,7 @@
 
 <p id=2313><form>barat</form> <pos>a</pos> <number>1</number> <tr>cheap</tr>, <tr>petty</tr>: refusing to pay a reasonable price and heeding matters not worth one&apos;s attention. <number>2</number> cheap, <tr>vulgar</tr>. <i>Barat na kaáyu nang bayhána, bísan kinsa lang ang ubanan,</i> That woman is very cheap. Anybody can have her. <pos>v</pos> <number>1</number> <itype>[B; b6]</itype> for a person to become cheap. <i>Mauy ibarat nímu ug ímu siyang ashan,</i> You will come to be vulgar if you attach importance to what she says. <number>2</number> <itype>[B; c1]</itype> for things to be of little value, inferior, make s.t. in an inferior way. <i>Mibarat (nabarat) ang písu,</i> The peso has become devalued. <i>Ayúha pagtahì. Ayawg barata (ibarat),</i> Sew that dress well. Don&apos;t put out s.t. cheap. <form>{-íra|baratíra}</form> <pos>a</pos> fond of bargaining prices down too much. <pos>v</pos> <itype>[B12]</itype> be a haggler. <i>Makabastus ang labihang pagkabaratíra,</i> It is degrading to bargain too hard. <form>{-íru|baratíru}</form> <xr>= <sc>baratíra</sc> (male).</xr>
 
-<p id=2314><form>baratíha</form> <pos>n</pos> piece of wood about 1&Prime; thick, 2&Prime; <pb n=114>wide and anywhere from one foot up in length, usually used for flooring. <pos>v</pos> <itype>[a]</itype> make into floorboards.
+<p id=2314><form>baratíha</form> <pos>n</pos> piece of wood about <measure reg="2.6 cm">1&Prime;</measure> thick, <measure reg="5.1 cm">2&Prime;</measure> <pb n=114>wide and anywhere from one foot up in length, usually used for flooring. <pos>v</pos> <itype>[a]</itype> make into floorboards.
 
 <p id=2315><form>baratilyu</form> <pos>n</pos> bargain sale. <pos>v</pos> <itype>[A1; c1]</itype> hold a bargain sale. <i>Baratilyúhun (ibaratilyu) níla ang ílang uld istak,</i> Their old stock is going to be on sale. <form>{pa&N;-|pamaratilyu}</form> <pos>v</pos> <itype>[A2; b(1)]</itype> buy s.t. on sale. <i>Mamaratilyu kug sapátus,</i> I&apos;ll buy shoes that are on sale.
 
@@ -1705,7 +1705,7 @@
 
 <p id=2323><form>baraybaray</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>pile</tr> s.t. up. <i>Baraybaraya ang mga kahun simpig sa bungbung,</i> Pile the boxes against the wall. <number>2</number> <itype>[AB36; c1]</itype> fall, put in line. <i>Mibaraybaray sila atubángan sa maistru,</i> They lined up before the teacher.
 
-<p id=2324><form>barbahan</form> <pos>n</pos> wooden container for coconut palm toddy in the shape of a rectangle 3&prime; by 4&prime;.
+<p id=2324><form>barbahan</form> <pos>n</pos> wooden container for coconut palm toddy in the shape of a rectangle <measure reg="91 cm">3&prime;</measure> by <measure reg="1.2 m">4&prime;</measure>.
 
 <p id=2325><form>barbas<sub>1</sub></form> <pos>v</pos> <itype>[A; bc]</itype> wash infected skin with boiled leaves of medicinal herbs. <i>Mu rag nagamay ang kabahung nga nabarbasan,</i> The ulcer seemed to get smaller after it was cleaned and washed. <pos>n</pos> the water and boiled leaves of medicinal herbs used in washing sores, ulcers, and other skin diseases.
 
@@ -1735,7 +1735,7 @@
 
 <p id=2338><form>bargas</form> <pos>n</pos> k.o. <tr>plow</tr> made of steel (so called after the brand name Vargas).
 
-<p id=2339><form>barì</form> <pos>n</pos> a k.o. <tr>sickle</tr> for cutting long and thick grass, with the blade at the outside edge, and fastened to a wooden handle about 3&prime; long. <pos>v</pos> <itype>[A; a]</itype> <tr>cut</tr> grass with a <ix>barì.</ix>
+<p id=2339><form>barì</form> <pos>n</pos> a k.o. <tr>sickle</tr> for cutting long and thick grass, with the blade at the outside edge, and fastened to a wooden handle about <measure reg="91 cm">3&prime;</measure> long. <pos>v</pos> <itype>[A; a]</itype> <tr>cut</tr> grass with a <ix>barì.</ix>
 
 <p id=2340><form>barikus</form> <pos>n</pos> <tr>varicose veins</tr>. <pos>v</pos> <itype>[a4b4]</itype> have varicose veins. <i>Barikusun (barikusan) kag maghayhil ka,</i> You&apos;ll get varicose veins if you wear high heels.
 
@@ -1743,7 +1743,7 @@
 
 <p id=2342><form>baril<sub>2</sub></form> <pos>v</pos> <itype>[A; ab2]</itype> <tr>shoot</tr> s.o. or s.t. with a gun. <i>Si Risal dihà barila sa Luníta,</i> Rizal was executed at the Luneta.
 
-<p id=2343><form>barílis<sub>1</sub></form> <pos>n</pos> k.o. blue-finned <tr>tuna</tr> which grows to 3&prime;.
+<p id=2343><form>barílis<sub>1</sub></form> <pos>n</pos> k.o. blue-finned <tr>tuna</tr> which grows to <measure reg="91 cm">3&prime;</measure>.
 
 <p id=2344><form>barílis<sub>2</sub></form> <pos>n</pos> metal <tr>drums</tr> for oil.
 
@@ -2289,7 +2289,7 @@
 
 <p id=2606><form>bay-ansil</form> <pos>n</pos> small-scale business of buying and reselling, usually elsewhere, with a profit. <pos>v</pos> <itype>[A]</itype> engage in this business.
 
-<p id=2607><form>báyas</form> <pos>n</pos> <number>1</number> <tr>bias</tr>, a cut diagonal to the cloth. <number>2</number> piece of cloth cut diagonally about 1&frac12;&Prime; wide to be used as facing. <form>{&mdash;|báyas} tip</form> <pos>a</pos> prepared cloth tape for facing necklines, armholes, or hems. <pos>v</pos> <itype>[A; a]</itype> cut cloth diagonally, cut a bias tape. <i>Bayása ang kwilyu sa ákung sinínà,</i> Cut the collar of my dress diagonally.
+<p id=2607><form>báyas</form> <pos>n</pos> <number>1</number> <tr>bias</tr>, a cut diagonal to the cloth. <number>2</number> piece of cloth cut diagonally about <measure reg="3.8 cm">1&frac12;&Prime;</measure> wide to be used as facing. <form>{&mdash;|báyas} tip</form> <pos>a</pos> prepared cloth tape for facing necklines, armholes, or hems. <pos>v</pos> <itype>[A; a]</itype> cut cloth diagonally, cut a bias tape. <i>Bayása ang kwilyu sa ákung sinínà,</i> Cut the collar of my dress diagonally.
 
 <p id=2608><form>bayat</form> <pos>a</pos> <number>1</number> <tr>worn-out</tr>, dilapidated, esp. clothes. <number>2</number> poor in quality. <number>3</number> <tr>slovenly</tr> in dress. <i>Bayat ang ákung pamisti run kay magtrabáhu man ku sa uma,</i> I&apos;m slovenly dressed because I am going to work in the field. <number>4</number> mentally slow, <tr>stupid</tr>. <i>Kabayat. Dúgay kaáyu nga nakat-un,</i> How dull he is. It took him forever to catch on. <number>5</number> sluggish, slow-moving. <number>6</number> poor in doing things. <i>Bayat kaáyu nang musiyat,</i> He is a poor shot. <form>{(&larr;)|báyat}</form> <pos>v</pos> <itype>[B2; b6]</itype> <number>1</number> for things to get worn out and dilapidated. <i>Nabáyat (mibáyat) na lang ning ákung sapátus sa pagkanúnayng gináwì,</i> My shoes have become ragged and worn-out from constant use. <i>Nagkabayat na ang ílang payag,</i> Their shack is gradually falling into ruin. <number>2</number> be poor in quality. <i>Mabayat (mubayat) giyud nang ímung trabáhug ímung kiátan,</i> Your work will turn out shoddy if you go about it carelessly. <number>3</number> be slovenly. <number>4</number> get to be dull, stupid. <number>5</number> get to be sluggish, slow-moving. <number>6</number> get to be unskilled in doing things. <form>kabayatbayat</form> <pos>v</pos> <itype>[A13]</itype> be hard put to do s.t. because of the large number of things that have to be done at once. <i>Nagkabayatbayat mig panghípus sa wà pa muabut ang mga bisíta,</i> We were in a dither trying to clean up before the visitors arrived.
 
@@ -2375,7 +2375,7 @@
 
 <p id=2648><form>bayupsi</form> <pos>v</pos> <itype>[A; b5]</itype> take a <tr>biopsy</tr>.
 
-<p id=2649><form>bayúrang</form> <pos>n</pos> <number>1</number> a k.o. bolo about 22&Prime; long having a straight blade with a straight back which curves down to the blade near the tip. <number>2</number> a k.o. bolo around 18&Prime; long with a shallow convex curve two-thirds way to the top edge and upward curve on the bottom edge meeting the top edge in a point.
+<p id=2649><form>bayúrang</form> <pos>n</pos> <number>1</number> a k.o. bolo about <measure reg="56 cm">22&Prime;</measure> long having a straight blade with a straight back which curves down to the blade near the tip. <number>2</number> a k.o. bolo around <measure reg="46 cm">18&Prime;</measure> long with a shallow convex curve two-thirds way to the top edge and upward curve on the bottom edge meeting the top edge in a point.
 
 <p id=2650><form>báyut</form> <pos>n</pos> <number>1</number> <tr>sissy</tr>. <i>Báyut ka. Nahadluk ug lawàlawà,</i> You&apos;re a sissy because you&apos;re afraid of spiders. <number>2</number> male <tr>homosexual</tr>. <i>Báyut ang ákung kusturíra,</i> My dressmaker is a homosexual. <number>3</number> small light plane. <pos>v</pos> <itype>[B126; b6]</itype> become sissy or homosexual. <form>{pa&N;-|pamáyut}</form> <pos>v</pos> <itype>[A2; b6]</itype> hire oneself out to a male homosexual. <form>{-un(&rarr;)|bayutun}</form> <pos>a</pos> sissyish, <tr>effeminate</tr>. <i>Bayutun siyang manglihuklihuk,</i> He acts in an effeminate manner. <form>{-i|báyuti}</form> <number>1</number> <xr>= <sc>{-un(&rarr;)|bayutun}</sc>.</xr> <number>2</number> nagging, complaining sort. <pos>v</pos> <itype>[B126; b6]</itype> be a whining grumbler.
 
@@ -2621,7 +2621,7 @@
 
 <p id=2771><form>bilbaw</form> <xr><ix>see</ix> <sc>surísu</sc>.</xr>
 
-<p id=2772><form>bilbig</form> <pos>n</pos> k.o. white, edible clam, growing to 2&Prime;.
+<p id=2772><form>bilbig</form> <pos>n</pos> k.o. white, edible clam, growing to <measure reg="5.1 cm">2&Prime;</measure>.
 
 <p id=2773><form>bilbiki</form> <xr>= <sc>milibiki</sc>.</xr>
 
@@ -2633,7 +2633,7 @@
 
 <p id=2777><form>bildúra</form> <pos>n</pos> vegetables, root crops cooked in stews and soups with meat. <pos>v</pos> <itype>[A; b6(1)]</itype> cook vegetables with soup or stew.
 
-<p id=2778><form>bildyun</form> <pos>n</pos> k.o. bread in loaf, around 6&Prime; long with a fine, soft texture.
+<p id=2778><form>bildyun</form> <pos>n</pos> k.o. bread in loaf, around <measure reg="15 cm">6&Prime;</measure> long with a fine, soft texture.
 
 <p id=2779><form>bilgas</form> <pos>n</pos> Belgian nuns. <i>Ang kulihiyu sa Santa Tirísa gipadágan sa mga bilgas,</i> St. Theresa&apos;s School is run by Belgian sisters.
 
@@ -2677,7 +2677,7 @@
 
 <p id=2798><form>bilungbilung</form> <pos>n</pos> <tr>moonfish</tr>: <bio>Mene maculata</bio>.
 
-<p id=2799><form>bílus</form> <pos>n</pos> k.o. outriggered sailboat, reaching 20&prime; in length. <form>dus {&mdash;|bílus}</form> <pos>n</pos> two-masted sailboat. <pos>v</pos> <itype>[A1; b6]</itype> ride this sort of sailboat.
+<p id=2799><form>bílus</form> <pos>n</pos> k.o. outriggered sailboat, reaching <measure reg="6.1 m">20&prime;</measure> in length. <form>dus {&mdash;|bílus}</form> <pos>n</pos> two-masted sailboat. <pos>v</pos> <itype>[A1; b6]</itype> ride this sort of sailboat.
 
 <p id=2800><form>bilwa</form> <pos>v</pos> <itype>[B16; c1]</itype> for the legs to be spread in falling. <i>Nabilwa ang íyang tiil pagkah&umacracu;g maung nalisa,</i> He fell down with his feet stretched apart, and they were dislocated.
 
@@ -3689,7 +3689,7 @@
 
 <p id=3293><form>bukway</form> <pos>v</pos> <itype>[B; c1]</itype> <number>1</number> for long, thin things to <tr>stretch out</tr>: tendrils, flowers, sunrays, etc. <i>Nagbukway na ang mga bánay sa mais,</i> The corn tassels are spreading out now. <i>Wà pa makabukway ang sílaw sa adlaw ug nakaligù na siya,</i> He took his bath before the sun had spread its rays. <number>2</number> for the arms, tentacles to <tr>spread out</tr> and wave or wiggle. <i>Mibukway ang mga gaway sa kugíta pagkakitag kaáway,</i> The octopus spread his tentacles in all directions when he spotted an enemy. <number>3</number> <itype>[B1256]</itype> in a game of <ix>takyan,</ix> to fail to hit the shuttlecock squarely and thus lose one&apos;s turn to be served. <pos>n</pos> <number>1</number> taro shoots before they develop leaves. <number>2</number> failure to return the serve in <ix>takyan.</ix>
 
-<p id=3294><form>bukya</form> <pos>n</pos> k.o. white, transparent jellyfish, round, growing to 9&Prime; in diameter, with tentacles that inflict a slight sting.
+<p id=3294><form>bukya</form> <pos>n</pos> k.o. white, transparent jellyfish, round, growing to <measure reg="23 cm">9&Prime;</measure> in diameter, with tentacles that inflict a slight sting.
 
 <p id=3295><form>bukyàbukyà</form> <xr>= <sc>bukya</sc>.</xr>
 
@@ -3935,7 +3935,7 @@
 
 <p id=3415><form>bulug<sub>3</sub></form> <pos>n</pos> whitish growth on the eyes which eventually causes blindness. <pos>v</pos> <itype>[b4]</itype> get such a growth.
 
-<p id=3416><form>bulug<sub>4</sub></form> <pos>n</pos> a k.o. <tr>bolo</tr> around 20&Prime; long with a flat end and curved blade having a pronounced concave bend on both top and bottom edges two-thirds of the way from the end.
+<p id=3416><form>bulug<sub>4</sub></form> <pos>n</pos> a k.o. <tr>bolo</tr> around <measure reg="51 cm">20&Prime;</measure> long with a flat end and curved blade having a pronounced concave bend on both top and bottom edges two-thirds of the way from the end.
 
 <pb n=167>
 
@@ -4347,7 +4347,7 @@
 
 <p id=3619><form>burúwas</form> <xr>= <sc>brúwa</sc>.</xr>
 
-<p id=3620><form>búruy</form> <pos>n</pos> <number>1</number> k.o. purple jellyfish, hemispherical in shape, reaching 8&Prime; in diameter. <number>2</number> general name for jellyfish.
+<p id=3620><form>búruy</form> <pos>n</pos> <number>1</number> k.o. purple jellyfish, hemispherical in shape, reaching <measure reg="20 cm">8&Prime;</measure> in diameter. <number>2</number> general name for jellyfish.
 
 <p id=3621><form>bus<sub>1</sub></form> <pos>n</pos> <tr>bus</tr>. <pos>v</pos> <itype>[A; a12]</itype> take a bus.
 

@@ -95,7 +95,7 @@
 
 <p id=11962><form>madyik</form> <pos>n</pos> <number>1</number> <tr>magic</tr> involving supernatural powers. <number>2</number> <tr>sleight-of-hand</tr> trick. <i>Nalingaw ang mga bátà sa ákung madyik,</i> The children enjoyed my tricks. <pos>v</pos> <number>1</number> <itype>[A1; a2]</itype> <tr>practice magic</tr>. <number>2</number> <itype>[A; a]</itype> <tr>steal</tr> s.t. small. <i>Huy, kinsay nagmadyik sa ákung bulpin diri?</i> Hey, who swiped my ball point pen? <form>{-íru|madyikíru}</form> <pos>n</pos> magician.
 
-<p id=11963><form>madyung<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>sandspurs</tr>, k.o. coarse grass growing about 1&prime; that bears spikes with rows of round burrs, around &frac14;&Prime; in diameter. <number>2</number> the burrs of this grass. <form>{ka-|kamadyung}</form> <pos>v</pos> <itype>[A13]</itype> get sandspurs all over one.
+<p id=11963><form>madyung<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>sandspurs</tr>, k.o. coarse grass growing about <measure reg="30 cm">1&prime;</measure> that bears spikes with rows of round burrs, around &frac14;&Prime; in diameter. <number>2</number> the burrs of this grass. <form>{ka-|kamadyung}</form> <pos>v</pos> <itype>[A13]</itype> get sandspurs all over one.
 
 <p id=11964><form>madyung<sub>2</sub></form> <pos>n</pos> <tr>mahjong</tr>. <pos>a</pos> win the mahjong set. <i>Pung! Madyung ku, Bingo!</i> I get mahjong! <pos>v</pos> <number>1</number> <itype>[A3; a]</itype> play mahjong. <i>Dílì na lang ta magdúlag baráha. Madyúngun ta na lang ni,</i> Let&apos;s not play cards. Let&apos;s just play mahjong. <number>2</number> <itype>[A12]</itype> win at mahjong. <i>Wà pa ku makamadyung,</i> I haven&apos;t gotten mahjong yet. <form>{-an(&rarr;)|madyungan}</form> <pos>n</pos> <number>1</number> mahjong den. <number>2</number> <tr>mahjong set</tr>. <number>3</number> piece needed to get &lsquo;mahjong&rsquo;. <i>Ang madyungan ni Turuy tris sirkulu,</i> Toroy is waiting for the three circle piece. <form>{-íru|madyungíru}, {<corr>-</cor>íra|madyungíra}</form> <pos>a</pos> mahjong addict.
 
@@ -169,7 +169,7 @@
 
 <p id=11999><form>ma-in-un(&larr;), ma-in-ánun</form> alternant of <ix>ma-un</ix> used with some bases in place of <ix>ma-un</ix>. <i>Matinabángun,</i> Helpful. <i>Masinabtánun,</i> Full of understanding.
 
-<p id=12000><form>mais</form> <pos>n</pos> <number>1</number> <tr>maize</tr>, the <tr>corn</tr> plant or any part of it. <number>1a</number> <formx>bugas {&mdash;|mais}</formx> <tr>corn grits</tr>. <i>Mahal na ang prisyu sa bugas mais karun,</i> The price of corn grits has increased. <pos>v</pos> <itype>[A1]</itype> have corn grits as one&apos;s staple food. <i>Nagmais lang mi kay barátu man kay sa humay,</i> We had corn grits as our staple food because it is cheaper than rice. <form>{-an|maísan}, {ka-an|kamaísan}, {-al|maísal}</form> <pos>n</pos> <tr>cornfield</tr>. <pos>v</pos> <itype>[A1; a12]</itype> have a cornfield. <form>maismáis</form> <pos>n</pos> <number>1</number> ornamental plant similar to the corn plant, and growing up to 3&prime;: <bio>Dracaena sanderiana</bio> and <bio><corr> D. </corr>fragrans</bio>. <number>2</number> folding knife with a handle that is made of sheet metal, molded into the form of an ear of corn. <number>3</number> name given to the largest species of flying fish (<ix>bangsi</ix>). <form>{-un|maísun}</form> <xr>= <sc>maismáis</sc>, <ix>3</ix>.</xr>
+<p id=12000><form>mais</form> <pos>n</pos> <number>1</number> <tr>maize</tr>, the <tr>corn</tr> plant or any part of it. <number>1a</number> <formx>bugas {&mdash;|mais}</formx> <tr>corn grits</tr>. <i>Mahal na ang prisyu sa bugas mais karun,</i> The price of corn grits has increased. <pos>v</pos> <itype>[A1]</itype> have corn grits as one&apos;s staple food. <i>Nagmais lang mi kay barátu man kay sa humay,</i> We had corn grits as our staple food because it is cheaper than rice. <form>{-an|maísan}, {ka-an|kamaísan}, {-al|maísal}</form> <pos>n</pos> <tr>cornfield</tr>. <pos>v</pos> <itype>[A1; a12]</itype> have a cornfield. <form>maismáis</form> <pos>n</pos> <number>1</number> ornamental plant similar to the corn plant, and growing up to <measure reg="91 cm">3&prime;</measure>: <bio>Dracaena sanderiana</bio> and <bio><corr> D. </corr>fragrans</bio>. <number>2</number> folding knife with a handle that is made of sheet metal, molded into the form of an ear of corn. <number>3</number> name given to the largest species of flying fish (<ix>bangsi</ix>). <form>{-un|maísun}</form> <xr>= <sc>maismáis</sc>, <ix>3</ix>.</xr>
 
 <p id=12001><form>maistra</form> <pos>n</pos> <number>1</number> <tr>female teacher</tr>. <number>1a</number> term of address or title for a teacher. <i>Nía na si Maistra Lúling,</i> Here is Mrs. Loling, the teacher. <number>2</number> education course. <i>Maistra ang gikúhang kursu ni Pirla,</i> Perla is majoring in Education. <form>{(&rarr;)|maistra}</form> <ix>voc.</ix> teacher, ma&apos;am. <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> for a woman to teach. <i>Tunghaan nga gimaistráhan ni Sunya,</i> The school where Sonia is teaching. <number>2</number> <itype>[B156; a1]</itype> be a (female) teacher. <i>Maistráhun ku ning ákung anak,</i> I&apos;ll make my daughter into a teacher. <form>ubra {&mdash;|maistra}</form> <ix>see</ix> <xr><sc>ubra</sc>.</xr>
 
@@ -193,7 +193,7 @@
 
 <p id=12011><form>Makaw</form> <pos>n</pos> <number>1</number> Chinaman from Macao. <number>2</number> Chinaman in a restaurant business (so called because many cooks in Chinese restaurants immigrated from Macao). <form>lútung {&mdash;|Makaw}</form> <ix>see</ix> <xr><sc>lútù</sc>.</xr>
 
-<p id=12012><form>máki<sub>1</sub></form> <pos>n</pos> a large, enamel-coated, round, metal platter, 18&Prime; or so in diameter for holding cooked rice or corn.
+<p id=12012><form>máki<sub>1</sub></form> <pos>n</pos> a large, enamel-coated, round, metal platter, <measure reg="46 cm">18&Prime;</measure> or so in diameter for holding cooked rice or corn.
 
 <p id=12013><form>máki<sub>2</sub></form> <pos>n</pos> a Chinese dish of sliced meats, stewed and thickened with cornstarch.
 
@@ -237,13 +237,13 @@
 
 <p id=12032><form>mal-am</form> <pos>a</pos> <number>1</number> <tr>old</tr> in age. <number>2</number> <tr>grown up</tr>, but not doing things befitting one&apos;s age (derogatory). <i>Mal-am na, lubut gihápuy ilingkud,</i> He is already grown but he hasn&apos;t got anything upstairs (lit. all he does with his buttocks is sit on them&mdash;a readily understood circumlocution which avoids stating outright a hurtful truth).
 
-<p id=12033><form>malangsi</form> <pos>n</pos> k.o. <tr>sardine</tr> or small herring, growing to 4&Prime; long and 1&Prime; wide.
+<p id=12033><form>malangsi</form> <pos>n</pos> k.o. <tr>sardine</tr> or small herring, growing to <measure reg="10 cm">4&Prime;</measure> long and <measure reg="2.6 cm">1&Prime;</measure> wide.
 
 <p id=12034><form>malapati</form> <pos>n</pos> k.o. <tr>fish</tr>.
 
 <p id=12035><form>malapi</form> (not without <ix>l</ix>) <form>kumpradur di-</form> <pos>n</pos> one who buys goods which he knows the seller has no right to dispose of. <pos>v</pos> <itype>[B1256]</itype> be a buyer of stolen goods. <i>Makumpradur dimalapi giyud ka kun makapalit ka niánang kináwat,</i> You&apos;ll be a buyer of stolen goods if you buy that stolen article.
 
-<p id=12036><form>malapunti</form> <pos>n</pos> k.o. red deep-sea fish with big reddish scales, 2&prime; by 6&Prime;, similar to a snapper, but with a filament projecting from the tip of the tail.
+<p id=12036><form>malapunti</form> <pos>n</pos> k.o. red deep-sea fish with big reddish scales, <measure reg="61 cm">2&prime;</measure> by <measure reg="15 cm">6&Prime;</measure>, similar to a snapper, but with a filament projecting from the tip of the tail.
 
 <p id=12037><form>malarya</form> <pos>n</pos> <tr>malaria</tr>. <pos>v</pos> <itype>[A123P; a4]</itype> get, cause to get malaria. <i>Way lamuk nga makamalarya (makapamalarya) dinhi,</i> There are no mosquitoes here that cause malaria. <i>Tambáli ang gimalarya,</i> Give medicine to the man with malaria. <form>malaryahun</form> <pos>a</pos> having malaria.
 
@@ -301,7 +301,7 @@
 
 <p id=12064><form>malpagadur</form> <pos>a</pos> failing to pay one&apos;s debts. <pos>v</pos> <itype>[B1256]</itype> get to be a defaulter in one&apos;s debts. <i>Ug mamalpagadur ka, wà nay musálig pagpaútang nímu,</i> If you become a bad debtor, no one will dare allow you credit. <form>{-a(&larr;)|malpagadúra}</form> <xr>= <sc>malpagadur</sc></xr> (female).
 
-<p id=12065><form>maltabána</form> <pos>n</pos> glazed brown urn, about 2&prime; high with a small mouth and handles at the shoulders. <pos>v</pos> <itype>[A13; a12]</itype> make into, put in glazed clay jars.
+<p id=12065><form>maltabána</form> <pos>n</pos> glazed brown urn, about <measure reg="61 cm">2&prime;</measure> high with a small mouth and handles at the shoulders. <pos>v</pos> <itype>[A13; a12]</itype> make into, put in glazed clay jars.
 
 <p id=12066><form>maltratar</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>maltreat</tr>, <tr>mistreat</tr>. <i>Maltratahun siya sa íyang amaáma,</i> His stepfather will maltreat him.
 
@@ -453,7 +453,7 @@
 
 <p id=12139><form>manggu</form> <pos>n</pos> handle of a pick, ax or a similar tool. <pos>v</pos> <itype>[b6(1)]</itype> make a handle of this sort.
 
-<p id=12140><form>manggulimbaw</form> <pos>n</pos> k.o. shrimp growing to 1&frac12;&Prime; with one claw bigger than the other.
+<p id=12140><form>manggulimbaw</form> <pos>n</pos> k.o. shrimp growing to <measure reg="3.8 cm">1&frac12;&Prime;</measure> with one claw bigger than the other.
 
 <p id=12141><form>manggustan</form> <pos>n</pos> <tr>mangosteen</tr>.
 
@@ -465,7 +465,7 @@
 
 <p id=12145><form>mangku</form> <pos>n</pos> s.o. with an arm deformity characterized by being twisted at the elbow. <pos>v</pos> <itype>[B12]</itype> have a deformed arm. <i>Namangku siya dihang napíang íyang síku,</i> He got a deformed arm when he broke his elbow.
 
-<p id=12146><form>mangkù</form> <pos>n</pos> k.o. small mackerel with a maximum width of 3&Prime;.
+<p id=12146><form>mangkù</form> <pos>n</pos> k.o. small mackerel with a maximum width of <measure reg="7.7 cm">3&Prime;</measure>.
 
 <p id=12147><form>mangkumu</form> <xr>= &dagger; <sc>magkunu</sc>.</xr>
 
@@ -1209,7 +1209,7 @@
 
 <p id=12513><form>miníru</form> <pos>n</pos> <tr>miner</tr>. <pos>v</pos> <itype>[B1456]</itype> be a miner.
 
-<p id=12514><form>miniskirt</form> <pos>n</pos> <tr>miniskirt</tr>, k.o. skirt that hugs the hips and is 2&ndash;5&Prime; above the knee. <pos>v</pos> <itype>[A]</itype> wear a miniskirt.
+<p id=12514><form>miniskirt</form> <pos>n</pos> <tr>miniskirt</tr>, k.o. skirt that hugs the hips and is <measure reg="10&ndash;13 cm">2&ndash;5&Prime;</measure> above the knee. <pos>v</pos> <itype>[A]</itype> wear a miniskirt.
 
 <p id=12515><form>ministil</form> <ix>see</ix> <xr><sc>mistil</sc>.</xr>
 

@@ -136,7 +136,7 @@
 
 <p id=17766><form>tabid<sub>1</sub></form> <pos>v</pos> <itype>[B346; c1]</itype> <tr>trickle</tr>, <tr>drip</tr>, flowing down a side. <i>Magtabid nang íyang láway ug matúlug,</i> Her saliva trickles from her lips as she sleeps.
 
-<p id=17767><form>tabid<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>braid</tr> the hair. <i>Tabira nang buhuk mu, ayaw ipunitil,</i> Braid your hair instead of having it in ponytail. <number>2</number> <itype>[A13; a12]</itype> make into a <ix>tabid</ix>. <pos>n</pos> k.o. <tr>hamper</tr> for containing clothes woven from bamboo strips around 20&prime; by 20&prime;, with a cover. <form>{-in-|tinabid}</form> <pos>n</pos> <tr>braided hair</tr>.
+<p id=17767><form>tabid<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>braid</tr> the hair. <i>Tabira nang buhuk mu, ayaw ipunitil,</i> Braid your hair instead of having it in ponytail. <number>2</number> <itype>[A13; a12]</itype> make into a <ix>tabid</ix>. <pos>n</pos> k.o. <tr>hamper</tr> for containing clothes woven from bamboo strips around <measure reg="6.1 m">20&prime;</measure> by <measure reg="6.1 m">20&prime;</measure>, with a cover. <form>{-in-|tinabid}</form> <pos>n</pos> <tr>braided hair</tr>.
 
 <p id=17768><form>tabig</form> <xr>= <sc>tabid<sub>2</sub></sc>, <i>v2, n.</i></xr>
 
@@ -150,7 +150,7 @@
 
 <p id=17773><form>tabiláwan</form> (coined from <ix>tábil</ix> and <ix>laráwan</ix>) <pos>n</pos> <tr>stage curtain</tr>, <tr>backdrop</tr>.
 
-<p id=17774><form>tabili</form> <pos>n</pos> k.o. lizard, about 1&frac12;&prime; long with shining yellow and green skin, found out-of-doors. <form>{&mdash;|tabili} sa dágat</form> <pos>n</pos> lizard fish, a k.o. fish around 6&Prime; long, living on sandy bottoms of shallow waters.
+<p id=17774><form>tabili</form> <pos>n</pos> k.o. lizard, about <measure reg="46 cm">1&frac12;&prime;</measure> long with shining yellow and green skin, found out-of-doors. <form>{&mdash;|tabili} sa dágat</form> <pos>n</pos> lizard fish, a k.o. fish around <measure reg="15 cm">6&Prime;</measure> long, living on sandy bottoms of shallow waters.
 
 <p id=17775><form>tabílis</form> <pos>v</pos> <itype>[A2S]</itype> <tr>flow</tr>, <tr>drip</tr> continuously. <i>Mitabílis ang túbig sa tangking nabuslut,</i> Water flowed continuously from the water tank that had a hole in it. <form>{-in-|tinabílis}</form> <pos>n</pos> <tr>continuous flow</tr>, <tr>dripping</tr>, <tr>trickling</tr>.
 
@@ -194,7 +194,7 @@
 
 <p id=17795><form>tabudlung</form> <xr>= <sc>budlung<sub>2</sub></sc>.</xr>
 
-<p id=17796><form>tabudyus</form> <pos>a</pos> <tr>cylindrical</tr>. <i>Tabudyus ang panghaw sa barku,</i> The ship&apos;s chimney is cylindrical. <pos>n</pos> <number>1</number> the fry of the <ix>gisaw</ix>. <number>2</number> sweet made of starch from the trunk of buri palm mixed with grated coconut meat, sugar, and <pb n=954>water, wrapped in banana leaves and rolled to cylinders the size of a child&apos;s arm, about 7&Prime; long, and roasted. <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> roll into a cylinder, tube. <i>Nagtabudyus siyag sín nga himúung túbu sa túbig,</i> He rolled a galvanized sheet into a cylinder to make a water pipe. <number>2</number> <itype>[A; a]</itype> prepare <ix>tabudyus</ix>.
+<p id=17796><form>tabudyus</form> <pos>a</pos> <tr>cylindrical</tr>. <i>Tabudyus ang panghaw sa barku,</i> The ship&apos;s chimney is cylindrical. <pos>n</pos> <number>1</number> the fry of the <ix>gisaw</ix>. <number>2</number> sweet made of starch from the trunk of buri palm mixed with grated coconut meat, sugar, and <pb n=954>water, wrapped in banana leaves and rolled to cylinders the size of a child&apos;s arm, about <measure reg="18 cm">7&Prime;</measure> long, and roasted. <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> roll into a cylinder, tube. <i>Nagtabudyus siyag sín nga himúung túbu sa túbig,</i> He rolled a galvanized sheet into a cylinder to make a water pipe. <number>2</number> <itype>[A; a]</itype> prepare <ix>tabudyus</ix>.
 
 <p id=17797><form>tabug</form> <pos>n</pos> <number>1</number> <xr>= <sc>tablug</sc>, <i>n</i>.</xr> <number>2</number> beehive hanging from a tree branch shaped like a mammary gland. <form>tabugtabug</form> <xr>= <sc>tablugtablug</sc>.</xr> <xr><ix>see</ix> <sc>tablug</sc>.</xr>
 
@@ -212,7 +212,7 @@
 
 <p id=17804><form>tabuk</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> <tr>cross over</tr>, bring s.t. across to the opposite side. <i>Mutabuk na ta sa karsáda,</i> Let&apos;s cross the street. <i>Kuyaw tabukun ning subáa kay sulug,</i> This river is dangerous to cross because the current is strong. <i>Itabuk ning asin sa píkas p&umacrcir;,</i> Bring the salt across to the other island. <number>1a</number> <itype>[A2; a]</itype> emigrate to another island. <i>Mitabuk siya sa Mindanaw pamásin nga muasinsu,</i> He migrated to Mindanao in the hope that he would be successful there. <number>2</number> <itype>[A2; b6]</itype> move from one group or affiliation to a rival one. <i>Ang Libiral nga diputádu mitabuk ngadtu sa Nasyunalista,</i> The Liberal congressman crossed over to the Nacionalista Party. <pos>n</pos> area on the other side, across the street. <i>Túa siya manarabáhu sa tabuk,</i> He works on the other island (other bank). <form>{-anan(&larr;)|tabukanan}</form> <pos>n</pos> <number>1</number> <tr>ferryboat</tr>. <number>2</number> small, make-shift bridge. <form>{-anun(&larr;)|tabukánun}</form> <pos>n</pos> people from across the street, the other island. <form>{-l-un|talabukun}</form> <pos>a</pos> to be reached by crossing a body of water.
 
-<p id=17805><form>tabukaw</form> <pos>n</pos> k.o. yaws, swelling with an oozing opening in the center, growing to 1&Prime;, after which <ix>sungkil</ix> develops.
+<p id=17805><form>tabukaw</form> <pos>n</pos> k.o. yaws, swelling with an oozing opening in the center, growing to <measure reg="2.6 cm">1&Prime;</measure>, after which <ix>sungkil</ix> develops.
 
 <p id=17806><form>Tabúli</form> <pos>n</pos> a pagan ethnic group of Cotabato.
 
@@ -228,7 +228,7 @@
 
 <p id=17812><form>tabúnun</form> <pos>a</pos> <tr>brown-skinned</tr>. <pos>n</pos> the <tr>brown race</tr>. <i>Si Risal garbu sa yútang tabúnun,</i> Rizal is the pride of the land of the brown race.
 
-<p id=17813><form>tabunus</form> <pos>n</pos> a covered <tr>receptacle</tr> esp. for soiled clothes about 2&ndash;3&prime; long, made of sawali.
+<p id=17813><form>tabunus</form> <pos>n</pos> a covered <tr>receptacle</tr> esp. for soiled clothes about <measure reg="61&ndash;91 cm">2&ndash;3&prime;</measure> long, made of sawali.
 
 <p id=17814><form>taburíti</form> <pos>n</pos> wooden or rattan <tr>chair</tr> with a backrest.
 
@@ -262,7 +262,7 @@
 
 <p id=17829><form>tadlungan</form> <pos>n</pos> black-finned <tr>shark</tr>: <bio>Carcharias melanopterus</bio>.
 
-<p id=17830><form>tadluy</form> <pos>n</pos> <number>1</number> small <tr>funnel</tr> for solids, used to get rice out of sacks to see what the contents are. <number>2</number> a k.o. <tr>fish</tr> with a round, tapered body growing about 5&Prime; or 6&Prime; in length, about an inch in diameter, white belly and darker back, with fine scales. a straight, in line with. <i>Syárug dílì ka kapasulud sa numiru dyís nga tadluy man ni kaáyu ngadtus bangag,</i> Surely you can get the number ten ball in because it is directly in line with the hole.
+<p id=17830><form>tadluy</form> <pos>n</pos> <number>1</number> small <tr>funnel</tr> for solids, used to get rice out of sacks to see what the contents are. <number>2</number> a k.o. <tr>fish</tr> with a round, tapered body growing about <measure reg="13 cm">5&Prime;</measure> or <measure reg="15 cm">6&Prime;</measure> in length, about an inch in diameter, white belly and darker back, with fine scales. a straight, in line with. <i>Syárug dílì ka kapasulud sa numiru dyís nga tadluy man ni kaáyu ngadtus bangag,</i> Surely you can get the number ten ball in because it is directly in line with the hole.
 
 <p id=17831><form>tadtad</form> <pos>v</pos> <itype>[A; a]</itype> <tr>chop</tr> into bits. <i>Nagtadtad siyag tinái arun himúung dugùdugù,</i> He is chopping entrails into bits for the blood stew. <number>2</number> <itype>[A; a2b2]</itype> have <tr>sexual intercourse</tr> (slang). <pos>n</pos> <number>1</number> action of <tr>cutting</tr>. <number>2</number> <tr>sexual intercourse</tr>. <form>maáyu lang tayáda way {&mdash;|tadtad}</form> all talk and no action. <form>tadtaran</form> <pos>n</pos> <tr>chopping board</tr>. <form>{-in-|tinadtad}</form> <pos>n</pos> dish consisting primarily of chopped entrails and blood.
 
@@ -804,7 +804,7 @@
 
 <pb n=971>
 
-<p id=18099><form>talatala</form> (not without <ix>l</ix>) <pos>a</pos> <tr>foolish</tr>, slightly crazy. <i>Talatala, ngánung giusíkan nímu,</i> <tr>Stupid</tr>! Why are you wasting it? <pos>n</pos> <number>1</number> k.o. small <tr>frog</tr> about 2&Prime;, of marshy areas, often seen in trees. <number>2</number> one who is constantly chattering about unimportant things sounding like the <ix>talatala</ix> frog. <pos>v</pos> <itype>[B126]</itype> become <tr>crazy</tr>. <i>Natalatala siya human bulagi,</i> He became crazy when his girl left him.
+<p id=18099><form>talatala</form> (not without <ix>l</ix>) <pos>a</pos> <tr>foolish</tr>, slightly crazy. <i>Talatala, ngánung giusíkan nímu,</i> <tr>Stupid</tr>! Why are you wasting it? <pos>n</pos> <number>1</number> k.o. small <tr>frog</tr> about <measure reg="5.1 cm">2&Prime;</measure>, of marshy areas, often seen in trees. <number>2</number> one who is constantly chattering about unimportant things sounding like the <ix>talatala</ix> frog. <pos>v</pos> <itype>[B126]</itype> become <tr>crazy</tr>. <i>Natalatala siya human bulagi,</i> He became crazy when his girl left him.
 
 <p id=18100><form>taláuk</form> <pos>v</pos> <itype>[A]</itype> <tr>crow</tr>. <i>Sayu pa tu; nagtaláuk pa ang mga manuk,</i> It was still early; the cocks were still crowing. <pos>n</pos> the sound of <tr>crowing</tr>. <i>Ang taláuk sa manuk timailhan nga saylu na sa tungang gabíi,</i> The cock&apos;s crow means that it is past midnight.
 
@@ -1064,7 +1064,7 @@
 
 <p id=18227><form>tambawu</form> <pos>n</pos> k.o. <tr>frog</tr> that thrives on land.
 
-<p id=18228><form>tambayáwan</form> <pos>n</pos> k.o. <tr>spider</tr> found in and inhabiting thickets, 3&Prime;&ndash;5&Prime; in diameter including the feet, mottled green and black in color.
+<p id=18228><form>tambayáwan</form> <pos>n</pos> k.o. <tr>spider</tr> found in and inhabiting thickets, <measure reg="7.7&ndash;13 cm">3&Prime;&ndash;5&Prime;</measure> in diameter including the feet, mottled green and black in color.
 
 <p id=18229><form>tambayáyung</form> (from <ix>yáyung</ix>) <pos>v</pos> <itype>[A1C; b(1)]</itype> work together sharing the labor, share in expenses. <i>Dílì siya mutambayáyung sa buluhatun sa balay,</i> He does not <tr>help out</tr> with household chores. <i>Nagtambayáyung mi sa ábang,</i> We each pay a share of the rent. <pos>n</pos> one whom one works together with to accomplish s.t. <form>{ka-|katambayáyung}</form> <xr>= <sc>tambayáyung</sc>, <i>n</i>.</xr>
 
@@ -1074,7 +1074,7 @@
 
 <p id=18232><form>tambilágaw</form> <pos>a</pos> for the vision to be blurred. <i>Tambilágaw íyang panan-aw sa lúhà,</i> Her vision is all blurred from the tears. <pos>v</pos> <itype>[B; b6]</itype> for the vision to become blurred.
 
-<p id=18233><form>tambis</form> <pos>n</pos> k.o. fruit tree with bell-shaped, pinkish fruits, about 2&Prime; long: <bio>Eugenia aquea</bio>. <form>{&mdash;|tambis} nga putì</form> variety with white fruit. <pos>v</pos> <itype>[B56]</itype> for the external genitalia of a sow that is in the heat to redden like a <ix>tambis</ix> fruit. <form>{-un|tambísun}</form> <pos>n</pos> full and pinkish. <i>Tambísun ang íyang ngábil,</i> She has full and red lips.
+<p id=18233><form>tambis</form> <pos>n</pos> k.o. fruit tree with bell-shaped, pinkish fruits, about <measure reg="5.1 cm">2&Prime;</measure> long: <bio>Eugenia aquea</bio>. <form>{&mdash;|tambis} nga putì</form> variety with white fruit. <pos>v</pos> <itype>[B56]</itype> for the external genitalia of a sow that is in the heat to redden like a <ix>tambis</ix> fruit. <form>{-un|tambísun}</form> <pos>n</pos> full and pinkish. <i>Tambísun ang íyang ngábil,</i> She has full and red lips.
 
 <p id=18234><form>tambiyúlu</form> <xr>= <sc>kambiyúlu</sc>.</xr>
 
@@ -1353,7 +1353,7 @@
 
 <p id=18371><form>tangki</form> <pos>n</pos> <number>1</number> <tr>tank</tr> for water, fuel, et al. <number>2</number> military tank used in warfare. <number>3</number> tank, artificial pool for fish. <i>May tulu ka tangki ang ílang pispan,</i> Their fishpond has three tanks. <pos>v</pos> <itype>[A13; c1]</itype> keep, raise in a fishpond. <i>Daghang nagtangki ug bangus niíning dapíta,</i> A lot of people here raise milkfish in fishponds.
 
-<p id=18372><form>tangkig</form> <pos>n</pos> k.o. harmless freshwater <tr>snake</tr>, growing up to 2&prime; and 2&Prime; in circumference.
+<p id=18372><form>tangkig</form> <pos>n</pos> k.o. harmless freshwater <tr>snake</tr>, growing up to <measure reg="61 cm">2&prime;</measure> and <measure reg="5.1 cm">2&Prime;</measure> in circumference.
 
 <p id=18373><form>tangkihud</form> (from <ix>kihud</ix>) <pos>v</pos> <itype>[B16; b6]</itype> <tr>limp</tr>. <i>Arun dì siya sugúun gitangkihuran ku níya,</i> She walked with a limp in front of me so I wouldn&apos;t send her on an errand.
 
@@ -1499,7 +1499,7 @@
 
 <p id=18443><form>tápay<sub>2</sub></form> <pos>v</pos> <itype>[B12; c1]</itype> for roasted rice grains to be pounded flat. <i>Nagkatápay na ang pinípig sa tantung linubuk,</i> The <ix>pinípig</ix> is becoming flat from constant pounding.
 
-<p id=18444><form>tapdagan</form> <pos>n</pos> k.o. sweet banana with green peelings, growing to about 4&Prime;, similar to <i>búngan.</i> It is eaten uncooked.
+<p id=18444><form>tapdagan</form> <pos>n</pos> k.o. sweet banana with green peelings, growing to about <measure reg="10 cm">4&Prime;</measure>, similar to <i>búngan.</i> It is eaten uncooked.
 
 <p id=18445><form>tapdagay</form> <pos>n</pos> k.o. light colored cerith found clinging to small stones. Upon sensing danger they draw back into their shells and release their hold thus falling down.
 
@@ -2019,7 +2019,7 @@
 
 <p id=18698><form>tighulug</form> <ix>see</ix> <xr><sc>húlug</sc>.</xr>
 
-<p id=18699><form>tigi</form> <pos>n</pos> a small <tr>anchovy</tr> of shallow waters, 4&ndash;5&Prime;, darkish brown in color on the dorsal part of the body and silvery sides: <bio>Thrissocles spp</bio>. and <bio>Scutengraulis spp</bio>. <form>tigihun</form> <xr>= <sc>tigi</sc>.</xr>
+<p id=18699><form>tigi</form> <pos>n</pos> a small <tr>anchovy</tr> of shallow waters, <measure reg="10&ndash;13 cm">4&ndash;5&Prime;</measure>, darkish brown in color on the dorsal part of the body and silvery sides: <bio>Thrissocles spp</bio>. and <bio>Scutengraulis spp</bio>. <form>tigihun</form> <xr>= <sc>tigi</sc>.</xr>
 
 <p id=18700><form>tígì<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[AC; a1c3]</itype> pit persons against each other to determine who is the best in s.t. <i>Ang prinsísay mutígì sa buut mangasáwa níya,</i> The princess will have the people that want to marry her vie with each other. <i>Magtígì (magtigiay) ta kun kinsay taas ug utung,</i> Let&apos;s have a contest to see who can hold his breath longest. <i>Palaínum sad tung gikatígì nákug ínum,</i> The one I had a drinking bout with was also a drunkard. <number>2</number> <itype>[A; a12]</itype> diagnose an illness by a marble placed at the edge of a glass. A yes-no question is put by the sorcerer, and if the marble falls, the answer is &lsquo;no&rsquo;. <i>Tigíun nátù ang sakit,</i> We will divine the sickness. <pos>n</pos> <tr>contest</tr> between two people or teams. <form>{-ay(&rarr;)|tigiay}</form> <pos>v</pos> <itype>[C]</itype> <tr>vie</tr> with one another. <pos>n</pos> <tr>contest</tr>. <form>{panag-|panagtígì}</form> <pos>n</pos> a <tr>vying</tr> with one another. <i>Ang kulilísi panagtígì sa mga birsu,</i> The <ix>kulilísi</ix> is a contest in making verses.
 
@@ -2229,7 +2229,7 @@
 
 <p id=18802><form>tíkug</form> <pos>n</pos> <number>1</number> k.o. thin-bladed <tr>grass</tr> of swamps growing to 3 m., used for mats and hats: <bio>Fimbristylis globulosa</bio>. <number>2</number> sleeping mat made from the <ix>tíkug</ix> plant.
 
-<p id=18803><form>tikúgas</form> <pos>n</pos> k.o. <tr>rail</tr> found in rice fields or marshy areas, 5&ndash;6&Prime; high, and used for food, the white-breasted <tr>swamphen</tr>: <bio>Amaurornis phoenicurus</bio>.
+<p id=18803><form>tikúgas</form> <pos>n</pos> k.o. <tr>rail</tr> found in rice fields or marshy areas, <measure reg="13&ndash;15 cm">5&ndash;6&Prime;</measure> high, and used for food, the white-breasted <tr>swamphen</tr>: <bio>Amaurornis phoenicurus</bio>.
 
 <p id=18804><form>tikugkug</form> <pos>a</pos> for the body to be very bent. <i>Tikugkug ka na kaáyu tungud sa tísis,</i> You are very haggard and bent because of your tuberculosis. <pos>v</pos> <itype>[B6]</itype> for the body to become bent. <i>Nagtikugkug na siya sa kaníwang,</i> She has grown bent from extreme thinness. <form>{-un(&rarr;)|tikugkugun}</form> <pos>a</pos> having a bent body.
 
@@ -2285,7 +2285,7 @@
 
 <p id=18830><form>tilad</form> <pos>n</pos> mixture of betel nut, bettle-pepper leaves, and lime for chewing. <pos>v</pos> <itype>[AN; a]</itype> chew betel. <form>tilaran</form> <pos>n</pos> container for the betel chewing equipment.
 
-<p id=18831><form>tiladtilad</form> <pos>n</pos> k.o. dark-brown <tr>millipede</tr> about 1&frac14;&Prime; long which coils up when touched.
+<p id=18831><form>tiladtilad</form> <pos>n</pos> k.o. dark-brown <tr>millipede</tr> about <measure reg="3.2 cm">1&frac14;&Prime;</measure> long which coils up when touched.
 
 <p id=18832><form>til-ag</form> <pos>v</pos> <itype>[A; b]</itype> thoroughly clean rice of chaff, bran, unhusked grains, etc. <i>Til-ági ang bugas únà lung-ága,</i> Clean the rice before you cook it.
 
@@ -2299,7 +2299,7 @@
 
 <p id=18837><form>tilap, tílap</form> <pos>v</pos> <itype>[A; b]</itype> <number>1</number> <tr>lick</tr>. <i>Makahílu nà bísag makatilap ka lang,</i> That&apos;s poisonous even if you only lick it. <i>Tilapi ímung wait,</i> Lick your lips. <number>2</number> <tr>lap</tr> at, <tr>cover</tr> (literary). <i>Gitilapan <pb n=1012>ang bungtud sa sílaw,</i> The sun&apos;s rays are touching the hill now. <form>{pa&N;-|panilap}</form> <pos>v</pos> <itype>[A; b6]</itype> <tr>lick the lips</tr> in anticipation. <i>Nagpanilap siyang nagtan-aw nákù,</i> He was licking his lips looking at me.
 
-<p id=18838><form>tilapya</form> <pos>n</pos> <number>1</number> k.o. fresh-water <tr>fish</tr> with a dark color, 6&ndash;8&Prime; in length, commercially raised in ponds: <bio>Tilapia mossambica</bio>. <number>2</number> <tr>prostitute</tr> (slang). <form>{&mdash;|tilapya} sa mamala</form> <xr>= <sc>tilapya</sc>, <i>2.</i></xr>
+<p id=18838><form>tilapya</form> <pos>n</pos> <number>1</number> k.o. fresh-water <tr>fish</tr> with a dark color, <measure reg="15&ndash;20 cm">6&ndash;8&Prime;</measure> in length, commercially raised in ponds: <bio>Tilapia mossambica</bio>. <number>2</number> <tr>prostitute</tr> (slang). <form>{&mdash;|tilapya} sa mamala</form> <xr>= <sc>tilapya</sc>, <i>2.</i></xr>
 
 <p id=18839><form>til-as</form> <pos>n</pos> k.o. <tr>worm</tr> having hairs that cause a severe itch, commonly found in monkeypod (<ix>akasya</ix>) trees. <pos>v</pos> <itype>[b4]</itype> be stung by such a worm.
 
@@ -2475,7 +2475,7 @@
 
 <p id=18925><form>timuri</form> <pos>n</pos> a k.o. secret talk where certain phonemes are substituted for others: <ix>u</ix> for <ix>a, t</ix> for <ix>d, p</ix> for <ix>d, r</ix> for <ix>l, n</ix> for <ix>m,</ix> and <ix>y</ix> for <ix>s,</ix> the rest remaining. The word <ix>timuri</ix> is derived from <ix>binali</ix> (&lsquo;done backwards&rsquo;). <pos>v</pos> <itype>[A; a2]</itype> speak in <ix>timuri</ix>. <i>Kumuu kung nutimuri? (Kamau kang mubinali?)</i> Cangre yougre speakgre Hoggre? (Can you speak Hog Latin?)
 
-<p id=18926><form>timus</form> <pos>n</pos> k.o. light, brownish <tr>grasshopper</tr> less than 1&Prime; found in bushes and tall grasses.
+<p id=18926><form>timus</form> <pos>n</pos> k.o. light, brownish <tr>grasshopper</tr> less than <measure reg="2.6 cm">1&Prime;</measure> found in bushes and tall grasses.
 
 <p id=18927><form>tim-us</form> <pos>a</pos> <tr>pure</tr>, <tr>sincere</tr>. <i>Ang gugmang tim-us dì mulubad,</i> Pure love doesn&apos;t fade.
 
@@ -2495,7 +2495,7 @@
 
 <p id=18935><form>tinái</form> (from <ix>tái</ix>) <pos>n</pos> <tr>intestines</tr>. <form>{&mdash;|tinái} sa kawáyan</form> <pos>n</pos> the inner sides of bamboo, stripped off from the hard outer part to use for weaving. <form>layù sa {&mdash;|tinái}</form> <number>1</number> off the target. <number>2</number> for a wound to be minor (humorous). <i>Ayawg hílak layù ra nà sa tinái,</i> Don&apos;t be a sissy. It&apos;s a minor cut. <form>igsumpay, kasumpay ug {&mdash;|tinái}, igpútul, kapútul ug {&mdash;|tinái}</form> <pos>n</pos> <tr>brother</tr>, <tr>sister</tr>.
 
-<p id=18936><form>tinápa</form> <pos>n</pos> fish packed in small 2&Prime; by 4&Prime; cylindrical can. <pos>v</pos> <itype>[A1]</itype> have such fish for one&apos;s meal.
+<p id=18936><form>tinápa</form> <pos>n</pos> fish packed in small <measure reg="5.1 cm">2&Prime;</measure> by <measure reg="10 cm">4&Prime;</measure> cylindrical can. <pos>v</pos> <itype>[A1]</itype> have such fish for one&apos;s meal.
 
 <p id=18937><form>tinápay</form> <pos>n</pos> <number>1</number> <tr>bread</tr>. <number>2</number> <tr>pastry</tr>. <pos>v</pos> <itype>[A1]</itype> have bread.
 
@@ -2685,7 +2685,7 @@
 
 <p id=19029><form>tipaka, tipakà</form> <pos>n</pos> <number>1</number> <tr>fragments</tr>, small broken pieces. <i>Ang tipaka sa saang nahaságul sa unud,</i> The pieces of the shell got mixed with the meat. <i>Tipaka sa átung napusgay nga kaminyúun,</i> The fragments of our broken marriage. <number>2</number> hard outer <tr>hull</tr>, <tr>husk</tr>, or <tr>shell</tr> of fruits and nuts, <tr>eggshells</tr>, shells of crustaceans. <number>3</number> k.o. land <tr>snail</tr> introduced by the Japanese for food purposes.
 
-<p id=19030><form>tipal-u</form> <pos>n</pos> k.o. <tr>worm</tr> with legs, about 1&Prime; long, that tends to seek dark places and gives off phosphorescence when crushed.
+<p id=19030><form>tipal-u</form> <pos>n</pos> k.o. <tr>worm</tr> with legs, about <measure reg="2.6 cm">1&Prime;</measure> long, that tends to seek dark places and gives off phosphorescence when crushed.
 
 <p id=19031><form>tipanu</form> <pos>n</pos> <tr>bamboo flute</tr>.
 
@@ -2745,7 +2745,7 @@
 
 <p id=19059><form>tipúlu</form> <xr>= <sc>atipúlu</sc>.</xr>
 
-<p id=19060><form>típun</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> put, be <tr>together</tr>, <tr>join</tr> in a group. <i>Dì siya mutípun sa mga pundukpunduk,</i> He doesn&apos;t mingle with groups. <i>Iniglaba ayawg tipúna ang putì ug dikulur,</i> In doing the laundry don&apos;t put the white and colored clothes together. <i>Malatà nang prutása ug itípun sa lataun,</i> That fruit will get rotten if you put it together with rotten ones. <number>2</number> <itype>[A2C; c5]</itype> <tr>live together</tr>. <i>Pait ikatípun ning kusug muháguk,</i> It&apos;s terrible to <tr>live with</tr> s.o. who snores. <number>3</number> <itype>[C; c3]</itype> live as a <tr>common-law</tr> couple. <i>Magtípun lang ta, way kasalkásal,</i> Let&apos;s just live together without getting married. <pos>n</pos> being together. <i>Típun mi niadtug kwartu,</i> We were roommates formerly. <form>tipuntipun</form> <pos>n</pos> k.o. edible cerith <tr>shells</tr>, &frac12;&Prime;&ndash;1&Prime; long, mud-colored or black, found on rocks or mangrove trees. <form>{-in-|tinípun}</form> <pos>n</pos> s.t. that has been put together. <i>Tinípung Bansa,</i> <tr>United States</tr>. <i>Tinípung Kanasúran,</i> <tr>United Nations</tr>. <form>{ka-|katípun}</form> <pos>n</pos> <tr>housemate</tr>. <form>{ka-an|katipúnan}</form> <pos>n</pos> the <ix>Katipúnan,</ix> a secret revolutionary society which aimed at independence from Spain. <form>katipuníru</form> <pos>n</pos> a member of the <ix>Katipúnan</ix>. <pos>v</pos> <itype>[B156]</itype> become a <ix>katipuníru</ix>. <form>{panag-|panagtípun}</form> <pos>n</pos> <number>1</number> <tr>living together</tr>, esp. as a couple. <number>2</number> <tr>gathering</tr>, <tr>coming together</tr>.
+<p id=19060><form>típun</form> <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> put, be <tr>together</tr>, <tr>join</tr> in a group. <i>Dì siya mutípun sa mga pundukpunduk,</i> He doesn&apos;t mingle with groups. <i>Iniglaba ayawg tipúna ang putì ug dikulur,</i> In doing the laundry don&apos;t put the white and colored clothes together. <i>Malatà nang prutása ug itípun sa lataun,</i> That fruit will get rotten if you put it together with rotten ones. <number>2</number> <itype>[A2C; c5]</itype> <tr>live together</tr>. <i>Pait ikatípun ning kusug muháguk,</i> It&apos;s terrible to <tr>live with</tr> s.o. who snores. <number>3</number> <itype>[C; c3]</itype> live as a <tr>common-law</tr> couple. <i>Magtípun lang ta, way kasalkásal,</i> Let&apos;s just live together without getting married. <pos>n</pos> being together. <i>Típun mi niadtug kwartu,</i> We were roommates formerly. <form>tipuntipun</form> <pos>n</pos> k.o. edible cerith <tr>shells</tr>, <measure reg="1.3&ndash;2.6 cm">&frac12;&Prime;&ndash;1&Prime;</measure> long, mud-colored or black, found on rocks or mangrove trees. <form>{-in-|tinípun}</form> <pos>n</pos> s.t. that has been put together. <i>Tinípung Bansa,</i> <tr>United States</tr>. <i>Tinípung Kanasúran,</i> <tr>United Nations</tr>. <form>{ka-|katípun}</form> <pos>n</pos> <tr>housemate</tr>. <form>{ka-an|katipúnan}</form> <pos>n</pos> the <ix>Katipúnan,</ix> a secret revolutionary society which aimed at independence from Spain. <form>katipuníru</form> <pos>n</pos> a member of the <ix>Katipúnan</ix>. <pos>v</pos> <itype>[B156]</itype> become a <ix>katipuníru</ix>. <form>{panag-|panagtípun}</form> <pos>n</pos> <number>1</number> <tr>living together</tr>, esp. as a couple. <number>2</number> <tr>gathering</tr>, <tr>coming together</tr>.
 
 <p id=19061><form>tipun-ug</form> <pos>v</pos> <itype>[B3(1); c1]</itype> be piled up into a big heap. <i>Nagtipun-ug ang hugasan human sa parti,</i> There was a huge stack of dishes after the party. <i>Siya ang gitipun-ugan sa tanang pagbásul,</i> The blame was all dumped on him. <i>Tipun-úga (itipun-ug) lang ang mga sagbut dihà arun dabúkan,</i> Heap the trash there to burn it. <pos>n</pos> <tr>pile</tr>, <tr>heap</tr> of.
 
@@ -3907,7 +3907,7 @@
 
 <p id=19633><form>túluy<sub>1</sub></form> <pos>v</pos> <itype>[A; b6]</itype> be caught in a net. <i>Ug mutúluy ang isdà dì na kabuhì,</i> If the fish snarls in the mesh it can&apos;t get away. <i>Nit&umacracu;y ang bábuy ih&amacracu;s sa batung,</i> The wild pig was caught in the net. <form>{(&rarr;)|tuluy}</form> <pos>n</pos> s.t. caught in a net.
 
-<p id=19634><form>túluy<sub>2</sub></form> <pos>n</pos> k.o. <ix>tamban</ix> 4&ndash;5&Prime; long, with a greenish back and white belly.
+<p id=19634><form>túluy<sub>2</sub></form> <pos>n</pos> k.o. <ix>tamban</ix> <measure reg="10&ndash;13 cm">4&ndash;5&Prime;</measure> long, with a greenish back and white belly.
 
 <p id=19635><form>túma</form> <pos>n</pos> <tr>body louse</tr>, similar to the head louse (<ix>kútu</ix>) in appearance and habits, but found in clothing. <pos>v</pos> <itype>[a4]</itype> be infested with body lice. <form>{hi&N;-|hinúma}</form> <pos>v</pos> <itype>[AN; b6(1)]</itype> remove body lice. <form>tumahun</form> <pos>a</pos> infested with body lice.
 
@@ -3945,7 +3945,7 @@
 
 <p id=19651><form>tumbuk<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[A; a]</itype> poke a finger or s.t. pointed at s.t. <i>Mitumbuk siya sa makinilya arun pagtisting niíni,</i> She poked a finger at the typewriter keys to try them out. <i>Aku na say tumbuk sa bilyar,</i> It is my turn to strike the billiard ball. <number>2</number> <itype>[A; c1]</itype> <tr>point out</tr>, <tr>pinpoint</tr>. <i>Dì ku katumbuk sa iksaktung hinungdan,</i> I cannot <tr>point to</tr> the exact reason. <i>Tumbúka ang utlánan sa mápa,</i> Point out the boundaries on the map. <number>3</number> <itype>[A; b]</itype> put a dot s.w.
 
-<p id=19652><form>tumbuk<sub>2</sub></form> <pos>n</pos> container, usually a tin can, 2&Prime; by 2&Prime;, with a handle used for measuring out kerosene for retail sales.
+<p id=19652><form>tumbuk<sub>2</sub></form> <pos>n</pos> container, usually a tin can, <measure reg="5.1 cm">2&Prime;</measure> by <measure reg="5.1 cm">2&Prime;</measure>, with a handle used for measuring out kerosene for retail sales.
 
 <p id=19653><form>tumbuy<sub>1</sub></form> <pos>v</pos> <itype>[AN; a1]</itype> reproach s.o. while mentioning the benefits given him. <i>Ayawg tumbúya nang nangípun ninyu, bisag tapulan,</i> Don&apos;t tell the people who are living with you that they are ingrates, though they are lazy.
 
@@ -4251,7 +4251,7 @@
 
 <p id=19802><form>turung</form> <pos>n</pos> s.t. worn as a <tr>head covering</tr>. <i>Pagdalag <pb n=1065>turung kay tingálig muulan,</i> Bring s.t. to cover your head with. It might rain. <pos>v</pos> <itype>[B6; c1]</itype> protect the head, wear a head covering. <i>Nagturung siyag dáhun sa ságing arun dì mahumud sa ulan,</i> He protected his head with a banana leaf to avoid getting wet in the rain.
 
-<p id=19803><form>turungturung</form> <pos>n</pos> small <tr>top shells</tr> reaching 1&Prime;.
+<p id=19803><form>turungturung</form> <pos>n</pos> small <tr>top shells</tr> reaching <measure reg="2.6 cm">1&Prime;</measure>.
 
 <p id=19804><form>turúrut</form> <xr>= <sc>tarúrut</sc>.</xr>
 
@@ -4399,7 +4399,7 @@
 
 <p id=19875><form>tuway<sub>1</sub></form> <pos>n</pos> vaginal secretion having an extremely foul odor. <pos>v</pos> <itype>[a4]</itype> have such secretions. <i>Gituway sigúru siya kay bakag kaáyug ági,</i> She must have a vaginal disorder because she leaves behind a very foul odor. <form>{-un(&larr;)|tuwáyun}</form> <pos>a</pos> having a very odourous vaginal secretion.
 
-<p id=19876><form>tuway<sub>2</sub>, túway</form> <pos>n</pos> k.o. edible <tr>clam</tr> about 3&Prime; in width. <form>{pa&N;-|panuway}</form> <pos>v</pos> <itype>[A2; b6]</itype> go <tr>clamming</tr>. <i>Nanúway mi sa katunggan,</i> We <tr>gathered clams</tr> in the mangrove swamps. <form>tuwaytuway<sub>1</sub></form> <pos>n</pos> k.o. <tr>clam</tr>.
+<p id=19876><form>tuway<sub>2</sub>, túway</form> <pos>n</pos> k.o. edible <tr>clam</tr> about <measure reg="7.7 cm">3&Prime;</measure> in width. <form>{pa&N;-|panuway}</form> <pos>v</pos> <itype>[A2; b6]</itype> go <tr>clamming</tr>. <i>Nanúway mi sa katunggan,</i> We <tr>gathered clams</tr> in the mangrove swamps. <form>tuwaytuway<sub>1</sub></form> <pos>n</pos> k.o. <tr>clam</tr>.
 
 <p id=19877><form>tuwaytuway<sub>2</sub></form> <pos>v</pos> <itype>[B4]</itype> for s.t. to be almost cut off and dangle loosely. <i>Nagtuwaytuway ang íyang tudlù nga hápit na maputul,</i> The part of his finger that is almost cut off is dangling loosely. <i>Ang pagkadugmuk sa íyang bitíis mauy nakatuwaytuway (nakapatuwaytuway) niíni,</i> His leg is now dangling loosely because it was crushed.
 

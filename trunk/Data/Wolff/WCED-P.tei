@@ -215,7 +215,7 @@
 
 <p id=13184><form>págu</form> <pos>v</pos> <itype>[A; c1]</itype> <tr>welsh on a bet</tr>, <tr>delay payment</tr>. <i>Kinsay nagpágu sa tanang pusta nga nahánaw man lang?</i> Who ran away without paying the bets? <i>Ákù lang úsà ning pagúhun (ipágu) nga pusta,</i> I won&apos;t pay my bet for the time being. <pos>n</pos> <number>1</number> amount which one failed to pay. <i>Pilay ímung págu kaníya?</i> How big an amount did you welsh on? <number>2</number> comeuppance, just deserts. <i>Mau kanay págu nímu,</i> That&apos;s what you get!
 
-<p id=13185><form>pagù</form> <pos>n</pos> a small brownish bird of the bush, with a body about 2&Prime; in length.
+<p id=13185><form>pagù</form> <pos>n</pos> a small brownish bird of the bush, with a body about <measure reg="5.1 cm">2&Prime;</measure> in length.
 
 <p id=13186><form>págud</form> <pos>v</pos> <number>1</number> <itype>[AB12; a12]</itype> <tr>burn</tr>, <tr>burnt</tr>. <i>Baliha ang adúbu arun dílì mapágud,</i> Turn the fried meat to the side so that it will not get burnt. <i>Ínit sa adlaw muy nakapágud (nakapapágud) sa ákung pánit,</i> The heat of the sun burnt my skin. <i>Nagkapagud na ang pán. Dalia pagháun,</i> The bread is burning. Take it out quickly. <number>2</number> <itype>[A; a]</itype> roast cereals black. <i>Magpágud tag mais pára ikapi,</i> Let&apos;s roast some corn grits for coffee. <form>{(&rarr;)|pagud}</form> <pos>a</pos> <tr>burnt</tr>. <i>Akuy káun sa pagud nga pán,</i> I&apos;ll eat the burnt bread. <i>Kasagáran sa mga mananagat pagud ug pánit,</i> Most fishermen have deeply tanned skin. <form>{-in-|pinágud}</form> <pos>n</pos> cereal roasted black, esp. corn grits. <i>Pinágud ra giyuy ámung kapi,</i> All we have for coffee is burnt corn grits.
 
@@ -303,7 +303,7 @@
 
 <p id=13228><form>paisánu</form> <pos>n</pos> one&apos;s <tr>compatriot</tr>, s.o. from the same town or village.
 
-<p id=13229><form>pait</form> <pos>a</pos> <number>1</number> <tr>bitter in taste</tr>. <number>2</number> <tr>bitter in situation</tr>. <pos>v</pos> <itype>[B; a2]</itype> <number>1</number> be bitter in taste. <i>Mipait (napait) ang atay kay napusà ang apdu,</i> The liver became bitter because the gall bladder broke. <i>Paita ang timpla sa ákung kapi,</i> Make my coffee strong (lit. bitter). <number>2</number> be a bitter situation. <i>Ang nakapait nímu kay dì ka mamátig katarúngan,</i> What&apos;s bad about you is that you don&apos;t listen to reason. <form>{-an(&larr;)|paítan}</form> <pos>a</pos> <number>1</number> for pork liver to taste bitter on account of what was fed to the pig. <number>2</number> k.o. 1&Prime; vase shell, the meat of which tastes bitter. <pos>v</pos> <itype>[B12]</itype> for liver to get bitter in taste. <form>{pa-(&larr;)|papáit}</form> <pos>n</pos> dish of Ilocano origin made from goatskin, cut into tiny pieces, and cooked in vinegar with spices and made to taste very bitter by mixing spleen into it. <pos>v</pos> <itype>[A1; a12]</itype> prepare <ix>papáit</ix>.
+<p id=13229><form>pait</form> <pos>a</pos> <number>1</number> <tr>bitter in taste</tr>. <number>2</number> <tr>bitter in situation</tr>. <pos>v</pos> <itype>[B; a2]</itype> <number>1</number> be bitter in taste. <i>Mipait (napait) ang atay kay napusà ang apdu,</i> The liver became bitter because the gall bladder broke. <i>Paita ang timpla sa ákung kapi,</i> Make my coffee strong (lit. bitter). <number>2</number> be a bitter situation. <i>Ang nakapait nímu kay dì ka mamátig katarúngan,</i> What&apos;s bad about you is that you don&apos;t listen to reason. <form>{-an(&larr;)|paítan}</form> <pos>a</pos> <number>1</number> for pork liver to taste bitter on account of what was fed to the pig. <number>2</number> k.o. <measure reg="2.6 cm">1&Prime;</measure> vase shell, the meat of which tastes bitter. <pos>v</pos> <itype>[B12]</itype> for liver to get bitter in taste. <form>{pa-(&larr;)|papáit}</form> <pos>n</pos> dish of Ilocano origin made from goatskin, cut into tiny pieces, and cooked in vinegar with spices and made to taste very bitter by mixing spleen into it. <pos>v</pos> <itype>[A1; a12]</itype> prepare <ix>papáit</ix>.
 
 <p id=13230><form>pak</form> <pos>n</pos> word used in writing to represent the sound of a slap, or explosion of firecrackers.
 
@@ -333,7 +333,7 @@
 
 <p id=13244><form>pákaw<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>corncob</tr>. <number>2</number> handle stuck into a frying pan with a rounded bottom (<ix>kaláhà</ix>).
 
-<p id=13245><form>pákaw<sub>2</sub></form> <pos>n</pos> <number>1</number> buoy or float made of a long bamboo node 1&frac12;&Prime; to 2&prime; used principally as a marker for fishing equipment. <number>2</number> the part of a floating anchor (<ix>paladyaw</ix>) that offers a drag, consisting of <corr sic="a "></corr>woven coconut fronds. <pos>v</pos> <itype>[A; c]</itype> tie this sort of float to s.t., buoy.
+<p id=13245><form>pákaw<sub>2</sub></form> <pos>n</pos> <number>1</number> buoy or float made of a long bamboo node <measure reg="3.8 cm">1&frac12;&Prime;</measure> to <measure reg="61 cm">2&prime;</measure> used principally as a marker for fishing equipment. <number>2</number> the part of a floating anchor (<ix>paladyaw</ix>) that offers a drag, consisting of <corr sic="a "></corr>woven coconut fronds. <pos>v</pos> <itype>[A; c]</itype> tie this sort of float to s.t., buoy.
 
 <p id=13246><form>pakdul</form> <pos>v</pos> <itype>[B126; b8]</itype> <number>1</number> knock s.o. on the top of the head. <i>Sakit ákung úlu nga napakdul sa halígi,</i> My head hurts because I bumped it against a post. <number>2</number> stub one&apos;s toes. <i>Mapakdul giyud kag mulakaw ka sa ngitngit,</i> You will stub your toes if you walk in the dark. <number>2a</number> <itype>[B1256]</itype> mispronounce a word in speech due to haste in speaking or due to the difficulty of pronouncing the word.
 
@@ -505,7 +505,7 @@
 
 <p id=13327><form>palamban</form> <xr>= <sc>pangtamban</sc>.</xr> <ix>see</ix> <xr><sc>tamban</sc>.</xr>
 
-<p id=13328><form>palamingku</form> (not without <ix>l</ix>) <pos>n</pos> long, sharp, pointed knife, of light weight, about 8&Prime; long, used for slaughtering or slicing meat. <pos>v</pos> <itype>[A; ab2]</itype> strike, stab with a <ix>palamingku</ix>.
+<p id=13328><form>palamingku</form> (not without <ix>l</ix>) <pos>n</pos> long, sharp, pointed knife, of light weight, about <measure reg="20 cm">8&Prime;</measure> long, used for slaughtering or slicing meat. <pos>v</pos> <itype>[A; ab2]</itype> strike, stab with a <ix>palamingku</ix>.
 
 <p id=13329><form>palanas</form> <pos>n</pos> <number>1</number> flat, smooth rock or stone cliff. <number>2</number> eroded untillable area where large stones stick out. <pos>v</pos> <itype>[B2]</itype> for the soil to become barren, eroded. <i>Mupalanas (mapalanas) ang yútà ug mabahaan,</i> A piece of land becomes infertile if it is subject to floods.
 
@@ -553,7 +553,7 @@
 
 <p id=13351><form>pálas<sub>3</sub></form> (not without <ix>l</ix>) <pos>v</pos> <itype>[A; a12]</itype> continue weaving s.t. already started. <i>Nasugdan ku na man, ikaw na lay magpálas,</i> I started it. Now you continue weaving it.
 
-<p id=13352><form>palásan</form> <pos>n</pos> k.o. rattan with a stem as big around as the arm, and the nodes approximately 1&frac12;&Prime; apart. The heart stem is edible but bitter. The stalk is used for furniture and the split stems for tying.
+<p id=13352><form>palásan</form> <pos>n</pos> k.o. rattan with a stem as big around as the arm, and the nodes approximately <measure reg="3.8 cm">1&frac12;&Prime;</measure> apart. The heart stem is edible but bitter. The stalk is used for furniture and the split stems for tying.
 
 <p id=13353><form>palasíbu</form> (not without <ix>l</ix>) <xr>= <sc>plasíbu</sc>.</xr>
 
@@ -573,7 +573,7 @@
 
 <p id=13361><form>palátu</form> (not without <ix>l</ix>) <xr>= <sc>plátu</sc>.</xr>
 
-<p id=13362><form>palatun</form> <pos>n</pos> <number>1</number> plate, 9&Prime; to 12&Prime; in diameter, made of enamel-coated tinplate, round and deep like a shallow soup plate. <number>2</number> any <tr>plate</tr>. <pos>v</pos> <itype>[A; c1]</itype> <number>1</number> use a <ix>palatun</ix>. <number>2</number> make into a <ix>palatun</ix>. <pos>a</pos> eating a lot.
+<p id=13362><form>palatun</form> <pos>n</pos> <number>1</number> plate, <measure reg="23 cm">9&Prime;</measure> to <measure reg="31 cm">12&Prime;</measure> in diameter, made of enamel-coated tinplate, round and deep like a shallow soup plate. <number>2</number> any <tr>plate</tr>. <pos>v</pos> <itype>[A; c1]</itype> <number>1</number> use a <ix>palatun</ix>. <number>2</number> make into a <ix>palatun</ix>. <pos>a</pos> eating a lot.
 
 <p id=13363><form>palaw</form> (not without <ix>l</ix>) <pos>v</pos> <itype>[B1256]</itype> feel disappointment tinged with embarrassment at the failure of s.t. to happen. <i>Napalaw ang mangunguut kay way sulud ang pitáka,</i> The pickpocket was disappointed because the wallet contained no money. <i>Napalaw mi pagkanta námug hápi birtdi kay dì diay adlaw níya,</i> We were embarrassed when we sang happy birthday because it wasn&apos;t his birthday.
 
@@ -697,7 +697,7 @@
 
 <p id=13423><form>palug<sub>1</sub></form> <pos>n</pos> half a buck (slang).
 
-<p id=13424><form>palug<sub>2</sub></form> <pos>n</pos> a k.o. fresh-water fish, about 3&Prime; long, blackish and scaly.
+<p id=13424><form>palug<sub>2</sub></form> <pos>n</pos> a k.o. fresh-water fish, about <measure reg="7.7 cm">3&Prime;</measure> long, blackish and scaly.
 
 <pb n=727>
 
@@ -2423,7 +2423,7 @@
 
 <p id=14276><form>pír</form> <pos>n</pos> <tr>pier</tr>.
 
-<p id=14277><form>pira</form> <pos>n</pos> k.o. bladed hand weapon 18&Prime; to 24&Prime; with a blade that curves upwards slightly toward the tip and flat at the tip.
+<p id=14277><form>pira</form> <pos>n</pos> k.o. bladed hand weapon <measure reg="46 cm">18&Prime;</measure> to <measure reg="61 cm">24&Prime;</measure> with a blade that curves upwards slightly toward the tip and flat at the tip.
 
 <p id=14278><form>píras</form> <pos>n</pos> <tr>pear</tr>.
 
@@ -2839,7 +2839,7 @@
 
 <p id=14481><form>píyu</form> <xr><ix>see</ix> <sc>prisyu</sc>.</xr>
 
-<p id=14482><form>píyù</form> <pos>n</pos> k.o. edible fresh water crab about 2&Prime; by 3&Prime; in size.
+<p id=14482><form>píyù</form> <pos>n</pos> k.o. edible fresh water crab about <measure reg="5.1 cm">2&Prime;</measure> by <measure reg="7.7 cm">3&Prime;</measure> in size.
 
 <p id=14483><form>píyuk</form> <pos>v</pos> <itype>[B2S3; ab7P]</itype> for lamps or lights to grow <tr>dim</tr>. <i>Nagpiyuk man ang sugà. Limpiyúhi ang túbu,</i> Why is the light dim? Clean the chimney.
 
@@ -3779,7 +3779,7 @@
 
 <p id=14947><form>púnas</form> <pos>v</pos> <itype>[A; b6]</itype> <tr>wash</tr> the face and limbs with a soapy washcloth. <form>{pa&N;-|pamúnas}</form> <pos>v</pos> <itype>[A2; b6(1)]</itype> wash oneself off with a washcloth. <i>Mamúnas lang ku kay diyútay ra ang túbig,</i> I&apos;ll just wipe myself off with a washcloth because there isn&apos;t very much water. <form>{(&rarr;)|punas}</form> <pos>a</pos> <number>1</number> having no pubic hair. <number>2</number> in the game of <ix>balinsay</ix>, failure to catch s.t. on the back of the hand. <i>Kurug man gud kaáyu ang ákung kamut mau nga kanúnay lang punas inigbalinsay nákù,</i> My hands are shaky. That&apos;s why I always catch nothing at the back of my palm (get a bald head) when I play <ix>balinsay</ix>.
 
-<p id=14948><form>punaw</form> <pos>n</pos> k.o. edible <tr>clam</tr> about 1&frac12;&Prime; in diameter. It is a dark reddish-brown color.
+<p id=14948><form>punaw</form> <pos>n</pos> k.o. edible <tr>clam</tr> about <measure reg="3.8 cm">1&frac12;&Prime;</measure> in diameter. It is a dark reddish-brown color.
 
 <p id=14949><form>púnaw</form> <pos>v</pos> <number>1</number> <itype>[B126; a4b4]</itype> feel <tr>faint</tr>. <i>Gipúnaw (gipunáwan) ku sa kabúhì,</i> I felt faint from my stomach pain. <number>2</number> <itype>[b4(1)]</itype> be overcome by a strong emotion. <i>Napunáwan siya sa hilabihang kasubù,</i> She was overcome with grief. <number>3</number> <itype>[B126]</itype> be overcome by shame. <i>Mu rag napúnaw ku sa íyang tinutukan,</i> The way he stared at me, I wanted to sink into a crack in the floor. <form>punawpúnaw</form> <formx>{pa&N;-|pamunawpúnaw}</formx> <pos>v</pos> <itype>[A]</itype> go far away from s.o. to the horizon or upper spaces where the image is blurred. <i>Namunawpúnaw ang langgam sa kahitas-an,</i> The bird soared up to the highest reaches of the sky. <form>kapunawpunáwan</form> <pos>n</pos> <number>1</number> horizon, upper reaches of heaven. <number>2</number> deepest recesses of one&apos;s consciousness (literary). <i>Ang íyang tíngug mikulíkut sa kapunawpunáwan sa ákung katúlug,</i> Her voice pierced into the depths of my slumber.
 
@@ -4445,7 +4445,7 @@
 
 <p id=15276><form>pyangà</form> <pos>a</pos> <tr>flat-nosed</tr> (humorous). <pos>v</pos> <itype>[B12]</itype> be flat-nosed. <i>Siya ray napyangà nílang tanan,</i> She is the only one in the whole family that has a flat nose.
 
-<p id=15277><form>pyangaw</form> <pos>n</pos> yellowish-green insect about 1&Prime; long, that is a rice pest, preying on the sheaths before the grain develops. They have an unpleasant odor which permeates the rice field. <pos>v</pos> <itype>[a4]</itype> be infested with <ix>pyangaw</ix>.
+<p id=15277><form>pyangaw</form> <pos>n</pos> yellowish-green insect about <measure reg="2.6 cm">1&Prime;</measure> long, that is a rice pest, preying on the sheaths before the grain develops. They have an unpleasant odor which permeates the rice field. <pos>v</pos> <itype>[a4]</itype> be infested with <ix>pyangaw</ix>.
 
 <p id=15278><form>pyangguy</form> <pos>a</pos> tall and thin, <tr>lanky</tr>. <i>Musalir tingáli kas baskit kay pyangguy kaáyu ka,</i> You might do for basketball because you are lanky. <pos>v</pos> <itype>[B12; b6]</itype> be, become lanky.
 
@@ -4479,7 +4479,7 @@
 
 <p id=15292><form>pyaus<sub>2</sub>, pyáus<sub>2</sub></form> <pos>a</pos> for the voice to be <tr>grating</tr> and weak, usually as a result of strain. <pos>v</pos> <itype>[B2S; c1]</itype> for the voice to be <tr>hoarse</tr> in this way. <i>Nagpyaus nag íyang tíngug sa paghinílak,</i> She lost her voice from crying so much.
 
-<p id=15293><form>pyí</form> <pos>n</pos> a <tr>measure</tr>, about a <tr>foot</tr>. <i>Duha ka pyí,</i> Two feet. <pos>v</pos> <itype>[b6c1]</itype> buy, measure s.t. by the foot. <form>{di-|dipyí}</form> <tr>foot-powered</tr>, esp. by means of a treadle. <form>{-s|pyís}</form> <xr>= <sc>pyí</sc> (plural&mdash;used only after Spanish numbers).</xr> <i>Dus pyís,</i> Two feet. <form>pyís dil pátu</form> <pos>n</pos> k.o. ornamental palm around 2&prime; high with semi-circular leaves, slit nearly to the base: <bio>Rhapis excelsa</bio>.
+<p id=15293><form>pyí</form> <pos>n</pos> a <tr>measure</tr>, about a <tr>foot</tr>. <i>Duha ka pyí,</i> Two feet. <pos>v</pos> <itype>[b6c1]</itype> buy, measure s.t. by the foot. <form>{di-|dipyí}</form> <tr>foot-powered</tr>, esp. by means of a treadle. <form>{-s|pyís}</form> <xr>= <sc>pyí</sc> (plural&mdash;used only after Spanish numbers).</xr> <i>Dus pyís,</i> Two feet. <form>pyís dil pátu</form> <pos>n</pos> k.o. ornamental palm around <measure reg="61 cm">2&prime;</measure> high with semi-circular leaves, slit nearly to the base: <bio>Rhapis excelsa</bio>.
 
 <p id=15294><form>pyimríra</form> <xr>= <sc>timbríra</sc>.</xr>
 

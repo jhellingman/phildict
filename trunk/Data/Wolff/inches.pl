@@ -12,8 +12,8 @@ while (<INPUTFILE>)
     my $result = "";
     while ($remainder =~ /([0-9]+)(&frac([0-9])([0-9]);)?(&[Pp]rime;)/) 
     {
-        $result .= $';
-        $remainder = $`;
+        $result .= $`;
+        $remainder = $';
 
         my $match = $&;
         my $amount = $1;

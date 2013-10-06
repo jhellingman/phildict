@@ -503,7 +503,7 @@
 
 <p id=8248><form>kahun</form> <pos>n</pos> <number>1</number> <tr>box</tr>. <number>2</number> square or rectangular section in a rice paddy. <i>Napúlù ka kahun ang íyang pilapilan,</i> There are ten square partitions in his rice paddy. <number>3</number> group of fives in tallying (four vertical lines and one slanting line). <pos>v</pos> <number>1</number> <itype>[A; a]</itype> make into a box. <number>2</number> <itype>[a12]</itype> divide into square, rectangular sections. <number>3</number> <itype>[A12]</itype> obtain groups of fives. <i>Sa pag-iskutinyu wà gánì makakahun ang átung kandidátu,</i> When the ballots were counted our candidate did not even get a score of five. <form>{-in-|kinahun}</form> <pos>n</pos> enclosed in boxes. <i>Mga kinahun nag íyang dala,</i> The things were all enclosed in boxes. <form>{-is|kahunis}</form> <xr>= <sc>kahun</sc>, <bx>3</bx></xr> (plural).
 
-<p id=8249><form>káhuy</form> <pos>n</pos> <number>1</number> <tr>tree</tr>. <number>2</number> <tr>wood</tr>, firewood. <number>3</number> <formx>búngang {&mdash;|káhuy}</formx> fruit tree. <pos>v</pos> <number>1</number> <itype>[A12]</itype> obtain firewood. <i>Nakakahuy (nakakáhuy) giyud mi sa ginubà sa ámung balay,</i> We had firewood when our house was demolished. <number>2</number> <itype>[a]</itype> make into firewood. <i>Kahúyun nátù ning gubang kural,</i> We&apos;ll make this broken fence into firewood. <number>3</number> <itype>[a2]</itype> steal by picking the pocket (slang). <i>Gikáhuy ang íyang pitáka didtu sa Kulun,</i> S.o. picked his wallet downtown. <form>{(&rarr;)|kahuy}</form> <pos>v</pos> <itype>[B4]</itype> for muscles to get stiff with fatigue. <i>Nagkahuy ang ákung abága sa pagpinas-ag kupras,</i> My shoulders are stiff from carrying sacks of copra. <form>{pa&N;-|pangáhuy}</form> <pos>v</pos> <itype>[A2; b6]</itype> <number>1</number> cut down and gather firewood. <i>Didtu sila mangáhuy sa búkid,</i> They were in the mountains gathering firewood. <number>2</number> take parts from an engine. <i>Gipangahúyan níla ang trák daut,</i> They cannibalized the broken-down truck. <number>3</number> <itype>[A2; b(1)]</itype> steal by picking. <i>Ang babáying gipangahúyan sa íyang trisintus,</i> The woman who had three hundred stolen from her. <form>pangahuykáhuy</form> <pos>v</pos> <itype>[A]</itype> for muscles to get stiff with fatigue. <i>Undang na tag pangarga kay nangahuykáhuy na ang ákung háwak,</i> Let&apos;s stop loading now because my waist is getting stiff. <form>{-in-|kináhuy}</form> <pos>n</pos> <number>1</number> fuel gathered. <number>2</number> s.t. shoplifted, cannibalized. <form>{ka-an(&rarr;)|kakahuyan}</form> <pos>n</pos> <tr>woods</tr>. <form>{ma&N;-r-|mangangahuy}/{l-(&rarr;)|mangalahuy}</form> <pos>n</pos> <tr>woodcutter</tr>. <form>kahuykahuy</form> <pos>n</pos> k.o. weed roughly resembling a full grown tree in structure, growing up to 1&frac12;&prime;, the leaves of which are used as a poultice to stop bleeding. <form>{tig-|tigkáhuy}</form> <pos>n</pos> <number>1</number> log with branches cut off. <number>2</number> <tr>twigs</tr>. <pos>v</pos> <itype>[A; a]</itype> gather, cut down wood for firewood. <i>Mitigkáhuy ku sa íyang tinápuk,</i> I gathered the wood he had piled up. <form>{talig-|taligkáhuy}</form> <pos>n</pos> <xr>= <sc>tigkáhuy</sc>.</xr> <pos>v</pos> <itype>[A2N]</itype> gather logs for a house. <i>Manaligkáhuy ta. Magbáy ra ba ta,</i> Let&apos;s gather logs because we&apos;re going to build a house. <form>{-un|kahúyun}</form> <pos>a</pos> <tr>coarse</tr>, like wood.
+<p id=8249><form>káhuy</form> <pos>n</pos> <number>1</number> <tr>tree</tr>. <number>2</number> <tr>wood</tr>, firewood. <number>3</number> <formx>búngang {&mdash;|káhuy}</formx> fruit tree. <pos>v</pos> <number>1</number> <itype>[A12]</itype> obtain firewood. <i>Nakakahuy (nakakáhuy) giyud mi sa ginubà sa ámung balay,</i> We had firewood when our house was demolished. <number>2</number> <itype>[a]</itype> make into firewood. <i>Kahúyun nátù ning gubang kural,</i> We&apos;ll make this broken fence into firewood. <number>3</number> <itype>[a2]</itype> steal by picking the pocket (slang). <i>Gikáhuy ang íyang pitáka didtu sa Kulun,</i> S.o. picked his wallet downtown. <form>{(&rarr;)|kahuy}</form> <pos>v</pos> <itype>[B4]</itype> for muscles to get stiff with fatigue. <i>Nagkahuy ang ákung abága sa pagpinas-ag kupras,</i> My shoulders are stiff from carrying sacks of copra. <form>{pa&N;-|pangáhuy}</form> <pos>v</pos> <itype>[A2; b6]</itype> <number>1</number> cut down and gather firewood. <i>Didtu sila mangáhuy sa búkid,</i> They were in the mountains gathering firewood. <number>2</number> take parts from an engine. <i>Gipangahúyan níla ang trák daut,</i> They cannibalized the broken-down truck. <number>3</number> <itype>[A2; b(1)]</itype> steal by picking. <i>Ang babáying gipangahúyan sa íyang trisintus,</i> The woman who had three hundred stolen from her. <form>pangahuykáhuy</form> <pos>v</pos> <itype>[A]</itype> for muscles to get stiff with fatigue. <i>Undang na tag pangarga kay nangahuykáhuy na ang ákung háwak,</i> Let&apos;s stop loading now because my waist is getting stiff. <form>{-in-|kináhuy}</form> <pos>n</pos> <number>1</number> fuel gathered. <number>2</number> s.t. shoplifted, cannibalized. <form>{ka-an(&rarr;)|kakahuyan}</form> <pos>n</pos> <tr>woods</tr>. <form>{ma&N;-r-|mangangahuy}/{l-(&rarr;)|mangalahuy}</form> <pos>n</pos> <tr>woodcutter</tr>. <form>kahuykahuy</form> <pos>n</pos> k.o. weed roughly resembling a full grown tree in structure, growing up to <measure reg="46 cm">1&frac12;&prime;</measure>, the leaves of which are used as a poultice to stop bleeding. <form>{tig-|tigkáhuy}</form> <pos>n</pos> <number>1</number> log with branches cut off. <number>2</number> <tr>twigs</tr>. <pos>v</pos> <itype>[A; a]</itype> gather, cut down wood for firewood. <i>Mitigkáhuy ku sa íyang tinápuk,</i> I gathered the wood he had piled up. <form>{talig-|taligkáhuy}</form> <pos>n</pos> <xr>= <sc>tigkáhuy</sc>.</xr> <pos>v</pos> <itype>[A2N]</itype> gather logs for a house. <i>Manaligkáhuy ta. Magbáy ra ba ta,</i> Let&apos;s gather logs because we&apos;re going to build a house. <form>{-un|kahúyun}</form> <pos>a</pos> <tr>coarse</tr>, like wood.
 
 <p id=8250><form>kahúyung</form> <pos>n</pos> variety of rice.
 
@@ -513,7 +513,7 @@
 
 <p id=8253><form>kaína</form> <xr>= <sc>ganíha</sc>.</xr>
 
-<p id=8254><form>kaing</form> <pos>n</pos> large, cylindrical, rattan basket loosely woven in a hexagonal design, 3&prime; tall by 2&prime; across. <pos>v</pos> <itype>[A; a12]</itype> make, make into a <ix>kaing</ix>.
+<p id=8254><form>kaing</form> <pos>n</pos> large, cylindrical, rattan basket loosely woven in a hexagonal design, <measure reg="91 cm">3&prime;</measure> tall by <measure reg="61 cm">2&prime;</measure> across. <pos>v</pos> <itype>[A; a12]</itype> make, make into a <ix>kaing</ix>.
 
 <p id=8255><form>kaíngin</form> <pos>n</pos> <number>1</number> slash and burn agriculture. <number>2</number> area in the forest cleared by burning for agriculture, of temporary or permanent nature. <pos>v</pos> <itype>[A; b5]</itype> make a clearing in a forest for agricultural purposes. <form>{-iru|kainginíru}</form> <pos>n</pos> one who practices slash and burn agriculture.
 
@@ -611,7 +611,7 @@
 
 <p id=8302><form>kalamansi, kalamansì</form> (not without <ix>l</ix>) <xr>= <sc>limunsítu</sc>.</xr>
 
-<p id=8303><form>kalamantígì</form> <pos>n</pos> ornamental annual growing to 2&prime; high, bearing red, white, and pink flowers, and fleshy capsules which burst when touched: <bio>Impatiens balsamina</bio>.
+<p id=8303><form>kalamantígì</form> <pos>n</pos> ornamental annual growing to <measure reg="61 cm">2&prime;</measure> high, bearing red, white, and pink flowers, and fleshy capsules which burst when touched: <bio>Impatiens balsamina</bio>.
 
 <p id=8304><form>kalámay</form> <pos>n</pos> <number>1</number> <tr>sugar</tr>. <number>2</number> <tr>brown sugar</tr> (as opposed to <ix>asúkar</ix>). <pos>v</pos> <number>1</number> <itype>[A1; a2]</itype> make sugar. <number>2</number> <itype>[B5]</itype> become sugar. <i>Kun itúsun ang tubà mukámay (makámay) diay,</i> Palm toddy can also be made into sugar by crystallizing it. <form>{(&rarr;)|kalamay}</form> <pos>v</pos> <itype>[A; c]</itype> <number>1</number> put sugar into. <i>Kamayan tang ímung tsá?</i> Shall I put sugar in your tea? <number>2</number> <tr>sweet-talk</tr> s.o. <i>Ímu na pud kung gikamayan,</i> You&apos;re giving me sweet talk again. <number>2a</number> <formx>bisan {-an|kalamayan} pa</formx> no matter what inducement is given (even if you put sugar on it). <i>Bísag kamayan pa, dì giyud ku musugut níya,</i> I wouldn&apos;t accept him for all the tea in China. <number>3</number> <itype>[B246]</itype> for coconut taffy to fail to turn out and become crystalline and sandy. <i>Daling mukamay ang kukunat ug kúwang sa lubi,</i> The coconut taffy comes out sandy if you don&apos;t use enough coconut milk. <number>4</number> <itype>[A; a]</itype> (not without <ix>l</ix>) make <ix>kalamay.</ix> <pos>n</pos> (not without <ix>l</ix>) sweets made from ground sticky rice boiled with the juice of coconut meat and brown sugar.
 
@@ -707,7 +707,7 @@
 
 <p id=8350><form>kalaykay<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[A; ab2]</itype> <tr>dig up</tr> s.t. with the hands, hoe up s.t. in a scratching manner. <i>Nagkaykay siyag kamúti,</i> He is digging up sweet potatoes. <number>2</number> <itype>[A; b5]</itype> press hard with the finger tips in the pit of the stomach to massage it in a manner similar to scratching. <i>Mukalma ang kabúhì ug kalaykáyun (kalaykáyan) ang tiyan,</i> A burning stomach calms down when you massage it in a digging motion. <pos>n</pos> <tr>hoe</tr>.
 
-<p id=8351><form>kalaykay<sub>2</sub></form> <pos>n</pos> a k.o. tellin clams, about 1&frac12;&Prime; long and 1&Prime; wide, sand-colored and found in the sand along the shore.
+<p id=8351><form>kalaykay<sub>2</sub></form> <pos>n</pos> a k.o. tellin clams, about <measure reg="3.8 cm">1&frac12;&Prime;</measure> long and <measure reg="2.6 cm">1&Prime;</measure> wide, sand-colored and found in the sand along the shore.
 
 <p id=8352><form>kaláyu</form> <pos>n</pos> <tr>fire</tr>. <pos>v</pos> <itype>[B2S6]</itype> <number>1</number> grow into, be on fire. <i>Nakáyu ang bága nga giitsa sa basúra,</i> The ember thrown into the garbage turned into a fire. <number>2</number> be on fire with an emotion. <i>Nagkalayu siya sa kalágut,</i> He was fuming with rage. <number>3</number> spark, produce sparks. <i>Nagkayu ang ismiril sa dihang gidaítul ang amul,</i> The sharpener gave off sparks when the bolo was pressed against it. <form>kayukayu</form> <pos>v</pos> <number>1</number> <itype>[A]</itype> for cooking utensils or burners to produce sparks while cooking s.t. <number>2</number> <itype>[B1456]</itype> for love to be burning. <form>{-in-(&rarr;)|kinalayu}</form> <pos>n</pos> boiled corn on the cob. <form>kakalayúhan</form> <pos>n</pos> fires of hell.
 
@@ -787,7 +787,7 @@
 
 <p id=8389><form>kalíngag</form> <xr>= <sc>kaníngag</sc>.</xr>
 
-<p id=8390><form>kalingkaling</form> <pos>n</pos> k.o. <tr>mussel</tr> living in the roots of mangroves, about 1&frac12;&Prime; long.
+<p id=8390><form>kalingkaling</form> <pos>n</pos> k.o. <tr>mussel</tr> living in the roots of mangroves, about <measure reg="3.8 cm">1&frac12;&Prime;</measure> long.
 
 <p id=8391><form>kalingkit</form> <pos>n</pos> old variety of red, fine-grained paddy rice.
 
@@ -815,7 +815,7 @@
 
 <p id=8403><form>kális<sub>1</sub></form> <pos>n</pos> <tr>chalice</tr>.
 
-<p id=8404><form>kális<sub>2</sub></form> <pos>n</pos> k.o. pointed sword, around 18&ndash;20&Prime; long with serrations near the handle.
+<p id=8404><form>kális<sub>2</sub></form> <pos>n</pos> k.o. pointed sword, around <measure reg="46&ndash;51 cm">18&ndash;20&Prime;</measure> long with serrations near the handle.
 
 <p id=8405><form>kalísa</form> <pos>n</pos> a two-wheeled horse drawn carriage. <pos>v</pos> <itype>[A13]</itype> ride in a <ix>kalísa</ix>.
 
@@ -845,7 +845,7 @@
 
 <p id=8418><form>kalsunsilyu</form> <xr>= <sc>karsunsilyu</sc>.</xr>
 
-<p id=8419><form>kaltik</form> <pos>n</pos> an empty can of motor oil about 7&Prime; long with a diameter of about 2&prime;, locally used as a unit of measurement for sea shells.
+<p id=8419><form>kaltik</form> <pos>n</pos> an empty can of motor oil about <measure reg="18 cm">7&Prime;</measure> long with a diameter of about <measure reg="61 cm">2&prime;</measure>, locally used as a unit of measurement for sea shells.
 
 <p id=8420><form>kaltiks</form> <pos>n</pos> <number>1</number> Caltex, name of a company and a brand of gasoline. <number>2</number> <xr>= <sc>kaltik</sc>.</xr>
 
@@ -857,7 +857,7 @@
 
 <p id=8424><form>kalub</form> <pos>a</pos> for the surface of s.t. round and flat to be depressed. <i>Dílì giyud muhárì ning usa ka dakúa kay kalub man ang patay,</i> This one centavo coin will not come up heads because its tail is depressed. <pos>v</pos> <itype>[B; a12]</itype> get depressed in the middle. <i>Nagkalub man lang ang ági niíning plakáha,</i> My! How warped this record is.
 
-<p id=8425><form>kalubay</form> <pos>n</pos> a variety of common squash that has a club-shaped fruit, 2&ndash;4&prime; long, with smooth whitish-green skin and white flesh, the skin and flesh of which are edible. It is sold commercially as <ix>kalbásang putì</ix>: <bio>Lagenaria leucantha</bio>. <pos>v</pos> <itype>[A13; b6]</itype> cook <ix>kalubay</ix> or with <ix>kalubay</ix>.
+<p id=8425><form>kalubay</form> <pos>n</pos> a variety of common squash that has a club-shaped fruit, <measure reg="0.6&ndash;1.2 m">2&ndash;4&prime;</measure> long, with smooth whitish-green skin and white flesh, the skin and flesh of which are edible. It is sold commercially as <ix>kalbásang putì</ix>: <bio>Lagenaria leucantha</bio>. <pos>v</pos> <itype>[A13; b6]</itype> cook <ix>kalubay</ix> or with <ix>kalubay</ix>.
 
 <p id=8426><form>kalúbid</form> <pos>n</pos> an old variety of paddy rice with white grains.
 
@@ -1073,7 +1073,7 @@
 
 <p id=8530><form>kampi<sub>2</sub></form> <pos>v</pos> <itype>[A; b5]</itype> tuck overlapping or dangling parts of a skirt, esp. a wrap-around, into the waist. <i>Akuy mukampi sa ikug-íkug sa ímung sáya,</i> I&apos;ll tuck in the train of your skirt. <i>Kampíhun (ikampi) níya ang subrang tumuy sa patadyung iniglíkus níya niíni sa háwak,</i> She&apos;ll tuck in the overlap of her wrap-around when she wraps it around her waist.
 
-<p id=8531><form>kampílan</form> <pos>n</pos> k.o. long, sharp <tr>sword</tr>, straight-bladed, with the top sloping down to form a point and having a sharp spike protruding from the top side 2 or 3&Prime; in the back of the tip.
+<p id=8531><form>kampílan</form> <pos>n</pos> k.o. long, sharp <tr>sword</tr>, straight-bladed, with the top sloping down to form a point and having a sharp spike protruding from the top side <measure reg="5.1 cm">2</measure> or <measure reg="7.7 cm">3&Prime;</measure> in the back of the tip.
 
 <p id=8532><form>kamping</form> <pos>v</pos> <itype>[A; b]</itype> go <tr>camping</tr>, esp. scouts.
 
@@ -1179,7 +1179,7 @@
 
 <p id=8582><form>kanáway<sub>1</sub></form> <pos>n</pos> <tr>wind</tr> that blows from a westward direction. <i>Kanáway sa amíhan,</i> Northwest wind. <i>Kanáway sa habágat,</i> Southwest wind. <pos>v</pos> <number>1</number> <itype>[B5]</itype> for the west wind to blow. <i>Ug mukanáway ang hángin, dílì ta mularga,</i> If the wind blows from the west, we will not sail. <number>2</number> <itype>[AN]</itype> sail before the west wind. <i>Nanganáway sila paglarga,</i> They sailed before the west wind. <form>{-an|kanawayan}</form> <pos>n</pos> direction from which the <ix>kanáway</ix> blows.
 
-<p id=8583><form>kanáway<sub>2</sub></form> <pos>n</pos> k.o. white sea bird, some 6&Prime; long and 4&Prime; high, found perched on driftwood or on sea corals.
+<p id=8583><form>kanáway<sub>2</sub></form> <pos>n</pos> k.o. white sea bird, some <measure reg="15 cm">6&Prime;</measure> long and <measure reg="10 cm">4&Prime;</measure> high, found perched on driftwood or on sea corals.
 
 <p id=8584><form>kanawkánaw</form> <pos>v</pos> <itype>[A2N]</itype> be perceived at a great distance, extend into the distance. <i>Ang íyang tíngug mikanawkánaw sa mamingáwung kagabhíun,</i> Her voice can be heard from way off in a distance coming through the stillness of the night. <i>Nanganawkánaw ang kalapad sa humayan,</i> The rice fields extended into the distance. <i>Gamay na ang ayruplánung nanganawkánaw sa kalangítan,</i> The airplane looked very small in the distance.
 
@@ -1209,9 +1209,9 @@
 
 <p id=8596><form>kandíis<sub>1</sub></form> <pos>n</pos> dimples. <form>{-un|kandiísun}</form> <pos>a</pos> having dimpled cheeks.
 
-<p id=8597><form>kandíis<sub>2</sub></form> <pos>n</pos> k.o. tree about 30&prime; tall producing a lot of sap and bearing small rounded edible drupes: <bio>Garcinia sp</bio>.
+<p id=8597><form>kandíis<sub>2</sub></form> <pos>n</pos> k.o. tree about <measure reg="9.1 m">30&prime;</measure> tall producing a lot of sap and bearing small rounded edible drupes: <bio>Garcinia sp</bio>.
 
-<p id=8598><form>kandil</form> <pos>n</pos> <number>1</number> k.o. <tr>oil lamp</tr> made of a piece of bamboo about 2&ndash;4&prime;, to the bottom of which a clam shell to hold the oil is attached. It is usually hung near the altar in a house or s.w. else in the house and kept burning throughout the night. <number>2</number> cylindrical metal cooking pot having a flat bottom.
+<p id=8598><form>kandil</form> <pos>n</pos> <number>1</number> k.o. <tr>oil lamp</tr> made of a piece of bamboo about <measure reg="0.6&ndash;1.2 m">2&ndash;4&prime;</measure>, to the bottom of which a clam shell to hold the oil is attached. It is usually hung near the altar in a house or s.w. else in the house and kept burning throughout the night. <number>2</number> cylindrical metal cooking pot having a flat bottom.
 
 <p id=8599><form>kandílà</form> <pos>n</pos> <tr>candle</tr>. <pos>v</pos> <itype>[A13]</itype> use a candle. <i>Walay kuryinti karung gabíi, magkandílà na lang ta,</i> There will be no electric current tonight, so we&apos;ll just use candles. <form>{pa&N;-|pangandílà}</form> <pos>v</pos> <itype>[A23]</itype> be like a candle. <pos>a</pos> be standing like a candle, bare and stripped. <i>Nangandílà ang kamaisan nga naagian sa dúlun,</i> The corn stalks stood bare and stripped of everything after a swarm of locusts had passed over them. <number>b</number> become skin and bones. <i>Nangandílà siya sa kaguul,</i> She is all skin and bones now because of her sorrows. <number>c</number> be grades of one. <i>Nangandílà ang mga grádu sa iskálar,</i> The scholarship student got all one&apos;s (A&apos;s). <number>2</number> <itype>[A2; b6]</itype> sell, make candles for sale. <i>Nangandílà si Nánay pára nga makakitag kwarta,</i> Mother makes (or sells) candles to earn money. <number>3</number> <itype>[A2]</itype> be kept standing for a long time. <i>Haskang nakapangandílà nákug pinaábut nímu,</i> My! I waited and waited for you. <form>{mag-r-(&rarr;)|magkakandilà}, {ma&N;-r-(&rarr;)|mangangandilà}</form> <pos>n</pos> candle seller. <form>{-un|kandiláun}</form> <pos>a</pos> shaped like a candle. <i>Kandiláun siyag tudlù,</i> She has long, slender fingers.
 
@@ -1285,7 +1285,7 @@
 
 <p id=8634><form>kaniyun<sub>1</sub></form> <pos>n</pos> <tr>cannon</tr>. <pos>v</pos> <itype>[A; a2]</itype> <tr>shoot</tr> with a cannon or artillery piece. <form>{-ásu|kaniyunásu}</form> <pos>v</pos> <itype>[A; a]</itype> <tr>bomb</tr> intensively with artillery. <i>Ang bapur sa níbi nagkanyunásu sa Nurt Byitnam,</i> The navy ship fired a barrage on North Vietnam. <pos>n</pos> artillery bombardment.
 
-<p id=8635><form>kaniyun<sub>2</sub></form> <pos>n</pos> <number>1</number> <tr>bobbin</tr> 4&Prime; to 5&Prime; long which holds newly spun yarn or fiber. <number>2</number> <tr>warp</tr> in a loom. <number>2a</number> <tr>length of cloth</tr> being woven<corr>.</corr> <pos>v</pos> <itype>[A; a12]</itype> wind thread on spools.
+<p id=8635><form>kaniyun<sub>2</sub></form> <pos>n</pos> <number>1</number> <tr>bobbin</tr> <measure reg="10 cm">4&Prime;</measure> to <measure reg="13 cm">5&Prime;</measure> long which holds newly spun yarn or fiber. <number>2</number> <tr>warp</tr> in a loom. <number>2a</number> <tr>length of cloth</tr> being woven<corr>.</corr> <pos>v</pos> <itype>[A; a12]</itype> wind thread on spools.
 
 <p id=8636><form>kankan</form> <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> for movement of water to <tr>erode</tr> or <tr>wash</tr> s.t. away. <i>Ang balud kusug mukankan sa yútà,</i> Waves are rapidly washing away the beach. <i>Nakankanan ang bakilid,</i> The slope is all eroded. <number>2</number> <itype>[A; a]</itype> remove soil or sand from an area. <i>Nagkankan siya sa lápuk nga naglúup sa kanal,</i> He shoveled the mud which clogged the ditch. <i>Átù ning kankánang dapíta arun mapátag,</i> We&apos;ll remove some of the soil from this place to make it level. <pos>a</pos> eroded, worn away. <form>{-in-|kinankan}</form> <pos>n</pos> s.t. that has been removed by eroding action.
 
@@ -1501,7 +1501,7 @@
 
 <p id=8741><form>karahay<sub>1</sub></form> <pos>v</pos> <itype>[AN; b]</itype> do s.t. by <tr>borrowing</tr> s.t. which s.o. else owns. <i>Nakapanahì ku kay nakakarahay (nakapangarahay) man ku sa íyang makina,</i> I managed to sew some things because I got to use her sewing machine. <form>{pa-|pakarahay}</form> <pos>v</pos> <itype>[AN; ab]</itype> lend s.t. for s.o. to use while the owner is not using it. <i>Pakarahaya ra ku sa ímung makinilya,</i> May I use your typewriter while you&apos;re not using it? <i>Dì níla pakarahayan ang ílang utaw,</i> They don&apos;t lend their iron.
 
-<p id=8742><form>karahay<sub>2</sub></form> <pos>n</pos> cast-iron <tr>skillet</tr> with a round bottom, 2&ndash;4&Prime; smaller in diameter than the <ix>kaláhà</ix> with proportionate depth.
+<p id=8742><form>karahay<sub>2</sub></form> <pos>n</pos> cast-iron <tr>skillet</tr> with a round bottom, <measure reg="5&ndash;10 cm">2&ndash;4&Prime;</measure> smaller in diameter than the <ix>kaláhà</ix> with proportionate depth.
 
 <p id=8743><form>karahay<sub>3</sub></form> <pos>v</pos> <itype>[A2; b4]</itype> leave a place in a <tr>hurry</tr>. <i>Unsa may naingnan átu? Mikarahay man tu pag-abut nákù?</i> What&apos;s the matter with her? She left as soon as I arrived. <i>Amù ang tanang líhuk run kay gikarahayan mi sa mga míd,</i> We do all the work now because<corr sic=","></corr> our household help walked out on us suddenly.
 
@@ -1599,7 +1599,7 @@
 
 <p id=8789><form>kard</form> <pos>n</pos> <number>1</number> student&apos;s report <tr>card</tr>. <number>2</number> <ix>in set phrases</ix>: <bx>balintayins, birtdi, krismas, pus {&mdash;|kard}</bx> Valentine&apos;s, birthday, Christmas, post card. <pos>v</pos> <itype>[A; a]</itype> list s.t. on a card.
 
-<p id=8790><form>kardába</form> <pos>n</pos> variety of <tr>banana</tr>, 6&ndash;8&Prime; in length, square in shape, and yellow when ripe. Usually cooked, though edible raw.
+<p id=8790><form>kardába</form> <pos>n</pos> variety of <tr>banana</tr>, <measure reg="15&ndash;20 cm">6&ndash;8&Prime;</measure> in length, square in shape, and yellow when ripe. Usually cooked, though edible raw.
 
 <p id=8791><form>kardinal</form> <pos>n</pos> <tr>cardinal</tr> in the church. <pos>v</pos> <itype>[B126; a12]</itype> be, become a cardinal.
 
@@ -1787,7 +1787,7 @@
 
 <p id=8879><form>kasádu</form> <number>1</number> <ix>see</ix> <xr><sc>kasal</sc>, <i>2.</i></xr> <number>2</number> <ix>see</ix> <xr><sc>kasar<sub>1, 2</i></sc>.</xr>
 
-<p id=8880><form>kasag</form> <pos>n</pos> k.o. edible salt-water <tr>crab</tr> growing to 4&Prime;. <form>{pa&N;-|pangasag}</form> <pos>v</pos> <itype>[A2; b6(1)]</itype> catch <ix>kasag</ix>.
+<p id=8880><form>kasag</form> <pos>n</pos> k.o. edible salt-water <tr>crab</tr> growing to <measure reg="10 cm">4&Prime;</measure>. <form>{pa&N;-|pangasag}</form> <pos>v</pos> <itype>[A2; b6(1)]</itype> catch <ix>kasag</ix>.
 
 <p id=8881><form>kasáhus</form> <xr>= <sc>kusáhus</sc>.</xr>
 
@@ -1853,7 +1853,7 @@
 
 <p id=8911><form>kaskás</form> <xr>= <sc>kalaskálas</sc>.</xr>
 
-<p id=8912><form>kasku</form> <pos>n</pos> <number>1</number> the <tr>framework</tr> and the main structure of s.t. without appendages. <i>Kasku sa sakayan,</i> The hull of the boat. <i>Kasku sa kutsi,</i> The body of the car. <i>Kasku sa táwu,</i> The torso of a man. <i>Kasku sa muskitíru,</i> Walling of the mosquito net. <number>2</number> a blunt-bowed wooden boat with square stern about 30&prime; long, towed or with a sail, used for lightering or for river or coastal transport. It is so called because it consists of little more than a hull. <pos>v</pos> <itype>[A; a]</itype> build the basic structure of s.t., use as the basic structure. <i>Wà pa ku makakasku sa ákung muskitíru kay wà pa kuy ilangitlángit,</i> I haven&apos;t made the sides of the mosquito net because I don&apos;t have materials for the top.
+<p id=8912><form>kasku</form> <pos>n</pos> <number>1</number> the <tr>framework</tr> and the main structure of s.t. without appendages. <i>Kasku sa sakayan,</i> The hull of the boat. <i>Kasku sa kutsi,</i> The body of the car. <i>Kasku sa táwu,</i> The torso of a man. <i>Kasku sa muskitíru,</i> Walling of the mosquito net. <number>2</number> a blunt-bowed wooden boat with square stern about <measure reg="9.1 m">30&prime;</measure> long, towed or with a sail, used for lightering or for river or coastal transport. It is so called because it consists of little more than a hull. <pos>v</pos> <itype>[A; a]</itype> build the basic structure of s.t., use as the basic structure. <i>Wà pa ku makakasku sa ákung muskitíru kay wà pa kuy ilangitlángit,</i> I haven&apos;t made the sides of the mosquito net because I don&apos;t have materials for the top.
 
 <p id=8913><form>kaskug</form> <pos>v</pos> <itype>[A12]</itype> muster enough strength to move or to do s.t. <i>Dì pa makakaskug sa pagbángun ang masakitun,</i> The patient doesn&apos;t have enough strength to get up out of bed.
 
@@ -1931,7 +1931,7 @@
 
 <p id=8950><form>katambak</form> <pos>n</pos> general name for porgies and <pb n=454>sheepheads, esp. <bio>Lethrinus spp</bio>., and also loosely given to fish of similar appearance such as <bio>Monotaxis grandoculis</bio>.
 
-<p id=8951><form>katang</form> <pos>n</pos> k.o. edible fresh-water <tr>crab</tr> growing to 4&Prime; by 3&Prime;, dark brownish-green in color.
+<p id=8951><form>katang</form> <pos>n</pos> k.o. edible fresh-water <tr>crab</tr> growing to <measure reg="10 cm">4&Prime;</measure> by <measure reg="7.7 cm">3&Prime;</measure>, dark brownish-green in color.
 
 <p id=8952><form>kátap</form> <pos>v</pos> <number>1</number> <itype>[B; c1]</itype> <tr>spread</tr> all over. <i>Mikátap ang mga táwu sa plása,</i> People were all over the plaza. <i>Ang usa ka galun nga pintal dílì makakátap sa pisami,</i> A gallon of paint will not cover the entire ceiling. <number>2</number> <itype>[B]</itype> for vision or reasoning powers to be <tr>blurred</tr>. <i>Nagkátap ang ákung tinan-awan sa mga lúhà,</i> My vision was not clear because of my tears. <i>Mikátap ang íyang hunàhúnà sa hilabihang kasábà,</i> He couldn&apos;t think clearly because of the incessant din. <pos>a</pos> <number>1</number> be spread widely. <i>Kátap kaáyu ang balità,</i> The news spread widely. <number>2</number> for vision or thoughts to get blurred.
 
@@ -1985,7 +1985,7 @@
 
 <p id=8976><form>katípa</form> <pos>n</pos> k.o. freshwater <tr>catfish</tr> of swamps, dark brown with venomous spines at the base of the pectoral fin. Edible, but not prized.
 
-<p id=8977><form>katípan</form> <pos>n</pos> k.o. dark brown, very hard-shelled <tr>cowries</tr> up to 3&Prime; (k.o. <ix>sigay</ix>): the humpback and snake-head cowries.
+<p id=8977><form>katípan</form> <pos>n</pos> k.o. dark brown, very hard-shelled <tr>cowries</tr> up to <measure reg="7.7 cm">3&Prime;</measure> (k.o. <ix>sigay</ix>): the humpback and snake-head cowries.
 
 <p id=8978><form>katipúnan, katipuníru</form> <ix>see</ix> <xr><sc>típun</sc>.</xr>
 
@@ -2211,7 +2211,7 @@
 
 <p id=9087><form>kaykay<sub>1,2</sub></form> <xr>= <sc>kalaykay<sub>1,2</sub></sc>.</xr>
 
-<p id=9088><form>kaykay<sub>3</sub></form> <pos>n</pos> a k.o. round <tr>cookie</tr> about 3&Prime; in diameter, topped with ground peanuts.
+<p id=9088><form>kaykay<sub>3</sub></form> <pos>n</pos> a k.o. round <tr>cookie</tr> about <measure reg="7.7 cm">3&Prime;</measure> in diameter, topped with ground peanuts.
 
 <p id=9089><form>kaylab, kaylap</form> <pos>v</pos> <itype>[A; b6]</itype> <number>1</number> for s.t. that leaves some sort of effect to <tr>spread</tr>. <i>Mikaylap ang kaláyu sa balay,</i> The fire spread to the house. <i>Ang pagmariwána nagkaylap na,</i> Smoking of marijuana is spreading everywhere. <i>Gikaylápan ang íyang láwas sa nukanuka,</i> His body is covered with sores. <number>2</number> for roots to spread. <i>Inigkadakù na sa lubi, layù ug kaylápan ang gamut,</i> When the coconut tree reaches a good size, the roots spread far.
 
@@ -2681,7 +2681,7 @@
 
 <p id=9316><form>kísu</form> <pos>n</pos> <tr>cheese</tr>. <pos>v</pos> <itype>[A13; b]</itype> have, put cheese in s.t. <form>{&mdash;|kísu} dibúla</form> <pos>n</pos> cheese shaped into a ball and coated with red wax.
 
-<p id=9317><form>kisul</form> <pos>n</pos> k.o. perennial herb about 10&ndash;12&Prime; high with dull, yellow-green, cordiate leaves, aromatic in root-stock and leaves. The leaves and roots are used medicinally. The leaves are also given to cocks to make them aggressive and used as a rinse after washing the hair.
+<p id=9317><form>kisul</form> <pos>n</pos> k.o. perennial herb about <measure reg="26&ndash;31 cm">10&ndash;12&Prime;</measure> high with dull, yellow-green, cordiate leaves, aromatic in root-stock and leaves. The leaves and roots are used medicinally. The leaves are also given to cocks to make them aggressive and used as a rinse after washing the hair.
 
 <p id=9318><form>kisum</form> <pos>a</pos> for toddy to be sour. <pos>v</pos> <itype>[B; a]</itype> <tr>become sour</tr>.
 
@@ -3015,7 +3015,7 @@
 
 <p id=9480><form>kubul</form> <pos>v</pos> <itype>[B2]</itype> <number>1</number> for s.t. cooked to come out tough or hardened. <i>Mukubul ang pánit sa giasal kun dì humdan ug túbig,</i> The roast pig skin becomes tough if it has been roasted without daubing water on it. <i>Nagkakubul na ang kindi nga ákung gilútù,</i> The candy I&apos;m cooking is gradually hardening. <number>2</number> become hardened, insensitive. <i>Mikubul (nakubul) na ang íyang kasingkásing sa tanang biaybíay,</i> Her feelings have become hardened to any and all insults. <i>Nagkakubul ang ákung láwas sa katugnaw,</i> My body is gradually becoming inured to the cold. <pos>a</pos> <number>1</number> hardened. <number>2</number> hardened in feelings, insensitive. <i>Kubul siya sa mga pakilúuy,</i> She is insensitive to pleas for mercy. <form>kublan</form> <pos>a</pos> <number>1</number> invulnerable. <i>Dì nà siya dutlan ug bála kay kublan,</i> Bullets can&apos;t pierce him because he is invincible. <number>2</number> <xr>= <sc>kubul</sc>, a.</xr> <pos>v</pos> <itype>[B]</itype> become invulnerable.
 
-<p id=9481><form>kubung<sub>1</sub></form> <pos>n</pos> drinking glass made of a piece of bamboo some 5&Prime; long cut just below a node which serves as the bottom. <pos>v</pos> <number>1</number> <itype>[A1; c16]</itype> make into such a bamboo glass. <number>2</number> <itype>[A13; c1]</itype> use or put s.t. in such a bamboo glass.
+<p id=9481><form>kubung<sub>1</sub></form> <pos>n</pos> drinking glass made of a piece of bamboo some <measure reg="13 cm">5&Prime;</measure> long cut just below a node which serves as the bottom. <pos>v</pos> <number>1</number> <itype>[A1; c16]</itype> make into such a bamboo glass. <number>2</number> <itype>[A13; c1]</itype> use or put s.t. in such a bamboo glass.
 
 <p id=9482><form>kubung<sub>2</sub></form> <pos>n</pos> <number>1</number> protective covering. <number>2</number> mosquito net. <pos>v</pos> <itype>[A1; b6]</itype> put up a protective covering, make into a protective covering. <i>Gikubungan sa mananagat ang lampara arun dì mapálung,</i> The fisherman put a covering over the lamp to keep the wind from blowing it.
 
@@ -3071,7 +3071,7 @@
 
 <p id=9508><form>kugang<sub>2</sub></form> <xr>= <sc>kugan</sc>.</xr>
 
-<p id=9509><form>kugaw, kúgaw</form> <pos>n</pos> fingerling of the milkfish (<ix>bangrus</ix>) at the stage 4&ndash;8&Prime; in length: <bio>Chanos chanos</bio>.
+<p id=9509><form>kugaw, kúgaw</form> <pos>n</pos> fingerling of the milkfish (<ix>bangrus</ix>) at the stage <measure reg="10&ndash;20 cm">4&ndash;8&Prime;</measure> in length: <bio>Chanos chanos</bio>.
 
 <p id=9510><form>kugay<sub>1</sub></form> <pos>v</pos> <itype>[AB; ac1]</itype> make brown sugar in a dry and powdered state. <i>Kun sagúlag apug ang dúgà sa tubu nga intúsun mukugay (makugay) ang kámay nga malútù,</i> When lime is added to milled cane juice, the brown sugar will come out dry and in powdered form. <pos>n</pos> brown cane sugar in its powdered form.
 
@@ -3179,7 +3179,7 @@
 
 <p id=9562><form>kulaburítur</form> <pos>n</pos> <tr>collaborator with the enemy</tr>. <pos>v</pos> <itype>[B16; a12]</itype> be a collaborator with the enemy. <i>Kuútun sa girilya ang magkulaburítur,</i> The partisans will liquidate those who are collaborators.
 
-<p id=9563><form>kulabútan</form> <pos>n</pos> k.o. large cuttlefish sometimes growing to 25&Prime;.
+<p id=9563><form>kulabútan</form> <pos>n</pos> k.o. large cuttlefish sometimes growing to <measure reg="64 cm">25&Prime;</measure>.
 
 <p id=9564><form>kulabyaw</form> <pos>n</pos> a k.o. edible fruit bat similar to but smaller than the <ix>kulaknit</ix>. <form>{pa&N;-|pangulabyaw}</form> <pos>v</pos> <itype>[A2]</itype> catch <ix>kulabyaw</ix>.
 
@@ -4315,7 +4315,7 @@
 
 <p id=10120><form>kurunasiyun</form> <pos>n</pos> coronation. <pos>v</pos> <itype>[A13]</itype> perform a coronation ceremony.
 
-<p id=10121><form>kurung<sub>1</sub></form> <pos>n</pos> chicken cage about 2&ndash;3&prime; high and just as deep and wide, usually set in rows abreast. <pos>v</pos> <itype>[A12; b6]</itype> construct or put a chicken cage s.w.
+<p id=10121><form>kurung<sub>1</sub></form> <pos>n</pos> chicken cage about <measure reg="61&ndash;91 cm">2&ndash;3&prime;</measure> high and just as deep and wide, usually set in rows abreast. <pos>v</pos> <itype>[A12; b6]</itype> construct or put a chicken cage s.w.
 
 <p id=10122><form>kurung<sub>2</sub>, kúrung</form> <pos>n</pos> veil or any other head covering used by women in church. <pos>v</pos> <itype>[A; b]</itype> wear a veil on the head while in church. <i>Salingawhan ku ug dílì ku makakúrung sa simbahan,</i> I feel uneasy if I do not wear a veil in the church.
 
