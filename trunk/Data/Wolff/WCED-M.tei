@@ -897,7 +897,7 @@
 
 <p id=12359><form>matmat<sub>2</sub></form> <xr>= <sc>alimatmat</sc>.</xr>
 
-<p id=12360><form>matngà</form> <pos>v</pos> <itype>[A; a12]</itype> be hit full in the area intended with a big impact. <i>Namatngà pagkaigù ang langgam sa batu,</i> The stone hit the bird squarely. a hit square. <i>Matngà giyud pagkaigù ang lansang nga gimartilyu,</i> He hit the nail square on the head.
+<p id=12360><form>matngà</form> <pos>v</pos> <itype>[A; a12]</itype> be hit full in the area intended with a big impact. <i>Namatngà pagkaigù ang langgam sa batu,</i> The stone hit the bird squarely. <pos>a</pos> hit square. <i>Matngà giyud pagkaigù ang lansang nga gimartilyu,</i> He hit the nail square on the head.
 
 <p id=12361><form>matngun</form> <pos>v</pos> <number>1</number> <itype>[A13; b(1)]</itype> take care of by observing precautions, handle carefully. <i>Magmatngun ka arun dì ka madisgrasya,</i> Be careful so you don&apos;t meet an accident. <number>2</number> <itype>[A1; b(1)]</itype> pay attention, heed. <i>Wà mu magmatngun sa ákung tambag, ha?</i> You didn&apos;t heed my advice, did you? <number>3</number> <itype>[A12; b8]</itype> be aware of, realize. <i>Nakamatngun siya nga walà na ang íyang pitáka,</i> He noticed that his wallet was gone. <i>Namatngunan na níya nga walà diay salà ang bátà,</i> He has just realized that the child was innocent. <form>{&mdash;|matngun} ug buut</form> <pos>v</pos> <number>1</number> <itype>[A; b8]</itype> be aware of, reach the age of reason. <i>Dinhi na ku ning baláya sukad ku makamatngun ug buut,</i> I have lived in this house since I saw light. <number>2</number> <itype>[A12]</itype> regain consciousness. <i>Didtu na siya makamatngun ug buut sa uspital,</i> He regained consciousness in the hospital. <form>{pahi-|pahimatngun}</form> <pos>v</pos> <itype>[A; c]</itype> <tr>advise</tr> and <tr>admonish</tr>. <i>Pahitmangúni siya báhin sa íyang pag-inum,</i> Advise him about his drinking. <pos>n</pos> <tr>admonishment</tr>. <form>{kahi-|kahimatngun}</form> <pos>n</pos> <tr>awareness</tr> of s.t.
 
@@ -1393,7 +1393,7 @@
 
 <p id=12605><form>míting</form> <pos>n</pos> <number>1</number> <tr>meeting</tr> convened. <number>2</number> political meeting or rally. <form>{&mdash;|míting} diabansi</form> political rally the night before an election. <pos>v</pos> <itype>[A2C2; ab]</itype> hold a meeting. <form>{-anan|mítinganan}</form> <pos>n</pos> place for holding meetings.
 
-<p id=12606><form>mitirmítir</form> <pos>v</pos> <itype>[A; a]</itype> put a limit to or limit one&apos;s acts. <i>Ása mumitirmítir ug sulti si Máma ug manuyù,</i> Mama does not mince words when she is angry. <i>Karung panahúna kinahanglan nga magmitirmítir ug sinud-anan,</i> In these times it is necessary to limit our food consumption. a being done in a scarce, limited way.
+<p id=12606><form>mitirmítir</form> <pos>v</pos> <itype>[A; a]</itype> put a limit to or limit one&apos;s acts. <i>Ása mumitirmítir ug sulti si Máma ug manuyù,</i> Mama does not mince words when she is angry. <i>Karung panahúna kinahanglan nga magmitirmítir ug sinud-anan,</i> In these times it is necessary to limit our food consumption. <pos>a</pos> being done in a scarce, limited way.
 
 <p id=12607><form>mitkan</form> <pos>n</pos> <tr>mess kit</tr>, commonly used as a lunch box. <pos>v</pos> <itype>[A1; c6]</itype> put s.t. in a mess kit.
 
