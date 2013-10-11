@@ -108,6 +108,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_head`
     `entryid` int(11) NOT NULL,
     `head` varchar(64) NOT NULL default '',
     `normalized_head` varchar(64) NOT NULL default '',
+    `type` varchar(6) NOT NULL default '',
 
     KEY `head` (`head`)
 );
@@ -158,6 +159,10 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
         <xsl:value-of select="local:normalize($headword)"/>
     </xsl:variable>
 
+    <xsl:variable name="isCrossReference">
+        <xsl:value-of select="if (xr) then 1 else 0"/>
+    </xsl:variable>
+
     <xsl:value-of select="local:insertEntrySql($entryid, $normalizedHeadword, $entrytext, @page)"/>
 
     <!-- Find all words with language for this entry -->
@@ -191,8 +196,8 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 
     <!-- List unique head-words in entry -->
     <xsl:for-each-group select="$heads/h" group-by=".">
-        <xsl:variable name="mainEntry" select="if (current-group()[1] = $headword) then 1 else 0"/>
-        <xsl:value-of select="local:insertHeadSql($entryid, current-group()[1], local:normalize(current-group()[1]))"/>
+        <xsl:variable name="entryType" select="if (current-group()[1] = $headword) then 'm' else 's'"/>
+        <xsl:value-of select="local:insertHeadSql($entryid, current-group()[1], local:normalize(current-group()[1]), $entryType)"/>
     </xsl:for-each-group>
 
     <!-- Find all translations -->
@@ -301,14 +306,17 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="entryid"/>
     <xsl:param name="head"/>
     <xsl:param name="normalizedHead"/>
+    <xsl:param name="entryType"/>
 
     <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head) VALUES (</xsl:text>
+    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head, type) VALUES (</xsl:text>
         <xsl:value-of select="$entryid"/>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedHead"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$entryType"/><xsl:text>&quot;</xsl:text>
     <xsl:text>);</xsl:text>
 </xsl:function>
 

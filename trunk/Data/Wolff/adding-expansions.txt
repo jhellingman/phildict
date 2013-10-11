@@ -92,6 +92,28 @@ Step 3:
 
     Check-in the file.
 
+    Checking for comma's in <form>: <form>[^<]+,
+
+    A
+    B
+    D
+    G
+    H
+    I
+    K
+    L
+    M
+    N
+    P
+    R
+    S
+    T
+    U
+    W
+    Y
+    Addenda
+
+
 Step 4:
 
     After all expansion have been marked, use a tool

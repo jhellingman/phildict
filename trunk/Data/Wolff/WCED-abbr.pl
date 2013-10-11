@@ -37,5 +37,10 @@ sub handleAbbreviations($)
     }
 
     $result .= $remainder;
+
+    # Recognize @-tagged translations
+    $result =~ s/[@]([A-Za-z-]+)/<tr>\1<\/tr>/sg;
+    $result =~ s/[@]{([^}]*)}/<tr>\1<\/tr>/sg;
+
     return $result;
 }
