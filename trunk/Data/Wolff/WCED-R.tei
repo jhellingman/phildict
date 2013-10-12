@@ -192,7 +192,7 @@
 
 <p id=15374><form>ráya</form> <pos>n</pos> <number>1</number> long narrow band or streak. <number>2</number> game <pb n=823>of chance played by tossing coins on a surface marked with criss-crossing lines. Coins that land on the lines are given to the opponent. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> mark stripes. <i>Ang bandíra sa Amirika girayáhan ug putì ug pula,</i> The American flag has red and white stripes. <number>2</number> <itype>[AC; b(1)]</itype> play <ix>ráya</ix>. <form>{-du|ráyadu}, rinaháyan, nirayáhan</form> <pos>n</pos> having stripes.
 
-<p id=15375><form>rayadilyu</form> <pos>n</pos> a <tr>strip</tr> of ribbon sewn along the side seams of trousers, as in uniforms. <i>Pula ang rayadilyu sa unipurmi sa písi,</i> The P.C. have red stripes on their trousers. <pos>v</pos> <itype>[A; ac]</itype> attach, make a <tr>stripe</tr> on trousers.
+<p id=15375><form>rayadilyu</form> <pos>n</pos> a <tr>strip</tr> of ribbon sewn along the side seams of trousers, as in uniforms. <i>Pula ang rayadilyu sa unipurmi sa písi,</i> The <abbr expan="Philippine Constabulary">P.C.</abbr> have red stripes on their trousers. <pos>v</pos> <itype>[A; ac]</itype> attach, make a <tr>stripe</tr> on trousers.
 
 <p id=15376><form>rayban</form> <pos>n</pos> <tr>sunglasses</tr> (so called from the brand name). <pos>v</pos> <itype>[A13; b6(1)]</itype> wear sunglasses.
 
@@ -730,7 +730,7 @@
 
 <p id=15641><form>run</form> short for <xr><sc>karun</sc>.</xr>
 
-<p id=15642><form>runda</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> police <tr>raid</tr>. <i>Mga Písi ang mirunda sa sugálan,</i> The P.C. raided the gambling den. <number>2</number> go to s.o.&apos;s house unexpectedly to collect a debt, ask for charity. <i>Girunda mi sa mananaygun,</i> The carollers came to see us to <tr>solicit</tr> money (lit. raided us).
+<p id=15642><form>runda</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> police <tr>raid</tr>. <i>Mga Písi ang mirunda sa sugálan,</i> The <abbr expan="Philippine Constabulary">P.C.</abbr> raided the gambling den. <number>2</number> go to s.o.&apos;s house unexpectedly to collect a debt, ask for charity. <i>Girunda mi sa mananaygun,</i> The carollers came to see us to <tr>solicit</tr> money (lit. raided us).
 
 <p id=15643><form>rundalya</form> <pos>n</pos> <tr>orchestra</tr> consisting mainly of native stringed instruments. <pos>v</pos> <itype>[A1]</itype> form a <ix>rundalya</ix>.
 

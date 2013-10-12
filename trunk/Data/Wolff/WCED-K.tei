@@ -697,7 +697,7 @@
 
 <p id=8345><form>kálaw</form> <pos>n</pos> <tr>hornbill</tr> bird: <bio>Buceros hydrocorax</bio>.
 
-<p id=8346><form>kaláwan</form> <pos>v</pos> <itype>[A23; cP]</itype> be somewhat <tr>raised</tr>, <pb n=425>get somewhat off the ground. <i>Ang salug sa balay mikáwan lag usa ka pí gíkan sa yútà,</i> The floor of the house is elevated about a foot from the ground. <i>Nakakáwan nag ayruplánu sa pag-abut námù sa irpurt,</i> The plane had already gotten off the ground when we got to the airport. <ix>see also</ix> <xr><sc>kawankawan</sc>.</xr>
+<p id=8346><form>kaláwan</form> <pos>v</pos> <itype>[A23; cP]</itype> be somewhat <tr>raised</tr>, <pb n=425>get somewhat off the ground. <i>Ang salug sa balay mikáwan lag usa ka pí gíkan sa yútà,</i> The floor of the house is elevated about <measure reg="30 cm">a foot</measure> from the ground. <i>Nakakáwan nag ayruplánu sa pag-abut námù sa irpurt,</i> The plane had already gotten off the ground when we got to the airport. <ix>see also</ix> <xr><sc>kawankawan</sc>.</xr>
 
 <p id=8347><form>kaláwat</form> (from <ix>dáwat</ix>) <pos>v</pos> <number>1</number> <itype>[AN2; b(1)]</itype> take <tr>Holy Communion</tr>. <i>Nakakalawat (nakapangaláwat) ka rung Duminggúha?</i> Did you take communion this Sunday? <number>2</number> <itype>[A; a12]</itype> accept s.t. as true. <i>Dílì ku mukaláwat árung mga pangatarúngan mu,</i> I will not accept any of your reasons. <number>3</number> <tr>receive</tr>, <tr>accept</tr> (Biblical). <i>Kalawátun mu ba si Kurdaping nga ímung asáwa?</i> Do you take Kordaping as your wife? <pos>n</pos> Holy Communion. <form>{-an(&rarr;)|kalawatan}, {-ánan|kalawatánan}</form> <pos>n</pos> communion railing.
 
@@ -2051,7 +2051,7 @@
 
 <p id=9009><form>katunggan</form> <ix>see</ix> <xr><sc>tungug</sc>.</xr>
 
-<p id=9010><form>katursa<sub>1</sub></form> <pos>n</pos> reddish fish about an inch long with fine scales, rough skin, eaten stewed in vinegar or fermented, preserved in salt.
+<p id=9010><form>katursa<sub>1</sub></form> <pos>n</pos> reddish fish about <measure reg="2.5 cm">an inch</measure> long with fine scales, rough skin, eaten stewed in vinegar or fermented, preserved in salt.
 
 <p id=9011><form>katursa<sub>2</sub></form> <pos>n</pos> variety of short-term paddy rice with large reddish or white grains.
 
@@ -3579,7 +3579,7 @@
 
 <p id=9758><form>kumbuy</form> <pos>v</pos> <itype>[A; b]</itype> accompany s.o. going s.w. as a protection. <i>Sikyuriti ang mukumbuy sa pimastir,</i> Security guards will escort the paymaster. <i>Nabyaan sa barku ang nagkumbuy sa kábaw nga itúmud sa Manílà,</i> The man who was supposed to go along with the carabaos being shipped to Manila missed the boat. <pos>n</pos> protective escort.
 
-<p id=9759><form>kumbúya</form> <pos>n</pos> <number>1</number> partner in a business or ally in war. <number>2</number> naval convoy. <pos>v</pos> <itype>[C; ac3]</itype> <number>1</number> be, become partners or allies. <i>Nagkumbúya ang duha ka magsúun sa nigusyu,</i> The two brothers joined their capital together into a business enterprise. <i>Nagkakumbuya ang Alimanya ug Hapun sa gúbat,</i> The Germans and Japanese joined forces during the War. <i>Nakigkumbúya ang mga ismaglir sa mga písi,</i> The smugglers were allied with the P.C. soldiers. <number>2</number> provide convoy protection.
+<p id=9759><form>kumbúya</form> <pos>n</pos> <number>1</number> partner in a business or ally in war. <number>2</number> naval convoy. <pos>v</pos> <itype>[C; ac3]</itype> <number>1</number> be, become partners or allies. <i>Nagkumbúya ang duha ka magsúun sa nigusyu,</i> The two brothers joined their capital together into a business enterprise. <i>Nagkakumbuya ang Alimanya ug Hapun sa gúbat,</i> The Germans and Japanese joined forces during the War. <i>Nakigkumbúya ang mga ismaglir sa mga písi,</i> The smugglers were allied with the <abbr expan="Philippine Constabulary">P.C.</abbr> soldiers. <number>2</number> provide convoy protection.
 
 <p id=9760><form>kumi</form> <pos>n</pos> suckerfish, remora: <bio>Remora spp</bio>. <form>kumì</form> <pos>v</pos> <itype>[A; b]</itype> rub out a smudge, dirty spot, wetting the whole piece of clothing or just wetting the dirty spot. <i>Kumian dáyun ang mansa arun dì makataput kaáyu,</i> Wash out the stain immediately before it gets fixed in the cloth.
 

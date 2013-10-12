@@ -809,7 +809,7 @@
 
 <p id=1884><form>balátik<sub>2</sub></form> <pos>n</pos> name of a constellation having three stars in a row.
 
-<p id=1885><form>balátung</form> <pos>n</pos> k.o. string bean, reaching more than a foot and less than an inch around. The most commonly grown string bean: <bio>Vigna sesquipedialis</bio>. <form>sintas {&mdash;|balátung}</form> <pos>n</pos> a variety longer than ordinary <ix>balátung.</ix> <form>batungbatung</form> <pos>n</pos> k.o. wild vine with a bean similar to the <ix>balátung,</ix> but inedible. <form>{-in-(&rarr;)|binalatung}</form> <pos>n</pos> k.o. banana the fruit of which is light yellowish green, long and thin, eaten raw when ripe.
+<p id=1885><form>balátung</form> <pos>n</pos> k.o. string bean, reaching more than <measure reg="30 cm">a foot</measure> and less than <measure reg="2.5 cm">an inch</measure> around. The most commonly grown string bean: <bio>Vigna sesquipedialis</bio>. <form>sintas {&mdash;|balátung}</form> <pos>n</pos> a variety longer than ordinary <ix>balátung.</ix> <form>batungbatung</form> <pos>n</pos> k.o. wild vine with a bean similar to the <ix>balátung,</ix> but inedible. <form>{-in-(&rarr;)|binalatung}</form> <pos>n</pos> k.o. banana the fruit of which is light yellowish green, long and thin, eaten raw when ripe.
 
 <p id=1886><form>balatwánun</form> <pos>n</pos> k.o. small sea fish: <bio>Gerres sp</bio>.
 
@@ -1267,7 +1267,7 @@
 
 <p id=2109><form>bandílà</form> <xr>= <sc>bandíra</sc>.</xr>
 
-<p id=2110><form>bandilyu</form> <pos>v</pos> <itype>[A; c]</itype> cry out an announcement. <i>Nagbandilyu ang písi nga kurpyu alas nuybi,</i> The P.C. announced that the curfew was at nine. <pos>n</pos> public announcement.
+<p id=2110><form>bandilyu</form> <pos>v</pos> <itype>[A; c]</itype> cry out an announcement. <i>Nagbandilyu ang písi nga kurpyu alas nuybi,</i> The <abbr expan="Philippine Constabulary">P.C.</abbr> announced that the curfew was at nine. <pos>n</pos> public announcement.
 
 <p id=2111><form>bandíra</form> <pos>n</pos> <number>1</number> <tr>flag</tr>, <tr>banner</tr>. <number>2</number> s.t. flapping like a flag, <tr>visible</tr> for all to see. <i>Bitára ang ímung kamisun kay nagdayag ang ímung bandíra,</i> You pull your slip up because it (lit. flag) shows. <pos>v</pos> <number>1</number> <itype>[a]</itype> make into a flag, put a flag on. <number>2</number> <itype>[AB6; c]</itype> put s.t. in view; <tr>brandish</tr> a weapon, be in full view. <i>Bandiráhan ku bítaw sa pinútì, dágan lagi,</i> He ran away when I brandished my sword at him. <i>Ímu mang gibandíra ang ímung kadautan,</i> You are brandishing your wickedness for all to see. <number>2a</number> <itype>[B6]</itype> be very much above, <tr>ahead</tr> of everyone else. <i>Labihan siyang namandíra (mibandíra) sa indigay,</i> She was very much in the lead in the contest.
 

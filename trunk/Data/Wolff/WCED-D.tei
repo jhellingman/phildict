@@ -349,7 +349,7 @@
 
 <!-- TODO: truncated half sentence -->
 
-<p id=3981><form>dalapúgan</form> <pos>n</pos> k.o. sea <tr>fish</tr> growing to a foot in length<corr sic=" and neal">.</corr>
+<p id=3981><form>dalapúgan</form> <pos>n</pos> k.o. sea <tr>fish</tr> growing to <measure reg="30 cm">a foot</measure> in length<corr sic=" and neal">.</corr>
 
 <p id=3982><form>dalaput</form> <pos>n</pos> k.o. small <tr>tree</tr>, the leaves of which have medicinal use.
 
@@ -437,7 +437,7 @@
 
 <p id=4023><form>dalúpang</form> <pos>n</pos> k.o. <tr>shrub</tr>, the leaves of which are used topically for rashes and stomach ailments: <bio>Urena lobata</bio>. <form>{&mdash;|dalúpang} ginting</form> variety with palmately-lobed leaves, considered the best for medicinal use. <form>{&mdash;|dalúpang} kukhan</form> <pos>n</pos> variety with serrate but not lobed leaves, shaped like a fingernail.
 
-<p id=4024><form>dalupápa</form> <pos>n</pos> k.o. <tr>squid</tr> with a body growing to a foot in length.
+<p id=4024><form>dalupápa</form> <pos>n</pos> k.o. <tr>squid</tr> with a body growing to <measure reg="30 cm">a foot</measure> in length.
 
 <p id=4025><form>dalupúgan</form> <xr>= <sc>dalapúgan</sc>.</xr>
 
