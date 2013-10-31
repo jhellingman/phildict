@@ -848,7 +848,7 @@
 
 <p id=7358><form>-in-ánan</form> alternant of <bx>-in-an</bx> added to some roots where the final vowel of the root is dropped. <i>Sinugdánan (sinugdan),</i> Beginning. <i>Kinuptánan sa átung panaghinigugmaay,</i> Keepsakes betokening our love.
 
-<p id=7359><form>inánay</form> <pos>v</pos> <itype>[AB; c1]</itype> do or become s.t. in stages gradually, little by little. <i>Miinánay pagbákud ang masakitun,</i> The sick man rose slowly. <i>Miinánay (nainánay) ug kaláwum ang sapà,</i> The brook is gradually getting deeper. <i>Inanáya (iinánay) pagsira ang pultahan,</i> Close the door slowly. <i>Inanáyan ta lang kag báyad sa ákung útang,</i> I&apos;ll just pay you my debt little by little.
+<p id=7359><form>inánay</form> <pos>v</pos> <itype>[AB; c1]</itype> do or become s.t. in @stages<corr>,</corr> @gradually, @{little by little}. <i>Miinánay pagbákud ang masakitun,</i> The sick man rose slowly. <i>Miinánay (nainánay) ug kaláwum ang sapà,</i> The brook is gradually getting deeper. <i>Inanáya (iinánay) pagsira ang pultahan,</i> Close the door slowly. <i>Inanáyan ta lang kag báyad sa ákung útang,</i> I&apos;ll just pay you my debt little by little.
 
 <p id=7360><form>in-anay</form> <xr>= <sc>-ay<sub>1</sub></sc>.</xr>
 
@@ -856,7 +856,7 @@
 
 <p id=7362><form>ínat</form> <pos>v</pos> <number>1</number> <itype>[AB23(1); c1]</itype> <tr>stretch</tr>, cause to <tr>extend</tr> farther in length or time. <i>Akuy miínat sa dawunggan sa bátang badlúngun,</i> I pulled the naughty child&apos;s ears. <i>Muínat (maínat) ang tisyirt,</i> The T-shirt will stretch. <i>Inátun (iínat) paggastu ang kwarta,</i> Stretch the money to make it go a long way. <number>1a</number> <itype>[A; a]</itype> stretch a grade so that the student can pass. <i>Inátun na lang ni nátung grádu, kay gradwíting ka man,</i> We&apos;ll stretch your grade because you&apos;re graduating. <number>2</number> <itype>[B26]</itype> for the voice or brows to be raised. <i>Muínat (maínat) na gánì nang íyang kílay napikal na nà,</i> When he raises his brows, that means he is irked. <pb n=380><pos>n</pos> <number>1</number> amount s.t. stretched. <number>2</number> stretching.
 
-<p id=7363><form>ínaw</form> <pos>n</pos> name given to a k.o. <ix>sigay</ix> (small cowry) which is shiny.
+<p id=7363><form>ínaw</form> <pos>n</pos> name given to a k.o. <ix>sigay</ix> (small @cowry) which is shiny.
 
 <p id=7364><form>inawgura</form> <xr>= <sc>inagurar</sc>.</xr>
 
@@ -872,13 +872,13 @@
 
 <p id=7370><form>inbitisyun kard</form> <pos>n</pos> <tr>invitation card</tr>.
 
-<p id=7371><form>inburd</form> <pos>n</pos> <pos>a</pos> marine motor mounted inboard or a small boat with an inboard motor.
+<p id=7371><form>inburd</form> <pos>n</pos> <pos>a</pos> marine motor mounted inboard or a small boat with an @{inboard motor}.
 
 <p id=7372><form>inbuyis</form> <xr>= <sc>imbuyis</sc>.</xr>
 
 <p id=7373><form>indák</form> <pos>v</pos> <itype>[A; c6]</itype> <tr>induct</tr> into an organization. <form>indaksiyun</form> <pos>n</pos> induction into an organization. <form>{&mdash;|indaksiyun} bul</form> <pos>n</pos> <tr>induction ball</tr>. <pos>v</pos> <itype>[A1; b(1)]</itype> hold an induction. <form>indakting upisir</form> <pos>n</pos> inducting officer.
 
-<p id=7374><form>indángan</form> <pos>n</pos> surgeonfish: <bio>Acanthurus spp</bio>.
+<p id=7374><form>indángan</form> <pos>n</pos> @surgeonfish: <bio>Acanthurus spp</bio>.
 
 <p id=7375><form>inday<sub>1</sub></form> <ix>short form:</ix> <bx>day</bx>. <pos>n</pos> <number>1</number> title or term of address for a female the same age or younger than the speaker, often adopted as the informal first name. <i>Ása ka Day (Inday)?</i> Where are you going, Miss? <i>Nagkasíra si Inday Úping sa ámù,</i> Miss Oping boards in our house. <number>2</number> <tr>female</tr>, <tr>girl</tr>. <i>Tulu ka inday nga hidakpan sa balay sa kahiláyan,</i> Three girls were arrested in the bawdy house. <pos>v</pos> <itype>[A13; a12]</itype> call s.o. <ix>inday.</ix> <form>inday-inday</form> <pos>a</pos> <number>1</number> light and continuing wind or rain. <i>Dì man ni bagyu, inday-inday pa man ni,</i> This is no storm. It&apos;s only a playful breeze. <number>2</number> slow and easy in gait. <number>2a</number> a slow easy bouncing game of table tennis, as between beginners. <number>3</number> k.o. flowering weed resembling a poinsettia: <bio>Euphorbia heterophylla</bio>. <pos>v</pos> <itype>[B456]</itype> for wind or rain to be weak, be slow in gait. <i>Nag-inday-inday siyang naglakaw,</i> He&apos;s walking slowly and leisurely.
 
