@@ -56,6 +56,7 @@ sub processAll
 sub processLetter
 {
     my $letter = shift;
+    print "Processing letter $letter\n";
 
     # system ("perl WCED-downtag.pl WCED-$letter.tei > WCED-typo-$letter.tei");
     # system ("perl -S tei2html.pl WCED-typo-$letter.tei 2> tmp-$letter.err");
@@ -73,6 +74,13 @@ sub processLetter
     # Generate SQL
     system ("$saxon structural/$letter.xml WCED-db.xsl > SQL/$letter.sql");
     # system ("perl toEntities.pl SQL/$letter.sql > SQL/$letter-ent.sql");
+
+    # Add to database:
+    if (!-e "SQL/dictionary_database") 
+    {
+        system ("sqlite3 SQL/dictionary_database < SQL/structure-sqlite.sql");
+    }
+    system ("sqlite3 SQL/dictionary_database < SQL/$letter.sql");
 
     # system ("mv SQL/WCED_head.sql SQL/WCED_head-$letter.sql");
 

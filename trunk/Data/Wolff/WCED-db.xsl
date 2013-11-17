@@ -32,8 +32,66 @@
         <xsl:call-template name="database-structure"/>
     </xsl:result-document>
 
+    <xsl:result-document href="SQL/structure-sqlite.sql" method="text" encoding="UTF-8">
+        <xsl:call-template name="database-structure-sqlite"/>
+    </xsl:result-document>
+
+    <xsl:text>BEGIN TRANSACTION;</xsl:text>
     <xsl:apply-templates mode="entries" select="dictionary/entry"/>
+    <xsl:text>COMMIT;</xsl:text>
 </xsl:template>
+
+
+<xsl:template name="database-structure-sqlite">
+
+DROP TABLE IF EXISTS "android_metadata";
+CREATE TABLE "android_metadata"
+(
+    "locale" TEXT DEFAULT 'en_US'
+);
+
+INSERT INTO "android_metadata" VALUES('en_US');
+
+DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_entry";
+CREATE TABLE "<xsl:value-of select="$prefix"/>_entry"
+(
+    "_id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "head" VARCHAR,
+    "page" INTEGER,
+    "entry" TEXT
+);
+
+DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_head";
+CREATE TABLE "<xsl:value-of select="$prefix"/>_head"
+(
+    "_id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "head" VARCHAR,
+    "normalized_head" VARCHAR,
+    "entryid" INTEGER,
+    "type" CHAR,
+    "pos" varchar
+);
+
+DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_translation";
+CREATE TABLE "<xsl:value-of select="$prefix"/>_translation"
+(
+    "_id" INTEGER PRIMARY KEY NOT NULL,
+    "entryid" INTEGER,
+    "translation" VARCHAR
+);
+
+DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_word";
+CREATE TABLE "<xsl:value-of select="$prefix"/>_word"
+(
+    "_id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "entryid" INTEGER,
+    "flags" INTEGER,
+    "word" VARCHAR,
+    "lang" VARCHAR
+);
+
+</xsl:template>
+
 
 
 <xsl:template name="database-structure">
@@ -109,6 +167,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_head`
     `head` varchar(64) NOT NULL default '',
     `normalized_head` varchar(64) NOT NULL default '',
     `type` varchar(6) NOT NULL default '',
+    `pos` varchar(6) NOT NULL default '',
 
     KEY `head` (`head`)
 );
@@ -197,7 +256,8 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <!-- List unique head-words in entry -->
     <xsl:for-each-group select="$heads/h" group-by=".">
         <xsl:variable name="entryType" select="if (current-group()[1] = $headword) then 'm' else 's'"/>
-        <xsl:value-of select="local:insertHeadSql($entryid, current-group()[1], local:normalize(current-group()[1]), $entryType)"/>
+        <xsl:variable name="pos" select="current-group()[1]/@pos"/>
+        <xsl:value-of select="local:insertHeadSql($entryid, current-group()[1], local:normalize(current-group()[1]), $entryType, $pos)"/>
     </xsl:for-each-group>
 
     <!-- Find all translations -->
@@ -245,9 +305,14 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     </xsl:variable>
 
     <!-- TODO: determine what POS and X-ref status this headword has -->
+    <!-- POS can be found in the hom/@role siblings of this element -->
+    <xsl:variable name="pos"><xsl:value-of select="../hom/@role"/></xsl:variable>
+    <xsl:variable name="pos"><xsl:value-of select="translate($pos, ' ', '')"/></xsl:variable>
+    <!-- XREF can be found digged away in the hom/sense/trans/xr element -->
+
     <!-- remove asterisks and daggers and split on comma or slash -->
     <xsl:for-each select="tokenize(replace($heads, '[*&dagger;]', ''), '[,/][,/ ]*')">
-        <h>
+        <h pos="{$pos}">
             <xsl:value-of select="."/>
         </h>
     </xsl:for-each>
@@ -307,9 +372,10 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="head"/>
     <xsl:param name="normalizedHead"/>
     <xsl:param name="entryType"/>
+    <xsl:param name="pos"/>
 
     <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head, type) VALUES (</xsl:text>
+    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head, type, pos) VALUES (</xsl:text>
         <xsl:value-of select="$entryid"/>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
@@ -317,6 +383,8 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedHead"/><xsl:text>&quot;</xsl:text>
         <xsl:text>, </xsl:text>
         <xsl:text>&quot;</xsl:text><xsl:value-of select="$entryType"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>, </xsl:text>
+        <xsl:text>&quot;</xsl:text><xsl:value-of select="$pos"/><xsl:text>&quot;</xsl:text>
     <xsl:text>);</xsl:text>
 </xsl:function>
 
