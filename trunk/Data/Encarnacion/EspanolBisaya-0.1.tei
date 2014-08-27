@@ -43,7 +43,28 @@
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
-<p>
+<p>The spelling of Cebuano in this dictionary follows Spanish orthography, quite different from the current spelling, and most conspicuous in its use of <hi>c</hi> and <hi>q</hi> where Cebuano now uses <hi>k</hi>, and the absence of the letter <hi>w</hi>. Don't be surprised to see <hi>quinsa</hi> for <hi>kinsa</hi> and <hi>oaláy</hi> for <hi>walay</hi>. Also used is the character <hi>n&gtilde;</hi>, to indicate the sound of <hi>ng</hi> as in English <hi>singer</hi>, as opposed to <hi>ng</hi>, as used in English <hi>finger</hi>. 
+
+<table>
+<row role=label><cell>Old <cell>Modern
+
+<row><cell>c            <cell>k <hi>or</hi> s
+<row><cell>qu           <cell>k
+<row><cell>gui          <cell>gi
+<row><cell>ao           <cell>aw
+<row><cell>oa           <cell>wa
+<row><cell>n&gtilde;    <cell>ng
+<row><cell>ng           <cell>ngg
+<row><cell>m&gtilde;a   <cell>mga
+</table>
+
+<p>The original is highly inconsistent with the spelling of Cebuano. No attempt
+has been made to correct that, or to change the old Spanish-based orthography to modern conventions. In particular, the <hi>o</hi> and the <hi>u</hi> have been used interchangeably.
+
+<p>The quality of the available scans was insufficient to always reconstruct the correct accents. They have been restored where possible.
+
+<p>Minor punctuation issues have been corrected silently, all other corrections have been listed in the colophon.
+
 
 </encodingDesc>
 <profileDesc>
@@ -3730,7 +3751,7 @@
 
 <p>Batacazo. = <foreign lang=ceb>Hagbong.</foreign>
 
-<p>Batahola. = <foreign lang=ceb>Banhá, saba[** .]</foreign>
+<p>Batahola. = <foreign lang=ceb>Banhá, saba.</foreign>
 
 <p>Batalla. = <foreign lang=ceb>Pagáoay, pagpan&gtilde;óbat.</foreign>
 
@@ -3740,9 +3761,9 @@
 
 <p>Batallon. = <foreign lang=ceb>Pagcadághan sa m&gtilde;a soldados n&gtilde;a nagacabáhin bahin sa m&gtilde;a tapoc tapoc.</foreign>
 
-<p>Batan. = <foreign lang=ceb>Pagabonálan sa m&gtilde;a panápton ug sa man&gtilde;a pànit.[** "pánit" below]</foreign>
+<p>Batan. = <foreign lang=ceb>Pagabonálan sa m&gtilde;a panápton ug sa man&gtilde;a <corr sic="pànit">pánit</corr>.</foreign>
 
-<p>Batanar. = <foreign lang=ceb>Pagbónal, paglígis sa man&gtilde;a panàpton[**panápton?] ug sa m&gtilde;a pánit.</foreign>
+<p>Batanar. = <foreign lang=ceb>Pagbónal, paglígis sa man&gtilde;a <corr sic="panàpton">panápton</corr> ug sa m&gtilde;a pánit.</foreign>
 
 <p>Batanear. = <foreign lang=ceb>Pagbónal, pagcastigo sa m&gtilde;a táuo.</foreign>
 
@@ -3750,7 +3771,7 @@
 
 <p>Batea. = <foreign lang=ceb>Batía, dolang.</foreign>
 
-<p>Batel. = <foreign lang=ceb>Sacayán [**n&gtilde;a in Fr ed] ]diótay, bote.</foreign>
+<p>Batel. = <foreign lang=ceb>Sacayán diótay, bote.</foreign>
 
 <p>Batería. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a lothang n&gtilde;a guitáod sa m&gtilde;a cota ug m&gtilde;a bantayán, sa pagsócol sa man&gtilde;a caáoay.</foreign>
 
@@ -3810,13 +3831,13 @@
 
 <p>Bebedor. = <foreign lang=ceb>Hin&gtilde;ínom, palaínom, palaimnánon, hobgánon.</foreign>
 
-<p>Beber. = <foreign lang=ceb>Inom[**Ynom in Fr ed], ton&gtilde;ab.</foreign> &ast; Para catar ó probar. = <foreign lang=ceb>Dimdim.</foreign> &ast; Los perros y otros brutos. La-lá. &ast; De bruces. = <foreign lang=ceb>Suyup.</foreign>
+<p>Beber. = <foreign lang=ceb>Inom[**Ynom in Fr ed], ton&gtilde;ab.</foreign> &ast; Para catar ó probar. = <foreign lang=ceb>Dimdim.</foreign> &ast; Los perros y otros brutos. <corr>= </corr><foreign lang=ceb>La-lá.</foreign> &ast; De bruces. = <foreign lang=ceb>Suyup.</foreign>
 
 <p>Bebida. = <foreign lang=ceb>Ilímnon[**Ylímnon in Fr ed].</foreign>
 
 <p>Bebido. = <foreign lang=ceb>Ang nacaínom labí sa casadán&gtilde;an.</foreign>
 
-<p>Beca. = <foreign lang=ceb>Timáan n&gtilde;a guinabísti sa man&gtilde;a colegiales, n&gtilde;a máo ang úsa ca tinábas con bagcos n&gtilde;a panàpton[**panápton in Fr ed], n&gtilde;a guicóros níla sa atobán&gtilde;an sa dóghan, guitóngtong níla sa m&gtilde;a abága, ug guipamítay níla ang duhá ca tomóy sa ílang licód.</foreign>
+<p>Beca. = <foreign lang=ceb>Timáan n&gtilde;a guinabísti sa man&gtilde;a colegiales, n&gtilde;a máo ang úsa ca tinábas con bagcos n&gtilde;a <corr sic="panàpton">panápton</corr>, n&gtilde;a guicóros níla sa atobán&gtilde;an sa dóghan, guitóngtong níla sa m&gtilde;a abága, ug guipamítay níla ang duhá ca tomóy sa ílang licód.</foreign>
 
 <p>Becerrillo, lla, to, ta. &ast; V. <hi>Becerro</hi>.
 
@@ -3840,13 +3861,13 @@
 
 <p>Beleso. = <foreign lang=ceb>Tanóm.</foreign>
 
-<p>Belfo. = <foreign lang=ceb>Ang táuo n&gtilde;a guibitáyan sa n&gtilde;abil sa obus. &ast; V. <hi>Befo</hi>.</foreign>
+<p>Belfo. = <foreign lang=ceb>Ang táuo n&gtilde;a guibitáyan sa n&gtilde;abil sa obus.</foreign> &ast; V. <hi>Befo</hi>.
 
 <p>Belicoso. = <foreign lang=ceb>Man&gtilde;on&gtilde;óbat, ang táuo n&gtilde;a naánad sa pagpan&gtilde;óbat, sa pagáoay, maquiaoáyon, tigáoay.</foreign>
 
-<p>Bellaco. <corr sic="&mdash;">=</corr> Táuo n&gtilde;a dáutan, tampalásan, malágsot, man&gtilde;íl-ad, matámas támas.
+<p>Bellaco. <corr sic="&mdash;">=</corr> <foreign lang=ceb>Táuo n&gtilde;a dáutan, tampalásan, malágsot, man&gtilde;íl-ad, matámas támas.</foreign>
 
-<p>Bellaquear. <corr sic="&mdash;">=</corr> Pogtampálas,[**typo? Pagtampálas in Fr ed] pagbóhat ug pagpamólong sa m&gtilde;a bóhat ug m&gtilde;a polong n&gtilde;a dáutan, pagtámas támas.[**last 2 words not in Fr ed]
+<p>Bellaquear. <corr sic="&mdash;">=</corr> <foreign lang=ceb><corr sic="Pogtampálas">Pagtampálas</corr>, pagbóhat ug pagpamólong sa m&gtilde;a bóhat ug m&gtilde;a polong n&gtilde;a dáutan, pagtámas támas.[**last 2 words not in Fr ed]</foreign>
 
 <p>Belleza. V. <hi>Beldad</hi>.
 
@@ -32553,7 +32574,7 @@
 
 <p>Palinodia. = <foreign lang=ceb>Pagcasíbog n&gtilde;a bantog sa guiín&gtilde;on n&gtilde;a daan.</foreign>
 
-<p>Pálio. = <foreign lang=ceb>Timaán n&gtilde;a guihátag sa santos n&gtilde;a Papa sa m&gtilde;a Arzobispo ug sa obán n&gtilde;a m&gtilde;a Obispo, n&gtilde;a mao ang usá ca bacus n&gtilde;a putíon, n&gtilde;a guibotán&gtilde;an sa onóm ca crus n&gtilde;a maítom, n&gtilde;a gui[**guisáblay?] sáblay sa m&gtilde;a abága ug mobítay sa doghan. &ast; Panápton n&gtilde;a dagcó n&gtilde;a guibótang sa onóm con oaló ca cohoy n&gtilde;a hatáas, n&gtilde;a guidála sa m&gtilde;a prosecion arón masílbi ug dao atóp n&gtilde;a pagasilón&gtilde;an sa Padre n&gtilde;a magabítbit sa Santísimo Sacramento, sa m&gtilde;a reliquia, &amp;c., ug sa Padre n&gtilde;a magasonód sa bisan onsang santos: pagagamíton opod sa Santos n&gtilde;a Papa, sa m&gtilde;a hari ug sa obán pang man&gtilde;a ponóan sa Singbahán, sa m&gtilde;a piesta ug <pb n=437>sa ilang pagsolód n&gtilde;a bantog sa m&gtilde;a longsod. &ast; Bisan onsa n&gtilde;a may dagoay sa lambong, sa sambong.</foreign>
+<p>Pálio. = <foreign lang=ceb>Timaán n&gtilde;a guihátag sa santos n&gtilde;a Papa sa m&gtilde;a Arzobispo ug sa obán n&gtilde;a m&gtilde;a Obispo, n&gtilde;a mao ang usá ca bacus n&gtilde;a putíon, n&gtilde;a guibotán&gtilde;an sa onóm ca crus n&gtilde;a maítom, n&gtilde;a <corr sic="gui sáblay">guisáblay</corr> sa m&gtilde;a abága ug mobítay sa doghan. &ast; Panápton n&gtilde;a dagcó n&gtilde;a guibótang sa onóm con oaló ca cohoy n&gtilde;a hatáas, n&gtilde;a guidála sa m&gtilde;a prosecion arón masílbi ug dao atóp n&gtilde;a pagasilón&gtilde;an sa Padre n&gtilde;a magabítbit sa Santísimo Sacramento, sa m&gtilde;a reliquia, &amp;c., ug sa Padre n&gtilde;a magasonód sa bisan onsang santos: pagagamíton opod sa Santos n&gtilde;a Papa, sa m&gtilde;a hari ug sa obán pang man&gtilde;a ponóan sa Singbahán, sa m&gtilde;a piesta ug <pb n=437>sa ilang pagsolód n&gtilde;a bantog sa m&gtilde;a longsod. &ast; Bisan onsa n&gtilde;a may dagoay sa lambong, sa sambong.</foreign>
 
 <p>Palique. = <foreign lang=ceb>Suguílon n&gtilde;a caoang, n&gtilde;a oaláy polós ug cahológan.</foreign>
 
@@ -32733,7 +32754,7 @@
 
 <p>Pandeo. = <foreign lang=ceb>Pagcabalíquig, pagcabalicó, pagcabóyoc, pagcalíad sa bisan onsa.</foreign>
 
-<p>Panderada. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a pandero. &ast; Polong, con buhat n&gtilde;a díli macaígo, n&gtilde;a oalyáy[**oaláy] hingtúngdan.</foreign>
+<p>Panderada. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a pandero. &ast; Polong, con buhat n&gtilde;a díli macaígo, n&gtilde;a <corr sic="oalyáy">oaláy</corr> hingtúngdan.</foreign>
 
 <p>Panderete. = <foreign lang=ceb>Limbong sa nagasugál sa baraja. &ast; Dingding, bongbong sa m&gtilde;a ladriyo, sa m&gtilde;a bató.</foreign>
 
@@ -53352,7 +53373,7 @@
 
 <p>Vituperoso. V. <hi>Vituperioso</hi>.
 
-<p>Viuda. = <foreign lang=ceb>Babáyeng balo, ang gnicamátyan[**guicamátyan] sa bana.</foreign>
+<p>Viuda. = <foreign lang=ceb>Babáyeng balo, ang <corr sic="gnicamátyan">guicamátyan</corr> sa bana.</foreign>
 
 <p>Viudal. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa m&gtilde;a balo.</foreign>
 
@@ -53448,13 +53469,13 @@
 
 <p>Vociferante. = <foreign lang=ceb>Idem.</foreign>
 
-<p>Vociferar. = <foreign lang=ceb>Pagpahibaló sa bisan cansa sa cadaghánan sa m&gtilde;a buhat nga[**P1 n&gtilde;a] guibúhat nia[**.] V. <hi>Vocear</hi> hasta <hi>pagtáoag</hi>.</foreign>
+<p>Vociferar. = <foreign lang=ceb>Pagpahibaló sa bisan cansa sa cadaghánan sa m&gtilde;a buhat <corr sic=nga>n&gtilde;a</corr> guibúhat nia.</foreign> V. <hi>Vocear</hi> hasta <foreign lang=ceb><hi>pagtáoag</hi>.</foreign>
 
 <p>Vocinglería. V. <hi>Vocería</hi>. &ast; Pagcasoguílon n&gtilde;a guilabíhan. &ast; Suguílon, solte, cagóla n&gtilde;a hatáas uyámot.
 
 <p>Vocinglero. V. <hi>Voceador</hi>. &ast; Ang magasuguílon sa masámot n&gtilde;a tin&gtilde;og. &ast; Hinuguilánan caáyo, tabían.
 
-<p>Voladero. = <foreign lang=ceb>Ang macalupád. =[**P1 *] Ang muágui sa madalí, sa pagcalágmit.</foreign>
+<p>Voladero. = <foreign lang=ceb>Ang macalupád. <corr sic="=">&ast;</corr> Ang muágui sa madalí, sa pagcalágmit.</foreign>
 
 <p>Voladizo. = <foreign lang=ceb>Ang mulabáo sa m&gtilde;a cota, sa m&gtilde;a pared, sa m&gtilde;a bongbong sa m&gtilde;a baláy &amp;c.</foreign>
 
@@ -53464,7 +53485,7 @@
 
 <p>Volandero. = <foreign lang=ceb>Ang masáyon pagalupálon, pagalihócon ug pagacáyab cayábon sa han&gtilde;in. &ast; Ang dili muhúnung. &ast; Ang bacac. &ast; Papan n&gtilde;a manípis n&gtilde;a pagagamíton sa pagsócsoc sa talioála sa m&gtilde;a liston sa galera, sa m&gtilde;a imprenta.</foreign>
 
-<p>Volandíllas (en)[**. P3] V. <hi>Volandas</hi> (<hi>en</hi>).
+<p>Volandíllas (en). V. <hi>Volandas</hi> (<hi>en</hi>).
 
 <p>Volanta. = <foreign lang=ceb>Cocheng diótay ug magáan.</foreign>
 
@@ -53526,7 +53547,7 @@
 
 <p>Voluminoso. = <foreign lang=ceb>Ang dagcó, ang nagántong caáyo.</foreign>
 
-<p>Voluntad. = <foreign lang=ceb>Buut, pagbúot, cabobót-on. &ast; Gugma, pagcapalángga. &ast; Caíbog, pagcapanghináot. &ast; Calípay, paghimóot. &ast; Pagcaándo, pagcatangdo.[** corrected typo :]</foreign>
+<p>Voluntad. = <foreign lang=ceb>Buut, pagbúot, cabobót-on. &ast; Gugma, pagcapalángga. &ast; Caíbog, pagcapanghináot. &ast; Calípay, paghimóot. &ast; Pagcaándo, pagcatangdo.</foreign>
 
 <p>Voluntariamente. = <foreign lang=ceb>Sa pagbúot n&gtilde;a caogalín&gtilde;on.</foreign>
 
@@ -53548,7 +53569,7 @@
 
 <p>Volvo ó Vólvulo. = <foreign lang=ceb>Saquét.</foreign>
 
-<p>Vómica. = <foreign lang=ceb>Puyo puyo n&gtilde;a ponó sa nana, n&gtilde;a magáma usáhay sa solód sa guinháoa sa m&gtilde;a táuo,[**P3 .]</foreign>
+<p>Vómica. = <foreign lang=ceb>Puyo puyo n&gtilde;a ponó sa nana, n&gtilde;a magáma usáhay sa solód sa guinháoa sa m&gtilde;a táuo.</foreign>
 
 <p>Vómico. = <foreign lang=ceb>Ang magpasúca, isolóca. &ast; Calaínan sa bon&gtilde;a n&gtilde;a guin&gtilde;álan ug nues.</foreign>
 
@@ -53558,7 +53579,7 @@
 
 <p>Vomitar. = <foreign lang=ceb>Pagsúca. &ast; Pagpamólong sa m&gtilde;a polong n&gtilde;a daótan. &ast; Sa m&gtilde;a balícas, sa m&gtilde;a pagtónglo, &amp;c. &ast; Pagtúg-an, pagbaláod sa bisan onsa n&gtilde;a tacus onta n&gtilde;a hilómon. &ast; Pagóli sa quináoat. &ast; Paghátag sa bisan onsa sa linugsánay.</foreign>
 
-<p>Vomitivo. V. <hi>Vómico</hi>, hasta <hi>calaínan</hi>. &ast; Tambal n&gtilde;a isolóca, sa pagsúca.
+<p>Vomitivo. V. <hi>Vómico</hi>, hasta <hi>calaínan</hi>. &ast; <foreign lang=ceb>Tambal n&gtilde;a isolóca, sa pagsúca.</foreign>
 
 <p>Vómito. = <foreign lang=ceb>Pagcasúca. [**new entry in other edition: Vómito Negro, seems more likely]* Negro. = Saquét n&gtilde;a pagabatíon sa m&gtilde;a táuo sa Europa n&gtilde;a muádto sa América.</foreign>
 
@@ -53598,7 +53619,7 @@
 
 <p>Votivo. = <foreign lang=ceb>Ang guisáad.</foreign>
 
-<p>Voto. = <foreign lang=ceb>Saad, pagcasáar. &ast; Huna huna sa bisan onsa, n&gtilde;a guidayág ug guiásoy sa m&gtilde;a cabildohan ug sa m&gtilde;a catilíngban[**P3 .] &ast; Balícas, polong n&gtilde;a man&gtilde;íl-ad, pagcatónglo, pagcamaldision. &ast; Pagcapanómpa sa bacac.</foreign>
+<p>Voto. = <foreign lang=ceb>Saad, pagcasáar. &ast; Huna huna sa bisan onsa, n&gtilde;a guidayág ug guiásoy sa m&gtilde;a cabildohan ug sa m&gtilde;a catilíngban. &ast; Balícas, polong n&gtilde;a man&gtilde;íl-ad, pagcatónglo, pagcamaldision. &ast; Pagcapanómpa sa bacac.</foreign>
 
 <p>Voz. = <foreign lang=ceb>Tin&gtilde;og. &ast; Tonóg sa tin&gtilde;og. &ast; Tonóg sa bisan onsa. &ast; Solosuguílon sa longsod.</foreign>
 
@@ -53628,7 +53649,7 @@
 
 <p>Vulgarmente. = <foreign lang=ceb>In&gtilde;on sa batásan sa cadaghánan.</foreign>
 
-<p>Vulgata. = <foreign lang=ceb>Hinúbad, hinúad sa satos n&gtilde;a Sulat[**sulat?] sa pinamólong n&gtilde;a linatín, n&gtilde;a guinagámit sa santa Iglecia[**P3 Iglesia].</foreign>
+<p>Vulgata. = <foreign lang=ceb>Hinúbad, hinúad sa satos n&gtilde;a <corr sic=Sulat>sulat</corr> sa pinamólong n&gtilde;a linatín, n&gtilde;a guinagámit sa santa <corr sic=Iglecia>Iglesia</corr>.</foreign>
 
 <p>Vulgo. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a táuo n&gtilde;a obus sa tagsa ca longsod.</foreign>
 
@@ -53709,7 +53730,7 @@
 
 <p>Yerba. = <foreign lang=ceb>Dagámi, cogon, dagótdot, hilámon. &ast; Cadaghánan sa m&gtilde;a bungláyon, bisan onsa n&gtilde;a ootánon.</foreign>
 
-<p>Yermar[**P3 .] = <foreign lang=ceb>Pagláglag sa longsod.</foreign>
+<p>Yermar. = <foreign lang=ceb>Pagláglag sa longsod.</foreign>
 
 <p>Yermo. = <foreign lang=ceb>Camin&gtilde;áoan, cahaoánan. &ast; Yota n&gtilde;a oalá pagabuhátan.</foreign>
 
@@ -53853,7 +53874,7 @@
 
 <p>Zahareño. = <foreign lang=ceb>Lan&gtilde;gam n&gtilde;a ihálas, n&gtilde;a díli maághop. &ast; Táuo n&gtilde;a díli mahagúgma muubán sa isigcatáuo. &ast; Mabán&gtilde;is, maísog.</foreign>
 
-<p>Zaheridor. =[**P3 Em-dash corrected] <foreign lang=ceb>Tiglíbac libac.</foreign>
+<p>Zaheridor. <corr sic="&mdash;">=</corr> <foreign lang=ceb>Tiglíbac libac.</foreign>
 
 <p>Zaherimiento. = <foreign lang=ceb>Pagcalíbac libac.</foreign>
 
@@ -53865,7 +53886,7 @@
 
 <p>Zahinas. = <foreign lang=ceb>Sopas n&gtilde;a mahómoc.</foreign>
 
-<p>Zahonado[**P3 speck?]. = <foreign lang=ceb>Color n&gtilde;a molomaítom.</foreign>
+<p>Zahonado. = <foreign lang=ceb>Color n&gtilde;a molomaítom.</foreign>
 
 <p>Zahondar. = <foreign lang=ceb>Pagcále sa yota ug halálom.</foreign>
 
