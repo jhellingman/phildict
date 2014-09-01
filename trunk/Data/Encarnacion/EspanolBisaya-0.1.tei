@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Diccionario Español-Bisaya</title>
-<author>Juan Fèlis de la Encarnacion</author>
+<author>Juan Félix de la Encarnación (1806&ndash;1879)</author>
 <respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
@@ -28,6 +28,25 @@
 <p>&availability.en;
 
 <p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+
+http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10521977_00001.html (first edition)
+
+http://books.google.nl/books?id=hjM8AAAAMAAJ   (Es-Ceb)
+
+https://archive.org/details/diccionarioespa00unkngoog      (Es-Ceb); 2nd edition
+
+
+https://archive.org/details/aqp5055.0001.001.umich.edu  (Ceb-Es); 3rd edition
+
+http://books.google.nl/books?id=HuJGAAAAcAAJ  (Ceb-Es)
+
+http://books.google.nl/books?id=9OFGAAAAcAAJ  (Ceb-Es)
+
+http://books.google.nl/books?id=95VkAAAAMAAJ  (Ilongo)
+
+http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bisaya/oclc/63313179
+
 
 </availability>
 </publicationStmt>
@@ -156,7 +175,7 @@
 
 
 
-<p>Abr[**Apparently, some text is lost here -- Maybe a date? Abril? P2]
+<!-- Unclear letters on bottom of page: Abr -->
 
 
 
@@ -280,9 +299,9 @@
 
 <p>Abnegar. = Idem.
 
-<p>Abobado. = <foreign lang=ceb>Hon&gtilde;og, bon&gtilde;og, colang sa bóot, alang alang, colidó, magáan ug buot, mine[**miné? P2].</foreign>
+<p>Abobado. = <foreign lang=ceb>Hon&gtilde;og, bon&gtilde;og, colang sa bóot, alang alang, colidó, magáan ug buot, miné.</foreign>
 
-<p>Abochornar, hacer mucho calor. = <foreign lang=ceb>Alin&gtilde;li[**Alingii? P2], alan&gtilde;áan, alin&gtilde;ása.</foreign> &ast; Causar á alguno vergüenza. = <foreign lang=ceb>Olao.</foreign>
+<p>Abochornar, hacer mucho calor. = <foreign lang=ceb>Alin&gtilde;li, alan&gtilde;áan, alin&gtilde;ása.</foreign> &ast; Causar á alguno vergüenza. = <foreign lang=ceb>Olao.</foreign>
 
 <p>Abofetear. = <foreign lang=ceb>Sagpá, tagpá, sumbag.</foreign> &ast; De revés. = <foreign lang=ceb>Tampalíng.</foreign>
 
@@ -326,7 +345,7 @@
 
 <p>Abreviar. = <foreign lang=ceb>Dalí, lactod, daclit.</foreign> &ast; Nombre por cariño. = <foreign lang=ceb>Dangga.</foreign>
 
-<p>Abrigarse con ropa. = <foreign lang=ceb>Colópo, tabon.</foreign> &ast; Abrazando á otro. = <foreign lang=ceb>Copóy, gacos;[**,] halog.</foreign> &ast; Del viento el que navega ó cualquiera otro. = <foreign lang=ceb>Salípod, salísip, salimbong.</foreign>
+<p>Abrigarse con ropa. = <foreign lang=ceb>Colópo, tabon.</foreign> &ast; Abrazando á otro. = <foreign lang=ceb>Copóy, gacos<corr sic=";">,</corr> halog.</foreign> &ast; Del viento el que navega ó cualquiera otro. = <foreign lang=ceb>Salípod, salísip, salimbong.</foreign>
 
 <p>Abrir puerta, &amp;c. = <foreign lang=ceb>Abli, ocab.</foreign> &ast; haciendo brecha. = <foreign lang=ceb>Locab, longcab.</foreign> &ast; Boca ó lábios. = <foreign lang=ceb>N&gtilde;a n&gtilde;a, ban&gtilde;án&gtilde;a, bon&gtilde;at.</foreign>
 
@@ -336,7 +355,7 @@
 
 <p>Abrirse alguno paso por alguna parte. = <foreign lang=ceb>Bolhang.</foreign>
 
-<p>Abrir algo por medio. = <foreign lang=ceb>Si-si, sa-sa.</foreign> &ast; Animal por el lomo. = <foreign lang=ceb>Bolhag.</foreign> &ast; Por la barriga. = <foreign lang=ceb>Hibos, li-li, lili, dadas, di-di.[**,? P2] si-si. En cebú, Abli, yasyas.</foreign> &ast; La mano, ó ropa, esteras, &amp;c. = <foreign lang=ceb>Boclad, ladlad.</foreign> &ast; Las piernas. = <foreign lang=ceb>Bila, biláca.</foreign> &ast; Hinchazón, grano, &amp;c. = <foreign lang=ceb>Carlit, tosdic, cadlis.</foreign> &ast; El pez las agallas para respirar. = <foreign lang=ceb>Hicab hicab, tocab tocab.</foreign> &ast; Muesca en palo, &amp;c. = <foreign lang=ceb>Sin&gtilde;it.</foreign> &ast; Agujero en pared, palo, &amp;c. = <foreign lang=ceb>Bohó, tihab, tohob.</foreign> &ast; La boca bostezando. = <foreign lang=ceb>Hoyab, lin&gtilde;ábn&gtilde;ab.</foreign> &ast; La boca agonizando. = <foreign lang=ceb>Tin&gtilde;á, ting-ab.</foreign> &ast; Algo por fuerza. = <foreign lang=ceb>Tin&gtilde;ál, bin&gtilde;at.</foreign>
+<p>Abrir algo por medio. = <foreign lang=ceb>Si-si, sa-sa.</foreign> &ast; Animal por el lomo. = <foreign lang=ceb>Bolhag.</foreign> &ast; Por la barriga. = <foreign lang=ceb>Hibos, li-li, lili, dadas, di-di, si-si. En cebú, Abli, yasyas.</foreign> &ast; La mano, ó ropa, esteras, &amp;c. = <foreign lang=ceb>Boclad, ladlad.</foreign> &ast; Las piernas. = <foreign lang=ceb>Bila, biláca.</foreign> &ast; Hinchazón, grano, &amp;c. = <foreign lang=ceb>Carlit, tosdic, cadlis.</foreign> &ast; El pez las agallas para respirar. = <foreign lang=ceb>Hicab hicab, tocab tocab.</foreign> &ast; Muesca en palo, &amp;c. = <foreign lang=ceb>Sin&gtilde;it.</foreign> &ast; Agujero en pared, palo, &amp;c. = <foreign lang=ceb>Bohó, tihab, tohob.</foreign> &ast; La boca bostezando. = <foreign lang=ceb>Hoyab, lin&gtilde;ábn&gtilde;ab.</foreign> &ast; La boca agonizando. = <foreign lang=ceb>Tin&gtilde;á, ting-ab.</foreign> &ast; Algo por fuerza. = <foreign lang=ceb>Tin&gtilde;ál, bin&gtilde;at.</foreign>
 
 <p>Abrirse algo, rajarse, separarse. = <foreign lang=ceb>Ganghal, sa-sa, pacas, booac, lotac, bitas.</foreign>
 
@@ -356,7 +375,7 @@
 
 <p>Absit. = <foreign lang=ceb>Simbacó.</foreign>
 
-<p>Absolucion. = <foreign lang=ceb>Pagdalángin[** ~g?].</foreign>
+<p>Absolucion. = <foreign lang=ceb>Pagdalán&gtilde;in.</foreign>
 
 <p>Absolutamente. = <foreign lang=ceb>Gayód.</foreign>
 
@@ -366,7 +385,7 @@
 
 <p>Absorver, empapar. = <foreign lang=ceb>Soyop, yopyop.</foreign>
 
-<p>Absorto. = <foreign lang=ceb>Natin&gtilde;ála, nabólong[**].</foreign>
+<p>Absorto. = <foreign lang=ceb>Natin&gtilde;ála, nabólong.</foreign>
 
 <p>Abstenerse, ayunar. = <foreign lang=ceb>Poása, pogong, hayat.</foreign>
 
@@ -410,7 +429,7 @@
 
 <p>Acabar. <corr sic="= V.">V.</corr> <hi>Acabado</hi>, <hi>perfecto</hi>.
 
-<p>Acabildar, unir, juntar muchos pareceres en uno. = <foreign lang=ceb>Ipon, tigom, tapoc, an&gtilde;ay[**angay], oyon, tip-oc, pagóyon, paghiósa, pagán&gtilde;ay.</foreign>
+<p>Acabildar, unir, juntar muchos pareceres en uno. = <foreign lang=ceb>Ipon, tigom, tapoc, an&gtilde;ay, oyon, tip-oc, pagóyon, paghiósa, pagán&gtilde;ay.</foreign>
 
 <pb n=9><p>Acacia. = <foreign lang=ceb>Cahoy n&gtilde;a tolóncon.</foreign>
 
@@ -516,7 +535,7 @@
 
 <pb n=10><p>Acoger, acogerse. = <foreign lang=ceb>Dan&gtilde;op, tapon, panilong, pagquimalóoy.</foreign>
 
-<p>Acometer. = <foreign lang=ceb>Dosmog, Hamlag,[**hamlag? P2] dasmag.</foreign> &ast; V. <hi>Embestir</hi>.
+<p>Acometer. = <foreign lang=ceb>Dosmog, <corr sic=Hamlag>hamlag</corr>, dasmag.</foreign> &ast; V. <hi>Embestir</hi>.
 
 <p>Acometerse los gallos. = <foreign lang=ceb>Laboc, sabong.</foreign>
 
@@ -618,11 +637,11 @@
 <head>ACH</head>
 
 
-<p>Achacar, imputar, echar la culpa. = <foreign lang=ceb>Pagsán&gtilde;il, san&gtilde;i.[**,?] tap-il.</foreign> &ast; Falsamente, con mentira. = <foreign lang=ceb>Butang butang.</foreign>
+<p>Achacar, imputar, echar la culpa. = <foreign lang=ceb>Pagsán&gtilde;il, <corr sic="san&gtilde;i">san&gtilde;il</corr>, tap-il.</foreign> &ast; Falsamente, con mentira. = <foreign lang=ceb>Butang butang.</foreign>
 
 <p>Achacoso. = <foreign lang=ceb>Malúya loya, maloyáhon, dili macáscog, masaquéton, saquét.</foreign>
 
-<p>Achaque, enfermedad. = <foreign lang=ceb>Saquét.</foreign> &ast; Disculpa. = <foreign lang=ceb>Balíbad, San&gtilde;uil[**san&gtilde;uil?].</foreign>
+<p>Achaque, enfermedad. = <foreign lang=ceb>Saquét.</foreign> &ast; Disculpa. = <foreign lang=ceb>Balíbad, <corr sic="San&gtilde;uil">san&gtilde;uil</corr>.</foreign>
 
 <p>Acharolado. = <foreign lang=ceb>Sinao, hinlo.</foreign>
 
@@ -666,19 +685,19 @@
 
 <p>Adeudar. = <foreign lang=ceb>Ótang.</foreign>
 
-<p>Adherirse. = <foreign lang=ceb>Oyon, Obán[**obán? P2].</foreign>
+<p>Adherirse. = <foreign lang=ceb>Oyon, <corr sic="Obán">obán</corr>.</foreign>
 
 <p>Adicionar. = <foreign lang=ceb>Dogang, sompay.</foreign>
 
 <p>Adiestrar, enseñar, instruir. = <foreign lang=ceb>Toon, todlo, asoy, sayod, tanód.</foreign>
 
-<p>Adinerado. = <foreign lang=ceb>Salapían, salapiànon[**salapiánon], adonáhan.</foreign>
+<p>Adinerado. = <foreign lang=ceb>Salapían, <corr sic="salapiànon">salapiánon</corr>, adonáhan.</foreign>
 
 <p>Adivinanza, acertijo. = <foreign lang=ceb>Tigmo.</foreign>
 
 <p>Adivinar. = <foreign lang=ceb>Tagna, toon, toltol.</foreign>
 
-<p>Adivino. = <foreign lang=ceb>Manalágna, magtatàgna[**magtatágna], tomalàgna[**tomalágna].</foreign>
+<p>Adivino. = <foreign lang=ceb>Manalágna, <corr sic="magtatàgna">magtatágna</corr>, <corr sic="tomalàgna">tomalágna</corr>.</foreign>
 
 <p>Adjudicar. = <foreign lang=ceb>Hatag, pagangcon.</foreign>
 
@@ -782,7 +801,7 @@
 
 <p>Afear. = <foreign lang=ceb>Saoay, lao-ay, pidya, tamay.</foreign>
 
-<p>Afeccion. = <foreign lang=ceb>Paghigúgma, pagpalàngga[**pagpalángga], caíbog.</foreign>
+<p>Afeccion. = <foreign lang=ceb>Paghigúgma, <corr sic="pagpalàngga">pagpalángga</corr>, caíbog.</foreign>
 
 <p>Afectar. = <foreign lang=ceb>Pagdáyan dáyan, dihog, homót.</foreign>
 
@@ -800,7 +819,7 @@
 
 <p>Afianzar. = <foreign lang=ceb>Lig-on.</foreign>
 
-<p>Aficion. = <foreign lang=ceb>Gugma, boot, Pagcapalángga[**pagcapalángga? P2].</foreign>
+<p>Aficion. = <foreign lang=ceb>Gugma, boot, <corr sic="Pagcapalángga">pagcapalángga</corr>.</foreign>
 
 <p>Aficionarse. = Idem.
 
@@ -824,7 +843,7 @@
 
 <p>Aforrar, poner forro á alguna cosa. = <foreign lang=ceb>Sapao, hanig, sacnib, longcob.</foreign>
 
-<p>Afortunado. = <foreign lang=ceb>Bolàhan[**Boláhan], paládan.</foreign>
+<p>Afortunado. = <foreign lang=ceb><corr sic="Bolàhan">Boláhan</corr>, paládan.</foreign>
 
 <p>Afrecho. = <foreign lang=ceb>Tahóp, tictic.</foreign>
 
@@ -898,7 +917,7 @@
 
 <p>Agraviar. = <foreign lang=ceb>Dahog dáhog, tampálas, among ámong daot.</foreign>
 
-<p>Agregar, juntar muchas cosas. = <foreign lang=ceb>Ipon, tingób[**type:tin&gtilde;ób], tip-oc, tigom, tapoc.</foreign>
+<p>Agregar, juntar muchas cosas. = <foreign lang=ceb>Ipon, <corr sic="tingób">tin&gtilde;ób</corr>, tip-oc, tigom, tapoc.</foreign>
 
 <p>Agregarse. = <foreign lang=ceb>Obán, haop.</foreign>
 
@@ -1000,7 +1019,7 @@
 
 <p>Ahuecar. = <foreign lang=ceb>Bosog, homoc.</foreign>
 
-<p>Ahumada cosa. = <foreign lang=ceb>Guianoósan[**,?] guiasóhan, inasóhan.</foreign>
+<p>Ahumada cosa. = <foreign lang=ceb>Guianoósan<corr>,</corr> guiasóhan, inasóhan.</foreign>
 
 <p>Ahumar. = <foreign lang=ceb>Asó, pohag, anóos.</foreign>
 
@@ -1008,7 +1027,7 @@
 <div2 id=cAI>
 <head>AI</head>
 
-<p>Airarse. = <foreign lang=ceb>Balaca, socó, ligótgot, aligótgot.[**,? P2] aquig, pagpanúyo, sog-o.</foreign>
+<p>Airarse. = <foreign lang=ceb>Balaca, socó, ligótgot, aligótgot, aquig, pagpanúyo, sog-o.</foreign>
 
 <p>Aire. = <foreign lang=ceb>Han&gtilde;in.</foreign>
 
@@ -1018,7 +1037,7 @@
 
 <p>Airoso, tiempo de viento, de aire ó lugar de él. = <foreign lang=ceb>Mahán&gtilde;in.</foreign> &ast; Garboso. = <foreign lang=ceb>An&gtilde;áyan, bayhónan, daguáyan.</foreign>
 
-<p>Aislado. = <foreign lang=ceb>Sía usá da.[**,? P2] oaláy obán, binócot, bocot.</foreign>
+<p>Aislado. = <foreign lang=ceb>Sía usá da, oaláy obán, binócot, bocot.</foreign>
 
 <p>Aislar. = <foreign lang=ceb>Olang, libót, lipót.</foreign>
 
@@ -1053,7 +1072,7 @@
 
 <p>Ala generalmente. = <foreign lang=ceb>Paco.</foreign> &ast; De pescado. = <foreign lang=ceb>Capay cápay.</foreign> &ast; De tejado. = <foreign lang=ceb>Balisbisan.</foreign>
 
-<p>Alabanza. = <foreign lang=ceb>Padáyeg, pagdáyg[**,?] pagólog, pagdáyao.</foreign>
+<p>Alabanza. = <foreign lang=ceb>Padáyeg, pagdáyg, pagólog, pagdáyao.</foreign>
 
 <p>Alabar irónicamente. = <foreign lang=ceb>Sood sóod, solog sólog, olo ólo.</foreign>
 
@@ -1093,7 +1112,7 @@
 
 <p>Alarguez. = <foreign lang=ceb>Cahoy sa</foreign> cabo de buena Esperanza.
 
-<p>Alarida, alaridos. = <foreign lang=ceb>Tiábao, Póoao[**póoao? P2], siágit, tóoao, toao.</foreign>
+<p>Alarida, alaridos. = <foreign lang=ceb>Tiábao, <corr sic="Póoao">póoao</corr>, siágit, tóoao, toao.</foreign>
 
 <p>Alarido. = Idem.
 
@@ -1129,13 +1148,13 @@
 
 <p>Alborear. <corr sic="= V.">V.</corr> <hi>Alba</hi> y <hi>alborada</hi>.
 
-<p>Alborotar. = <foreign lang=ceb>Gobot, samoc[**o with speck looks like e], banha, sabá, gahod, pagbócao, goboc.</foreign>
+<p>Alborotar. = <foreign lang=ceb>Gobot, samoc, banha, sabá, gahod, pagbócao, goboc.</foreign>
 
-<p>Alboroto. = <foreign lang=ceb>Cagobót, casabá, cagáhod, samoc, banha, hi málo[**himálo? P2], bocao.</foreign>
+<p>Alboroto. = <foreign lang=ceb>Cagobót, casabá, cagáhod, samoc, banha, himálo, bocao.</foreign>
 
 <p>Albricias. = <foreign lang=ceb>Gala, hatag, tinabóan.</foreign>
 
-<p>Alcahuete. = <foreign lang=ceb>Cagon cágon[**cagon].</foreign>
+<p>Alcahuete. = <foreign lang=ceb>Cagon <corr sic="cágon">cagon</corr>.</foreign>
 
 <p>Alcahuetear. = <foreign lang=ceb>Idem, tabon, hilom.</foreign>
 
@@ -1179,9 +1198,9 @@
 
 <p>Alegrarse. = <foreign lang=ceb>Lipay, himáya, himóot, saya, sayág, naya naya, sán&gtilde;ia.</foreign>
 
-<p>Alegría. = <foreign lang=ceb>Calípay, himáya, maáyong boot, hinán&gtilde;op, himóot, &amp;c.,</foreign> [** typo &amp;c.,; P3 fixed] como el anterior.
+<p>Alegría. = <foreign lang=ceb>Calípay, himáya, maáyong boot, hinán&gtilde;op, himóot, &amp;c.,</foreign> como el anterior.
 
-<p>Alegron[**typo Alegrón?]. = <foreign lang=ceb>Idem, ahat n&gtilde;a pagcalípay.</foreign>
+<p>Alegron. = Idem, <foreign lang=ceb>ahat n&gtilde;a pagcalípay.</foreign>
 
 <p>Alejamiento. = <foreign lang=ceb>Paghalayó, pagcahalagyó.</foreign>
 
@@ -1195,7 +1214,7 @@
 
 <p>Alero, ala de tejado. = <foreign lang=ceb>Balisbísan.</foreign>
 
-<p>Alertar. = <foreign lang=ceb>Pagbántay, polóng n&gtilde;a igatóbag tobag, pagbálos sa m&gtilde;a bantay.[**typo .; P3 fixed]</foreign> &ast; Poner atencion.[** typo atención?] = <foreign lang=ceb>Don&gtilde;og, talínghog, pagpamáti, bati.</foreign>
+<p>Alertar. = <foreign lang=ceb>Pagbántay, polóng n&gtilde;a igatóbag tobag, pagbálos sa m&gtilde;a bantay.</foreign> &ast; Poner atencion. = <foreign lang=ceb>Don&gtilde;og, talínghog, pagpamáti, bati.</foreign>
 
 <p>Aleta, de pescado. = <foreign lang=ceb>Cápay cápay.</foreign>
 
@@ -1207,7 +1226,7 @@
 
 <p>Alevosamente. = <foreign lang=ceb>Sa pagcabódhi.</foreign>
 
-<p>Alfanje. = <foreign lang=ceb>Campílang.[** typo campílang; P3 fixed]</foreign>
+<p>Alfanje. = <foreign lang=ceb>Campílang.</foreign>
 
 <p>Alfarería. = <foreign lang=ceb>Pagabohátan sa m&gtilde;a colon.</foreign>
 
@@ -1227,11 +1246,11 @@
 
 <p>Algo. = <foreign lang=ceb>Onsa onsa, manggad pa dihá, bisan onsa.</foreign>
 
-<p>Algodon[**typo Algodón].[**typo .; P3 fixed] = <foreign lang=ceb>Gapas.[** typo Capas?]</foreign> &ast; Hilado. = <foreign lang=ceb>Tingcal, bonang. &ast; Hilado.[**,?] negro,[**. =?] Tinágom.</foreign> &ast; Carmenado, en copos. = <foreign lang=ceb>Boyo, binóyo.</foreign>
+<p>Algodon. = <foreign lang=ceb>Gapas.</foreign> &ast; Hilado. = <foreign lang=ceb>Tingcal, bonang. &ast; Hilado.[**,?] negro,[**. =?] Tinágom.</foreign> &ast; Carmenado, en copos. = <foreign lang=ceb>Boyo, binóyo.</foreign>
 
 <p>Alguacil. = <foreign lang=ceb>Bántay sa bilanggóan, aguacil.</foreign>
 
-<p>Algun,[** typo Algún?][**typo .;P3 no] alguno. = <foreign lang=ceb>Bisan quinsa, bisan onsa, manggad pa.</foreign>
+<p>Algun, alguno. = <foreign lang=ceb>Bisan quinsa, bisan onsa, manggad pa.</foreign>
 
 <p>Alguna vez. = <foreign lang=ceb>Talágsa da, osáhay.</foreign>
 
@@ -1251,7 +1270,7 @@
 
 <p>Aliciente. = <foreign lang=ceb>Pahagálam, icahagálam.</foreign>
 
-<p>Aliento. = <foreign lang=ceb>Pagginháoa, ginháoa, guininhaoa[**guininháoa?].</foreign>
+<p>Aliento. = <foreign lang=ceb>Pagginháoa, ginháoa, <corr sic=guininhaoa>guininháoa</corr>.</foreign>
 
 <p>Aligar. = <foreign lang=ceb>Baat, gapos, tacgos, hocot, hicot, hogot.</foreign>
 
@@ -1259,7 +1278,7 @@
 
 <p>Alijar. = Idem.
 
-<p>Alimentar. = <foreign lang=ceb>Caon, pagpacáon, toto.</foreign> &ast; Á algun[** typo algún?] enfermo. = <foreign lang=ceb>Pagtílog.</foreign>
+<p>Alimentar. = <foreign lang=ceb>Caon, pagpacáon, toto.</foreign> &ast; Á algun enfermo. = <foreign lang=ceb>Pagtílog.</foreign>
 
 <p>Alimento. = <foreign lang=ceb>Calán-on, itílog, itilil-og.</foreign>
 
@@ -5472,23 +5491,23 @@
 
 <p>Campear. = <foreign lang=ceb>Pagsódoy sa m&gtilde;a yota, paghíling, pagtimáan con may caáoay con oalá ba.</foreign>
 
-<p>Campeon. = <foreign lang=ceb>Táuo n&gtilde;a nagabóhat sa m&gtilde;a bóhat n[<hi rend=sup>g</hi>]a[** n&gtilde;a ?] catin&gtilde;aláhan, dalayégon ug hibóln&gtilde;an sa pagpan&gtilde;óbat, maín&gtilde;on sa guibóhat ni anhing Padre Pascual Ibañez ni Sta. Filomena sa pagpan&gtilde;óbat sa Sólog, ug ang ubàn pang m[<hi rend=sup>g</hi>]a[** m&gtilde;a ?] soldados.</foreign>
+<p>Campeon. = <foreign lang=ceb>Táuo n&gtilde;a nagabóhat sa m&gtilde;a bóhat n&gtilde;a catin&gtilde;aláhan, dalayégon ug hibóln&gtilde;an sa pagpan&gtilde;óbat, maín&gtilde;on sa guibóhat ni anhing Padre Pascual Ibañez ni Sta. Filomena sa pagpan&gtilde;óbat sa Sólog, ug ang ubàn pang m&gtilde;a soldados.</foreign>
 
 <p>Campero. = <foreign lang=ceb>Bisan[** Bísan] ónsa n&gtilde;a anáa sa dáyag, sa díli magsalípod, sa oaláy pagasalípdan. &ast; Ang magbalántay sa m&gtilde;a tanáman.</foreign>
 
-<p>Campiña. = <foreign lang=ceb>Yota n&gtilde;a halagpád, n[<hi rend=sup>g</hi>]a[** n&gtilde;a ?] datág caáyo.</foreign>
+<p>Campiña. = <foreign lang=ceb>Yota n&gtilde;a halagpád, n&gtilde;a datág caáyo.</foreign>
 
 <p>Campo. = <foreign lang=ceb>Banua n&gtilde;a patag.</foreign>
 
 <p>Camuesa. = <foreign lang=ceb>Bonga[** Bon&gtilde;a] n&gtilde;a malalím caáyo, sa España.</foreign>
 
-<p>Camueso. = <foreign lang=ceb>Cáhoy n&gtilde;a magabón&gtilde;a sa m[<hi rend=sup>g</hi>]a[** m&gtilde;a ?] camuesa. &ast; Táuo n&gtilde;a hou&gtilde;og[**typo hou&gtilde;og] ug oaláy quinaádman, obós.</foreign>
+<p>Camueso. = <foreign lang=ceb>Cáhoy n&gtilde;a magabón&gtilde;a sa m&gtilde;a camuesa. &ast; Táuo n&gtilde;a hou&gtilde;og[**typo hou&gtilde;og] ug oaláy quinaádman, obós.</foreign>
 
 <p>Canal. = <foreign lang=ceb>Saoang, bon&gtilde;álos.</foreign>
 
 <p>Canalon. = <foreign lang=ceb>Sandayóng.</foreign>
 
-<p>Canalla. = <foreign lang=ceb>M[<hi rend=sup>g</hi>]a[** M&gtilde;a ?] táuo n[<hi rend=sup>g</hi>]a[** n&gtilde;a ?] tampalásan, sa man&gtilde;íl-ad n&gtilde;a batásan, matamas[** typo matámas] tamáson.</foreign>
+<p>Canalla. = <foreign lang=ceb>M&gtilde;a táuo n&gtilde;a tampalásan, sa man&gtilde;íl-ad n&gtilde;a batásan, matamas[** typo matámas] tamáson.</foreign>
 
 <pb n=67><p>Canana. = <foreign lang=ceb>Panonódlan sa m&gtilde;a cartuchos n&gtilde;a ponó sa pólvora.</foreign>
 
@@ -11000,7 +11019,7 @@
 
 <p>Desensartar. = <foreign lang=ceb>Paghónhon, paghóshos sa natohóg.</foreign>
 
-<p>Desensillar. = <foreign lang=ceb>Pagcóha sa siya sa cabayo con ss[**sa] lain n&gtilde;a mananáp.</foreign>
+<p>Desensillar. = <foreign lang=ceb>Pagcóha sa siya sa cabayo con sa lain n&gtilde;a mananáp.</foreign>
 
 <p>Desensoberbecerse. = <foreign lang=ceb>Pagóndang sa pagpalábi labi, pagóbos.</foreign>
 
@@ -11260,8 +11279,6 @@
 
 <p>Desliz. = <foreign lang=ceb>Pagcadalín-as, pagcabaquínas, dolános, toládos, bolángsod. &ast; Salá, sayóp.</foreign>
 
-<!-- TODO V. language tagging -->
-
 <p>Deslizar. = <foreign lang=ceb>Dalín-as, baquínas.</foreign> &ast; V. el anterior. &ast; <foreign lang=ceb>Dalos[**P3 Dal-os?], os os, daliós os. &ast; Pagpamólong sa oalá honahonáon ug maáyo, paghanáyac sa pagpamólong ug sa pagbóhat.</foreign>
 
 <pb n=139><p>Deslucidamente. = <foreign lang=ceb>Sa oaláy pagdáyan dayan.</foreign>
@@ -11346,7 +11363,7 @@
 
 <p>Desmesurado. = <foreign lang=ceb>Ang dagcóan caáyo ug labíng dagcó sa obán n&gtilde;a isigcamagsáma, isigcaín&gtilde;on.</foreign>
 
-<p>Desmesurar. = <foreign lang=ceb>Boloc, gobót. &ast; V. <hi>Descomedirse</hi>.</foreign>
+<p>Desmesurar. = <foreign lang=ceb>Boloc, gobót.</foreign> &ast; V. <hi>Descomedirse</hi>.
 
 <p>Desmigajar. = <foreign lang=ceb>Pagdógmoc, paggamáy sa bísan onsa[**?], pagmómhc.[**?]</foreign>
 
@@ -11500,7 +11517,7 @@
 
 <p>Despedazador. = <foreign lang=ceb>Ang magalápa, ang magatípac, magatípic, magabáhin bahin sa bisan onsa.</foreign>
 
-<p>Despedazar. = <foreign lang=ceb>Lapa, tipac, tipic, gosbat, bahin. &ast; V. <hi>Destrizar</hi>.</foreign>
+<p>Despedazar. = <foreign lang=ceb>Lapa, tipac, tipic, gosbat, bahin.</foreign> &ast; V. <hi>Destrizar</hi>.
 
 <p>Despedida. = <foreign lang=ceb>Pagpanamílit, panamílit, pagpaháoa.</foreign>
 
@@ -11686,7 +11703,7 @@
 
 <p>Destajo. = <foreign lang=ceb>Paquiao, pacyao.</foreign>
 
-<p>Destapar. = <foreign lang=ceb>Bocas. &ast; V. <hi>Descubrir</hi> y <hi>Descubrimiento</hi>.</foreign>
+<p>Destapar. = <foreign lang=ceb>Bocas.</foreign> &ast; V. <hi>Descubrir</hi> y <hi>Descubrimiento</hi>.
 
 <p>Destapiar. = <foreign lang=ceb>Paggobá sa m&gtilde;a cotang hamóbo.</foreign>
 
@@ -11754,13 +11771,13 @@
 
 <p>Destreza. = <foreign lang=ceb>Caálam, quinaádman, pagcaníndot, pagcaáñag sa pagbóhat sa bísan onsa.</foreign>
 
-<pb n=145><p>Destripar. = <foreign lang=ceb>Bosbos, pagpagóa sa m&gtilde;a tináe. &ast; V. <hi>Despanzurrar</hi>. &ast; Pagcóha, pagpagóa sa onód sa solód sa bísan onsa.</foreign>
+<pb n=145><p>Destripar. = <foreign lang=ceb>Bosbos, pagpagóa sa m&gtilde;a tináe.</foreign> &ast; V. <hi>Despanzurrar</hi>. &ast; <foreign lang=ceb>Pagcóha, pagpagóa sa onód sa solód sa bísan onsa.</foreign>
 
 <p>Destripaterrones. = <foreign lang=ceb>Táuo n&gtilde;a man&gtilde;íta sa iang pagcabóhi sa pagcále sa yota.</foreign>
 
 <p>Destriunfar. = <foreign lang=ceb>Paglógos sa obán n&gtilde;a nanagsogál sa baraja sa ilang m&gtilde;a contra arón ibótang nila ang m&gtilde;a triunfo.</foreign>
 
-<p>Destrizar. = <foreign lang=ceb>Guisí, tabas, potol. &ast; V. <hi>Despedazar</hi>.</foreign>
+<p>Destrizar. = <foreign lang=ceb>Guisí, tabas, potol.</foreign> &ast; V. <hi>Despedazar</hi>.
 
 <p>Destrocar. = <foreign lang=ceb>Pagbádbad sa pagbáilo ug pagtagílis n&gtilde;a guibóhat sa m&gtilde;a táuo, sa pagángcon sa tagsa tagsa sa iang caogalín&gtilde;on n&gtilde;a hias ug bísan onsa n&gtilde;a guibáilo sa lain n&gtilde;a botang.</foreign>
 
@@ -11792,7 +11809,7 @@
 
 <p>Desuellacaras. = <foreign lang=ceb>Ang magalálot n&gtilde;a dili maálam magálot. &ast; Táuo n&gtilde;a oaláy caólao, sa daótan n&gtilde;a batá san ug mangíl-ad n&gtilde;a quinabóhi.</foreign>
 
-<p>Desuello. = <foreign lang=ceb>Pagpánit, pagcapánit. &ast; V. <hi>el anterior</hi> desde <hi>Táuo</hi>.</foreign>
+<p>Desuello. = <foreign lang=ceb>Pagpánit, pagcapánit.</foreign> &ast; V. <hi>el anterior</hi> desde <hi lang=ceb>Táuo</hi>.
 
 <p>Desunidamente. = <foreign lang=ceb>Sa pagcabólag[**scan unclear], sa oaláy paghiósa, pagcalan&gtilde;áquit.</foreign>
 
@@ -12060,7 +12077,7 @@
 
 <p>Diferente. = <foreign lang=ceb>Lain, díli magsáma, díli topóng, díli maín&gtilde;on.</foreign>
 
-<p>Diferir. = <foreign lang=ceb>Dogay, arang, ondang. &ast; V. <hi>Diferenciar</hi>.</foreign>
+<p>Diferir. = <foreign lang=ceb>Dogay, arang, ondang.</foreign> &ast; V. <hi>Diferenciar</hi>.
 
 <p>Difícil. = <foreign lang=ceb>Macóli, malisód.</foreign>
 
@@ -12232,11 +12249,11 @@
 
 <p>Discordancia. V. <hi>Disconformidad</hi>.
 
-<p>Discordar. = <foreign lang=ceb>Díli pagán&gtilde;ay. &ast; V. <hi>Disconformidad</hi> desde <hi>díli omóyon</hi>.</foreign>
+<p>Discordar. = <foreign lang=ceb>Díli pagán&gtilde;ay.</foreign> &ast; V. <hi>Disconformidad</hi> desde <hi lang=ceb>díli omóyon</hi>.
 
 <p>Discorde. = Idem.
 
-<p>Discordia = <foreign lang=ceb>Pagcabíquil sa m&gtilde;a cabobót-on. &ast; V. <hi>Disconformidad</hi>.</foreign>
+<p>Discordia = <foreign lang=ceb>Pagcabíquil sa m&gtilde;a cabobót-on.</foreign> &ast; V. <hi>Disconformidad</hi>.
 
 <p>Discrecion. = <foreign lang=ceb>Salabótan, caboótan, paghóna húna n&gtilde;a maáyo, matalínis. &ast; Pagcabátid. &ast; Polong n&gtilde;a macaígo. &ast; Pagtóman sa caogalin&gtilde;on n&gtilde;a pagbóot.</foreign>
 
@@ -12250,7 +12267,7 @@
 
 <p>Discreto. = <foreign lang=ceb>Táuo n&gtilde;a boótan, n&gtilde;a may salabótan, batid.</foreign>
 
-<p>Discrimen. = <foreign lang=ceb>Catáhap, catahápan. &ast; V. <hi>Disconformidad</hi>.</foreign>
+<p>Discrimen. = <foreign lang=ceb>Catáhap, catahápan.</foreign> &ast; V. <hi>Disconformidad</hi>.
 
 <p>Disculpa. = <foreign lang=ceb>Balíbad.</foreign>
 
@@ -12284,7 +12301,7 @@
 
 <p>Disentimiento. V. <hi>Disenso</hi>.
 
-<p>Disentir. = <foreign lang=ceb>Pagdilí. &ast; V. <hi>Discordar</hi>.</foreign>
+<p>Disentir. = <foreign lang=ceb>Pagdilí.</foreign> &ast; V. <hi>Discordar</hi>.
 
 <p>Diseñar. V. <hi>Dibujar</hi>.
 
@@ -12324,7 +12341,7 @@
 
 <p>Disimulado. = <foreign lang=ceb>Ang díli magpaquíta ug díli magpasà-*bot[**typo magpasábot] sa guihóna húna nía.</foreign>
 
-<p>Disimular. = <foreign lang=ceb>Pagtábon sa guihúna húna sa bisan cansa. &ast; Pagpatigáyon arón díli hisáydan ug hibalóan sa obàn[**typo obán] sa anáa sa iang húna húna. &ast; Díli pagtagàd, pagpasáilo sa m&gtilde;a ponóan sa m&gtilde;a sayóp sa ilang m&gtilde;a guinsacópan, cay guipacaín&gtilde;on n&gtilde;a oalà quit-on ug hingbalóan. &ast; V. <hi>Disfrazar</hi>. &ast; Pagtàbon, pagsácot sa usá ca botang sa lain n&gtilde;a botang, arón dilí hiílhan ug arón díli madayàg. &ast; Hanip. &ast; Paligás, pagpaligás sa soguílon.</foreign>
+<p>Disimular. = <foreign lang=ceb>Pagtábon sa guihúna húna sa bisan cansa. &ast; Pagpatigáyon arón díli hisáydan ug hibalóan sa obàn[**typo obán] sa anáa sa iang húna húna. &ast; Díli pagtagàd, pagpasáilo sa m&gtilde;a ponóan sa m&gtilde;a sayóp sa ilang m&gtilde;a guinsacópan, cay guipacaín&gtilde;on n&gtilde;a oalà quit-on ug hingbalóan.</foreign> &ast; V. <hi>Disfrazar</hi>. &ast; <foreign lang=ceb>Pagtàbon, pagsácot sa usá ca botang sa lain n&gtilde;a botang, arón dilí hiílhan ug arón díli madayàg. &ast; Hanip. &ast; Paligás, pagpaligás sa soguílon.</foreign>
 
 <p>Disipacion. = <foreign lang=ceb>Pagcaósic, pagcadágmal. &ast; Pagcabáhin, pagcabólag sa m&gtilde;a bahin sa bisan onsa. &ast; Pagca-*alísn&gtilde;ao[**typo Pagcaalísn&gtilde;ao], pagcahon&gtilde;áo. &ast; Batásan n&gtilde;a maláo-ay, ma-*n&gtilde;íl-ad[**typo man&gtilde;íl-ad]. &ast; Pagcasámoc sa táuo sa m&gtilde;a calipáyan sa calibótan.</foreign>
 
@@ -12430,7 +12447,7 @@
 
 <p>Distantísimo. = <foreign lang=ceb>Halayó[**,] oyámot.</foreign>
 
-<p>Distar. = <foreign lang=ceb>Halayó, hilayó. &ast; V. <hi>Diferenciar</hi>.</foreign>
+<p>Distar. = <foreign lang=ceb>Halayó, hilayó.</foreign> &ast; V. <hi>Diferenciar</hi>.
 
 <p>Distincion. = <foreign lang=ceb>Pagcaláin sa usá ca botang sa lain n&gtilde;a botang. &ast; Opicio con cahímtang[**cabímtang?] n&gtilde;a macahímo ug donggánon, donggan, sa bisan cansa n&gtilde;a táuo. &ast; Maáyong paghósay, pagháyag sa bisan onsa, maáyong pagcabótang.</foreign>
 
@@ -12548,11 +12565,11 @@
 
 <p>Dobladillo. = <foreign lang=ceb>Bisan onsa n&gtilde;a hamóbo ug halagpád. &ast; Pico[**í?], piló. &ast; Hilo n&gtilde;a mabága n&gtilde;a icabóhat ug medias.</foreign>
 
-<p>Doblado. = <foreign lang=ceb>Idem. &ast; V. <hi>Disimulado</hi>.</foreign>
+<p>Doblado. = Idem. &ast; V. <hi>Disimulado</hi>.
 
 <p>Dobladura. = <foreign lang=ceb>Piniló, piníco. &ast; Conót.</foreign>
 
-<p>Doblar. = <foreign lang=ceb>Piló, pico. &ast; Pagdohá sa bisan onsa, pagdógang niána arón mahímo sa dorohá ca maín&gtilde;on sa pagcadagcó n&gtilde;a daan. &ast; V. <hi>Disuadir</hi>. &ast; Pagbágting sa m&gtilde;a lin&gtilde;ánay, sa minatáy.</foreign>
+<p>Doblar. = <foreign lang=ceb>Piló, pico. &ast; Pagdohá sa bisan onsa, pagdógang niána arón mahímo sa dorohá ca maín&gtilde;on sa pagcadagcó n&gtilde;a daan.</foreign> &ast; V. <hi>Disuadir</hi>. &ast; <foreign lang=ceb>Pagbágting sa m&gtilde;a lin&gtilde;ánay, sa minatáy.</foreign>
 
 <p>Doble. = <foreign lang=ceb>Ang may dohá ca maín&gtilde;on sa pagcadagcó, sa pagcatímbang, &amp;c., sa bísan[**bisan?] onsa n&gtilde;a botang n&gtilde;a pagatandígan, n&gtilde;a icatómbas ug icapanánglet. &ast; Panápton, hinábol n&gtilde;a mabága. &ast; Pagbágting sa minatáy. &ast; Táuo n&gtilde;a sopang, sa dagcóng hosog.</foreign>
 
@@ -12906,7 +12923,7 @@
 
 <p>Duraderamente. = <foreign lang=ceb>Sa pagcadógay, sa pagcalíg-on.</foreign>
 
-<p>Duradero. = <foreign lang=ceb>Ang madógay caáyo. &ast; V. <hi>Durable</hi>.</foreign>
+<p>Duradero. = <foreign lang=ceb>Ang madógay caáyo.</foreign> &ast; V. <hi>Durable</hi>.
 
 <p>Durante. = <foreign lang=ceb>Sa pagcagáhi, sa pagcatíga.</foreign>
 
@@ -13081,7 +13098,7 @@
 
 <p>Ejecutante. = <foreign lang=ceb>Ang magasáca sa hocom sa may otang canía, arón báydan sia.</foreign>
 
-<p>Ejecutar. = <foreign lang=ceb>Bohat. Pagbítay, pagpatáy sa m&gtilde;a saláan, guican sa sogo ug sentencia sa matúod n&gtilde;a hocom. &ast; Paglógos, pagpógos sa bisan cansa, arón magbáyad sa iang otang, guican sa pagbóot sa hocom. &ast; V. <hi>Ejecucion</hi>.</foreign>
+<p>Ejecutar. = <foreign lang=ceb>Bohat. Pagbítay, pagpatáy sa m&gtilde;a saláan, guican sa sogo ug sentencia sa matúod n&gtilde;a hocom. &ast; Paglógos, pagpógos sa bisan cansa, arón magbáyad sa iang otang, guican sa pagbóot sa hocom.</foreign> &ast; V. <hi>Ejecucion</hi>.
 
 <pb n=163><p>Ejecutivamente. = <foreign lang=ceb>Sa madalí caáyo. &ast; Sa pagcalágmit.</foreign>
 
@@ -13383,7 +13400,7 @@
 
 <p>Embotijar. = <foreign lang=ceb>Socó, sobó, ligótgot, cabalàca.</foreign>
 
-<p>Embozado. = <foreign lang=ceb>Ang nacolópo, ang guitabónan, guitaclápan. &ast; Pagtáod sa bozal sa m&gtilde;a mananáp. &ast; V. <hi>Disfrazar</hi>.</foreign>
+<p>Embozado. = <foreign lang=ceb>Ang nacolópo, ang guitabónan, guitaclápan. &ast; Pagtáod sa bozal sa m&gtilde;a mananáp.</foreign> &ast; V. <hi>Disfrazar</hi>.
 
 <p>Embozo. V. <hi>Disfraz</hi>.
 
@@ -13439,13 +13456,13 @@
 
 <p>Emburujar. = <foreign lang=ceb>Pagtápoc sa bisan onsa sa pagcagobót, sa pagcasácot.</foreign>
 
-<p>Embuste. = <foreign lang=ceb>Bacac, limbong. &ast; V. <hi>Disfraz</hi>. &ast; M&gtilde;a hias, m&gtilde;a dayan dayan, sa diótay n&gtilde;a bale, n&gtilde;a pagagamíton ug ibisti sa m&gtilde;a babáye, m&gtilde;a singsing, m&gtilde;a ariyos, m&gtilde;a bitay bitay, &amp;c.</foreign>
+<p>Embuste. = <foreign lang=ceb>Bacac, limbong.</foreign> &ast; V. <hi>Disfraz</hi>. &ast; <foreign lang=ceb>M&gtilde;a hias, m&gtilde;a dayan dayan, sa diótay n&gtilde;a bale, n&gtilde;a pagagamíton ug ibisti sa m&gtilde;a babáye, m&gtilde;a singsing, m&gtilde;a ariyos, m&gtilde;a bitay bitay, &amp;c.</foreign>
 
 <p>Embustear. = <foreign lang=ceb>Pagbácac, paglímbong.</foreign>
 
 <p>Embustería. V. <hi>Embuste</hi>.
 
-<p>Embustero. = <foreign lang=ceb>Bacacon. &ast; V. <hi>Embrollon</hi>.</foreign>
+<p>Embustero. = <foreign lang=ceb>Bacacon.</foreign> &ast; V. <hi>Embrollon</hi>.
 
 <p>Embutir. = <foreign lang=ceb>Pagpahaán&gtilde;ay sa m&gtilde;a tolotaguídyot n&gtilde;a cahoy, tombága, salapí, bató, &amp;c., sa m&gtilde;a bohó nga[**n&gtilde;a?] pagatígban n&gtilde;a daan, sa lain n&gtilde;a cahoy tombága, salapí, pothao, bató, &amp;c., arón magacaláin ang m&gtilde;a dagoay ug ang color. &ast; Pagsolód sa balóyot, sa onlánan, sa caban, &amp;c., sa bisan onsa, sa dinásoc caáo. &ast; Pagponó sa bisan onsa. &ast; Pagcáon n&gtilde;a labí sa casadángan.</foreign>
 
@@ -13487,7 +13504,7 @@
 
 <p>Empachado. = <foreign lang=ceb>Ang maólao, ang dili magatóltol sa pagbóhat sa bisan onsa.</foreign>
 
-<p>Empachar. = <foreign lang=ceb>Samoc, olang. &ast; Pagbáti sa calóod sa atay, sa guinháoa. &ast; Dili paglínis sa cotó cotó sa quinaon. &ast; V. <hi>Disfrazar</hi>. &ast; Olao.</foreign>
+<p>Empachar. = <foreign lang=ceb>Samoc, olang. &ast; Pagbáti sa calóod sa atay, sa guinháoa. &ast; Dili paglínis sa cotó cotó sa quinaon.</foreign> &ast; V. <hi>Disfrazar</hi>. &ast; <foreign lang=ceb>Olao.</foreign>
 
 <p>Empacho. = <foreign lang=ceb>Caólao, cabórong sa huna huna. &ast; Casámoc, caolàn&gtilde;an. &ast; Pagcalóod sa guinháoa, pagcaoalá mahílis sa cotó cotó sa quináon.</foreign>
 
@@ -13725,9 +13742,9 @@
 
 <p>Enajenable. = <foreign lang=ceb>Ang arang ihátag sa lain.</foreign>
 
-<p>Enajenacion. = <foreign lang=ceb>Pagcahátag sa bisan onsa sa lain. &ast; Pagcaoaláy pagmátn&gtilde;on ug pagpamáti. &ast; V. <hi>Embeleso</hi>.</foreign>
+<p>Enajenacion. = <foreign lang=ceb>Pagcahátag sa bisan onsa sa lain. &ast; Pagcaoaláy pagmátn&gtilde;on ug pagpamáti.</foreign> &ast; V. <hi>Embeleso</hi>.
 
-<p>Enajenar. = <foreign lang=ceb>Hatag. &ast; V. <hi>Embelesar</hi>.</foreign>
+<p>Enajenar. = <foreign lang=ceb>Hatag.</foreign> &ast; V. <hi>Embelesar</hi>.
 
 <p>Enalbardar. = <foreign lang=ceb>Pagtáod, pagbótang sa m&gtilde;a siya (man&gtilde;a albarda) sa m&gtilde;a borrico, &amp;c. &ast; Pagpótus sa itlog con sa binócboc sa bisan onsang calán-on n&gtilde;a pagapritóhon.</foreign>
 
@@ -14179,7 +14196,7 @@
 
 <p>Endiosamiento. = <foreign lang=ceb>Pagpalábi labi, pagparàyeg[**á] n&gtilde;a labí sa casarán&gtilde;an.</foreign>
 
-<p>Endiosar. = <foreign lang=ceb>Pagbótang, pagíla sa bisan cansa sa pagcadios. &ast; V. <hi>el anterior</hi>.</foreign>
+<p>Endiosar. = <foreign lang=ceb>Pagbótang, pagíla sa bisan cansa sa pagcadios.</foreign> &ast; V. <hi>el anterior</hi>.
 
 <p>Endoblado. = <foreign lang=ceb>Hayop, nati n&gtilde;a magasóso sa iang mahán ug sa lain carnero n&gtilde;a baye.</foreign>
 
@@ -14329,7 +14346,7 @@
 
 <p>Engañoso. = <foreign lang=ceb>Ang macalímbong. &ast; Ang magapasayóp.</foreign>
 
-<p>Engarabatar. V. <hi>Enganchar</hi> hasta <hi>pagálam</hi>. &ast; V. <hi>Encorvar</hi>.
+<p>Engarabatar. V. <hi>Enganchar</hi> hasta <hi lang=ceb>pagálam</hi>. &ast; V. <hi>Encorvar</hi>.
 
 <p>Engarabitarse. = <foreign lang=ceb>Pagsáca sa itáas.</foreign>
 
@@ -14597,7 +14614,7 @@
 
 <p>Enredador. = <foreign lang=ceb>Condatán, táuo n&gtilde;a malíhoc caáyo, n&gtilde;a díli maálam magpoyó, n&gtilde;a díli mahamótang. &ast; Táuo ug bacácon, n&gtilde;a magadála dala sa luyo ug sa luyo sa m&gtilde;a soguílon, arón managaóay ang obán n&gtilde;a m&gtilde;a táuo, tabían.</foreign>
 
-<p>Enredar. = <foreign lang=ceb>Pagtáctac sa m&gtilde;a sahid, sa m&gtilde;a anod, ug sa obán pa n&gtilde;a m&gtilde;a panagátan, sa dagat con sa m&gtilde;a sobá. &ast; Paggobót, pagbóloc, pagsácot. &ast; Pagcóndat, pagósic, pagdóla. &ast; Pagdála dala sa man&gtilde;a soguílon arón managáoay ang m&gtilde;a táuo. &ast; Paglisód, pagólang, pagbótang sa m&gtilde;a cacolían sa bisan onsa n&gtilde;a pagaboháton ug pagahosáyon. &ast; V. <hi>Amancebarse</hi>.</foreign>
+<p>Enredar. = <foreign lang=ceb>Pagtáctac sa m&gtilde;a sahid, sa m&gtilde;a anod, ug sa obán pa n&gtilde;a m&gtilde;a panagátan, sa dagat con sa m&gtilde;a sobá. &ast; Paggobót, pagbóloc, pagsácot. &ast; Pagcóndat, pagósic, pagdóla. &ast; Pagdála dala sa man&gtilde;a soguílon arón managáoay ang m&gtilde;a táuo. &ast; Paglisód, pagólang, pagbótang sa m&gtilde;a cacolían sa bisan onsa n&gtilde;a pagaboháton ug pagahosáyon.</foreign> &ast; V. <hi>Amancebarse</hi>.
 
 <p>Enredo. = <foreign lang=ceb>Cagobót, cabóloc, pagcasácot. &ast; Pagcacóndat, pagcaósic, pagcadóla. &ast; Bacac sa pagpabíquil biquil sa m&gtilde;a cabobót-on sa m&gtilde;a táuo. &ast; Calisód, cacolían, caolán&gtilde;an.</foreign>
 
@@ -15121,7 +15138,7 @@
 
 <p>Envolvedor. = Idem.
 
-<p>Envolver. = <foreign lang=ceb>Potós. &ast; Pagsácot, pagápil sa bisan[**P2:bísan?] onsa. &ast; V. <hi>Amancebarse</hi>. &ast; Pagsácot sa cadaghánan sa talioála sa obán.</foreign>
+<p>Envolver. = <foreign lang=ceb>Potós. &ast; Pagsácot, pagápil sa bisan[**P2:bísan?] onsa.</foreign> &ast; V. <hi>Amancebarse</hi>. &ast; <foreign lang=ceb>Pagsácot sa cadaghánan sa talioála sa obán.</foreign>
 
 <p>Enyugar. = <foreign lang=ceb>Paghícot, pagtáod sa liógan, sa yogo, sa m&gtilde;a mananáp n&gtilde;a magadáro, &amp;c.</foreign>
 
@@ -15307,7 +15324,7 @@
 
 <p>Errado. = <foreign lang=ceb>Ang masayóp, masaláypon.</foreign>
 
-<p>Errante. = <foreign lang=ceb>Tigsóroy sa oaláy toyo ug pagahonón&gtilde;an. &ast; V. <hi>Erradizo</hi>.</foreign>
+<p>Errante. = <foreign lang=ceb>Tigsóroy sa oaláy toyo ug pagahonón&gtilde;an.</foreign> &ast; V. <hi>Erradizo</hi>.
 
 <p>Errar. = <foreign lang=ceb>Pagsayóp. &ast; Pagsálang sa caogalín&gtilde;on n&gtilde;a catongdánan. &ast; Pagdáot sa isigcatáuo.</foreign>
 
@@ -15681,7 +15698,7 @@
 
 <p>Escondite. V. <hi>Escondedero</hi>. &ast; Dola sa m&gtilde;a báta.
 
-<p>Escondrijo. = <foreign lang=ceb>Sooc. &ast; V. <hi>Escondedero</hi>.</foreign>
+<p>Escondrijo. = <foreign lang=ceb>Sooc.</foreign> &ast; V. <hi>Escondedero</hi>.
 
 <p>Escopeta. = <foreign lang=ceb>Lothang.</foreign>
 
@@ -15845,7 +15862,7 @@
 
 <p>Escurriduras. = <foreign lang=ceb>Ang m&gtilde;a tolong catapúsan sa vino, tubig, soca, &amp;c., sa bisan onsa n&gtilde;a sodlánan.</foreign>
 
-<p>Escurrir. = <foreign lang=ceb>Paghorót sa bisan onsang ilímnon. &ast; Paglacát sa bisan díin sa pagsolóng ug paghíling sa yota. &ast; Tolo, agas, agay, agáyay, dalígdig, dahínggay. &ast; V. <hi>Deslizar</hi> hasta <hi>pagpamólong</hi>. &ast; Pagcalágueu, pagpaháoa.</foreign>
+<p>Escurrir. = <foreign lang=ceb>Paghorót sa bisan onsang ilímnon. &ast; Paglacát sa bisan díin sa pagsolóng ug paghíling sa yota. &ast; Tolo, agas, agay, agáyay, dalígdig, dahínggay.</foreign> &ast; V. <hi>Deslizar</hi> hasta <hi lang=ceb>pagpamólong</hi>. &ast; <foreign lang=ceb>Pagcalágueu, pagpaháoa.</foreign>
 
 <p>Esencia. = <foreign lang=ceb>Pagcamáo, pagcaquinaía sa bisan onsa.</foreign> &ast; V. <hi>El siguiente</hi>.
 
@@ -16069,7 +16086,7 @@
 
 <p>Espesor. = <foreign lang=ceb>Pagcabága, guibág-on, cabalágon sa bisan onsa.</foreign>
 
-<p>Espesura. = <foreign lang=ceb>Pagcahágcot, pagcabágtoc, sa bisan onsa, pagcaespeso sa vino, sa dogó, &amp;c. &ast; V. <hi>el anterior</hi>. &ast; Hugao, cahogáoan.</foreign>
+<p>Espesura. = <foreign lang=ceb>Pagcahágcot, pagcabágtoc, sa bisan onsa, pagcaespeso sa vino, sa dogó, &amp;c.</foreign> &ast; V. <hi>el anterior</hi>. &ast; <foreign lang=ceb>Hugao, cahogáoan.</foreign>
 
 <p>Espetar. = <foreign lang=ceb>Pagtóhog, pagsálay sa pothao, cahoy, &amp;c., n&gtilde;a matalínis sa bisan onsa, sa carne, sa isda, &amp;c. &ast; Pagsógid, pagásoy. &ast; Paglígdong, pagámbong.</foreign>
 
@@ -16175,11 +16192,11 @@
 
 <p>Espolique. = <foreign lang=ceb>Ang táuo, ang sologóon n&gtilde;a magalacát sa onáhan sa mananáp n&gtilde;a guicabayóan sa iang agálon.</foreign>
 
-<p>Espolista. = <foreign lang=ceb>Ang nagaábang sa m&gtilde;a casangcápan n&gtilde;a guibílin sa m&gtilde;a ponóan n&gtilde;a nan&gtilde;amatáy. &ast; V. <hi>el anterior</hi>.</foreign>
+<p>Espolista. = <foreign lang=ceb>Ang nagaábang sa m&gtilde;a casangcápan n&gtilde;a guibílin sa m&gtilde;a ponóan n&gtilde;a nan&gtilde;amatáy.</foreign> &ast; V. <hi>el anterior</hi>.
 
 <p>Espolon. = <foreign lang=ceb>Tahód. &ast; Halígueng cota n&gtilde;a guidógang ug guipadápat sa m&gtilde;a cota, arón malíg-on. &ast; Ang cota n&gtilde;a guidógang pagbóhat ug guipadápat sa man&gtilde;a halígueng cota opód sa m&gtilde;a toláy, arón díli onta cancánon ug cagdan sa m&gtilde;a bahá sa sobá. &ast; To-*móy n&gtilde;a pothao n&gtilde;a guitáod sa m&gtilde;a dolong sa m&gtilde;a sacayán. &ast; Pagcahanáyhay sa m&gtilde;a caboquílan ug m&gtilde;a ban&gtilde;ílid.</foreign>
 
-<p>Espolvorear. V. <hi>Despolvorear</hi>. &ast; Bilibód, bodbod.
+<p>Espolvorear. V. <hi>Despolvorear</hi>. &ast; <foreign lang=ceb>Bilibód, bodbod.</foreign>
 
 <p>Espolvorizar. = Idem.
 
@@ -16679,7 +16696,7 @@
 
 <p>Estrenque. = <foreign lang=ceb>Pisi, lobid n&gtilde;a dagcó.</foreign>
 
-<p>Estrenuo. = <foreign lang=ceb>Mabáscog, cosgon. &ast; V. <hi>Ágil</hi>.</foreign>
+<p>Estrenuo. = <foreign lang=ceb>Mabáscog, cosgon.</foreign> &ast; V. <hi>Ágil</hi>.
 
 <p>Estreñido. = <foreign lang=ceb>Hicáoan, daguinótan. &ast; Táuo n&gtilde;a díli macacalíbang.</foreign>
 
@@ -16903,7 +16920,7 @@
 
 <p>Evaporizar. V. <hi>Evaporar</hi>.
 
-<p>Evasion. = <foreign lang=ceb>Pagcalágueu. &ast; V. <hi>Evadir</hi>.</foreign>
+<p>Evasion. = <foreign lang=ceb>Pagcalágueu.</foreign> &ast; V. <hi>Evadir</hi>.
 
 <p>Evasivo. = <foreign lang=ceb>Ang icalágueu, ang polong con pagtóbag n&gtilde;a icapaligás sa soguílon ng sa m&gtilde;a caculían.</foreign>
 
@@ -17004,7 +17021,7 @@
 
 <p>Excelentemente. = <foreign lang=ceb>Sa pagcaáyo oyámut.</foreign>
 
-<p>Excelentísimo. = <foreign lang=ceb>Idem. &ast; V. <hi>Excelencia</hi>, desde <hi>polong</hi>.</foreign>
+<p>Excelentísimo. = Idem. &ast; V. <hi>Excelencia</hi>, desde <hi lang=ceb>polong</hi>.
 
 <p>Excelsamente. = <foreign lang=ceb>Sa pagcahalángdong, sa pagcahatáas caáyo.</foreign>
 
@@ -17276,7 +17293,7 @@
 
 <p>Expositivo. = <foreign lang=ceb>Ang macaásoy ug magasáyod sa bisan onsa n&gtilde;a macóti onta sabóton, ton&gtilde;ód cay guibotán&gtilde;an sa m&gtilde;a pagdóha doha ug sa m&gtilde;a cacolían.</foreign>
 
-<p>Expósito. = <foreign lang=ceb>Ang báta n&gtilde;a guibiáan sa m&gtilde;a tigólang, sa m&gtilde;a tagánac, in&gtilde;on sa guiín&gtilde;on na. &ast; V. <hi>Exponer</hi> desde <hi>pagbílin</hi>.</foreign>
+<p>Expósito. = <foreign lang=ceb>Ang báta n&gtilde;a guibiáan sa m&gtilde;a tigólang, sa m&gtilde;a tagánac, in&gtilde;on sa guiín&gtilde;on na.</foreign> &ast; V. <hi>Exponer</hi> desde <hi lang=ceb>pagbílin</hi>.
 
 <p>Expositor. V. <hi>Exponente</hi>.
 
@@ -17352,7 +17369,7 @@
 
 <p>Externo. = <foreign lang=ceb>Bohat con polong n&gtilde;a madayág, bisan onsa n&gtilde;a guipaquíta sa cadaghánan.</foreign>
 
-<p>Extincion. = <foreign lang=ceb>Pagcapálong. &ast; V. <hi>Exterminio</hi>.</foreign>
+<p>Extincion. = <foreign lang=ceb>Pagcapálong.</foreign> &ast; V. <hi>Exterminio</hi>.
 
 <p>Extinguible. = <foreign lang=ceb>Ang arang paln&gtilde;on, tibaoáson ug laglágon.</foreign>
 
@@ -17360,7 +17377,7 @@
 
 <p>Extirpacion. = <foreign lang=ceb>Pagcaíbot n&gtilde;a tuod.</foreign>
 
-<p>Extirpar. = <foreign lang=ceb>Ibot. &ast; V. <hi>Extinguir</hi> desde <hi>tibáoas</hi>.</foreign>
+<p>Extirpar. = <foreign lang=ceb>Ibot.</foreign> &ast; V. <hi>Extinguir</hi> desde <hi lang=ceb>tibáoas</hi>.
 
 <p>Extorsion. = <foreign lang=ceb>Pagágao, pagcóha sa linogsánay sa bisan onsa. &ast; Bisan onsang cadáot.</foreign>
 
@@ -18122,7 +18139,7 @@
 
 <p>Fierro. = <foreign lang=ceb>Pothao.</foreign>
 
-<p>Fiesta. = <foreign lang=ceb>Himáya, paghimáya, dola, calin&gtilde;áoan. &ast; V. <hi>Festividad</hi> hasta <hi>pagcatístis</hi>.</foreign>
+<p>Fiesta. = <foreign lang=ceb>Himáya, paghimáya, dola, calin&gtilde;áoan.</foreign> &ast; V. <hi>Festividad</hi> hasta <hi lang=ceb>pagcatístis</hi>.
 
 <p>Figon. = <foreign lang=ceb>Baláy n&gtilde;a pagabohátan ug pagabaligyáan sa m&gtilde;a guinisál ug sa obán n&gtilde;a m&gtilde;a sod-an ug man&gtilde;a calán-on.</foreign>
 
@@ -18248,9 +18265,11 @@
 
 <p>Finito. = <foreign lang=ceb>Ang matápos, ang may catapósan, ang may cocotóban.</foreign>
 
-<p>Fino. = <foreign lang=ceb>Pino, manípis, magamáy, magágmay. &ast; Táuo sa maáyong pagcabótang sa iang laoas, an&gtilde;áyan, sa maáyong báihon, sa mahósay n&gtilde;a batásan ug cagaoían, n&gtilde;a maálam magatóbang sa isigcatáuo, ug mamólong sa m&gtilde;a piníling polong, abi abíhon. &ast; V. <hi>Amoroso</hi> y <hi>Constante</hi>. &ast; Malalán&gtilde;on. &ast; Ang magabóhat sa bisan onsa sa pagcaáyo sa pagcaníndot.</foreign>
+<p>Fino. = <foreign lang=ceb>Pino, manípis, magamáy, magágmay. &ast; Táuo sa maáyong pagcabótang sa iang laoas, an&gtilde;áyan, sa maáyong báihon, sa mahósay n&gtilde;a batásan ug cagaoían, n&gtilde;a maálam magatóbang sa isigcatáuo, ug mamólong sa m&gtilde;a piníling polong, abi abíhon.</foreign> &ast; V. <hi>Amoroso</hi> y <hi>Constante</hi>. &ast; <foreign lang=ceb>Malalán&gtilde;on. &ast; Ang magabóhat sa bisan onsa sa pagcaáyo sa pagcaníndot.</foreign>
 
-<p>Finura. = <foreign lang=ceb>Pagcaáyo, pagcaníndot sa bisan onsa, pagcanípis, pagcagamáy[**P3 no accent on first a - rather speck].</foreign>
+<p>Finura. = <foreign lang=ceb>Pagcaáyo, pagcaníndot sa bisan onsa, pagcanípis, pagcagamáy.</foreign>
+
+<!-- TODO v. lang tagging -->
 
 <p>Firma. = <foreign lang=ceb>Pirma, ang n&gtilde;alan ug ang icadóhang n&gtilde;alan, ug apil opód ang rúbrica, n&gtilde;a ibótang ug isólat sa bisan cansang táuo sa catapósan sa man&gtilde;a solat.</foreign>
 
@@ -20083,7 +20102,7 @@
 
 <p>Gordiflon. = <foreign lang=ceb>Ang matámboc caáyo apan sa mahómoc n&gtilde;a onód.</foreign>
 
-<p>Gordo. = <foreign lang=ceb>Matámboc, sopang, sa dagcóng hosog, dagcó. &ast; Bisan onsa n&gtilde;a may daghan a&gtilde;a manteca con tamboc. &ast; Ang dagcóan oyámot ug n&gtilde;a nagalabí ug milabáo sa obán n&gtilde;a isigcaín&gtilde;on. &ast; Táuo n&gtilde;a arunáhan, salapían. &ast; Ang manteca, tamboc con sebo sa m&gtilde;a mananáp.</foreign>
+<p>Gordo. = <foreign lang=ceb>Matámboc, sopang, sa dagcóng hosog, dagcó. &ast; Bisan onsa n&gtilde;a may daghan a&gtilde;a[**n&gtilde;a] manteca con tamboc. &ast; Ang dagcóan oyámot ug n&gtilde;a nagalabí ug milabáo sa obán n&gtilde;a isigcaín&gtilde;on. &ast; Táuo n&gtilde;a arunáhan, salapían. &ast; Ang manteca, tamboc con sebo sa m&gtilde;a mananáp.</foreign>
 
 <p>Gordolobo. = <foreign lang=ceb>Tanóm n&gtilde;a italámbal.</foreign>
 
@@ -25198,7 +25217,7 @@
 
 <p>Jurisconsulto. = <foreign lang=ceb>Quinaarmánon sa m&gtilde;a batásan, sa m&gtilde;a leyes.</foreign>
 
-<p>Jurisdiccion. = <foreign lang=ceb>Gahóm aa[**sa] pagbóot ug pagsógo. &ast; Yota n&gtilde;a hingsácpan sa m&gtilde;a provincia con m&gtilde;a longsod, ug sa gahóm sa m&gtilde;a hocom.</foreign>
+<p>Jurisdiccion. = <foreign lang=ceb>Gahóm sa pagbóot ug pagsógo. &ast; Yota n&gtilde;a hingsácpan sa m&gtilde;a provincia con m&gtilde;a longsod, ug sa gahóm sa m&gtilde;a hocom.</foreign>
 
 <p>Jurisdiccional. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa gahóm.</foreign>
 
@@ -29529,7 +29548,7 @@
 
 <p>Mollear. = <foreign lang=ceb>Pagbóyoc sa bisan onsa ton&gtilde;ód sa pagcahómoc nia.</foreign>
 
-<p>Molledo. = <foreign lang=ceb>Ang bahin n&gtilde;a ondan ug malín&gtilde;in sa laoas, sa m&gtilde;a paa, sa m&gtilde;a bocton, &amp;c. &ast; Ang bahin n&gtilde;a mahómoc aa[**sa] tinápay, sa ilálom sa panit.</foreign>
+<p>Molledo. = <foreign lang=ceb>Ang bahin n&gtilde;a ondan ug malín&gtilde;in sa laoas, sa m&gtilde;a paa, sa m&gtilde;a bocton, &amp;c. &ast; Ang bahin n&gtilde;a mahómoc sa tinápay, sa ilálom sa panit.</foreign>
 
 <p>Molleja. = <foreign lang=ceb>Baticólon.</foreign>
 
@@ -32357,7 +32376,7 @@
 
 <p>Pagadero. = <foreign lang=ceb>Baláyron sa túig, sa tiempo n&gtilde;a guitagál. &ast; Ang masáyon baydan. &ast; Túig, tiempo, adlao n&gtilde;a guinatagál sa pagbáyar sa bisan onsa.</foreign>
 
-<p>Pagado. = <foreign lang=ceb>Táuo sa mahúsay n&gtilde;a boot. &ast; V. <hi>Afable</hi>. &ast; Palábi labíhon maandácon.</foreign>
+<p>Pagado. = <foreign lang=ceb>Táuo sa mahúsay n&gtilde;a boot.</foreign> &ast; V. <hi>Afable</hi>. &ast; <foreign lang=ceb>Palábi labíhon maandácon.</foreign>
 
 <p>Pagador. = <foreign lang=ceb>Ang magabáyar, ang magasóhol.</foreign>
 
@@ -36469,7 +36488,7 @@
 
 <p>Porcipelo. = <foreign lang=ceb>Ang balahíbo n&gtilde;a malíg-on sa baboy.</foreign>
 
-<p>Porciúncula. = <foreign lang=ceb>Pagtógot sa pagpasáilo sa m&gtilde;a salá n&gtilde;a macúha sa m&gtilde;a Singbahán ni S. Francisco, sa icadúha ca arlao[**adlao?] sa Agosto.</foreign>
+<p>Porciúncula. = <foreign lang=ceb>Pagtógot sa pagpasáilo sa m&gtilde;a salá n&gtilde;a macúha sa m&gtilde;a Singbahán ni S. Francisco, sa icadúha ca <corr sic=arlao>adlao</corr> sa Agosto.</foreign>
 
 <p>Porcuno. = <foreign lang=ceb>Ang an&gtilde;ay ug ang nahaton&gtilde;ód ca baboy.</foreign>
 
@@ -50075,7 +50094,7 @@
 
 <p>Trapicio. = <foreign lang=ceb>Camaáyo n&gtilde;a obos.</foreign>
 
-<p>Trappillo[**Trapillo? and order] (de). = <foreign lang=ceb>Sa bisti aa[**sa] matagádlao, sa oaláy dayan dayan ug cuti cuti.</foreign>
+<p>Trappillo[**Trapillo? and order] (de). = <foreign lang=ceb>Sa bisti sa matagádlao, sa oaláy dayan dayan ug cuti cuti.</foreign>
 
 <p>Trapiche. = <foreign lang=ceb>Máquina sa pagpíga sa tobó n&gtilde;a icabúhat sa asúcar.</foreign>
 
@@ -50107,7 +50126,7 @@
 
 <p>Trascabo. V. <hi>Traspié</hi>.
 
-<p>Trascanton. = <foreign lang=ceb>Ang bató n&gtilde;a dagcó n&gtilde;a ipadápat sa m&gtilde;a esquina arón díli onta man&gtilde;adáot. &ast; Táuo n&gtilde;a andam aa[**sa] pagbála sa ipabála onta canía.</foreign>
+<p>Trascanton. = <foreign lang=ceb>Ang bató n&gtilde;a dagcó n&gtilde;a ipadápat sa m&gtilde;a esquina arón díli onta man&gtilde;adáot. &ast; Táuo n&gtilde;a andam sa pagbála sa ipabála onta canía.</foreign>
 
 <p>Trascartarse. = <foreign lang=ceb>Pagoláhi sa dahon sa baraja n&gtilde;a guipacaín&gtilde;on n&gtilde;a moóna onta.</foreign>
 
