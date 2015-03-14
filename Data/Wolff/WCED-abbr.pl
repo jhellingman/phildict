@@ -12,6 +12,11 @@ while (<>)
 sub handleAbbreviations($)
 {
     my $remainder = shift;
+
+    # Recognize @-tagged translations first
+    $remainder =~ s/[@]([A-Za-z-]+)/<tr>\1<\/tr>/sg;
+    $remainder =~ s/[@]\{([^}]*)\}/<tr>\1<\/tr>/sg;
+
     my $result = "";
     while ($remainder =~ /\{(.*?)\|(.*?)\}/)
     {
@@ -37,10 +42,6 @@ sub handleAbbreviations($)
     }
 
     $result .= $remainder;
-
-    # Recognize @-tagged translations
-    $result =~ s/[@]([A-Za-z-]+)/<tr>\1<\/tr>/sg;
-    $result =~ s/[@]{([^}]*)}/<tr>\1<\/tr>/sg;
 
     return $result;
 }

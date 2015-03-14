@@ -1,0 +1,24 @@
+
+Wolff's Cebuano Dictionary Available...
+
+<p>After about four years of proof-reading at <a href="http://www.pgdp.net/c/">Distributed Proofreaders</a>, the digital edition of John U. Wolff's <i>Dictionary of Cebuano Visayan</i>
+is now nearing completion. This dictionary of over 1200 pages was first published in 1972, and is one of the most comprehensive Cebuano dictionaries available. For two years, an experimental interface to the raw dictionary data has been available on this site, but today we
+are ready to show a new interface to the fully checked and tagged text version of this dictionary.
+
+<p>John Wolff spend about 10 years producing this dictionary from scratch. With a team of local assistants, he collected words from actual spoken conversations and print publications 
+in the old-fashioned way: using cards to note down each word and its usage. This, way, the dictionary reflects the language as it was in the sixties. Some of it strengths for foreign learners are
+that it includes sample sentences with most entries, uses accents to help with the correct pronunciation, and identifies plants and animals with their scientific names.
+
+<p>For Cebuano speakers, some aspects of this dictionary may make it a little bit harder to use. First of all, the orthography will take some time to get used to, as Wolff resolutely purged the
+<i>e</i> and <i>o</i> from the alphabet, using <i>i</i> and <i>u</i>, respectively, in their place. Second, many of the translations, especially those of the sample sentences, the author uses American idiom in an attempt 
+not only to translate the literal meaning, but also the connotation of the usage. Reading those will actually also help you improve your English!
+
+<p>Finally, this dictionary also indicates, through a system of codes, the various possible uses of verbs. This system, however, requires a careful reading of the introduction of the dictionary.
+
+<p>This project wouldn't have been possible without the help of countless volunteers proofreading the data, and, even more important the huge effort John Wolff put into compiling this work, and the 
+generosity of his publisher to place this work in the public domain.
+
+<p>All raw data and scripts used to produce this dictionary are available from <a href="https://code.google.com/p/phildict/source/browse/#svn%2Ftrunk%2FData%2FWolff">Google Code</a>.
+
+<p>You are now all invited to play around with the <a href="http://www.bohol.ph/wced.php">interface here</a>, use it as you think it is useful, and tell us about your experiences in the comments below this article. 
+All your ideas and criticism are welcome.

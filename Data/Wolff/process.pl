@@ -2,8 +2,9 @@
 
 use strict;
 
-my $xsldir  = "C:\\Users\\Jeroen\\Documents\\eLibrary\\Tools\\tei2html";  # location of xsl stylesheets
-my $saxon   = "\"C:\\Program Files\\Java\\jre6\\bin\\java.exe\" -jar C:\\bin\\saxonhe9\\saxon9he.jar "; # (see http://saxon.sourceforge.net/)
+my $xsldir  = "../../../../eLibrary/Tools/tei2html";             # location of xsl stylesheets
+my $jardir  = "../../../../eLibrary/Tools/tei2html/tools/lib";
+my $saxon   = "java -jar $jardir/saxon9he.jar ";        # (see http://saxon.sourceforge.net/)
 
 my $letter = $ARGV[0];
 
@@ -75,11 +76,12 @@ sub processLetter
     system ("$saxon structural/$letter.xml WCED-db.xsl > SQL/$letter.sql");
     # system ("perl toEntities.pl SQL/$letter.sql > SQL/$letter-ent.sql");
 
-    # Add to database:
+    # Create database if needed
     if (!-e "SQL/dictionary_database") 
     {
         system ("sqlite3 SQL/dictionary_database < SQL/structure-sqlite.sql");
     }
+    # Add to database:
     system ("sqlite3 SQL/dictionary_database < SQL/$letter.sql");
 
     # system ("mv SQL/WCED_head.sql SQL/WCED_head-$letter.sql");

@@ -74,9 +74,9 @@ sub handleEntry($)
     # Recognize proofreader's notes
     $entry =~ s/\[\*\*(.*?)\]/<note>\1<\/note>/sg;
 
-    # Recognize @-tagged translations
+    # Recognize @-tagged translations (single word "@abc" and multi word "@{...}")
     $entry =~ s/[@]([A-Za-z-]+)/<tr>\1<\/tr>/sg;
-    $entry =~ s/[@]{([^}]*)}/<tr>\1<\/tr>/sg;
+    $entry =~ s/[@]\{([^}]*)\}/<tr>\1<\/tr>/sg;
 
 
     # Recognize cross references

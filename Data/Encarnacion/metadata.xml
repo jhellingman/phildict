@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Diccionario Español-Bisaya</dc:title>
+      <dc:creator>Juan Fèlis de la Encarnacion</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., #####</dc:publisher>
+      <dc:date>#####</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+</dc:rights>
+   </rdf:Description>
+</rdf:RDF>
