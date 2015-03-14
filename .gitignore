@@ -1,0 +1,13 @@
+*.err
+Data/Wolff/SQL/
+*.jeebies
+*.gutcheck
+Data/schema.sql
+Data/Calderon/sgml2win.pat
+*.epub
+Data/Calderon/Gutenberg/EST.html
+Data/Encarnacion/EspanolBisaya-kwic.html
+Data/Encarnacion/EspanolBisaya.html
+Data/Encarnacion/EspanolBisaya.txt
+Data/Encarnacion/EspanolBisaya.xml
+Site/
