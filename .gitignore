@@ -5,7 +5,6 @@ Data/Wolff/SQL/
 Data/schema.sql
 Data/Calderon/sgml2win.pat
 *.epub
-Data/Calderon/Gutenberg/EST.html
 Data/Encarnacion/EspanolBisaya-kwic.html
 Data/Encarnacion/EspanolBisaya.html
 Data/Encarnacion/EspanolBisaya.txt
@@ -36,3 +35,8 @@ Data/Kaufmann/KVED.html
 Data/Kaufmann/KVED.tei
 Data/Kaufmann/KVED.txt
 Data/Kaufmann/entry.sql
+Data/Calderon/epub/
+Data/Calderon/EST.tei
+Data/Calderon/EST.xml
+Data/Calderon/EST-content.tei
+Data/Calderon/EST-normalized.xml
