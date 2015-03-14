@@ -1,0 +1,45 @@
+CHECKLIST:
+
+Step one
+
+[ ] Run pgpp.pl
+[ ] Fix page-breaks
+[ ] Fix hi tags (back to i tags)
+[ ] Insert p tags
+[ ] Run catpars.pl
+
+Step two
+
+[ ] tag pos: n v
+[ ] tag pos: a
+[ ] tag sense numbers (split of from b tags, look for /<b>word [0-9]</b>/ case 
+        PATTERN: <b>[a-zבםתאלש ();&-]+ [0-9]
+[ ] verify 'real' italics (not samples), look for /[a-z] italics>/ case
+        PATTERN: <i>[a-zבםתאלש][a-zבםתאלש]+</i>
+[ ] verify meaning numbers followed by sub-head-word or phrase <b>[0-9] word</b> case
+        PATTERN: [0-9][a-f]? [a-zבםתאלש][a-zבםתאלש]+
+
+[ ] italics and bolds midword.  E.g. A<i>ng</i>
+        PATTERN: [a-zבםתאלש]<i>[a-zבםתאלש]
+[ ] remove redundant tags near commas.
+        PATTERN: 
+[ ] handle sup tags
+[ ] verify starred entries (sub-entry immediately after headword)
+[ ] handle [**proofer notes]
+[ ] handle quotes. look for " '", etc.
+[ ] Renumber pages.
+
+[ ] Nested meanings: </number> <form>
+
+
+Step three
+
+Iterate:
+    [ ] Run WCED-uptag1.pl
+    [ ] Run uptag.pl
+    [ ] Verify output for anomalies and fix in source
+
+Step four
+
+[ ] Run WCED-uptag1.pl
+[ ] Integrate result into WCED-body-0.3

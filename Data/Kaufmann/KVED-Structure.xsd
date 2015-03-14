@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!--Created with Liquid XML Studio 6.1.18.0 - FREE Community Edition (http://www.liquid-technologies.com)-->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dictionary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="div1" type="div1Type" />
+      </xs:sequence>
+      <xs:attribute name="lang" type="xs:string" use="optional" />
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="div1Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="head" type="xs:string" />
+      <xs:element minOccurs="0" name="col">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" maxOccurs="unbounded" name="div2" type="div2Type" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="div2Type">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="head" type="xs:string" />
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="entry" type="entryType" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="entryType" mixed="true">
+    <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
+        <xs:element minOccurs="0" name="hw">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="s">
+                <xs:complexType mixed="true">
+                  <xs:sequence minOccurs="0">
+                    <xs:element minOccurs="0" name="xref" type="xs:string" />
+                  </xs:sequence>
+                  <xs:attribute name="lang" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="etym">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="s">
+                <xs:complexType mixed="true">
+                  <xs:sequence minOccurs="0">
+                    <xs:element minOccurs="0" name="xref" type="xs:string" />
+                  </xs:sequence>
+                  <xs:attribute name="lang" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="cf">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="s">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element minOccurs="0" maxOccurs="unbounded" name="xref" type="xs:string" />
+                        </xs:sequence>
+                        <xs:attribute name="lang" type="xs:string" use="optional" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="s">
+          <xs:complexType mixed="true">
+            <xs:sequence minOccurs="0">
+              <xs:choice maxOccurs="unbounded">
+                <xs:element minOccurs="0" name="sic" type="xs:string" />
+                <xs:element minOccurs="0" name="pb">
+                  <xs:complexType>
+                    <xs:attribute name="n" type="xs:string" use="optional" />
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" maxOccurs="unbounded" name="xref" type="xs:string" />
+              </xs:choice>
+            </xs:sequence>
+            <xs:attribute name="lang" type="xs:string" use="optional" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="p">
+          <xs:complexType mixed="true">
+            <xs:sequence minOccurs="0">
+              <xs:choice maxOccurs="unbounded">
+                <xs:element minOccurs="0" maxOccurs="unbounded" name="s">
+                  <xs:complexType mixed="true">
+                    <xs:sequence minOccurs="0">
+                      <xs:element minOccurs="0" name="pb">
+                        <xs:complexType>
+                          <xs:attribute name="n" type="xs:string" use="optional" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element minOccurs="0" maxOccurs="unbounded" name="xref" type="xs:string" />
+                    </xs:sequence>
+                    <xs:attribute name="lang" type="xs:string" use="optional" />
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" maxOccurs="unbounded" name="cf">
+                  <xs:complexType mixed="true">
+                    <xs:sequence>
+                      <xs:element minOccurs="0" name="s">
+                        <xs:complexType mixed="true">
+                          <xs:sequence>
+                            <xs:element minOccurs="0" maxOccurs="unbounded" name="xref" type="xs:string" />
+                          </xs:sequence>
+                          <xs:attribute name="lang" type="xs:string" use="optional" />
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" name="pb">
+                  <xs:complexType>
+                    <xs:attribute name="n" type="xs:string" use="optional" />
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="cf">
+          <xs:complexType mixed="true">
+            <xs:sequence minOccurs="0">
+              <xs:choice maxOccurs="unbounded">
+                <xs:element minOccurs="0" name="pb">
+                  <xs:complexType>
+                    <xs:attribute name="n" type="xs:string" use="optional" />
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" maxOccurs="unbounded" name="s">
+                  <xs:complexType mixed="true">
+                    <xs:sequence minOccurs="0">
+                      <xs:choice maxOccurs="unbounded">
+                        <xs:element minOccurs="0" maxOccurs="unbounded" name="xref">
+                          <xs:complexType mixed="true">
+                            <xs:sequence minOccurs="0">
+                              <xs:element minOccurs="0" name="sic" type="xs:string" />
+                            </xs:sequence>
+                          </xs:complexType>
+                        </xs:element>
+                        <xs:element minOccurs="0" name="pb">
+                          <xs:complexType>
+                            <xs:attribute name="n" type="xs:string" use="optional" />
+                          </xs:complexType>
+                        </xs:element>
+                      </xs:choice>
+                    </xs:sequence>
+                    <xs:attribute name="lang" type="xs:string" use="optional" />
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" name="etym">
+                  <xs:complexType mixed="true">
+                    <xs:sequence>
+                      <xs:element minOccurs="0" name="s">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="lang" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="pb">
+          <xs:complexType>
+            <xs:attribute name="n" type="xs:string" use="optional" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="b">
+          <xs:complexType mixed="true">
+            <xs:sequence>
+              <xs:element minOccurs="0" name="s">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="lang" type="xs:string" use="optional" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="sic" type="xs:string" />
+        <xs:element minOccurs="0" name="abbr">
+          <xs:complexType>
+            <xs:simpleContent>
+              <xs:extension base="xs:string">
+                <xs:attribute name="expan" type="xs:string" use="optional" />
+              </xs:extension>
+            </xs:simpleContent>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="i">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="s">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="lang" type="xs:string" use="optional" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

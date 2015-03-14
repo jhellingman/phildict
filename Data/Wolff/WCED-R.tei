@@ -1,0 +1,781 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY larr       CDATA "&#x2190;"            -- leftwards arrow -->
+<!ENTITY rarr       CDATA "&#x2192;"            -- rightwards arrow -->
+<!ENTITY glots      CDATA "&#x0294;"            -- glottal stop -->
+
+<!ENTITY amacr      CDATA "&#x0101;"            -- a with macron -->
+<!ENTITY imacr      CDATA "&#x012B;"            -- i with macron -->
+<!ENTITY umacr      CDATA "&#x016B;"            -- u with macron -->
+
+<!ENTITY Acaron     CDATA "&#x01CD;"            -- A with caron -->
+<!ENTITY acaron     CDATA "&#x01CE;"            -- a with caron -->
+<!ENTITY Icaron     CDATA "&#x01CF;"            -- I with caron -->
+<!ENTITY icaron     CDATA "&#x01D0;"            -- i with caron -->
+<!ENTITY Ucaron     CDATA "&#x01D3;"            -- U with caron -->
+<!ENTITY ucaron     CDATA "&#x01D4;"            -- u with caron -->
+
+<!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"    -- a with macron and grave -->
+<!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"    -- i with macron and grave -->
+<!ENTITY umacrgra   CDATA "&#x016B;&#x0300;"    -- u with macron and grave -->
+
+<!ENTITY amacracu   CDATA "&#x0101;&#x0301;"    -- a with macron and acute -->
+<!ENTITY imacracu   CDATA "&#x012B;&#x0301;"    -- i with macron and acute -->
+<!ENTITY umacracu   CDATA "&#x016B;&#x0301;"    -- u with macron and acute -->
+
+<!ENTITY amacrcir   CDATA "&#x0101;&#x0302;"  -- a with macron and circumflex -->
+<!ENTITY imacrcir   CDATA "&#x012B;&#x0302;"  -- i with macron and circumflex -->
+<!ENTITY umacrcir   CDATA "&#x016B;&#x0302;"  -- u with macron and circumflex -->
+
+<!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+<!ENTITY N          CDATA "N"                   -- N symbol (as used in this dictionary) -->
+
+<!ENTITY prime      CDATA "'"            -- prime -->
+<!ENTITY Prime      CDATA "''"            -- double prime -->
+
+
+]>
+<TEI.2 lang=en>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A Dictionary of Cebuano Visayan</title>
+            <author>John U. Wolff</author>
+        </titleStmt>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language id=en>English</language>
+            <language id=en-US>English (United States)</language>
+            <language id=ceb>Cebuano</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+<text>
+<body>
+<pb n=819>
+<div1 type=Letter id=letter.r n=R>
+<head>R</head>
+
+
+<p id=15309><form>ra</form> particle following the first word of a predicate. <number>1</number> <tr>only</tr> [predicate] and nothing else. <i>Si Pidru ra ang mitábang nákù,</i> Pedro was the only one that helped me. <i>Mau ray ákung gianhi,</i> That is all I came to get. <i>Ginúu ray mahibalu ug unsáun nà,</i> Only the Lord knows what to do with that. <number>1a</number> [so-and-so] did it himself. <i>Siya ray nag-unay sa íyang anak,</i> He raped his own daughter. <number>1b</number> <formx><r>[<ix>preposed gen. pronoun</ix>]</r> {&mdash;|ra}</formx> it is all my, your, his, our, etc. very <tr>own</tr>. <i>Ang mais, ímu ra pud diayng abut?</i> Oh, is the corn your own product, too? <number>1b1</number> <formx>íya {&mdash;|ra}</formx> may this bad thing happen only to him (phrase to ward off the possibility that the bad thing may happen to s.o. else). <i>Ag íyang úlu, íya ra, maáyung pagkapusà,</i> He got his head completely smashed&mdash;may it only happen to him. <number>1c</number> <formx>{&mdash;|ra} hinúun</formx> <number>1c1</number> it&apos;s <tr>merely</tr>, <tr>only</tr>. <i>Sitinta ra hinúun ning íyang ámut apan makatábang ug tapal sa galastúhan,</i> He only contributed seventy, but it can help cover the expenses. <number>1c2</number> oh, it&apos;s nothing (said in modesty or sarcastically about s.t. impressive). <i>Rulsruys ra hinúun ang íyang awtu,</i> His car is only a Rolls Royce. <number>2</number> <tr>exactly</tr> [so-and-so]. <number>2a</number> with measurements: [so-and-so much] and no more. <i>Tulu ray makaadtu,</i> Only three people can go. <number>2a1</number> with words referring to fitness, sufficiency, preciseness: just exactly <tr>right</tr>, fitting, etc. <i>Hustu ra ning tulu,</i> Three is just the right number. <i>Paríha ra ang duha,</i> The two are <tr>exactly</tr> alike. <i>Mahímù ra nang gidak-úna,</i> That size will do perfectly. <number>2b</number> <ix>with words referring to location:</ix> it is right here, there. <i>Día ra ku,</i> I&apos;m over here. <i>Náa ra sa ímung atubángan,</i> There it is, right under your nose. <number>2b1</number> no <tr>further</tr> than [such-and-such a place]. <i>Anhi ra kútub ang dálan,</i> The road doesn&apos;t go any further than this. <i>Didtu ra mi manáug,</i> We got off there and went no further. <number>2b2</number> <formx>anáa {&mdash;|ra} <r>[<ix>dat.</ix>]</r></formx> it is <tr>up to</tr> [so-and-so]. <i>Náa ra níya ug mupalit ba siya,</i> It is up to him if he wants to buy. <i>Náa ra nímug mupadáyun ka,</i> It&apos;s entirely up to you if you will continue. <number>2c</number> <formx>mau {&mdash;|ra} ug, nga</formx> just exactly like, as if. <xr><ix>see</ix> <sc>mau</sc>, <i>3, 4.</i></xr> <number>2d</number> <formx>maáyu {&mdash;|ra}</formx> it would be just the right thing. <i>Maáyu rag mamatay siya,</i> It would serve him right if he died. <i>Maáyu rang napildi siya,</i> Serves him right that he lost. <xr>(<ix>see also</ix> <bx>3c</bx> <ix>and</ix> <bx>4d</bx>.)</xr> <number>3</number> [so-and-so] is certain to happen. <i>Muanhi ra nà,</i> He&apos;ll come, don&apos;t worry. <i>May adlaw rang gabáan ka,</i> The day will come when you get yours. <i>Magkítà ra tag usab,</i> We&apos;ll <tr>surely</tr> see each other again. <number>3a</number> <formx>{&mdash;|ra} gayud</formx> [so-and-so] will, did finally happen, <tr>despite everything</tr>. <i>Nakatápus ra giyud ku,</i> I finished, despite everything. <i>Gimahalan ra giyud mi sa tambal,</i> Much as we needed it, we found the medicine too expensive. <number>3b</number> <formx>bantug {&mdash;|ra}</formx> <tr>no wonder</tr>. <i>Bantug rang nagdalì. Mamisíta diay siya,</i> No wonder he was in such a rush. He wants to visit s.o. <number>3b1</number> <formx>kanyáhay {&mdash;|ra}</formx> <tr>no wonder</tr> [such-and-such] a thing always happens. <i>Kanyáhay rang dì padúul nang batáa nímu, kay hingúsì ka,</i> No wonder that child won&apos;t let you get near him. You keep pinching him. <number>3c</number> <formx>maáyu {&mdash;|ra}</formx> some day it will be good for s.t. <i>Ayg ilábay kay maáyu ra unyà nà,</i> Don&apos;t throw it away because someday it will be of some use. <number>4</number> <formx><r>[<ix>adj.</ix>]</r> {&mdash;|ra}</formx> <number>4a</number> <tr>too</tr> or more [adj.] than satisfactory. <i>Ang sapátus dakù ra kaáyu pára nákù,</i> The shoes are too big for me. <number>4b</number> <ix>with adjectives indicating the smaller, the easier, cheaper, lesser of two opposites:</ix> only a (small, light, short) very (easy, cheap, etc.). <i>Kanang Tuway gamay ra nang baryúha,</i> Toway is just a small barrio. <i>A, sayun ra kaáyu,</i> Oh, it&apos;s so easy. <number>4b1</number> <formx>{láin|láin ra}, lahì {&mdash;|ra}</formx> very much <tr>different</tr>. <i>Lahì ra ang ímung batásan kay sa ákù,</i> Your ways are very different from mine. <formx>subra {&mdash;|ra}</formx> much too much. <i>Subra ra ang ímung gihátag,</i> You gave much too much. <number>4b2</number> <formx>layù {&mdash;|ra}, walà {&mdash;|ra}</formx> very far <tr>behind</tr> in, not anywhere near as good as. <i>Ang inyung balay layù ra sa ámù,</i> Your house isn&apos;t anywhere near as nice as ours. <i>Walà ka ra sa kumingking itandì nákù,</i> You&apos;re nothing compared to me&mdash;not even up to my little finger. <number>4c</number> <formx>sámuk {&mdash;|ra}</formx> leave me be. (You&apos;re too much of a nuisance.) <i>Sámuk ra. Magtuun ku,</i> Leave me alone. I want to study. <number>4d</number> <formx>maáyu {&mdash;|ra}</formx> very <tr>nice</tr>. <i>Maáyu rang ipakung nang úlu mu sa bungbung,</i> How nice it would be to smash your head against the wall. <number>5</number> <ix>with imperatives:</ix> particle taking <pb n=820>the abruptness out of a command but definitely a command given to s.o. who doesn&apos;t have the right to refuse. <i>Ambi ra nang kutsilyu,</i> Let me have that knife. <number>5a</number> <formx>{&mdash;|ra} ugud</formx> <xr>= <sc>ra</sc>, <i>5,</i> but with slightly less curtness.</xr> <i>Kuháa ra gud ri,</i> Would you come get this, please. <number>5b</number> <formx>tan-áwa {&mdash;|ra}, {&mdash;|ra} gud</formx> can you beat that! <i>Tan-áwa ra, siyay nangúna siya pay nangísug,</i> Take a look at that! He started it and now he gets mad! <number>5c</number> <formx>{&mdash;|ra} gánì</formx> go on now and do [so-and-so]. <i>Lakaw ra ngánì kay dúru na nílang paábut,</i> Go on now. They have been waiting forever. <i>Ayaw ra gánì nag garùgarúa,</i> Stop jiggling that. You know you shouldn&apos;t. <number>6</number> <formx>yátì, yáwà, yátis {&mdash;|ra}</formx> I don&apos;t believe it. <i>Kadaug kas swipstik? Yátì ra!</i> You won the sweepstakes? I don&apos;t believe it. <number>6a</number> in accepting a challenge: I don&apos;t believe you dare challenge me! <i>Yátì ra! Makigsumbagay ka nàkù?</i> You mean to say you dare challenge me to a fight? <number>7</number> <formx>{&mdash;|ra} ba</formx> <number>7a</number> particle with a reason which is given as advice or warning. <i>Higúpa dáyun kay ínit pa ra ba,</i> Eat it right away because it&apos;s still warm. <i>Mangísug ra ba tug madúgay ka,</i> He will get angry if you take too long. <number>7b</number> ordinarily [so-and-so] would have been OK, but ... <i>Sus, nía na ang mga bisíta. Wà ra ba tay giandam,</i> My! The visitors have arrived and here we don&apos;t have anything to give them. <i>Dà, nag-uwan na hinúun. Wà ra ba kuy páyung,</i> Darn! It&apos;s raining, and I don&apos;t have an umbrella. <number>7c</number> particle with an apology. <i>Wà ra ba diri si Nánay,</i> I&apos;m <tr>sorry</tr>, Mom&apos;s not here.
+
+<p id=15310><form>rabana</form> <xr>= <sc>gwayabanu</sc>.</xr>
+
+<p id=15311><form>rabanit</form> <pos>a</pos> <number>1</number> in <tr>rags</tr>, <tr>tatters</tr>. <i>Kadtung bátà kanhi nga rabanit, karun maáyu na nga mamisti,</i> That child used to be in tatters, but now he dresses well. <number>2</number> <tr>poor</tr>, <tr>destitute</tr>. <i>Napútu mi, ug karun rabanit na,</i> We went bankrupt. And now we&apos;re destitute. <pos>v</pos> <itype>[B12]</itype> <number>1</number> be in rags. <number>2</number> be <tr>penniless</tr>. <form>{ka-|karabanit}</form> <pos>v</pos> <itype>[A13]</itype> be all in rags.
+
+<p id=15312><form>rabanus</form> <xr>= <sc>labanus</sc>.</xr>
+
+<p id=15313><form>rabatikung</form> <pos>n</pos> <tr>porridge</tr> of sticky rice and mung beans boiled with coconut milk and brown sugar. <pos>v</pos> <itype>[A; c1]</itype> make, have <ix>rabatikung</ix>.
+
+<p id=15314><form>*rábir</form> <form>{&mdash;|rábir} plant, {tri|rábir tri}</form> <pos>n</pos> <tr>rubber tree</tr> planted as an ornamental: <bio>Ficus elastica</bio>.
+
+<p id=15315><form>rábis</form> <pos>n</pos> <tr>rabies</tr>.
+
+<p id=15316><form>rábit</form> <pos>n</pos> <tr>rabbit</tr>.
+
+<p id=15317><form>rábuls</form> <pos>n</pos> breed of fighting <tr>cock</tr>.
+
+<p id=15318><form>rabunit</form> <pos>n</pos> k.o. <tr>grass</tr> grown potted, of two kinds: one with yellow and green leaves, the other with all green leaves.
+
+<p id=15319><form>radar, rádar</form> <pos>n</pos> <number>1</number> <tr>radar</tr>. <number>2</number> the <tr>ears</tr> or any way one has of picking up gossip or conversation. <i>Ngilngig kaáyug radar ni si Asay kay daghag tabì nga mahípus,</i> Asay has terrific radar when it comes to picking up gossip. <pos>v</pos> <itype>[A13; a12]</itype> do s.t. by radar.
+
+<p id=15320><form>radikal</form> <pos>a</pos> <tr>radical</tr>, one who wants to change the social structure radically, or for ideas to be radical. <pos>v</pos> <itype>[B12; b6]</itype> be, become radical or a radical.
+
+<p id=15321><form>rádis</form> <xr>= <sc>labanus</sc>.</xr>
+
+<p id=15322><form>radiyu</form> <pos>n</pos> <number>1</number> the <tr>radio</tr> business. <i>Usa ka mag-aawit sa radiyu,</i> A singer on the radio. <number>2</number> radio set. <pos>v</pos> <itype>[A; c]</itype> <tr>broadcast</tr> over the radio. <i>Giradiyu nga may bagyung umaábut,</i> They broadcast that a storm was approaching. <form>{&mdash;|radiyu} baktas</form> one who repeats idle talk. <form>{&mdash;|radiyu} balágun (kawáyan)</form> the <tr>grapevine</tr>, orally repeated news. <i>Sa panahun sa girilya ang ámung nutisya gíkan sa radiyu balágun (kawáyan),</i> During the war we got our news over the grapevine. <form>{-gram|radiyugram}</form> <pos>n</pos> <tr>radiogram</tr>. <form>{-púnu|radiyupúnu}</form> <pos>n</pos> <tr>radio-phono</tr>. <form>{<corr sic="-upirítur">&mdash; upirítur</corr>|radiyu upirítur}</form> <pos>n</pos> <tr>radio operator</tr>.
+
+<p id=15323><form>radya</form> <xr>= <sc>ráha<sub>1</sub></sc>.</xr>
+
+<p id=15324><form>radyaw</form> <xr>= <sc>áyu</sc> (dialectal&mdash;from <ix>dáyaw</ix>).</xr>
+
+<p id=15325><form>rágid</form> <pos>a</pos> <number>1</number> <tr>rugged</tr>, <tr>strong</tr> and <tr>robust</tr>. <i>Ang gustu níyang mabána kanang laláking rágid,</i> She wants a rugged man for a husband. <number>2</number> not polished, <tr>coarse</tr>. <number>3</number> <tr>ragged</tr>, <tr>shabby</tr>, <tr>worn-out</tr>. <pos>v</pos> <number>1</number> <itype>[B12]</itype> be, become rugged. <number>2</number> <itype>[A1B12]</itype> dress in old clothes. <i>Magrágid tag sinínà sa búkid,</i> We&apos;ll wear old clothes to the mountains. <i>Narágid na ang mga bátà nga walay inahan nga mag-atiman,</i> The children have become shabbily dressed because they lack a mother&apos;s care. <form>{ka-|karágid}</form> <pos>v</pos> <itype>[A13]</itype> be all shabby.
+
+<p id=15326><form>ráha<sub>1</sub></form> <pos>n</pos> the rajahs of pre-Spanish Filipinos.
+
+<p id=15327><form>ráha<sub>2</sub></form> <pos>n</pos> <tr>wood</tr> cut from freshly cut ipil-ipil (<ix>byatilis</ix>) or mangrove (<ix>bakhaw</ix>) trees, peeled and dried for firewood. <pos>v</pos> <itype>[A; a]</itype> cut and sell mangrove or ipil-ipil commercially.
+
+<p id=15328><form>rak-an rúl</form> <pos>n</pos> <tr>rock and roll</tr>. <pos>v</pos> <number>1</number> <itype>[A2C; c6]</itype> dance the rock and roll. <number>2</number> <itype>[A13]</itype> for the stomach to be rumbling from indigestion. <i>Nagrak-an rúl ang ákung tiyan tungud sa sagulságul nga pagkáun,</i> My stomach is doing the rock and roll from all the things I ate.
+
+<p id=15329><form>rak-in rúl</form> <xr>= <sc>rak-an rúl</sc>.</xr>
+
+<p id=15330><form>rákit<sub>1</sub></form> <pos>n</pos> <tr>racket</tr> for tennis, pingpong, and the like. <pos>v</pos> <itype>[A12; a12]</itype> have, make into a racket.
+
+<p id=15331><form>rákit<sub>2</sub></form> <pos>n</pos> <tr>rocket</tr> ships or bombs.
+
+<p id=15332><form>rákit<sub>3</sub></form> <pos>n</pos> <tr>racket</tr>, fraudulent means of obtaining money. <i>Rákit lang giyud nang kapunúngan. Pangwarta lang,</i> Their organization is just a racket to get money. <pos>v</pos> <itype>[c16]</itype> dishonestly take money entrusted to one. <i>Girákit lang ang ámung ámut,</i> The man just pocketed our contribution.
+
+<pb n=821>
+
+<p id=15333><form>rakrak</form> <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> fire bullets rapidly in bursts. <i>Balay nga girakrakan,</i> A house riddled with bullets. <number>2</number> in billiards, hit the target ball forcefully so as to scatter the balls that surround it with the hope that one or two of these balls will go into any of the holes. <pos>n</pos> bursts of rapid rifle fire.&dagger;
+
+<p id=15334><form>rám</form> <pos>n</pos> <tr>rum</tr>. <pos>v</pos> <itype>[A13; b6]</itype> have rum.
+
+<p id=15335><form>ráma</form> <pos>v</pos> <itype>[A; b]</itype> set flowers on a palm leaf as decorations. <i>Nagráma mig búwak sa kapilya,</i> We set some flowers on palm leaves in the chapel.
+
+<p id=15336><form>rambul<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>rumble</tr>, <tr>free-for-all</tr> fist fight. <number>2</number> in Jai-alai, betting on the first three players out of a series such that whatever order they are in, the bet wins&mdash;e.g. if one bets that players 3, 6, and <number>2</number> are the first, second, and third place, his bet wins as long as this is so, no matter which one was first, which was second, and which was third. <pos>v</pos> <itype>[A2C; a12]</itype> engage in a rumble. <i>Ang ílang punduk mauy mirambul sa nangharána,</i> It was their group which engaged the serenaders in a <tr>brawl</tr>. <i>Nagrambul ang magtiáyun,</i> The husband and wife had a brawl.
+
+<p id=15337><form>rambul<sub>2</sub></form> <pos>v</pos> <itype>[AC; c1]</itype> take a ride with s.o. on his bicycle or motorcycle. <i>Magrambul lang tas ímung bisiklíta,</i> Let us just ride double on your bicycle. <i>Irambul (rambúla) ning tutú ka bátà dihas ímung mutur,</i> Take these children on your motorcycle.
+
+<p id=15338><form>rami<sub>1</sub></form> <pos>n</pos> <tr>shrub</tr> cultivated for its fiber, which is made into blankets, cloth, and string. Rami cloth is coarse, but very sturdy: <bio>Boehmeria nivea</bio>.
+
+<p id=15339><form>rami<sub>2</sub>, rámi</form> <pos>n</pos> <number>1</number> game of <tr>rummy</tr>. <number>2</number> situation where one goes <tr>rummy</tr>. <pos>v</pos> <number>1</number> <itype>[AC2; ac3]</itype> play rummy. <number>2</number> <itype>[A2; ab2]</itype> go rummy.
+
+<p id=15340><form>rámids sil</form> <pos>n</pos> <tr>rummage sale</tr>. <pos>v</pos> <itype>[A1; c6]</itype> hold a rummage sale.
+
+<p id=15341><form>*ramus</form> <form>Duminggu {di-|diramus}</form> <pos>n</pos> Palm Sunday.
+
+<p id=15342><form>rán</form> <pos>n</pos> <tr>run</tr> in stockings or knitted fabrics. <pos>v</pos> <itype>[B26]</itype> develop a run. <i>Kausa pa gánì nákù masul-ub narán dáyun,</i> I only wore the stockings once and they got a run right away.
+
+<p id=15343><form>ran-abáwut</form> <pos>n</pos> an automobile with a rumble seat.
+
+<p id=15344><form>ranggu</form> <pos>n</pos> <number>1</number> <tr>rank</tr>. <number>2</number> high position in society, high standing, <tr>eminence</tr>. <i>Ang nanambung sa kasal púrus táwung may ranggu,</i> The wedding guests were all persons of rank. <pos>v</pos> <itype>[A13]</itype> have a rank of.
+
+<p id=15345><form>ráning</form> <pos>n</pos> <tr>running</tr>, a violation in basketball wherein a player takes more than two steps while the ball is in his hands. <pos>v</pos> <itype>[B1256]</itype> commit the running violation.
+
+<p id=15346><form>ráning burd</form> <pos>n</pos> <number>1</number> board laid along a bridge for vehicles to pass over. <number>2</number> boards put underneath a passenger bus running parallel to the chassis, one on either side, between the front and rear wheels, used for cargo. <number>2a</number> <tr>running board</tr> of cars.
+
+<p id=15347><form>ransiyu<sub>1</sub></form> <pos>a</pos> spoiled meat or cooked food. <pos>v</pos> <itype>[B2; b6]</itype> be, become <tr>rancid</tr>. <i>Muransiyu (maransiyu) ang karni kun dílì ipridyidir,</i> The meat will <tr>spoil</tr> if you don&apos;t put it in the frigidaire.
+
+<p id=15348><form>ransiyu<sub>2</sub></form> <xr>= <sc>ransu<sub>1</sub></sc>.</xr>
+
+<p id=15349><form>ransu<sub>1</sub></form> <pos>n</pos> <tr>ration</tr>, <tr>share</tr> of food given out. <i>Ang ransu sa mga nasunúgan,</i> The ration for the fire victims. <pos>v</pos> <number>1</number> <itype>[A2; a]</itype> give rations. <number>2</number> <itype>[A12]</itype> obtain a ration.
+
+<p id=15350><form>ransu<sub>2</sub></form> <pos>n</pos> <tr>ranch</tr>. <pos>v</pos> <itype>[A1; a2]</itype> have a ranch. <form>{ka-|karansu}</form> <pos>n</pos> <tr>associates</tr>, <tr>friends</tr> (slang). <i>Walay táwu nga manghilabut níya sa piyir kay pulus karansu níya ang mga buguy didtu,</i> No one will harm him at the waterfront because all the tough guys there are his friends.
+
+<p id=15351><form>rantsu</form> <xr>= <sc>ransu</sc>.</xr>
+
+<p id=15352><form>ranwi</form> <pos>n</pos> <tr>runway</tr> in an airport.
+
+<p id=15353><form>rapal</form> <xr>= <sc>arapal</sc>, <i>n</i>.</xr>
+
+<p id=15354><form>rapdrap</form> <pos>n</pos> <tr>rough draft</tr>. <pos>v</pos> <itype>[A1; c1]</itype> make a rough <tr>draft</tr>.
+
+<p id=15355><form>rapidu</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> fire a <tr>volley</tr>. <i>Rapiduha ninyu ang miláyas nga kriminal,</i> Fire a volley on the escaping criminal. <number>2</number> do s.t. in rapid succession, like the firing of a volley. <i>Nagrapidu siyag búnal niánang maldítung dakù,</i> She gave that naughty child a sound whipping. <i>Girapidu nílag káun ang inasal,</i> They consumed the roast pig with machine gun-like rapidity. <pos>a</pos> done machine gun-like. <i>Rapidung pagkasábà,</i> A scolding like the burst of a <tr>machine gun</tr>. <form>{di-|dirapidu}</form> <pos>n</pos> weapon that is capable of automatic fire.
+
+<p id=15356><form>rápir</form> <pos>n</pos> <tr>wrapper</tr> for manufactured goods or gifts.
+
+<p id=15357><form>rás</form> <pos>a</pos> rushing, doing s.t. hastily. <i>Kanúnay ka lang kabuk-an ug plátu kay rás ka man gud kaáyug líhuk,</i> You keep breaking plates because you work in such a <tr>rush</tr>. <pos>v</pos> <itype>[A; c6]</itype> do s.t. in a hasty, rushing way. <i>Kinsa ka gud nga murás ka man lang dáyun ug súd nga way pupananghid?</i> Who are you just to rush in without asking permission? <i>Ámung girás ang masakitun sa uspital,</i> We rushed the patient to the hospital.
+
+<p id=15358><form>rása</form> <pos>n</pos> <tr>breed</tr> of animals or fowl. <i>Unsang rasáha nang ímung sunuy?</i> What breed is your rooster? <form>{di-|dirása}</form> of a special breed, <tr>pedigreed</tr>.
+
+<p id=15359><form>rásak</form> <pos>n</pos> RASAC, acronym for a government organization: the Regional Anti-Smuggling Action Center.
+
+<p id=15360><form>rasiyun</form> <pos>n</pos> <number>1</number> <tr>allotment</tr> given out for subsistence. <number>2</number> one&apos;s <tr>share</tr> of s.t. rationed. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> <pb n=822>give out <tr>rations</tr>. <i>Girasyunan lang intáwun ang mga sundálu ug mais ug bulad,</i> The soldiers were being given corn grits and dried fish as their ration. <number>1a</number> <itype>[c]</itype> <tr>cater</tr> food on a regular basis. <i>Mahal, piru maáyu ang ílang irasiyun,</i> It&apos;s expensive, but the food they <tr>cater</tr> is good. <number>2</number> <itype>[A; a12]</itype> ration s.t. in short supply. <i>Rasyunan ang túbig sa tinghuwaw,</i> Water is rationed during droughts.
+
+<p id=15361><form>raspa<sub>1</sub></form> <pos>n</pos> scraping of the womb (<tr>dilation and curettage</tr>). <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> perform the <xr><sc>d</sc></xr> and <xr><sc>c</sc></xr> on s.o. <i>Raspahan ang babáying talinug-an,</i> A woman with excessive bleeding has to get a <xr><sc>d</sc></xr> and <xr><sc>c</sc>.</xr> <number>2</number> <tr>trim</tr> and thin the hair with a razor. <number>3</number> <tr>shred</tr> papayas or other things in a similar way. <form>raspahan, {-dur|raspadur}</form> <pos>n</pos> papaya <tr>shredder</tr>.
+
+<p id=15362><form>raspa<sub>2</sub></form> <xr>= <sc>laspa</sc>.</xr>
+
+<p id=15363><form>rasun</form> <pos>n</pos> <number>1</number> <tr>reason</tr> that s.t. happened. <i>Unsa may rasung mipalta ka?</i> What is the reason you were absent? <number>2</number> <tr>reasoning</tr>. <i>Ang íyang rasun walà makakumbins&icaron;r nákù,</i> His reasoning was not convincing to me. <pos>v</pos> <itype>[A2N; c6]</itype> give reasons why s.t. is or is not. <i>Ngánung murasun (mangrasun) ka pa man nga naabtan man ka?</i> Why do you keep trying to <tr>explain</tr>, when I caught you red-handed? <i>Mau tuy ákung girasun níya nga nasakit ka,</i> The excuse I gave to him was that you were sick. <form>{-abli|rasunabli}</form> <pos>a</pos> <number>1</number> <tr>reasonable</tr>. <i>Rasunabli ang íyang gibúhat kay maalkansi man tà tug wà,</i> What he did was <tr>reasonable</tr> because he would have lost money if he hadn&apos;t. <number>2</number> tending to give excuses, reasons why s.t. was or was not.
+
+<p id=15364><form>ratatat</form> <pos>n</pos> <number>1</number> rattling sound of a machine gun. <number>2</number> rattling off scoldings. <i>Ayg kan-a nang kík, ratatat ra ba kaáyu si Tiyà,</i> Better not eat that cake. Your aunt is great at reading lectures. <pos>v</pos> <number>1</number> <itype>[A2]</itype> for a machine gun to <tr>rattle</tr>. <number>2</number> <itype>[A13]</itype> scolding in a rattling way.
+
+<p id=15365><form>ratipikar</form> <pos>v</pos> <itype>[A; b(1)]</itype> <number>1</number> <tr>ratify</tr>. <number>2</number> approve an action after it has been carried out by a subordinate. <i>Núlu ang kuntrátung dílì ratipikahan sa manidy&icaron;r,</i> The contract is null and void if the manager doesn&apos;t ratify it.
+
+<p id=15366><form>ratsáda</form> <tr>everybody</tr> [do]. <i>Bugsay, ratsáda,</i> Everybody row. <i>Ratsáda, bira,</i> Everybody pull. <pos>v</pos> <number>1</number> <itype>[a3]</itype> be included in s.t. that is supposed to have happened to s.o. or s.t. else. <i>Naratsáda ku sa ákung ábin pagkapildi sa íyang manuk,</i> I lost the amount I put in on his bet when his cock lost. <i>Naratsáda núun ku sa kasábà bisag wà kuy salà,</i> I was scolded as well, even though I hadn&apos;t done anything. <i>Daghang mga way lábut ang nangaratsáda sa pinusílay,</i> A lot of innocent people got caught up in the crossfire. <number>2</number> <itype>[A; c1]</itype> win successively in a mahjong game. <i>Wà ka makaratsáda sa wà pa ka muílis sa ímung silya,</i> It was only when you moved to another chair that you started winning successively.
+
+<p id=15367><form>ratsar</form> <xr>= <sc>ratsáda</sc>, <i>v1, 2.</i></xr>
+
+<p id=15368><form>*rátu</form> <form>káda {&mdash;|rátu}</form> <tr>each time</tr> s.t. happens. <i>Káda rátu na lang kung gikasab-an bísag dílì ákung s&amacrgra;,</i> I&apos;m <tr>always</tr> scolded even if I&apos;m not at fault. <form>{&mdash;|rátu} ug</form> each time [so-and-so] is done. <i>Káda rátug ínum, mahubug giyud,</i> Each time he drinks, he gets drunk.
+
+<p id=15369><form>rauk</form> <pos>n</pos> money (slang). <i>Wà giyud kuy rauk,</i> I don&apos;t have a cent.
+
+<p id=15370><form>raw</form> <xr>= <sc>daw</sc>.</xr>
+
+<p id=15371><form>rawraw</form> <pos>v</pos> <itype>[A13]</itype> talk <tr>nonsense</tr>. <i>Sabà dihà! Nagrawraw ka man lang,</i> Shut up! You are just talking nonsense. <pos>n</pos> <tr>nonsense</tr>.
+
+<p id=15372><form>rawun, ráwun</form> <pos>n</pos> <number>1</number> <tr>round</tr> in sports. <i>Gipahaplà sa ikalimang ráwun,</i> The boxer was knocked down in the fifth round. <number>1a</number> round in mahjong in which all four players have had the deal. <number>1b</number> <formx>walay {&mdash;|ráwun}</formx> no chance of winning. <i>Wà giyud kay ráwun kun makig-áway kag buksidur,</i> You don&apos;t have a chance if you fight with a boxer. <number>2</number> one complete sexual act. <i>Nanghambug siyang makalima siya ka ráwun,</i> He boasted that he could do it five times. <number>3</number> a complete round of a circular course. <i>Duha ka ráwun ang ithandrid,</i> The 800-meter run is two rounds of the track. <pos>a</pos> <tr>good</tr> in many things. <i>Ráwun siya sa tanang sabdyik,</i> He is good in all his subjects. <pos>v</pos> <number>1</number> <itype>[A23]</itype> make a complete circuit around. <number>2</number> <itype>[A; a]</itype> make the rounds of. <i>Nagráwun ang mga bumbíru sa syudad,</i> The <corr sic=fireman>firemen</corr> are making regular <tr>rounds</tr> in the city. <i>Giráwun námù ang tanang nayit klab,</i> We made the rounds of the night clubs. <number>3</number> <itype>[B126]</itype> get to be good in many things. <form>{&mdash;|ráwun} rúbin</form> <pos>n</pos> <number>1</number> <tr>tournament</tr> done such that each contestant is paired off with every other contestant. <number>2</number> session practicing basketball in which every player has a chance to shoot in turn. <pos>v</pos> <itype>[A1; c]</itype> hold a <ix>rawun rúbin</ix> practice in basketball. <form>rawunrawun</form> <pos>v</pos> <number>1</number> <itype>[A; c6]</itype> keep going around and around. <i>Nagrawunrawun ang mga bátà líbut sa balay,</i> The children kept running around the house. <number>2</number> <itype>[A13; c6]</itype> go round for a walk, pleasure. <i>Mintras wà pay abri ang mga sinihan magrawunráwun lang únà ta sa syudad,</i> Let&apos;s <tr>walk</tr> around downtown until the movie houses open. <number>3</number> <itype>[A; c6]</itype> spend money going about. <i>Girawunráwun sa istudiyanti ang kwartang pangmatrikula,</i> The student squandered the money for tuition fees by gallivanting around.
+
+<p id=15373><form>*rawundir</form> <form>pur, payib, siks {&mdash;|rawundir}</form> boxing match of four, five, six (etc.) rounds.
+
+<p id=15374><form>ráya</form> <pos>n</pos> <number>1</number> long narrow band or streak. <number>2</number> game <pb n=823>of chance played by tossing coins on a surface marked with criss-crossing lines. Coins that land on the lines are given to the opponent. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> mark stripes. <i>Ang bandíra sa Amirika girayáhan ug putì ug pula,</i> The American flag has red and white stripes. <number>2</number> <itype>[AC; b(1)]</itype> play <ix>ráya</ix>. <form>{-du|ráyadu}, rinaháyan, nirayáhan</form> <pos>n</pos> having stripes.
+
+<p id=15375><form>rayadilyu</form> <pos>n</pos> a <tr>strip</tr> of ribbon sewn along the side seams of trousers, as in uniforms. <i>Pula ang rayadilyu sa unipurmi sa písi,</i> The <abbr expan="Philippine Constabulary">P.C.</abbr> have red stripes on their trousers. <pos>v</pos> <itype>[A; ac]</itype> attach, make a <tr>stripe</tr> on trousers.
+
+<p id=15376><form>rayban</form> <pos>n</pos> <tr>sunglasses</tr> (so called from the brand name). <pos>v</pos> <itype>[A13; b6(1)]</itype> wear sunglasses.
+
+<p id=15377><form>rayit han</form> <pos>n</pos> <tr>right-hand man</tr>. <i>Ang banggiítang kriminal ug ang íyang rayit han nadakpan na,</i> The notorious criminal and his right-hand man have already been arrested. <pos>v</pos> <itype>[B16; c16]</itype> be, become s.o.&apos;s right-hand man.
+
+<p id=15378><form>rayit huk</form> <pos>n</pos> right <tr>hook</tr> in boxing.
+
+<p id=15379><form>rayna</form> <pos>n</pos> <number>1</number> <tr>queen</tr>. <number>1a</number> <tr>beauty queen</tr>, woman reigning over a celebration. <number>2</number> woman that is foremost like a queen. <i>Si Glurya Sibilya mauy rayna sa pilikulang Binisayà,</i> Gloria Sevilla is the queen of the Visayan screen. <pos>v</pos> <itype>[B16; a12]</itype> be, become a queen; make into a queen. <form>{&mdash;|rayna} ilína</form> <pos>n</pos> the queen of the feast of the Holy Cross as practiced with a procession in Manila (<ix>Santa Krúsan</ix>). <pos>v</pos> <itype>[B6; c1]</itype> be made the Queen Elena. <form>{&mdash;|rayna} sa panimalay</form> <pos>n</pos> wife as the head of the family. <form>{&mdash;|rayna} sa kalibángan</form> <pos>n</pos> ugly woman (lit. queen of the toilet&mdash;humorous).
+
+<p id=15380><form>ráyu íkis, rayuiks</form> <pos>n</pos> <tr>x-ray</tr>. <form>{pa-|parayuiks}</form> <pos>v</pos> <itype>[A1]</itype> get an x-ray.
+
+<p id=15381><form>rayúma</form> <pos>n</pos> <tr>rheumatism</tr>. <pos>v</pos> <itype>[B126; a4]</itype> cause, become affected with rheumatism. <form>rayumahun</form> <pos>a</pos> suffer from rheumatism.
+
+<p id=15382><form>ráyus<sub>1</sub></form> <pos>n</pos> <tr>spokes</tr>.
+
+<p id=15383><form>ráyus<sub>2</sub></form> <pos>n</pos> a two-wheeled <tr>cart</tr> usually drawn by a water buffalo or ox. <pos>v</pos> <itype>[A13; a12]</itype> travel by cart.
+
+<p id=15384><form>ráyus íkis</form> <xr>= <sc>ráyu íkis</sc>.</xr>
+
+<p id=15385><form>ráyut</form> <pos>n</pos> <tr>riot</tr>, wild or violent <tr>disorder</tr>. <pos>v</pos> <itype>[A13; a12]</itype> riot. <i>Nagráyut ang mga pinirísu,</i> The prisoners are rioting. <i>Ug dílì sila makigdayalug rayútun nátù,</i> If they don&apos;t have a dialogue with us, we&apos;ll riot. <form>anti {&mdash;|ráyut} iskwad</form> <pos>n</pos> anti-riot squad. <form>{&mdash;|ráyut} gan</form> <pos>n</pos> <tr>riot gun</tr>.
+
+<p id=15386><form>Rdu.</form> abbreviation for <ix>Ribirindu</ix>, <tr>Reverend</tr>.
+
+<p id=15387><form>ri<sub>1</sub></form> <pos>n</pos> the note <tr>re</tr> in music. <form>{&mdash;|ri} minur</form> <pos>n</pos> d minor. <form>{&mdash;|ri} mayur</form> <pos>n</pos> d major.
+
+<p id=15388><form>ri<sub>2</sub></form> short for <ix>kiri</ix>.
+
+<p id=15389><form>riaksiyun</form> <pos>n</pos> <tr>reaction</tr>. <i>Nagkalainláin ang riaksiyun sa namínaw,</i> The audience responded with various reactions. <pos>v</pos> <itype>[A; b4]</itype> give s.o. a reaction. <i>Wà siya riaksiyuni sa tambal,</i> He was unaffected by the medicine.
+
+<p id=15390><form>riay</form> <xr>= <sc>diay</sc> (dialectal).</xr>
+
+<p id=15391><form>Rib.</form> <xr>= <sc>rdu.</sc></xr>
+
+<p id=15392><form>ribáha</form> <pos>n</pos> <tr>discount</tr>. <i>Adúnay singku pursintung ribáha ug bayran ug kás,</i> There is a five percent discount if you pay cash. <pos>v</pos> <itype>[A; c]</itype> <number>1</number> allow a discount on s.t. <i>Iribáha ang útang sa swildu,</i> Deduct the debt from the salary. <i>Ribahái ang prisyu kay sigunda mánu man ni,</i> Give me a discount because it is second hand. <number>2</number> deduct the <tr>tare</tr> weight. <i>Dus kílus iribáha sa pisáda pára sa sáku,</i> They will allow two kilos for the weight of the sack.
+
+<p id=15393><form>ríbal</form> <pos>n</pos> <tr>rival</tr>. <pos>v</pos> <itype>[A2C; b(1)]</itype> be, become rivals; engage in rivalry. <i>Ákung ribálan nang nangulitáwu ni Tinay,</i> I&apos;ll <tr>compete</tr> with him for Tinay&apos;s hand. <form>{ka-|karíbal}</form> <pos>n</pos> <tr>rival</tr>.
+
+<p id=15394><form>ribansa, ribansin</form> <pos>v</pos> <itype>[AC; c1]</itype> <number>1</number> play a game again with the same adversaries. <i>Makigribansa ug dúlà ang mga pildíru,</i> The losers want to have a <tr>replay</tr>. <number>2</number> do s.t. a second, third, or more time around. <i>Human sa usa ka básu miribansa pag katulu,</i> After the first glassful, they had another three. <pos>n</pos> <number>1</number> in games, the second time around. <i>Isyút ang pusta kay way ribansa ning duláa,</i> Bet all you&apos;re going to bet because there is going to be no <tr>replay</tr>. <number>2</number> s.t. done the second or more time around.
+
+<p id=15395><form>ribáwun</form> <pos>v</pos> <number>1</number> <itype>[A23; b6]</itype> <tr>bounce</tr>. <i>Hínay na muribáwun ning buláha,</i> This ball bounces poorly. <number>2</number> <itype>[A; a12]</itype> get the <tr>rebounds</tr> in basketball. <i>Hawud siyang muribáwun kay taas,</i> He is good in catching the rebounds because he is tall. <pos>n</pos> <number>1</number> bounce. <number>2</number> <tr>rebounds</tr> in basketball. <form>{-ir|ribáwunir}</form> <pos>n</pos> a ball that rebounds in basketball.
+
+<p id=15396><form>ribildi</form> <pos>n</pos> <tr>rebel</tr>. <pos>v</pos> <itype>[AC1; b6]</itype> rebel. <i>Muribildi ang bátà nga pinugngan,</i> A child that is repressed usually rebels.
+
+<p id=15397><form>ribilyun</form> <pos>n</pos> <tr>rebellion</tr> against the government in power. <pos>v</pos> <itype>[A]</itype> hold a rebellion. <form>{(&rarr;)|ribilyun}</form> <pos>v</pos> <itype>[a12]</itype> settle s.t. with a rebellion.
+
+<p id=15398><form>ribintadur<sub>1</sub></form> <pos>n</pos> k.o. reddish <tr>fish</tr> with a cylindrical body about the size of a firecracker.
+
+<p id=15399><form>ribintadur<sub>2</sub></form> <xr>= <sc>libintadur</sc>.</xr>
+
+<p id=15400><form>ribirb</form> <pos>n</pos> electronic mechanism which causes the sound to <tr>reecho</tr> or <tr>resound</tr>, usually used for guitars.
+
+<p id=15401><form>Ribirindu</form> <pos>a</pos> Reverend.
+
+<p id=15402><form>ribisar</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>inspect</tr>, <tr>examine</tr> s.t. closely. <i>Nagribisar ang isklibinti sa mga papílis kay dúnay impurtanting dukumintu nga nawani,</i> The clerk is examining all the papers because an important document was misplaced. <number>2</number> <tr>revise</tr>, make changes. <i>Naribisar ang ubang sirimunyas sa simbahan,</i> They have revised some of the Church ceremonies. <form>ribisádu</form> <pos>n</pos> s.t. <tr>revised</tr>. <i>Libru nga ribisádu,</i> <pb n=824><tr>Revised</tr> edition books.
+
+<p id=15403><form>ribisiyun</form> <pos>n</pos> <tr>revision</tr>.
+
+<p id=15404><form>ribista</form> <pos>n</pos> <tr>magazine</tr>.
+
+<p id=15405><form>ribíti</form> <pos>n</pos> <tr>edgings</tr>, <tr>trim</tr>. <i>Ribíting pula iláwum sa kurdísu,</i> A red trim underneath the window sill. <pos>v</pos> <itype>[A; b]</itype> <number>1</number> put edgings on. <number>2</number> take a strip off s.t.
+
+<p id=15406><form>ribulbir, ribulb&icaron;r</form> <pos>n</pos> <number>1</number> <tr>revolver</tr>. <number>2</number> prominent hipbone. <pos>v</pos> <number>1</number> <itype>[A13]</itype> carry a revolver. <number>2</number> <itype>[A12]</itype> obtain a revolver.
+
+<p id=15407><form>ribultu</form> <pos>n</pos> <number>1</number> sculptured figures used as sacred objects. <i>Ribultu sa mga santus,</i> Images of the saints. <number>2</number> <tr>sculpture</tr>, <tr>statue</tr>. <i>Ribultu ni Husi Risal,</i> The statue of Jose Rizal.
+
+<p id=15408><form>ribulusiyun</form> <pos>n</pos> <number>1</number> <tr>revolution</tr>, complete political or social change. <number>2</number> <tr>revolution</tr> of a machine. <pos>v</pos> <number>1</number> <itype>[C2; b35]</itype> have a revolution. <i>Háyang magribulusiyun dinhi ug way kausában,</i> They will surely have a revolution here if things don&apos;t change. <number>2</number> <itype>[A]</itype> make the engine <tr>turn over</tr>. <number>2a</number> for an engine to <tr>turn over</tr>. <form>{-aryu|ribulusiyunaryu}</form> <pos>n</pos> a <tr>revolutionary</tr>, one who wants a social revolution. <form>gubyirnu {-aryu|ribulusiyunaryu}</form> <tr>government</tr> of the revolutionaries.
+
+<p id=15409><form>ríbun</form> <pos>n</pos> <number>1</number> decorative <tr>ribbon</tr>, ribbon of honor. <form>{&mdash;|ríbun} dans</form> <pos>n</pos> benefit ball where the gentlemen wear ribbons of different colors. Each ribbon has a price and before each dance the color of the ribbon is announced, for which the men must pay the specified price. <number>2</number> <tr>typewriter ribbon</tr>. <pos>v</pos> <number>1</number> <itype>[A; a]</itype> wear, make into a ribbon. <number>2</number> <itype>[A12; b(1)]</itype> obtain a ribbon in a contest. <i>Nakaríbun ku sa dibit,</i> I got a ribbon in the debate. <number>2a</number> <itype>[A; b(1)]</itype> pin a ribbon on. <number>3</number> <itype>[b]</itype> put a typewriter ribbon in.
+
+<p id=15410><form>ribunit</form> <xr>= <sc>rabunit</sc>.</xr>
+
+<p id=15411><form>ribyú</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>study</tr> one&apos;s lesson for <tr>review</tr>. <i>Muribyú ta pára sa tist,</i> We&apos;ll review for the test. <number>1a</number> hold a review class. <number>2</number> <itype>[A; b(1)]</itype> attend review classes for board exams. <number>3</number> <itype>[AC12; a12]</itype> stay to see a movie for a second time. <i>Muribyú ku kay wà kung kasabut sa isturya,</i> I&apos;ll see the movie again because I didn&apos;t get the story the first time around. <number>3a</number> eat again. <i>Human na ku makapaniudtu apan muribyu ku kay wà pa ku mabusug,</i> I&apos;ve already had my lunch, but I&apos;ll eat some more because I&apos;m still hungry. <pos>n</pos> <number>1</number> review classes. <number>2</number> action of <tr>studying</tr> for review. <number>3</number> action of seeing s.t. or eating a second time around.
+
+<p id=15412><form>ríd</form> <pos>n</pos> <number>1</number> police <tr>raid</tr>. <number>2</number> <tr>raid</tr> on the enemy in war. <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> conduct a police raid. <i>Giríd sa mga pulis ang sugálan,</i> The police raided the gambling den. <number>2</number> conduct a <tr>raid</tr> against the enemy. <i>Giríd ang kampu sa mga kaáway,</i> The enemy raided the camp.
+
+<p id=15413><form>rid drágun</form> <xr>= <sc>dágir</sc>, <i>2.</i></xr>
+
+<p id=15414><form>ridhart</form> <pos>n</pos> <tr>suit</tr> of <tr>hearts</tr>.
+
+<p id=15415><form>rídi</form> <pos>a</pos> <tr>ready</tr>, <tr>prepared</tr> for use or action. <i>Rídi na ang paniudtu,</i> Dinner is read now. <i>Rídi na ku. Mularga na ta?</i> I&apos;m ready now. Shall we go? <i>Rídi, ím, payr,</i> Ready, aim, fire. <form>{&mdash;|rídi} mid</form> <tr>ready-made</tr> clothes. <pos>v</pos> <itype>[B136; c1]</itype> be, get <tr>ready</tr>.
+
+<p id=15416><form>ridiskwintu</form> <pos>v</pos> <itype>[A12; b]</itype> give a second discount. <i>Dílì na mi makaridiskwintu kay maalkansi na mi,</i> We can&apos;t give any further discounts because we will lose.
+
+<p id=15417><form>ridiyu upirítur</form> <xr>= <sc>radiyu upirítur</sc>.</xr> <xr><ix>see</ix> <sc>radiyu</sc>.</xr>
+
+<p id=15418><form>rid karpit</form> <pos>n</pos> in boxing, cockfights, and other spectator sports, the seats nearest the ring or platform.
+
+<p id=15419><form>rid krus</form> <pos>n</pos> <tr>Red Cross</tr>.
+
+<p id=15420><form>ridyist&icaron;r</form> <pos>n</pos> <tr>record</tr>, <tr>list</tr> of names and personal particulars of items. <i>Káda absin italà sa ridyist&icaron;r,</i> Each absence is listed in the <tr>register</tr>.
+
+<p id=15421><form>ridyistir-ub dids, ridyistir-up dids</form> <pos>n</pos> <tr>register of deeds</tr>.
+
+<p id=15422><form>ridyun</form> <pos>n</pos> <tr>region</tr>, certain large <tr>area</tr>.
+
+<p id=15423><form>ridy&ucaron;s</form> <pos>v</pos> <itype>[B24]</itype> for the body to <tr>reduce</tr> in weight. <i>Miridy&ucaron;s siya pagkasakit níya,</i> She lost weight when she got sick. <form>{pa-|paridy&ucaron;s}</form> <pos>v</pos> <itype>[A; c1]</itype> go on a <tr>diet</tr> to lose weight.
+
+<p id=15424><form>*ridyuyridy&ucaron;y</form> <form>{ka-|karidyuyridy&ucaron;y}</form> <pos>v</pos> <itype>[A13]</itype> be in a <tr>miserable</tr> condition, esp. financial. <i>Nagkaridyuyridy&ucaron;y siya sukad mawad-ig trabáhu,</i> He has been miserable ever since he lost his job.
+
+<p id=15425><form>rigadíra, rigadur, rigadúra</form> <pos>n</pos> <tr>sprinkling can</tr>.
+
+<p id=15426><form>rigálu</form> <pos>n</pos> <number>1</number> <tr>gift</tr>, <tr>present</tr>. <number>2</number> in games, a <tr>free ball</tr>. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> give as a present. <i>Sa kasal ninyu murigálu kug inasal,</i> On your wedding day, I&apos;ll give you roast pig as a present. <number>2</number> <itype>[A12; b6(1)]</itype> get a free ball.
+
+<p id=15427><form>rigla</form> <pos>n</pos> <number>1</number> principle of almost established certainty. <i>Mauy ílang rigla nga kun manggulà ang mga ípus, mag-ulan,</i> <tr>As a rule</tr>, when winged termites come out in the open, it will rain. <i>Sumálà sa rigla, ang sunud háyan hárì,</i> According to the pattern, the next one is <tr>sure</tr> to be heads. <number>2</number> <tr>menstruation</tr> (normal, untinged word). <form>Birhin sa {&mdash;|rigla}</form> the Guiding Mother, the patron saint of missionaries and of Opon (now Lapulapu City). <pos>v</pos> <itype>[A13; a4]</itype> <tr>menstruate</tr>. <i>Ug magrigla (riglahun), dílì malígù,</i> Don&apos;t bathe when you are menstruating. <form>{pa-|parigla}</form> <pos>v</pos> <itype>[A; b]</itype> <number>1</number> <tr>deviate</tr> from the usual norm of conduct, do things not in the usual way. <i>Muparigla kug pakítà sa ákung katapúsang baráha,</i> I&apos;ll do s.t. <tr>unusual</tr>. I&apos;ll show my last card to everybody. <number>2</number> <tr>destroy</tr> s.t. belonging to s.o. else maliciously. <i>Dúna giyuy nagparigla sa mutur kay nagáras man,</i> S.o. must have messed around with this motorcycle because it is all full of scratches. <number>3</number> attack <pb n=825>passers-by and unknown people without provocation and for no purpose. <i>Mga buguy tung nagparigla níya,</i> It was street toughs that attacked him. <pos>n</pos> <number>1</number> unusual behavior. <number>2</number> malicious destruction of others&apos; things. <number>3</number> thrill attacks on unknown people. <form>{-mintu|riglamintu}, {-myintu|riglamyintu}</form> <pos>n</pos> regulations, rules of conduct.
+
+<p id=15428><form>rigudun</form> <pos>n</pos> formal ballroom <tr>dance</tr> done in squares. <pos>v</pos> <itype>[A2C2; c6]</itype> dance this dance. <form>{&mdash;|rigudun} diunur</form> <xr>= <sc>rigudun</sc>.</xr>
+
+<p id=15429><form>rigul</form> <xr>= <sc>rigur</sc>.</xr>
+
+<p id=15430><form>rigular</form> <pos>a</pos> <number>1</number> <tr>average</tr>, conforming in form to the <tr>normal</tr>. <i>Rigular ang íyang gidak-un,</i> He is of <tr>average</tr> build. <i>Rigular ang íyang rigla,</i> She has a <tr>normal</tr> menstrual cycle and <tr>normal</tr> amounts of discharge. <i>Rigular na ang íyang pulsu,</i> His pulse is now <tr>regular</tr>. <i>Lahì kini sa rigular nga kútiks,</i> This one is different from the ordinary Kotex. <number>1a</number> <tr>regular</tr>, not special student. <i>Rigular purt yir siya run,</i> He is a regular fourth year student this year. <number>2</number> <tr>consistent</tr> or <tr>habitual</tr> in action. <i>Rigular kining tulumanun sa radiyu,</i> This is a regular program over the radio. <pos>v</pos> <itype>[B1256]</itype> become a permanent worker, employee.
+
+<p id=15431><form>rigulasiyun</form> <xr>= <sc>riglamintu</sc>.</xr> <xr><ix>see</ix> <sc>rigla</sc>.</xr>
+
+<p id=15432><form>rigur</form> <pos>v</pos> <itype>[B146]</itype> feel <tr>uneasy</tr> when s.t. pent up can&apos;t be released. <i>Nagrigur nà siya kay wà tugúting muadtu sa bayli,</i> She is <tr>ill at ease</tr> because she was not given permission to go to the dance. <i>Magrigur giyud kug dì kapanimalus,</i> I won&apos;t rest until I get revenge.
+
+<p id=15433><form>rigyular</form> <xr>= <sc>rigular</sc>.</xr>
+
+<p id=15434><form>ríhas</form> <pos>n</pos> window <tr>grills</tr>. <i>Migúnit ang prísu sa ríhas sa prisuhan,</i> The prisoner clung to the prison <tr>bars</tr>. <form>{-in-an|riníhasan}</form> <pos>n</pos> having <tr>grills</tr> put in front of it. <pos>v</pos> <itype>[A1; c1]</itype> install <tr>grills</tr> on windows or doors.
+
+<p id=15435><form>*rihistráda</form> <form>marka {&mdash;|rihistráda}</form> <tr>registered</tr> trade mark.
+
+<p id=15436><form>rihistr&acaron;r</form> <pos>v</pos> <itype>[A; c]</itype> <tr>register</tr>, officially <tr>record</tr>. <i>Irihistr&acaron;r ang yútà sa ákung ngálan,</i> <tr>Register</tr> the land in my name. <form>rihistrádu</form> <pos>a</pos> <tr>registered</tr>; officially <tr>recorded</tr>. <i>Kuríyu rihistrádu,</i> <tr>Registered mail</tr>.
+
+<p id=15437><form>rihistru</form> <xr>= <sc>rihistr&acaron;r</sc>.</xr>
+
+<p id=15438><form>rihiyunal</form> <pos>n</pos> <tr>regional</tr>. <i>Banggà rihiyunal sa amatiyur,</i> Regional contest for amateur performers. <i>Kumpirinsiya rihiyunal,</i> Regional conference.
+
+<p id=15439><form>riiliksiyunista</form> <pos>n</pos> s.o. up for reelection.
+
+<p id=15440><form>rík</form> <pos>n</pos> <tr>rake</tr>. <pos>v</pos> <itype>[A; a]</itype> rake s.t. <i>Ríka ang mga sagbut,</i> Rake up the trash. <i>Ríki ang sílung,</i> Rake the yard in front of the house.
+
+<p id=15441><form>rikábir</form> <pos>v</pos> <number>1</number> <itype>[A2]</itype> for a boxer to get back on his feet or regain his composure. <i>Wà gánì siya makarikábir, giusban dáyug sukmag,</i> Hardly had he recovered when he was hit again. <number>2</number> <itype>[A; a12]</itype> <tr>recover</tr> s.t. lost or stolen. <i>Dì na marikábir nang puhúnan,</i> The capital can no longer be <tr>recovered</tr>.
+
+<p id=15442><form>rikádu</form> <pos>n</pos> <tr>spices</tr>. <pos>v</pos> <itype>[A; c]</itype> spice food. <i>Dì ku murikádu ug luy-a sa tinúlang isdà,</i> I don&apos;t put ginger into fish stew.
+
+<p id=15443><form>rikap</form> <pos>v</pos> <itype>[A; ab2]</itype> <tr>recap</tr> tires. <pos>n</pos> <tr>recapped</tr> tires.
+
+<p id=15444><form>rikargu</form> <pos>n</pos> <tr>surcharge</tr>. <pos>v</pos> <itype>[A; b]</itype> cause s.o. to pay a surcharge. <i>Murikargu nímug diyis pursintug mulápas ka sa tagal,</i> You&apos;ll have to pay a ten percent surcharge if you go past the due date.
+
+<p id=15445><form>ríkim</form> <pos>n</pos> <tr>requiem</tr> <tr>mass</tr>.
+
+<p id=15446><form>rikísa</form> <pos>v</pos> <itype>[A; ab2]</itype> <tr>search</tr> for s.t. hidden. <i>Abtik nga mirikísa sa dinakpan ang pulis,</i> The cop quickly <tr>frisked</tr> the suspect. <i>Girikísa ang ákung malíta sa kustums,</i> My suitcase was thoroughly <tr>searched</tr> in the Customs.
+
+<p id=15447><form>rikisisiyun</form> <pos>n</pos> <tr>requisition</tr>. <pos>v</pos> <itype>[A; c1]</itype> requisition s.t. <i>Nakarikisisiyun ka na ba sa mga kinahanglanun sa upisína?</i> Have you requisitioned the things we need for the office? <i>Girikisisiyun sa mga sundáwu ang ámung dyíp,</i> The soldiers requisitioned our jeep.
+
+<p id=15448><form>rikisíta, rikisítas, rikisítus</form> <pos>n</pos> <tr>requisites</tr>, <tr>requirements</tr>. <i>Kwarta ray rikisíta sa kaminyúun,</i> Money is the only <tr>prerequisite</tr> for marriage. <i>Unsay rikisíta sa pag-istudiyug narsing?</i> What are the <tr>prerequisites</tr> for studying nursing?
+
+<p id=15449><form>rikiyim</form> <xr>= <sc>ríkim</sc>.</xr>
+
+<p id=15450><form>riklamadur</form> <pos>a</pos> one who complains all the time. <i>Riklamadur kaáyung kasiráha. Dì kaángay sa káun,</i> The boarder complains all the time. She doesn&apos;t like the food. <pos>v</pos> <itype>[B12]</itype> be, become a <tr>complainer</tr>.
+
+<p id=15451><form>riklamasiyun</form> <pos>n</pos> <tr>reclamation</tr> area.
+
+<p id=15452><form>riklámu</form> <pos>n</pos> <tr>complaint</tr>, utterance of dissatisfaction. <i>Wà pamatía ang riklámu sa mga trabahanti,</i> No one heeded the laborers&apos; complaints. <pos>v</pos> <number>1</number> <itype>[A; b3c5]</itype> <tr>complain</tr>. <i>Unsay giriklamúhan (giriklámu) sa mga istudiyanti?</i> What are the students complaining about? <i>Adtu nà iriklámu sa kapulisan,</i> File your <tr>complaint</tr> with the police. <number>2</number> <itype>[A; b(1)]</itype> <tr>request</tr> food or money, usually on a short-term loan. <i>Muriklámu kug bayinti nímu,</i> I would like to ask you for a loan of twenty pesos.
+
+<p id=15453><form>rikrak</form> <pos>n</pos> <number>1</number> <tr>ricrac</tr>, a k.o. trimming for clothing. <number>2</number> k.o. ornamental <tr>bush</tr> with leaves that look like they have a ricrac, a variety of <ix>kalípay, 1</ix> (<bio>Polyscias fruticosa</bio>). <pos>v</pos> <itype>[A; b]</itype> trim, adorn with ricrac.
+
+<p id=15454><form>rikta</form> <pos>a</pos> using a language that is rudely brief and curt (female). <i>Rikta kaáyung manubagtubag nga bayhána mu rag hawud,</i> She answers <pb n=826>in a curt and rude manner as if she were the boss. <form>riktahun</form> <pos>a</pos> being blunt and curt in one&apos;s replies.
+
+<p id=15455><form>riktanggul, riktanggulu</form> <pos>a</pos> <tr>rectangle</tr>. <pos>v</pos> <itype>[B1256]</itype> become rectangular.
+
+<p id=15456><form>riktu<sub>1</sub></form> <xr>= <sc>rikta</sc> (male).</xr>
+
+<p id=15457><form>riktu<sub>2</sub></form> <pos>n</pos> <tr>penis</tr> (slang&mdash;so called from Claro M. Recto, a statesman whose bald pate reminds one of the glans).
+
+<p id=15458><form>riktur</form> <pos>n</pos> <tr>rector</tr>. <pos>v</pos> <itype>[B56; a2]</itype> be, become a rector.
+
+<p id=15459><form>rikúbir</form> <xr>= <sc>rikábir</sc>.</xr>
+
+<p id=15460><form>rikúdu</form> <pos>v</pos> <itype>[A; c6]</itype> for a land vehicle to turn a corner, negotiate a curve. <i>Ayaw ug pakúsug ug magrikúdu ka,</i> Don&apos;t drive fast when you negotiate a turn. <form>rikuduhan</form> <pos>n</pos> <tr>curve</tr> in a street.
+
+<p id=15461><form>rikúla</form> <pos>v</pos> <itype>[A; b6]</itype> <number>1</number> <tr>refuse</tr> to do s.t., usually for some reason. <i>Dì giyud nà murikúla kun sugúun,</i> He doesn&apos;t refuse if you tell him to do s.t. <i>Ug áway ímung gustu, dì ti ka rikuláhan,</i> If it&apos;s a fight you want, I am not afraid. <number>2</number> <tr>back out</tr> of s.t. <i>Sáad nga dílì marikuláhan,</i> An agreement you cannot back out of. <number>3</number> <itype>[A2; b3]</itype> raise an <tr>objection</tr> to s.t. <i>Mirikúla siya sa ákung hukum ug páwul,</i> He raised an objection to my calling a foul.&dagger;
+
+<p id=15462><form>rikulúta<sub>1</sub></form> <pos>n</pos> military <tr>recruit</tr>. <pos>v</pos> <itype>[A; a12]</itype> recruit for military service. <pos>a</pos> <tr>novice</tr>, <tr>greenhorn</tr>. <i>Rikulúta pa siya sa panganak,</i> She is still new to childbirth. <i>Rikulúta pa ku sa kinaíya sa mga Múrus,</i> I am not accustomed to the ways of the Moros.
+
+<p id=15463><form>rikulúta<sub>2</sub></form> <pos>a</pos> be <tr>distrusting</tr> and saying so openly. <i>Rikulúta kaáyu siya sa ímung mga pasálig,</i> He disbelieves your promises and says so. <pos>v</pos> <itype>[B12]</itype> be, become distrusting and vocal about it. <i>Makarikulúta (makaparikulúta) nang ímung binahinan,</i> Who wouldn&apos;t say s.t. the way you divide it up?
+
+<p id=15464><form>rikumind&acaron;r</form> <pos>v</pos> <itype>[A; c6]</itype> <tr>recommend</tr> s.o. or s.t. <i>Dì ku murikumind&acaron;r ug tapulan,</i> I don&apos;t recommend lazy people. <i>Kining librúha ang girikumind&acaron;r sa maistru,</i> The teacher recommended this book. <form>rikumindádu</form> <pos>n</pos> <tr>recommendee</tr>. <i>Nadáwat siya kay rikumindádu man sa mayur,</i> He was accepted because he is one of the mayor&apos;s recommendees. <pos>v</pos> <itype>[B1256]</itype> be one&apos;s recommendee. <form>rikumindasiyun</form> <pos>n</pos> <tr>recommendation</tr> for a job.
+
+<p id=15465><form>rikunsidirasiyun</form> <pos>n</pos> <tr>reconsideration</tr>.
+
+<p id=15466><form>rikunusir</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>examine</tr> s.o. physically. <i>Rikunusihun ka ug wà ka bay tíbi,</i> You will be <tr>examined</tr> for T.B. <form>{pa-|parikunusir}</form> <pos>v</pos> <itype>[A; ac]</itype> have oneself medically examined. <i>Iparikunusir ang ímung asáwa ug mabdus ba,</i> Have your wife examined to see if she is pregnant.
+
+<p id=15467><form>ríkurd</form> <pos>n</pos> <number>1</number> <tr>record</tr>, official <tr>account</tr> of s.t. <i>Tan-áwa sa ríkurd pilay íyang grádu,</i> Look into the <tr>records</tr> to see what his grades were. <number>2</number> the known or recorded facts about anything: one&apos;s conduct, performance, one&apos;s career. <i>Si Dígu may ríkurd sa íyang pagkakriminal,</i> Diego has a criminal <tr>record</tr>. <number>3</number> <tr>phonograph record</tr>. <number>4</number> record, the best performance. <i>Ang íyang ríkurd wà pa hilupigi,</i> No one has surpassed his <tr>record</tr>. <pos>v</pos> <itype>[A; c6]</itype> put in the record. <i>Iríkurd ang mga gastus,</i> Record the expenses. <form>klas {&mdash;|ríkurd}</form> <pos>n</pos> <tr>class record</tr> in school. <form>{-ing|rikurding}</form> <pos>n</pos> <tr>recording</tr>. <pos>v</pos> <itype>[A1]</itype> have a recording session. <i>Paghílum mu kay nagrikurding na mi,</i> Keep quiet. We are recording.
+
+<p id=15468><form>rikurída, rikurídas</form> <pos>v</pos> <itype>[b5c]</itype> <number>1</number> <tr>advertise</tr> a movie or some public event with a roving truck. <number>2</number> <tr>make the rounds</tr> to check, inspect. <i>Murikurída ang pulis patrul sa tanang dapit káda gabíi,</i> The police make their rounds in our neighborhood every evening. <number>3</number> make the rounds of s.t. for pleasure. <i>Girikurídas námù ang tanang nayit klab dinhi,</i> We made the rounds of all the night clubs here. <pos>n</pos> action of making the rounds to advertise s.t. or check up.
+
+<p id=15469><form>*rikursus naturális</form> <form>Dipartamintu sa Agrikultúra ug Rikursus Naturális</form> <pos>n</pos> Department of Agriculture and Natural Resources.
+
+<p id=15470><form>rikwirdu</form> <pos>n</pos> <tr>souvenir</tr>, <tr>keepsake</tr>. <i>Rikwirdu sa ílang kasal,</i> Souvenirs of their wedding.
+
+<p id=15471><form>rikwisasiyun</form> <pos>n</pos> <xr>= <sc>rikisisiyun</sc>.</xr>
+
+<p id=15472><form>rikwisisiyun, rikwisisyun</form> <xr>= <sc>rikisisiyun</sc>.</xr>
+
+<p id=15473><form>rikwisítus</form> <xr>= <sc>rikisítus</sc>.</xr> <xr><ix>see</ix> <sc>rikisíta</sc>.</xr>
+
+<p id=15474><form>rilak, rilaks</form> <pos>v</pos> <itype>[A; c6]</itype> <tr>relax</tr>, take it easy. <i>Rilaks lang. Ayg kabaláka,</i> Just take it easy. Don&apos;t worry. <i>Murilaks ku human sa iksámin,</i> I&apos;ll take a vacation after the exams.
+
+<p id=15475><form>rilansi</form> <pos>a</pos> <tr>shoddy</tr>, <tr>poor</tr> in workmanship. <pos>v</pos> <itype>[AB12; b6c1]</itype> do work <tr>poorly</tr> or <tr>shoddily</tr>. <i>Maáyu nang mananahía kay dì giyud murilansi sa íyang trabáhu,</i> That seamstress is good because she never relaxes on the quality of her work.
+
+<p id=15476><form>rilasiyun</form> <pos>n</pos> <number>1</number> <tr>kinship</tr> by blood or marriage. <i>Wà silay rilasiyun bísag paríhug apilyídu,</i> They are not related even though they have the same surname. <number>2</number> love <tr>affair</tr>. <i>Dúna tingáli rilasiyun ang manidyir ug ang sikritarya,</i> The manager seems to be having an affair with the secretary. <number>3</number> <tr>relations</tr> among nations. <i>Ang rilasiyun sa Pilipínas ug Malisya tandugun kaáyu,</i> The Philippines&apos; relations with Malaysia are very shaky.
+
+<p id=15477><form>rilíbu</form> <pos>n</pos> s.o. who relieves s.o. else on duty. <pos>v</pos> <itype>[AC; c]</itype> <tr>relieve</tr> s.o. on the job, work on a rotation basis. <i>Nagrilíbu mig bantay sa masakitun,</i> We took turns watching the sick <pb n=827>man. <i>Girilibúhan na ba ang gwardiya?</i> Has the guard been <tr>relieved</tr>?
+
+<p id=15478><form>rilidyun</form> <pos>n</pos> <tr>religion</tr>, a subject in school consisting mainly of <tr>catechism</tr>. <pos>v</pos> <itype>[A1]</itype> hold a religion class.
+
+<p id=15479><form>rilihiyun</form> <pos>n</pos> <tr>religion</tr>.
+
+<p id=15480><form>rilihiyúsa</form> <xr>= <sc>rilihiyúsu</sc> (female).</xr>
+
+<p id=15481><form>rilihiyúsu</form> <pos>a</pos> <tr>religious</tr>, <tr>devout</tr>. <pos>v</pos> <itype>[B12; b6]</itype> be, become religious.
+
+<p id=15482><form>rilikaryu</form> <pos>n</pos> place where religious relics are kept.
+
+<p id=15483><form>rilikyas</form> <pos>n</pos> religious <tr>relic</tr>.
+
+<p id=15484><form>rilip</form> <pos>n</pos> <tr>second-hand</tr> clothing gathered by charitable organizations and sold cheap. <pos>v</pos> <itype>[A1]</itype> have, wear relief clothing. <form>{-an|rilipan}</form> <pos>n</pos> place where <tr>second-hand clothes</tr> are sold.
+
+<p id=15485><form>rilis<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[c6]</itype> <tr>set free</tr>. <i>Narilis ang binilanggù,</i> The prisoner was <tr>released</tr>. <number>2</number> <itype>[A; c6]</itype> issue a <tr>permit</tr>, publish test results. <i>Narilis na ang ímung lún,</i> Your loan has been released. <i>Hápit nang irilis ang risulta sa bar,</i> The results of the bar exam are about to be released. <form>pris {&mdash;|rilis}</form> <pos>n</pos> <tr>press release</tr>. <pos>v</pos> <itype>[A; c]</itype> issue a press release.
+
+<p id=15486><form>rilis<sub>2</sub>, rílis</form> <pos>n</pos> <number>1</number> <tr>railway</tr> <tr>tracks</tr>. <number>2</number> district in Cebu where the railroad station used to be, and where there is a red light district. <form>babáyi sa {&mdash;|rilis}</form> <pos>n</pos> <tr>prostitute</tr>. <form>{pa&N;-|pangrilis}</form> <pos>v</pos> <itype>[A2]</itype> <number>1</number> patronize a prostitute. <i>Nangrilis siya kay gibigáan,</i> He went to the red light district because he got the urge to have sex. <number>2</number> go through the area where the railway used to be. <i>Mangrilis tag ági igpaúlì,</i> Let&apos;s go by the railway tracks when we go home.
+
+<p id=15487><form>rilisiyun</form> <xr>= <sc>rilasiyun</sc>.</xr>
+
+<p id=15488><form>rilu</form> <pos>n</pos> <tr>watch</tr> or <tr>clock</tr>. <form>{&mdash;|rilu} dibulsa</form> <tr>pocket watch</tr>. <form>{&mdash;|rilu} dipasmu</form> a watch that is always late. <form>{&mdash;|rilu} dipulsu</form> <tr>wrist watch</tr>. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> wear a watch. <number>2</number> <itype>[A12]</itype> get a watch. <form>riluhíru</form> <pos>n</pos> watch repairman; <tr>watchmaker</tr>. <pos>v</pos> <itype>[B156]</itype> be, become a watch repairman or maker.&dagger;
+
+<p id=15489><form>rilus</form> <pos>n</pos> watch pocket.
+
+<p id=15490><form>rilyíbu</form> <xr>= <sc>rilíbu</sc>.</xr>
+
+<p id=15491><form>rilyínu</form> <pos>n</pos> dish of fowl or shellfish, prepared by removing the inner bones or shells and the meat, replacing them with meat mixed with other ingredients. <pos>v</pos> <itype>[A; a]</itype> have, make this dish.
+
+<p id=15492><form>rím</form> <pos>n</pos> <number>1</number> <tr>ream</tr> of paper with 500 sheets. <number>2</number> a <tr>carton</tr> of <tr>cigarettes</tr>.
+
+<p id=15493><form>ríma</form> <pos>n</pos> <tr>rhyme</tr>. <pos>v</pos> <number>1</number> <itype>[A2; c1]</itype> make rhymed <tr>verse</tr>. <number>2</number> <itype>[A; c1]</itype> make words rhyme. <number>3</number> <itype>[A2C3; b(1)]</itype> rhyme with. <i>Wà muríma ang púlung kahil sa púlung kahun,</i> The word &lsquo;orange&rsquo; does not rhyme with the word &lsquo;box&rsquo;.
+
+<p id=15494><form>rímas</form> <xr>= <sc>kulu<sub>2</sub></sc>.</xr>
+
+<p id=15495><form>rimatádu</form> <pos>n</pos> for s.t. pawned to be foreclosed so that it is no longer the possession of the owner. <pos>v</pos> <itype>[B1256]</itype> get <tr>foreclosed</tr>. <i>Ug marimatádu na nà, únu lus dus ug mabalik pa nímu,</i> If you don&apos;t redeem it before the due date, it&apos;s all a matter of luck whether you can ever get it back.
+
+<p id=15496><form>rimáti<sub>1</sub></form> <pos>v</pos> <itype>[A]</itype> for many bells to <tr>peal</tr> in a jumble. <i>Tána kay nagrimáti na ang kampána,</i> Come on! The bells are <tr>ringing</tr> for the mass.
+
+<p id=15497><form>rimáti<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> for a pawnshop to take over possession of articles that weren&apos;t redeemed. <number>2</number> <itype>[B126]</itype> for a matter to become <tr>worse</tr>. <i>Ang ulan mauy nakarimáti (nakaparimáti) sa ákung ubu,</i> The rain made my cough worse.
+
+<p id=15498><form>rimatsi</form> <pos>n</pos> <tr>rivet</tr>. <pos>v</pos> <number>1</number> <itype>[A; ac]</itype> attach with, make into, put a rivet. <i>Rimatsihun nátù ni arun lig-un,</i> Let&apos;s attach this with a rivet so it will be strong. <i>Irimatsi ni sa babag,</i> Rivet this to the crossbar. <number>2</number> <itype>[A; a12]</itype> <tr>beat</tr>, like riveting. <i>Rimatsíhun ka sa mga buguy ug dì ka manghátag ug sigarilyu,</i> The toughs will beat you up if you don&apos;t give them cigarettes. <number>3</number> <itype>[A; a12]</itype> <tr>finish</tr> up, get done with. <i>Awáya siya kay akuy murimatsi ug kasábà,</i> Quarrel with her, and I will finish her up with a tongue-lashing. <number>3a</number> finish a girl by having <tr>intercourse</tr> with her. <i>Rimatsíha (rimatsía) ang imung uyab,</i> Do s.t. to your sweetheart that will complete your relationship. <number>4</number> <itype>[A; a2]</itype> <tr>steal</tr> surreptitiously (slang). <i>Nagrimatsi siyag manuk sa ílang silíngan kagabíi,</i> He stole his neighbor&apos;s chicken last night.
+
+<p id=15499><form>rimidiyu</form> <pos>v</pos> <itype>[A; a2]</itype> <number>1</number> <tr>acquire</tr> s.t. for one&apos;s needs. <i>Magrimidiyu kug kwartang ibáyad sa iskuylahan,</i> I must secure money to pay for the school. <number>2</number> <tr>tinker</tr> around with s.t. to improve it. <i>Rimidiyúha nu nà ug muandar pa ba,</i> Tinker around with it. Maybe it will still run. <number>3</number> <itype>[AC2; a2b2]</itype> have <tr>sexual intercourse</tr> (humorous). <i>Dì ku makarimidiyu sa ákung asáwa kay gidugù,</i> I can&apos;t do anything with my wife because she is menstruating. <form>{pa-|parimidiyu}</form> <pos>v</pos> <itype>[a12]</itype> <tr>lend</tr>. <i>Parimidiyúha ku dihag písus kay ákung ipamúlang,</i> Lend me one peso to use for the cockfights. <pos>n</pos> <tr>remedy</tr>, s.t. that can <tr>repair</tr> or <tr>restore</tr> s.t. to good state. <i>Wà na kay rimidiyu kay kansir man,</i> You have no hope because it&apos;s cancer. <i>Wà nay rimidiyu nang makinilyáha,</i> That typewriter is broken beyond repair. <form>rimidiyuhay</form> <pos>v</pos> <itype>[C]</itype> have <tr>sexual intercourse</tr>. <pos>n</pos> action of having <tr>intercourse</tr>.
+
+<p id=15500><form>rimin</form> <pos>v</pos> <itype>[A; a12]</itype> stay after school.
+
+<p id=15501><form>rímu</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <tr>scull</tr>, move a boat forward by twisting an oar from side to side over the stern of a boat. <i>Rimúhi ring búti kay <pb n=828>punù nag kupras,</i> <tr>Scull</tr> this small boat because it&apos;s already full of copra. <pos>n</pos> <tr>scull</tr>.
+
+<p id=15502><form>rimulatsa</form> <pos>n</pos> light brown <tr>sugar</tr>, closest in class to the refined white sugar.
+
+<p id=15503><form>rimurki<sub>1</sub></form> <pos>v</pos> <itype>[A; a]</itype> <tr>tow</tr> or <tr>drag</tr> s.t. in the water. <i>Dakung trúsu ákung girimurki,</i> I&apos;m towing a big log in the water.
+
+<p id=15504><form>rimurki<sub>2</sub></form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> make <tr>use</tr> of, <tr>eat</tr> s.t. with or without proper permission (colloquial). <i>Nagrimurki ang mga irù sa basúra,</i> The dogs are busy with the garbage. <i>Nakarimurki na nà sa kusína kay nanghingìkì na,</i> He has eaten in the kitchen because he is picking his teeth. <number>2</number> <itype>[A3; a12]</itype> open up s.t. to get at the contents illegally. <i>Taga kustum mauy mirimurki sa pákids,</i> A Custom official helped himself to the contents of the package.
+
+<p id=15505><form>rimut kuntrul</form> <pos>v</pos> <itype>[A; c6]</itype> <tr>broadcast</tr> away from the radio station. <i>Magrimut kuntrul mi sa mísa sa Santu Rusaryu,</i> We will broadcast the mass from Santo Rosario church by <tr>remote control</tr>.
+
+<p id=15506><form>rína</form> <xr>= <sc>rayna</sc>.</xr>
+
+<p id=15507><form>rinda</form> <pos>n</pos> <tr>reins</tr>. <form>sigunda {&mdash;|rinda}</form> <tr>checkrein</tr>. <i>Pahugti ang sigunda rinda arun dílì madugmù ang kabáyù,</i> Tighten the checkrein so the horse won&apos;t stumble. <form>paghátag ug {&mdash;|rinda}</form> let s.t. go free, <tr>release</tr> the restraints. <i>Wà siya magduhadúha sa paghátag ug rinda sa íyang mga kapritsu,</i> She did not hesitate to give full course to her caprices. <pos>v</pos> <number>1</number> <itype>[A13; a12]</itype> <tr>attach</tr>, make into a rein. <number>2</number> <itype>[b6]</itype> pull on the reins. <i>Rindáhi arun muhínay ang kabáyù,</i> Pull on the reins to slow the horse down.
+
+<p id=15508><form>rind&icaron;r</form> <pos>v</pos> <itype>[A23]</itype> <number>1</number> <tr>give way</tr>, <tr>collapse</tr>. <i>Hápit na ku murind&icaron;r sa kalisud sa trabáhu,</i> I&apos;m practically ready to collapse because the work is so hard. <i>Kining bangkúa dì murind&icaron;r bisag daghang maglingkud,</i> This bench won&apos;t give way no matter how many people sit on it. <number>2</number> for s.t. to <tr>expire</tr>. <i>Murind&icaron;r na ang sidula sunud búwan,</i> The residence certificate expires next month. <form>rindídu</form> <pos>a</pos> <number>1</number> having given way. <number>2</number> come to an end, <tr>expired</tr>. <i>Búlan sa Disyimbri aku natáwu, rindídu na ang túig,</i> I was born in December when the year was ending.
+
+<p id=15509><form>rindyir</form> <pos>n</pos> <tr>ranger</tr>, unit in the Philippine Constabulary or member thereof, highly trained in hand-to-hand combat. <ix>see also</ix> <xr><sc>púris</sc>.</xr>
+
+<p id=15510><form>ring</form> <pos>n</pos> <number>1</number> boxing or wrestling <tr>ring</tr>. <number>2</number> ring in logs. <number>3</number> basketball ring.
+
+<p id=15511><form>ríng</form> <pos>v</pos> <itype>[A; c1]</itype> for the telephone or doorbell to <tr>ring</tr>. <i>Muríng gánì ang tilipunu tubaga dáyun,</i> When the telephone rings, answer it immediately.
+
+<p id=15512><form>ringgíru</form> <pos>n</pos> k.o. <tr>fish</tr>.
+
+<p id=15513><form>ringlis</form> <pos>a</pos> shot in basketball which does not touch the ring in going into it. <i>Basta maáyung musyát, ringlis pirmi,</i> A player who is a good shot always makes clean shots.
+
+<p id=15514><form>rinigar</form> <pos>v</pos> <itype>[B16]</itype> be, become <tr>desperate</tr> enough to do s.t. at the peril of one&apos;s own life. <i>Kinsay dílì murinigar (marinigádu) nga hápit na malumus ang bátà,</i> Who would not be out of his mind with <tr>desperation</tr> if his child was at the point of drowning. <form>rinigáda</form> <xr>= <sc>rinigádu</sc> (female).</xr> <form>rinigádu</form> <pos>a</pos> <tr>desperate</tr> to the point of not caring whether one lives or dies. <pos>v</pos> <itype>[B16]</itype> be, become desperate.
+
+<p id=15515><form>rintas</form> <pos>n</pos> <tr>internal revenue</tr>. <i>Bayranan sa rintas,</i> Payments to be made to the Bureau of Internal Revenue. <form>{&mdash;|rintas} intirnas</form> <xr>= <sc>rintas</sc>.</xr>
+
+<p id=15516><form>rinyun</form> <pos>n</pos> <number>1</number> <tr>kidney</tr>. <number>2</number> kidney ailment. <i>Dì makakaun ug parat ang dúnay rinyun,</i> A person with a kidney ailment can&apos;t eat salty foods. <pos>v</pos> <itype>[A123P; a4]</itype> get a kidney ailment.
+
+<p id=15517><form>RIP</form> abbreviation on graves for <ix>Requiescat in Pace</ix>.
+
+<p id=15518><form>rip.</form> <pos>n</pos> abbreviation for <ix>riprisintanti</ix> representative.
+
+<p id=15519><form>ríp</form> <pos>v</pos> <itype>[A; a2]</itype> <tr>rape</tr>. <i>Mga batan-un ang miríp sa usa ka tigúlang,</i> It was a bunch of young men that raped the old woman.
+
+<p id=15520><form>rípa</form> <pos>n</pos> drawing of <tr>lots</tr> or game of chance, usually with lots. <pos>v</pos> <itype>[A; a2]</itype> <tr>draw lots</tr>; conduct a <tr>raffle</tr>. <i>Átung ripáhun kun kinsay makabangka,</i> Let&apos;s draw lots to see who treats. <form>{pa-|parípa}</form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>raffle</tr> off. <i>Unsay giparipáhan?</i> What are they raffling off?
+
+<p id=15521><form>ripan</form> <pos>v</pos> <itype>[A; c]</itype> make a <tr>refund</tr>. <i>Katungà na lang sa kantidad ang iripan,</i> Only half of the amount will be refunded. <pos>n</pos> <tr>refund</tr>.
+
+<p id=15522><form>riparasiyun</form> <pos>n</pos> <tr>reparations</tr>.
+
+<p id=15523><form>ripásu</form> <pos>n</pos> <tr>rehearsal</tr>. <pos>v</pos> <itype>[A; a2]</itype> <tr>rehearse</tr> s.t. or s.o. <i>Kinsa may muripásu ninyu sa dráma?</i> Who will rehearse you for the drama? <i>Nakaripásu ka na ba sa ímung diklimisyun?</i> Have you rehearsed your declamation piece?
+
+<p id=15524><form>ripíki</form> <pos>n</pos> <tr>pealing</tr> of a large number of bells. <pos>v</pos> <itype>[A; c1]</itype> for bells to <tr>peal</tr>.
+
+<p id=15525><form>ripílint</form> <pos>n</pos> <number>1</number> water <tr>repellent</tr> cloth. <number>2</number> mosquito <tr>repellent</tr> rubbed on the skin.
+
+<p id=15526><form>ripinádu</form> <pos>n</pos> refined <tr>sugar</tr>. <pos>v</pos> <number>1</number> <itype>[A13; a2]</itype> make <form>refined</form> sugar. <i>Maripinádu ang sintripugal kun usbun kini paglútù,</i> The semi-refined sugar will become <tr>refined</tr> after it is processed again. <number>2</number> <itype>[A; c]</itype> put refined sugar in s.t.
+
+<p id=15527><form>ripir</form> <pos>v</pos> <number>1</number> <itype>[A; a12]</itype> <tr>repair</tr> s.t. mechanical. <number>2</number> <itype>[A; c1]</itype> stitch up the genitalia after childbirth (humorous). <form>{pa-|paripir}</form> <pos>v</pos> <itype>[A; ac]</itype> <number>1</number> have s.t. <tr>repaired</tr>. <i>Iparipir nátù ang tíbi,</i> Let&apos;s have the TV fixed. <number>2</number> have the genitalia stitched <pb n=829>after childbirth.
+
+<p id=15528><form>ripiri</form> <pos>n</pos> <tr>referee</tr>. <pos>v</pos> <number>1</number> <itype>[A; a2]</itype> <tr>referee</tr> s.t. <number>2</number> <itype>[A; c1]</itype> make s.o. the referee.
+
+<p id=15529><form>ripitir</form> <pos>v</pos> <number>1</number> <itype>[A; c1]</itype> say or do s.t. again. <i>Ayaw ug ripitiha (iripitir) ang ímung sayup,</i> Don&apos;t <tr>repeat</tr> your mistake. <i>Gihangyù si Múna nga iripitir ang íyang kanta,</i> Mona was asked to sing her song again. <number>2</number> <itype>[A; a1]</itype> do s.t. to s.o. in rapid succession. <i>Giripitir ku níyag sumbag,</i> He struck me again and again. <number>2a</number> <itype>[A2; a12]</itype> in a certain k.o. billiard game, make successive caroms, usually ten times or more. <i>Maáyu gánì ang mísa muripitir man kug sín,</i> If it is a good billiard table, I can make a hundred successive caroms. <number>3</number> <itype>[A; c]</itype> ask for an encore by throwing money. <i>Giripitir níya ang singku písus sa mananayaw,</i> He threw in five pesos so the dancer would give an encore. <form>{(&larr;)|ripítir}</form> <pos>n</pos> a student who has to repeat a course.
+
+<p id=15530><form>ripitisiyun</form> <tr>encore</tr>, an exclamation asking for <tr>repetition</tr> of a performance. <pos>n</pos> <tr>encore</tr> given by a performer. <i>Walà muhátag ug ripitisiyun,</i> He wouldn&apos;t give an encore.
+
+<p id=15531><form>ripl&acaron;n</form> <pos>n</pos> <number>1</number> <tr>folk belief</tr> about s.t. that will happen. <i>Mauy ripl&acaron;n sa karáan nga kun magdamgu ug tái makadaug sa súgal,</i> It&apos;s a folk belief that when one dreams of feces he will win in gambling. <i>Mauy ripl&acaron;n sa mga karáang táwu nga muabut ang panahun nga ang puthaw manglúpad,</i> Old folks believe that time will come when iron flies. <number>2</number> <tr>proverb</tr>, <tr>saying</tr>. <i>Adúnay ripl&acaron;n nga nag-ingun nga ang tábì dílì maputus,</i> There&apos;s a proverb which says &lsquo;You can&apos;t wrap gossip up (i.e. keep it secret).&rsquo;
+
+<p id=15532><form>ripli</form> <pos>n</pos> <tr>rifle</tr>. <pos>v</pos> <number>1</number> <itype>[A12; a12]</itype> <tr>shoot</tr> s.t. with a rifle. <i>Riplihun ku nang irúa kay mamáak,</i> I&apos;ll shoot that dog with a rifle because it bites. <number>2</number> <itype>[A12]</itype> obtain a rifle. <form>{&mdash;|ripli} nga dibumba</form> <pos>n</pos> <tr>air-rifle</tr>.
+
+<p id=15533><form>riplí</form> <pos>v</pos> <itype>[A; c1]</itype> <tr>replay</tr> recorded music.
+
+<p id=15534><form>ripliksiyun</form> <pos>n</pos> <tr>reflection</tr> in a mirror or the like.
+
+<p id=15535><form>ripliktur</form> <pos>n</pos> <tr>reflectors</tr> for motor vehicles.
+
+<p id=15536><form>ripr&acaron;n</form> <xr>= <sc>ripl&acaron;n</sc>.</xr>
+
+<p id=15537><form>ripridyirítur</form> <pos>n</pos> <tr>refrigerator</tr>. <pos>v</pos> <itype>[A1; c6]</itype> use, obtain a refrigerator.
+
+<p id=15538><form>riprisint&acaron;r</form> <pos>v</pos> <itype>[A; b(1)]</itype> <tr>represent</tr>. <i>Si Glurya Díyas mauy miriprisint&acaron;r sa Yúbi sa banggà,</i> Gloria Diaz represented <abbr expan="University of the Visayas">U.V.</abbr> in the contest. <i>Siya mauy nagriprisintar sa ikaduhang distrítu,</i> He is the <tr>representative</tr> of the second district. <i>Unsang kapunungána ímung giriprisintahan?</i> What organization do you represent? <form>riprisintanti</form> <pos>n</pos> <number>1</number> <tr>congressman</tr>. <number>2</number> s.o. who represents. <i>Dúnay riprisintanti ang átung punduk sa maung kumbinsiyun,</i> Our organization sent a representative to the convention. <pos>v</pos> <itype>[B156; c1]</itype> be, become a <tr>congressman</tr> or representative. <form>riprisintasiyun<sub>1</sub></form> <pos>n</pos> <tr>representatives</tr> collectively sent s.w. <i>Ang riprisintasiyun sa kabisay-an mauy nanaug sa Prisáa,</i> The representatives of the Visayas won the PRISAA athletic meet.
+
+<p id=15539><form>riprisintasiyun<sub>2</sub></form> <number>1</number> <tr>standard</tr> to maintain, a <tr>front</tr> to keep up. <i>Gamay ra ug swildu ang magtutudlù apan kinahanglan may riprisintasiyun ang íyang pamuyù,</i> A teacher has a meager salary, but he still has to keep up a front. <number>2</number> <tr>bearing</tr>, personality that impresses. <i>Ang íyang kunsurti way riprisintasiyun kay mabag tambuk,</i> Her consort is unimpressive in his bearing because he is short and fat.
+
+<p id=15540><form>riprisku</form> <pos>n</pos> <tr>refreshments</tr>. <pos>v</pos> <itype>[A; c]</itype> take refreshments.
+
+<p id=15541><form>riprismin, riprismint</form> <pos>n</pos> <number>1</number> <tr>refreshments</tr> esp. cold drinks. <number>2</number> <formx>{&mdash;|riprismin} parlur</formx> <tr>refreshment parlor</tr>. <pos>v</pos> <itype>[A12N; c]</itype> take refreshments.
+
+<p id=15542><form>ripublika</form> <pos>n</pos> <tr>republic</tr>. <pos>v</pos> <itype>[B1256; c1]</itype> be, become a republic.
+
+<p id=15543><form>ripulyu</form> <pos>n</pos> <tr>cabbage</tr>.
+
+<p id=15544><form>ripurt</form> <pos>n</pos> <number>1</number> <tr>report</tr>, piece of <tr>news</tr>. <i>Mátud sa mga ripurt, tulu ang patay,</i> According to the reports, three were killed. <number>1a</number> piece of malicious information. <i>Ayaw panumbalinga kanang mga ripurt,</i> Don&apos;t pay any heed to that <tr>gossip</tr>. <number>2</number> official <tr>report</tr> or presentation of facts. <i>Way kamatuúran ang ripurt sa prisidinti,</i> The presidential report lacks credibility. <pos>v</pos> <number>1</number> <itype>[A2]</itype> <tr>report</tr> to a place of work. <i>Dílì ku muripurt sa upisína ugmà,</i> I will not report to the office tomorrow. <number>2</number> <itype>[A; c]</itype> report s.t. wrong. <i>Iripurt ta ka sa manidy&icaron;r,</i> I shall report you to the manager. <i>Ímung giripurt ang tilipunung nadáut?</i> Did you report the telephone out of order? <number>2a</number> give a report, piece of news. <i>Giripurt siyang patay,</i> He was reported dead. <form>{-ir|ripurtir}</form> <pos>n</pos> <number>1</number> news <tr>reporter</tr>, one who reports bad things to the authorities. <i>Dúna giyuy ripurtir ning átung upisína,</i> There&apos;s a spy in the office. <number>2</number> <tr>gossip</tr>. <i>Paglikay ánang bayhána kay ripurtir nà,</i> Keep away from that woman because she is a gossip. <pos>v</pos> <itype>[B156]</itype> be, become a news reporter.
+
+<p id=15545><form>rirayit</form> <pos>v</pos> <itype>[A; c1]</itype> <tr>rewrite</tr>. <i>Irirayit nà kay di mabása,</i> Rewrite that because it&apos;s illegible.
+
+<p id=15546><form>*risáda</form> <form>mísa {&mdash;|risáda}</form> <pos>n</pos> low mass.
+
+<p id=15547><form>Risal</form> <ix>name</ix> Jose Rizal, a national hero of the Philippines. <pos>v</pos> <itype>[B1456]</itype> be <tr>earnest</tr>, <tr>diligent</tr> like Rizal. <i>Mutrabáhu giyud nà siya bísag Duminggu. Magrisal tingáli,</i> He goes to work, even on Sundays. He must want to be a <pb n=830>hero. <form>{-in-|rinisal}</form> <pos>a</pos> hair style like Rizal&apos;s.
+
+<p id=15548><form>risáyin</form> <pos>v</pos> <itype>[A2; b3]</itype> <tr>quit</tr> one&apos;s job. <i>Mirisáyin ang sikritarya,</i> The secretary resigned.
+
+<p id=15549><form>risáyit</form> <pos>v</pos> <itype>[A; c1]</itype> <tr>recite</tr> a poem in class.
+
+<p id=15550><form>risaytal</form> <pos>n</pos> musical <tr>recital</tr>. <pos>v</pos> <itype>[A1; c6]</itype> hold a recital.
+
+<p id=15551><form>risgu</form> <pos>n</pos> <tr>risk</tr>, the chance or danger of injury, <tr>loss</tr>. <i>Risgu ang pagpanguntrabandu,</i> Smuggling is a <tr>risky</tr> business. <i>Ang paglabang ánang subáa dakung risgu sa kinabúhì,</i> You cross that river at the risk of your life. <pos>v</pos> <itype>[A3P; c1]</itype> take a risk. <i>Dautan ang panahun apan murisgu lang ku pagbiyáhi,</i> The weather is bad, but I&apos;ll take a risk and travel.
+
+<p id=15552><form>risibi</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> <tr>look after</tr>, <tr>take care of</tr>. <i>Ug dì ka kamau murisibi sa mga urkids, mangamátay lang nà,</i> If you don&apos;t know how to take care of the orchids, they&apos;ll die. <number>1a</number> <tr>entertain</tr>, <tr>receive</tr> a guest or visitor. <i>Maáyug mga bigsyat ta kay risibihun dáyun,</i> They would have tried to outdo each other in entertaining us had we been big shots. <number>2</number> pay attention to what one is about. <i>Risibiha ang ímung gibúhat arun dílì magkasayupsayup,</i> Pay attention to what you are about so it won&apos;t be full of mistakes. <form>{-dur(&rarr;)|risibidur}</form> <pos>n</pos> <tr>living room</tr>. <form>{-in-|rinisibi}</form> <pos>n</pos> s.t. given full care and attention.
+
+<p id=15553><form>risíbu</form> <pos>n</pos> <tr>receipt</tr>. <pos>v</pos> <itype>[A2; b]</itype> make or issue a receipt.
+
+<p id=15554><form>risidídu</form> <xr>= <sc>disidídu</sc>.</xr>
+
+<p id=15555><form>risidins</form> <pos>n</pos> <number>1</number> <xr>= <sc>risidinsiya</sc>.</xr> <number>2</number> <tr>residence</tr> in school to graduate or get honors.
+
+<p id=15556><form>risidin sirtipikit</form> <pos>n</pos> <tr>residence certificate</tr>.
+
+<p id=15557><form>risidinsiya</form> <pos>n</pos> <number>1</number> <tr>residence</tr>, <tr>dwelling</tr> place of a nice sort. <number>2</number> residence to fulfill voting requirements. <pos>v</pos> <itype>[A]</itype> have a long enough residence.
+
+<p id=15558><form>risikáda</form> <pos>n</pos> <tr>copra</tr> that has dried beyond the usual standard moisture content. <i>Ang kupras risikáda mas mahal ug prisyu,</i> Very dry copra fetches a higher price. <pos>v</pos> <itype>[A2; a1]</itype> be, become quite <tr>dry</tr>.
+
+<p id=15559><form>risíku</form> <pos>n</pos> decrease in weight from evaporation. <pos>v</pos> <number>1</number> <itype>[A2]</itype> for copra to lose its moisture content. <i>Mugaan ang kupras ug murisíku,</i> Copra becomes <tr>lighter</tr> if it loses moisture. <number>2</number> <itype>[A; b6(1)]</itype> deduct possible loss in weight due to evaporation from the material weighed. <i>Risikúhi ang timbang ug báli singku kílus,</i> Deduct five kilos from the original weight for evaporation.
+
+<p id=15560><form>risint&acaron;r</form> <pos>v</pos> <itype>[A; c]</itype> <tr>resent</tr>. <i>Dílì ta murisint&acaron;r ug tagáan ug mga maáyung tambag,</i> We should not resent it when we are given good advice.
+
+<p id=15561><form>risipi</form> <pos>n</pos> <number>1</number> <tr>recipe</tr>. <number>2</number> <tr>recipe book</tr>. <pos>v</pos> <itype>[A1; b]</itype> use a recipe book.
+
+<p id=15562><form>rísir</form> <pos>n</pos> racing <tr>bicycle</tr>.
+
+<p id=15563><form>risirba</form> <pos>n</pos> <number>1</number> s.t. spare for later use. <i>Kining kwartáha risirba pára sa timpu sa kalisud,</i> This money is a <tr>reserve</tr> for difficult times. <i>Wà nay hángin ang risirba,</i> The <tr>spare tire</tr> has no air. <number>2</number> s.t. set <tr>aside</tr> for a special person. <i>Adúna ka nay risirba nga lamísa sa nayitklab,</i> You already have a table <tr>reserved</tr> in the night club. <number>3</number> <tr>reservist</tr> in the armed forces. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> <tr>reserve</tr>, set s.t. <tr>aside</tr> for later use. <i>Átung irisirba ang ítik pára sa pista,</i> I&apos;m reserving the ducks for the fiesta. <number>2</number> <itype>[B1256]</itype> be a reservist. <form>{-du|risirbádu}</form> <pos>a</pos> s.t. set aside for a special purpose. <i>Gidilì ang pagtagà sa mga risirbádung kalasangan,</i> Felling trees in a forest reservation is prohibited. <pos>n</pos> <tr>forest reservation</tr>. <form>{-siyun|risirbasiyun}</form> <pos>n</pos> <tr>forest reservation</tr>.
+
+<p id=15564><form>risis</form> <pos>n</pos> <tr>recess</tr>. <pos>v</pos> <itype>[B56; b(1)]</itype> be recess time, begin recess. <i>Mupaulì siyag marisis,</i> He goes home at recess time.
+
+<p id=15565><form>risistinsiya</form> <pos>n</pos> <number>1</number> <tr>resistance</tr>. <i>Risistinsiya sa inpiksiyun,</i> Resistance to infection. <number>2</number> <tr>endurance</tr>. <i>Way risistinsiya sa bug-at nga trabáhu,</i> He cannot endure hard work. <i>Dúgay siyang kapuyun ug magbaskit bul kay maáyug risistinsiya,</i> He doesn&apos;t easily run out of breath in basketball because he has lots of steam. <form>{-du(&larr;)|risistinsiyádu}</form> <pos>a</pos> having lots of endurance. <pos>v</pos> <itype>[B12]</itype> get to have good endurance.
+
+<p id=15566><form>risíta</form> <pos>n</pos> doctor&apos;s <tr>prescription</tr>. <pos>v</pos> <itype>[A; c]</itype> issue a prescription.
+
+<p id=15567><form>risma</form> <pos>n</pos> <tr>ream</tr> of paper of 500 sheets.
+
+<p id=15568><form>rispitar</form> <pos>n</pos> <number>1</number> <tr>respect</tr>, showing s.o. the <tr>deference</tr> and courtesy due him in his station. <i>Wà kay rispitar sa ímung ginikánan,</i> You don&apos;t show your parents the respect that is due them. <number>2</number> sign of courtesy. <i>Rispitar lang tung ákung pagtambung sa íyang kasal,</i> I went to his wedding out of respect for him. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> respect, recognize a person&apos;s station and rights. <i>Nagrispitar ku sa ímung katungud,</i> I respect your rights. <i>Rispitai ang butang sa uban,</i> Respect other peoples&apos; properties. <number>2</number> <itype>[A; b6]</itype> do s.t. out of respect for s.o. <i>Rispitahan lang nátù ning básung gitágay,</i> We&apos;ll just accept this glass as <tr>recognition</tr> of the person who offered it. <form>rispitádu</form> <pos>a</pos> <number>1</number> <tr>respected</tr>. <i>Mutúu giyud ang mga táwu níya kay rispitádu kaáyu siya,</i> People believe him because he is very much respected. <number>2</number> <tr>respectful</tr>. <i>Rispitádu kaáyu nang tawhána sa mga babáyi,</i> That man is very respectful to women.
+
+<p id=15569><form>rispítu</form> <xr>= <sc>rispitar</sc>, <i>n</i>.</xr>
+
+<p id=15570><form>rispundi</form> <pos>v</pos> <number>1</number> <itype>[A]</itype> take the <tr>responsibility</tr> for s.t. <i>Ikay murispundi ug madáut nà,</i> You&apos;re responsible if that breaks. <i>Kinsay nagrispundi pagpakatúlug sa mga bátà?</i> Who&apos;s <tr>responsible</tr> for putting the children to sleep? <number>2</number> <itype>[A]</itype> shoulder expenses, <tr>provide</tr>. <i>Akuy murispundi <pb n=831>sa ímung pagtuun,</i> I&apos;ll take care of your studies. <number>2a</number> <itype>[A; b6]</itype> take care of s.o.&apos;s expenses for the moment. <i>May talagaan kung dus sa taksi. Rispundihi sà ku,</i> I owe the taxi driver two pesos. Take care of it for me, will you?
+
+<p id=15571><form>rispunsabli</form> <pos>a</pos> <number>1</number> <tr>reliable</tr>, having a sense of <tr>responsibility</tr>. <i>Makasálig ka ánang tawhána kay rispunsabli nà,</i> You can rely on that person because he is <tr>trustworthy</tr>. <number>2</number> <tr>responsible</tr> for s.t. <i>Dì ku rispunsabli sa ímung mga útang,</i> I&apos;m not responsible for your debts. <pos>v</pos> <itype>[B12]</itype> develop a sense of responsibility.
+
+<p id=15572><form>rispunsabilidad, rispunsibilidad</form> <pos>n</pos> <tr>responsibility</tr>.
+
+<p id=15573><form>rispunsu</form> <pos>n</pos> ceremony of blessing a tomb, usually at the funeral, on death anniversaries, or on All Souls&apos; Day. <pos>v</pos> <itype>[A; b(1)]</itype> bless the tomb.
+
+<p id=15574><form>rista</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>check up on</tr> how s.t. is. <i>Akuy muristar kun natrangkahan bag pultahan,</i> I&apos;ll <tr>check</tr> the door to see if it is bolted. <i>Pagaristahan ang kík ug mitúbù ba,</i> Keep checking the cake to see if it rose.
+
+<p id=15575><form>ristanti</form> <pos>n</pos> <tr>balance</tr>, the amount still owed after a partial settlement. <i>Ilátay ang ákung bag-ung útang sa ristanti,</i> Just add my new debts to the balance I owe. <pos>v</pos> <itype>[A; c]</itype> leave a balance after partial payment.
+
+<p id=15576><form>rist&acaron;r</form> <xr>= <sc>rista</sc>.</xr>
+
+<p id=15577><form>ristawran</form> <pos>n</pos> <tr>restaurant</tr>. <pos>v</pos> <itype>[A1; c1]</itype> engage in a restaurant business; make into a restaurant. <form>{pa&N;-|pangristawran}</form> <pos>v</pos> <itype>[A2; c]</itype> go to a restaurant.
+
+<p id=15578><form>risulta</form> as a <tr>result</tr>. <i>Sígi lang siyag ínum. Risulta, giulsir,</i> He keeps drinking. As a result, he developed an ulcer. <pos>n</pos> <tr>result</tr>. <i>Makaguul ang risulta sa iksámin,</i> The results of the exam are depressing. <i>Mau kanay risulta sa gahiag úlu,</i> That&apos;s what happens to s.o. who is stubborn. <pos>v</pos> <itype>[A23]</itype> result in s.t. <form>{-du|risultádu}</form> <pos>n</pos> result of a bad practice or behavior. <i>Ang ímung ulsir risultádu na nà sa sígi nímung pagpagutum,</i> The ulcer you&apos;ve got comes from letting yourself go hungry all the time.
+
+<p id=15579><form>risulusiyun</form> <pos>n</pos> formal <tr>resolution</tr> to do s.t. <pos>v</pos> <itype>[A13; c]</itype> pass a resolution.
+
+<p id=15580><form>risuriksiyun</form> <pos>n</pos> the <tr>Resurrection</tr> of Christ.
+
+<p id=15581><form>ritásu</form> <pos>n</pos> <number>1</number> <tr>remnants</tr> of cloth. <number>2</number> remnants of wood, metal. <number>3</number> <tr>children</tr> (humorous). <i>Kadaghan sa ímung mga ritásu!</i> What a lot of kids you have! <number>3a</number> <tr>small</tr> ones. <i>Inigsúgud sa bayli padaplin mung mga ritásu ha?</i> When the dance starts the <tr>small fry</tr> step to the sides, will you? <pos>v</pos> <itype>[B1256]</itype> be, become a remnant.
+
+<p id=15582><form>ritatsir</form> <pos>n</pos> one who retouches pictures.
+
+<p id=15583><form>ritáyir</form> <pos>v</pos> <itype>[A2]</itype> <tr>retire</tr> from one&apos;s job or position. <form>{-d|ritáyird}</form> <tr>retired</tr>. <form>{-min|ritáyirmin}</form> <pos>n</pos> <number>1</number> <tr>retirement</tr>. <number>2</number> retirement pay. <i>Inigkadawat ni Tátay sa íyang ritayirmin, makapadáyun ku sa ákung pag-iskuyla,</i> When Dad receives his retirement pay, I can continue my studies.
+
+<p id=15584><form>rítim</form> <pos>n</pos> <number>1</number> an <tr>instrument</tr> for giving the <tr>rhythm</tr>. <number>2</number> <tr>music</tr> played by the instrument which gives the rhythm. <number>3</number> rhythm method of birth control. <pos>v</pos> <number>1</number> <itype>[A; b6(1)]</itype> play the rhythm in a combo performance. <number>2</number> <itype>[A; a12]</itype> use the <tr>rhythm</tr> method for birth control.
+
+<p id=15585><form>ríting</form> <pos>n</pos> <tr>rating</tr> in a board examination. <pos>v</pos> <itype>[A]</itype> get, obtain a rating of.
+
+<p id=15586><form>ritíra</form> <pos>v</pos> <itype>[A2; b36]</itype> <number>1</number> <tr>retreat</tr>, <tr>withdraw</tr>. <i>Miritíra sila pag-abanti sa kaáway,</i> They retreated as the enemy advanced. <number>2</number> <tr>leave</tr> a place. <i>Ngánung miritíra ka man sa Sugbu?</i> Why did you leave Cebu? <number>3</number> <itype>[A2; b36]</itype> <tr>back out</tr> of an agreement. <i>Dílì ku muritíra sa átung sábut,</i> I will not back out of our agreement. <form>{pa-|paritíra}</form> <pos>v</pos> <itype>[A2; a12]</itype> kick s.o. out of a home or job. <i>Paritiráhun ka nákù sa ákung pudir,</i> I&apos;ll kick you out of my home.
+
+<p id=15587><form>ritmu</form> <pos>n</pos> <tr>rhythm</tr>. <i>Adúnay ritmu ang pitik sa átung pulsu,</i> Our pulse beats <tr>rhythmically</tr>.
+
+<p id=15588><form>ritratar</form> <pos>v</pos> <itype>[A; c]</itype> take <tr>pictures</tr>. <i>Akuy muritratar nímu,</i> I&apos;ll take your picture. <i>Dílì makaritratar sa sulud sa simbahan ang ritratista,</i> Photographers can&apos;t take pictures inside the church. <form>{pa-|paritratar}</form> <pos>v</pos> <itype>[A; b(l)]</itype> have one&apos;s picture taken. <i>Nagparitratar mi sa dágat,</i> We had our picture taken by the sea. <form>ritratista</form> <pos>n</pos> <tr>photographer</tr>. <pos>v</pos> <itype>[B156; c1]</itype> be a photographer.
+
+<p id=15589><form>ritrátu</form> <pos>n</pos> <tr>photograph</tr>. <pos>v</pos> <itype>[A; b(1)]</itype> take a <tr>picture</tr>. <form>{pa-|paritrátu}</form> <pos>v</pos> <itype>[A1; ab]</itype> have one&apos;s picture taken.
+
+<p id=15590><form>ritrít</form> <pos>n</pos> religious <tr>retreat</tr>. <pos>v</pos> <itype>[A; b]</itype> hold a retreat. <i>Magritrít mi antis sa Simána Santa,</i> We will hold a retreat before Holy Week.
+
+<p id=15591><form>ritríta</form> <pos>n</pos> ceremony held in the evening of the first day of a novena which precedes the day of the patron saint of a place, where people shouting <ix>&apos;Bíba&apos;</ix> together with a band parade to herald the coming fiesta. Also, the parade held at the dawn of the feast day, where the image of the Saint is paraded with a band to the church for blessing and back to the chapel.
+
+<p id=15592><form>ritru di-</form> <xr><ix>see</ix> <sc>paktu</sc>.</xr>
+
+<p id=15593><form>ritrúku</form> <pos>n</pos> k.o. combination shot in billiards where the player makes a carom when the cue ball is between the two object balls. <pos>v</pos> <itype>[A2; c1]</itype> make this sort of shot.
+
+<p id=15594><form>ritubáda</form> <xr>= <sc>ritubádu</sc> (female).</xr>
+
+<p id=15595><form>ritubádu</form> <pos>a</pos> given to talking back. <pos>v</pos> <itype>[B12]</itype> get into the habit of talking back.
+
+<p id=15596><form>ritubar</form> <pos>v</pos> <itype>[A; c1]</itype> make clothing from an old piece of clothing. <i>Ritubahun ku ning sinínà <pb n=832>sa ákung anak kay gamay na man ni nákù,</i> I&apos;ll <tr>remake</tr> this into a dress for my daughter because it is too small for me.
+
+<p id=15597><form>ritukadur</form> <pos>n</pos> one who touches up photographs.
+
+<p id=15598><form>ritúki</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>touch up</tr> a photograph. <i>Batan-un siyang tan-áwun sa litrátu kay maáyung pagkaritúki,</i> He looks young in the picture because it was well <tr>touched up</tr>. <form>dílì {ma-|maritúki}</form> for s.t. to be so <tr>ugly</tr> nothing can be done to make it look nice. <i>Dílì maritúki ang íyang nawung sa kasukù,</i> When he gets angry he looks terrible.
+
+<p id=15599><form>riturn báwut</form> <pos>n</pos> <tr>return bout</tr> in boxing. <pos>v</pos> <itype>[A2C]</itype> have a return bout.
+
+<p id=15600><form>riurganisar</form> <pos>v</pos> <itype>[A; a12]</itype> <tr>reorganize</tr>. <i>Riurganisahun sa Prisidinti ang íyang gabiníti,</i> The President will reorganize his cabinet. <form>riurganisasiyun</form> <pos>n</pos> <tr>reorganization</tr>.
+
+<p id=15601><form>riyal<sub>1</sub></form> <pos>a</pos> <tr>liberal</tr> spender. <pos>v</pos> <itype>[B126; c1]</itype> be liberal in spending. <i>Wà kay kaugmáun kun magriyal ka sa ímung kwarta,</i> You have no future if you spend your money <tr>liberally</tr>.
+
+<p id=15602><form>riyal<sub>2</sub></form> <pos>n</pos> silver <tr>coin</tr> worth one eighth of a peso, circulated in Spanish times. <form>{-is(&larr;)|riyális}</form> <xr>= <sc>riyal</sc> (plural&mdash;used only after the numbers of Spanish origin).</xr>
+
+<p id=15603><form>riyal<sub>3</sub></form> in the variation of billiards game called <ix>hardin</ix>, the downing on the first strike of the four billiard pins placed in the center. <pos>v</pos> <itype>[B1256; a12]</itype> become, make a <ix>riyal</ix>.
+
+<p id=15604><form>riyal istít</form> <pos>n</pos> <tr>real estate</tr>. <pos>v</pos> <itype>[A]</itype> go into the real estate business.
+
+<p id=15605><form>riyúma</form> <xr>= <sc>rayúma</sc>.</xr>
+
+<p id=15606><form>riyumatismu</form> <pos>n</pos> <tr>rheumatism</tr>.
+
+<p id=15607><form>riyunyun</form> <pos>n</pos> <tr>reunion</tr> of a class or family. <pos>v</pos> <itype>[C]</itype> hold a reunion. <i>Magriyunyun ang pamilya káda Pasku,</i> The family holds a reunion every Christmas. <form>{pa&N;-|pangriyunyun}</form> <pos>v</pos> <itype>[A2]</itype> attend a reunion.
+
+<!-- Entry RPS deviates in using abbreviation -->
+
+<p id=15608><form>RPS /arpíis/</form> abbreviation for Republic of the Philippines Ship put on Philippine naval craft. <i>Ang arpíis Lapulápu mauy yáti sa Prisidinti,</i> The RPS Lapulapu is the yacht of the President.
+
+<p id=15609><form>rubar</form> <pos>v</pos> <itype>[A; a1]</itype> draw a mahjong piece. <pos>n</pos> action of drawing. <form>rubáda</form> <xr>= <sc>rubar</sc>.</xr>
+
+<p id=15610><form>rubi</form> <pos>n</pos> <tr>ruby</tr>, a precious stone.
+
+<p id=15611><form>rublis</form> <xr>= <sc>gawaygáway</sc>.</xr>
+
+<p id=15612><form>rúbu</form> <pos>v</pos> <itype>[A2C; ab2]</itype> <number>1</number> rough s.o. up. <i>Unyà mu na ba buyaga kun magrúbu na nang duha?</i> Will you reprimand them only after they have started roughing each other up? <i>Rubúhun nátù ang dúlà ug lúpig ta,</i> Let&apos;s play the game <tr>rough</tr> if we get out-classed. <number>2</number> engage in heavy petting. <i>Hikit-an si Liyun nga nakigrúbu sa íyang trátu,</i> Leon was seen engaging rough romance with his sweetheart. <pos>n</pos> <tr>fight</tr> or rough and tumble romance. <i>Kun gustu kag rúbu, andam ku,</i> If you want to play rough, I&apos;m ready. <form>pára {&mdash;|rúbu}</form> <pos>n</pos> rough and tumble. <i>Kanang sinináa pára rúbu,</i> This dress is for rough use. <form>ruburúbu</form> <pos>a</pos> <number>1</number> <tr>rough and tumble</tr>. <number>2</number> <tr>informal</tr>, rough and <tr>easy-going</tr> without paying attention to niceties of etiquette. <i>Wà nay platuplátu. Ruburúbu bítaw ni,</i> Let&apos;s not bother with plates. This is a rough and tumble get-together anyway. <pos>v</pos> <itype>[A; a]</itype> do s.t. in a rough way.
+
+<p id=15613><form>rúbut</form> <pos>n</pos> <tr>robot</tr>.
+
+<p id=15614><form>rud-aylan</form> <pos>n</pos> <tr>Rhode Island chicken</tr>.
+
+<p id=15615><form>rúgi</form> <pos>a</pos> <tr>groggy</tr>, <tr>dizzy</tr>. <i>Rúgi siya kay naigù sa usa ka búl,</i> He&apos;s groggy because he got drunk on his jarful of toddy. <pos>v</pos> <itype>[B12; ab3(1)]</itype> get groggy from a blow or liquor. <i>Liphuk nga makarúgi (makaparúgi),</i> A left hook that will send you <tr>reeling</tr>.
+
+<p id=15616><form>rúl<sub>1</sub></form> <pos>n</pos> <number>1</number> <tr>rules</tr> of sports. <number>2</number> <tr>rules</tr> of a school, religious order, and the like.
+
+<p id=15617><form>rúl<sub>2</sub></form> <pos>v</pos> <itype>[A; c1]</itype> roll the hair up on <tr>curlers</tr>.
+
+<p id=15618><form>rúling<sub>1</sub></form> <pos>n</pos> <number>1</number> the <tr>rules</tr> or <tr>procedures</tr> by which s.t. is carried out. <i>Mga rúling sa baksing,</i> Rules of boxing. <i>Unsa may mga rúling sa inyung kapunúngan arun makasúd ta?</i> What are the rules for joining your organization? <number>2</number> the <tr>decision</tr> pronounced by a referee, <tr>ruling</tr> handed down by a judge. <i>Unsa may rúling sa ampayir?</i> What was the umpire&apos;s decision? <i>May rúling sa kurti nga dílì dawátun kúmu piyansa ang yútang prindádu,</i> The court ruled that you cannot post bail with mortgaged property.
+
+<p id=15619><form>*rúling<sub>2</sub></form> <form>{&mdash;|rúling} báyan</form> <pos>n</pos> snack made of old bread, sugared, fried, and shaped into an oval. <form>{&mdash;|rúling} dú</form> <xr>= <sc>bùbuay</sc>.</xr> <xr><ix>see</ix> <sc>bùbù</sc>.</xr> <form>{&mdash;|rúling} ist&ucaron;r</form> <pos>n</pos> <tr>store</tr> or <tr>canteen</tr> set on wheels.
+
+<p id=15620><form>rúlir</form> <pos>n</pos> <tr>ruler</tr>. <pos>v</pos> <itype>[A; ac]</itype> make into, use as a ruler. <form>{(&rarr;)|rulir}</form> <pos>v</pos> <itype>[ab2]</itype> hit with a ruler. <i>Rulirun ta ka run ug dì ka muhílum,</i> I will whack you with a ruler if you don&apos;t keep quiet.
+
+<p id=15621><form>rulíta</form> <pos>n</pos> <tr>roulette</tr> wheel, a rotating disc divided into numbered or colored portions for gambling or drawing lots.
+
+<p id=15622><form>rulkul</form> <pos>v</pos> <itype>[A; a12]</itype> call the <tr>roll</tr>. <i>Magrulkul ang maistru inigsúgud sa klási,</i> The teacher calls the roll at the start of the session. <i>Rulkúlun ang mga diputádu kun dúna bay kúrum,</i> The roll is called for the congressmen to see if there is a quorum. <pos>n</pos> <tr>roll call</tr>.
+
+<p id=15623><form>rulpad</form> <pos>n</pos> <tr>pad</tr> of ruled paper.
+
+<p id=15624><form>rulyu<sub>1</sub></form> <pos>v</pos> <itype>[A; c1]</itype> <tr>coil</tr> or <tr>roll</tr> s.t. up. <pos>n</pos> anything that is stored by rolling it up: roll of film, paper, coil of rope.
+
+<p id=15625><form>rulyu<sub>2</sub></form> <pos>n</pos> <tr>lecture</tr> in the cursillo (a series of religious lectures and prayers for laymen). <pos>v</pos> <itype>[A; b6(1)]</itype> give the lecture in a cursillo.
+
+<pb n=833>
+
+<p id=15626><form>rulyista</form> <pos>n</pos> <tr>lecturer</tr> in a cursillo.
+
+<p id=15627><form>rúmi</form> <xr>= <sc>rami<sub>2</sub></sc>.</xr>
+
+<p id=15628><form>rúma</form> <xr>= <sc>arúma</sc>.</xr>
+
+<p id=15629><form>Rumanista</form> <pos>n</pos> member of the <tr>Roman Catholic</tr> church. <pos>v</pos> <itype>[B1256; b6c1]</itype> be, become a Roman <tr>Catholic</tr>.
+
+<p id=15630><form>rúmans</form> <pos>a</pos> <tr>petting</tr> or <tr>necking</tr>. <i>Báhin sa sining may rúmans,</i> The part of the movie that shows scenes of romance. <form>pára {&mdash;|rúmans}</form> <pos>a</pos> not to be used for anything but romance, i.e. not for hard work (humorous). <i>Ayaw táwun ku pagunáha kay pára rúmans ra ba ning kamúta,</i> Don&apos;t make me weed. These hands of mine are made only for romance. <pos>v</pos> <itype>[C]</itype> engage in petting.
+
+<p id=15631><form>rumansa</form> <pos>n</pos> <number>1</number> <tr>romance</tr>, love <tr>affair</tr>. <i>Ang rumansa sa duha ka bitúun,</i> The love affair of the two stars. <number>2</number> <xr>= <sc>rúmans</sc>.</xr> <pos>v</pos> <xr>= <sc>rúmans</sc>.</xr>
+
+<p id=15632><form>rumantika</form> <xr>= <sc>rumantiku</sc> (female).</xr>
+
+<p id=15633><form>rumantiku</form> <pos>a</pos> <number>1</number> <tr>romantic</tr>, evoking feelings of <tr>amorousness</tr> or <tr>sentimentality</tr>. <i>Rumantikung lugar,</i> A romantic place. <number>2</number> romantic, <tr>amorous</tr>. <i>Rumantikung mga mata,</i> Romantic eyes. <pos>v</pos> <itype>[B12]</itype> be, become romantic.
+
+<p id=15634><form>Rumánu</form> <pos>n</pos> <number>1</number> <tr>Roman</tr>. <number>2</number> Roman <tr>Catholic</tr>. <form>katuliku {&mdash;|rumánu}</form> <pos>n</pos> <tr>Roman Catholic</tr>. <pos>v</pos> <itype>[B156]</itype> become a Roman Catholic.
+
+<p id=15635><form>rumba</form> <pos>n</pos> <tr>rhumba</tr>. <pos>v</pos> <itype>[AC; c1]</itype> do the rhumba.
+
+<p id=15636><form>rumblun</form> <pos>n</pos> k.o. <tr>pandanus</tr> grown widely as an ornamental and for its leaves which are particularly pliant and suitable for weaving. The color is lighter than the other species and the leaves are armed along the edges and the midribs.
+
+<p id=15637><form>rumbu</form> <pos>v</pos> <itype>[A; ac]</itype> <number>1</number> <tr>head</tr> towards the direction of; take s.t. s.w. <i>Sakayang nagrumbu dinhi,</i> A boat heading this way. <i>Ang ímung kabúang nagrumbu nímu sa kadáut,</i> Your foolishness is leading you to misery. <i>Rumbuha nang kahúya,</i> Head towards that tree. <number>2</number> be the <tr>target</tr> or <tr>object</tr> of. <i>Aku tung íyang girumbu sa insultu,</i> I was the target of his insult. <number>3</number> <itype>[A; a]</itype> <tr>batter</tr>, <tr>ram</tr> s.t. down. <i>Rumbúhun ta ning pultahan kay nawálà ang yábi,</i> Let&apos;s batter the door down because we lost the key. <pos>n</pos> <number>1</number> <tr>direction</tr> or <tr>heading</tr> taken. <i>Tan-áwa ug unsay rumbu sa barku,</i> See what direction the ship took. <i>Ása rumbu ning dalána?</i> Where does this road lead to? <i>Gitumba níya ang káhuy rumbu sa sapà,</i> He felled the tree directly into the river. <number>2</number> <tr>destination</tr>, <tr>goal</tr>. <number>3</number> <tr>target</tr>, <tr>object</tr> aimed at.
+
+<p id=15638><form>rumíru</form> <pos>n</pos> <tr>rosemary</tr>, sold as a dried herb for spice.
+
+<p id=15639><form>rumlun</form> <xr>= <sc>rumblun</sc>.</xr>
+
+<p id=15640><form>rumpi</form> <pos>v</pos> <itype>[A; a]</itype> <number>1</number> <tr>destroy</tr> s.t. by breaking it to pieces. <i>Ang mga tulisan mauy mirumpi sa pultahan,</i> The robbers broke the door down. <i>Si Ilurdi mauy nagrumpi sa gúsuk ni Kusáka,</i> Elorde <tr>shattered</tr> Kosaka&apos;s ribs. <number>2</number> destroy a girl&apos;s reputation. <i>Narumpi na ang kadunggánan ánang bayhána,</i> The reputation of that girl is ruined. <pos>n</pos> <xr>= <sc>rumpi kandádu</sc>.</xr> <form>{&mdash;|rumpi} kandádu</form> <pos>n</pos> general name for <tr>barracudas</tr> (the lock breaker): <bio>Sphyraena jello</bio>, et al.
+
+<p id=15641><form>run</form> short for <xr><sc>karun</sc>.</xr>
+
+<p id=15642><form>runda</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> police <tr>raid</tr>. <i>Mga Písi ang mirunda sa sugálan,</i> The <abbr expan="Philippine Constabulary">P.C.</abbr> raided the gambling den. <number>2</number> go to s.o.&apos;s house unexpectedly to collect a debt, ask for charity. <i>Girunda mi sa mananaygun,</i> The carollers came to see us to <tr>solicit</tr> money (lit. raided us).
+
+<p id=15643><form>rundalya</form> <pos>n</pos> <tr>orchestra</tr> consisting mainly of native stringed instruments. <pos>v</pos> <itype>[A1]</itype> form a <ix>rundalya</ix>.
+
+<p id=15644><form>rúng</form> <pos>a</pos> <tr>wrong</tr> answer in an exam. <i>Rúng tanan ang ákung ansir,</i> All my answers were wrong. <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> mark s.t. wrong. <number>2</number> <itype>[B126; b6]</itype> be, become wrong.
+
+<p id=15645><form>rungkilyu</form> <pos>n</pos> name of a notorious bandit during Spanish times. <pos>v</pos> <itype>[B3(1)]</itype> <tr>flare up</tr> at s.o. unreasonably at the slightest provocation. <i>Murungkilyu (marungkilyu) siya kun mahubug,</i> He gets mad easily when he is drunk.
+
+<p id=15646><form>runíyu</form> <pos>n</pos> mimeographing machine (so called from the brand name <tr>Roneo</tr>). <pos>v</pos> <itype>[A; a]</itype> <tr>mimeograph</tr> s.t.
+
+<p id=15647><form>rup gardin</form> <pos>n</pos> <tr>roof garden</tr>.
+
+<p id=15648><form>rúral</form> <pos>n</pos> <tr>rural</tr> <tr>doctor</tr>, <tr>bank</tr>. <i>Dílì maáyung ipanghuwam sa rúral kay dakug pursintu,</i> It&apos;s no good to borrow from rural banks because they charge a high percentage. <form>{&mdash;|rúral} duktur</form> <tr>rural doctor</tr>. <form>{(&rarr;)|rural}</form> <formx>bangku {&mdash;|rural}</formx> <tr>rural bank</tr>.
+
+<p id=15649><form>rús</form> <pos>n</pos> <tr>rose</tr>. <form>byitnam {&mdash;|rús}</form> <number>1</number> ornamental <tr>herb</tr> bearing rose-like flowers: <bio>Portulaca grandiflora</bio>. <number>2</number> k.o. venereal disease.
+
+<p id=15650><form>rúsa</form> <pos>n</pos> <tr>rose-colored</tr>, <tr>pink</tr>. <pos>v</pos> <itype>[B]</itype> be, become rose-colored.
+
+<p id=15651><form>rusal</form> <pos>n</pos> <tr>gardenia</tr>, grown as an ornamental.
+
+<p id=15652><form>rusaryu</form> <pos>n</pos> <tr>rosary</tr>. <pos>v</pos> <itype>[A; b(1)]</itype> pray the rosary. <form>rusaryuan, rusaryuhan, rusaryúhan</form> <pos>n</pos> <tr>rosary beads</tr>.&dagger;
+
+<p id=15653><form>rúsas</form> <pos>n</pos> <number>1</number> <tr>rose</tr>. <number>2</number> <xr>= <sc>rúsa</sc>.</xr> <form>{&mdash;|rúsas} dihapun, {&mdash;|rúsas} dipapil</form> kinds of <tr>chrysanthemums</tr>. <form>{&mdash;|rúsas} dipúkì</form> <xr>= <sc>púkì</sc>, <i>2.</i></xr> <form>{di-|dirúsas}</form> <pos>a</pos> <tr>rose-colored</tr>. <i>Dirúsas ang ákung páyung,</i> My umbrella is rose-colored. <pos>v</pos> <itype>[A12]</itype> anything that is wrong with (humorous euphemism). <i>Ang nakadirúsas nímu kay dì ka kamau,</i> The thing that&apos;s wrong with you is that you don&apos;t know how.
+
+<p id=15654><form>rusítas</form> <pos>n</pos> <tr>rosette</tr> design of jewelry.
+
+<pb n=834>
+
+<p id=15655><form>ruska</form> <pos>n</pos> <tr>screw</tr> or small <tr>nut</tr>. <pos>v</pos> <itype>[b6(1)]</itype> attach with, drive in a screw or bolt.&dagger;
+
+<p id=15656><form>ruskilyus</form> <pos>n</pos> k.o. ring-shaped fancy <tr>cookies</tr> made of flour and egg yolks. <pos>v</pos> <itype>[A; a2]</itype> have, make this k.o. cookie.
+
+<p id=15657><form>Rúsu</form> <pos>n</pos> <tr>Russian</tr>.
+
+<p id=15658><form>rúta</form> <pos>n</pos> <tr>route</tr>, <tr>itinerary</tr>. <i>Ang rúta sa ámung paglangyaw muági sa Rúma,</i> Our tour will go through Rome. <i>Dílì ku muhatud sa Pwinti. Dílì nà ákung rúta,</i> I don&apos;t take passengers to the Fuente because that is not my route.
+
+<p id=15659><form>rutisiyun</form> <pos>n</pos> working in shifts or on a two-week <tr>rotational</tr> basis. <pos>v</pos> <itype>[A13; c1]</itype> work in shifts or on a <tr>rotation</tr> basis. <i>Hínay ang trabáhu maung nagrutisiyun ang mga trabahanti,</i> Business is slow so the laborers are working on a rotation basis.
+
+<p id=15660><form>rutunda</form> <pos>n</pos> small round <tr>park</tr> or grass <tr>island</tr> at an intersection.
+
+<p id=15661><form>rúyal</form> a winning mahjong hand consisting of only one design. <form>{&mdash;|rúyal} buki</form> <pos>n</pos> a <ix>buki</ix> consisting of all black or all red numbers. <form>{&mdash;|rúyal} iskalíra</form> <ix>see</ix> <xr><sc>iskalíra</sc>.</xr> <form>{&mdash;|rúyal} midul kard</form> a <ix>rúyal</ix> hand composed of <ix>midul kards</ix>. <form>{&mdash;|rúyal} pyanghaw</form> a <ix>rúyal</ix> hand consisting of a <ix>pyanghaw</ix>.&dagger;
+
+<p id=15662><form>ruyda</form> <pos>n</pos> <number>1</number> <tr>wheel</tr> with wooden spokes. <number>2</number> wheel or <tr>flywheel</tr> with spokes in a printing press. <number>3</number> <tr>arena</tr> or <tr>ring</tr> in a cockpit, boxing stadium, circus. <pos>v</pos> <itype>[B46; c1]</itype> <tr>turn</tr> around. <i>Nagruyda ang ákung úlu sa pagkainum,</i> My head is <tr>awhirl</tr> after I drank s.t. <i>Nagruyda ang palábad sa ayruplánu,</i> The airplane propeller is <tr>whirling</tr>. <i>Ruydáhun (iruyda) sa kábaw ang galingan sa intusan,</i> The carabao will pull the sugar cane grinder around.
+
+
+
+</body>
+</text>
+</TEI.2>

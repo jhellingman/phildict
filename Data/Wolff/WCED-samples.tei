@@ -1,0 +1,66 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY larr       CDATA "&#x2190;"            -- leftwards arrow -->
+<!ENTITY rarr       CDATA "&#x2192;"            -- rightwards arrow -->
+<!ENTITY glots      CDATA "&#x0294;"            -- glottal stop -->
+
+<!ENTITY amacr      CDATA "&#x0101;"            -- a with macron -->
+<!ENTITY imacr      CDATA "&#x012B;"            -- i with macron -->
+<!ENTITY umacr      CDATA "&#x016B;"            -- u with macron -->
+
+<!ENTITY amacrgra   CDATA "&#x0101;&#x0300;"    -- a with macron and grave -->
+<!ENTITY imacrgra   CDATA "&#x012B;&#x0300;"    -- i with macron and grave -->
+<!ENTITY umacrgra   CDATA "&#x016B;&#x0300;"    -- u with macron and grave -->
+
+<!ENTITY amacracu   CDATA "&#x0101;&#x0301;"    -- a with macron and acute -->
+<!ENTITY imacracu   CDATA "&#x012B;&#x0301;"    -- i with macron and acute -->
+<!ENTITY umacracu   CDATA "&#x016B;&#x0301;"    -- u with macron and acute -->
+
+<!ENTITY Acaron     CDATA "&#x01CD;"            -- A with caron -->
+<!ENTITY acaron     CDATA "&#x01CE;"            -- a with caron -->
+<!ENTITY Icaron     CDATA "&#x01CF;"            -- I with caron -->
+<!ENTITY icaron     CDATA "&#x01D0;"            -- i with caron -->
+<!ENTITY Ucaron     CDATA "&#x01D3;"            -- U with caron -->
+<!ENTITY ucaron     CDATA "&#x01D4;"            -- u with caron -->
+
+<!ENTITY schwa      CDATA "&#x0259;"            -- schwa (turned e) -->
+
+]><TEI.2 lang=en>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A Dictionary of Cebuano Visayan (Samples)</title>
+            <author>John U. Wolff</author>
+        </titleStmt>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language id=en>English</language>
+            <language id=en-US>English (United States)</language>
+            <language id=ceb>Cebuano</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<div1 id=letter-samples>
+<head>Samples</head>
+
+
+<!-- Structure with phrasal sub-entry -->
+
+<p><form>kabilinggan</form> <pos>n</pos> <number>1</number> <tr>impediment</tr> to one&apos;s freedom of action. <i>Makalangyaw ku kay ulitáwu pang way kabilinggan,</i> I&apos;m free to travel as I am unmarried and have no responsibilities. <i>Dúnay kabilinggan ang yútà,</i> There&apos;s some problem with the title to that land. <sense><form type="phrase" expand="walay kabilinggan">walay &mdash;</form> <number>a</number> of no impediment. <number>b</number> of no importance. <i>Dinhay áway piru wà tuy kabilinggan,</i> There was a fight, but it was nothing worth talking about. <i>Way kabilinggan nang samára. Kadlas ra,</i> That wound was nothing. It was just a scratch. <i>Way kabilinggan ug hutdan tag kwarta kay makahuwam ta,</i> It doesn&apos;t matter if we run out of money because we can always borrow.</sense> <number>2</number> <tr>responsibility</tr>. <i>Dakung kabilinggan ang pagkuput ug dakung kwarta,</i> It&apos;s a big responsibility to be in charge of a large sum of money. <number>3</number> things to attend to. <i>Dúgay siyang maulì kay may kabilinggan pang giatiman sa upisína,</i> He will come home late because he has s.t. to attend to at the office. <form expand="kabilingganun">-un</form> <pos>a</pos> having responsibilities.
+
+<!-- Structure with multiple phrasal sub-entries -->
+
+<p><form>ispísu</form> <pos>a</pos> <number>1</number> for liquids to be thick, of great density. <i>Ispísu kaáyung sikwáti kay gidaghan níyag tablíya,</i> The chocolate drink is thick because he put lots of chocolate on it. <number>2</number> for colors to be intense as if thickly laid on. <i>Ispísu kaáyu ang kaitum sa balhíbu sa ákung iring,</i> My cat&apos;s hair is a deep black. <number>3</number> <formx>&mdash; nga <r>[<ix>noun</ix>]</r></formx> a diehard, fanatic follower or believer of. <i>Ispísu giyud nang Katuliku,</i> He is a devout Catholic. <i>Ispísung Usminyista,</i> Diehard follower of Osmeña. <number>4</number> <ix>in phrases:</ix> <sense><form>&mdash; ug apdu</form> brave (lit. having thick bile).</sense> <sense><form>&mdash; ug dugù</form> <number>a</number> having guts. <number>b</number> heartless, merciless.</sense> <sense><form>&mdash; ug hambug</form> laying bragging on thick.</sense> <pos>v</pos> <itype>[AB; c1]</itype> for liquids to become thick, cause them to do so. <i>Muispísu (maispísu) ang sabaw ug butangag úbi,</i> The soup will become thick if you add yams.
+
+<!-- Some text and cross reference -->
+
+<p><form>ka-an<sub>1</sub></form> inflectional affix: the local passive potential, future. <xr><ix>see</ix> <sc>-AN<sub>1</sub></sc>.</xr>
+
+</body>
+</text>
+</TEI.2>

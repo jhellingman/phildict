@@ -1,0 +1,491 @@
+
+== Wolff's Cebuano-English Dictionary Digitization Project ==
+
+
+=== Process overview ===
+
+Tasks:
+
+Status  Description
+------  -----------
+DONE    Preparing scans. (We have the Cornell set and an alternative PDF that circulates in the Philippines)
+DONE    Training OCR.
+DONE    Setting up projects for Distributed proofreaders (One for the Introduction, one for each letter, start smallest letter first)
+ONGOING Attract volunteers to the projects (various mailing lists, etc.)
+ONGOING Wait for completion of projects
+ONGOING Develop tagging tools (just ad-hoc Perl scripts)
+ONGOING Tag introduction (just TEI) and generate HTML version.
+ONGOING Develop ad-hoc XML schema (including XSD or Relax-NG schema)
+ONGOING Develop various tools to process data
+TODO    Tag each letter (ad-hoc XML)
+TODO    Disambiguate data where needed.
+ONGOING Develop database format (SQL structure plus indexing)
+TODO    Develop web pages (including XSLT transforms from database XML)
+TODO    Import data into database.
+TODO    Publish data on website
+
+
+=== Structure of WCED entry ===
+
+This is an semi-formal ad-hoc XML representation which can be generated from the typographically
+tagged text.
+
+<dictionary>                    top level node
+
+<entry>                         start of entry sticks out into margin about one em
+    <hw>                        bold of root, optionally variants separated by commas.
+    <grammar>*                  structured by part-of-speach first
+    <subentry>*                 subentries are word forms derived from the root
+
+<hw>
+    <star>                      asterisk if root does not appear alone
+    <word>                      actual head word in bold
+    <nr>                        subscript number to disambiguate homonyms
+
+<grammar>                       section devoted to one gr. role of this word
+    <note>                      note between parentheses
+    <pos>                       part-of-speach; italics, abbreviation
+    <class>                     verb classes between brackets
+    <def>*
+
+<def>                           definition, section devoted to one meaning of this word.
+    <nr>                        bold number, 1, 2, 3, optionally 1a, 1b, 1c, 1a1, 1a2, etc.
+    <use>                       usage, i.e, if meaning applies to idiomatic expression.
+    <class>                     ver class, if different from section.
+    <eng>                       English synonym for the headword
+    <ex>*
+        <ceb>                   Sample sentence using the headword.
+        <eng>                   English translation of the sample sentence.
+
+<xref>                          cross reference, starts with =, see, see also.
+    <word>                      word referenced to, bold small caps.
+
+The following tags can be placed anywhere in the structure
+
+<corr>                          correction of source
+<pb>                            page-break in source
+<abbr>                          abbreviation (with expansion)
+
+
+=== Character Encoding ===
+
+The dictionary uses the following special characters
+
+Description         Sample      Unicode     ID encoding Remark
+------------------  ----------  ----------  ----------- -------------
+Acute accents:      Áá Íí Úú                ax ix ux
+Grave accents:      Àà Ìì Ùù                aq iq uq
+Wedge (hajek):      Aa Ii Uu                axx ixx uxx (only internal use: Ââ Îî Ûû)
+Macron and Acute:   Aa Ii Uu                aqq iqq uqq (only internal use: Ää Ïï Üü)
+Tilde:              Ññ                      nx
+
+Left arrow          <-                      lx          (internally use: «)
+Right arrow         ->                      rx          (internally use: »)
+Space                                       _
+
+ID encoding: for generation of ID's, which should consist entirely out of ASCII characters, we
+use the letters x and q, which do not normally appear in Cebuano words.
+
+
+=== Font Styles and Meanings ===
+
+Font style          Tag     Function
+-----------------   -----   --------
+Regular                     English; Verb classes (always in [])
+Bold                <b>     Headwords; Definition labels (Number, lc letter, number)
+Italic              <i>     Cebuano, sometimes cited words in in English; grammar labels
+Bold Italic         <bi>    Scientific names
+Bold Small Caps     <sc>    Cross references
+Subscript           <sub>   Headword disambiguation (Numbers)
+
+
+=== Sample entries ===
+
+luwas, page 655-656
+
+
+<entry>
+    <hw>luwas<nr>1</nr></hw>
+    <grammar>
+        <pos>v</pos>
+        <class>[A3P; a1]</class>
+        <def>
+            <nr>1</nr>
+            <eng>save, remove s.o. from harm.</eng>
+            <ex>
+                <ceb>Tambal ang nakaluwas (nakapaluwas) nimu</ceb>,
+                <eng>Medicine has saved your life.</eng>
+            </ex>
+            <ex>                <!-- multiple examples per meaning are possible. -->
+                <ceb>Ákung luwasun ang bátà sa balay nga nasúnug</ceb>,
+                <eng>I'll save the child from the burning house.</eng>
+            </ex>
+        </def>
+        <def>
+            <nr>1a</nr>                     <!-- numbers can indicate some informal relationship -->
+            <eng>save from sin and death</eng>
+            <ex>
+                <ceb>Maluwas ta sa kalisud ug makatrabahu na ku</ceb>,
+                <eng>We will escape from our financial worries when I find a job.</eng>
+            </ex>
+        </def>
+    </grammar>
+    <grammar>
+        <pos>a</pos>
+        <def>
+            <nr>1</nr>
+            <eng>safe from danger.</eng>
+        </def>
+        <def>
+            <nr>2</nr>
+            <eng>free from debt, discomfort.</eng>
+        </def>
+    </grammar>
+    <subentry>
+        <hw>ka-an(&lt;-)</hw>       <!-- note how the headwords are indicated by affix patterns -->
+        <grammar>
+            <pos>n</pos>
+            <def>
+                <nr>1</nr>
+                <eng>safety, preservation from destruction.</eng>
+            </def>
+            <def>
+                <nr>2</nr>
+                <eng>salvation.</eng>
+            </def>
+            <def>
+                <nr>3</nr>
+                <eng>freedom from difficulties, problems, etc.</eng>
+            </def>
+        </grammar>
+    </subentry>
+    <subentry>
+        <hw>manN-r-(&lt;-)</hw>
+        <grammar>
+            <pos>n</pos>
+            <def>           <!-- numbers omitted if just one meaning -->
+                <eng>saviour, esp. The Saviour, Jesus Christ.</eng>
+            </def>
+        </grammar>
+    </subentry>
+</entry>
+
+Note how the following entry has very little content under the main root, but only under
+various subentries:
+
+<entry>
+    <hw>luwas<nr>2</nr></hw>
+    <grammar>
+        <pos>v</pos>
+        <xref>= <word>HI-</word></xref>
+    </grammar>,
+    <grammar>
+        <pos>v</pos>                        <!-- just saying v, appears spurious -->
+    </grammar>.
+    <subentry>
+        <hw>hi-</hw>, <hw>hilwas</hw>       <!-- assimilation of prefix explicit -->
+        <grammar>
+            <pos>v</pos>
+            <class>[A12; a12]</class>
+            <def>
+                <nr>1</nr>
+                <eng>articulate, pronounce words or letters.</eng>
+                <ex>
+                    <ceb>Dì makahilwas ug íri ang Insik</ceb>,
+                    <eng>The Chinese can't pronounce an <hi>r</hi>.</eng>
+                </ex>
+            </def>
+            <def>
+                <nr>2</nr>
+                <eng>utter taboo words.</eng>
+                <ex>
+                    <ceb>Sa íyang kasakù, nakahilwas siyag mga púlung nga law-ay</ceb>,
+                    <eng>In his anger he uttered profanity.</eng>
+                </ex>
+            </def>
+        </grammar>
+        <grammar>
+            <pos>a</pos>
+            <def>
+                <eng>well articulated.</eng>
+                <ex>
+                    <ceb>Hilwas na kaáyug sinultihan ang bátà</ceb>,
+                    <eng>The child can now speak very articulately.</eng>
+                </ex>
+            </def>
+        </grammar>
+    </subentry>
+    <subentry>
+        <hw>-in-(&lt;-)</hw>, <hw>ka-an(&lt;-)</hw>
+        <grammar>
+            <pos>n</pos>
+            <def>
+                <eng>one's full name</eng>
+                <ex>
+                    <ceb>Idut ang íyang anggà apan Prídu ang íyang kaluwásan (linúwas)</ceb>,
+                    <eng>His nickname is Edot but his real name is Fredo.</eng>
+                </ex>
+            </def>
+        </grammar>
+    </subentry>
+</entry>
+
+
+unud, page 1102
+
+
+<entry>
+    <hw>unud</hw>
+    <grammar>
+        <pos>n</pos>
+        <def>
+            <nr>1</nr>
+            <eng>flesh.</eng>
+            <ex>
+                <ceb>Unud sa báka</ceb>,
+                <eng>Cow's flesh.</eng>
+            </ex>
+            <ex>
+                <ceb>Unud sa imbaw</ceb>,
+                <eng>The flesh of the clam.</eng>
+            </ex>
+            <ex>
+                <ceb>Unud sa mangga</ceb>,
+                <eng>The flesh of the mango.</eng>
+            </ex>
+            <subentry>
+                <hw>-- sa ímung, íyang --</hw>
+                <def>
+                    <eng>one's offspring (lit. flesh of one's flesh).</eng>
+                </def>
+            </subentry>
+            <subentry>   <!-- note how subentries are placed under the def here. The only hint we have for this is the number after this entry. -->
+                <hw>baligyà sa --</hw>
+                <grammar>
+                    <pos>v</pos>
+                    <class>[A; c]</class>
+                    <def>
+                        <eng>practice prostitution (lit. sell one's flesh).</eng>
+                    </def>
+                </grammar>
+            </subentry>
+            <subentry>
+                <hw>kalípay sa --</hw>
+                <grammar> <!-- not explicit, but introduced to maintain structure -->
+                    <def>
+                        <eng>sexual pleasure.</eng>
+                    </def>
+                </grammar>
+            </subentry>
+        </def>
+        <def>
+            <nr>2</nr>
+            <eng>content, integral part within s.t.</eng>
+            <ex>
+                <ceb>Liking way unud</ceb>,
+                <eng>A cigar with no tobacco in it.</eng>
+            </ex>
+            <ex>
+                <ceb>Impanádang gamay ug unud</ceb>,
+                <eng>A meat pie with very little meat in it.</eng>
+            </ex>
+        </def>
+        <def>
+            <nr>2a</nr>
+            <eng>content, meaning.</eng>
+            <ex>
+                <ceb>Pangatarúngan nga way unud</ceb>,
+                <eng>Empty reasoning.</eng>
+            </ex>
+        </def>
+    </grammar>
+    <grammar>
+        <pos>v</pos>
+        <def>
+            <nr>1</nr>
+            <class>[B23N; b6]</class>
+            <eng>put on flesh, become fleshy.</eng>
+            <ex>
+                <ceb>Nangunud na ang kamúti. Makálut na</ceb>,
+                <eng>The sweet potatoes have developed nice and fat. You can dig them up now.</eng>
+            </ex>
+            <ex>
+                <ceb>Giunuran na sad ang íyang láwas</ceb>,
+                <eng>He has gotten flesh back on his body.</eng>
+            </ex>
+        </def>
+        <def>
+            <nr>2</nr>
+            <class>[A; b6]</class>
+            <eng>give content or filler to s.t.</eng>
+            <ex>
+                <ceb>Dì ku muunud ug barut nga tabákù</ceb>,
+                <eng>I do not use a poor k.o. tobacco in my pipe.</eng>
+            </ex>
+            <ex>
+                <ceb>Ilagà kunu ang giunud sa syúpaw</ceb>,
+                <eng>S.o. said they used rat meat as the filling for the Chinese sandwich.</eng>
+            </ex>
+        </def>
+    </grammar>
+    <subentry>
+        <hw>undan</hw>
+        <grammar>
+            <pos>a</pos>
+            <def>
+                <eng>having flesh.</eng>
+            </def>
+            <xref>see also <word>undan</word>.</xref>
+        </grammar>
+    </subentry>
+    <subentry>
+        <hw>undánun</hw>, <hw>maundánun</hw>
+        <grammar>
+            <pos>a</pos>
+            <def>
+                <nr>1</nr>
+                <eng>fleshy, muscular.</eng>
+            </def>
+            <def>
+                <nr>2</nr>
+                <eng>pithy, full of substance or meaning.</eng>
+                <ex>
+                    <ceb>Undánun kaáyu ang ímung sulti</ceb>,
+                    <eng>What you said is full of meaning.</eng>
+                </ex>
+            </def>
+        </grammar>
+    </subentry>
+    <subentry>
+        <hw>kaunuran</hw>
+        <grammar>
+            <pos>n</pos>
+            <eng>flesh, muscles collectively.</eng>
+            <ex>
+                <ceb>Nangúrug ang ákung kaunuran sa kalágut</ceb>,
+                <eng>My flesh trembled in anger.</eng>
+            </ex>
+        </grammar>
+    </subentry>
+    <subentry>
+        <hw>pa-</hw>
+        <grammar>
+            <pos>n</pos>
+            <eng>filler, filling.</eng>
+            <ex>
+                <ceb>Balahíbung gagmay ang paunud sa unlan</ceb>,
+                <eng>Pillows are stuffed with fine feathers.</eng>
+            </ex>
+        </grammar>
+        <grammar>
+            <pos>v</pos>
+            <class>[A; c]</class>
+            <def>
+                <eng>use as filler.</eng>
+            </def>
+        </grammar>
+    </subentry>
+    <subentry>
+        <hw>-nun</hw>
+        <grammar>
+            <pos>a</pos>
+            <def>
+                <eng>pertaining to the flesh.</eng>
+            </def>
+        </grammar>
+    </subentry>
+    <subentry>
+        <hw>-nung tingúhà</hw>
+        <grammar>   <!-- not explicit, but introduced to maintain structure -->
+            <def>
+                <eng>carnal desire.</eng>
+            </def>
+        </grammar>
+    </subentry>
+</entry>
+
+
+
+=== Database structure ===
+
+The following database structure will be used to enable the use of the dictionary on-line:
+
+Entry
+(
+    entryid         id          -- primary key
+    parententryid   id          -- foreign key, linking to parent entry, NULL if main entry.
+    entry           text        -- text of entry, with full XML markup. (except that subentries are pulled out, and replaced by <subentry id=XXX/>)
+)
+
+index on entryid
+
+Headword
+(
+    headwordid      id          -- primary key
+    entryid         id          -- foreign key, linking to entry this headword belongs to.
+    headword        string      -- headword as given in source (empty if not in source, that is for generated word-forms)
+    expanded        string      -- expanded headword
+    normalized      string      -- normalized expanded headword (lower-cased, dropping accents, etc., for search)
+)
+
+index on normalized
+
+Word
+(
+    wordid          id          -- primary key
+    word            string      -- word form
+    lang            string      -- language of word (EN or CEB)
+    normalized      string      -- normalized word form
+)
+
+index on wordid and normalized
+
+WordEntry                       -- link words to entries.
+(
+    wordid          id
+    entryid         id
+)
+
+index on wordid and entryid
+
+=== Additional information needed ===
+
+1. splitting of words in syllables. (Devise algorithm and verify)
+2. actual stress (Devise algorithm and verify, this will rely on syllable splitting)
+3. vowel dropping (e.g. dakup + -an -> dakpan) (this relies on actual stress pattern)
+4. metastasis
+5. insertion of /h/ or /?/
+6. l <-> w
+7. d <-> r
+8. etc.
+
+=== Tools needed ===
+
+db = importCEB(xml)                 -- import the XML masterfile into a database
+                                       * generating all supplementary tables.
+xml = exportCEB(db)                 -- export a database to an XML masterfile.
+                                       * taking care all entries are structured well.
+                                       * keeping generated IDs.
+
+pdf, html, text = transform(xml)    -- transform the master database to printable PDF, full text HTML and text.
+
+forms = verbForms(verb, class)      -- generate all possible forms for
+form = applyAffix(word, affix)      -- generate affixed form from root + affix.
+word = dropL(word, affix)           -- drop the L from a word (balay -> bay)
+
+html = showSummary(xml)             -- transform XML in database to summary HTML for web display.
+html = showEntry(xml)               -- transform XML in database to full HTML for web display.
+html = showVerbForms(verb, class)   -- create overview of allowable verb-forms in HTML for web display.
+
+
+=== Web modules needed ===
+
+search          -- search for a word (options: headwords, full text, english, cebuano).
+results         -- display summary overview of search results. (also browse page)
+entry           -- display an entry.
+verbforms       -- display the forms of a verb.
+
+editentry       -- edit an entry (just the XML in an editbox)
+
+
+

@@ -1,0 +1,140 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN">
+<TEI.2 lang=en>
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>A Dictionary of Cebuano Visayan (Backmatter)</title>
+            <author>John U. Wolff</author>
+        </titleStmt>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language id=en>English</language>
+            <language id=en-US>English (United States)</language>
+            <language id=ceb>Cebuano</language>
+            <language id=es>Spanish</language>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+<text>
+<body>
+<back id=backmatter>
+<pb n=1164>
+<div1 id=biblio type=Bibliography>
+<head>BIBLIOGRAPHY</head>
+
+
+<div2 type=Section>
+<head>CEBUANO DICTIONARIES</head>
+
+
+<p>Cabonce, Rudolfo, <hi>Visayan-English Dictionary</hi>. (Mimeographed.)
+
+<p>Encarnacion, Juan Felix de la, R. P. Fr., <hi lang=es>Diccionario Bisaya-Español</hi>. Third Edition. Manila, 1885.
+
+<p>Estorco, Avelino, <hi>Basic Cebuano-English Dictionary</hi>. (Manuscript.)
+
+<p>Hermosisima, Tomas V., <hi>Bisayan-English-Tagalog Dictionary</hi>. Manila: Pedro B. Ayuda and Co., 1966.
+
+<p>Ruijter, Juan, M. S. C., <hi>Cebuano-English Dictionary</hi>. Lawa-an, Talisay, Cebu: Sacred Heart Seminary, 1967.
+
+
+<div2>
+<head>CEBUANO GRAMMAR</head>
+
+<p>Wolff, John U., <hi>Beginning Cebuano, Parts I and II</hi>. New Haven: Yale University Press, 1966, 1967.
+
+<p>Wolff, John U., &lsquo;The Classification of Cebuano Verbs&rsquo;, <hi>Philippine Journal of Linguistics</hi>, Vol. I, No. 1, 1970.
+
+
+<div2>
+<head>FLORA AND FAUNA</head>
+
+
+<div3 type=Subsection>
+<head>BIRDS</head>
+
+<p>Delacour, Jean T., and Ernst Mayr, <hi>Birds of the Philippine Islands</hi>. New York: The Macmillan Co., 1946.
+
+<p>Hachisuka, The Hon. Masaiya,<hi> The Birds of the Philippine Islands</hi>. London: H. F. Witherby, 1931&ndash;1935.
+
+<p>Thomson, A. Landsborough, <hi>A New Dictionary of Birds</hi>. New York: McGraw-Hill, 1964.
+
+
+<div3>
+<head>FISHES AND SHELLFISHES</head>
+
+<p>Abbott, R. Tucker, <hi>Sea Shells of the World</hi>. New York: Golden Press, 1962.
+
+<p>Herre, Albert W.,<hi> Checklist of Philippine Fishes</hi>. United States Department of Interior, Fish and Wildlife Service, Research Report No. 20. Washington: Government Printing Office, 1953.
+
+<p>Herre, Albert W., and Agustin F. Umali,<hi> English and Local Names of Philippine Fishes</hi>. United States Department of Interior, Circular No. 140. Washington: United States Government Printing Office, 1948.
+
+<p>Hvass, Hans, <hi>Fishes of the World</hi>. London: Methuen and Co., Ltd., 1965.
+
+<p>Munro, Ian S. R., <hi>The Marine and Fresh Water Fishes of Ceylon</hi>. Canberra: Department of External Affairs, 1955.
+
+<p>Nichols, John T., and Paul Bartsch, <hi>Fishes and Shells of the World</hi>. New York: The MacMillan Co., 1945.
+
+<p>Scott, J. S., <hi>Sea Fishes of Malaya</hi>. Kuala Lumpur: Ministry of Agriculture, 1959.
+
+<p>Tinker, Spencer Wilkie, <hi>Pacific Sea Shells</hi>. Tokyo: Charles E. Tuttle Co., 1958.
+
+<p>Umali, Agustin F., <hi>Edible Fishes of Manila</hi>. Commonwealth of the Philippines, Department of Agriculture and Commerce, Popular Bulletin No. 6.
+
+<p>Zim, Herbert S., and Lester Ingle, <hi>Seashores</hi>. New York: Golden Press, 1955.
+
+
+<div3>
+<head>INSECTS</head>
+
+<p>Curran, C. M., <hi>Insects of the Pacific World</hi>. New York: The Macmillan Co., 1946.
+
+<p>Fichter, George S., <hi>Insect Pests</hi>. New York: Golden Press, 1966.
+
+
+<div3>
+<head>MAMMALS</head>
+
+<p>Carter, T. D., J. E. Hill, and G. H. H. Tate, <hi>Mammals of the Pacific World</hi>. New York: The Macmillan Co., 1946.
+
+
+<div3>
+<head>PLANTS</head>
+
+<p>Brown, William, <hi>Useful Plants of the Philippines</hi>. Republic of the Philippines, Department of Agriculture and Commerce, Technical Bulletin No. 10. Manila, 1946.
+
+<p>Merrill, Elmer D., <hi>Plant Life of the Pacific World</hi>. New York: The Macmillan Co., 1945.
+
+<p>Merrill, Elmer D., <hi>Flora of Manila</hi>. (Mimeographed).
+
+<p>Quisumbing, Eduardo, <hi>Medicinal Plants of the Philippines</hi>. Republic of the Philippines, Department of Agriculture and Natural Resources, Technical Bulletin No. 16, Manila, 1951.
+
+<p>Salvosa, Felipe M., <hi>Lexicon of Philippine Trees</hi>. College, Laguna, Philippines: Forest Products Institute, 1963.
+
+<p>Steiner, Mona Lisa, <hi>Philippine Ornamental Plants and their Care</hi>. Second Edition. Manila: Carmelo and Bauermann, Inc., 1960.
+
+
+<div2>
+<head>ANTHROPOLOGICAL STUDIES</head>
+
+<p>Baduel, Concesa M., <hi>A Study of the Cebuano Dayegon</hi>. Unpublished Master&apos;s Thesis, University of the Visayas, Cebu City, 1959.
+
+<p>Demetrio, Francisco R., S. J., <hi>Dictionary of Philippine Folk Beliefs and Customs</hi>. Cagayan de Oro City: Xavier University Press, 1970.
+
+<p>Hart, Donn V., <hi>The Cebuano Filipino Dwelling in Caticugan: Its Construction and Cultural Aspects</hi>. Yale University, Southeast Asia Studies Cultural Report Series. New Haven, 1958.
+
+<p>Lieban, Richard W., <hi>Cebuano Sorcery</hi>. Berkeley: University of California Press, 1967.
+
+<p>Quisumbing, Lourdes R., <hi>Marriage Customs in Rural Cebu</hi>. University of San Carlos, San Carlos Publications, Series A: Humanities No. 3. Cebu City, 1965.
+
+<p>Sodusta, Jesucita. <hi>A Study of the Marriage and Family Practices of the Inhabitants of Siargao Island</hi>. Unpublished Master&apos;s Thesis, University of San Carlos, Cebu City, 1964.
+
+<p>Tago-Gonzales, Lourdes, <hi>A Study of the Superstitious Beliefs, Practices, Pastimes of the People of the Province of Bohol</hi>. Unpublished Master&apos;s Thesis, University of the Visayas, Cebu City, 1959.
+
+<p>Umali, Agustin F., <hi>Guide to the Classification of Fishing Gear in the Philippines</hi>. United States Department of Interior, Fish and Wildlife Service, Research Report No. 17. Washington: United States Government Printing Office, 1950.
+
+
+</back>
+</text>
+</TEI.2>

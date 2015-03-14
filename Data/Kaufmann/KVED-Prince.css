@@ -1,0 +1,158 @@
+
+@page:right 
+{
+    size: A4;
+    margin: 15mm 10mm;
+    padding: 5mm 0;
+    
+    @top-right 
+    {
+        content: string(termstr, first) " - " string(termstr, last);
+        font-size: 10pt;
+        text-align: outside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @top-left 
+    {
+        content: "Visayan-English Dictionary";
+        font-size: 10pt;
+        text-align: inside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @bottom-right
+    {
+        content: counter(page);
+        font-size: 10pt;
+        text-align: outside;
+        border-top: solid black thin
+    }
+}
+
+@page:left
+{
+    size: A4;
+    margin: 15mm 10mm;
+    padding: 5mm 0;
+    
+    @top-right 
+    {
+        content: "Visayan-English Dictionary";
+        font-size: 10pt;
+        text-align: inside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @top-left 
+    {
+        content: string(termstr, first) " - " string(termstr, last);
+        font-size: 10pt;
+        text-align: outside;
+        vertical-align: bottom;
+        border-bottom: solid black thin;
+        padding-bottom: 2mm
+    }
+    
+    @bottom-left
+    {
+        content: counter(page);
+        font-size: 10pt;
+        text-align: outside;
+        border-top: solid black thin
+    }  
+}
+
+
+@page cover 
+{
+    @top { content: normal }
+    @bottom { content: normal }
+}
+
+
+/*=== Formatting Elements ===*/
+
+
+dictionary
+{
+
+    font-family: serif;
+    font-size: 10pt;
+}
+
+col
+{
+    display: block;
+    column-count: 2;
+    column-gap: 40;
+    column-rule: solid black thin;
+}
+
+
+entry 
+{
+    display: block;
+    margin-top: 0.5ex;
+    text-indent: 1em hanging;
+}
+
+p
+{
+    display: block;
+}
+
+
+b, hw
+{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 11pt;
+}
+
+hw
+{
+    display: inline;
+    page-break-after: avoid;
+    string-set: termstr content()
+}
+
+b > s[lang="hil"], hw > s[lang="hil"]
+{
+    font-style: normal;
+}
+
+
+s[lang="hil"]
+{
+    font-style: italic;
+}
+
+div1 > head
+{
+    display: block;
+    page-break-before: always;
+    font-family: Frutiger, sans-serif;
+    font-size: 24pt;
+    margin-top: 4cm;
+    margin-bottom: 2cm;
+    text-align: center;
+}
+
+
+div2 > head
+{
+    display: block;
+    font-weight: bold;
+    font-family: Frutiger, sans-serif;
+    font-size: 64pt;
+    margin-top: 2cm;
+    text-align: center;
+    page-break-after: avoid;
+}
