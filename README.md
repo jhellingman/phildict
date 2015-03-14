@@ -3,7 +3,7 @@ Repository for Philippine language dictionary data
 
 This repository includes a number of old (the most recent is from 1972) dictionaries of Philippine languages I've digitized with the help of [Distributed Proofreaders](http://www.pgdp.net/c/). These are in various states of completeness.
 
-When completed, the full text will be available on Project Gutenberg.
+When completed, the full text will be available on Project Gutenberg. In addition, I've prepared a web-interface to the data on my Bohol website.
 
 Included here are:
 
