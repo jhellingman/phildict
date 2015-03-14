@@ -2,17 +2,16 @@
 
 <!ENTITY gtilde CDATA "&#x0192;" -- g with tilde -->
 
-<!ENTITY ait	CDATA "a" -- italic a			or a withacute -->
-<!ENTITY aacit	CDATA "a" -- italic a with grave or a with circumflex -->
-<!ENTITY eit	CDATA "e" -- italic e			or e withacute -->
-<!ENTITY eacit	CDATA "e" -- italic e with grave or e with circumflex -->
-<!ENTITY iit	CDATA "i" -- italic i			or i withacute -->
-<!ENTITY iacit	CDATA "i" -- italic i with grave or i with circumflex -->
-<!ENTITY oit	CDATA "o" -- italic o			or o withacute -->
-<!ENTITY oacit	CDATA "o" -- italic o with grave or o with circumflex -->
-<!ENTITY uit	CDATA "u" -- italic u			or u withacute -->
-<!ENTITY uacit	CDATA "u" -- italic u with grave or u with circumflex -->
-
+<!ENTITY ait    CDATA "a" -- italic a           or a withacute -->
+<!ENTITY aacit  CDATA "a" -- italic a with grave or a with circumflex -->
+<!ENTITY eit    CDATA "e" -- italic e           or e withacute -->
+<!ENTITY eacit  CDATA "e" -- italic e with grave or e with circumflex -->
+<!ENTITY iit    CDATA "i" -- italic i           or i withacute -->
+<!ENTITY iacit  CDATA "i" -- italic i with grave or i with circumflex -->
+<!ENTITY oit    CDATA "o" -- italic o           or o withacute -->
+<!ENTITY oacit  CDATA "o" -- italic o with grave or o with circumflex -->
+<!ENTITY uit    CDATA "u" -- italic u           or u withacute -->
+<!ENTITY uacit  CDATA "u" -- italic u with grave or u with circumflex -->
 
 ]><TEI.2 lang=en>
 <teiHeader>
@@ -20,14 +19,16 @@
 <titleStmt>
 <title>Visayan-English Dictionary</title>
 <author>John Kaufmann</author>
-<respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt>
+<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
+<publisher>Jeroen Hellingman</publisher>
+<pubPlace>IJsselstein, The Netherlands.</pubPlace>
 <idno type=PGDPEUProjectId>projectID4402861541e20</idno>
+<idno type=epub-id>urn:uuid:398424e1-7332-4ee7-aafe-410aab53091b</idno>
 <availability>
-<p>&availability.en;
 
-<p>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p>This eBook is produced by Jeroen Hellingman and the European Online Distributed Proofreading Team at <xref url="http://dp.rastko.net/">dp.rastko.net</xref>.
 
 </availability>
 </publicationStmt>
@@ -44,21 +45,21 @@
 
 </encodingDesc>
 <profileDesc>
-	<langUsage>
-		<language id=en>English</language>
-		<language id=en-US>English (United States)</language>
-		<language id=en-UK>English (United Kingdom)</language>
-		<language id=de>German</language>
-		<language id=fr>French</language>
-		<language id=la>Latin</language>
-		<language id=es>Spanish</language>
-		<language id=hil>Hiligaynon</language>
-	</langUsage>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=en-US>English (United States)</language>
+        <language id=en-UK>English (United Kingdom)</language>
+        <language id=de>German</language>
+        <language id=fr>French</language>
+        <language id=la>Latin</language>
+        <language id=es>Spanish</language>
+        <language id=hil>Hiligaynon</language>
+    </langUsage>
 </profileDesc>
 <revisionDesc>
-	<list>
-		<item>2008-10-23 Started.
-	</list>
+    <list>
+        <item>2008-10-23 Started.
+    </list>
 </revisionDesc>
 </teiHeader>
 <text>
@@ -243,7 +244,7 @@ By
 
 
 <div1>
-<head>Transcriber notes</head>
+<head>Transcriber&apos;s Note</head>
 
 <p>Kaufmann&apos;s Visayan-English Dictionary is probably one of the best dictionaries ever produced for Hiligaynon. At the same time, this work, printed around 1934, is extremely rare, and almost impossible to obtain. This electronic reprint resolves that issue. To further increase its accessibility, a searchable interface has been made available on-line at <xref url="http://www.bohol.ph/kved.php">http://www.bohol.ph/kved.php</xref>.
 
@@ -252,11 +253,11 @@ By
 <p>This edition of Kaufmann&apos;s Visayan-English Dictionary is a complete transcription of the original text, without any addition and with the following editorial changes:
 
 <list rend="list-style-type(disc)">
-	<item>The tildes on <hi>n</hi> and <hi>g</hi> have been removed. The original dictionary was inconsistent in their usage, and they do not occur in the normal orthography of Hiligaynon.
-	<item>The use of italic vowels to indicate a following glottal stop (cut-short vowel) has been replaced by the system conventionally used in the Philippines. That is, the acute accent (&acute;) is used to indicate stress, the grave accent (`) to indicate a following glottal stop, and the circumflex (^) when both occur together.
-	<item>The entries in the supplement have been sorted into the main dictionary.
-	<item>The corrections given in the errata have been applied.
-	<item>Further obvious typographic errors have been corrected. 
+    <item>The tildes on <hi>n</hi> and <hi>g</hi> have been removed. The original dictionary was inconsistent in their usage, and they do not occur in the normal orthography of Hiligaynon.
+    <item>The use of italic vowels to indicate a following glottal stop (cut-short vowel) has been replaced by the system conventionally used in the Philippines. That is, the acute accent (&acute;) is used to indicate stress, the grave accent (`) to indicate a following glottal stop, and the circumflex (^) when both occur together.
+    <item>The entries in the supplement have been sorted into the main dictionary.
+    <item>The corrections given in the errata have been applied.
+    <item>Further obvious typographic errors have been corrected. 
 </list>
 
 

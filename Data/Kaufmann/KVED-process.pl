@@ -2,9 +2,10 @@
 
 use strict;
 
-my $toolsdir	= "C:\\Users\\Jeroen\\Documents\\eLibrary\\tools\\tei2html\\tools";   # location of tools (see http://code.google.com/p/tei2html/)
-my $princedir	= "C:\\Program Files (x86)\\Prince\\engine\\bin";                     # location of prince processor (see http://www.princexml.com/)
-my $saxon		= "\"C:\\Program Files\\Java\\jre6\\bin\\java.exe\" -jar C:\\bin\\saxonhe9\\saxon9he.jar "; # (see http://saxon.sourceforge.net/)
+my $toolsdir    = "../../../../eLibrary/Tools/tei2html/tools";          # location of tools (see https://github.com/jhellingman/tei2html)
+my $princedir   = "D:\\Program Files (x86)\\Prince\\engine\\bin";       # location of prince processor (see http://www.princexml.com/download/)
+my $jardir      = "../../../../eLibrary/Tools/tei2html/tools/lib";
+my $saxon       = "java -jar $jardir/saxon9he.jar ";                    # (see http://saxon.sourceforge.net/)
 
 
 my $frontFile = "KVED-Introduction-0.2.tei";
