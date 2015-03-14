@@ -39,21 +39,19 @@
 
 <p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>. 
 
-<p>This edition of John U. Wolff&apos;s <hi>Dictionary of Cebuano Visayan</hi>, attempts to faithfully follow the text of this work. Except for corrections of obvious typos mistakes, as listed in the colophon, no changes have been made.
+<p>This edition of John U. Wolff&apos;s <hi>Dictionary of Cebuano Visayan</hi>, attempts to faithfully reproduce the text of this work as originally published. Except for corrections of obvious mistakes, as listed in the colophon, no changes have been made.
 
 <p>Scans for this dictionary are available from <xref url="http://hdl.handle.net/1813/11777">Cornell University</xref>. 
 
-<p>This Project Gutenberg text is derived from data also made available in its master format at <xref url="https://code.google.com/p/phildict/source/browse/#svn%2Ftrunk%2FData%2FWolff">Google Code</xref>.
+<p>This Project Gutenberg text is derived from data also made available in its master format at <xref url="https://github.com/jhellingman/phildict/tree/master/Data/Wolff">GitHub</xref>.
 
-<p>A searchable interface to the same data is available from <xref url="http://www.bohol.ph/wced.php">www.bohol.ph</xref>.
+<p>A searchable interface to the same data is available from <xref url="http://www.bohol.ph/wced.php">www.bohol.ph</xref>. An off-line Android app is available from the <xref url="https://play.google.com/store/apps/details?id=ph.bohol.dictionaryapp">Google Play store</xref>, for which the source code is available from <xref url="https://bitbucket.org/jhellingman/cebuano-dictionary-app/overview">BitBucket</xref>.
 
 
 </availability>
 </publicationStmt>
 <notesStmt>
-    <note type="Description">A short description of this document.</note>
-    <note type="Blurb">Blurb for on the flap.</note>
-    <note type="Extract">Short extract from the text.</note>
+    <note type="Description">A Dictionary of Cebuano Visayan, edited by John U Wolf and first published in 1972, is still one of the best dictionaries made for Cebuano. It was based on original research between 1966 and 1972, in which the editor and his team collected samples of actual written and spoken Cebuano to use in this dictionary. Besides providing English definitions, it provides sample sentences for many words, all taken from daily usage.</note>
 </notesStmt>
 <sourceDesc>
 <bibl>
