@@ -2,6 +2,7 @@
 
 <!-- http://www.bansa.org/dictionaries/tgl/?dict_lang=tgl&type=search&data=word -->
 
+<!-- Use &#x2D; to represent dash in places where it hurts processing -->
 
 <pb n=309>
 <div1 type=Letter n=A>
@@ -380,7 +381,7 @@ Acme-n-Pandulo; kataastaasan lugar.
 <pb n=314>
 
 Acorn-n-Bun~ga n~g kahoy na tinatawag
-<corr sic="(acorn)">na <i>acorn</i>.
+<corr sic="(acorn)">na <i>acorn</i>.</corr>
 
 Acoustic-a-Nauukol sa dinig.
 
@@ -779,7 +780,7 @@ Afford-n-Ibigay; pumayag.
 Affray-n-Awáy<corr>;</corr> pagsasagupa; laban; pagpapamook;
 takapan; babag.
 
-<!-- entries Affray-Aggregate (n) typed in after proofing rounds (right-hand side of p. 160 is missing); text copied from a TIA copy --
+<!-- entries Affray-Aggregate (n) typed in after proofing rounds (right-hand side of p. 160 is missing); text copied from a TIA copy -->
 
 Affray-v-Takutin; labanin.
 
@@ -3287,7 +3288,7 @@ Bayrum-n-Rum y quinina.
 
 Bazaar-Bazar-n-Basar.
 
-Be-v-Ay; <corr sic=mag>mag-<corr>;</corr> yari; <corr sic=magka>magka-</corr>.
+Be-v-Ay; <corr sic=mag>mag-</corr><corr>;</corr> yari; <corr sic=magka>magka-</corr>.
 
 Beach-n-Baybay dagat,
 
@@ -4768,7 +4769,7 @@ Breathing-n-Paghihinin~ga.
 
 Breathless-a-Walang hin~ga.
 
-Bred-v. imp &p. p.-Nagalaga.
+Bred-v. imp &amp; p. p.-Nagalaga.
 
 Breech-n-Puit.
 
@@ -5167,7 +5168,7 @@ Bumptious-a-Man~gahas.
 
 Bun<corr sic=" ">-</corr>Bunn-n-Pandesal.
 
-Bunch-n-Buig<corr sic="-n-">; </corr><corr sic=Kiwan>kawan</corr>.
+Bunch-n-Buig<corr sic="&#x2D;n&#x2D;">; </corr><corr sic=Kiwan>kawan</corr>.
 
 Bunch-v-Bumuig<corr>;</corr> isama.
 
@@ -12657,7 +12658,7 @@ tularan; dalawahin.
 
 Duplicate-n-Salin<corr>;</corr> parisan; howad.
 
-<corr sic="Duplication-n-Pagkaduble."></corr>
+<corr sic="Duplication&#x2D;n&#x2D;Pagkaduble."></corr>
 
 Duplication-n-Pagkaduble<corr>;</corr> kataksilan;
 kasuitikan.
@@ -13096,7 +13097,7 @@ Election-n-Paghahalal; eleccion.
 
 Electioneer-v-Tumulong sa isang candidato.
 
-Elective-a-May <corr sic="kapangyar han>kapangyarihan</corr> pumili.
+Elective-a-May <corr sic="kapangyar han">kapangyarihan</corr> pumili.
 
 Elector-n-Ang may katuwiran magvoto.
 
@@ -15514,7 +15515,7 @@ Flection-n-Paghubog.
 Fled-v<corr sic="-">. </corr>imp. &amp; p.p.<corr>-</corr>Nagtanan; tumakbo;
 nakatakbo.
 
-<corr sic="Fledge-v-Tumubo ang balahibo."></corr>
+<corr sic="Fledge&#x2D;v&#x2D;Tumubo ang balahibo."></corr>
 
 Fledge-v-Tumubo ang balahibo.
 
@@ -20208,7 +20209,7 @@ Indelicate-a-Masamang ugali; bastos.
 <corr sic="Idemnification">Indemnification</corr>-n-Pagsasauli; pagganti;
 kabayaran.
 
-<corr sic="Idemnify-v-Isauli."></corr>
+<corr sic="Idemnify&#x2D;v&#x2D;Isauli."></corr>
 
 <corr sic="Idemnify">Indemnify</corr>-v-Isauli; bayaran; gantihin.
 
@@ -24381,7 +24382,7 @@ Middle-n-Kagitnaan<corr>;</corr> kalahati<corr>;</corr> laot.
 
 Middle-a-Ang sa gitna<corr sic=",">;</corr> nasa laot.
 
-Middling-<corr sic="v">a</corr>-Katatagaan<corr>;</corr> <corr sic=alanganin:>alan~ganin.</corr>
+Middling-<corr sic="v">a</corr>-Katatagaan<corr>;</corr> <corr sic="alanganin:">alan~ganin.</corr>
 
 Midge-n-<corr sic=Langaw>Lan~gaw</corr> na munti.
 
@@ -25063,7 +25064,7 @@ Mortgage-n-Sangla.
 
 Mortgage-v-Isangla.
 
-<corr sic="Morigage-v-Isangla."></corr>
+<corr sic="Morigage&#x2D;v&#x2D;Isangla."></corr>
 
 Mortification-n-Hiya; kapighatian.
 
@@ -25568,7 +25569,7 @@ Nefarious-a-Masama; hamak; nakahihiya.
 
 Negation-n-Pagkakaila; <corr sic="tatangihan">katangihan</corr>; pagtatalikuran.
 
-<corr sic="Negative-a-Magkaila."></corr>
+<corr sic="Negative&#x2D;a-Magkaila."></corr>
 
 Negative-n-Katangihan; pagkakaila.
 
@@ -27001,7 +27002,7 @@ Pad-v-Sapinin.
 
 Padding-n-Sapin.
 
-Paddle—v-Gaod; sagwan.
+Paddle-v-Gaod; sagwan.
 
 Paddle-v-Gumaod; maglaro sa tubig.
 
@@ -29649,7 +29650,7 @@ Prose-n-Karaniwang sulat.
 
 Prosecute-v-Ihabla.
 
-Prosecution-n-Paghabla<corr sic="; bagong binyagan"</corr>.
+Prosecution-n-Paghabla<corr sic="; bagong binyagan"></corr>.
 
 Prosecutor-n-Ang naghahabla.
 
@@ -29803,7 +29804,7 @@ Pry-n-Panghuit; kadiwaraan.
 Prying-a-Madiwara.
 
 Psalm-n-Salmo; kantang nauukol sa
-<abbr expand="Pan~ginoon Dios">P. D.</corr>
+<abbr expan="Pan~ginoon Dios">P. D.</abbr>
 
 Psalmist-n-Ang sumulat<!--matched scan--> n~g m~ga kantang
 nauukol sa P. Dios.
@@ -32606,7 +32607,7 @@ Ruthless-a-Walang awa ó habag.
 Saan-n-Tawong gubat.
 
 Sabbath-n-Panahon n~g pag papahin~ga;
-<cor sic=lingo>Lingo</corr>.
+<corr sic=lingo>Lingo</corr>.
 
 <corr sic="Sabatic">Sabbatic</corr>-a-Nauukol sa <corr sic="lingo">Lingo</corr>.
 
@@ -36006,7 +36007,7 @@ nagsalita na.
 
 Spokes man-n-Ang nagsasalita.
 
-Spoliate-v—Nakawin; manduit.
+Spoliate-v-Nakawin; manduit.
 
 Spoliation-n-Pagnanakaw; panduduit.
 
@@ -37788,7 +37789,7 @@ Swine herd-n-Magpapastol n~g man~ga baboy.
 
 <pb n=661>
 
-<!-- Swinish-a-Parang baboy; salaula. -->
+<!-- Swinish&#x2D;a-Parang baboy; salaula. -->
 
 Swing-v-Ugoyin; umuga; ugain.
 
@@ -38152,7 +38153,7 @@ Tasteless-a-Walang lasa; matabang.
 
 Tasty-a-Malasa; mainam; masarap; makinis.
 
-<corr sic=Tater resp=e>Tatter-v-Punitin<corr>;</corr> pumunit<corr>;</corr> magulanit.
+<corr sic=Tater resp=e>Tatter</corr>-v-Punitin<corr>;</corr> pumunit<corr>;</corr> magulanit.
 
 Tattered-<corr sic="n">a</corr>-Punit<corr>;</corr> gulanit.
 
@@ -38221,9 +38222,9 @@ Tear-n-Luha<corr>.</corr>
 
 Tear-v-Punitin; pumunit; pilasin.
 
-<!-- Tear-n-Luha.
+<!-- Tear&#x2D;n-Luha. -->
 
-Tear-v-Punitin; pumunit; pilasin. -->
+<!-- Tear&#x2D;v-Punitin; pumunit; pilasin. -->
 
 <pb n=665>
 
@@ -38380,7 +38381,7 @@ Tender-n-Lambot; loob.
 
 Tenderness-n-Kalambutan.
 
-<corr sic="Tenon">Tendon</corr>-n—Litid.
+<corr sic="Tenon">Tendon</corr>-n-Litid.
 
 Tendril-n-Lipay.
 
@@ -39907,7 +39908,7 @@ hindi malaya.
 
 Tribute-n-Buis; ambag.
 
-Trice<corr sic=" v. ">-v-</corr>Talian n~g lubid.
+Trice<corr sic="&#x20;v.&#x20;">&#x2D;v&#x2D;</corr>Talian n~g lubid.
 
 Trice-n-Isang dali; dali; kisap mata.
 
@@ -42664,7 +42665,7 @@ Weird-a-Nauukol sa nuno.
 
 Welcome-a-Masaya; mainam sa visita<corr>.</corr>
 
-<!-- Welcome-v-Tangapin ang man~ga visita. -->
+<!-- Welcome&#x2D;v-Tangapin ang man~ga visita. -->
 
 Welcome-n-Pagtangap n~g visita.
 
@@ -43383,9 +43384,9 @@ Wreath-n-Putong; pamutong.
 
 Wreath-v-Putun~gin.
 
-<!-- Wreath-n-Putong. -->
+<!-- Wreath&#x2D;n-Putong. -->
 
-<!-- Wreath-v-Pamuton[**typo: Pamutong]; putun~gin. -->
+<!-- Wreath&#x2D;v-Pamuton[**typo: Pamutong]; putun~gin. -->
 
 Wreck-v-Sirain.
 

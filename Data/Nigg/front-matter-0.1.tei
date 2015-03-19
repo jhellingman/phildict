@@ -58,6 +58,7 @@ http://www.bohol.ph/calderon.php
         <language id=de>German</language>
         <language id=fr>French</language>
         <language id=la>Latin</language>
+        <language id=tl>Tagalog</language>
     </langUsage>
     <textClass>
         <keywords>
@@ -74,7 +75,6 @@ http://www.bohol.ph/calderon.php
 </revisionDesc>
 </teiHeader>
 <text>
-<pb n=1>
 <front id=frontmatter>
 <div1 type=FrenchTitle>
 
@@ -664,7 +664,7 @@ Margarita: Margarita-Margaret.
 
 <p>153 Josaphine: Josaphine-Josephine.
 
-<p>154 Balph: Balph-Ralph.[**Ralph is correctly sp. on both 307 & 303.png]
+<p>154 Balph: Balph-Ralph.[**Ralph is correctly sp. on both 307 &amp; 303.png]
 
 <p>156 abbet-abbey.
 
@@ -979,11 +979,25 @@ the meaning of the word as Kayo-cloth while Kayó-you.
 </front>
 <body>
 
-<!-- Body omitted; available in separate files -->
+<!-- Body included from separate files -->
+
+<div0 id=pt1>
+<head>English&ndash;Tagalog</head>
+
+<xi:include href="body-EN-TL.tei" parse="xml"></xi:include>
+
+<div0 id=pt2>
+<head>Tagalog&ndash;English</head>
+
+<xi:include href="body-TL-EN.tei" parse="xml"></xi:include>
+
+<div0 id=pt3>
+<head>Supplements</head>
+
+<xi:include href="body-names.tei" parse="xml"></xi:include>
 
 </body>
 <back id=backmatter>
-
 
 <divGen type=Colophon>
 

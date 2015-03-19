@@ -57,6 +57,13 @@ sub handleLine($)
     $line =~ s/^(.*?)[ -](adv|n|prep|conj|pro|inter|v)\.?[ -]/<b>\1<\/b> <i>\2<\/i> /is;  # no a to limit false positives.
     $line =~ s/^([a-z]+)[ -](a|adv|n|prep|conj|pro|inter|v)\.?[ -]/<b>\1<\/b> <i>\2<\/i> /is;
     
+    # Fix <corr></b> to </b><corr> case.
+    $line =~ s/<corr(.*?)><\/b>/<\/b><corr\1>/sg;
+
+    # Now we can replace the &#x2D; with hyphens and &#x20; with spaces.
+    $line =~ s/[&][#]x2D;/-/sg;
+    $line =~ s/[&][#]x20;/ /sg;
+
     # handle ~g and ñg (just drop for now)
     $line =~ s/\[~n\]/ñ/sg;
     $line =~ s/~n/ñ/sg;
@@ -75,6 +82,14 @@ sub handleLine($)
     
     # Convert proofer's comments to SGML comments
     #### $line =~ s/\[\*\*(.*?)\]/<!-- \1 -->/sg;
+
+    # Normalize formatting tags.
+    $line =~ s/<b>/<hi rend=bold>/sg;
+    $line =~ s/<\/b>/<\/hi>/sg;
+    $line =~ s/<sc>/<hi rend=sc>/sg;
+    $line =~ s/<\/sc>/<\/hi>/sg;
+    $line =~ s/<i>/<hi>/sg;
+    $line =~ s/<\/i>/<\/hi>/sg;
 
     print $line;
 }

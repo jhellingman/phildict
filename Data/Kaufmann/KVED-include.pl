@@ -5,7 +5,6 @@ use strict;
 my $infile = $ARGV[0];
 open (INPUTFILE, $infile) || die("Could not open input file $infile");
 
-
 while (<INPUTFILE>)
 {
 	my $line = $_;
@@ -29,7 +28,6 @@ while (<INPUTFILE>)
 		print $line;
 	}
 }
-
 
 #
 # getAttrVal: Get an attribute value from a tag (if the attribute is present)
