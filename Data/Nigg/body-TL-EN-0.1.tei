@@ -8180,7 +8180,7 @@ severity of taste.
 <pb n=98>
 
 Kasal-n-Marriage; wedding; espousal;
-betrothal; betrothment; espousal.[**espousal appears twice]
+betrothal; betrothment<corr sic="; espousal"></corr>.
 
 Kasalanan-n-Fault; crime; guilt; transgression;
 offence; defect; slight<corr>;</corr>
@@ -9384,9 +9384,7 @@ Kurap-n-Movement[**Errata] of the eyelids.
 
 Kuripot-a-Stingy; petit; close; miserly.
 
-Kurlit-n-Comma.[**actual defn is 'apostrophe' |M:ignore previous note.
-Based on other appearances in the text, 'kurlit' is a general term that
-refers to not only an apostrophe, but also to comma and circumflex]
+Kurlit-n-Comma.
 
 Kuro-n-Imagination[**Errata]; fancy; conception.
 
@@ -12069,9 +12067,9 @@ Magkaiba-v-To dissent.
 
 Magkaibigan-v-To be friends.
 
-Magkaibigan-<corr sic=v>n</corr>-Friends.[**is this a verb? |M: no, but POS s/b noun]
+Magkaibigan-<corr sic=v>n</corr>-Friends.
 
-Magkaila-v-To negative[**typo: negate |M:ignore previous note; negative is valid as verb]; disclaim;
+Magkaila-v-To negative; disclaim;
 contravene; abjure; recant.
 
 Magkailan~gan-v-To want; need; necessitate;

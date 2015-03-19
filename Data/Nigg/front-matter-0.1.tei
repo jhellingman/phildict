@@ -5,7 +5,7 @@
 <titleStmt>
 <title>A Tagalog-English and English-Tagalog Dictionary</title>
 <author>Charles Nigg</author>
-<respStmt><resp>#####</resp> <name>#####</name></respStmt>
+<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
@@ -14,8 +14,8 @@
 <idno type=OLN>#####</idno>
 <idno type=OLW>#####</idno>
 <idno type=OCLC>#####</idno>
-<idno type=PGclearance>#####</idno>
-<idno type=PGDPProjectId>#####</idno>
+<idno type=PGclearance>20060411203838nigg</idno>
+<idno type=PGDPProjectId>projectID443d0168ca689</idno>
 <idno type=epub-id>urn:uuid:2c1abf28-87a6-4466-83c4-ef23ad0b3b8a</idno>
 <idno type=PGnum>#####</idno>
 <date>#####</date>
@@ -28,8 +28,6 @@
 </publicationStmt>
 <notesStmt>
     <note type="Description">#####<!--A short description of this document.--></note>
-    <note type="Blurb">#####<!--Blurb for on the flap.--></note>
-    <note type="Extract">#####<!--Short extract from the text.--></note>
 </notesStmt>
 <sourceDesc>
 <bibl>
@@ -42,12 +40,14 @@
 <encodingDesc>
 <p>
 
-<p>Helpful sites:
+!-- 
 
-<p>http://www.bansa.org/dictionaries/tgl/
+Helpful sites:
 
-<p>http://www.bohol.ph/calderon.php
+http://www.bansa.org/dictionaries/tgl/
+http://www.bohol.ph/calderon.php
 
+-->
 
 </encodingDesc>
 <profileDesc>
@@ -98,13 +98,9 @@ Bequest of Oliver Lyman Spaulding
 <pb n=3>
 <titlePage>
 <docTitle><titlePart>A
-
 <lb>TAGALOG ENGLISH
-
 <lb>AND
-
 <lb>ENGLISH TAGALOG
-
 <lb>DICTIONARY</titlePart></docTitle>
 
 <byline>COMPILED AND PUBLISHED
@@ -116,9 +112,7 @@ Bequest of Oliver Lyman Spaulding
 <docImprint>MANILA:
 
 <lb>IMP. DE FAJARDO Y COMP.<hi rend=sup>A</hi>
-
 <lb>101-CARRIEDO 101
-
 <lb><docDate>1904.</docDate>
 </docImprint>
 </titlePage>
@@ -129,27 +123,27 @@ Bequest of Oliver Lyman Spaulding
 <head>PAUNAWA</head>
 
 <p>Ang dahilan nang pagsulat nitong libro,i, dili iba kun di ang maka
-abuloy nang pagpapakalat nang mahalagang wika nang Ingles[**Inglés?| M:retain; both Ingles & Inglés appear in text] na n&gtilde;ayo,i,
+abuloy nang pagpapakalat nang mahalagang wika nang Ingles na n&gtilde;ayo,i,
 lumalatag sa halos lahat nang man&gtilde;a naciones; kayâ ang nasa nang sumulat
 ay ang tumulong hindi lamang sa man&gtilde;a Americano at Inglés na may pitang
 matuto nang wicang Tagalog kundi lalonglalô na sa man&gtilde;a maginoong taga
 rito sa Filipinas na n&gtilde;ayo,i, nagsusumikap sa pagaaral nang wikang Inglés.
 
-<p>Pinagpilitan sa pamamagitan nang masiyasat at masinip[**typo: masinop] na paghahalunkat
-ang pagtitipon nang lahat naug[**typo: nang] man&gtilde;a matatanda at man&gtilde;a batang salita at
+<p>Pinagpilitan sa pamamagitan nang masiyasat at <corr sic=masinip>masinop</corr> na paghahalunkat
+ang pagtitipon nang lahat <corr sic=naug>nang</corr> man&gtilde;a matatanda at man&gtilde;a batang salita at
 wikang Tagalog sampo nang man&gtilde;a kahulugan nang bawat isa upang maihulog
 sa wikang Inglés at gayon din naman ang wikang ito sa Tagalog at
 gayondin naman pinihit ang ibinigay sa bawat isang wika sa paghuhulog ang
 halaga at kahulugan sa iba at gayon din na man ang man&gtilde;a tinatauag na
 Frances baga, ay pinilit ang magkaroon nang tunay na kahulugan sa kaniyang
-tunay na halaga ss[**typo: sa] iba.
+tunay na halaga <corr sic=ss>sa</corr> iba.
 
 <p>Ang librong ito, ay nakasulat sa bagong ugali nang pagsulat nang
-wikang Tagalog; Kaya[**typo: kaya] ang titic na C ay naging K:[**;] ang Gui ay naging gí:[**gi;]
-ang Qui ay naging ki; at U ay ang naging W. At dahil dito kung may hahanaping
+wikang Tagalog; <corr sic=Kaya>kaya</corr> ang titic na C ay naging K<corr sic=":">;</corr> ang Gui ay naging <corr sic="gí:">Gi;</corr>
+ang Qui ay naging <corr sic=ki>Ki</corr>; at U ay ang naging W. At dahil dito kung may hahanaping
 salita na sa dati ay nasusulat sa C at hindi makita ay dapat hanapin
 sa K. At gayon din naman ang man&gtilde;a dating nasa Qui ay dapat hanapin
-sa Ki; at ang dati sa U ay hanapin sa W.[**see notes in Preface]
+sa Ki; at ang dati sa U ay hanapin sa W.
 
 
 
@@ -168,19 +162,21 @@ definitions will be found correct.
 
 <p>It is written in what is called the New Tagalog
 which differs from the old in the following respects.
-The C has become K, Gui has been shortened to gi; qui
-has been changed to Ki and w is generally substituted
+The C has become K, Gui has been shortened to <corr sic=gi>Gi</corr>; <corr sic=qui>Qui</corr>
+has been changed to Ki and <corr sic=w>W</corr> is generally substituted
 for U. Therefore should a person look for a word that
 begins with C and fail to find it he should turn to K;
 should he be unable to find Qui he should turn to Ki;
-and in case of u should turn to w.
-[**The author didn't really use modern Tagalog throughout;
+and in case of <corr sic=u>U</corr> should turn to <corr sic=w>W</corr>.
+
+<!--
+The author didn't really use modern Tagalog throughout;
 gui is still used in some words in the text, eg, guitara,
 saguing (also spelled as saging in text), dun~guis (dun~gis
-appears as well); c also (sacali & sakali both apear);
-I retained & did not note the inconsistent spellings;
-maybe just note that author didn't really used modern sp throughout?]
-
+appears as well); c also (sacali and sakali both apear);
+I retained and did not note the inconsistent spellings;
+maybe just note that author didn't really used modern sp throughout?
+-->
 
 
 <pb n=6>
@@ -201,11 +197,15 @@ a letter or two the task would not be difficult. The word as it now appears
 is given first in this list, after the page number, and Tagalog, followed by
 the corrected form.
 
-[**errata formatting inconsistency: a hyphen or space appears before a semicolon (mostly space)
--italic text have also been noted
--POS generally appear with ., such as n., v., missing [**.] added but not sure if really missing or not scanned]
-[**format is
-entry 1-1st typo-correction; 2nd typo-correction. entry 2, entry 3-typo-correction.]
+<!--
+Errata formatting inconsistency: a hyphen or space appears before a semicolon (mostly space)
+
+- italic text have also been noted
+- POS generally appear with ., such as n., v., missing [**.] added but not sure if really missing or not scanned]
+
+Format: entry 1-1st typo-correction; 2nd typo-correction. entry 2, entry 3-typo-correction.
+-->
+
 <p>7 aba po-Virgen-Virgin. alaala-momento-memento. alalayan-assert-assist.
 
 <p>8 andukha-hel paid-help, aid.

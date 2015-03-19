@@ -7,7 +7,6 @@ open (INPUTFILE, $infile) || die("Could not open input file $infile");
 
 handleDictionary();
 
-
 my $emptyline = 1;
 
 sub handleDictionary()
@@ -38,7 +37,6 @@ sub handleDictionary()
 
     print STDERR "\n";
 }
-
 
 
 sub handleLine($)
@@ -80,4 +78,3 @@ sub handleLine($)
 
     print $line;
 }
-
