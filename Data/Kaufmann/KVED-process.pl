@@ -41,6 +41,13 @@ system ("perl KVED-sort.pl temp-02.xml > temp-02s.xml");
 print "Create database format...\n";
 system ("perl KVED-db.pl temp-02.xml");
 
+# Create database if needed
+if (!-e "SQL/dictionary_database") 
+{
+    system ("sqlite3 SQL/dictionary_database < SQL/structure-sqlite.sql");
+    system ("sqlite3 SQL/dictionary_database < SQL/kved_word2.sql");
+}
+
 print "Report on word usage...\n";
 system ("perl $toolsdir/win2utf8.pl temp-02.xml > KVED-dictionary.xml");
 system ("perl $toolsdir/ucwords.pl  KVED-dictionary.xml > words.html");

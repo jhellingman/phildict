@@ -7,6 +7,8 @@ my $pageNum = 0;
 my $nextPageNum = 0;
 my $entryId = 0;
 my $wordId = 0;
+my $headId = 0;
+my $word2Id = 0;
 
 my %wordHash = ();
 
@@ -20,9 +22,13 @@ sub main()
 
     open (INPUTFILE, $infile) || die("Could not open input file $infile");
 
-    open (ENTRY,        ">entry.sql")       || die ("Could not create output file 'entry.sql'");
-    open (WORD,         ">word.sql")        || die ("Could not create output file 'word.sql'");
-    open (WORDENTRY,    ">wordentry.sql")   || die ("Could not create output file 'wordentry.sql'");
+    open (ENTRY,        ">SQL/kved_entry.sql")       || die ("Could not create output file 'SQL/kved_entry.sql'");
+    open (WORD,         ">SQL/kved_word.sql")        || die ("Could not create output file 'SQL/kved_word.sql'");
+    open (WORDENTRY,    ">SQL/kved_wordentry.sql")   || die ("Could not create output file 'SQL/kved_wordentry.sql'");
+
+    open (WORD2,        ">SQL/kved_word2.sql")       || die ("Could not create output file 'SQL/kved_word2.sql'");
+
+    print WORD2 "\n\nBEGIN TRANSACTION;\n\n";
 
     while (<INPUTFILE>)
     {
@@ -44,6 +50,8 @@ sub main()
     writeLanguageWords("HW");
     writeLanguageWords("EN");
     writeLanguageWords("HIL");
+
+    print WORD2 "\n\nCOMMIT;\n\n";
 }
 
 
@@ -55,14 +63,11 @@ sub writeLanguageWords($)
     my $lang = shift;
     my @wordList = keys %{$wordHash{$lang}};
 
-    foreach my $word (@wordList)
-    {
-        if ($word ne "")
-        {
+    foreach my $word (@wordList) {
+        if ($word ne "") {
             $wordId++;
             my $normalizedWord = "";
-            if ($lang eq "HIL" || $lang eq "HW")
-            {
+            if ($lang eq "HIL" || $lang eq "HW") {
                 $normalizedWord = normalizeHiligaynon($word);
             }
 
@@ -73,11 +78,27 @@ sub writeLanguageWords($)
                 ");\n";
 
             my @entries = split(/ /, $wordHash{$lang}{$word});
-            foreach my $entryId (@entries)
-            {
-                if ($entryId ne "")
-                {
+            foreach my $entryId (@entries) {
+                if ($entryId ne "") {
                     print WORDENTRY "INSERT INTO `" . $prefix . "wordentry` VALUES ($wordId, $entryId);\n";
+
+                    # Write inserts for the SQL-lite structure to be used in App.
+                    $word2Id++;
+                    if ($lang eq "HW") {
+                        $headId++;
+                        my $type = "m";         # Always main entry.
+                        my $pos = 0;            # Always at start of entry.
+                        print WORD2 "INSERT INTO `" . $prefix . "head` VALUES($headId, " . quoteSql($word) . ", " . quoteSql($normalizedWord) . ", $entryId, " . quoteSql($type) . ", $pos);\n";
+                    }
+
+                    my $flags = $lang eq "HW" ? 1 : 4;
+                    $lang = $lang eq "HW" ? "HIL" : $lang;
+                    print WORD2 "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($word) . ", " . quoteSql($lang) . ");\n";
+                    if ($normalizedWord ne "" && $normalizedWord ne $word) {
+                        $flags += 16;
+                        $word2Id++;
+                        print WORD2 "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($normalizedWord) . ", " . quoteSql($lang) . ");\n";
+                    }
                 }
             }
         }
@@ -106,9 +127,26 @@ sub handleEntry()
         $entry .= $line;
     }
 
+    chomp $entry;
+
     $entryId++;
     print ENTRY "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
         quoteSql("<entry>$entry</entry>") .
+        ", " . $pageNum .
+        ");\n";
+
+    # Write insert for the SQL-lite structure to be used in App.
+    # First retrieve head (between <hw> and </hw>
+
+    $entry =~ /<hw>(.*?)<\/hw>/;
+    my $head = $1;
+
+    $head =~ s/<s lang=\"hil\">//g;
+    $head =~ s/<\/s>//g;
+
+    print WORD2 "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
+        quoteSql($head) .
+        ", " . quoteSql("<entry>$entry</entry>") .
         ", " . $pageNum .
         ");\n";
 
@@ -205,18 +243,17 @@ sub handleWord($$$)
 
     $word = lc($word);
 
-    if (index($wordHash{$lang}{$word}, " $entryId ") > 0)
-    {
-        # word already counted with this entry.
-        return;
+    if ($word ne "" && $word ne "\n") {
+        if (index($wordHash{$lang}{$word}, " $entryId ") > 0) {
+            # word already counted with this entry.
+            return;
+        }
+        if (!defined($wordHash{$lang}{$word}) || $wordHash{$lang}{$word} eq "") {
+            # word not seen before: start new entry.
+            $wordHash{$lang}{$word} = " ";
+        }
+        $wordHash{$lang}{$word} .= "$entryId ";
     }
-    if (!defined($wordHash{$lang}{$word}) || $wordHash{$lang}{$word} eq "")
-    {
-        # word not seen before: start new entry.
-        $wordHash{$lang}{$word} = " ";
-    }
-
-    $wordHash{$lang}{$word} .= "$entryId ";
 }
 
 

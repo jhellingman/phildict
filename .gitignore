@@ -65,3 +65,8 @@ Data/Nigg/TagalogDictionary.txt
 Data/Nigg/TagalogDictionary.xml
 Data/Nigg/TagalogDictionary-normalized.xml
 Data/Nigg/TagalogDictionary-words.html
+Data/Kaufmann/SQL/dictionary_database
+Data/Kaufmann/SQL/kved_entry.sql
+Data/Kaufmann/SQL/kved_word.sql
+Data/Kaufmann/SQL/kved_word2.sql
+Data/Kaufmann/SQL/kved_wordentry.sql
