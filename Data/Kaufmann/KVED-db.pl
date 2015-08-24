@@ -12,6 +12,10 @@ my $word2Id = 0;
 
 my %wordHash = ();
 
+use SgmlSupport qw/sgml2utf/;
+
+binmode(STDOUT, ":utf8");
+use open OUT => ':utf8';
 
 main();
 
@@ -26,9 +30,9 @@ sub main()
     open (WORD,         ">SQL/kved_word.sql")        || die ("Could not create output file 'SQL/kved_word.sql'");
     open (WORDENTRY,    ">SQL/kved_wordentry.sql")   || die ("Could not create output file 'SQL/kved_wordentry.sql'");
 
-    open (WORD2,        ">SQL/kved_word2.sql")       || die ("Could not create output file 'SQL/kved_word2.sql'");
+    open (DATA,         ">SQL/kved_data.sql")       || die ("Could not create output file 'SQL/kved_data.sql'");
 
-    print WORD2 "\n\nBEGIN TRANSACTION;\n\n";
+    print DATA "\n\nBEGIN TRANSACTION;\n\n";
 
     while (<INPUTFILE>)
     {
@@ -51,7 +55,7 @@ sub main()
     writeLanguageWords("EN");
     writeLanguageWords("HIL");
 
-    print WORD2 "\n\nCOMMIT;\n\n";
+    print DATA "\n\nCOMMIT;\n\n";
 }
 
 
@@ -88,16 +92,16 @@ sub writeLanguageWords($)
                         $headId++;
                         my $type = "m";         # Always main entry.
                         my $pos = 0;            # Always at start of entry.
-                        print WORD2 "INSERT INTO `" . $prefix . "head` VALUES($headId, " . quoteSql($word) . ", " . quoteSql($normalizedWord) . ", $entryId, " . quoteSql($type) . ", $pos);\n";
+                        print DATA "INSERT INTO `" . $prefix . "head` VALUES($headId, " . quoteSql($word) . ", " . quoteSql($normalizedWord) . ", $entryId, " . quoteSql($type) . ", $pos);\n";
                     }
 
                     my $flags = $lang eq "HW" ? 1 : 4;
                     $lang = $lang eq "HW" ? "HIL" : $lang;
-                    print WORD2 "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($word) . ", " . quoteSql($lang) . ");\n";
+                    print DATA "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($word) . ", " . quoteSql($lang) . ");\n";
                     if ($normalizedWord ne "" && $normalizedWord ne $word) {
                         $flags += 16;
                         $word2Id++;
-                        print WORD2 "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($normalizedWord) . ", " . quoteSql($lang) . ");\n";
+                        print DATA "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($normalizedWord) . ", " . quoteSql($lang) . ");\n";
                     }
                 }
             }
@@ -129,6 +133,8 @@ sub handleEntry()
 
     chomp $entry;
 
+    $entry = sgml2utf($entry);
+
     $entryId++;
     print ENTRY "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
         quoteSql("<entry>$entry</entry>") .
@@ -144,7 +150,7 @@ sub handleEntry()
     $head =~ s/<s lang=\"hil\">//g;
     $head =~ s/<\/s>//g;
 
-    print WORD2 "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
+    print DATA "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
         quoteSql($head) .
         ", " . quoteSql("<entry>$entry</entry>") .
         ", " . $pageNum .

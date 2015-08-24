@@ -27,7 +27,7 @@ system ("perl KVED-entities.pl temp-03.tei > KVED-Body.tei");
 
 print "Combine Front and Body...\n";
 system ("perl KVED-include.pl KVED-Introduction.tei > KVED.tei");
-system ("perl -S tei2html.pl KVED.tei");
+system ("perl -S tei2html.pl -h KVED.tei");
 
 print "Add tagging for DB and Prince processing...\n";
 system ("perl KVED-tag.pl temp-01.txt > temp-02.xml");
@@ -45,7 +45,7 @@ system ("perl KVED-db.pl temp-02.xml");
 if (!-e "SQL/dictionary_database") 
 {
     system ("sqlite3 SQL/dictionary_database < SQL/structure-sqlite.sql");
-    system ("sqlite3 SQL/dictionary_database < SQL/kved_word2.sql");
+    system ("sqlite3 SQL/dictionary_database < SQL/kved_data.sql");
 }
 
 print "Report on word usage...\n";
