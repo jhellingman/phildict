@@ -20,11 +20,13 @@
     indent="no"
     encoding="UTF-8"/>
 
+<xsl:param name="prefix" select="'wced'"/>
+
+<!-- For generating the database for the Android App, this needs to be set to false(); for the site, use true() -->
+<xsl:param name="generateWordTable" select="false()"/>
+
 
 <xsl:key name="id" match="*[@id]" use="@id"/>
-
-
-<xsl:variable name="prefix" select="'wced'"/>
 
 
 <xsl:template match="/">
@@ -80,6 +82,8 @@ CREATE TABLE "<xsl:value-of select="$prefix"/>_translation"
     "translation" VARCHAR
 );
 
+<xsl:if test="$generateWordTable">
+
 DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_word";
 CREATE TABLE "<xsl:value-of select="$prefix"/>_word"
 (
@@ -89,6 +93,8 @@ CREATE TABLE "<xsl:value-of select="$prefix"/>_word"
     "word" VARCHAR,
     "lang" VARCHAR
 );
+
+</xsl:if>
 
 </xsl:template>
 
@@ -196,7 +202,6 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     KEY `date` (`date`)
 );
 
-
 </xsl:template>
 
 
@@ -224,29 +229,31 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 
     <xsl:value-of select="local:insertEntrySql($entryid, $normalizedHeadword, $entrytext, @page)"/>
 
-    <!-- Find all words with language for this entry -->
-    <xsl:variable name="words">
-        <xsl:apply-templates mode="words"/>
-    </xsl:variable>
+	<xsl:if test="$generateWordTable">
+		<!-- Find all words with language for this entry -->
+		<xsl:variable name="words">
+			<xsl:apply-templates mode="words"/>
+		</xsl:variable>
 
-    <!-- Find unique words in entry -->
-    <xsl:for-each-group select="$words/w" group-by="@xml:lang">
-        <xsl:for-each-group select="current-group()" group-by=".">
-            <xsl:variable name="flags" select="current-group()[1]/@flags"/>
-            <xsl:variable name="flags" select="if (current-group()[1] = $headword) then $flags + 1 else $flags"/>
-            <xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then $flags + 24 else $flags + 8"/>
-            <xsl:value-of select="local:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
-        </xsl:for-each-group>
-    </xsl:for-each-group>
+		<!-- Find unique words in entry -->
+		<xsl:for-each-group select="$words/w" group-by="@xml:lang">
+			<xsl:for-each-group select="current-group()" group-by=".">
+				<xsl:variable name="flags" select="current-group()[1]/@flags"/>
+				<xsl:variable name="flags" select="if (current-group()[1] = $headword) then $flags + 1 else $flags"/>
+				<xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then $flags + 24 else $flags + 8"/>
+				<xsl:value-of select="local:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
+			</xsl:for-each-group>
+		</xsl:for-each-group>
 
-    <!-- Find unique normalized forms of words in entry -->
-    <xsl:for-each-group select="$words/w[@form != .]" group-by="@xml:lang">
-        <xsl:for-each-group select="current-group()" group-by=".">
-            <xsl:variable name="flags" select="current-group()[1]/@flags"/>
-            <xsl:variable name="flags" select="if (current-group()[1]/@form = $normalizedHeadword) then $flags + 1 else $flags"/>
-            <xsl:value-of select="local:insertWordSql($entryid, $flags + 16, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
-        </xsl:for-each-group>
-    </xsl:for-each-group>
+		<!-- Find unique normalized forms of words in entry -->
+		<xsl:for-each-group select="$words/w[@form != .]" group-by="@xml:lang">
+			<xsl:for-each-group select="current-group()" group-by=".">
+				<xsl:variable name="flags" select="current-group()[1]/@flags"/>
+				<xsl:variable name="flags" select="if (current-group()[1]/@form = $normalizedHeadword) then $flags + 1 else $flags"/>
+				<xsl:value-of select="local:insertWordSql($entryid, $flags + 16, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
+			</xsl:for-each-group>
+		</xsl:for-each-group>
+	</xsl:if>
 
     <!-- Find all headings -->
     <xsl:variable name="heads">

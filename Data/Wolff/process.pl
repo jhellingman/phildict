@@ -8,17 +8,13 @@ my $saxon   = "java -jar $jardir/saxon9he.jar ";        # (see http://saxon.sour
 
 my $letter = $ARGV[0];
 
-if ($letter ne '') 
-{
+if ($letter ne '') {
     processLetter($letter);
-}
-else
-{
+} else {
     processAll();
 }
 
-sub processAll
-{
+sub processAll {
     system ("perl -S tei2html.pl -x WCED-frontmatter-0.1.tei");
     system ("perl -S tei2html.pl -x WCED-backmatter-0.0.tei");
 
@@ -52,10 +48,17 @@ sub processAll
     system ("$saxon WCED-collect.xsl WCED-collect.xsl > structural/complete.xml");
     system ("$saxon structural/complete.xml WCED-db.xsl > SQL/complete.sql");
     # system ("perl toEntities.pl SQL/complete.sql > SQL/complete-ent.sql");
+
+    # Compress the resulting database
+    chdir "SQL";
+    system ("zip -Xr9Dq dictionary_database.zip dictionary_database");
+    # Smaller possible with: 
+    # 7za a -mm=Deflate -mx=9 dictionary_database.zip dictionary_database
+    # Even smaller: kzip: http://advsys.net/ken/utils.htm
+    chdir "..";
 }
 
-sub processLetter
-{
+sub processLetter {
     my $letter = shift;
     print "Processing letter $letter\n";
 
@@ -77,11 +80,12 @@ sub processLetter
     # system ("perl toEntities.pl SQL/$letter.sql > SQL/$letter-ent.sql");
 
     # Create database if needed
-    if (!-e "SQL/dictionary_database") 
-    {
+    if (!-e "SQL/dictionary_database") {
+        print "Recreating database structure\n";
         system ("sqlite3 SQL/dictionary_database < SQL/structure-sqlite.sql");
     }
     # Add to database:
+    print "Adding letter $letter to database\n";
     system ("sqlite3 SQL/dictionary_database < SQL/$letter.sql");
 
     # system ("mv SQL/WCED_head.sql SQL/WCED_head-$letter.sql");
