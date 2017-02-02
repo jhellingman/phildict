@@ -12,27 +12,21 @@ my $basename = $1;
 handleDictionary();
 
 
-sub handleDictionary()
-{
-    while (<INPUTFILE>)
-    {
+sub handleDictionary() {
+    while (<INPUTFILE>) {
         my $line = $_;
 
         # Start of new entry
-        if ($line =~ /^<p>/)
-        {
+        if ($line =~ /^<p>/) {
             handleEntry($line);
-        }
-        else
-        {
+        } else {
             print $line;
         }
     }
 }
 
 
-sub handleEntry($)
-{
+sub handleEntry($) {
     my $entry = shift;
 
     # Handle (<-) and (->). (Allow for misreading parens and braces)
@@ -78,16 +72,13 @@ sub handleEntry($)
     $entry =~ s/[@]([A-Za-z-]+)/<tr>\1<\/tr>/sg;
     $entry =~ s/[@]\{([^}]*)\}/<tr>\1<\/tr>/sg;
 
-
     # Recognize cross references
     $entry =~ s/(see *|= *)?<sc>([^<]+)<\/sc>(, (?:<pos>[anv]<\/pos> ?)?(?:<number>[0-9]+[a-z]?<\/number>))?/<xr>\1<sc>\2<\/sc>\3<\/xr>/sg;
-
 
     # Clear-out pos and numbers within cross references.
     my $remainder = $entry;
     $entry = '';
-    while ($remainder =~ /<xr>.*?<\/xr>/)
-    {
+    while ($remainder =~ /<xr>.*?<\/xr>/) {
         $entry .= $`;
         my $xr = $&;
         $remainder = $';
@@ -109,7 +100,6 @@ sub handleEntry($)
     # Then recognize binominal names
     $entry =~ s/<b><i>/<bio>/sg;
     $entry =~ s/<\/i><\/b>/<\/bio>/sg;
-
 
     # Remaining bold things should be word-forms
     $entry =~ s/<b>([^<]+)<\/b>/<form>\1<\/form>/sg;

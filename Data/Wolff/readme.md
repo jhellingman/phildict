@@ -2,7 +2,7 @@
 
 Description of files:
 
- * custom.css.xml: CSS to be included in the HTML version of the dictionary.
+ * custom.css: CSS to be included in the HTML version of the dictionary.
  * inches.pl: Perl script to add metric equivalents to measurements indicated in foot and inches.
  * process.pl: Perl scrpt to process the files. This will generate various derived files.
  * runsaxon.pl: Perl script to run Saxon from the command-line.
@@ -25,12 +25,26 @@ Description of files:
  * WCED-uptag3.xsl: XSLT file to improve added structural information. (Round 3).
  * WCED-view.xsl: XSLT file to present to added structural information in HTML.
 
+Directories:
+
+ * Documentation: some notes used during preparation of this data and the scripts.
+ * F-round-results: data as delivered by the Project Gutenberg Distributed Proofreaders site.
+ * images: a newly designed front cover.
+ * Processed: the datafiles converted to text, XML and HTML, as submitted to Project Gutenberg.
+ * Text-Only: Files in plain text.
+
 
 ## Prerequisites.
 
-To build the output versions of the dictionary, download and install my tei2html scripts.
+To build the output versions of the dictionary:
 
-Then run `process.pl`.
+1. Install Perl (for example: strawberry perl, http://strawberryperl.com/)
+2. Install Saxon (http://saxon.sourceforge.net/)
+3. download and install my tei2html scripts. (https://github.com/jhellingman/tei2html) This includes some further tools and dependencies.
+
+When all is done:
+
+run `process.pl`.
 
 This will first process the individual letters, and then combine the data to produce the 
 various outputs.

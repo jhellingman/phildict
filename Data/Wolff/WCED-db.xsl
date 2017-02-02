@@ -381,18 +381,20 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="entryType"/>
     <xsl:param name="pos"/>
 
-    <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head, type, pos) VALUES (</xsl:text>
-        <xsl:value-of select="$entryid"/>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedHead"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$entryType"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$pos"/><xsl:text>&quot;</xsl:text>
-    <xsl:text>);</xsl:text>
+    <xsl:if test="$head != ''">
+        <xsl:text>&lf;</xsl:text>
+        <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head, type, pos) VALUES (</xsl:text>
+            <xsl:value-of select="$entryid"/>
+            <xsl:text>, </xsl:text>
+            <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
+            <xsl:text>, </xsl:text>
+            <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedHead"/><xsl:text>&quot;</xsl:text>
+            <xsl:text>, </xsl:text>
+            <xsl:text>&quot;</xsl:text><xsl:value-of select="$entryType"/><xsl:text>&quot;</xsl:text>
+            <xsl:text>, </xsl:text>
+            <xsl:text>&quot;</xsl:text><xsl:value-of select="$pos"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>);</xsl:text>
+    </xsl:if>
 </xsl:function>
 
 
@@ -402,12 +404,14 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="entryid"/>
     <xsl:param name="translation"/>
 
-    <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_translation` (entryid, translation) VALUES (</xsl:text>
-        <xsl:value-of select="$entryid"/>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$translation"/><xsl:text>&quot;</xsl:text>
-    <xsl:text>);</xsl:text>
+    <xsl:if test="$translation != ''">
+        <xsl:text>&lf;</xsl:text>
+        <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_translation` (entryid, translation) VALUES (</xsl:text>
+            <xsl:value-of select="$entryid"/>
+            <xsl:text>, </xsl:text>
+            <xsl:text>&quot;</xsl:text><xsl:value-of select="$translation"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>);</xsl:text>
+    </xsl:if>
 </xsl:function>
 
 
@@ -419,16 +423,18 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="word"/>
     <xsl:param name="lang"/>
 
-    <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_word` (entryid, flags, word, lang) VALUES (</xsl:text>
-        <xsl:value-of select="$entryid"/>
-        <xsl:text>, </xsl:text>
-        <xsl:value-of select="$flags"/>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$lang"/><xsl:text>&quot;</xsl:text>
-    <xsl:text>);</xsl:text>
+    <xsl:if test="$word != ''">
+        <xsl:text>&lf;</xsl:text>
+        <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_word` (entryid, flags, word, lang) VALUES (</xsl:text>
+            <xsl:value-of select="$entryid"/>
+            <xsl:text>, </xsl:text>
+            <xsl:value-of select="$flags"/>
+            <xsl:text>, </xsl:text>
+            <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
+            <xsl:text>, </xsl:text>
+            <xsl:text>&quot;</xsl:text><xsl:value-of select="$lang"/><xsl:text>&quot;</xsl:text>
+        <xsl:text>);</xsl:text>
+    </xsl:if>
 </xsl:function>
 
 
