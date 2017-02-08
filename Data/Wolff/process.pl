@@ -51,10 +51,9 @@ sub processAll {
 
     # Compress the resulting database
     chdir "SQL";
-    system ("zip -Xr9Dq dictionary_database.zip dictionary_database");
-    # Smaller possible with: 
-    # 7za a -mm=Deflate -mx=9 dictionary_database.zip dictionary_database
-    # Even smaller: kzip: http://advsys.net/ken/utils.htm
+    # system ("zip -Xr9Dq dictionary_database.zip dictionary_database");
+    system ("7za a -mm=Deflate -mx=9 dictionary_database.zip dictionary_database");
+    # Maybe even smaller with: kzip: http://advsys.net/ken/utils.htm
     chdir "..";
 }
 

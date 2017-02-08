@@ -31,15 +31,20 @@ Directories:
  * F-round-results: data as delivered by the Project Gutenberg Distributed Proofreaders site.
  * images: a newly designed front cover.
  * Processed: the datafiles converted to text, XML and HTML, as submitted to Project Gutenberg.
+ * SQL: the converted output in form of SQL files.
  * Text-Only: Files in plain text.
 
 
 ## Prerequisites.
 
+For your convenience, I've checked in a few output formats, so you can use the data without jumping
+through a lot of hoops to get everything working. However, if you wish to regenerate the data,
+you will need to install several tools.
+
 To build the output versions of the dictionary:
 
-1. Install Perl (for example: strawberry perl, http://strawberryperl.com/)
-2. Install Saxon (http://saxon.sourceforge.net/)
+1. Install Perl (for example: strawberry perl, http://strawberryperl.com/).
+2. Install the Saxon processor (http://saxon.sourceforge.net/).
 3. download and install my tei2html scripts. (https://github.com/jhellingman/tei2html) This includes some further tools and dependencies.
 
 When all is done:
