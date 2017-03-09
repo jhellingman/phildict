@@ -8,8 +8,8 @@
 <fileDesc>
 <titleStmt>
 <title>Diccionario Ingles-Español-Tagalog</title>
-<author>Sofronio G. Calderón</author>
-<respStmt><resp>Transcription</resp><name>Jeroen Hellingman</name></respStmt>
+<author key="Sofronio G. Calderón" ref="http://viaf.org/viaf/163146029576335822393">Sofronio G. Calderón (1878&ndash;1954)</author>
+<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
