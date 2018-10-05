@@ -10663,4 +10663,5 @@ INSERT INTO `wced_entry` VALUES (12791, "myusik", "695", "<entry page=""695"" id
 
 </trans></eg>
 </sense></hom></entry>");
-INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (12791, "myúsik", "myusik", "m", "n");COMMIT;
+INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (12791, "myúsik", "myusik", "m", "n");
+COMMIT;

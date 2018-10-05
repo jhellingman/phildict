@@ -32732,4 +32732,5 @@ INSERT INTO `wced_entry` VALUES (3835, "byuus", "186", "<entry page=""186"" id="
 
 </trans>
 </sense></hom></entry>");
-INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (3835, "byúus", "byuus", "m", "");COMMIT;
+INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (3835, "byúus", "byuus", "m", "");
+COMMIT;

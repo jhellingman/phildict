@@ -30852,4 +30852,5 @@ INSERT INTO `wced_entry` VALUES (10345, "kyuum", "536", "<entry page=""536"" id=
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (10345, "kyúum", "kyuum", "m", "va");
-INSERT INTO `wced_translation` (entryid, translation) VALUES (10345, "close");COMMIT;
+INSERT INTO `wced_translation` (entryid, translation) VALUES (10345, "close");
+COMMIT;

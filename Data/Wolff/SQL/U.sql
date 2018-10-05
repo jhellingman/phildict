@@ -12061,4 +12061,5 @@ INSERT INTO `wced_entry` VALUES (20582, "uyung", "1119", "<entry page=""1119"" i
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20582, "úyung", "uyung", "m", "nv");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (20582, "title");
-INSERT INTO `wced_translation` (entryid, translation) VALUES (20582, "old");COMMIT;
+INSERT INTO `wced_translation` (entryid, translation) VALUES (20582, "old");
+COMMIT;

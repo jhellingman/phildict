@@ -18268,4 +18268,5 @@ INSERT INTO `wced_entry` VALUES (6964, "hwisyu", "360", "<entry page=""360"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6964, "hwisyu", "hwisyu", "m", "n");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6964, "sense");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6964, "judgment");
-INSERT INTO `wced_translation` (entryid, translation) VALUES (6964, "consciousness");COMMIT;
+INSERT INTO `wced_translation` (entryid, translation) VALUES (6964, "consciousness");
+COMMIT;

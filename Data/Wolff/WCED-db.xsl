@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE xsl:stylesheet [
 
-<!ENTITY lf         "&#x0A;"            >
-<!ENTITY dagger     "&#x2020;"          >
+<!ENTITY lf         "&#x0A;"    >
+<!ENTITY dagger     "&#x2020;"  >
 
 ]>
 
-<xsl:stylesheet
+<xsl:stylesheet version="3.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:fn="http://www.w3.org/2005/xpath-functions"
     xmlns:local="localhost"
-    version="2.0"
     exclude-result-prefixes="xs dc local fn">
 
 <xsl:output
@@ -38,34 +37,31 @@
         <xsl:call-template name="database-structure-sqlite"/>
     </xsl:result-document>
 
-    <xsl:text>BEGIN TRANSACTION;</xsl:text>
+    <xsl:text>BEGIN TRANSACTION;&lf;</xsl:text>
     <xsl:apply-templates mode="entries" select="dictionary/entry"/>
-    <xsl:text>COMMIT;</xsl:text>
+    <xsl:text>COMMIT;&lf;</xsl:text>
 </xsl:template>
 
 
-<xsl:template name="database-structure-sqlite">
+<xsl:template name="database-structure-sqlite" expand-text="yes">
 
 DROP TABLE IF EXISTS "android_metadata";
-CREATE TABLE "android_metadata"
-(
+CREATE TABLE "android_metadata" (
     "locale" TEXT DEFAULT 'en_US'
 );
 
 INSERT INTO "android_metadata" VALUES('en_US');
 
-DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_entry";
-CREATE TABLE "<xsl:value-of select="$prefix"/>_entry"
-(
+DROP TABLE IF EXISTS "{$prefix}_entry";
+CREATE TABLE "{$prefix}_entry" (
     "_id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "head" VARCHAR,
     "page" INTEGER,
     "entry" TEXT
 );
 
-DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_head";
-CREATE TABLE "<xsl:value-of select="$prefix"/>_head"
-(
+DROP TABLE IF EXISTS "{$prefix}_head";
+CREATE TABLE "{$prefix}_head" (
     "_id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "head" VARCHAR,
     "normalized_head" VARCHAR,
@@ -74,9 +70,8 @@ CREATE TABLE "<xsl:value-of select="$prefix"/>_head"
     "pos" varchar
 );
 
-DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_translation";
-CREATE TABLE "<xsl:value-of select="$prefix"/>_translation"
-(
+DROP TABLE IF EXISTS "{$prefix}_translation";
+CREATE TABLE "{$prefix}_translation" (
     "_id" INTEGER PRIMARY KEY NOT NULL,
     "entryid" INTEGER,
     "translation" VARCHAR
@@ -84,9 +79,8 @@ CREATE TABLE "<xsl:value-of select="$prefix"/>_translation"
 
 <xsl:if test="$generateWordTable">
 
-DROP TABLE IF EXISTS "<xsl:value-of select="$prefix"/>_word";
-CREATE TABLE "<xsl:value-of select="$prefix"/>_word"
-(
+DROP TABLE IF EXISTS "{$prefix}_word";
+CREATE TABLE "{$prefix}_word" (
     "_id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "entryid" INTEGER,
     "flags" INTEGER,
@@ -100,10 +94,9 @@ CREATE TABLE "<xsl:value-of select="$prefix"/>_word"
 
 
 
-<xsl:template name="database-structure">
+<xsl:template name="database-structure" expand-text="yes">
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_metadata`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_metadata` (
     `workid` varchar(4) NOT NULL,
     `author` varchar(32) NOT NULL default '',
     `title` varchar(32) NOT NULL default '',
@@ -113,7 +106,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_metadata`
     PRIMARY KEY (`workid`)
 );
 
-INSERT INTO `<xsl:value-of select="$prefix"/>_metadata` VALUES (
+INSERT INTO `{$prefix}_metadata` VALUES (
     'wced',
     'John U. Wolff',
     'A Dictionary of Cebuano Visayan',
@@ -121,33 +114,30 @@ INSERT INTO `<xsl:value-of select="$prefix"/>_metadata` VALUES (
     'intro'
     );
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_flag`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_flag` (
     `flagid` int(11) NOT NULL,
     `description` varchar(32) NOT NULL default '',
 
     PRIMARY KEY (`flagid`)
 );
 
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (1, 'First Headword');
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (2, 'Headwords');
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (4, 'Other Words');
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (8, 'Exact');
-INSERT INTO `<xsl:value-of select="$prefix"/>_flag` VALUES (16, 'Normalized');
+INSERT INTO `{$prefix}_flag` VALUES (1, 'First Headword');
+INSERT INTO `{$prefix}_flag` VALUES (2, 'Headwords');
+INSERT INTO `{$prefix}_flag` VALUES (4, 'Other Words');
+INSERT INTO `{$prefix}_flag` VALUES (8, 'Exact');
+INSERT INTO `{$prefix}_flag` VALUES (16, 'Normalized');
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_language`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_language` (
     `lang` varchar(5) NOT NULL,
     `name` varchar(32) NOT NULL default '',
 
     PRIMARY KEY (`lang`)
 );
 
-INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("ceb", "Cebuano");
-INSERT INTO `<xsl:value-of select="$prefix"/>_language` VALUES ("en-US", "English (US)");
+INSERT INTO `{$prefix}_language` VALUES ("ceb", "Cebuano");
+INSERT INTO `{$prefix}_language` VALUES ("en-US", "English (US)");
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_entry`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_entry` (
     `entryid` int(11) NOT NULL auto_increment,
     `word` varchar(32) NOT NULL default '',
     `page` varchar(4) NOT NULL default '',
@@ -157,8 +147,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_entry`
     KEY `word` (`word`)
 );
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_word` (
     `entryid` int(11) NOT NULL,
     `flags` int(11) NOT NULL,
     `word` varchar(32) NOT NULL default '',
@@ -167,8 +156,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_word`
     KEY `word` (`word`)
 );
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_head`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_head` (
     `entryid` int(11) NOT NULL,
     `head` varchar(64) NOT NULL default '',
     `normalized_head` varchar(64) NOT NULL default '',
@@ -178,16 +166,14 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_head`
     KEY `head` (`head`)
 );
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_translations`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_translation` (
     `entryid` int(11) NOT NULL,
     `translation` varchar(64) NOT NULL default '',
 
     KEY `translation` (`translation`)
 );
 
-CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
-(
+CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
     `noteid` int(11) NOT NULL auto_increment,
     `entryid` int(11) NOT NULL,
     `userid` int(11) NOT NULL,
@@ -229,31 +215,31 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
 
     <xsl:value-of select="local:insertEntrySql($entryid, $normalizedHeadword, $entrytext, @page)"/>
 
-	<xsl:if test="$generateWordTable">
-		<!-- Find all words with language for this entry -->
-		<xsl:variable name="words">
-			<xsl:apply-templates mode="words"/>
-		</xsl:variable>
+    <xsl:if test="$generateWordTable">
+        <!-- Find all words with language for this entry -->
+        <xsl:variable name="words">
+            <xsl:apply-templates mode="words"/>
+        </xsl:variable>
 
-		<!-- Find unique words in entry -->
-		<xsl:for-each-group select="$words/w" group-by="@xml:lang">
-			<xsl:for-each-group select="current-group()" group-by=".">
-				<xsl:variable name="flags" select="current-group()[1]/@flags"/>
-				<xsl:variable name="flags" select="if (current-group()[1] = $headword) then $flags + 1 else $flags"/>
-				<xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then $flags + 24 else $flags + 8"/>
-				<xsl:value-of select="local:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
-			</xsl:for-each-group>
-		</xsl:for-each-group>
+        <!-- Find unique words in entry -->
+        <xsl:for-each-group select="$words/w" group-by="@xml:lang">
+            <xsl:for-each-group select="current-group()" group-by=".">
+                <xsl:variable name="flags" select="current-group()[1]/@flags"/>
+                <xsl:variable name="flags" select="if (current-group()[1] = $headword) then $flags + 1 else $flags"/>
+                <xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then $flags + 24 else $flags + 8"/>
+                <xsl:value-of select="local:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
+            </xsl:for-each-group>
+        </xsl:for-each-group>
 
-		<!-- Find unique normalized forms of words in entry -->
-		<xsl:for-each-group select="$words/w[@form != .]" group-by="@xml:lang">
-			<xsl:for-each-group select="current-group()" group-by=".">
-				<xsl:variable name="flags" select="current-group()[1]/@flags"/>
-				<xsl:variable name="flags" select="if (current-group()[1]/@form = $normalizedHeadword) then $flags + 1 else $flags"/>
-				<xsl:value-of select="local:insertWordSql($entryid, $flags + 16, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
-			</xsl:for-each-group>
-		</xsl:for-each-group>
-	</xsl:if>
+        <!-- Find unique normalized forms of words in entry -->
+        <xsl:for-each-group select="$words/w[@form != .]" group-by="@xml:lang">
+            <xsl:for-each-group select="current-group()" group-by=".">
+                <xsl:variable name="flags" select="current-group()[1]/@flags"/>
+                <xsl:variable name="flags" select="if (current-group()[1]/@form = $normalizedHeadword) then $flags + 1 else $flags"/>
+                <xsl:value-of select="local:insertWordSql($entryid, $flags + 16, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
+            </xsl:for-each-group>
+        </xsl:for-each-group>
+    </xsl:if>
 
     <!-- Find all headings -->
     <xsl:variable name="heads">
@@ -359,22 +345,13 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="entry"/>
     <xsl:param name="page"/>
 
-    <xsl:text>&lf;</xsl:text>
-    <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_entry` VALUES (</xsl:text>
-        <xsl:value-of select="$entryid"/>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="$page"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>, </xsl:text>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="local:escapeSql($entry)"/><xsl:text>&quot;</xsl:text>
-    <xsl:text>);</xsl:text>
+    <xsl:text expand-text="yes">INSERT INTO `{$prefix}_entry` VALUES ({$entryid}, &quot;{$word}&quot;, &quot;{$page}&quot;, &quot;{local:escapeSql($entry)}&quot;);&lf;</xsl:text>
 </xsl:function>
 
 
 <!-- INSERT INTO `wced_head` VALUES (id, head, normalizedHead); -->
 
-<xsl:function name="local:insertHeadSql">
+<xsl:function name="local:insertHeadSql" expand-text="yes">
     <xsl:param name="entryid"/>
     <xsl:param name="head"/>
     <xsl:param name="normalizedHead"/>
@@ -382,35 +359,19 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="pos"/>
 
     <xsl:if test="$head != ''">
-        <xsl:text>&lf;</xsl:text>
-        <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_head` (entryid, head, normalized_head, type, pos) VALUES (</xsl:text>
-            <xsl:value-of select="$entryid"/>
-            <xsl:text>, </xsl:text>
-            <xsl:text>&quot;</xsl:text><xsl:value-of select="$head"/><xsl:text>&quot;</xsl:text>
-            <xsl:text>, </xsl:text>
-            <xsl:text>&quot;</xsl:text><xsl:value-of select="$normalizedHead"/><xsl:text>&quot;</xsl:text>
-            <xsl:text>, </xsl:text>
-            <xsl:text>&quot;</xsl:text><xsl:value-of select="$entryType"/><xsl:text>&quot;</xsl:text>
-            <xsl:text>, </xsl:text>
-            <xsl:text>&quot;</xsl:text><xsl:value-of select="$pos"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>);</xsl:text>
+        <xsl:text expand-text="yes">INSERT INTO `{$prefix}_head` (entryid, head, normalized_head, type, pos) VALUES ({$entryid}, &quot;{$head}&quot;, &quot;{$normalizedHead}&quot;, &quot;{$entryType}&quot;, &quot;{$pos}&quot;);&lf;</xsl:text>
     </xsl:if>
 </xsl:function>
 
 
 <!-- INSERT INTO `wced_translation` VALUES (id, translation); -->
 
-<xsl:function name="local:insertTranslationSql">
+<xsl:function name="local:insertTranslationSql" expand-text="yes">
     <xsl:param name="entryid"/>
     <xsl:param name="translation"/>
 
     <xsl:if test="$translation != ''">
-        <xsl:text>&lf;</xsl:text>
-        <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_translation` (entryid, translation) VALUES (</xsl:text>
-            <xsl:value-of select="$entryid"/>
-            <xsl:text>, </xsl:text>
-            <xsl:text>&quot;</xsl:text><xsl:value-of select="$translation"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>);</xsl:text>
+        <xsl:text expand-text="yes">INSERT INTO `{$prefix}_translation` (entryid, translation) VALUES ({$entryid}, &quot;{$translation}&quot;);&lf;</xsl:text>
     </xsl:if>
 </xsl:function>
 
@@ -424,16 +385,7 @@ CREATE TABLE IF NOT EXISTS `<xsl:value-of select="$prefix"/>_note`
     <xsl:param name="lang"/>
 
     <xsl:if test="$word != ''">
-        <xsl:text>&lf;</xsl:text>
-        <xsl:text>INSERT INTO `</xsl:text><xsl:value-of select="$prefix"/><xsl:text>_word` (entryid, flags, word, lang) VALUES (</xsl:text>
-            <xsl:value-of select="$entryid"/>
-            <xsl:text>, </xsl:text>
-            <xsl:value-of select="$flags"/>
-            <xsl:text>, </xsl:text>
-            <xsl:text>&quot;</xsl:text><xsl:value-of select="$word"/><xsl:text>&quot;</xsl:text>
-            <xsl:text>, </xsl:text>
-            <xsl:text>&quot;</xsl:text><xsl:value-of select="$lang"/><xsl:text>&quot;</xsl:text>
-        <xsl:text>);</xsl:text>
+        <xsl:text expand-text="yes">INSERT INTO `{$prefix}_word` (entryid, flags, word, lang) VALUES ({$entryid}, {$flags}, &quot;{$word}&quot;, &quot;{$lang}&quot;);&lf;</xsl:text>
     </xsl:if>
 </xsl:function>
 

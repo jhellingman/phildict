@@ -2846,4 +2846,5 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2100
 INSERT INTO `wced_translation` (entryid, translation) VALUES (21000, "sagging");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (21000, "drooping");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (21000, "sag");
-INSERT INTO `wced_translation` (entryid, translation) VALUES (21000, "droop");COMMIT;
+INSERT INTO `wced_translation` (entryid, translation) VALUES (21000, "droop");
+COMMIT;

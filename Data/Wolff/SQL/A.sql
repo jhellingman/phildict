@@ -20207,4 +20207,5 @@ INSERT INTO `wced_entry` VALUES (1509, "ayus", "72", "<entry page=""72"" id=""15
 
 </trans></eg>
 </sense></hom></entry>");
-INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (1509, "ayus", "ayus", "m", "v");COMMIT;
+INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (1509, "ayus", "ayus", "m", "v");
+COMMIT;

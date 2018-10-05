@@ -1,4 +1,5 @@
 
+
 DROP TABLE IF EXISTS "android_metadata";
 CREATE TABLE "android_metadata" (
     "locale" TEXT DEFAULT 'en_US'
@@ -30,3 +31,4 @@ CREATE TABLE "wced_translation" (
     "entryid" INTEGER,
     "translation" VARCHAR
 );
+

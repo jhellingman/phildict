@@ -32654,4 +32654,5 @@ INSERT INTO `wced_entry` VALUES (19922, "tyutur", "1072", "<entry page=""1072"" 
 </trans></eg>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (19922, "tyútur", "tyutur", "m", "nv");
-INSERT INTO `wced_translation` (entryid, translation) VALUES (19922, "tutor");COMMIT;
+INSERT INTO `wced_translation` (entryid, translation) VALUES (19922, "tutor");
+COMMIT;

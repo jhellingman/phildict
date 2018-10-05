@@ -13857,4 +13857,5 @@ INSERT INTO `wced_entry` VALUES (8024, "iyut", "409", "<entry page=""409"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8024, "íyut", "iyut", "m", "v");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8024, "íyut ta", "iyut ta", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8024, "yuta", "yuta", "s", "");
-INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8024, "palaiyut", "palaiyut", "s", "a");COMMIT;
+INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8024, "palaiyut", "palaiyut", "s", "a");
+COMMIT;

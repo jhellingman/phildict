@@ -4682,4 +4682,5 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (15662, "arena");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (15662, "ring");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (15662, "turn");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (15662, "awhirl");
-INSERT INTO `wced_translation` (entryid, translation) VALUES (15662, "whirling");COMMIT;
+INSERT INTO `wced_translation` (entryid, translation) VALUES (15662, "whirling");
+COMMIT;

@@ -16516,4 +16516,5 @@ INSERT INTO `wced_entry` VALUES (5022, "dyuy rayding", "245", "<entry page=""245
 
 </trans>
 </sense></hom></entry>");
-INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5022, "dyuy rayding", "dyuy rayding", "m", "vn");COMMIT;
+INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5022, "dyuy rayding", "dyuy rayding", "m", "vn");
+COMMIT;
