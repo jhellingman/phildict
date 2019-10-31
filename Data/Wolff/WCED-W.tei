@@ -342,9 +342,9 @@
 
 <p id=20721><form>waypir</form> <pos>n</pos> <tr>windshield wiper</tr>.
 
-<p id=20722><form>wayring</form> <pos>n</pos> <tr>electrical wiring</tr>. <pos>v</pos> <itype>[A; b]</itype> install electrical :wiring.
+<p id=20722><form>wayring</form> <pos>n</pos> <tr>electrical wiring</tr>. <pos>v</pos> <itype>[A; b]</itype> install electrical <tr>wiring</tr>.
 
-<p id=20723><form>wayway</form> <pos>v</pos> <itype>[B6; c1]</itype> :dangle loosely. <i>Miwayway ang buktun nga natikbasan,</i> The arm that was hacked dangled loosely. <i>Ayaw iwayway ang panaptun sa bintánà,</i> Do not hang the cloth over the window.
+<p id=20723><form>wayway</form> <pos>v</pos> <itype>[B6; c1]</itype> <tr>dangle</tr> loosely. <i>Miwayway ang buktun nga natikbasan,</i> The arm that was hacked dangled loosely. <i>Ayaw iwayway ang panaptun sa bintánà,</i> Do not hang the cloth over the window.
 
 <p id=20724><form>wíb<sub>1</sub></form> <pos>v</pos> <itype>[A; c]</itype> <number>1</number> in boxing, wave the body to evade a blow. <number>2</number> in basketball, zigzag dribbling the ball. <form>{-ing|wíbing}</form> <pos>n</pos> waving to avoid blows or zigzagging in dribbling.
 
