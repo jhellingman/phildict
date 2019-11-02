@@ -42,8 +42,7 @@ print "Create database format...\n";
 system ("perl KVED-db.pl temp-02.xml");
 
 # Create database if needed
-if (!-e "SQL/dictionary_database") 
-{
+if (!-e "SQL/dictionary_database") {
     system ("sqlite3 SQL/dictionary_database < SQL/structure-sqlite.sql");
     system ("sqlite3 SQL/dictionary_database < SQL/kved_data.sql");
 }
