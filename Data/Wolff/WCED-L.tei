@@ -1544,7 +1544,7 @@
 
 <p id=11082><form>laybrari</form> <pos>n</pos> <tr>library</tr>. <form>{-yan|laybrariyan}</form> <pos>n</pos> <tr>librarian</tr>. <pos>v</pos> <itype>[B16]</itype> be a librarian.
 
-<p id=11083><form>laygay</form> <pos>v</pos> <number>1</number> <itype>[A3P; a12]</itype> make s.o. <tr>bedridden</tr>. <i>Sakit nga milaygay kaníya,</i> The sickness that incapacitated him. <i>Gilaygay siyag tísis,</i> He was bedridden with T.B. <number>2</number> <itype>[a4]</itype> be affected with great financial difficulty. <i>Mga kabus nga gilaygay sa kalisud,</i> Poor people who are wallowing in difficulty. <pos>a</pos> <tr>incapacitating</tr>, leaving one bedridden. <i>Laygay sakíta nang paralisis,</i> Paralysis leaves one bedridden.
+<p id=11083><form>laygay</form> <pos>v</pos> <number>1</number> <itype>[A3P; a12]</itype> make s.o. <tr>bedridden</tr>. <i>Sakit nga milaygay kaníya,</i> The sickness that incapacitated him. <i>Gilaygay siyag tísis,</i> He was bedridden with <abbr expan="tuberculosis">T.B.</abbr> <number>2</number> <itype>[a4]</itype> be affected with great financial difficulty. <i>Mga kabus nga gilaygay sa kalisud,</i> Poor people who are wallowing in difficulty. <pos>a</pos> <tr>incapacitating</tr>, leaving one bedridden. <i>Laygay sakíta nang paralisis,</i> Paralysis leaves one bedridden.
 
 <p id=11084><form>layhan</form> <ix>see</ix> <xr><sc>*lahay</sc>.</xr>
 
@@ -2464,7 +2464,7 @@
 
 <p id=11538><form>lubítus</form> <pos>n</pos> very small beads sewn on s.t. for decoration. <pos>v</pos> <itype>[A; b6]</itype> decorate s.t. with <ix>lubítus.</ix>
 
-<p id=11539><form>lublub</form> <pos>v</pos> <number>1</number> <itype>[A;b(1)]</itype> bury oneself. <i>Kuykúya ang gilublúban sa hanlilítik,</i> Dig down to where the scorpion shrimp buried itself. <number>2</number> <itype>[A; b6]</itype> stay long in a place without much activity. <i>Naglublub lang siya sa íla kay way kwarta,</i> He just stays home because he doesn&apos;t have any money. <form>{-anan|lublubanan}</form> <pos>n</pos> place where s.o. buries himself or stays long in. &dagger;
+<p id=11539><form>lublub</form> <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> bury oneself. <i>Kuykúya ang gilublúban sa hanlilítik,</i> Dig down to where the scorpion shrimp buried itself. <number>2</number> <itype>[A; b6]</itype> stay long in a place without much activity. <i>Naglublub lang siya sa íla kay way kwarta,</i> He just stays home because he doesn&apos;t have any money. <form>{-anan|lublubanan}</form> <pos>n</pos> place where s.o. buries himself or stays long in. &dagger;
 
 <p id=11540><form>lúbu<sub>1</sub></form> <pos>v</pos> <itype>[B26; c1P]</itype> for s.t. to be projected upwards at a sharp angle. <i>Ayawg ilúbu (lubúha ipalúbu, palubúha) inigsirbi kay sayun nang sagngun,</i> Don&apos;t serve it high because it will be easy to spike it. <pos>a</pos> projected at a sharp angle. <i>Lúbu ra nga pagkasirbi<corr>,</corr></i> Served too high. <pos>n</pos> <number>1</number> balloon. <number>2</number> hot-air balloon. <i>Misáka ang lúbu human kadagkuti ang pabílu,</i> The hot-air balloon rose after the wick was lit.
 

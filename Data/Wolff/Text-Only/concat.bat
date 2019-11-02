@@ -1,1 +1,0 @@
-cat WCED-frontmatter.txt WCED-A.txt WCED-B.txt WCED-D.txt WCED-G.txt WCED-H.txt WCED-I.txt WCED-K.txt WCED-L.txt WCED-M.txt WCED-N.txt WCED-P.txt WCED-R.txt WCED-S.txt WCED-T.txt WCED-U.txt WCED-W.txt WCED-Y.txt WCED-addenda.txt WCED-backmatter.txt > WCED-complete.txt

@@ -13,16 +13,13 @@ $Text::Wrap::columns = 72;
 
 my $tagPattern = "<(.*?)>";
 
-while (<>)
-{
+while (<>) {
     my $a = $_;
 
     # remove TeiHeader
-    if ($a =~ /<[Tt]ei[Hh]eader/)
-    {
+    if ($a =~ /<[Tt]ei[Hh]eader/) {
         $a = $';
-        while($a !~ /<\/[Tt]ei[Hh]eader>/)
-        {
+        while($a !~ /<\/[Tt]ei[Hh]eader>/) {
             $a = <>;
         }
         $a =~ /<\/[Tt]ei[Hh]eader>/;
@@ -49,11 +46,9 @@ while (<>)
     $a =~ s/<.*?>//g;
 
     # warn for entities that slipped through.
-    if ($a =~ /\&([a-zA-Z0-9._-]+);/)
-    {
+    if ($a =~ /\&([a-zA-Z0-9._-]+);/) {
         my $ent = $1;
-        if (!($ent eq "gt" || $ent eq "lt" || $ent eq "amp"))
-        {
+        if (!($ent eq "gt" || $ent eq "lt" || $ent eq "amp")) {
             print "\n[ERROR: Contains unhandled entity &$ent;]\n";
         }
     }
@@ -71,8 +66,7 @@ while (<>)
     print $a;
 }
 
-sub wrapLine($)
-{
+sub wrapLine($) {
     my $line = shift;
     $line =~ /^(.*)(\n*)$/;
     $line = $1;
@@ -81,12 +75,10 @@ sub wrapLine($)
     return $line . $ending;
 }
 
-sub handleSub($)
-{
+sub handleSub($) {
     my $remainder = shift;
     my $a = "";
-    while ($remainder =~ /<sub>(.*?)<\/sub>/)
-    {
+    while ($remainder =~ /<sub>(.*?)<\/sub>/) {
         $a .= $` . "_" . $1;
         $remainder = $';
     }

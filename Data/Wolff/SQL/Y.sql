@@ -73,7 +73,7 @@ INSERT INTO `wced_entry` VALUES (20800, "yabag", "1130", "<entry page=""1130"" i
 <sense n=""0""> <itype>[B2; b6]</itype><trans> deviate from normal or proper action: become out of key, improper in behavior, senseless, a wanderer. </trans>
 <eg><i lang=""ceb"">Muyabag ang íyang sinultihan (kinantahan) ug makainum-inum,</i><trans> He talks nonsense (sings off key) after he has had a little to drink. </trans></eg>
 </sense></hom>
-<entry><form id=""yaxbag"" lang=""ceb""><abbr expan=""yábag"">(←)</abbr></form>
+<entry><form id=""yaxbag"" lang=""ceb""><abbr expan=""yábag"" type=""lemma"">(←)</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""1""><number>1</number> <itype>[B156; a]</itype><trans> deviate severely from what is proper or normal: be severely out of tune, be hopelessly senseless, completely <tr>eccentric</tr> or <tr>improper</tr>, wandering. </trans>
 <eg><i lang=""ceb"">Nayábag ang inahan pagkasúnug sa ílang balay,</i><trans> The mother went completely crazy when their house burnt down. </trans></eg>
@@ -92,11 +92,11 @@ INSERT INTO `wced_entry` VALUES (20800, "yabag", "1130", "<entry page=""1130"" i
 <sense n=""0""> <itype>[A]</itype><trans> engage in this sort of action. </trans>
 <eg><i lang=""ceb"">Magyabagyabag ka gánì sa ímung pag-iskuyla, dì ka makagraduwar,</i><trans> If you just fool around in your studies, you’ll never graduate. </trans></eg>
 </sense></hom></entry>
-<entry><form id=""kayaxbag"" lang=""ceb""><abbr expan=""kayábag"">ka-(←)</abbr></form>
+<entry><form id=""kayaxbag"" lang=""ceb""><abbr expan=""kayábag"" type=""lemma"">ka-(←)</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> <xr lang=""ceb"" target=""#yaxbag"">= <sc>yábag</sc>.</xr> </trans>
 </sense></hom></entry>
-<entry><form id=""yabagun"" lang=""ceb""><abbr expan=""yabagun"">-un</abbr></form>
+<entry><form id=""yabagun"" lang=""ceb""><abbr expan=""yabagun"" type=""lemma"">-un</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> of a <tr>deviating</tr>, <tr>abnormal</tr> sort.
 </trans>
@@ -127,11 +127,11 @@ INSERT INTO `wced_entry` VALUES (20802, "yabi", "1130", "<entry page=""1130"" id
 </sense>
 <sense n=""2""><number>2</number><trans> term for any wrench but a monkey wrench. </trans>
 </sense></hom>
-<entry><form id=""yaxbing_balikuq"" lang=""ceb""><abbr expan=""yábing"">-ng</abbr> balikù</form>
+<entry><form id=""yaxbing_balikuq"" lang=""ceb""><abbr expan=""yábing"" type=""lemma"">-ng</abbr> balikù</form>
 <hom>
 <sense n=""0""><trans> <tr>box wrench</tr>. </trans>
 </sense></hom></entry>
-<entry><form id=""yaxbi_tuxbu_yaxbi_dituxbu"" lang=""ceb""><abbr expan=""yábi"">—</abbr> túbu, <abbr expan=""yábi"">—</abbr> ditúbu</form>
+<entry><form id=""yaxbi_tuxbu_yaxbi_dituxbu"" lang=""ceb""><abbr expan=""yábi"" type=""lemma"">—</abbr> túbu, <abbr expan=""yábi"" type=""lemma"">—</abbr> ditúbu</form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>pipe wrench</tr>. </trans>
 </sense></hom>
@@ -306,7 +306,7 @@ INSERT INTO `wced_entry` VALUES (20815, "yagatyat", "1131", "<entry page=""1131"
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B; b6]</itype><trans> come out soft, lacking in firmness. </trans>
 </sense></hom>
-<entry><form id=""yagatyatun"" lang=""ceb""><abbr expan=""yagatyatun"">-un(→)</abbr></form>
+<entry><form id=""yagatyatun"" lang=""ceb""><abbr expan=""yagatyatun"" type=""lemma"">-un(→)</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> soft, not firm-fleshed fruit.
 </trans>
@@ -320,7 +320,7 @@ INSERT INTO `wced_entry` VALUES (20816, "yagaw", "1131", "<entry page=""1131"" i
 <eg><i lang=""ceb"">Nagkadaíyang pangutána ang miyágaw sa iyang pangísip,</i><trans> All those different questions confused his mind. </trans></eg>
 <eg><i lang=""ceb"">Nagyágaw ang mga táwus sinihan pagsiyáuks bumbíru,</i><trans> The people in the movie house were in a tumult when the fire truck shrieked. </trans></eg>
 </sense></hom>
-<entry><form id=""kayaxgaw"" lang=""ceb""><abbr expan=""kayágaw"">ka-</abbr></form>
+<entry><form id=""kayaxgaw"" lang=""ceb""><abbr expan=""kayágaw"" type=""lemma"">ka-</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> confusion, din. </trans>
 <eg><i lang=""ceb"">Lúpig pay tyanggis kayágaw,</i><trans> Worse than the market in noise and confusion. </trans></eg>
@@ -347,7 +347,7 @@ INSERT INTO `wced_entry` VALUES (20818, "yagawyaw", "1131", "<entry page=""1131"
 <hom role=""v""><pos>v</pos>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#yawyaw"">= <sc>yawyaw</sc>, <ix>v</ix>.</xr> </trans>
 </sense></hom>
-<entry><form id=""yagawyawun"" lang=""ceb""><abbr expan=""yagawyawun"">-an(→)</abbr></form>
+<entry><form id=""yagawyawun"" lang=""ceb""><abbr expan=""yagawyawun"" type=""lemma"">-an(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> given to ranting.
 </trans>
@@ -372,7 +372,7 @@ INSERT INTO `wced_entry` VALUES (20819, "yagayaga", "1131", "<entry page=""1131"
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> ridicule, teasing. </trans>
 </sense></hom>
-<entry><form id=""yagaqyagaun"" lang=""ceb""><abbr expan=""yagàyagaun"">-un</abbr></form>
+<entry><form id=""yagaqyagaun"" lang=""ceb""><abbr expan=""yagàyagaun"" type=""lemma"">-un</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> given to making fun of s.o.
 </trans>
@@ -386,7 +386,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (20819, "disturb");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (20819, "careless");
 INSERT INTO `wced_entry` VALUES (20820, "yagbun", "1131", "<entry page=""1131"" id=""20820""><form id=""yagbun"" lang=""ceb"">yagbun</form>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""> <itype>[AB3(1); c1]</itype><trans> <tr>heap</tr>, <tr>pile</tr> s.t up; be heaped up. </trans>
+<sense n=""0""> <itype>[AB3(1); c1]</itype><trans> <tr>heap</tr>, <tr>pile</tr> s.t. up; be heaped up. </trans>
 <eg><i lang=""ceb"">Nakayagbun na sila sa mga dalag,</i><trans> They have gathered the dry leaves in a heap. </trans></eg>
 <eg><i lang=""ceb"">Nagyagbun ang sagbut sa ílang sílung,</i><trans> Garbage is piling up beneath their house.
 </trans></eg>
@@ -419,7 +419,7 @@ INSERT INTO `wced_entry` VALUES (20823, "yagpis", "1132", "<entry page=""1132"" 
 <sense n=""2""><number>2</number> <itype>[B6; c1]</itype><trans> slice or cut s.t. thinly. </trans>
 <eg><i lang=""ceb"">Yagpísa (iyagpis) paghíwà ang kasahusun,</i><trans> Slice the meat thinly for jerked meat. </trans></eg>
 </sense></hom>
-<entry><form id=""yagpisun"" lang=""ceb""><abbr expan=""yagpisun"">-un(→)</abbr></form>
+<entry><form id=""yagpisun"" lang=""ceb""><abbr expan=""yagpisun"" type=""lemma"">-un(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> of a <tr>slim</tr>, <tr>thin</tr> sort.
 </trans>
@@ -552,7 +552,7 @@ INSERT INTO `wced_entry` VALUES (20833, "yaka", "1132", "<entry page=""1132"" id
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> having a flat nose. </trans>
 </sense></hom>
-<entry><form id=""payakaq"" lang=""ceb""><abbr expan=""payakà"">pa-</abbr></form>
+<entry><form id=""payakaq"" lang=""ceb""><abbr expan=""payakà"" type=""lemma"">pa-</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B1256]</itype><trans> fall into a sitting position.
 </trans>
@@ -587,7 +587,7 @@ INSERT INTO `wced_entry` VALUES (20836, "yakmu", "1132", "<entry page=""1132"" i
 <sense n=""0""> <itype>[B; b6]</itype><trans> get to have a protruding chin or sunken mouth. </trans>
 <eg><i lang=""ceb"">Nayakmù ka kay dílì ka mupustísu,</i><trans> You developed a pointed chin because you would not wear your false teeth. </trans></eg>
 </sense></hom>
-<entry><form id=""yakmuun"" lang=""ceb""><abbr expan=""yakmuun"">-un(→)</abbr></form>
+<entry><form id=""yakmuun"" lang=""ceb""><abbr expan=""yakmuun"" type=""lemma"">-un(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> being somewhat <tr>protruding</tr>, <tr>sunken</tr>.
 </trans>
@@ -604,7 +604,7 @@ INSERT INTO `wced_entry` VALUES (20837, "yakub", "1132", "<entry page=""1132"" i
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B; b6]</itype><trans> for the cheeks to become sunken. </trans>
 </sense></hom>
-<entry><form id=""yaxkub"" lang=""ceb""><abbr expan=""yákub"">(←)</abbr></form>
+<entry><form id=""yaxkub"" lang=""ceb""><abbr expan=""yákub"" type=""lemma"">(←)</abbr></form>
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#yakub"">= <sc>yakub</sc>, <ix>v</ix>.</xr> </trans>
 </sense></hom></entry>
@@ -639,7 +639,7 @@ INSERT INTO `wced_entry` VALUES (20840, "yam-ang", "1132", "<entry page=""1132""
 <eg><i lang=""ceb"">Siya ang miyam-ang (nangyam-ang) niánang istatúwa,</i><trans> He was the one who marred that statue. </trans></eg>
 <eg><i lang=""ceb"">Makayam-ang (makapangyam-ang) ka pagsulti kuntra kaníya kay náa may ímung gisalígan,</i><trans> You can say bad things against her because you have s.o. behind you. </trans></eg>
 </sense></hom>
-<entry><form id=""yam-angan"" lang=""ceb""><abbr expan=""yam-angan"">-an(→)</abbr></form>
+<entry><form id=""yam-angan"" lang=""ceb""><abbr expan=""yam-angan"" type=""lemma"">-an(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""1""><number>1</number><trans> <tr>careless</tr> and not paying enough attention. </trans>
 <eg><i lang=""ceb"">Yam-angan kaáyu nang bayhána maglingkud. Makítà ang panti,</i><trans> That woman is careless about the way she sits. You can see her panties. </trans></eg>
@@ -710,7 +710,7 @@ INSERT INTO `wced_entry` VALUES (20843, "yamat", "1133", "<entry page=""1133"" i
 <sense n=""0""> <itype>[B1]</itype><trans> for s.t. that one accomplishes or a situation to be in chaos. </trans>
 <eg><i lang=""ceb"">Nagyamatyamat ning ákung trabáhu kay wà sa ákung hunàhúnà ang ákung búhat,</i><trans> My work was all <tr>chaotic</tr> because my mind was not on it. </trans></eg>
 </sense></hom></entry>
-<entry><form id=""kayaxmat_kayamatyamat"" lang=""ceb""><abbr expan=""kayámat"">ka-</abbr>, kayamatyamat</form>
+<entry><form id=""kayaxmat_kayamatyamat"" lang=""ceb""><abbr expan=""kayámat"" type=""lemma"">ka-</abbr>, kayamatyamat</form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> <xr lang=""ceb"" target=""#yamatyamat"">= <sc>yamatyamat</sc>.</xr>
 </trans>
@@ -729,7 +729,7 @@ INSERT INTO `wced_entry` VALUES (20844, "yamayama", "1133", "<entry page=""1133"
 <sense n=""2""><number>2</number> <itype>[A1; b1]</itype><trans> do work <tr>carelessly</tr>. </trans>
 <eg><i lang=""ceb"">Íya lang giyamàyamaan ug tahì ang ákung sinínà maung naghíbat,</i><trans> She sewed my dress carelessly and so it is all crooked. </trans></eg>
 </sense></hom>
-<entry><form id=""yamaqyamaun"" lang=""ceb""><abbr expan=""yamàyamaun"">-un</abbr></form>
+<entry><form id=""yamaqyamaun"" lang=""ceb""><abbr expan=""yamàyamaun"" type=""lemma"">-un</abbr></form>
 <hom role=""n""><pos><corr sic=""a"">n</corr></pos>
 <sense n=""0""><trans> one who does his work carelessly.
 </trans>
@@ -776,7 +776,7 @@ INSERT INTO `wced_entry` VALUES (20847, "yamhang", "1133", "<entry page=""1133""
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B12; b6]</itype><trans> be carelessly inattentive or neglectful. </trans>
 </sense></hom>
-<entry><form id=""yamhangan"" lang=""ceb""><abbr expan=""yamhangan"">-an(→)</abbr></form>
+<entry><form id=""yamhangan"" lang=""ceb""><abbr expan=""yamhangan"" type=""lemma"">-an(→)</abbr></form>
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#yamhang"">= <sc>yamhang</sc>.</xr>
 </trans>
@@ -792,7 +792,7 @@ INSERT INTO `wced_entry` VALUES (20848, "yam-id", "1133", "<entry page=""1133"" 
 <eg><i lang=""ceb"">Miyam-id (nangyam-id) ang bátà sa pagkáun,</i><trans> The child pouted at the food. </trans></eg>
 <eg><i lang=""ceb"">Babáying mubug lupad nga giyam-íran sa katilingban,</i><trans> A woman of loose morals the whole society sneers at. </trans></eg>
 </sense></hom>
-<entry><form id=""pangyam-id"" lang=""ceb""><abbr expan=""pangyam-id"">paN-</abbr></form>
+<entry><form id=""pangyam-id"" lang=""ceb""><abbr expan=""pangyam-id"" type=""lemma"">paN-</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> sneer. </trans>
 </sense></hom></entry>
@@ -851,7 +851,7 @@ INSERT INTO `wced_entry` VALUES (20852, "yam-is", "1133", "<entry page=""1133"" 
 <sense n=""0""> <itype>[B; b6]</itype><trans> taste <tr>sweetish</tr>. </trans>
 <eg><i lang=""ceb"">Nagyam-is ang ákung bàbà human makainum sa sikwáti,</i><trans> I have a sweetish taste in my mouth after drinking the chocolate. </trans></eg>
 </sense></hom>
-<entry><form id=""yam-isun"" lang=""ceb""><abbr expan=""yam-isun"">-un(→)</abbr></form>
+<entry><form id=""yam-isun"" lang=""ceb""><abbr expan=""yam-isun"" type=""lemma"">-un(→)</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> of a sweetish kind.
 </trans>
@@ -904,7 +904,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (20855, "sluggish")
 INSERT INTO `wced_translation` (entryid, translation) VALUES (20855, "mope");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (20855, "loaf");
 INSERT INTO `wced_entry` VALUES (20856, "yamu", "1134", "<entry page=""1134"" id=""20856""><form id=""yamu"" lang=""ceb"">yamu</form>
-<entry><form id=""walaq_yamu"" lang=""ceb"">walà <abbr expan=""yamu"">—</abbr></form>
+<entry><form id=""walaq_yamu"" lang=""ceb"">walà <abbr expan=""yamu"" type=""lemma"">—</abbr></form>
 <hom>
 <sense n=""0""><trans> there isn’t (wasn’t) any at all. </trans>
 <eg><i lang=""ceb"">‘Naa pa bay ságing ánang baskit?’—‘Walà yamu’,</i><trans> ‘Are there more bananas in that basket?’—‘There isn’t a single one.’ </trans></eg>
@@ -940,7 +940,7 @@ INSERT INTO `wced_entry` VALUES (20858, "yamuk", "1134", "<entry page=""1134"" i
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20858, "yámuk", "yamuk", "m", "");
 INSERT INTO `wced_entry` VALUES (20859, "*yamukat", "1134", "<entry page=""1134"" id=""20859""><form id=""xxyamuxkat"" lang=""ceb"">*yamúkat</form>
-<entry><form id=""kayamuxkat"" lang=""ceb""><abbr expan=""kayamúkat"">ka-</abbr></form>
+<entry><form id=""kayamuxkat"" lang=""ceb""><abbr expan=""kayamúkat"" type=""lemma"">ka-</abbr></form>
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#kalamuxkat"">= <sc>kalamúkat</sc>.</xr> <xr lang=""ceb"" target=""#lamuxkat""><ix>see</ix> <sc>lamúkat</sc>.</xr>
 </trans>
@@ -991,7 +991,7 @@ INSERT INTO `wced_entry` VALUES (20863, "yamyam", "1134", "<entry page=""1134"" 
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> <tr>loudmouthed</tr>. </trans>
 </sense></hom>
-<entry><form id=""yamyamunun"" lang=""ceb""><abbr expan=""yamyamunun"">-unun</abbr></form>
+<entry><form id=""yamyamunun"" lang=""ceb""><abbr expan=""yamyamunun"" type=""lemma"">-unun</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> s.t. usually uttered, esp. prayers.
 </trans>
@@ -1020,7 +1020,7 @@ INSERT INTO `wced_entry` VALUES (20865, "yanang", "1134", "<entry page=""1134"" 
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B; b6]</itype><trans> be, become wet and sloppy. </trans>
 </sense></hom>
-<entry><form id=""yaxnang"" lang=""ceb""><abbr expan=""yánang"">(←)</abbr></form>
+<entry><form id=""yaxnang"" lang=""ceb""><abbr expan=""yánang"" type=""lemma"">(←)</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B6; b6]</itype><trans> </trans>
 </sense>
@@ -1110,12 +1110,12 @@ INSERT INTO `wced_entry` VALUES (20873, "yangud", "1135", "<entry page=""1135"" 
 <sense n=""0""> <itype>[A2S; a]</itype><trans> <tr>look upward</tr>. </trans>
 <eg><i lang=""ceb"">Nagyangud ang bátà sa íyang tabánug,</i><trans> The boy is looking at his kite. </trans></eg>
 </sense></hom>
-<entry><form id=""yangud"" lang=""ceb""><abbr expan=""yangud"">(→)</abbr></form>
+<entry><form id=""yangud"" lang=""ceb""><abbr expan=""yangud"" type=""lemma"">(→)</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> <tr>depend</tr>, <tr>rely upon</tr> s.o. for support. </trans>
 <eg><i lang=""ceb"">Nagyangud ku sa ákung magúwang sa pagiskuyla,</i><trans> I <tr>rely</tr> on my brother to support me in school. </trans></eg>
 </sense></hom></entry>
-<entry><form id=""pangyaxngud"" lang=""ceb""><abbr expan=""pangyángud"">paN-</abbr></form>
+<entry><form id=""pangyaxngud"" lang=""ceb""><abbr expan=""pangyángud"" type=""lemma"">paN-</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A2]</itype><trans> peep up through the cracks in the floor. </trans>
 <eg><i lang=""ceb"">Kamaldítu. Gamay ka pa gánì mangyángud na,</i><trans> What a naughty child. At your age you already peep at girls through the floor.
@@ -1223,7 +1223,7 @@ INSERT INTO `wced_entry` VALUES (20882, "yapak", "1135", "<entry page=""1135"" i
 <sense n=""0""> <itype>[B; a12]</itype><trans> be, become <tr>muddy</tr>. </trans>
 <eg><i lang=""ceb"">Giyapak sa mga bábuy ang ílang búngun,</i><trans> The pigs made the space beneath their house muddy. </trans></eg>
 </sense></hom>
-<entry><form id=""kayapak"" lang=""ceb""><abbr expan=""kayapak"">ka-</abbr></form>
+<entry><form id=""kayapak"" lang=""ceb""><abbr expan=""kayapak"" type=""lemma"">ka-</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> </trans>
 </sense>
@@ -1232,7 +1232,7 @@ INSERT INTO `wced_entry` VALUES (20882, "yapak", "1135", "<entry page=""1135"" i
 </sense>
 <sense n=""2""><number>2</number><trans> be all covered with mud. </trans>
 </sense></hom></entry>
-<entry><form id=""yapakun"" lang=""ceb""><abbr expan=""yapakun"">-un</abbr></form>
+<entry><form id=""yapakun"" lang=""ceb""><abbr expan=""yapakun"" type=""lemma"">-un</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""1""><number>1</number><trans> having soil particles mixed in. </trans>
 <eg><i lang=""ceb"">Bugas nga yapakun,</i><trans> Cereal with lots of particles of dirt in it. </trans></eg>
@@ -1387,7 +1387,7 @@ INSERT INTO `wced_entry` VALUES (20893, "yasyas", "1136", "<entry page=""1136"" 
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> <tr>loose</tr>, <tr>hanging loosely</tr>. </trans>
 </sense></hom>
-<entry><form id=""yinasyasan"" lang=""ceb""><abbr expan=""yinasyasan"">-in-an</abbr></form>
+<entry><form id=""yinasyasan"" lang=""ceb""><abbr expan=""yinasyasan"" type=""lemma"">-in-an</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> place slashed open.
 </trans>
@@ -1444,7 +1444,7 @@ INSERT INTO `wced_entry` VALUES (20896, "yati1", "1136", "<entry page=""1136"" i
 <sense n=""2""><number>2</number><trans> as a pause word when one cannot think of the right word. </trans>
 <eg><i lang=""ceb"">Kanang yáting, unsingálang ... klats,</i><trans> The, <tr>um</tr>, <tr>what-do-you-call-it</tr>, the clutch. </trans></eg>
 </sense></hom>
-<entry><form id=""yaxti_ra"" lang=""ceb""><abbr expan=""yáti"">—</abbr> ra</form>
+<entry><form id=""yaxti_ra"" lang=""ceb""><abbr expan=""yáti"" type=""lemma"">—</abbr> ra</form>
 <hom>
 <sense n=""1""><number>1</number><trans> expression of disbelief. </trans>
 <eg><i lang=""ceb"">Yátì ra, dì giyud nà musalir,</i><trans> <tr>Oh, yeah?</tr> That will never work. </trans></eg>
@@ -1535,12 +1535,12 @@ INSERT INTO `wced_entry` VALUES (20904, "yawa", "1136", "<entry page=""1136"" id
 <eg><i lang=""ceb"">Ag yáwà, mudáyig nímu sa atubángan unyà manglibak sa luyu,</i><trans> The devil praises you to your face but behind your back she stabs you. <ix>exclamation</ix> (somewhat coarse): expression of anger, annoyance, frustration. </trans></eg>
 <eg><i lang=""ceb"">Yáwà! Pukáwun ta áning maáyung pagkahinánuk!</i><trans> <tr>Hell</tr>! I was just sleeping nicely, too! </trans></eg>
 </sense></hom>
-<entry><form id=""litsing_yaxwaq"" lang=""ceb"">litsing <abbr expan=""yáwà"">—</abbr></form>
+<entry><form id=""litsing_yaxwaq"" lang=""ceb"">litsing <abbr expan=""yáwà"" type=""lemma"">—</abbr></form>
 <hom>
 <sense n=""0""><trans> expression of extreme irritation or frustration. </trans>
 <eg><i lang=""ceb"">Litsing yáwà. Ímu na pud nang gibálì,</i><trans> <tr>God damn!</tr> You broke it again! </trans></eg>
 </sense></hom></entry>
-<entry><form id=""yaxwaq_ra"" lang=""ceb""><abbr expan=""yáwà"">—</abbr> ra</form>
+<entry><form id=""yaxwaq_ra"" lang=""ceb""><abbr expan=""yáwà"" type=""lemma"">—</abbr> ra</form>
 <hom>
 <sense n=""1a""><number>1a</number><trans> expression of strong disbelief. </trans>
 <eg><i lang=""ceb"">Yáwà ra. Dì giyud nà musalir,</i><trans> Hell! That’s not going to work. </trans></eg>
@@ -1558,7 +1558,7 @@ INSERT INTO `wced_entry` VALUES (20904, "yawa", "1136", "<entry page=""1136"" id
 <sense n=""0""> <itype>[B1256]</itype><trans> be in or caught in a bad situation. </trans>
 <eg><i lang=""ceb"">Nayáwà na ta áni nga nahutdag gasulína nga layù sa istasyunan,</i><trans> We are <tr>in for it</tr> running out of gas far from the station. </trans></eg>
 </sense></hom></entry>
-<entry><form id=""yawaq"" lang=""ceb""><abbr expan=""yawà"">(→)</abbr></form>
+<entry><form id=""yawaq"" lang=""ceb""><abbr expan=""yawà"" type=""lemma"">(→)</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""1""><number>1</number> <itype>[b5]</itype><trans> <tr>castigate</tr> severely, <tr>get hell</tr>. </trans>
 <eg><i lang=""ceb"">Yawaun (yawaan) ka run nákù ug dílì mu pasagdan nang makinilya,</i><trans> You will get hell from me if you don’t let that typewriter alone. </trans></eg>
@@ -1632,7 +1632,7 @@ INSERT INTO `wced_entry` VALUES (20907, "yawat", "1137", "<entry page=""1137"" i
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#iyaxwat"">= <sc>iyáwat</sc>.</xr> </trans>
 </sense></hom>
-<entry><form id=""yaxwat_baxngil_tinggutum"" lang=""ceb""><abbr expan=""yáwat"">—</abbr> bángil tinggutum</form>
+<entry><form id=""yaxwat_baxngil_tinggutum"" lang=""ceb""><abbr expan=""yáwat"" type=""lemma"">—</abbr> bángil tinggutum</form>
 <hom>
 <sense n=""0""><trans> a half a loaf is better than none (lit. s.t. to make do in times of starvation). </trans>
 <eg><i lang=""ceb"">Naminyù ang dágang gúwang ug sugarul. Yáwat bángil tinggutum,</i><trans> The old maid married a no-good. Well, <tr>better than nothing</tr>.
@@ -1678,7 +1678,7 @@ INSERT INTO `wced_entry` VALUES (20913, "yawyaw", "1137", "<entry page=""1137"" 
 </sense>
 <sense n=""2""><number>2</number> <itype>[A; c1]</itype><trans> mumble or mutter words to oneself as in saying a prayer, memorizing a piece, and the like. </trans>
 </sense></hom>
-<entry><form id=""yawyawan"" lang=""ceb""><abbr expan=""yawyawan"">-an(→)</abbr></form>
+<entry><form id=""yawyawan"" lang=""ceb""><abbr expan=""yawyawan"" type=""lemma"">-an(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> given to ranting.
 </trans>
@@ -1783,15 +1783,15 @@ INSERT INTO `wced_entry` VALUES (20921, "yayung", "1137", "<entry page=""1137"" 
 <sense n=""0""> <itype>[AC; b6(1)]</itype><trans> carry s.t. together. </trans>
 <eg><i lang=""ceb"">Magkayáyung ta íni kay bug-at,</i><trans> We will have to carry this together because it’s heavy. </trans></eg>
 </sense></hom>
-<entry><form id=""yaxyung_ang_buxlan"" lang=""ceb""><abbr expan=""yáyung"">—</abbr> ang búlan</form>
+<entry><form id=""yaxyung_ang_buxlan"" lang=""ceb""><abbr expan=""yáyung"" type=""lemma"">—</abbr> ang búlan</form>
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#hayaq_ang_buxlan"">= <sc>hayà ang búlan</sc>.</xr> </trans>
 </sense></hom></entry>
-<entry><form id=""yaxyung_ug_tuxig"" lang=""ceb""><abbr expan=""yáyung"">—</abbr> ug túig</form>
+<entry><form id=""yaxyung_ug_tuxig"" lang=""ceb""><abbr expan=""yáyung"" type=""lemma"">—</abbr> ug túig</form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> for siblings to be born <corr sic=""in"">on</corr> different dates but in the same year. </trans>
 </sense></hom></entry>
-<entry><form id=""yayung"" lang=""ceb""><abbr expan=""yayung"">(→)</abbr></form>
+<entry><form id=""yayung"" lang=""ceb""><abbr expan=""yayung"" type=""lemma"">(→)</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> a pole to hang a load from when two people carry it. <ix>see also</ix> <xr lang=""ceb"" target=""#tambayaxyung""><sc>tambayáyung</sc>.</xr>
 </trans>
@@ -1834,7 +1834,7 @@ INSERT INTO `wced_entry` VALUES (20925, "yilu1", "1137", "<entry page=""1137"" i
 <sense n=""3""><number>3</number> <itype>[A; b(1)]</itype><trans> put <tr>ice</tr> on s.t. </trans>
 <eg><i lang=""ceb"">Nagyílu kus mga isdà arun dílì muransiyu,</i><trans> I am putting ice on the fish so they won’t spoil. </trans></eg>
 </sense></hom>
-<entry><form id=""litsi_kun_yixlu"" lang=""ceb"">litsi kun <abbr expan=""yílu"">—</abbr></form>
+<entry><form id=""litsi_kun_yixlu"" lang=""ceb"">litsi kun <abbr expan=""yílu"" type=""lemma"">—</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> a sweet made of shaved ice mixed with milk and sugar. </trans>
 </sense></hom>
@@ -1906,7 +1906,7 @@ INSERT INTO `wced_entry` VALUES (20932, "yiru", "1138", "<entry page=""1138"" id
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>iron</tr>, <tr>steel</tr>. </trans>
 </sense></hom>
-<entry><form id=""kaxha_diyixru"" lang=""ceb"">káha <abbr expan=""diyíru"">di-</abbr></form>
+<entry><form id=""kaxha_diyixru"" lang=""ceb"">káha <abbr expan=""diyíru"" type=""lemma"">di-</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>steel safe</tr>.
 </trans>
@@ -1949,7 +1949,7 @@ INSERT INTO `wced_entry` VALUES (20936, "yubit", "1138", "<entry page=""1138"" i
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>derision</tr>, words of <tr>contempt</tr>. </trans>
 </sense></hom>
-<entry><form id=""yubitan"" lang=""ceb""><abbr expan=""yubitan"">-an(→)</abbr></form>
+<entry><form id=""yubitan"" lang=""ceb""><abbr expan=""yubitan"" type=""lemma"">-an(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> fond of heaping derision. </trans>
 <eg><i lang=""ceb"">Yubitan kaáyu, mu rag way apan,</i><trans> He loves to heap contempt on others as if he were perfect. </trans></eg>
@@ -1957,7 +1957,7 @@ INSERT INTO `wced_entry` VALUES (20936, "yubit", "1138", "<entry page=""1138"" i
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B125]</itype><trans> be, become fond of heaping contempt. </trans>
 </sense></hom></entry>
-<entry><form id=""mayubitun"" lang=""ceb""><abbr expan=""mayubitun"">ma-un</abbr></form>
+<entry><form id=""mayubitun"" lang=""ceb""><abbr expan=""mayubitun"" type=""lemma"">ma-un</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> <tr>derisive</tr>, full of contempt.
 </trans>
@@ -2090,7 +2090,7 @@ INSERT INTO `wced_entry` VALUES (20947, "yugut", "1138", "<entry page=""1138"" i
 <eg><i lang=""ceb"">Nagyugut sa pagbáhin sa yútà,</i><trans> Was full of resentment at the way the land was divided. </trans></eg>
 <eg><i lang=""ceb"">Gikayugut níya ang wà ku pagbáwus sa sulat,</i><trans> She resented it that I failed to answer the letter. </trans></eg>
 </sense></hom>
-<entry><form id=""kayugut"" lang=""ceb""><abbr expan=""kayugut"">ka-</abbr></form>
+<entry><form id=""kayugut"" lang=""ceb""><abbr expan=""kayugut"" type=""lemma"">ka-</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> feeling of extreme sadness (literary). </trans>
 <eg><i lang=""ceb"">Tungud sa kayugut sa íyang buut, íyang gihálad ang láwas sa íyang anak nga patay na,</i><trans> Because of the <tr>indescribable sorrow</tr> that overcame him, he offered up the dead body of his son. </trans></eg>
@@ -2138,7 +2138,7 @@ INSERT INTO `wced_entry` VALUES (20951, "yuhum", "1138", "<entry page=""1138"" i
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A; c1]</itype><trans> <xr lang=""ceb"" target=""#pahiyum"">= <sc>pahiyum</sc>.</xr> </trans>
 </sense></hom>
-<entry><form id=""mayuhumun"" lang=""ceb""><abbr expan=""mayuhumun"">ma-un(←)</abbr></form>
+<entry><form id=""mayuhumun"" lang=""ceb""><abbr expan=""mayuhumun"" type=""lemma"">ma-un(←)</abbr></form>
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#mapahiyuxmun"">= <sc>mapahiyúmun</sc>.</xr> <ix>see</ix> <xr lang=""ceb"" target=""#hixyum""><sc>híyum</sc>.</xr>
 </trans>
@@ -2171,7 +2171,7 @@ INSERT INTO `wced_entry` VALUES (20952, "yuhut", "1138", "<entry page=""1138"" i
 <sense n=""2""><number>2</number><trans> <tr>penetrate</tr> through. </trans>
 <eg><i lang=""ceb"">Dì mi makayuhutyuhut sa kabaknitan,</i><trans> We can not penetrate through the thickets. </trans></eg>
 </sense></hom></entry>
-<entry><form id=""magyuyuxhut"" lang=""ceb""><abbr expan=""magyuyúhut"">mag-r-(←)</abbr></form>
+<entry><form id=""magyuyuxhut"" lang=""ceb""><abbr expan=""magyuyúhut"" type=""lemma"">mag-r-(←)</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>smuggler</tr>, one who sneaks things in and out.
 </trans>
@@ -2232,7 +2232,7 @@ INSERT INTO `wced_entry` VALUES (20958, "yukaristika", "1139", "<entry page=""11
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20958, "yukaristika", "yukaristika", "m", "n");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (20958, "Eucharist");
 INSERT INTO `wced_entry` VALUES (20959, "*yukaristiku", "1139", "<entry page=""1139"" id=""20959""><form id=""xxyukaristiku"" lang=""ceb"">*yukaristiku</form>
-<entry><form id=""kunggrixsu_yukaristiku"" lang=""ceb"">kunggrísu <abbr expan=""yukaristiku"">—</abbr></form>
+<entry><form id=""kunggrixsu_yukaristiku"" lang=""ceb"">kunggrísu <abbr expan=""yukaristiku"" type=""lemma"">—</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>Eucharistic Congress</tr>.
 </trans>
@@ -2384,7 +2384,7 @@ INSERT INTO `wced_entry` VALUES (20971, "yumyum", "1139", "<entry page=""1139"" 
 <sense n=""0""> <itype>[A; a12]</itype><trans> give s.o. a long and sensual <tr>kiss</tr>. </trans>
 <eg><i lang=""ceb"">Nawung nga way mangarastig yumyum,</i><trans> A face nobody could bear to kiss passionately. </trans></eg>
 </sense></hom>
-<entry><form id=""yumyumay"" lang=""ceb""><abbr expan=""yumyumay"">-ay(→)</abbr></form>
+<entry><form id=""yumyumay"" lang=""ceb""><abbr expan=""yumyumay"" type=""lemma"">-ay(→)</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[C]</itype><trans> <tr>kiss</tr> each other passionately. </trans>
 <eg><i lang=""ceb"">Dì siya makigyumyumay ug babáyi nga bahù ug bàbà,</i><trans> He doesn’t like to engage in passionate kissing with a woman who has bad breath.
@@ -2397,7 +2397,7 @@ INSERT INTO `wced_entry` VALUES (20972, "yuna, yuna", "1139", "<entry page=""113
 <hom>
 <sense n=""0""><trans> (from <ix>ayaw únà</ix>) </trans>
 </sense>
-<sense n=""1""><number>1</number> <form id=""yuxnaq_pa"" lang=""ceb""><abbr expan=""yúnà"">—</abbr> pa</form><trans> </trans>
+<sense n=""1""><number>1</number> <form id=""yuxnaq_pa"" lang=""ceb""><abbr expan=""yúnà"" type=""lemma"">—</abbr> pa</form><trans> </trans>
 </sense>
 <sense n=""1a""><number>1a</number><trans> <tr>wait a minute</tr>, <tr>just a minute</tr>. </trans>
 <eg><i lang=""ceb"">Yúnà pa, Rus, ayaw únag lakaw,</i><trans> Just a minute, Rose, don’t go yet. </trans></eg>
@@ -2451,7 +2451,7 @@ INSERT INTO `wced_entry` VALUES (20976, "yungib", "1139", "<entry page=""1139"" 
 <sense n=""2""><number>2</number> <itype>[A13]</itype><trans> hole up in a cave. </trans>
 <eg><i lang=""ceb"">Nagyúngib ang kaáway,</i><trans> The enemies are holed up in a cave. </trans></eg>
 </sense></hom>
-<entry><form id=""yungib"" lang=""ceb""><abbr expan=""yungib"">(→)</abbr></form>
+<entry><form id=""yungib"" lang=""ceb""><abbr expan=""yungib"" type=""lemma"">(→)</abbr></form>
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#yuxngib"">= <sc>yúngib</sc>, <ix>n</ix>.</xr>
 </trans>
@@ -2551,7 +2551,7 @@ INSERT INTO `wced_entry` VALUES (20984, "yunyun2", "1140", "<entry page=""1140""
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>labor union</tr>. </trans>
 </sense></hom>
-<entry><form id=""lixbur_yunyun"" lang=""ceb"">líbur <abbr expan=""yunyun"">—</abbr></form>
+<entry><form id=""lixbur_yunyun"" lang=""ceb"">líbur <abbr expan=""yunyun"" type=""lemma"">—</abbr></form>
 <hom>
 <sense n=""0""><trans> <xr lang=""ceb"" target=""#yunyun2"">= <sc>yunyun<sub>2</sub></sc>.</xr>
 </trans>
@@ -2595,7 +2595,7 @@ INSERT INTO `wced_entry` VALUES (20987, "yupyup", "1140", "<entry page=""1140"" 
 <sense n=""0""><trans> action of <tr>inhaling</tr>. </trans>
 <eg><i lang=""ceb"">Usa lang ka yupyup sa mariwána hubug ka na,</i><trans> One drag on the marijuana <corr sic=""ang"">and</corr> you’ll be dizzy. </trans></eg>
 </sense></hom>
-<entry><form id=""yupyupanan"" lang=""ceb""><abbr expan=""yupyupanan"">-anan</abbr></form>
+<entry><form id=""yupyupanan"" lang=""ceb""><abbr expan=""yupyupanan"" type=""lemma"">-anan</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> s.t. one smokes or draws on.
 </trans>
@@ -2652,11 +2652,11 @@ INSERT INTO `wced_entry` VALUES (20992, "yuta", "1140", "<entry page=""1140"" id
 <sense n=""1a""><number>1a</number><trans> <tr>realm</tr>, <tr>country</tr>. </trans>
 <eg><i lang=""ceb"">Yúta sa mga higanti,</i><trans> <tr>Domain</tr> of the giants. </trans></eg>
 </sense></hom>
-<entry><form id=""yuxtaq_sa_mga_saxad"" lang=""ceb""><abbr expan=""yútà"">—</abbr> sa mga sáad</form>
+<entry><form id=""yuxtaq_sa_mga_saxad"" lang=""ceb""><abbr expan=""yútà"" type=""lemma"">—</abbr> sa mga sáad</form>
 <hom>
 <sense n=""0""><trans> <tr>Land of Promise</tr> (name given to <tr>Mindanao</tr>). </trans>
 </sense></hom></entry>
-<entry><form id=""yuxtang_tabuxnun"" lang=""ceb""><abbr expan=""yútang"">-ng</abbr> tabúnun</form>
+<entry><form id=""yuxtang_tabuxnun"" lang=""ceb""><abbr expan=""yútang"" type=""lemma"">-ng</abbr> tabúnun</form>
 <hom>
 <sense n=""0""><trans> the <tr>Philippines</tr> (lit. the land of the brown-skinned race—literary). </trans>
 </sense>
@@ -2672,14 +2672,14 @@ INSERT INTO `wced_entry` VALUES (20992, "yuta", "1140", "<entry page=""1140"" id
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A12]</itype><trans> obtain, acquire land. </trans>
 </sense></hom></entry>
-<entry><form id=""yutaq"" lang=""ceb""><abbr expan=""yutà"">(→)</abbr></form>
+<entry><form id=""yutaq"" lang=""ceb""><abbr expan=""yutà"" type=""lemma"">(→)</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""1""><number>1</number> <itype>[A13]</itype><trans> <tr>farm</tr>, <tr>cultivate lands</tr>. </trans>
 </sense>
 <sense n=""2""><number>2</number> <itype>[B1256]</itype><trans> for a question or suggestion to be disregarded and not entertained (as if thrown to the earth). </trans>
 <eg><i lang=""ceb"">Nayutà ang íyang pangutána kay may kasulti man ang íyang gipangutána,</i><trans> Nobody answered his question because the man he asked was busy talking to s.o. else. </trans></eg>
 </sense></hom></entry>
-<entry><form id=""yuxtaan"" lang=""ceb""><abbr expan=""yútaan"">-an</abbr></form>
+<entry><form id=""yuxtaan"" lang=""ceb""><abbr expan=""yútaan"" type=""lemma"">-an</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> <tr>landed</tr>, having lands. </trans>
 </sense></hom></entry>
@@ -2688,13 +2688,13 @@ INSERT INTO `wced_entry` VALUES (20992, "yuta", "1140", "<entry page=""1140"" id
 <sense n=""0""><trans> of the earth (as opposed to heavenly). </trans>
 <eg><i lang=""ceb"">Kita mga táwung yutan-un,</i><trans> We are <tr>earthly</tr> creatures. </trans></eg>
 </sense></hom></entry>
-<entry><form id=""kayutaan"" lang=""ceb""><abbr expan=""kayutaan"">ka-an</abbr></form>
+<entry><form id=""kayutaan"" lang=""ceb""><abbr expan=""kayutaan"" type=""lemma"">ka-an</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> <tr>tracts of lands</tr>. </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> <tr>nations</tr>. </trans>
 </sense></hom></entry>
-<entry><form id=""magyuyutaq"" lang=""ceb""><abbr expan=""magyuyutà"">mag-r-(→)</abbr></form>
+<entry><form id=""magyuyutaq"" lang=""ceb""><abbr expan=""magyuyutà"" type=""lemma"">mag-r-(→)</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> <tr>farmer</tr>. </trans>
 </sense>
@@ -2704,7 +2704,7 @@ INSERT INTO `wced_entry` VALUES (20992, "yuta", "1140", "<entry page=""1140"" id
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> k.o. <tr>snake</tr>, the size of an earthworm, with black skin and poisonous. </trans>
 </sense></hom></entry>
-<entry><form id=""tagyuxtaq"" lang=""ceb""><abbr expan=""tagyútà"">tag-</abbr></form>
+<entry><form id=""tagyuxtaq"" lang=""ceb""><abbr expan=""tagyútà"" type=""lemma"">tag-</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> owner of a piece of land.
 </trans>
@@ -2743,7 +2743,7 @@ INSERT INTO `wced_entry` VALUES (20993, "yutawhan", "1140", "<entry page=""1140"
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>native land</tr> (coined from <ix>yútang natawhan</ix>). </trans>
 </sense></hom>
-<entry><form id=""yutawhanun_makiyutawhanun"" lang=""ceb""><abbr expan=""yutawhanun"">-un</abbr>, <abbr expan=""makiyutawhanun"">maki-un</abbr></form>
+<entry><form id=""yutawhanun_makiyutawhanun"" lang=""ceb""><abbr expan=""yutawhanun"" type=""lemma"">-un</abbr>, <abbr expan=""makiyutawhanun"" type=""lemma"">maki-un</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> <tr>patriotic</tr>.
 </trans>
@@ -2761,7 +2761,7 @@ INSERT INTO `wced_entry` VALUES (20994, "yutik", "1140", "<entry page=""1140"" i
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B1; a12]</itype><trans> be, become muddy or <tr>slushy</tr>. </trans>
 </sense></hom>
-<entry><form id=""kayuxtik"" lang=""ceb""><abbr expan=""kayútik"">ka-</abbr></form>
+<entry><form id=""kayuxtik"" lang=""ceb""><abbr expan=""kayútik"" type=""lemma"">ka-</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> be all slushy. </trans>
 </sense></hom>
@@ -2794,7 +2794,7 @@ INSERT INTO `wced_entry` VALUES (20996, "yutyut1", "1141", "<entry page=""1141""
 </sense>
 <sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#yatyat2"">= <sc>yatyat<sub>2</sub></sc>.</xr> </trans>
 </sense></hom>
-<entry><form id=""yutyutun"" lang=""ceb""><abbr expan=""yutyutun"">-un(<corr sic=""-"">→</corr>)</abbr></form>
+<entry><form id=""yutyutun"" lang=""ceb""><abbr expan=""yutyutun"" type=""lemma"">-un(<corr sic=""-"">→</corr>)</abbr></form>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> of a baggy sort.
 </trans>

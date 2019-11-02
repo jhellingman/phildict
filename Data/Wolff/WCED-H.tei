@@ -381,7 +381,7 @@
 
 <p id=5855><form><corr sic=hal.>Hal.</corr></form> <pos>n</pos> abbreviation for <ix>Halangdun,</ix> &lsquo;Honorable&rsquo;. <i>Ang Hal. Gubirnadur,</i> The Hon. Governor.
 
-<p id=5856><form>hala</form> expression telling s.o. to do s.t. <number>a</number> urging. <i>Hala, káun na,</i> Come on. Eat now. <i>Hala, sumbága,</i> Come on! Sock him. <number>b</number> acquiescing. <i>Na hala, sígi,</i> O.K., go ahead. <i>Hala, bayinti na lang,</i> O.K., twenty is O.K. c urging in a satirical way. <i>Hala, sígig bilar, arun matísis nang ímung ubu,</i> Go on, keep on staying up late, so your cough develops into T.B. <pos>v</pos> <itype>[A23]</itype> <number>1</number> go along with s.t. unhesitatingly. <i>Ug hangyúun, muhala dáyun,</i> If you ask him, he agrees to do it right away. <i>Ug hagdun, muhala dáyun,</i> If you ask him to join you, he agrees right away. <number>2</number> urge s.o. into immediate action. <i>Walay naghala nímu sa kaminyúun ug karun magbásul ka na,</i> Nobody urged you to get married, and now you are sorry. <form>halla</form> <number>1</number> expression of helplessness, <pb n=291>upon watching s.t. happen. <i>Halla, natumba,</i> There, it&apos;s falling. <number>2</number> expression chiding s.o. <i>Halla, káun, bisag gisakitag tiyan,</i> Go ahead, eat some more even if you got a stomach-ache from it.
+<p id=5856><form>hala</form> expression telling s.o. to do s.t. <number>a</number> urging. <i>Hala, káun na,</i> Come on. Eat now. <i>Hala, sumbága,</i> Come on! Sock him. <number>b</number> acquiescing. <i>Na hala, sígi,</i> O.K., go ahead. <i>Hala, bayinti na lang,</i> O.K., twenty is O.K. c urging in a satirical way. <i>Hala, sígig bilar, arun matísis nang ímung ubu,</i> Go on, keep on staying up late, so your cough develops into <abbr expan="tuberculosis">T.B.</abbr> <pos>v</pos> <itype>[A23]</itype> <number>1</number> go along with s.t. unhesitatingly. <i>Ug hangyúun, muhala dáyun,</i> If you ask him, he agrees to do it right away. <i>Ug hagdun, muhala dáyun,</i> If you ask him to join you, he agrees right away. <number>2</number> urge s.o. into immediate action. <i>Walay naghala nímu sa kaminyúun ug karun magbásul ka na,</i> Nobody urged you to get married, and now you are sorry. <form>halla</form> <number>1</number> expression of helplessness, <pb n=291>upon watching s.t. happen. <i>Halla, natumba,</i> There, it&apos;s falling. <number>2</number> expression chiding s.o. <i>Halla, káun, bisag gisakitag tiyan,</i> Go ahead, eat some more even if you got a stomach-ache from it.
 
 <p id=5857><form>halá</form> warning of s.t. unpleasant impending. <i>Halá, gibuak nà nímung básu,</i> Watch out! You broke that glass.
 
@@ -515,7 +515,7 @@
 
 <p id=5921><form>hálut</form> <xr>= <sc>halwut</sc>.</xr>
 
-<p id=5922><form>haluthut</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> eat fast with a slurping sound. <i>Ang anay kusug muhaluthut sa pasaw,</i> The sow gobbles its food. <number>2</number> eat s.t. fast (derogatory). <i>Gihaluthut sa way úlaw ang kan-un,</i> The shameless s.o.b. gobbled up the rice.
+<p id=5922><form>haluthut</form> <pos>v</pos> <itype>[A; a12]</itype> <number>1</number> eat fast with a slurping sound. <i>Ang anay kusug muhaluthut sa pasaw,</i> The sow gobbles its food. <number>2</number> eat s.t. fast (derogatory). <i>Gihaluthut sa way úlaw ang kan-un,</i> The shameless <abbr expan="son of a bitch">s.o.b.</abbr> gobbled up the rice.
 
 <p id=5923><form>halwa</form> <pos>n</pos> <tr>cage</tr>. <pos>v</pos> <number>1</number> <itype>[A13; c1]</itype> put in a cage. <i>Ihalwa (halwáhun) ang piríku,</i> Put the parrot in a cage. <number>2</number> <itype>[A; a12]</itype> make a cage.
 
@@ -1945,7 +1945,7 @@
 
 <p id=6630><form>hudiyákà</form> <pos>n</pos> noisy <tr>merriment</tr>, a <tr>rejoicing</tr>. <i>Ang Pasku punù sa hudiyákà,</i> Christmas is full of noisy merriment. <pos>v</pos> <itype>[A12C2; c5]</itype> <tr>rejoice</tr>, make merry. <i>Gihudiyákà níla ang nahitabù,</i> They were noisily merry over what had happened. <form>{ma-un|mahudiyakaun}</form> <pos>a</pos> full of noise and merriment.
 
-<p id=6631><form>hudíyu</form> <pos>n</pos> <number>1</number> <tr>Jew</tr>. <number>2</number> s.o. regarded as evil, cruel. <i>Hudíyu kaáyu nang tawhána. Wà giyuy kalúuy,</i> That man is a demon. He has no mercy. <i>Ikawng hudiyúa ka, ay na giyug bálik diri,</i> You s.o.b.! Don&apos;t you ever come back here!
+<p id=6631><form>hudíyu</form> <pos>n</pos> <number>1</number> <tr>Jew</tr>. <number>2</number> s.o. regarded as evil, cruel. <i>Hudíyu kaáyu nang tawhána. Wà giyuy kalúuy,</i> That man is a demon. He has no mercy. <i>Ikawng hudiyúa ka, ay na giyug bálik diri,</i> You <abbr expan="son of a bitch">s.o.b.</abbr>! Don&apos;t you ever come back here!
 
 <p id=6632><form>hudlat</form> <pos>n</pos> idle threat made to frighten s.o., but which one has no intention of carrying out. <i>Dì lang ni hudlat. Tinud-un giyud,</i> This is no mere threat. I mean to do it. <pos>v</pos> <itype>[AN; a1]</itype> frighten with an idle threat. <i>Hudlátun níla ang isdà paingun sa báling,</i> They are frightening the fish into going to the net.
 
@@ -2395,7 +2395,7 @@
 
 <p id=6850><form>hupyà</form> <pos>n</pos> <tr>hopia</tr>, a k.o. Chinese rounded pastry consisting of a flaky crust with a bean or meat filling. <pos>v</pos> <itype>[A; a12]</itype> make or prepare hopia.
 
-<p id=6851><form>hupyak</form> <pos>a</pos> <tr>sunken</tr>. <i>Hupyak kaáyu ang dughan sa tisísun,</i> He has T.B. and has a sunken chest. <pos>v</pos> <itype>[B1; a12]</itype> become sunken. <i>Muhupyak ang áping basta matigúlang na,</i> The cheeks become sunken when one gets old. <i>Nahupyak ang kík,</i> The cake fell.
+<p id=6851><form>hupyak</form> <pos>a</pos> <tr>sunken</tr>. <i>Hupyak kaáyu ang dughan sa tisísun,</i> He has <abbr expan="tuberculosis">T.B.</abbr> and has a sunken chest. <pos>v</pos> <itype>[B1; a12]</itype> become sunken. <i>Muhupyak ang áping basta matigúlang na,</i> The cheeks become sunken when one gets old. <i>Nahupyak ang kík,</i> The cake fell.
 
 <p id=6852><form>hurabhurab, hurabhúrab</form> <pos>v</pos> <itype>[A; b6(1)]</itype> make angry, threatening gestures and words. <i>Kusug siyang muhurabhurab nátù ug masayup ta,</i> He threatens and frightens us when we commit mistakes. <pos>n</pos> angry and threatening words and gestures.
 

@@ -12,27 +12,21 @@ my $basename = $1;
 handleDictionary();
 
 
-sub handleDictionary()
-{
-    while (<INPUTFILE>)
-    {
+sub handleDictionary() {
+    while (<INPUTFILE>) {
         my $line = $_;
 
         # Start of new entry
-        if ($line =~ /^<p>/)
-        {
+        if ($line =~ /^<p>/) {
             handleEntry($line);
-        }
-        else
-        {
+        } else {
             print $line;
         }
     }
 }
 
 
-sub handleEntry($)
-{
+sub handleEntry($) {
     my $entry = shift;
 
     $entry =~ s/<sub>/<hi rend=sub>/sg;
