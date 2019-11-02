@@ -5395,7 +5395,7 @@ INSERT INTO `wced_entry` VALUES (7368, "-in-ay", "380", "<entry page=""380"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (7368, "-in-ay", "-in-ay", "m", "");
 INSERT INTO `wced_entry` VALUES (7369, "inbiay", "380", "<entry page=""380"" id=""7369""><form id=""inbixay"" lang=""ceb"">inbíay</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> acronym for the NBI National Bureau of Investigation, the Philippine analogue to the FBI. </trans>
+<sense n=""0""><trans> acronym for the NBI<corr>,</corr> National Bureau of Investigation, the Philippine analogue to the FBI. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B156]</itype><trans> be a member of the NBI.
@@ -7240,7 +7240,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (7507, "installment
 INSERT INTO `wced_entry` VALUES (7508, "*insular", "386", "<entry page=""386"" id=""7508""><form id=""xxinsular"" lang=""ceb"">*insular</form>
 <entry><form id=""gubyirnu_insular_kagamhaxnan_insular"" lang=""ceb""><abbr expan=""gubyirnu insular"" type=""lemma"">gubyirnu</abbr>, kagamhánan <abbr expan=""insular"" type=""lemma"">—</abbr></form>
 <hom>
-<sense n=""0""><trans> <tr>National government</tr> (from the usage in Spanish times when the government of the Philippines was called <ix>Gobierno insular</ix> to distinguish it from the Spanish government at home.
+<sense n=""0""><trans> <tr>National government</tr> (from the usage in Spanish times when the government of the Philippines was called <ix>Gobierno insular</ix> to distinguish it from the Spanish government at home<corr>)</corr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (7508, "insular", "insular", "s", "");
