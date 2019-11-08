@@ -9,24 +9,20 @@ handleDictionary();
 
 my $emptyline = 1;
 
-sub handleDictionary()
-{
+sub handleDictionary() {
     # print "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\n";
     # print "<dictionary lang=\"en\">\n";
     
-    while (<INPUTFILE>)
-    {
+    while (<INPUTFILE>) {
         my $line = $_;
         chomp($line);
         
         # print STDERR "[LINE: $line]\n";
-        if ($emptyline == 1 && $line ne "")
-        {
+        if ($emptyline == 1 && $line ne '') {
             $emptyline = 0;
-            print "<p>";
+            print '<p>';
         }
-        if ($emptyline == 0 && $line eq "")
-        {
+        if ($emptyline == 0 && $line eq '') {
             $emptyline = 1;
         }
         handleLine($line);
@@ -39,8 +35,7 @@ sub handleDictionary()
 }
 
 
-sub handleLine($)
-{
+sub handleLine($) {
     my $line = shift;
 
     #### $line =~ s/-*File: 0*([0-9]+)\.png-*\\([^\\]+)\\([^\\]?)(\\([^\\]+))?(\\([^\\]+)\\)?.*$/<pb n=\1>/g;

@@ -19,8 +19,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A Dictionary of Cebuano Visayan</title>
-<author>John U. Wolff</author>
+<title nfc=2>A Dictionary of Cebuano Visayan</title>
+<author key="Wolff, John U.">John U. Wolff</author>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
@@ -45,7 +45,7 @@
 
 <p>This Project Gutenberg text is derived from data also made available in its master format at <xref url="https://github.com/jhellingman/phildict/tree/master/Data/Wolff">GitHub</xref>.
 
-<p>A searchable interface to the same data is available from <xref url="https://www.bohol.ph/wced.php">www.bohol.ph</xref>. An off-line Android app is available from the <xref url="https://play.google.com/store/apps/details?id=ph.bohol.dictionaryapp">Google Play store</xref>, for which the source code is available from <xref url="https://bitbucket.org/jhellingman/cebuano-dictionary-app/overview">BitBucket</xref>.
+<p>A searchable interface to the same data is available from <xref url="https://www.bohol.ph/wced.php">www.bohol.ph</xref>. An off-line Android app is available from the <xref url="https://play.google.com/store/apps/details?id=ph.bohol.dictionaryapp">Google Play store</xref>, for which the source code is available from <xref url="https://github.com/jhellingman/cebuano-dictionary-app">GitHub</xref>.
 
 
 </availability>
