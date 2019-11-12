@@ -20,9 +20,9 @@
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:local="http://localhost"
+    xmlns:f="urn:stylesheet-functions"
     version="2.0"
-    exclude-result-prefixes="xs local">
+    exclude-result-prefixes="xs f">
 
     <xsl:output
         method="xml"

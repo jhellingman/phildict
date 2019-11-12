@@ -20,7 +20,7 @@
 <fileDesc>
 <titleStmt>
 <title nfc=2>A Dictionary of Cebuano Visayan</title>
-<author key="Wolff, John U.">John U. Wolff</author>
+<author key="Wolff, John U.">John U. Wolff (1932&ndash;)</author>
 </titleStmt>
 <publicationStmt>
 <publisher>Project Gutenberg</publisher>
@@ -41,7 +41,7 @@
 
 <p>This edition of John U. Wolff&apos;s <hi>Dictionary of Cebuano Visayan</hi>, attempts to faithfully reproduce the text of this work as originally published. Except for corrections of obvious mistakes, as listed in the colophon, no changes have been made.
 
-<p>Scans for this dictionary are available from <xref url="http://hdl.handle.net/1813/11777">Cornell University</xref>.
+<p>Scans for this dictionary are available from <xref url="https://hdl.handle.net/1813/11777">Cornell University</xref>.
 
 <p>This Project Gutenberg text is derived from data also made available in its master format at <xref url="https://github.com/jhellingman/phildict/tree/master/Data/Wolff">GitHub</xref>.
 
@@ -265,7 +265,7 @@ A-K -->
 <head>INTRODUCTION</head>
 
 <div2 n=1.0 id=s1 type=Section>
-<head>1.0 Cebuano</head>
+<head><ab type=divNum>1.0</ab> Cebuano</head>
 
 
 <p>This work is a dictionary of Cebuano Visayan, here called Cebuano for short. Cebuano is spoken in the central portions of the Philippines: on the islands of Cebu and Bohol, on the eastern half of Negros, western half of Leyte, along the northern coasts of Mindanao, and on smaller islands in the vicinity of these areas. A large portion of the urban population of Zamboanga, Davao, and Cotabato is Cebuano speaking. Cebuano is also widely spoken throughout the lowland areas of the entire eastern third of Mindanao, where it is spreading at the expense of the native languages (most of which are closely related to Cebuano). Cebuano is the trade language in most places in Mindanao where Cebuano-speaking populations and populations speaking other languages are in contact.
@@ -278,34 +278,34 @@ A-K -->
 
 
 <div3 n=1.1 id=s1.1 type=subsection>
-<head>1.1 Dialects</head>
+<head><ab type=divNum>1.1</ab> Dialects</head>
 
 <p>The Cebuano language is remarkably uniform. There are differences, to be sure, but these differences are no greater than the differences found among the various varieties of English spoken around the world. There are scattered places within the Cebuano area which use a speech widely aberrant from what we describe here: Surigao, Bantayan Islands, and the Camotes Islands. Forms peculiar to those areas we have simply omitted except for a few widely used forms which tend to find their way into standard Cebuano as spoken by natives of these areas. Such forms are listed, but marked &lsquo;dialectal&rsquo;. Otherwise whatever forms we have found we have listed without comment, whether or not they are in current use throughout the Cebuano speech area.
 
 <pb n=viii>
 <div4 n=1.12 id=s1.12 type=Subsection>
-<head>1.12 Correct and incorrect speech</head>
+<head><ab type=divNum>1.12</ab> Correct and incorrect speech</head>
 
 <p>A happy consequence of the low regard which Cebuano speakers have of their own language is that the doctrine of correctness has never gained foothold. Dialectal differences are purely local, not social,<note n=1>Use of English and to some extent, Spanish, has the function of distinguishing the upper classes from the ordinary folks, rather than class dialect.</note> and speakers regard whatever forms they are familiar with as correct. We have followed the same principle in this dictionary: no attempt is made to prescribe which forms or usages are appropriate, but rather we try to show which forms and usages occur. The various meanings of a given form are listed in such a way that their relation is readily discernible: meanings which are derived by extension or specialization from an original meaning are listed under subheadings of the original-meaning.<note n=2>Thus, for example, in our definition of <hi>danggit</hi> (a name given to a small fish) we define as follows: <hi rend=bold>1</hi> name given to small species of <hi>Teuthis</hi> with dots. <hi rend=bold>2</hi> by extension, name given to any small specimen or any species of <hi>Teuthis</hi>. This definition reflects the usage of fishermen who call any small dotted species of <hi>Teuthis</hi>, genuine <hi>danggit</hi> (<hi>danggit nga pyúr</hi>), but any species of <hi>Teuthis</hi> with no dots are called aberrant forms of the <hi>danggit</hi>&mdash;other related fish are called <hi>danggit sa hunásan</hi> &lsquo;the <hi>danggit</hi> of the tidal flats&rsquo; or <hi>danggit nga ngisingisi</hi> &lsquo;the <hi>danggit</hi> like the <hi>ngisingisi</hi> fish<corr>&rsquo;</corr>, etc.<corr sic=")"></corr> Further, by fishermen these other species of <hi>Teuthis</hi> are given their own names: <hi>danghili</hi> and <hi>lilu kan</hi>; but among housewives and in the market all these fish are called <hi>danggit</hi>.</note>
 
-<p>Occasionally annotations such as &lsquo;slang&rsquo;, &lsquo;euphemism&rsquo;, &lsquo;humorous&rsquo;, &lsquo;coarse&rsquo;, and the like, are given. These annotations signal only that Cebuano speakers tend to regard these forms as such and that they occur only in styles of speech appropriate to these forms.<note n=3>Just as in an English dictionary we must indicate that the term &lsquo;vagina&rsquo; is appropriate to a family-planning lecture, whereas, &lsquo;cunt&rsquo; is not, so in Cebuano we must indicate that the term <hi>kinatáwu sa babáyi</hi> &lsquo;female genitalia&rsquo; is fine for a family planning lecture but <hi>bilat</hi> &lsquo;cunt&rsquo; is not. We do this by characterizing <hi>kinatáwu sa babáyi</hi> as a euphemism and characterizing <hi>bilat</hi> as coarse. We do not wish to say that one of these alternative forms is better than the other, nor do we mean to say that &lsquo;coarse&rsquo; forms in Cebuano are taboo. (They are not taboo in the same way that the English four-letter words are, even though for formal occasions they are avoided.)</note> We use the following terminology: Biblical, literary, metaphorical, humorous, euphemism, coarse, colloquial. The designation <hi rend=sc>BIBLICAL</hi> indicates a form confined to liturgical language or the Bible; <hi rend=sc>LITERARY</hi> indicates a form confined to high-flown styles, not ordinarily spoken; <hi rend=sc>METAPHORICAL</hi> indicates a meaning recognized as metaphorical in some way (not necessarily confined to literary style); <hi rend=sc>HUMOROUS</hi>, a meaning commonly given to a form, but not the primary meaning, which gives the feeling of an oft-repeated joke; <hi rend=sc>EUPHEMISM</hi>, a form that is used to avoid saying s.t. directly, the meaning of which is readily understood but not as jarring as if it had been said directly; COARSE, a form that clearly would jar the hearer and that is confined to speech used in anger or used as a sign of intimacy or disrespect; <hi rend=sc>SLANG</hi> indicates a form confined to intimate speech among people of similar occupations or life styles; <hi rend=sc>COLLOQUIAL</hi> indicates forms avoided in formal discourse or writing, but commonly used in normal speech even among non-intimates.
+<p>Occasionally annotations such as &lsquo;slang&rsquo;, &lsquo;euphemism&rsquo;, &lsquo;humorous&rsquo;, &lsquo;coarse&rsquo;, and the like, are given. These annotations signal only that Cebuano speakers tend to regard these forms as such and that they occur only in styles of speech appropriate to these forms.<note n=3>Just as in an English dictionary we must indicate that the term &lsquo;vagina&rsquo; is appropriate to a family-planning lecture, whereas, &lsquo;cunt&rsquo; is not, so in Cebuano we must indicate that the term <hi>kinatáwu sa babáyi</hi> &lsquo;female genitalia&rsquo; is fine for a family planning lecture but <hi>bilat</hi> &lsquo;cunt&rsquo; is not. We do this by characterizing <hi>kinatáwu sa babáyi</hi> as a euphemism and characterizing <hi>bilat</hi> as coarse. We do not wish to say that one of these alternative forms is better than the other, nor do we mean to say that &lsquo;coarse&rsquo; forms in Cebuano are taboo. (They are not taboo in the same way that the English four-letter words are, even though for formal occasions they are avoided.)</note> We use the following terminology: Biblical, literary, metaphorical, humorous, euphemism, coarse, colloquial. The designation <hi rend=asc>BIBLICAL</hi> indicates a form confined to liturgical language or the Bible; <hi rend=asc>LITERARY</hi> indicates a form confined to high-flown styles, not ordinarily spoken; <hi rend=asc>METAPHORICAL</hi> indicates a meaning recognized as metaphorical in some way (not necessarily confined to literary style); <hi rend=asc>HUMOROUS</hi>, a meaning commonly given to a form, but not the primary meaning, which gives the feeling of an oft-repeated joke; <hi rend=asc>EUPHEMISM</hi>, a form that is used to avoid saying s.t. directly, the meaning of which is readily understood but not as jarring as if it had been said directly; <hi rend=asc>COARSE</hi>, a form that clearly would jar the hearer and that is confined to speech used in anger or used as a sign of intimacy or disrespect; <hi rend=asc>SLANG</hi> indicates a form confined to intimate speech among people of similar occupations or life styles; <hi rend=asc>COLLOQUIAL</hi> indicates forms avoided in formal discourse or writing, but commonly used in normal speech even among non-intimates.
 
 
 <div2 n=2.0 id=s2>
-<head>2.0 Basis of this work</head>
+<head><ab type=divNum>2.0</ab> Basis of this work</head>
 
 <p>This dictionary is a comprehensive listing of approximately 25,000 Cebuano roots with English explanations of their meanings and uses and an indication of the affixational system to which each root is subject, with ample illustrations. Most of the forms here listed are taken from written sources or from taped oral sources of Cebuano of nearly a million words, gathered from all over the Cebuano speech area and covering a wide range of topics and styles. The written sources are some 400 issues of Cebuano publications: <hi>Bisaya</hi>, <hi>Silaw</hi>, and <hi>Bag-ong Suga</hi>, a few novenas, novels, and other collections that have been published.<note n=4>Aside from a few catechisms and novenas, there are practically no specimens of Cebuano extant which antedate this century, and even prewar literary productions are extremely difficult to come by. Aside from the forms marked &lsquo;Biblical&rsquo;, everything here listed is contemporary speech.</note> About ninety percent of the forms here listed come from these oral or printed sources. Forms which did not occur in these sources but which were well known to me or at least one of the members of the staff that composed this dictionary are also included. Further, any form which <corr sic=occured>occurred</corr> in our sources which was not known to our personnel was not included.<note n=5>Approximately five percent of our data is not included for lack of reliable informants. These are mainly forms of only local currency, a large portion of them from Bohol.</note> Although there are numerous published sources of Cebuano forms&mdash;dictionaries and anthropological and biological studies, we have not taken any forms from them that could not be confirmed directly from our texts or informants.
 
 
 <pb n=ix>
 <div3 n=2.1 id=s2.1>
-<head>2.1 Personnel</head>
+<head><ab type=divNum>2.1</ab> Personnel</head>
 
 <p>The collection, transcription, and classification of the texts was carried out by a large staff in Cebu City, originating from all over the Cebuano speech area. The final stage, the writing up of the definitions, was carried by a small staff, exclusively native speakers of Cebuano now resident in Cebu: Miss E. Agapay, of Malitbog, Leyte, but also a long time resident of Talibon, Bohol, and in Guihulngan, Negros Oriental; Nicolas Ampatin, of Malitbog, Leyte; Abel Angus, of Tudela, Camotes; José Dioko, of Malaboyoc, Cebu; Mrs. E. Emnace, of Dumanjug, Cebu; Atty. A. Estorco, of Guihulngan, Negros Oriental; Everett Mendoza, of Maasin, Leyte; Mrs. D. Ag. Villondo, of Dumanjug, Cebu, but also a long time resident of Ozamis City, and Molave, Zamboanga del Sur.
 
 
 <div3 n=2.2 id=s2.2>
-<head>2.2 Other sources</head>
+<head><ab type=divNum>2.2</ab> Other sources</head>
 
 <p>The scientific names for plants and shells are based upon specimens which were gathered and identified with their Cebuano names by reliable informants. The specimens were compared against the available literature, and where identification was certain, scientific names were given. Our scientific names for plants are taken from the following sources (in order&mdash;plants not listed in the first were referred to the second, those not in the first or second were referred to the third, and so forth): Brown, Quisumbing, Merrill, Steiner. For shellfish, we give no scientific names but follow the English terminology of Abbott, 1962. For the fishes and birds, we relied mainly on pictures for Cebuano identification. For fish available in the local markets, we could examine actual specimens. The scientific names of fish follow those given by Herre (1953) and for birds by Delacour and Myer.
 
@@ -313,7 +313,7 @@ A-K -->
 
 
 <div2 n=3.0 id=s3>
-<head>3.0 Phonology and transcription</head>
+<head><ab type=divNum>3.0</ab> Phonology and transcription</head>
 
 <p>The following chart gives the Cebuano phonemes and the articulation:
 
@@ -367,7 +367,7 @@ A-K -->
 
 
 <div3 n=3.2 id=s3.2>
-<head>3.2 Transcription</head>
+<head><ab type=divNum>3.2</ab> Transcription</head>
 
 
 <p>The transcription here adopted adheres as closely as possible to the spelling found in Cebuano publications and at the same time is strictly phonemic&mdash;that is, each phoneme is indicated, and no phoneme in a given environment is given more than one transcription. Our transcription follows the phonemic symbols given in the Chart 3.0 with the exceptions listed in the following sections.
@@ -375,7 +375,7 @@ A-K -->
 
 
 <div4 n=3.21 id=s3.21>
-<head>3.21 Vowels</head>
+<head><ab type=divNum>3.21</ab> Vowels</head>
 
 
 <p>We write only three vowels: <hi>i, u, a</hi>. In Cebuano publications /i/ is sometimes written <hi>i</hi>, sometimes <hi>e</hi>, but with no consistency; and /u/ sometimes is written <hi>u</hi>, sometimes <hi>o</hi> (again with no consistency). But here the letters <hi>e</hi> and <hi>o</hi> are not used.
@@ -387,7 +387,7 @@ A-K -->
 
 
 <div4 n=3.22 id=s3.22>
-<head>3.22 Glottal stop /&glots;/</head>
+<head><ab type=divNum>3.22</ab> Glottal stop /&glots;/</head>
 
 
 <p>In Cebuano publications /&glots;/ is only sometimes indicated.<note n=1>The glottal stop in post-consonantal position is usually indicated in Cebuano publications by a hyphen (as we do): <hi>tan-aw</hi> /tán&glots;aw/ &lsquo;see&rsquo;, spelled <hi>tan-aw</hi> (but sometimes also as <hi>tanaw</hi>). Between vowels a glottal stop is occasionally indicated, again with a hyphen: <hi>maáyu</hi> /ma&glots;áyu/ &lsquo;good&rsquo;, spelled <hi>maayu, maayo, ma-ayo</hi>, or <hi>ma-ayu</hi>.</note> Here we indicate /&glots;/ in word or syllable final position with a grave accent written over the vowel which precedes the glottal stop: <hi>walà</hi> /walá&glots;/ &lsquo;no&rsquo;, <hi>bàbà</hi> /bá&glots;ba&glots;/ &lsquo;mouth&rsquo;, <hi>làhib</hi> /lá&glots;hib/ &lsquo;slice&rsquo;. (In Cebuano publications the glottal stop of these words is never indicated.)
@@ -397,7 +397,7 @@ A-K -->
 
 
 <div4 n=3.23 id=s3.23>
-<head>3.23 /&eng;/, /c/, /j/, /dy/, /ty/</head>
+<head><ab type=divNum>3.23</ab> /&eng;/, /c/, /j/, /dy/, /ty/</head>
 
 
 <p>The phoneme /&eng;/ is transcribed <hi>ng</hi>, as in Cebuano publications: <hi>bángun</hi> /bá&eng;un/ &lsquo;get up&rsquo;. The sequence /ng/ is transcribed n-g: <hi>san-glas</hi> /sanglas/ &lsquo;sunglasses&rsquo;.
@@ -409,7 +409,7 @@ A-K -->
 
 
 <div4 n=3.24 id=s3.24>
-<head>3.24 <hi>Ciy</hi> and <hi>Cy</hi>; <hi>Cuw</hi> and <hi>Cw</hi>; <hi>ayi</hi> and <hi>ay</hi>; <hi>awu</hi> and <hi>aw</hi></head>
+<head><ab type=divNum>3.24</ab> <hi>Ciy</hi> and <hi>Cy</hi>; <hi>Cuw</hi> and <hi>Cw</hi>; <hi>ayi</hi> and <hi>ay</hi>; <hi>awu</hi> and <hi>aw</hi></head>
 
 
 <p>The contrast between /Ciy/ and /Cy/ and between /Cuw/ and /Cw/ (where C is any consonant) obtains only in the position where the /y/ or /w/ precedes a vowel of the final syllable (e.g. <hi>paliya</hi> [paliyá] &lsquo;k.o. vegetable&rsquo; vs. <hi>palya</hi> [pálya] &lsquo;fail&rsquo;). When the /y/ or /w/ precedes a vowel of the penultimate or earlier syllable, the contrast does not obtain. If one consonant precedes the /y/ or /w/ we write <hi>Cy</hi> and <hi>Cw</hi>; <hi>biyà</hi> &lsquo;leftovers&rsquo; but <hi>hibyaan</hi> /hi-byà-an/ &lsquo;be left behind&rsquo;; <hi>guwà</hi> &lsquo;go out&rsquo;, <hi>higwaan</hi> &lsquo;gone out from&rsquo;. If two consonants precede the /y/ or /w/ we write <hi>Ciy</hi> and <hi>Cuw</hi> respectively: <hi>pinsiyunáda</hi> &lsquo;one who receives a pension&rsquo;, <hi>nagkuwarisma</hi> &lsquo;have a sad expression&rsquo; (but <hi>Kwarisma</hi> &lsquo;Lent&rsquo;).
@@ -419,7 +419,7 @@ A-K -->
 
 
 <div2 n=4.0 id=s4>
-<head>4.0 Listing of Entries</head>
+<head><ab type=divNum>4.0</ab> Listing of Entries</head>
 
 
 <p>Cebuano is a language with a complex system of affixation and comparatively simple morphophonemic alternations. For this reason the listing of forms is strictly by root.<note n=2>The exception to this rule is forms which contain dead affixes&mdash;affixes which are not part of the productive or even live Cebuano morphological (inflectional and derivational) systems. Examples are <hi>takílid</hi> &lsquo;turn the back&rsquo;, <hi>bakilid</hi> &lsquo;slope&rsquo;, which obviously have prefixes <hi>ta-</hi> and <hi>ba-</hi> respectively and are connected with the root <hi>kílid</hi> &lsquo;side&rsquo;. But since <hi>ba-</hi> and <hi>ta-</hi> are not part of the active Cebuano derivational system, we list them under <hi>takílid</hi> and <hi>bakilid</hi> (with a cross reference to the root <hi>kílid</hi>). Such forms behave like roots, and it would only complicate the task of the user if they were not to be listed with their dead affix.</note> Forms of the sort where the root is not really evident are listed with a cross-reference to the root. The order is strictly alphabetical with no regard to diacritical markings (hyphens or accent marks) except that forms without diacritical markings precede forms with diacritical markings.
@@ -433,11 +433,11 @@ A-K -->
 
 <pb n=xii>
 <div2 n=5.0 id=s5>
-<head>5.0 Alternations</head>
+<head><ab type=divNum>5.0</ab> Alternations</head>
 
 
 <div3 n=5.1 id=s5.1 type=Subsection>
-<head>5.1 Morphophonemic alternations</head>
+<head><ab type=divNum>5.1</ab> Morphophonemic alternations</head>
 
 
 <p>Since the listing in this dictionary is strictly by root, an outline of the important morphophonemic alternations is given here. In the entries nonpredictable morphophonemic alternations are indicated by writing the affixed forms out.
@@ -445,17 +445,17 @@ A-K -->
 
 
 <div4 n=5.11 id=s5.11>
-<head>5.11 Shift of stress</head>
+<head><ab type=divNum>5.11</ab> Shift of stress</head>
 
 
-<p>The general rule is that an affixed form has the stress on the same syllable as the root alone. Where this general rule is broken, there is said to be <hi rend=bold>SHIFT OF STRESS</hi>. When an affixed form has final stress where the root had penultimate stress, there is said to be <hi rend=bold>SHIFT TO THE FINAL SYLLABLE</hi>, indicated by the symbol (&rarr;):
+<p>The general rule is that an affixed form has the stress on the same syllable as the root alone. Where this general rule is broken, there is said to be <hi rend=bold><hi rend=asc>SHIFT OF STRESS</hi></hi>. When an affixed form has final stress where the root had penultimate stress, there is said to be <hi rend=bold><hi rend=asc>SHIFT TO THE FINAL SYLLABLE</hi></hi>, indicated by the symbol (&rarr;):
 
 <table>
 <row><cell>káun     <cell>/k&amacracu;&glots;un/  <cell>&lsquo;<hi>eat</hi>&rsquo;    <cell>+   <cell>nag-(&rarr;)  <cell>=   <cell>nagkaun   <cell>/nagka&glots;ún/  <cell>&lsquo;<hi>is eating</hi>&rsquo;
 <row><cell>tugnaw   <cell>/túgnaw/      <cell>&lsquo;<hi>cold</hi>&rsquo;       <cell>+   <cell>-un(&rarr;)   <cell>=   <cell>tugnawun  <cell>/tugnawún/    <cell>&lsquo;<hi>be cold</hi>&rsquo;
 </table>
 
-<p>When an affixed form has penultimate stress where the root had final stress, there is said to be <hi rend=bold>SHIFT TO THE PENULTIMATE SYLLABLE</hi>, indicated by the symbol (&larr;):
+<p>When an affixed form has penultimate stress where the root had final stress, there is said to be <hi rend=bold><hi rend=asc>SHIFT TO THE PENULTIMATE SYLLABLE</hi></hi>, indicated by the symbol (&larr;):
 
 <table>
 <row><cell>sakay    <cell>/sakáy/       <cell>&lsquo;<hi>ride</hi>&rsquo;   <cell>+ <cell>nag-(&larr;)  <cell>= <cell>nagsákay  <cell>/nags&amacracu;kay<corr>/</corr>    <cell>&lsquo;<hi>ride together</hi>&rsquo;
@@ -471,7 +471,7 @@ A-K -->
 
 
 <div4 n=5.12 id=s5.12>
-<head>5.12 Dropping of vowels</head>
+<head><ab type=divNum>5.12</ab> Dropping of vowels</head>
 
 
 <p>When a suffix is added to a root with a stressed final syllable, the tendency is to drop the vowel of the final syllable of the root:
@@ -491,7 +491,7 @@ A-K -->
 
 
 <div4 n=5.13 id=s5.13>
-<head>5.13   Adding of /h/ or /&glots;/ to roots ending in a vowel when a suffix is added</head>
+<head><ab type=divNum>5.13</ab> Adding of /h/ or /&glots;/ to roots ending in a vowel when a suffix is added</head>
 
 
 <p>Some roots which end in a vowel add /&glots;/ before a suffix, some roots add /h/, other roots add either /&glots;/ or /h/ (depending on which suffix):
@@ -506,7 +506,7 @@ A-K -->
 
 
 <div4 n=5.14 id=s5.14>
-<head>5.14  Metathesis</head>
+<head><ab type=divNum>5.14</ab> Metathesis</head>
 
 
 <p>In affixed forms, the sequences /&glots;C/ and /hC/ (where C is any consonant) almost always become /C&glots;/ and /Ch/:<note n=2>However, this is true only of the Cebu City dialect. Other dialects retain /&glots;C/: <hi>kàna</hi> /ká&glots;na/ &lsquo;eat it&rsquo;.</note>
@@ -516,7 +516,7 @@ A-K -->
 <pb n=xiii><row><cell>luhud   <cell>/luhúd/     <cell><hi>kneel</hi>       <cell>+  <cell>-an  <cell>=  <cell>ludhan   <cell>/lúdhan/     <cell><hi>kneel on</hi> (with the vowel of the final syllable of the root dropped).
 </table>
 
-<p>The sequences /&glots;<hi rend=sc>V</hi>h/ usually becomes /h<hi rend=sc>V</hi>&glots;/ (where <hi rend=sc>V</hi> is a vowel):
+<p>The sequences /&glots;Vh/ usually becomes /hV&glots;/ (where V is a vowel):
 
 <table rend="align(center)">
 <row><cell>túu     <cell>/tú&glots;u/    <cell><hi>believe</hi>     <cell>+  <cell>-an  <cell>=  <cell>tuhúan   <cell>/tuh&umacracu;&glots;an/  <cell><hi>believable</hi> (where /h/ is intercalated by the rule of 5.13).
@@ -536,7 +536,7 @@ A-K -->
 
 
 <div4 n=5.15 id=s5.15>
-<head>5.15 Change of /r/ or /l/ to /d, g, h/</head>
+<head><ab type=divNum>5.15</ab> Change of /r/ or /l/ to /d, g, h/</head>
 
 <p>Intervocalically, /d/ usually becomes /r/ or, less frequently, /l/:
 
@@ -567,7 +567,7 @@ A-K -->
 
 
 <div3 n=5.2 id=s5.2>
-<head>5.2 Competing forms</head>
+<head><ab type=divNum>5.2</ab> Competing forms</head>
 
 <p>Because of sound changes which took place over portions of the Cebuano-speaking areas but did not spread over the entire area and the subsequent spread of forms which reflect these changes, there are numerous competing forms which are of the same etymology and which usually (but not always) have the same meaning.<note n=2>In the strictest sense, of course, no two forms are the same in meaning: in English, for example, <hi>rather</hi> pronounced to rhyme with <hi>father</hi> is different in meaning from <hi>rather</hi> pronounced [ræ&dstrok;&schwa;r]. One is a strange or affected word and the other is a normal word. But which form is normal is all a matter of what part of the country one comes from, and a dictionary which is not regionally biased must list them as synonymous. Similarly, in Cebuano for any given speaker, where several forms compete, usually only one form is normal; but, as in the case of the two rather&apos;s in English, the two competing forms are most often synonymous from the dictionary&apos;s point of view.</note>
 
@@ -577,10 +577,10 @@ A-K -->
 
 <pb n=xiv>
 <div4 n=5.21 id=s5.21>
-<head>5.21   Dropping of /l/</head>
+<head><ab type=divNum>5.21</ab> Dropping of /l/</head>
 
 <div5 n=5.211 id=s5.211 type=Subsection>
-<head>5.211   Intervocalic /l/</head>
+<head><ab type=divNum>5.211</ab> Intervocalic /l/</head>
 
 <p>Most (but not all) roots which contain an /l/ between /a/&apos;s and /u/&apos;s compete with roots which lack /l/. The forms without /l/ are used generally in the Northeastern portion of the Cebuano area: all areas east of Cebu (Bohol, Masbate, Leyte and islands in between) and on the northern half of Cebu. In the Southwestern areas (Negros, southern half of Cebu and most of Mindanao, the /l/ forms predominate.
 
@@ -592,25 +592,25 @@ A-K -->
 
 
 <div5 n=5.212 id=s5.212>
-<head>5.212   Post-consonantal /l/</head>
+<head><ab type=divNum>5.212</ab> Post-consonantal /l/</head>
 
 <p>There is a tendency to drop post-consonantal /l/ usually (but not always) with compensatory lengthening of the vowel of the penult: <hi>kinahanglan</hi> or <hi>kinahángan</hi> &lsquo;need&rsquo;; <hi>aplud</hi> or <hi>apud</hi> &lsquo;astringent in taste&rsquo;; <hi>danglug</hi> or <hi>dángug</hi> or <hi>dangug</hi> &lsquo;slippery&rsquo;. The /l/-less forms are most common in the areas which drop intervocalic /l/. The dropping of post-consonantal /l/ is by no means as widespread as dropping of intervocalic /l/, and alternative forms are listed.
 
 
 <div5 n=5.213 id=s5.213>
-<head>5.213   Final /l/</head>
+<head><ab type=divNum>5.213</ab> Final /l/</head>
 
 <p>In Bohol and southern Leyte there is a tendency for /al/ at the end of a word to become /aw/ and /ul/ to become /u/: <hi>bagal</hi> or <hi>bagaw</hi> &lsquo;shell&rsquo;. In this case alternative forms are listed.
 
 
 <div5 n=5.214 id=s5.214>
-<head>5.214  Change of /l/ to /y/</head>
+<head><ab type=divNum>5.214</ab> Change of /l/ to /y/</head>
 
 <p>Historically, intervocalic /l/ in isolated dialects became /y/. Forms with /y/ for /l/ have spread throughout the Cebuano-speaking area, and some are in competition with /l/-retaining forms: <hi>tingáli</hi> or <hi>tingáyi</hi> &lsquo;perhaps&rsquo;; <hi>kalugpus</hi> or <hi>kayugpus</hi> (also <hi>kugpus</hi>&mdash;by the rule of 5.211) &lsquo;fold the arms&rsquo;. In this case, competing forms are listed with cross reference.
 
 
 <div4 n=5.22 id=s5.22>
-<head>5.22   Assimilation and metathesis</head>
+<head><ab type=divNum>5.22</ab> Assimilation and metathesis</head>
 
 <p>There is a tendency for nasal consonants which abut on consonants to be assimilated: <hi>bungdul</hi> or <hi>bundul</hi> &lsquo;poke&rsquo;; <hi>hingbis</hi> or <hi>himbis</hi> &lsquo;scales&rsquo;; <hi>amgid</hi> or <hi>anggid</hi> (also <hi>ambid</hi>) &lsquo;like&rsquo;. This alternation is sporadic, and competing forms are listed.
 
@@ -620,28 +620,28 @@ A-K -->
 
 
 <div4 n=5.23 id=s5.23>
-<head>5.23   Change of vowels</head>
+<head><ab type=divNum>5.23</ab> Change of vowels</head>
 
 <p>The vowel of the antepenult sporadically may change to /a/: <hi>kumusta</hi> or <hi>kamusta</hi> &lsquo;how are, is&rsquo;; <hi>batíis</hi> or <hi>bitíis</hi> &lsquo;leg&rsquo;. Occasionally /a/ or /u/ is assimilated to a following /y/ or an /i/ in the following syllable: <hi>biyà</hi> or <hi>bayà</hi> &lsquo;leave&rsquo;; <hi>musimus</hi> or <hi>misimus</hi> &lsquo;lowly&rsquo;. In these cases competing forms are listed.
 
 
 <pb n=xv>
 <div4 n=5.24 id=s5.24>
-<head>5.24  Change of /y/ to /dy/</head>
+<head><ab type=divNum>5.24</ab> Change of /y/ to /dy/</head>
 
 <p>In Bohol and Southern Leyte /y/ becomes /j/ (written <hi>dy</hi>). Some forms with <hi>dy</hi> have spread throughout the Cebuano speech area or occur only in the Bohol-Southern Leyte speech. Such forms are listed with <hi>dy</hi>.<note n=1>There are also forms with <hi>dy</hi> (/j/) which do not come from an older /y/, e.g. <hi>pangadyi</hi> &lsquo;pray&rsquo;.</note> Other forms with <hi>dy</hi> are listed as with <hi>y</hi>, and the reader may conclude that these forms have /dy/ in Bohol and Southern Leyte.
 
 
 <div4 n=5.25 id=s5.25>
-<head>5.25   Competing forms where no sound change is involved</head>
+<head><ab type=divNum>5.25</ab> Competing forms where no sound change is involved</head>
 
 <p>Roots which are not relatable by the above rules are given separate definitions. The exception to this rule is equivalent names of flora and fauna and technical terms which refer to exactly the same cultural forms: e.g. <hi>gwayabanu, labanu, malabanu, síku karabaw</hi> are all the same plant (<hi rend=bold><hi><corr sic=Anona>Annona</corr> muricata</hi></hi>); <hi>humagbus</hi> and <hi>hinablus</hi> both refer to the same relationship.
 
 
 <div2 n=6.1 id=s6.1>
-<head>6.1  Inflection</head>
+<head><ab type=divNum>6.1</ab> Inflection</head>
 
-<p>Verb forms are subject to the addition of a small list of affixes which we call <hi rend=bold><hi rend=sc>INFLECTIONAL AFFIXES</hi></hi>. The inflectional affixes specify three tenses: <hi rend=bold><hi rend=sc>PAST</hi></hi>, <hi rend=bold><hi rend=sc>FUTURE</hi></hi>, and <hi rend=bold><hi rend=sc>SUBJUNCTIVE</hi></hi>; four cases or voices: <hi rend=bold><hi rend=sc>ACTIVE</hi></hi>, <hi rend=bold><hi rend=sc>DIRECT PASSIVE</hi></hi>, <hi rend=bold><hi rend=sc>LOCAL PASSIVE</hi></hi>, and <hi rend=bold><hi rend=sc>INSTRUMENTAL PASSIVE</hi></hi>; and two modes: <hi rend=bold><hi rend=sc>POTENTIAL</hi></hi> and <hi rend=bold><hi rend=sc>NONPOTENTIAL</hi></hi>. The nonpotential forms are further broken down into two aspects: <hi rend=bold><hi rend=sc>PUNCTUAL</hi></hi> and <hi rend=bold><hi rend=sc>DURATIVE</hi></hi>. The punctual-durative distinction exists in all voices but is observed only in the active voice.<note n=2>The occurrence of the tense affixation is predictable: a verb form which occurs with a given voice-mode affix in one tense occurs also in the same voice and mode in the other tenses. The voice, mode, and aspect affixes, however, are not predictable. Some verbs occur in one, some in two, some in three, some in all four voices; some occur only in the potential mode, some with only durative active affixes, and so forth.</note> In the passive voices punctual forms are used for all meanings, except for literary or dialectal styles where the durative-nondurative distinction is maintained. The following chart shows these affixes. Their <corr sic=meaning>meanings</corr> are listed and exemplified in entries in the dictionary listed under <hi rend=bold>mu-, mag-<hi rend=sub>1</hi>, maka-<hi rend=sub>1</hi>, -un<hi rend=sub>1</hi>, ma-<hi rend=sub>1</hi>, -an<hi rend=sub>1</hi>, i-<hi rend=sub>1</hi>.</hi> <note n=3><p>These affixes are the future forms shown in the chart of this section. The entries define the voice and mode differences exhaustively. The difference in tense meanings (between future, past, and subjunctive) are described in this note. The forms designated FUTURE refer to future time (as the name suggests):
+<p>Verb forms are subject to the addition of a small list of affixes which we call <hi rend=bold><hi rend=asc>INFLECTIONAL AFFIXES</hi></hi>. The inflectional affixes specify three tenses: <hi rend=bold><hi rend=asc>PAST</hi></hi>, <hi rend=bold><hi rend=asc>FUTURE</hi></hi>, and <hi rend=bold><hi rend=asc>SUBJUNCTIVE</hi></hi>; four cases or voices: <hi rend=bold><hi rend=asc>ACTIVE</hi></hi>, <hi rend=bold><hi rend=asc>DIRECT PASSIVE</hi></hi>, <hi rend=bold><hi rend=asc>LOCAL PASSIVE</hi></hi>, and <hi rend=bold><hi rend=asc>INSTRUMENTAL PASSIVE</hi></hi>; and two modes: <hi rend=bold><hi rend=asc>POTENTIAL</hi></hi> and <hi rend=bold><hi rend=asc>NONPOTENTIAL</hi></hi>. The nonpotential forms are further broken down into two aspects: <hi rend=bold><hi rend=asc>PUNCTUAL</hi></hi> and <hi rend=bold><hi rend=asc>DURATIVE</hi></hi>. The punctual-durative distinction exists in all voices but is observed only in the active voice.<note n=2>The occurrence of the tense affixation is predictable: a verb form which occurs with a given voice-mode affix in one tense occurs also in the same voice and mode in the other tenses. The voice, mode, and aspect affixes, however, are not predictable. Some verbs occur in one, some in two, some in three, some in all four voices; some occur only in the potential mode, some with only durative active affixes, and so forth.</note> In the passive voices punctual forms are used for all meanings, except for literary or dialectal styles where the durative-nondurative distinction is maintained. The following chart shows these affixes. Their <corr sic=meaning>meanings</corr> are listed and exemplified in entries in the dictionary listed under <hi rend=bold>mu-, mag-<hi rend=sub>1</hi>, maka-<hi rend=sub>1</hi>, -un<hi rend=sub>1</hi>, ma-<hi rend=sub>1</hi>, -an<hi rend=sub>1</hi>, i-<hi rend=sub>1</hi>.</hi> <note n=3><p>These affixes are the future forms shown in the chart of this section. The entries define the voice and mode differences exhaustively. The difference in tense meanings (between future, past, and subjunctive) are described in this note. The forms designated <hi rend=bold><hi rend=asc>FUTURE</hi></hi> refer to future time (as the name suggests):
 
 <q rend=block><p>Palitun ku ang isdà, <hi>I will buy the fish.</hi>
 <lb>Akuy mupalit ug isdà, <hi>I will buy some fish.</hi>
@@ -661,7 +661,7 @@ A-K -->
 <lb>Mupalit tag isdà, <hi>Let&apos;s buy some fish.</hi>
 </q>
 
-<p>The forms designated <hi rend=bold>PAST</hi> refer to past actions.
+<p>The forms designated <hi rend=bold><hi rend=asc>PAST</hi></hi> refer to past actions.
 
 <q rend=block><p>Gipalit ku ang isdà, <hi>I bought the fish.</hi>
 <lb>Nakatilaw na kug isdà, <hi>I have already tasted fish.</hi>
@@ -674,7 +674,7 @@ A-K -->
 <lb>Naglútù pa siya sa isdà, <hi>He is still cooking the fish.</hi>
 </q>
 
-<p>The forms designated as <hi rend=bold>SUBJUNCTIVE</hi> occur in a phrase and following a form which itself indicates time: e.g. <hi>kagahápun</hi> &lsquo;yesterday&rsquo;, <hi>walà</hi> &lsquo;not (past)&rsquo;, <hi>anus-a</hi> &lsquo;when (future)&rsquo;, <hi>sa miáging Duminggu</hi> &lsquo;last Sunday&rsquo;, <hi>adtu</hi> &lsquo;there (future)&rsquo;, <hi>túa</hi> &lsquo;there (present)&rsquo;, and the like.
+<p>The forms designated as <hi rend=bold><hi rend=asc>SUBJUNCTIVE</hi></hi> occur in a phrase and following a form which itself indicates time: e.g. <hi>kagahápun</hi> &lsquo;yesterday&rsquo;, <hi>walà</hi> &lsquo;not (past)&rsquo;, <hi>anus-a</hi> &lsquo;when (future)&rsquo;, <hi>sa miáging Duminggu</hi> &lsquo;last Sunday&rsquo;, <hi>adtu</hi> &lsquo;there (future)&rsquo;, <hi>túa</hi> &lsquo;there (present)&rsquo;, and the like.
 
 <q rend=block><p>Ugmà níya palita, <hi>He will buy it tomorrow.</hi>
 <lb>Anus-a nímu palita ang isdà? <hi>When will you buy the fish?</hi>
@@ -728,7 +728,7 @@ A-K -->
 
 
 <div3 n=6.2 id=s6.2>
-<head>6.2 Verbal derivation</head>
+<head><ab type=divNum>6.2</ab> Verbal derivation</head>
 
 <p>The inflectional affixes are added not only to roots (forms containing no other affixes) but also to derived bases (forms containing further affixes). The productive affixes which are added to roots to form bases which in turn may have inflectional affixes added to them are <hi rend=bold>-ay, -an, pa-, pa&N;-,</hi><note n=1 id=n6.2.1><p>The phonemic value of the morphophonemic symbol &N; is given in the following chart:
 
@@ -768,10 +768,10 @@ A-K -->
 
 
 <div2 n=7.0 id=s7.0>
-<head>7.0 Classification of roots according to their system of affixation</head>
+<head><ab type=divNum>7.0</ab> Classification of roots according to their system of affixation</head>
 
 
-<p>With the rich system of derivational and inflectional affixations to which Cebuano roots are subject, there are literally hundreds of different affixed forms for any given root. Since it is manifestly impossible to list exhaustively all affixations for any given root, we follow the principle here that <hi rend=bold><hi rend=sc>PRODUCTIVE FORMATIONS</hi></hi> are generally not listed unless there is s.t. especial <pb n=xvii>about their meanings or morphophonemics. By <hi rend=bold><hi rend=sc>PRODUCTIVE FORMATIONS</hi></hi> we mean affixes which are added to all, or almost all, members of a certain group of roots. For example, the affix <hi>ka-an<hi rend=sub>2</hi></hi> is added to any root which refers to a plant to form a collective noun referring to a place where a group of that type of plant is found. The formation, <hi>ka-</hi>[<hi>plant</hi>]<hi>-an</hi>, is not listed except in cases where there is s.t. special about the affixation, as for example <hi>kalubinhan</hi> &lsquo;coconut grove&rsquo; (from <hi>lubi</hi>) which undergoes special morphophonemics or <hi>kabaknitan</hi> &lsquo;thicket&rsquo; (from <hi>baknit</hi> &lsquo;k.o. vine&rsquo;), where the meaning of the affixed form is not predictable from the meaning of the base and the affixes. The following productive affixes are listed only occasionally. For their meanings and a description of the type of roots to which they are added, see the entries: <hi rend=bold>pa-</hi><hi>1,2</hi>; <hi rend=bold>pa&N;-</hi><hi>1a,c</hi>, <hi rend=bold>panggi-, hi-/ha-; hi&N;-<hi rend=sub>1</hi>; -ay/-anay; paka-<hi rend=sub>2</hi></hi>, <hi>doubling</hi> or <hi rend=bold>Culu-; -in-<hi rend=sub>1</hi>, -in<hi rend=sub>2</hi>, ka-an<hi rend=sub>2</hi>, -in-an<hi rend=sub>1</hi>, -in-an<hi rend=sub>2</hi>, ma-<hi rend=sub>2</hi></hi>.
+<p>With the rich system of derivational and inflectional affixations to which Cebuano roots are subject, there are literally hundreds of different affixed forms for any given root. Since it is manifestly impossible to list exhaustively all affixations for any given root, we follow the principle here that <hi rend=bold><hi rend=asc>PRODUCTIVE FORMATIONS</hi></hi> are generally not listed unless there is s.t. especial <pb n=xvii>about their meanings or morphophonemics. By <hi rend=bold><hi rend=asc>PRODUCTIVE FORMATIONS</hi></hi> we mean affixes which are added to all, or almost all, members of a certain group of roots. For example, the affix <hi>ka-an<hi rend=sub>2</hi></hi> is added to any root which refers to a plant to form a collective noun referring to a place where a group of that type of plant is found. The formation, <hi>ka-</hi>[<hi>plant</hi>]<hi>-an</hi>, is not listed except in cases where there is s.t. special about the affixation, as for example <hi>kalubinhan</hi> &lsquo;coconut grove&rsquo; (from <hi>lubi</hi>) which undergoes special morphophonemics or <hi>kabaknitan</hi> &lsquo;thicket&rsquo; (from <hi>baknit</hi> &lsquo;k.o. vine&rsquo;), where the meaning of the affixed form is not predictable from the meaning of the base and the affixes. The following productive affixes are listed only occasionally. For their meanings and a description of the type of roots to which they are added, see the entries: <hi rend=bold>pa-</hi><hi>1,2</hi>; <hi rend=bold>pa&N;-</hi><hi>1a,c</hi>, <hi rend=bold>panggi-, hi-/ha-; hi&N;-<hi rend=sub>1</hi>; -ay/-anay; paka-<hi rend=sub>2</hi></hi>, <hi>doubling</hi> or <hi rend=bold>Culu-; -in-<hi rend=sub>1</hi>, -in<hi rend=sub>2</hi>, ka-an<hi rend=sub>2</hi>, -in-an<hi rend=sub>1</hi>, -in-an<hi rend=sub>2</hi>, ma-<hi rend=sub>2</hi></hi>.
 
 <p>The inflectional affixes which may be added to a given verb base in a given meaning are indicated by means of a formula which is explained in the following subsections. The derivational affixes <hi rend=bold>pa&N;-</hi><hi>1a,c</hi>, <hi rend=bold>pakig-</hi>, and <hi rend=bold>ka-</hi> are also indicated with these formulas.
 
@@ -780,16 +780,16 @@ A-K -->
 
 
 <div3 n=7.1 id=s7.1>
-<head>7.1 Active verb classes</head>
+<head><ab type=divNum>7.1</ab> Active verb classes</head>
 
 <div4 n=7.11 id=s7.11>
-<head>7.11 Class <hi>A</hi> conjugation, the action verbs</head>
+<head><ab type=divNum>7.11</ab> Class <hi>A</hi> conjugation, the action verbs</head>
 
 <p>Verbs of class <hi>A</hi> refer to an action. If they are the predicate of the sentence, the subject is the agent of the action. If they are in attribute construction, the head is the agent of the action. They occur with <hi rend=bold>mu-</hi>, meanings <hi>1</hi> and <hi>2</hi><note n=1>See the entry for <hi rend=bold>mu-</hi>.</note> (and thus also with <hi rend=bold>mi-, ni-,</hi> etc.), <hi rend=bold>mag-,</hi> meanings <hi>1</hi> and <hi>2</hi> (and thus also with <hi rend=bold>nag-, naga-, maga-,</hi> etc.), <hi rend=bold>maka-</hi> in all meanings (and thus also with <hi rend=bold>naka-, ka-,</hi> etc.). (See the entries under these affixes for further illustration and explanation.) The entry for <hi>palit</hi> &lsquo;buy&rsquo; illustrates this class; the entry for <hi>bisiklíta</hi> &lsquo;bicycle&rsquo; indicates this class with verbs derived from noun roots, and the entry for <hi>hapit,2</hi> &lsquo;drop in s.w.&rsquo; illustrates this class referring to verbs of motion.
 
 
 <div5 n=7.111 id=s7.111>
-<head>7.111 Subclasses of the class A conjugation</head>
+<head><ab type=divNum>7.111</ab> Subclasses of the class A conjugation</head>
 
 <p>The numbers which follow the letter <hi>A</hi> indicate nonoccurrence of affixes. The symbol <hi>A1</hi> indicates verbs of the <hi>A</hi> conjugation which do not occur with the punctual-active set, <hi rend=bold>mu-</hi> (<hi rend=bold>mi-,</hi> etc.). An example of a verb of this type is <hi>ikspidisiyun</hi> &lsquo;go on an expedition&rsquo;. The symbol <hi>A2</hi> indicates that the base does not occur with the durative-active set, <hi rend=bold>mag-</hi> (<hi rend=bold>nag-,</hi> etc.). A verb of this class is <hi>sángit</hi> &lsquo;catch, snag s.t.&rsquo;. The symbol <hi>A3</hi> indicates that the base does not occur with the potential-active set, <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>, etc.), e.g. <hi>habhab,3</hi> &lsquo;eat away a portion of s.t.&rsquo;. Two numbers following the letter <hi>A</hi> indicate the absence of two of the three active affixes. E.g. <hi>A12</hi> indicates a base which occurs only with <hi rend=bold>maka-</hi> (<hi rend=bold>naka-,</hi> etc.) but not with <hi rend=bold>mu-</hi> and <hi rend=bold>mag-,</hi> e.g. <hi>salà.</hi>
 
@@ -806,13 +806,13 @@ A-K -->
 
 
 <div4 n=7.12 id=s7.12>
-<head>7.12  Class <hi>B</hi> conjugation, the stative verbs</head>
+<head><ab type=divNum>7.12</ab> Class <hi>B</hi> conjugation, the stative verbs</head>
 
 <p>Verbs of class <hi>B</hi> refer to s.t. that happened to s.o. or s.t. If they are the predicate of the sentence, the subject is the thing to which the event happened. Verbs of class <hi>B</hi> occur with <hi rend=bold>mu-</hi> (<hi rend=bold>mi-</hi>, etc.), meaning <hi>3</hi>, <hi rend=bold>mag-</hi> (<hi rend=bold>nag-</hi>, etc.), meaning <hi>3</hi>, <hi rend=bold>ma-</hi> (<hi rend=bold>na-</hi>, etc.), meaning <hi>3</hi>, <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>, etc.) or, alternatively, <hi rend=bold>makapa-</hi> (<hi rend=bold>nakapa-</hi>) with a meaning &lsquo;cause s.t. to become [so-and-so]&rsquo;, and with <hi rend=bold>magka-<hi rend=sub>2</hi></hi> (<hi rend=bold>nagka-</hi>, etc.). The entry for <hi>pula</hi> &lsquo;red&rsquo; illustrates this conjugation. The entry for <hi>duktur</hi> &lsquo;doctor&rsquo; illustrates a verb of this class formed from a noun root.
 
 
 <div5 n=7.121 id=s7.121>
-<head>7.121 Subclasses of verbs of the <hi>B</hi> conjugation</head>
+<head><ab type=divNum>7.121</ab> Subclasses of verbs of the <hi>B</hi> conjugation</head>
 
 <p>Verbs of class <hi>B1</hi> lack <hi rend=bold>mu-</hi>, e.g. <hi>págud</hi> &lsquo;get burnt&rsquo;. Verbs of class <hi>B2</hi> lack <hi rend=bold>mag-</hi>, e.g. <hi>palanas</hi> &lsquo;be eroded&rsquo;. Verbs of <hi>B3</hi> occur with <hi rend=bold>maka-</hi> but have a meaning &lsquo;become [so-and-so]&rsquo;, e.g. laun &lsquo;age&rsquo;. Verbs of class B3(1) occur with maka- in two meanings: (1) become [so-and-so], and (2) cause to become [so-and-so]. In the latter meaning it also occurs with <hi rend=bold>makapa-</hi> (<hi rend=bold>nakapa-</hi>), e.g. <hi>lup-ut<hi rend=sub>2</hi></hi> &lsquo;thicken&rsquo;. Verbs of class <hi>B4</hi> lack <hi rend=bold>na-</hi> (<hi rend=bold>ma-</hi>). E.g. <hi>laúsag</hi> &lsquo;got worse and worse&rsquo;. Verbs of class <hi>B5</hi> lack <hi rend=bold>maka-</hi> (<hi rend=bold>naka-</hi>) and verbs of class <hi>B6</hi> lack <hi rend=bold>magka-<hi rend=sub>2</hi></hi>, e.g. <hi>paliyar</hi> &lsquo;for an engine to malfunction&rsquo;. Many verbs in the class <hi>B</hi> conjugation have one or more of these conjugational features. E.g. <hi>duktur</hi> as a verb &lsquo;become a doctor&rsquo; is in class <hi>B16</hi>,&mdash;i.e. it lacks <hi rend=bold>mu-</hi> and lacks <hi rend=bold>magka-</hi>.
 
@@ -821,13 +821,13 @@ A-K -->
 
 
 <div4 n=7.13 id=s7.13>
-<head>7.13 Class <hi>C</hi> conjugation, the mutual action verbs</head>
+<head><ab type=divNum>7.13</ab> Class <hi>C</hi> conjugation, the mutual action verbs</head>
 
 <p>Verbs of class <hi>C</hi> refer to an action which two or more agents engage in mutually. Verbs in this class usually have a long penult and shift the stress to the penult if the final syllable of the unaffixed root is stressed. Verbs of this class occur with the durative prefixes, <hi rend=bold>mag-<hi rend=sub>1</hi></hi>, (<hi rend=bold>nag-</hi>, etc.), meaning <hi>5</hi>, with the potential prefix <hi rend=bold>magka-<hi rend=sub>1</hi></hi> (<hi rend=bold>nagka-</hi>), and with the prefix <hi rend=bold>makig-</hi> (<hi rend=bold>nakig-</hi>). The entry for <hi>sábut</hi> &lsquo;come to an understanding&rsquo; (under <hi>sabut (&larr;)</hi>) illustrates a verb of class <hi>C</hi> conjugation.
 
 
 <div5 n=7.131 id=s7.131>
-<head>7.131  Subclasses of the class C conjugation</head>
+<head><ab type=divNum>7.131</ab> Subclasses of the class C conjugation</head>
 
 <p>The symbol <hi>C1</hi> refers to verbs which lack the durative set, <hi rend=bold>mag-</hi>. The symbol <hi>C2</hi> refers to verbs which lack the potential set, <hi rend=bold>magka-</hi>. The symbol <hi>C3</hi> refers to verbs which lack the set <hi rend=bold>makig-</hi>. The listing for <hi>balíus</hi> &lsquo;miss each other&rsquo; exemplifies a verb of class <hi>C13</hi> (missing both <hi rend=bold>mag-<hi rend=sub>1</hi></hi> and <hi rend=bold>makig-</hi>). The entry <hi>púyù</hi> &lsquo;live together&rsquo; illustrates a verb of class <hi>C2</hi> (lacking the potential form <hi rend=bold>magka-<hi rend=sub>1</hi></hi>).
 
@@ -835,39 +835,39 @@ A-K -->
 
 
 <div3 n=7.2 id=s7.2>
-<head>7.2 Passive verb classes</head>
+<head><ab type=divNum>7.2</ab> Passive verb classes</head>
 
 
 <div4 n=7.21 id=s7.21>
-<head>7.21  Class a verbs</head>
+<head><ab type=divNum>7.21</ab> Class a verbs</head>
 
-<p>Verbs of class a occur with direct passive affixes (see the entry for <hi rend=bold>-un<hi rend=sub>1</hi></hi>), and the direct passive <pb n=xix>verb refers to a <hi rend=bold><hi rend=sc>FOCUS</hi></hi><note n=1><p>The term <hi rend=bold>FOCUS</hi> is given to the word to which the verb refers. If the verb is the head of the predicate of the sentence, the <hi rend=bold>FOCUS</hi> is the subject (in <hi rend=bold>bold face</hi> in the following examples):
+<p>Verbs of class a occur with direct passive affixes (see the entry for <hi rend=bold>-un<hi rend=sub>1</hi></hi>), and the direct passive <pb n=xix>verb refers to a <hi rend=bold><hi rend=asc>FOCUS</hi></hi><note n=1><p>The term <hi rend=bold><hi rend=asc>FOCUS</hi></hi> is given to the word to which the verb refers. If the verb is the head of the predicate of the sentence, the <hi rend=bold><hi rend=asc>FOCUS</hi></hi> is the subject (in <hi rend=bold>bold face</hi> in the following examples):
 
 <q rend=block><p>Gipalit níya <hi rend=bold>ang pán,</hi> <hi>He bought <hi rend=bold>the bread.</hi></hi></q>
 
-<p>If the verb is the subject of the sentence, the <hi rend=bold>FOCUS</hi> is the predicate:
+<p>If the verb is the subject of the sentence, the <hi rend=bold><hi rend=asc>FOCUS</hi></hi> is the predicate:
 
 <q rend=block><p><hi rend=bold>Pán</hi> ang íyang gipalit, <hi><hi rend=bold>It was bread</hi> that he bought.</hi></q>
 
-<p>If the verb modifies a noun (is attribute to a noun), the noun is the <hi rend=bold>FOCUS:</hi>
+<p>If the verb modifies a noun (is attribute to a noun), the noun is the <hi rend=bold><hi rend=asc>FOCUS</hi>:</hi>
 
 <q rend=block><p><hi rend=bold>Ang pán</hi> nga íyang gipalit, <hi><hi rend=bold>The bread</hi> he bought.</hi></q></note> which is the recipient of the action (see <hi rend=bold>-un<hi rend=sub>1</hi>,</hi> meaning <hi>1</hi>). Verbs of class <hi>a</hi> normally also occur with the local passive affixes (see <hi rend=bold>-an<hi rend=sub>1</hi></hi>) referring to a focus which is the place or beneficiary of the action (<hi rend=bold>-an<hi rend=sub>1</hi>,</hi> meaning <hi>1</hi>). They also occur with the instrumental passive affixes (see <hi rend=bold>i-<hi rend=sub>1</hi></hi>) in the instrumental, beneficial, and temporal meanings (<hi rend=bold>i-<hi rend=sub>1</hi>,</hi> meanings <hi>2, 3,</hi> and <hi>4</hi>). <hi>Palit</hi> &lsquo;buy&rsquo; illustrates a verb of class <hi>a.</hi> <hi>Hapit</hi> &lsquo;drop in&rsquo; and <hi>dalágan</hi> &lsquo;run&rsquo; illustrate verbs of class <hi>a</hi> that refer to motion. <hi>Ábut</hi> (under <hi>ábut</hi>) &lsquo;meet with each other&rsquo; illustrates a verb of class <hi>a</hi> conjugation referring to mutual action. <hi>Dakù</hi> illustrates an adjective with class <hi>a</hi> conjugation. <hi>Bisiklíta</hi> and <hi>duktur</hi> illustrate two different kinds of nouns with class <hi>a</hi> conjugation.
 
 
 <div5 n=7.211 id=s7.211>
-<head>7.211 Subclasses of the class <hi>a</hi> conjugation</head>
+<head><ab type=divNum>7.211</ab> Subclasses of the class <hi>a</hi> conjugation</head>
 
 <p>Verbs in class <hi>a1</hi> lack a local passive; verbs in class <hi>a2</hi> lack an instrumental passive (except in the benefactive and temporal meanings [<hi rend=bold>-i<hi rend=sub>1</hi>,</hi> meanings <hi>3</hi> and <hi>4</hi>], to which all verbs in the language are subject). Verbs in class <hi>a12</hi> lack both the local and the instrumental passive. The verb <hi>daug, 1</hi> &lsquo;overcome&rsquo; exemplifies this conjugation. Verbs in class <hi>a3</hi> have only potential passive affixes, e.g. <hi>dungug, 1</hi> &lsquo;hear&rsquo;. Verbs in class <hi>a4</hi> refer to a focus which is the thing suffering from or affected by the thing referred to by the verb (<hi rend=bold>-un<hi rend=sub>1</hi>,</hi> meaning <hi rend=bold>2</hi>), e.g. <hi>malarya</hi> &lsquo;get malaria&rsquo;.
 
 
 <div4 n=7.22 id=s7.22>
-<head>7.22 Class <hi>b</hi> verbs</head>
+<head><ab type=divNum>7.22</ab> Class <hi>b</hi> verbs</head>
 
 <p>Verbs of class <hi>b</hi> occur with a local passive affix, and the local passive refers to a focus which is the recipient of the action (see <hi rend=bold>-an<hi rend=sub>1</hi>,</hi> meaning <hi>2</hi>). Verbs of this class also normally occur with the instrumental passive affixes (see <hi rend=bold>i-<hi rend=sub>1</hi></hi>) in the instrumental, beneficial, and temporal meanings (<hi rend=bold>i-<hi rend=sub>1</hi>,</hi> meanings <hi>2, 3,</hi> and <hi>4</hi>). <hi>Haluk</hi> &lsquo;kiss&rsquo; illustrates a verb of class <hi>b</hi> conjugation.
 
 
 <div5 n=7.221 id=s7.221>
-<head>7.221  Subclasses of class <hi>b</hi></head>
+<head><ab type=divNum>7.221</ab> Subclasses of class <hi>b</hi></head>
 
 <p>The symbol <hi>b(1)</hi> indicates verbs of class <hi>b</hi> which lack the instrumental passive conjugation (in any but the benefactive and temporal meanings [<hi>i-<hi rend=sub>1</hi>,</hi> meanings <hi>3</hi> and <hi>4</hi>], to which all verbs in Cebuano are subject). An example of a <hi>b(1)</hi> verb is <hi>bantay</hi> &lsquo;watch&rsquo;.
 
@@ -890,14 +890,14 @@ A-K -->
 
 
 <div4 n=7.23 id=s7.23>
-<head>7.23 Class <hi>c</hi> verbs</head>
+<head><ab type=divNum>7.23</ab> Class <hi>c</hi> verbs</head>
 
 <p>Verbs of class <hi>c</hi> have instrumental passive affixes which refer to a focus which is the thing conveyed by the action or the direct recipient of the action (see <hi rend=bold>i-<hi rend=sub>1</hi></hi>, meaning <hi>1</hi>). Verbs of class <hi>c</hi> normally also occur with the local passive affixes (<hi rend=bold>-an<hi rend=sub>1</hi></hi>) referring to a focus which is the place or the beneficiary of the action (<hi rend=bold>-an<hi rend=sub>1</hi></hi>, meaning <hi>1</hi>). <hi>Lábay</hi> &lsquo;throw away&rsquo; illustrates a verb of this type. <hi>Dalágan,1</hi> illustrates a verb of class <hi>c</hi> which refers to motion.
 
 
 
 <div5 n=7.231 id=s7.231>
-<head>7.231 Subclasses of class <hi>c</hi> verbs</head>
+<head><ab type=divNum>7.231</ab> Subclasses of class <hi>c</hi> verbs</head>
 
 <p>The symbol <hi>c1</hi> indicates verbs for which the direct and the instrumental passive are synonymous (i.e. occur with <hi rend=bold>-un<hi rend=sub>1</hi></hi> in meaning <hi>1</hi> and with <hi rend=bold>i-<hi rend=sub>1</hi></hi> in meaning <hi>1</hi>; and the meaning of the form composed of <hi rend=bold>i-</hi> plus the base is synonymous with <hi rend=bold>-un</hi> plus the base).<note n=1>If a base occurs with the direct and the instrumental passive, where <hi rend=bold>i-</hi> has the meaning <hi>1</hi>, but the direct and instrumental passive forms are not synonymous, the verb is said to be in class <hi>ac</hi>, e.g. <hi>lábay</hi> &lsquo;throw&rsquo;. <hi>Dalágan</hi> &lsquo;run&rsquo; is an example of a verb referring to motion in the <hi>ac</hi> conjugation.</note> Most verbs derived from adjectives are in class <hi>c1</hi>.
 
@@ -916,7 +916,7 @@ A-K -->
 </front>
 <body>
 
-<!-- Omitted, as placed in separate file for special processing -->
+<!-- Omitted, as placed in separate files for special processing -->
 
 </body>
 <back>

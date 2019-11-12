@@ -11,8 +11,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:fn="http://www.w3.org/2005/xpath-functions"
-    xmlns:local="localhost"
-    exclude-result-prefixes="xs dc local fn">
+    xmlns:f="urn:stylesheet-functions"
+    exclude-result-prefixes="xs dc f fn">
 
 <xsl:output
     method="text"
@@ -206,14 +206,14 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
     </xsl:variable>
 
     <xsl:variable name="normalizedHeadword">
-        <xsl:value-of select="local:normalize($headword)"/>
+        <xsl:value-of select="f:normalize($headword)"/>
     </xsl:variable>
 
     <xsl:variable name="isCrossReference">
         <xsl:value-of select="if (xr) then 1 else 0"/>
     </xsl:variable>
 
-    <xsl:value-of select="local:insertEntrySql($entryid, $normalizedHeadword, $entrytext, @page)"/>
+    <xsl:value-of select="f:insertEntrySql($entryid, $normalizedHeadword, $entrytext, @page)"/>
 
     <xsl:if test="$generateWordTable">
         <!-- Find all words with language for this entry -->
@@ -227,7 +227,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
                 <xsl:variable name="flags" select="current-group()[1]/@flags"/>
                 <xsl:variable name="flags" select="if (current-group()[1] = $headword) then $flags + 1 else $flags"/>
                 <xsl:variable name="flags" select="if (current-group()[1] = current-group()[1]/@form) then $flags + 24 else $flags + 8"/>
-                <xsl:value-of select="local:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
+                <xsl:value-of select="f:insertWordSql($entryid, $flags, current-group()[1], current-group()[1]/@xml:lang)"/>
             </xsl:for-each-group>
         </xsl:for-each-group>
 
@@ -236,7 +236,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
             <xsl:for-each-group select="current-group()" group-by=".">
                 <xsl:variable name="flags" select="current-group()[1]/@flags"/>
                 <xsl:variable name="flags" select="if (current-group()[1]/@form = $normalizedHeadword) then $flags + 1 else $flags"/>
-                <xsl:value-of select="local:insertWordSql($entryid, $flags + 16, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
+                <xsl:value-of select="f:insertWordSql($entryid, $flags + 16, current-group()[1]/@form, current-group()[1]/@xml:lang)"/>
             </xsl:for-each-group>
         </xsl:for-each-group>
     </xsl:if>
@@ -250,7 +250,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
     <xsl:for-each-group select="$heads/h" group-by=".">
         <xsl:variable name="entryType" select="if (current-group()[1] = $headword) then 'm' else 's'"/>
         <xsl:variable name="pos" select="current-group()[1]/@pos"/>
-        <xsl:value-of select="local:insertHeadSql($entryid, current-group()[1], local:normalize(current-group()[1]), $entryType, $pos)"/>
+        <xsl:value-of select="f:insertHeadSql($entryid, current-group()[1], f:normalize(current-group()[1]), $entryType, $pos)"/>
     </xsl:for-each-group>
 
     <!-- Find all translations -->
@@ -260,7 +260,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
 
     <!-- List unique head-words in entry -->
     <xsl:for-each-group select="$translations/t" group-by=".">
-        <xsl:value-of select="local:insertTranslationSql($entryid, current-group()[1])"/>
+        <xsl:value-of select="f:insertTranslationSql($entryid, current-group()[1])"/>
     </xsl:for-each-group>
 
 </xsl:template>
@@ -321,16 +321,16 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
 
 
 
-<xsl:function name="local:normalize" as="xs:string">
+<xsl:function name="f:normalize" as="xs:string">
     <xsl:param name="string" as="xs:string"/>
 
-    <xsl:value-of select="fn:lower-case(local:strip_diacritics($string))"/>
+    <xsl:value-of select="fn:lower-case(f:strip_diacritics($string))"/>
 </xsl:function>
 
 
 <!-- SQL support functions -->
 
-<xsl:function name="local:escapeSql" as="xs:string">
+<xsl:function name="f:escapeSql" as="xs:string">
     <xsl:param name="string" as="xs:string"/>
 
     <xsl:value-of select="fn:replace($string, '&quot;', '&quot;&quot;')"/>
@@ -339,19 +339,19 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
 
 <!-- INSERT INTO `wced_entry` VALUES (entryid, word, entry, page); -->
 
-<xsl:function name="local:insertEntrySql">
+<xsl:function name="f:insertEntrySql">
     <xsl:param name="entryid"/>
     <xsl:param name="word"/>
     <xsl:param name="entry"/>
     <xsl:param name="page"/>
 
-    <xsl:text expand-text="yes">INSERT INTO `{$prefix}_entry` VALUES ({$entryid}, &quot;{$word}&quot;, &quot;{$page}&quot;, &quot;{local:escapeSql($entry)}&quot;);&lf;</xsl:text>
+    <xsl:text expand-text="yes">INSERT INTO `{$prefix}_entry` VALUES ({$entryid}, &quot;{$word}&quot;, &quot;{$page}&quot;, &quot;{f:escapeSql($entry)}&quot;);&lf;</xsl:text>
 </xsl:function>
 
 
 <!-- INSERT INTO `wced_head` VALUES (id, head, normalizedHead); -->
 
-<xsl:function name="local:insertHeadSql" expand-text="yes">
+<xsl:function name="f:insertHeadSql" expand-text="yes">
     <xsl:param name="entryid"/>
     <xsl:param name="head"/>
     <xsl:param name="normalizedHead"/>
@@ -366,7 +366,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
 
 <!-- INSERT INTO `wced_translation` VALUES (id, translation); -->
 
-<xsl:function name="local:insertTranslationSql" expand-text="yes">
+<xsl:function name="f:insertTranslationSql" expand-text="yes">
     <xsl:param name="entryid"/>
     <xsl:param name="translation"/>
 
@@ -378,7 +378,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
 
 <!-- INSERT INTO `wced_word` VALUES (entryid, flags, "word", "lang"); -->
 
-<xsl:function name="local:insertWordSql">
+<xsl:function name="f:insertWordSql">
     <xsl:param name="entryid"/>
     <xsl:param name="flags"/>
     <xsl:param name="word"/>
@@ -392,7 +392,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
 
 <!-- Code copied and modified from tei2html/tei2wl.xsl -->
 
-<xsl:function name="local:words" as="xs:string*">
+<xsl:function name="f:words" as="xs:string*">
     <xsl:param name="string" as="xs:string"/>
     <xsl:analyze-string select="$string" regex="{'[\p{L}\p{N}\p{M}-]+'}">
         <xsl:matching-substring>
@@ -401,7 +401,7 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
     </xsl:analyze-string>
 </xsl:function>
 
-<xsl:function name="local:strip_diacritics" as="xs:string">
+<xsl:function name="f:strip_diacritics" as="xs:string">
     <xsl:param name="string" as="xs:string"/>
     <xsl:value-of select="fn:replace(fn:normalize-unicode($string, 'NFD'), '\p{M}', '')"/>
 </xsl:function>
@@ -421,10 +421,10 @@ CREATE TABLE IF NOT EXISTS `{$prefix}_note` (
     <!-- Determine word type flags: 2 if headword or suggested translation; 4 otherwise -->
     <xsl:variable name="flags" select="if (ancestor-or-self::form|ancestor-or-self::tr) then 2 else 4"/>
 
-    <xsl:for-each select="local:words(.)">
+    <xsl:for-each select="f:words(.)">
         <xsl:if test=". != ''">
             <w>
-                <xsl:variable name="form" select="fn:lower-case(local:strip_diacritics(.))"/>
+                <xsl:variable name="form" select="fn:lower-case(f:strip_diacritics(.))"/>
 
                 <xsl:attribute name="xml:lang" select="$lang"/>
                 <xsl:attribute name="form" select="$form"/>

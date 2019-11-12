@@ -21,9 +21,9 @@
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:local="http://localhost"
+    xmlns:f="urn:stylesheet-functions"
     version="2.0"
-    exclude-result-prefixes="xs local">
+    exclude-result-prefixes="xs f">
 
     <xsl:output
         method="xml"
@@ -42,7 +42,7 @@
     <xsl:template match="p/form[1]">
         <xsl:variable name="id" select="if (contains(., ',')) then substring-before(., ',') else ."/>
 
-        <hi rend="bold" lang="ceb" id="{local:strip_diacritics(local:make-id(lower-case(local:as-string($id))))}">
+        <hi rend="bold" lang="ceb" id="{f:strip_diacritics(f:make-id(lower-case(f:as-string($id))))}">
             <xsl:apply-templates/>
         </hi>
     </xsl:template>
@@ -111,7 +111,7 @@
 
     <xsl:template match="sc">
         <hi rend="sc" lang="ceb">
-            <ref target="{local:make-id(lower-case(local:as-string(.)))}">
+            <ref target="{f:make-id(lower-case(f:as-string(.)))}">
                 <xsl:apply-templates/>
             </ref>
         </hi>

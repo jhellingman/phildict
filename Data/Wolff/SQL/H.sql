@@ -34,7 +34,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5691
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5691, "salámat ha", "salamat ha", "s", "");
 INSERT INTO `wced_entry` VALUES (5692, "ha-1", "282", "<entry page=""282"" id=""5692""><form id=""ha-"" lang=""ceb"">ha-<sub>1</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hi-rx"">= <sc>hi-(→)</sc>, <i lang=""ceb"">1</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hi-rx""><sc>hi-(→)</sc></xr>, <i lang=""ceb"">1</i>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5692, "ha-", "ha-", "s", "");
@@ -49,13 +49,13 @@ INSERT INTO `wced_entry` VALUES (5693, "ha-2", "282", "<entry page=""282"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5693, "ha-", "ha-", "s", "");
 INSERT INTO `wced_entry` VALUES (5694, "haa", "282", "<entry page=""282"" id=""5694""><form id=""haxa"" lang=""ceb"">háa</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxin"">= <sc>háin</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxin""><sc>háin</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5694, "háa", "haa", "m", "");
 INSERT INTO `wced_entry` VALUES (5695, "hab", "282", "<entry page=""282"" id=""5695""><form id=""haxb"" lang=""ceb"">háb</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxlab"">= <sc>hálab</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxlab""><sc>hálab</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5695, "háb", "hab", "m", "");
@@ -177,7 +177,7 @@ INSERT INTO `wced_entry` VALUES (5704, "habas1", "283", "<entry page=""283"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5704, "hábas", "habas", "s", "nv");
 INSERT INTO `wced_entry` VALUES (5705, "habas2", "283", "<entry page=""283"" id=""5705""><form id=""haxbas2"" lang=""ceb"">hábas<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halaxbas"">= <sc>halábas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halaxbas""><sc>halábas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5705, "hábas", "habas", "s", "");
@@ -195,7 +195,7 @@ INSERT INTO `wced_entry` VALUES (5707, "habasan", "283", "<entry page=""283"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5707, "habásan", "habasan", "m", "n");
 INSERT INTO `wced_entry` VALUES (5708, "habaw", "283", "<entry page=""283"" id=""5708""><form id=""haxbaw"" lang=""ceb"">hábaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxbal"">= <sc>hábal</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxbal""><sc>hábal</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5708, "hábaw", "habaw", "m", "");
@@ -209,7 +209,7 @@ INSERT INTO `wced_entry` VALUES (5709, "habay", "283", "<entry page=""283"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5709, "habay", "habay", "m", "n");
 INSERT INTO `wced_entry` VALUES (5710, "habay", "283", "<entry page=""283"" id=""5710""><form id=""haxbay"" lang=""ceb"">hábay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxin_bay"">= <sc>háin bay</sc>.</xr> <xr lang=""ceb"" target=""#haxin""><ix>see</ix> <sc>háin</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxin_bay""><sc>háin bay</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#haxin""><sc>háin</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5710, "hábay", "habay", "m", "");
@@ -290,25 +290,25 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5716
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5716, "crave");
 INSERT INTO `wced_entry` VALUES (5717, "hablun", "283", "<entry page=""283"" id=""5717""><form id=""hablun"" lang=""ceb"">hablun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#habul""><ix>see</ix> <sc>habul<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#habul""><sc>habul<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5717, "hablun", "hablun", "m", "");
 INSERT INTO `wced_entry` VALUES (5718, "*hablus", "283", "<entry page=""283"" id=""5718""><form id=""xxhablus"" lang=""ceb"">*hablus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humablus""><ix>see</ix> <sc>humablus</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#humablus""><sc>humablus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5718, "hablus", "hablus", "s", "");
 INSERT INTO `wced_entry` VALUES (5719, "habu", "283", "<entry page=""283"" id=""5719""><form id=""habuq"" lang=""ceb"">habù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halbuq"">= <sc>halbù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halbuq""><sc>halbù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5719, "habù", "habu", "m", "");
 INSERT INTO `wced_entry` VALUES (5720, "habubuyna", "283", "<entry page=""283"" id=""5720""><form id=""habubuyna"" lang=""ceb"">habubuyna</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hirbubuyna"">= <sc>hirbubuyna</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hirbubuyna""><sc>hirbubuyna</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5720, "habubuyna", "habubuyna", "m", "");
@@ -383,7 +383,7 @@ INSERT INTO `wced_entry` VALUES (5724, "habul1", "283", "<entry page=""283"" id=
 <eg><i lang=""ceb"">Habla ang lánut,</i><trans> Weave the abaca fibers in a hand loom. </trans></eg>
 </sense></hom>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hablun"">= <sc>hablun</sc>, <i lang=""ceb"">1</i>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hablun""><sc>hablun</sc></xr>, <i lang=""ceb"">1</i>. </trans>
 </sense></hom>
 <entry><form id=""haxbul"" lang=""ceb""><abbr expan=""hábul"" type=""lemma"">(←)</abbr><sub>1</sub></form>
 <hom role=""n""><pos>n</pos>
@@ -408,13 +408,13 @@ INSERT INTO `wced_entry` VALUES (5724, "habul1", "283", "<entry page=""283"" id=
 <sense n=""2""><number>2</number><trans> cloth woven in a hand loom. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#habul"">= <sc>habul</sc>, <i lang=""ceb"">v</i>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#habul""><sc>habul</sc></xr>, <i lang=""ceb"">v</i>. </trans>
 </sense>
 <sense n=""2""><number>2</number> <itype>[A; b6]</itype><trans> wear hand-woven cloth. </trans>
 </sense></hom></entry>
 <entry><form id=""halablan_hagbanan_hagbunan_hablunan_hablanan_halabuxlan"" lang=""ceb"">halablan, hagbanan, hagbunan, hablunan, hablanan, halabúlan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hablun"">= <sc>hablun</sc>, <ix>n 1</ix>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hablun""><sc>hablun</sc></xr>, <ix>n 1</ix>. </trans>
 </sense></hom></entry>
 <entry><form id=""habulhabul"" lang=""ceb"">habulhabul</form>
 <hom role=""n""><pos>n</pos>
@@ -456,7 +456,7 @@ INSERT INTO `wced_entry` VALUES (5726, "habul2", "284", "<entry page=""284"" id=
 </sense></hom>
 <entry><form id=""habul"" lang=""ceb""><abbr expan=""habul"" type=""lemma"">(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxbul"">= <sc>hábul</sc>, <i lang=""ceb"">a</i>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxbul""><sc>hábul</sc></xr>, <i lang=""ceb"">a</i>. </trans>
 </sense></hom></entry>
 <entry><form id=""habulan"" lang=""ceb""><abbr expan=""habulan"" type=""lemma"">-an(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
@@ -522,25 +522,25 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5729
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5729, "panghabyug", "panghabyug", "s", "vn");
 INSERT INTO `wced_entry` VALUES (5730, "had", "284", "<entry page=""284"" id=""5730""><form id=""haxd"" lang=""ceb"">hád</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxlad"">= <sc>hálad</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxlad""><sc>hálad</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5730, "hád", "had", "m", "");
 INSERT INTO `wced_entry` VALUES (5731, "hadag", "284", "<entry page=""284"" id=""5731""><form id=""hadag"" lang=""ceb"">hadag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#harag"">= <sc>harag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#harag""><sc>harag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5731, "hadag", "hadag", "m", "");
 INSERT INTO `wced_entry` VALUES (5732, "hadaw", "284", "<entry page=""284"" id=""5732""><form id=""hadaw"" lang=""ceb"">hadaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haraw"">= <sc>haraw</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haraw""><sc>haraw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5732, "hadaw", "hadaw", "m", "");
 INSERT INTO `wced_entry` VALUES (5733, "hadigi", "284", "<entry page=""284"" id=""5733""><form id=""hadixgi"" lang=""ceb"">hadígi</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halixgi"">= <sc>halígi</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halixgi""><sc>halígi</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5733, "hadígi", "hadigi", "m", "");
@@ -632,19 +632,19 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (5736, "frighten");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5736, "fearful");
 INSERT INTO `wced_entry` VALUES (5737, "hadung", "284", "<entry page=""284"" id=""5737""><form id=""haxdung"" lang=""ceb"">hádung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxrung"">= <sc>hárung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxrung""><sc>hárung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5737, "hádung", "hadung", "m", "");
 INSERT INTO `wced_entry` VALUES (5738, "hadus", "284", "<entry page=""284"" id=""5738""><form id=""hadus"" lang=""ceb"">hadus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#harus"">= <sc>harus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#harus""><sc>harus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5738, "hadus", "hadus", "m", "");
 INSERT INTO `wced_entry` VALUES (5739, "hag", "284", "<entry page=""284"" id=""5739""><form id=""haxg"" lang=""ceb"">hág</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxlag"">= <sc>hálag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxlag""><sc>hálag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5739, "hág", "hag", "m", "");
@@ -673,7 +673,7 @@ INSERT INTO `wced_entry` VALUES (5741, "hagabhab1", "284", "<entry page=""284"" 
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5741, "hagabhab", "hagabhab", "s", "av");
 INSERT INTO `wced_entry` VALUES (5742, "hagabhab2", "284", "<entry page=""284"" id=""5742""><form id=""hagabhab2"" lang=""ceb"">hagabhab<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#habhab""><ix>see</ix> <sc>habhab</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#habhab""><sc>habhab</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5742, "hagabhab", "hagabhab", "s", "");
@@ -746,7 +746,7 @@ INSERT INTO `wced_entry` VALUES (5748, "hagal", "285", "<entry page=""285"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5748, "hágal", "hagal", "m", "vn");
 INSERT INTO `wced_entry` VALUES (5749, "hagalam", "285", "<entry page=""285"" id=""5749""><form id=""hagaxlam"" lang=""ceb"">hagálam</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxgaxlam""><ix>see</ix> <sc>*gálam</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxgaxlam""><sc>*gálam</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5749, "hagálam", "hagalam", "m", "");
@@ -770,7 +770,7 @@ INSERT INTO `wced_entry` VALUES (5751, "haganas", "285", "<entry page=""285"" id
 </sense></hom>
 <entry><form id=""haganas"" lang=""ceb""><abbr expan=""haganas"" type=""lemma"">(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hagaxnas"">= <sc>hagánas</sc>, <i lang=""ceb"">n</i>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hagaxnas""><sc>hagánas</sc></xr>, <i lang=""ceb"">n</i>. </trans>
 </sense></hom></entry>
 <entry><form id=""hinagaxnas"" lang=""ceb""><abbr expan=""hinagánas"" type=""lemma"">-in-</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -874,13 +874,13 @@ INSERT INTO `wced_entry` VALUES (5759, "hagba", "285", "<entry page=""285"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5759, "hagbà", "hagba", "m", "vn");
 INSERT INTO `wced_entry` VALUES (5760, "hagbanan", "285", "<entry page=""285"" id=""5760""><form id=""hagbanan"" lang=""ceb"">hagbanan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#habul""><ix>see</ix> <sc>habul<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#habul""><sc>habul<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5760, "hagbanan", "hagbanan", "m", "");
 INSERT INTO `wced_entry` VALUES (5761, "hagbas", "285", "<entry page=""285"" id=""5761""><form id=""hagbas"" lang=""ceb"">hagbas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halaxbas"">= <sc>halábas</sc>, <i lang=""ceb"">1</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halaxbas""><sc>halábas</sc></xr>, <i lang=""ceb"">1</i>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5761, "hagbas", "hagbas", "m", "");
@@ -895,7 +895,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5762
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5762, "hagbáya", "hagbaya", "s", "");
 INSERT INTO `wced_entry` VALUES (5763, "hagbunan", "285", "<entry page=""285"" id=""5763""><form id=""hagbunan"" lang=""ceb"">hagbunan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#habul""><ix>see</ix> <sc>habul<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#habul""><sc>habul<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5763, "hagbunan", "hagbunan", "m", "");
@@ -997,19 +997,19 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5766
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5766, "gleanings");
 INSERT INTO `wced_entry` VALUES (5767, "haghag", "286", "<entry page=""286"" id=""5767""><form id=""haghag"" lang=""ceb"">haghag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halaghag"">= <sc>halaghag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halaghag""><sc>halaghag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5767, "haghag", "haghag", "m", "");
 INSERT INTO `wced_entry` VALUES (5768, "hagid", "286", "<entry page=""286"" id=""5768""><form id=""hagid"" lang=""ceb"">hagid</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxgud"">= <sc>hágud</sc>, <ix>v 2</ix>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxgud""><sc>hágud</sc></xr>, <ix>v 2</ix>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5768, "hagid", "hagid", "m", "");
 INSERT INTO `wced_entry` VALUES (5769, "hagikhik", "286", "<entry page=""286"" id=""5769""><form id=""hagikhik"" lang=""ceb"">hagikhik</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#agik-ik"">= <sc>agik-ik</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#agik-ik""><sc>agik-ik</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5769, "hagikhik", "hagikhik", "m", "");
@@ -1028,7 +1028,7 @@ INSERT INTO `wced_entry` VALUES (5771, "hagimit", "286", "<entry page=""286"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5771, "hagímit", "hagimit", "m", "n");
 INSERT INTO `wced_entry` VALUES (5772, "hagip-ut", "286", "<entry page=""286"" id=""5772""><form id=""hagip-ut"" lang=""ceb"">hagip-ut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#gip-ut"">= <sc>gip-ut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#gip-ut""><sc>gip-ut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5772, "hagip-ut", "hagip-ut", "m", "");
@@ -1066,7 +1066,7 @@ INSERT INTO `wced_entry` VALUES (5774, "hagit", "286", "<entry page=""286"" id="
 </sense></hom></entry>
 <entry><form id=""mahagithagixtun"" lang=""ceb"">mahagithagítun</form>
 <hom role=""a""><pos>a</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#ma-un"">= <sc><abbr expan=""mahigitun"" type=""lemma"">ma-un</abbr></sc>, 1.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#mahigitun""><sc><abbr expan=""mahigitun"" type=""lemma"">ma-un</abbr></sc></xr>, 1.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5774, "hágit", "hagit", "m", "v");
@@ -1142,13 +1142,13 @@ INSERT INTO `wced_entry` VALUES (5780, "hagmangun", "286", "<entry page=""286"" 
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5780, "hagmángun", "hagmangun", "m", "n");
 INSERT INTO `wced_entry` VALUES (5781, "hagmun", "286", "<entry page=""286"" id=""5781""><form id=""hagmun"" lang=""ceb"">hagmun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#sagmun"">= <sc>sagmun</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#sagmun""><sc>sagmun</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5781, "hagmun", "hagmun", "m", "");
 INSERT INTO `wced_entry` VALUES (5782, "hagmuyu", "286", "<entry page=""286"" id=""5782""><form id=""hagmuyuq"" lang=""ceb"">hagmuyù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hasagmuyuq"">= <sc>hasagmuyù</sc>.</xr> <xr lang=""ceb"" target=""#sagmuyuq""><ix>see</ix> <sc>sagmuyù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hasagmuyuq""><sc>hasagmuyù</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#sagmuyuq""><sc>sagmuyù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5782, "hagmuyù", "hagmuyu", "m", "");
@@ -1364,11 +1364,11 @@ INSERT INTO `wced_entry` VALUES (5798, "hagu", "287", "<entry page=""287"" id=""
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> penalty imposed on the loser in a children’s game. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#hatsuy"">= <sc>hatsuy</sc>.</xr> </trans>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#hatsuy""><sc>hatsuy</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""haguq"" lang=""ceb""><abbr expan=""hagù"" type=""lemma"">(→)</abbr></form>
 <hom role=""a""><pos>a</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxguq"">= <sc>hágù</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxguq""><sc>hágù</sc></xr>. </trans>
 </sense></hom>
 <hom role=""n""><pos>n</pos></hom></entry>
 <entry><form id=""walay_haguq"" lang=""ceb"">walay <abbr expan=""hagù"" type=""lemma"">—</abbr></form>
@@ -1432,13 +1432,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5800
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5800, "hinagúran", "hinaguran", "s", "a");
 INSERT INTO `wced_entry` VALUES (5801, "hagudila", "288", "<entry page=""288"" id=""5801""><form id=""hagudilaq"" lang=""ceb"">hagudilà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hagurilaq"">= <sc>hagurilà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hagurilaq""><sc>hagurilà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5801, "hagudilà", "hagudila", "m", "");
 INSERT INTO `wced_entry` VALUES (5802, "hagugma", "288", "<entry page=""288"" id=""5802""><form id=""hagugma"" lang=""ceb"">hagugma</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#higugma"">= <sc>higugma</sc>.</xr> <xr lang=""ceb"" target=""#gugma""><ix>see</ix> <sc>gugma</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#higugma""><sc>higugma</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#gugma""><sc>gugma</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5802, "hagugma", "hagugma", "m", "");
@@ -1497,7 +1497,7 @@ INSERT INTO `wced_entry` VALUES (5805, "hagulhul", "288", "<entry page=""288"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5805, "hagulhul", "hagulhul", "m", "nv");
 INSERT INTO `wced_entry` VALUES (5806, "hagumaa", "288", "<entry page=""288"" id=""5806""><form id=""hagumaxa"" lang=""ceb"">hagumáa</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#agumaxa"">= <sc>agumáa</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#agumaxa""><sc>agumáa</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5806, "hagumáa", "hagumaa", "m", "");
@@ -1527,7 +1527,7 @@ INSERT INTO `wced_entry` VALUES (5808, "hagunub", "288", "<entry page=""288"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5808, "hagúnub", "hagunub", "m", "nv");
 INSERT INTO `wced_entry` VALUES (5809, "hagunus", "288", "<entry page=""288"" id=""5809""><form id=""haguxnus"" lang=""ceb"">hagúnus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haguxrus"">= <sc>hagúrus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haguxrus""><sc>hagúrus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5809, "hagúnus", "hagunus", "m", "");
@@ -1598,13 +1598,13 @@ INSERT INTO `wced_entry` VALUES (5816, "hagus", "288", "<entry page=""288"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5816, "hagus", "hagus", "m", "v");
 INSERT INTO `wced_entry` VALUES (5817, "hagus", "288", "<entry page=""288"" id=""5817""><form id=""haxgus"" lang=""ceb"">hágus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#baxgus"">= <sc>bágus<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#baxgus""><sc>bágus<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5817, "hágus", "hagus", "m", "");
 INSERT INTO `wced_entry` VALUES (5818, "hagusahis", "288", "<entry page=""288"" id=""5818""><form id=""hagusaxhis"" lang=""ceb"">hagusáhis</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#agusahis"">= <sc>agusahis</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#agusahis""><sc>agusahis</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5818, "hagusáhis", "hagusahis", "m", "");
@@ -1615,7 +1615,7 @@ INSERT INTO `wced_entry` VALUES (5819, "hag-ut", "288", "<entry page=""288"" id=
 </sense>
 <sense n=""2""><number>2</number> <itype>[AN; a]</itype><trans> strip the outer part of abaca to get the fibers. </trans>
 </sense>
-<sense n=""3""><number>3</number><trans> <xr lang=""ceb"" target=""#haxgud"">= <sc>hágud</sc>, <ix>n</ix> 2.</xr> </trans>
+<sense n=""3""><number>3</number><trans> = <xr lang=""ceb"" target=""#haxgud""><sc>hágud</sc></xr>, <ix>n</ix> 2. </trans>
 </sense></hom>
 <entry><form id=""hag-utan"" lang=""ceb""><abbr expan=""hag-utan"" type=""lemma"">-an</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -1631,26 +1631,26 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5819
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5819, "manghahag-ut", "manghahag-ut", "s", "n");
 INSERT INTO `wced_entry` VALUES (5820, "haguyag", "288", "<entry page=""288"" id=""5820""><form id=""haguyag"" lang=""ceb"">haguyag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxgud"">= <sc>hágud</sc>, <ix>v</ix> 2.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxgud""><sc>hágud</sc></xr>, <ix>v</ix> 2.
 <pb n=""289""/>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5820, "haguyag", "haguyag", "m", "");
 INSERT INTO `wced_entry` VALUES (5821, "hagwa", "289", "<entry page=""289"" id=""5821""><form id=""hagwaq"" lang=""ceb"">hagwà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hadlaq"">= <sc>hadlà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hadlaq""><sc>hadlà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5821, "hagwà", "hagwa", "m", "");
 INSERT INTO `wced_entry` VALUES (5822, "hagwasun", "289", "<entry page=""289"" id=""5822""><form id=""hagwaxsun"" lang=""ceb"">hagwásun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#agwaxsun"">= <sc>agwásun</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#agwaxsun""><sc>agwásun</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5822, "hagwásun", "hagwasun", "m", "");
 INSERT INTO `wced_entry` VALUES (5823, "hagyung", "289", "<entry page=""289"" id=""5823""><form id=""hagyung"" lang=""ceb"">hagyung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hadiyung"">= <sc>hadiyung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hadiyung""><sc>hadiyung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5823, "hagyung", "hagyung", "m", "");
@@ -1672,7 +1672,7 @@ INSERT INTO `wced_entry` VALUES (5825, "hahay", "289", "<entry page=""289"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5825, "háhay", "hahay", "m", "n");
 INSERT INTO `wced_entry` VALUES (5826, "hai", "289", "<entry page=""289"" id=""5826""><form id=""haxi"" lang=""ceb"">hái</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxin"">= <sc>háin</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxin""><sc>háin</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5826, "hái", "hai", "m", "");
@@ -1773,11 +1773,11 @@ INSERT INTO `wced_entry` VALUES (5831, "haka2", "289", "<entry page=""289"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5831, "hákà", "haka", "s", "av");
 INSERT INTO `wced_entry` VALUES (5832, "hakab", "289", "<entry page=""289"" id=""5832""><form id=""haxkab"" lang=""ceb"">hákab</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#abhak"">= <sc>abhak</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#abhak""><sc>abhak</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""hakabhakab"" lang=""ceb"">hakabhakab</form>
 <hom role=""v""><pos>v</pos>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#hak-abhak-ab"">= <sc>hak-abhak-ab</sc>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#hak-abhak-ab""><sc>hak-abhak-ab</sc></xr>. </trans>
 </sense>
 <sense n=""2""><number>2</number> <itype>[A1; c1]</itype><trans> eat s.t. ravenously with great eagerness. </trans>
 <eg><i lang=""ceb"">Kun gigútum pa nà maghakabhakab untà nag káun,</i><trans> If he were hungry he would have eaten ravenously. </trans></eg>
@@ -1790,7 +1790,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5832
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5832, "hakabhakab", "hakabhakab", "s", "v");
 INSERT INTO `wced_entry` VALUES (5833, "hak-ab", "289", "<entry page=""289"" id=""5833""><form id=""hak-ab"" lang=""ceb"">hak-ab</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#abhak"">= <sc>abhak</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#abhak""><sc>abhak</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""hak-abhak-ab"" lang=""ceb"">hak-abhak-ab</form>
 <hom role=""v""><pos>v</pos>
@@ -1829,7 +1829,7 @@ INSERT INTO `wced_entry` VALUES (5836, "hak-ang", "289", "<entry page=""289"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5836, "hak-ang", "hak-ang", "m", "v");
 INSERT INTO `wced_entry` VALUES (5837, "hakap", "289", "<entry page=""289"" id=""5837""><form id=""hakap"" lang=""ceb"">hakap</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haklap"">= <sc>haklap</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haklap""><sc>haklap</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5837, "hakap", "hakap", "m", "");
@@ -1931,7 +1931,7 @@ INSERT INTO `wced_entry` VALUES (5846, "haknut", "290", "<entry page=""290"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5846, "haknut", "haknut", "m", "av");
 INSERT INTO `wced_entry` VALUES (5847, "hakuhaku", "290", "<entry page=""290"" id=""5847""><form id=""hakuqhakuq"" lang=""ceb"">hakùhakù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hatuqhatuq"">= <sc>hatùhatù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hatuqhatuq""><sc>hatùhatù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5847, "hakùhakù", "hakuhaku", "m", "");
@@ -2000,7 +2000,7 @@ INSERT INTO `wced_entry` VALUES (5850, "hakup1", "290", "<entry page=""290"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5850, "hakup", "hakup", "s", "vn");
 INSERT INTO `wced_entry` VALUES (5851, "hakup2", "290", "<entry page=""290"" id=""5851""><form id=""hakup2"" lang=""ceb"">hakup<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haklup"">= <sc>haklup</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haklup""><sc>haklup</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5851, "hakup", "hakup", "s", "");
@@ -2042,7 +2042,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5853
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5853, "hakutúnun", "hakutunun", "s", "n");
 INSERT INTO `wced_entry` VALUES (5854, "hakwat", "290", "<entry page=""290"" id=""5854""><form id=""hakwat"" lang=""ceb"">hakwat</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#sakwat"">= <sc>sakwat</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#sakwat""><sc>sakwat</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5854, "hakwat", "hakwat", "m", "");
@@ -2212,13 +2212,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5865
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5865, "kahálang", "kahalang", "s", "n");
 INSERT INTO `wced_entry` VALUES (5866, "halanghag", "291", "<entry page=""291"" id=""5866""><form id=""halanghag"" lang=""ceb"">halanghag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#danghag"">= <sc>danghag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#danghag""><sc>danghag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5866, "halanghag", "halanghag", "m", "");
 INSERT INTO `wced_entry` VALUES (5867, "halangdun", "291", "<entry page=""291"" id=""5867""><form id=""halangdun"" lang=""ceb"">halangdun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hangad""><ix>see</ix> <sc>hangad</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#hangad""><sc>hangad</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5867, "halangdun", "halangdun", "m", "");
@@ -2234,14 +2234,14 @@ INSERT INTO `wced_entry` VALUES (5868, "halanggup", "291", "<entry page=""291"" 
 </sense></hom>
 <entry><form id=""hinalanggup"" lang=""ceb""><abbr expan=""hinalanggup"" type=""lemma"">-in-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halanggup"">= <sc>halanggup</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halanggup""><sc>halanggup</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5868, "halanggup", "halanggup", "m", "v");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5868, "hinalanggup", "hinalanggup", "s", "");
 INSERT INTO `wced_entry` VALUES (5869, "halanguhag", "291", "<entry page=""291"" id=""5869""><form id=""halanguhag"" lang=""ceb"">halanguhag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#danghag"">= <sc>danghag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#danghag""><sc>danghag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5869, "halanguhag", "halanguhag", "m", "");
@@ -2281,7 +2281,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5871
 INSERT INTO `wced_entry` VALUES (5872, "*halas2", "291", "<entry page=""291"" id=""5872""><form id=""xxhaxlas2"" lang=""ceb"">*hálas<sub>2</sub></form>
 <entry><form id=""ihaxlas"" lang=""ceb""><abbr expan=""ihálas"" type=""lemma"">i-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#ihaxlas""><ix>see</ix> <sc>ihálas</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#ihaxlas""><sc>ihálas</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5872, "hálas", "halas", "s", "");
@@ -2317,7 +2317,7 @@ INSERT INTO `wced_entry` VALUES (5875, "halayhalay", "291", "<entry page=""291""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5875, "halayhálay", "halayhalay", "m", "v");
 INSERT INTO `wced_entry` VALUES (5876, "halayhay", "291", "<entry page=""291"" id=""5876""><form id=""halayhay"" lang=""ceb"">halayhay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halay"">= <sc>halay</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halay""><sc>halay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5876, "halayhay", "halayhay", "m", "");
@@ -2336,7 +2336,7 @@ INSERT INTO `wced_entry` VALUES (5877, "halbu", "291", "<entry page=""291"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5877, "halbù", "halbu", "m", "av");
 INSERT INTO `wced_entry` VALUES (5878, "halhag", "292", "<entry page=""292"" id=""5878""><form id=""halhag"" lang=""ceb"">halhag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halaghag"">= <sc>halaghag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halaghag""><sc>halaghag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5878, "halhag", "halhag", "m", "");
@@ -2366,7 +2366,7 @@ INSERT INTO `wced_entry` VALUES (5880, "halhal2", "292", "<entry page=""292"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5880, "halhal", "halhal", "s", "v");
 INSERT INTO `wced_entry` VALUES (5881, "hali", "292", "<entry page=""292"" id=""5881""><form id=""haxli"" lang=""ceb"">háli</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#saxli"">= <sc>sáli</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#saxli""><sc>sáli</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5881, "háli", "hali", "m", "");
@@ -2435,7 +2435,7 @@ INSERT INTO `wced_entry` VALUES (5885, "halimbawa", "292", "<entry page=""292"" 
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5885, "halimbawà", "halimbawa", "m", "v");
 INSERT INTO `wced_entry` VALUES (5886, "halilib-un", "292", "<entry page=""292"" id=""5886""><form id=""halilib-un"" lang=""ceb"">halilib-un</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#gabun2"">= <sc>gabun<sub>2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#gabun2""><sc>gabun<sub>2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5886, "halilib-un", "halilib-un", "m", "");
@@ -2502,7 +2502,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5889
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5889, "dragonfly");
 INSERT INTO `wced_entry` VALUES (5890, "haling", "292", "<entry page=""292"" id=""5890""><form id=""haling"" lang=""ceb"">haling</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halin"">= <sc>halin</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halin""><sc>halin</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5890, "haling", "haling", "m", "");
@@ -2525,7 +2525,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5891
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5891, "haling", "haling", "s", "n");
 INSERT INTO `wced_entry` VALUES (5892, "halinub-un", "292", "<entry page=""292"" id=""5892""><form id=""halinub-un"" lang=""ceb"">halinub-un</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#tuxbuq""><ix>see</ix> <sc>túbù</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#tuxbuq""><sc>túbù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5892, "halinub-un", "halinub-un", "m", "");
@@ -2547,7 +2547,7 @@ INSERT INTO `wced_entry` VALUES (5894, "halithalit", "293", "<entry page=""293""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5894, "halithálit", "halithalit", "m", "v");
 INSERT INTO `wced_entry` VALUES (5895, "halla", "293", "<entry page=""293"" id=""5895""><form id=""halla"" lang=""ceb"">halla</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hala""><ix>see</ix> <sc>hala</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#hala""><sc>hala</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5895, "halla", "halla", "m", "");
@@ -2609,7 +2609,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5899
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5899, "hinálù", "hinalu", "s", "n");
 INSERT INTO `wced_entry` VALUES (5900, "hal-u", "293", "<entry page=""293"" id=""5900""><form id=""hal-u"" lang=""ceb"">hal-u</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#alhu"">= <sc>alhu</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#alhu""><sc>alhu</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5900, "hal-u", "hal-u", "m", "");
@@ -2860,7 +2860,7 @@ INSERT INTO `wced_entry` VALUES (5919, "halus", "294", "<entry page=""294"" id="
 <sense n=""3""><number>3</number> <form id=""haxlus_tanan"" lang=""ceb""><abbr expan=""hálus"" type=""lemma"">—</abbr> tanan</form><trans> nearly all. </trans>
 <eg><i lang=""ceb"">Bag-u hálus tanan ang íyang mga ginamitun,</i><trans> Almost all of his equipment is new. </trans></eg>
 </sense>
-<sense n=""4""><number>4</number> <form id=""haxlus_dixliq"" lang=""ceb""><abbr expan=""hálus"" type=""lemma"">—</abbr> dílì</form><trans> <xr lang=""ceb"" target=""#haxlus"">= <sc>hálus</sc>, <i lang=""ceb"">1.</i></xr>
+<sense n=""4""><number>4</number> <form id=""haxlus_dixliq"" lang=""ceb""><abbr expan=""hálus"" type=""lemma"">—</abbr> dílì</form><trans> = <xr lang=""ceb"" target=""#haxlus""><sc>hálus</sc></xr>, <i lang=""ceb"">1.</i>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5919, "hálus", "halus", "m", "");
@@ -2875,7 +2875,7 @@ INSERT INTO `wced_entry` VALUES (5920, "halushus", "294", "<entry page=""294"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5920, "halushus", "halushus", "m", "v");
 INSERT INTO `wced_entry` VALUES (5921, "halut", "294", "<entry page=""294"" id=""5921""><form id=""haxlut"" lang=""ceb"">hálut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halwut"">= <sc>halwut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halwut""><sc>halwut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5921, "hálut", "halut", "m", "");
@@ -2906,7 +2906,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5923
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5923, "cage");
 INSERT INTO `wced_entry` VALUES (5924, "halwan", "294", "<entry page=""294"" id=""5924""><form id=""halwan"" lang=""ceb"">halwan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haluan"">= <sc>haluan</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haluan""><sc>haluan</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5924, "halwan", "halwan", "m", "");
@@ -2943,7 +2943,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (5925, "viscous");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5925, "sticky");
 INSERT INTO `wced_entry` VALUES (5926, "hamag", "294", "<entry page=""294"" id=""5926""><form id=""haxmag"" lang=""ceb"">hámag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hamlag"">= <sc>hamlag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hamlag""><sc>hamlag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5926, "hámag", "hamag", "m", "");
@@ -3009,7 +3009,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (5933, "handbag");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5933, "satchel");
 INSERT INTO `wced_entry` VALUES (5934, "hambat", "295", "<entry page=""295"" id=""5934""><form id=""hambat"" lang=""ceb"">hambat</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hangbat"">= <sc>hangbat</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hangbat""><sc>hangbat</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5934, "hambat", "hambat", "m", "");
@@ -3045,7 +3045,7 @@ INSERT INTO `wced_entry` VALUES (5937, "hambil2", "295", "<entry page=""295"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5937, "hambil", "hambil", "s", "v");
 INSERT INTO `wced_entry` VALUES (5938, "hambilika", "295", "<entry page=""295"" id=""5938""><form id=""hambilika"" lang=""ceb"">hambilika</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#anghilika"">= <sc>anghilika</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#anghilika""><sc>anghilika</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5938, "hambilika", "hambilika", "m", "");
@@ -3076,7 +3076,7 @@ INSERT INTO `wced_entry` VALUES (5940, "hambubukag", "295", "<entry page=""295""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5940, "hambubúkag", "hambubukag", "m", "n");
 INSERT INTO `wced_entry` VALUES (5941, "hambubuyna", "295", "<entry page=""295"" id=""5941""><form id=""hambubuyna"" lang=""ceb"">hambubuyna</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hirbubuyna"">= <sc>hirbubuyna</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hirbubuyna""><sc>hirbubuyna</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5941, "hambubuyna", "hambubuyna", "m", "");
@@ -3104,7 +3104,7 @@ INSERT INTO `wced_entry` VALUES (5942, "hambug", "295", "<entry page=""295"" id=
 </sense></hom></entry>
 <entry><form id=""hambugixra"" lang=""ceb""><abbr expan=""hambugíra"" type=""lemma"">-íra</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#x-ixru"">= <sc><abbr expan=""hambugíru"" type=""lemma"">-íru</abbr></sc> (female).</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hambugixru""><sc><abbr expan=""hambugíru"" type=""lemma"">-íru</abbr></sc></xr> (female). </trans>
 </sense></hom></entry>
 <entry><form id=""hambugixru"" lang=""ceb""><abbr expan=""hambugíru"" type=""lemma"">-íru</abbr></form>
 <hom role=""a""><pos>a</pos>
@@ -3210,7 +3210,7 @@ INSERT INTO `wced_entry` VALUES (5949, "hamil", "296", "<entry page=""296"" id="
 </sense></hom>
 <entry><form id=""haxmil"" lang=""ceb""><abbr expan=""hámil"" type=""lemma"">(←)</abbr></form>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hamil"">= <sc>hamil</sc>, <i lang=""ceb"">2.</i></xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hamil""><sc>hamil</sc></xr>, <i lang=""ceb"">2.</i> </trans>
 </sense></hom>
 <hom role=""a""><pos>a</pos>
 <sense n=""0""><trans> smooth, velvety to the touch. </trans>
@@ -3227,13 +3227,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5949
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5949, "hamilhámil", "hamilhamil", "s", "v");
 INSERT INTO `wced_entry` VALUES (5950, "hamili", "296", "<entry page=""296"" id=""5950""><form id=""hamixliq"" lang=""ceb"">hamílì</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#pixliq""><ix>see</ix> <sc>pílì</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#pixliq""><sc>pílì</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5950, "hamílì", "hamili", "m", "");
 INSERT INTO `wced_entry` VALUES (5951, "hamilsing1", "296", "<entry page=""296"" id=""5951""><form id=""hamilsing"" lang=""ceb"">hamilsing<sub>1</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hamixliq"">= <sc>hamílì</sc>.</xr> <xr lang=""ceb"" target=""#pixliq""><ix>see</ix> <sc>pílì</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hamixliq""><sc>hamílì</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#pixliq""><sc>pílì</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5951, "hamilsing", "hamilsing", "s", "");
@@ -3439,13 +3439,13 @@ INSERT INTO `wced_entry` VALUES (5963, "hampul", "297", "<entry page=""297"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5963, "hampul", "hampul", "m", "vn");
 INSERT INTO `wced_entry` VALUES (5964, "hampuug", "297", "<entry page=""297"" id=""5964""><form id=""hampuug"" lang=""ceb"">hampuug</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#dampuug"">= <sc>dampuug</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#dampuug""><sc>dampuug</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5964, "hampuug", "hampuug", "m", "");
 INSERT INTO `wced_entry` VALUES (5965, "hamtang", "297", "<entry page=""297"" id=""5965""><form id=""hamtang"" lang=""ceb"">hamtang</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#pahamtang""><ix>see</ix> <sc>pahamtang</sc></xr> <ix>under</ix> <sc>butang<sub>1</sub></sc>.
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#pahamtang""><sc>pahamtang</sc></xr> <ix>under</ix> <sc>butang<sub>1</sub></sc>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5965, "hamtang", "hamtang", "m", "");
@@ -3462,25 +3462,25 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5966
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5966, "middle-aged");
 INSERT INTO `wced_entry` VALUES (5967, "hamu", "297", "<entry page=""297"" id=""5967""><form id=""hamuq"" lang=""ceb"">hamù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#gam-ul"">= <sc>gam-ul</sc>, <ix>1.</ix></xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#gam-ul""><sc>gam-ul</sc></xr>, <ix>1.</ix>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5967, "hamù", "hamu", "m", "");
 INSERT INTO `wced_entry` VALUES (5968, "hamug", "297", "<entry page=""297"" id=""5968""><form id=""hamug"" lang=""ceb"">hamug</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hamlug"">= <sc>hamlug</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hamlug""><sc>hamlug</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5968, "hamug", "hamug", "m", "");
 INSERT INTO `wced_entry` VALUES (5969, "hamug", "297", "<entry page=""297"" id=""5969""><form id=""haxmug"" lang=""ceb"">hámug</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#yaxmug"">= <sc>yámug</sc>, <ix>n1, 1a,</ix> <i lang=""ceb"">v</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#yaxmug""><sc>yámug</sc></xr>, <ix>n1, 1a,</ix> <i lang=""ceb"">v</i>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5969, "hámug", "hamug", "m", "");
 INSERT INTO `wced_entry` VALUES (5970, "ham-ug", "297", "<entry page=""297"" id=""5970""><form id=""ham-ug"" lang=""ceb"">ham-ug</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hamlug"">= <sc>hamlug</sc>, <i lang=""ceb"">2.</i></xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hamlug""><sc>hamlug</sc></xr>, <i lang=""ceb"">2.</i>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5970, "ham-ug", "ham-ug", "m", "");
@@ -3504,7 +3504,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5971
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5971, "spacious");
 INSERT INTO `wced_entry` VALUES (5972, "hamuk", "297", "<entry page=""297"" id=""5972""><form id=""hamuk"" lang=""ceb"">hamuk</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#daghan"">= <sc>daghan</sc> (dialectal).</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#daghan""><sc>daghan</sc></xr> (dialectal).
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5972, "hamuk", "hamuk", "m", "");
@@ -3563,7 +3563,7 @@ INSERT INTO `wced_entry` VALUES (5976, "*hamung1", "297", "<entry page=""297"" i
 </sense></hom></entry>
 <entry><form id=""way_hamunghamung"" lang=""ceb"">way hamunghamung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#way_hamung"">= <sc>way hamung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#way_hamung""><sc>way hamung</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5976, "hamung", "hamung", "s", "");
@@ -3571,7 +3571,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5976
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5976, "way hamunghamung", "way hamunghamung", "s", "");
 INSERT INTO `wced_entry` VALUES (5977, "hamung2", "297", "<entry page=""297"" id=""5977""><form id=""hamung2"" lang=""ceb"">hamung<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hamun2"">= <sc>hamun<sub>2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hamun2""><sc>hamun<sub>2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5977, "hamung", "hamung", "s", "");
@@ -3589,7 +3589,7 @@ INSERT INTO `wced_entry` VALUES (5978, "hamus", "297", "<entry page=""297"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5978, "hámus", "hamus", "m", "av");
 INSERT INTO `wced_entry` VALUES (5979, "hamutan", "297", "<entry page=""297"" id=""5979""><form id=""hamuxtan"" lang=""ceb"">hamútan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humuxtan"">= <sc>humútan</sc>.</xr> <xr lang=""ceb"" target=""#humut""><ix>see</ix> <sc>humut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#humuxtan""><sc>humútan</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#humut""><sc>humut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5979, "hamútan", "hamutan", "m", "");
@@ -3626,7 +3626,7 @@ INSERT INTO `wced_entry` VALUES (5981, "hamyang", "297", "<entry page=""297"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5981, "hamyang", "hamyang", "m", "v");
 INSERT INTO `wced_entry` VALUES (5982, "han-", "297", "<entry page=""297"" id=""5982""><form id=""haN-"" lang=""ceb"">haN-</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hin-"">= <sc>hiN-<sub>1</sub></sc>, <i lang=""ceb"">4.</i></xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hin-""><sc>hiN-<sub>1</sub></sc></xr>, <i lang=""ceb"">4.</i>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5982, "haN-", "han-", "m", "");
@@ -3662,7 +3662,7 @@ INSERT INTO `wced_entry` VALUES (5985, "hanab", "297", "<entry page=""297"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5985, "hanab", "hanab", "m", "n");
 INSERT INTO `wced_entry` VALUES (5986, "hanagdung", "297", "<entry page=""297"" id=""5986""><form id=""hanagdung"" lang=""ceb"">hanagdung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hinagdung"">= <sc>hinagdung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hinagdung""><sc>hinagdung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5986, "hanagdung", "hanagdung", "m", "");
@@ -3794,7 +3794,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5992
 INSERT INTO `wced_translation` (entryid, translation) VALUES (5992, "warp threads");
 INSERT INTO `wced_entry` VALUES (5993, "hanayak", "298", "<entry page=""298"" id=""5993""><form id=""hanayak"" lang=""ceb"">hanayak</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hinayak"">= <sc>hinayak</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hinayak""><sc>hinayak</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5993, "hanayak", "hanayak", "m", "");
@@ -3811,13 +3811,13 @@ INSERT INTO `wced_entry` VALUES (5994, "hanayhay", "298", "<entry page=""298"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5994, "hanayhay", "hanayhay", "m", "av");
 INSERT INTO `wced_entry` VALUES (5995, "hanayun", "298", "<entry page=""298"" id=""5995""><form id=""hanayun"" lang=""ceb"">hanayun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hinayun"">= <sc>hinayun</sc></xr>, <xr lang=""ceb"" target=""#daxyun""><ix>see</ix> <sc>dáyun</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hinayun""><sc>hinayun</sc></xr>, <ix>see</ix> <xr lang=""ceb"" target=""#daxyun""><sc>dáyun</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5995, "hanayun", "hanayun", "m", "");
 INSERT INTO `wced_entry` VALUES (5996, "hanbag", "298", "<entry page=""298"" id=""5996""><form id=""hanbag"" lang=""ceb"">hanbag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hambag"">= <sc>hambag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hambag""><sc>hambag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5996, "hanbag", "hanbag", "m", "");
@@ -3866,7 +3866,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5999
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (5999, "handalámay", "handalamay", "s", "n");
 INSERT INTO `wced_entry` VALUES (6000, "handalanaw", "298", "<entry page=""298"" id=""6000""><form id=""handalanaw"" lang=""ceb"">handalanaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#alindaxnaw"">= <sc>alindánaw</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#alindaxnaw""><sc>alindánaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6000, "handalanaw", "handalanaw", "m", "");
@@ -3890,19 +3890,19 @@ INSERT INTO `wced_entry` VALUES (6001, "handalas", "298", "<entry page=""298"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6001, "handalas", "handalas", "m", "av");
 INSERT INTO `wced_entry` VALUES (6002, "handalitik", "299", "<entry page=""299"" id=""6002""><form id=""handalixtik"" lang=""ceb"">handalítik</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#handilixtik"">= <sc>handilítik</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#handilixtik""><sc>handilítik</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6002, "handalítik", "handalitik", "m", "");
 INSERT INTO `wced_entry` VALUES (6003, "handamay", "299", "<entry page=""299"" id=""6003""><form id=""handaxmay"" lang=""ceb"">handámay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#handalaxmay"">= <sc>handalámay</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#handalaxmay""><sc>handalámay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6003, "handámay", "handamay", "m", "");
 INSERT INTO `wced_entry` VALUES (6004, "handanaw", "299", "<entry page=""299"" id=""6004""><form id=""handaxnaw"" lang=""ceb"">handánaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#alindaxnaw"">= <sc>alindánaw</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#alindaxnaw""><sc>alindánaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6004, "handánaw", "handanaw", "m", "");
@@ -3944,13 +3944,13 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6006, "steep");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6006, "steepness");
 INSERT INTO `wced_entry` VALUES (6007, "handilib-un", "299", "<entry page=""299"" id=""6007""><form id=""handilib-un"" lang=""ceb"">handilib-un</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#gabun2"">= <sc>gabun<sub>2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#gabun2""><sc>gabun<sub>2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6007, "handilib-un", "handilib-un", "m", "");
 INSERT INTO `wced_entry` VALUES (6008, "handilika", "299", "<entry page=""299"" id=""6008""><form id=""handilika"" lang=""ceb"">handilika</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#anghilika"">= <sc>anghilika</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#anghilika""><sc>anghilika</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6008, "handilika", "handilika", "m", "");
@@ -4091,7 +4091,7 @@ INSERT INTO `wced_entry` VALUES (6016, "hang", "299", "<entry page=""299"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6016, "hang", "hang", "m", "");
 INSERT INTO `wced_entry` VALUES (6017, "hang", "299", "<entry page=""299"" id=""6017""><form id=""haxng"" lang=""ceb"">háng</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxlang"">= <sc>hálang</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxlang""><sc>hálang</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6017, "háng", "hang", "m", "");
@@ -4140,7 +4140,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6018
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6018, "look up");
 INSERT INTO `wced_entry` VALUES (6019, "hangag", "300", "<entry page=""300"" id=""6019""><form id=""hangag"" lang=""ceb"">hangag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#danghag"">= <sc>danghag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#danghag""><sc>danghag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6019, "hangag", "hangag", "m", "");
@@ -4187,13 +4187,13 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6022, "carelessnes
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6022, "inattentiveness");
 INSERT INTO `wced_entry` VALUES (6023, "hangas", "300", "<entry page=""300"" id=""6023""><form id=""hangas"" lang=""ceb"">hangas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hanglas"">= <sc>hanglas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hanglas""><sc>hanglas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6023, "hangas", "hangas", "m", "");
 INSERT INTO `wced_entry` VALUES (6024, "hangawa", "300", "<entry page=""300"" id=""6024""><form id=""hangaxwa"" lang=""ceb"">hangáwa</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hingaxwa"">= <sc>hingáwa</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hingaxwa""><sc>hingáwa</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6024, "hangáwa", "hangawa", "m", "");
@@ -4240,7 +4240,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6027
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6027, "chickenpox");
 INSERT INTO `wced_entry` VALUES (6028, "hanggab", "300", "<entry page=""300"" id=""6028""><form id=""hanggab"" lang=""ceb"">hanggab</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hanggap"">= <sc>hanggap</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hanggap""><sc>hanggap</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6028, "hanggab", "hanggab", "m", "");
@@ -4278,7 +4278,7 @@ INSERT INTO `wced_entry` VALUES (6031, "hanggaw", "300", "<entry page=""300"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6031, "hanggaw", "hanggaw", "m", "av");
 INSERT INTO `wced_entry` VALUES (6032, "hanggrinid", "300", "<entry page=""300"" id=""6032""><form id=""hanggrinid"" lang=""ceb"">hanggrinid</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#han-grinid"">= <sc>han-grinid</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#han-grinid""><sc>han-grinid</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6032, "hanggrinid", "hanggrinid", "m", "");
@@ -4291,7 +4291,7 @@ INSERT INTO `wced_entry` VALUES (6033, "hanggup1", "300", "<entry page=""300"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6033, "hanggup", "hanggup", "s", "v");
 INSERT INTO `wced_entry` VALUES (6034, "hanggup2", "300", "<entry page=""300"" id=""6034""><form id=""hanggup2"" lang=""ceb"">hanggup<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halanggup"">= <sc>halanggup</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halanggup""><sc>halanggup</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6034, "hanggup", "hanggup", "s", "");
@@ -4311,7 +4311,7 @@ INSERT INTO `wced_entry` VALUES (6036, "hanghang", "300", "<entry page=""300"" i
 <sense n=""1""><number>1</number> <itype>[A; a12]</itype><trans> for infants to have their mouth open, yearning for food. </trans>
 <eg><i lang=""ceb"">Naghanghang ang gutum nga pisù,</i><trans> The hungry nestlings have their mouths open. </trans></eg>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#halhal"">= <sc>halhal</sc>.</xr>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#halhal""><sc>halhal</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6036, "hanghang", "hanghang", "m", "v");
@@ -4332,7 +4332,7 @@ INSERT INTO `wced_entry` VALUES (6037, "hangin", "300", "<entry page=""300"" id=
 <sense n=""5""><number>5</number><trans> force, agency that carries s.t. along or influences s.t. </trans>
 <eg><i lang=""ceb"">Unsang hangínay nagdala nímu dinhi?</i><trans> What brought you here? </trans></eg>
 </sense>
-<sense n=""6""><number>6</number><trans> <xr lang=""ceb"" target=""#bintus"">= <sc>bintus</sc>.</xr> </trans>
+<sense n=""6""><number>6</number><trans> = <xr lang=""ceb"" target=""#bintus""><sc>bintus</sc></xr>. </trans>
 </sense>
 <sense n=""7""><number>7</number> <ix>in phrases:</ix> <form id=""birdi_nga_haxngin"" lang=""ceb"">birdi nga <abbr expan=""hángin"" type=""lemma"">—</abbr></form><trans> </trans>
 </sense></hom>
@@ -4455,7 +4455,7 @@ INSERT INTO `wced_entry` VALUES (6040, "hangitan", "301", "<entry page=""301"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6040, "hangitan", "hangitan", "m", "n");
 INSERT INTO `wced_entry` VALUES (6041, "hangkab", "301", "<entry page=""301"" id=""6041""><form id=""hangkab"" lang=""ceb"">hangkab</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#angkab"">= <sc>angkab</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#angkab""><sc>angkab</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6041, "hangkab", "hangkab", "m", "");
@@ -4559,7 +4559,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6046, "forever");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6046, "eternity");
 INSERT INTO `wced_entry` VALUES (6047, "hanguhag", "302", "<entry page=""302"" id=""6047""><form id=""hanguhag"" lang=""ceb"">hanguhag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#danghag"">= <sc>danghag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#danghag""><sc>danghag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6047, "hanguhag", "hanguhag", "m", "");
@@ -4605,7 +4605,7 @@ INSERT INTO `wced_entry` VALUES (6048, "hangul", "302", "<entry page=""302"" id=
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> take to s.t. greedily. </trans>
 <eg><i lang=""ceb"">Nagkahangulhangul kug káun ug pán kay wà ni sa ámù,</i><trans> I just love to eat bread because we don’t have it at home. </trans></eg>
-<eg><i lang=""ceb"">Kining mga tagabaryu magkahangulhangul ug sini,</i><trans> Those country hicks are avid about movies. <ix>See also</ix> <xr lang=""ceb"" target=""#kinahanglan""><sc>kinahanglan</sc>.</xr>
+<eg><i lang=""ceb"">Kining mga tagabaryu magkahangulhangul ug sini,</i><trans> Those country hicks are avid about movies. <ix>See also</ix> <xr lang=""ceb"" target=""#kinahanglan""><sc>kinahanglan</sc></xr>.
 </trans></eg>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6048, "hangul", "hangul", "m", "a");
@@ -4748,7 +4748,7 @@ INSERT INTO `wced_entry` VALUES (6053, "hangyu", "302", "<entry page=""302"" id=
 </sense></hom>
 <entry><form id=""hangyuq_luxbuq"" lang=""ceb""><abbr expan=""hangyù"" type=""lemma"">—</abbr> lúbù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#luxbuq""><ix>see</ix> <sc>lúbù</sc>.</xr> </trans>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#luxbuq""><sc>lúbù</sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""hangyuaxnan"" lang=""ceb""><abbr expan=""hangyuánan"" type=""lemma"">-ánan</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -4778,7 +4778,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6053, "haggle");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6053, "propose");
 INSERT INTO `wced_entry` VALUES (6054, "hani1", "303", "<entry page=""303"" id=""6054""><form id=""haxni"" lang=""ceb"">háni<sub>1</sub></form>
 <hom>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#unsa"">= <sc>unsa</sc>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#unsa""><sc>unsa</sc></xr>. </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> exclamation of discomfiture upon finding s.t. out. </trans>
 <eg><i lang=""ceb"">Háni ba wà na man diay kuy kwarta sa ákung pitáka,</i><trans> Heavens! I have no more money in my purse.
@@ -4891,25 +4891,25 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6061
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6061, "floor joists");
 INSERT INTO `wced_entry` VALUES (6062, "hanlas", "303", "<entry page=""303"" id=""6062""><form id=""hanlas"" lang=""ceb"">hanlas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hanglas"">= <sc>hanglas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hanglas""><sc>hanglas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6062, "hanlas", "hanlas", "m", "");
 INSERT INTO `wced_entry` VALUES (6063, "hanlilibun", "303", "<entry page=""303"" id=""6063""><form id=""hanlilibun"" lang=""ceb"">hanlilibun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#gabun2"">= <sc>gabun<sub>2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#gabun2""><sc>gabun<sub>2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6063, "hanlilibun", "hanlilibun", "m", "");
 INSERT INTO `wced_entry` VALUES (6064, "hanlilika", "303", "<entry page=""303"" id=""6064""><form id=""hanlilika"" lang=""ceb"">hanlilika</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#anghilika"">= <sc>anghilika</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#anghilika""><sc>anghilika</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6064, "hanlilika", "hanlilika", "m", "");
 INSERT INTO `wced_entry` VALUES (6065, "hanlilitik", "303", "<entry page=""303"" id=""6065""><form id=""hanlilixtik"" lang=""ceb"">hanlilítik</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#handilixtik"">= <sc>handilítik</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#handilixtik""><sc>handilítik</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6065, "hanlilítik", "hanlilitik", "m", "");
@@ -4964,7 +4964,7 @@ INSERT INTO `wced_entry` VALUES (6068, "hantak", "303", "<entry page=""303"" id=
 </sense></hom></entry>
 <entry><form id=""hantakanan"" lang=""ceb""><abbr expan=""hantakanan"" type=""lemma"">-anan(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#x-an"">= <sc><abbr expan=""hantákan"" type=""lemma"">-an</abbr></sc>, <i lang=""ceb"">2.</i></xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hantaxkan""><sc><abbr expan=""hantákan"" type=""lemma"">-an</abbr></sc></xr>, <i lang=""ceb"">2.</i> </trans>
 </sense></hom></entry>
 <entry><form id=""hantakixru"" lang=""ceb""><abbr expan=""hantakíru"" type=""lemma"">-íru</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -4998,7 +4998,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6071
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6071, "hantatansi", "hantatansi", "s", "n");
 INSERT INTO `wced_entry` VALUES (6072, "hantik", "304", "<entry page=""304"" id=""6072""><form id=""hantik"" lang=""ceb"">hantik</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#amimitas"">= <sc>amimitas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#amimitas""><sc>amimitas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6072, "hantik", "hantik", "m", "");
@@ -5008,7 +5008,7 @@ INSERT INTO `wced_entry` VALUES (6073, "hanting", "304", "<entry page=""304"" id
 </sense></hom>
 <entry><form id=""hanting_naxyip"" lang=""ceb""><abbr expan=""hanting"" type=""lemma"">—</abbr> náyip</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hanting"">= <sc>hanting</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hanting""><sc>hanting</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6073, "hanting", "hanting", "m", "n");
@@ -5028,7 +5028,7 @@ INSERT INTO `wced_entry` VALUES (6074, "hantuk", "304", "<entry page=""304"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6074, "hantuk", "hantuk", "m", "vn");
 INSERT INTO `wced_entry` VALUES (6075, "hantung", "304", "<entry page=""304"" id=""6075""><form id=""hantung"" lang=""ceb"">hantung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hamtung"">= <sc>hamtung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hamtung""><sc>hamtung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6075, "hantung", "hantung", "m", "");
@@ -5062,7 +5062,7 @@ INSERT INTO `wced_entry` VALUES (6077, "hanubuy", "304", "<entry page=""304"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6077, "hanubuy", "hanubuy", "m", "av");
 INSERT INTO `wced_entry` VALUES (6078, "hanugun", "304", "<entry page=""304"" id=""6078""><form id=""hanuxgun"" lang=""ceb"">hanúgun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hinuxgun"">= <sc>hinúgun</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hinuxgun""><sc>hinúgun</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6078, "hanúgun", "hanugun", "m", "");
@@ -5143,13 +5143,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6085
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6085, "offer s.t.");
 INSERT INTO `wced_entry` VALUES (6086, "hanyu", "304", "<entry page=""304"" id=""6086""><form id=""hanyuq"" lang=""ceb"">hanyù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hangyuq"">= <sc>hangyù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hangyuq""><sc>hangyù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6086, "hanyù", "hanyu", "m", "");
 INSERT INTO `wced_entry` VALUES (6087, "hap", "304", "<entry page=""304"" id=""6087""><form id=""ha5p"" lang=""ceb"">hā́p</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxlap"">= <sc>hálap</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxlap""><sc>hálap</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6087, "hā́p", "hap", "m", "");
@@ -5192,7 +5192,7 @@ INSERT INTO `wced_entry` VALUES (6090, "hapak", "305", "<entry page=""305"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6090, "hapak", "hapak", "m", "vn");
 INSERT INTO `wced_entry` VALUES (6091, "hapas", "305", "<entry page=""305"" id=""6091""><form id=""hapas"" lang=""ceb"">hapas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haplas"">= <sc>haplas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haplas""><sc>haplas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6091, "hapas", "hapas", "m", "");
@@ -5274,7 +5274,7 @@ INSERT INTO `wced_entry` VALUES (6095, "hapdus", "305", "<entry page=""305"" id=
 </sense></hom>
 <entry><form id=""kahapdus"" lang=""ceb""><abbr expan=""kahapdus"" type=""lemma"">ka-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hapdus"">= <sc>hapdus</sc>, <i lang=""ceb"">n</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hapdus""><sc>hapdus</sc></xr>, <i lang=""ceb"">n</i>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6095, "hapdus", "hapdus", "m", "anv");
@@ -5409,7 +5409,7 @@ INSERT INTO `wced_entry` VALUES (6102, "hapla", "306", "<entry page=""306"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6102, "haplà", "hapla", "m", "va");
 INSERT INTO `wced_entry` VALUES (6103, "haplak", "306", "<entry page=""306"" id=""6103""><form id=""haplak"" lang=""ceb"">haplak</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haklap"">= <sc>haklap</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haklap""><sc>haklap</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6103, "haplak", "haplak", "m", "");
@@ -5468,7 +5468,7 @@ INSERT INTO `wced_entry` VALUES (6106, "haplus", "306", "<entry page=""306"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6106, "haplus", "haplus", "m", "v");
 INSERT INTO `wced_entry` VALUES (6107, "haplut", "306", "<entry page=""306"" id=""6107""><form id=""haplut"" lang=""ceb"">haplut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haplus"">= <sc>haplus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haplus""><sc>haplus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6107, "haplut", "haplut", "m", "");
@@ -5492,7 +5492,7 @@ INSERT INTO `wced_entry` VALUES (6109, "hapnig", "306", "<entry page=""306"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6109, "hapnig", "hapnig", "m", "v");
 INSERT INTO `wced_entry` VALUES (6110, "hapnut", "306", "<entry page=""306"" id=""6110""><form id=""hapnut"" lang=""ceb"">hapnut</form>
 <hom>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#sapnut"">= <sc>sapnut</sc>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#sapnut""><sc>sapnut</sc></xr>. </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> †.
 </trans>
@@ -5500,7 +5500,7 @@ INSERT INTO `wced_entry` VALUES (6110, "hapnut", "306", "<entry page=""306"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6110, "hapnut", "hapnut", "m", "");
 INSERT INTO `wced_entry` VALUES (6111, "hapsa", "306", "<entry page=""306"" id=""6111""><form id=""hapsaq"" lang=""ceb"">hapsà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hagsaq"">= <sc>hagsà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hagsaq""><sc>hagsà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6111, "hapsà", "hapsa", "m", "");
@@ -5605,7 +5605,7 @@ INSERT INTO `wced_entry` VALUES (6118, "hapun", "306", "<entry page=""306"" id="
 </sense></hom>
 <entry><form id=""isda_sa_hapun"" lang=""ceb"">isda sa <abbr expan=""hapun"" type=""lemma"">—</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#suxlid2"">= <sc>súlid<sub>2</sub></sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#suxlid2""><sc>súlid<sub>2</sub></sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""papil_nga_sa_dihapun"" lang=""ceb"">papil nga, sa, <abbr expan=""dihapun"" type=""lemma"">di-</abbr></form>
 <hom>
@@ -5666,7 +5666,7 @@ INSERT INTO `wced_entry` VALUES (6119, "hapun", "307", "<entry page=""307"" id="
 <hom>
 <sense n=""1""><number>1</number><trans> every afternoon. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#ginamusginaxmus"">= <sc>ginamusginámus</sc></xr>, <xr lang=""ceb"" target=""#gamus""><ix>see</ix> <sc>gamus</sc>.</xr> </trans>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#ginamusginaxmus""><sc>ginamusginámus</sc></xr>, <ix>see</ix> <xr lang=""ceb"" target=""#gamus""><sc>gamus</sc></xr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A1; b5]</itype><trans> do s.t. every afternoon. </trans>
@@ -5773,14 +5773,14 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6120, "strike");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6120, "whip");
 INSERT INTO `wced_entry` VALUES (6121, "hapuy, hapuy", "307", "<entry page=""307"" id=""6121""><form id=""hapuy_haxpuy"" lang=""ceb"">hapuy, hápuy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hapluy"">= <sc>hapluy</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hapluy""><sc>hapluy</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6121, "hapuy", "hapuy", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6121, "hápuy", "hapuy", "s", "");
 INSERT INTO `wced_entry` VALUES (6122, "hapuyhapuy", "307", "<entry page=""307"" id=""6122""><form id=""hapuyhaxpuy"" lang=""ceb"">hapuyhápuy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hapuxhap"">= <sc>hapúhap</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hapuxhap""><sc>hapúhap</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6122, "hapuyhápuy", "hapuyhapuy", "m", "");
@@ -5815,7 +5815,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6124
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6124, "queen");
 INSERT INTO `wced_entry` VALUES (6125, "harab", "307", "<entry page=""307"" id=""6125""><form id=""haxrab"" lang=""ceb"">hárab</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#axrab2"">= <sc>árab<sub>2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#axrab2""><sc>árab<sub>2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6125, "hárab", "harab", "m", "");
@@ -5842,7 +5842,7 @@ INSERT INTO `wced_entry` VALUES (6127, "harabi", "307", "<entry page=""307"" id=
 </sense></hom>
 <entry><form id=""haraxbi_dituxlu"" lang=""ceb""><abbr expan=""harábi"" type=""lemma"">—</abbr> ditúlu</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haraxbi"">= <sc>harábi</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haraxbi""><sc>harábi</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6127, "harábi", "harabi", "m", "n");
@@ -5938,7 +5938,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6133
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6133, "done carelessly");
 INSERT INTO `wced_entry` VALUES (6134, "harat", "308", "<entry page=""308"" id=""6134""><form id=""haxrat"" lang=""ceb"">hárat</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#kaxras"">= <sc>káras<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kaxras""><sc>káras<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6134, "hárat", "harat", "m", "");
@@ -5957,13 +5957,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6135
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6135, "haraw ka-[root]", "haraw ka-[root]", "s", "");
 INSERT INTO `wced_entry` VALUES (6136, "harayharay", "308", "<entry page=""308"" id=""6136""><form id=""harayhaxray"" lang=""ceb"">harayháray</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halayhaxlay"">= <sc>halayhálay</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halayhaxlay""><sc>halayhálay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6136, "harayháray", "harayharay", "m", "");
 INSERT INTO `wced_entry` VALUES (6137, "harbas", "308", "<entry page=""308"" id=""6137""><form id=""harbas"" lang=""ceb"">harbas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halaxbas"">= <sc>halábas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halaxbas""><sc>halábas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6137, "harbas", "harbas", "m", "");
@@ -6010,7 +6010,7 @@ INSERT INTO `wced_entry` VALUES (6141, "hari", "308", "<entry page=""308"" id=""
 </sense></hom>
 <entry><form id=""ihari"" lang=""ceb""><abbr expan=""ihari"" type=""lemma"">i-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hari"">= <sc>hari</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hari""><sc>hari</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6141, "hari", "hari", "m", "");
@@ -6149,7 +6149,7 @@ INSERT INTO `wced_entry` VALUES (6147, "harining", "309", "<entry page=""309"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6147, "haríning", "harining", "m", "n");
 INSERT INTO `wced_entry` VALUES (6148, "harsi", "309", "<entry page=""309"" id=""6148""><form id=""harsi"" lang=""ceb"">harsi</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halsi"">= <sc>halsi</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halsi""><sc>halsi</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6148, "harsi", "harsi", "m", "");
@@ -6177,7 +6177,7 @@ INSERT INTO `wced_entry` VALUES (6150, "harug1", "309", "<entry page=""309"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6150, "harug", "harug", "s", "nv");
 INSERT INTO `wced_entry` VALUES (6151, "haruhas", "309", "<entry page=""309"" id=""6151""><form id=""haruhas"" lang=""ceb"">haruhas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#harasharas"">= <sc>harasharas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#harasharas""><sc>harasharas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6151, "haruhas", "haruhas", "m", "");
@@ -6193,7 +6193,7 @@ INSERT INTO `wced_entry` VALUES (6152, "haruhay", "309", "<entry page=""309"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6152, "harúhay", "haruhay", "m", "av");
 INSERT INTO `wced_entry` VALUES (6153, "harun", "309", "<entry page=""309"" id=""6153""><form id=""harun"" lang=""ceb"">harun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#arun"">= <sc>arun</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#arun""><sc>arun</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6153, "harun", "harun", "m", "");
@@ -6246,7 +6246,7 @@ INSERT INTO `wced_entry` VALUES (6156, "haruyharuy", "309", "<entry page=""309""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6156, "haruyháruy", "haruyharuy", "m", "v");
 INSERT INTO `wced_entry` VALUES (6157, "has", "309", "<entry page=""309"" id=""6157""><form id=""haxs"" lang=""ceb"">hás</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxlas_2"">= <sc>hálas<sub>1, 2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haxlas_2""><sc>hálas<sub>1, 2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6157, "hás", "has", "m", "");
@@ -6343,7 +6343,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6165, "rampant");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6165, "full swing");
 INSERT INTO `wced_entry` VALUES (6166, "hasindiru", "309", "<entry page=""309"" id=""6166""><form id=""hasindixru"" lang=""ceb"">hasindíru</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#asindixru"">= <sc>asindíru</sc>.</xr> <xr lang=""ceb"" target=""#asinda""><ix>see</ix> <sc>asinda</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#asindixru""><sc>asindíru</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#asinda""><sc>asinda</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6166, "hasindíru", "hasindiru", "m", "n");
@@ -6469,7 +6469,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6175
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6175, "hasta labista", "hasta labista", "s", "");
 INSERT INTO `wced_entry` VALUES (6176, "hastilan", "310", "<entry page=""310"" id=""6176""><form id=""hastilan"" lang=""ceb"">hastilan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#pastilan"">= <sc>pastilan</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#pastilan""><sc>pastilan</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6176, "hastilan", "hastilan", "m", "");
@@ -6482,7 +6482,7 @@ INSERT INTO `wced_entry` VALUES (6177, "hasu1", "310", "<entry page=""310"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6177, "hasù", "hasu", "s", "v");
 INSERT INTO `wced_entry` VALUES (6178, "hasu2", "310", "<entry page=""310"" id=""6178""><form id=""hasuq2"" lang=""ceb"">hasù<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hasluq"">= <sc>haslù<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hasluq""><sc>haslù<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6178, "hasù", "hasu", "s", "");
@@ -6586,7 +6586,7 @@ INSERT INTO `wced_entry` VALUES (6183, "haswa", "311", "<entry page=""311"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6183, "haswà", "haswa", "m", "v");
 INSERT INTO `wced_entry` VALUES (6184, "hasyinda", "311", "<entry page=""311"" id=""6184""><form id=""hasyinda"" lang=""ceb"">hasyinda</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#asyinda"">= <sc>asyinda</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#asyinda""><sc>asyinda</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6184, "hasyinda", "hasyinda", "m", "");
@@ -6687,7 +6687,7 @@ INSERT INTO `wced_entry` VALUES (6187, "hatag", "311", "<entry page=""311"" id="
 </sense></hom></entry>
 <entry><form id=""halatagun_hatagunun"" lang=""ceb""><abbr expan=""halatagun"" type=""lemma"">-l-un(→)</abbr>, <abbr expan=""hatagunun"" type=""lemma"">-unun(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#x-l-anrx"">= <sc><abbr expan=""halatagan"" type=""lemma"">-l-an(→)</abbr></sc>, <i lang=""ceb"">1.</i></xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halatagan""><sc><abbr expan=""halatagan"" type=""lemma"">-l-an(→)</abbr></sc></xr>, <i lang=""ceb"">1.</i>
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6187, "hátag", "hatag", "m", "vn");
@@ -6790,7 +6790,7 @@ INSERT INTO `wced_entry` VALUES (6193, "hati", "311", "<entry page=""311"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6193, "hátì", "hati", "m", "v");
 INSERT INTO `wced_entry` VALUES (6194, "hat kik", "312", "<entry page=""312"" id=""6194""><form id=""hat_kixk"" lang=""ceb"">hat kík</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hagkik"">= <sc>hagkik</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hagkik""><sc>hagkik</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6194, "hat kík", "hat kik", "m", "");
@@ -6803,7 +6803,7 @@ INSERT INTO `wced_entry` VALUES (6195, "hatsa1", "312", "<entry page=""312"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6195, "hatsa", "hatsa", "s", "a");
 INSERT INTO `wced_entry` VALUES (6196, "hatsa2", "312", "<entry page=""312"" id=""6196""><form id=""hatsa2"" lang=""ceb"">hatsa<sub>2</sub></form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#atsa"">= <sc>atsa</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#atsa""><sc>atsa</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6196, "hatsa", "hatsa", "s", "n");
@@ -6836,7 +6836,7 @@ INSERT INTO `wced_entry` VALUES (6198, "hatsuy", "312", "<entry page=""312"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6198, "hatsuy", "hatsuy", "m", "nv");
 INSERT INTO `wced_entry` VALUES (6199, "hatub", "312", "<entry page=""312"" id=""6199""><form id=""haxtub"" lang=""ceb"">hátub</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hagtub"">= <sc>hagtub</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hagtub""><sc>hagtub</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6199, "hátub", "hatub", "m", "");
@@ -6920,7 +6920,7 @@ INSERT INTO `wced_entry` VALUES (6202, "hatul", "312", "<entry page=""312"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6202, "hátul", "hatul", "m", "v");
 INSERT INTO `wced_entry` VALUES (6203, "hatum", "312", "<entry page=""312"" id=""6203""><form id=""haxtum"" lang=""ceb"">hátum</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#saxtum"">= <sc>sátum</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#saxtum""><sc>sátum</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6203, "hátum", "hatum", "m", "");
@@ -7023,9 +7023,9 @@ INSERT INTO `wced_entry` VALUES (6207, "hawa", "312", "<entry page=""312"" id=""
 </sense></hom></entry>
 <entry><form id=""pahawaq"" lang=""ceb""><abbr expan=""pahawà"" type=""lemma"">pa-</abbr></form>
 <hom role=""v""><pos>v</pos>
-<sense n=""1""><number>1</number> <itype>[A2; b(1)]</itype><trans> <xr lang=""ceb"" target=""#haxwaq"">= <sc>háwà</sc>, <i lang=""ceb"">1.</i></xr> </trans>
+<sense n=""1""><number>1</number> <itype>[A2; b(1)]</itype><trans> = <xr lang=""ceb"" target=""#haxwaq""><sc>háwà</sc></xr>, <i lang=""ceb"">1.</i> </trans>
 </sense>
-<sense n=""2""><number>2</number> <itype>[AP; aP]</itype><trans> <xr lang=""ceb"" target=""#haxwaq"">= <sc>háwà</sc>, <i lang=""ceb"">2.</i></xr>
+<sense n=""2""><number>2</number> <itype>[AP; aP]</itype><trans> = <xr lang=""ceb"" target=""#haxwaq""><sc>háwà</sc></xr>, <i lang=""ceb"">2.</i>
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6207, "hawà", "hawa", "m", "av");
@@ -7197,7 +7197,7 @@ INSERT INTO `wced_entry` VALUES (6214, "haway", "313", "<entry page=""313"" id="
 </sense>
 <sense n=""2""><number>2</number><trans> k.o. sweet large-sized <tr>pineapple</tr>. </trans>
 </sense>
-<sense n=""3""><number>3</number> <form id=""gaxbi_sa_haway"" lang=""ceb"">gábi sa <abbr expan=""haway"" type=""lemma"">—</abbr></form><trans> <xr lang=""ceb"" target=""#bisul"">= <sc>bisul</sc>.</xr>
+<sense n=""3""><number>3</number> <form id=""gaxbi_sa_haway"" lang=""ceb"">gábi sa <abbr expan=""haway"" type=""lemma"">—</abbr></form><trans> = <xr lang=""ceb"" target=""#bisul""><sc>bisul</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6214, "haway", "haway", "m", "n");
@@ -7206,7 +7206,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6214, "Hawaii");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6214, "pineapple");
 INSERT INTO `wced_entry` VALUES (6215, "hawaya", "313", "<entry page=""313"" id=""6215""><form id=""hawaxyaq"" lang=""ceb"">hawáyà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulaxyaq"">= <sc>huláyà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulaxyaq""><sc>huláyà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6215, "hawáyà", "hawaya", "m", "");
@@ -7240,7 +7240,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6217
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6217, "empty");
 INSERT INTO `wced_entry` VALUES (6218, "hawhaw2", "314", "<entry page=""314"" id=""6218""><form id=""hawhaw2"" lang=""ceb"">hawhaw<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hagawhaw"">= <sc>hagawhaw</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hagawhaw""><sc>hagawhaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6218, "hawhaw", "hawhaw", "s", "");
@@ -7328,13 +7328,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6221
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6221, "pamaháwin", "pamahawin", "s", "n");
 INSERT INTO `wced_entry` VALUES (6222, "hawla", "314", "<entry page=""314"" id=""6222""><form id=""hawla"" lang=""ceb"">hawla</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halwa"">= <sc>halwa</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halwa""><sc>halwa</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6222, "hawla", "hawla", "m", "");
 INSERT INTO `wced_entry` VALUES (6223, "hawlut", "314", "<entry page=""314"" id=""6223""><form id=""hawlut"" lang=""ceb"">hawlut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halwut"">= <sc>halwut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halwut""><sc>halwut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6223, "hawlut", "hawlut", "m", "");
@@ -7349,7 +7349,7 @@ INSERT INTO `wced_entry` VALUES (6224, "hawsir", "314", "<entry page=""314"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6224, "hawsir", "hawsir", "m", "nv");
 INSERT INTO `wced_entry` VALUES (6225, "hawu-", "314", "<entry page=""314"" id=""6225""><form id=""hawu-"" lang=""ceb"">hawu-</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halu-""><ix>see also</ix> <sc>halu-</sc>.</xr>
+<sense n=""0""><trans> <ix>see also</ix> <xr lang=""ceb"" target=""#halu-""><sc>halu-</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6225, "hawu-", "hawu-", "m", "");
@@ -7376,7 +7376,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6226, "best");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6226, "tops");
 INSERT INTO `wced_entry` VALUES (6227, "hawughug", "314", "<entry page=""314"" id=""6227""><form id=""hawughug"" lang=""ceb"">hawughug</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halughug"">= <sc>halughug<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halughug""><sc>halughug<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6227, "hawughug", "hawughug", "m", "");
@@ -7395,7 +7395,7 @@ INSERT INTO `wced_entry` VALUES (6229, "hawus", "314", "<entry page=""314"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6229, "hawus", "hawus", "m", "v");
 INSERT INTO `wced_entry` VALUES (6230, "hawut", "314", "<entry page=""314"" id=""6230""><form id=""haxwut"" lang=""ceb"">háwut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halwut"">= <sc>halwut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halwut""><sc>halwut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6230, "háwut", "hawut", "m", "");
@@ -7423,13 +7423,13 @@ INSERT INTO `wced_entry` VALUES (6233, "hay2", "314", "<entry page=""314"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6233, "háy", "hay", "s", "v");
 INSERT INTO `wced_entry` VALUES (6234, "hay3", "314", "<entry page=""314"" id=""6234""><form id=""haxy3"" lang=""ceb"">háy<sub>3</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halay"">= <sc>halay</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halay""><sc>halay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6234, "háy", "hay", "s", "");
 INSERT INTO `wced_entry` VALUES (6235, "haya", "314", "<entry page=""314"" id=""6235""><form id=""hayaq"" lang=""ceb"">hayà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#walaq"">= <sc>walà</sc> (dialectal).</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#walaq""><sc>walà</sc></xr> (dialectal).
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6235, "hayà", "haya", "m", "");
@@ -7504,7 +7504,7 @@ INSERT INTO `wced_entry` VALUES (6239, "hayag", "315", "<entry page=""315"" id="
 <eg><i lang=""ceb"">Hayági mi sa ímung diyusnung gahum,</i><trans> Enlighten us through your divine power. </trans></eg>
 </sense></hom>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#ka-"">= <sc>ka-</sc>, <i lang=""ceb"">1.</i></xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#ka-""><sc>ka-</sc></xr>, <i lang=""ceb"">1.</i> </trans>
 </sense></hom>
 <entry><form id=""pahaxyag"" lang=""ceb""><abbr expan=""paháyag"" type=""lemma"">pa-</abbr></form>
 <hom role=""v""><pos>v</pos>
@@ -7570,7 +7570,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6239, "bright");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6239, "well-illuminated");
 INSERT INTO `wced_entry` VALUES (6240, "hayaghag", "315", "<entry page=""315"" id=""6240""><form id=""hayaghag"" lang=""ceb"">hayaghag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halaghag"">= <sc>halaghag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halaghag""><sc>halaghag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6240, "hayaghag", "hayaghag", "m", "");
@@ -7686,7 +7686,7 @@ INSERT INTO `wced_entry` VALUES (6244, "hayang", "315", "<entry page=""315"" id=
 </sense></hom></entry>
 <entry><form id=""kulub_hayang"" lang=""ceb"">kulub hayang</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#kulub""><ix>see</ix> <sc>kulub</sc>.</xr> </trans>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#kulub""><sc>kulub</sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""pahayang_hipahayang_hapahayang"" lang=""ceb""><abbr expan=""pahayang/hipahayang/hapahayang"" type=""lemma"">pa-/hipa-/hapa-</abbr></form>
 <hom role=""v""><pos>v</pos>
@@ -7695,7 +7695,7 @@ INSERT INTO `wced_entry` VALUES (6244, "hayang", "315", "<entry page=""315"" id=
 </sense></hom></entry>
 <entry><form id=""tighayang"" lang=""ceb""><abbr expan=""tighayang"" type=""lemma"">tig-(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#tighayaq"">= <sc>tighayà</sc>.</xr> <xr lang=""ceb"" target=""#haxyaq""><ix>see</ix> <sc>háyà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#tighayaq""><sc>tighayà</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#haxyaq""><sc>háyà</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6244, "hayang", "hayang", "m", "v");
@@ -7797,7 +7797,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6250, "haughty");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6250, "snobbish");
 INSERT INTO `wced_entry` VALUES (6251, "hayhay1", "316", "<entry page=""316"" id=""6251""><form id=""hayhay"" lang=""ceb"">hayhay<sub>1</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halay"">= <sc>halay</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halay""><sc>halay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6251, "hayhay", "hayhay", "s", "");
@@ -8028,7 +8028,7 @@ INSERT INTO `wced_entry` VALUES (6270, "hiay", "317", "<entry page=""317"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6270, "hiay", "hiay", "m", "v");
 INSERT INTO `wced_entry` VALUES (6271, "hibabuyna", "317", "<entry page=""317"" id=""6271""><form id=""hibabuyna"" lang=""ceb"">hibabuyna</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hirbubuyna"">= <sc>hirbubuyna</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hirbubuyna""><sc>hirbubuyna</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6271, "hibabuyna", "hibabuyna", "m", "");
@@ -8044,31 +8044,31 @@ INSERT INTO `wced_entry` VALUES (6272, "hibag", "317", "<entry page=""317"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6272, "híbag", "hibag", "m", "va");
 INSERT INTO `wced_entry` VALUES (6273, "hibag", "317", "<entry page=""317"" id=""6273""><form id=""hibaxg"" lang=""ceb"">hibág</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hibaxlag"">= <sc>hibálag</sc>.</xr> <xr lang=""ceb"" target=""#xxbaxlag""><ix>see</ix> <sc>*bálag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hibaxlag""><sc>hibálag</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#xxbaxlag""><sc>*bálag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6273, "hibág", "hibag", "m", "");
 INSERT INTO `wced_entry` VALUES (6274, "hibal", "317", "<entry page=""317"" id=""6274""><form id=""hixbal"" lang=""ceb"">híbal</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hixbag"">= <sc>híbag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hixbag""><sc>híbag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6274, "híbal", "hibal", "m", "");
 INSERT INTO `wced_entry` VALUES (6275, "hibalag", "317", "<entry page=""317"" id=""6275""><form id=""hibaxlag"" lang=""ceb"">hibálag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxbaxlag""><ix>see</ix> <sc>*bálag</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxbaxlag""><sc>*bálag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6275, "hibálag", "hibalag", "m", "");
 INSERT INTO `wced_entry` VALUES (6276, "hibalu", "317", "<entry page=""317"" id=""6276""><form id=""hibalu"" lang=""ceb"">hibalu</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#balu""><ix>see</ix> <sc>balu</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#balu""><sc>balu</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6276, "hibalu", "hibalu", "m", "");
 INSERT INTO `wced_entry` VALUES (6277, "hibangkaagan", "317", "<entry page=""317"" id=""6277""><form id=""hibangkaaxgan"" lang=""ceb"">hibangkaágan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxbangkaxag""><ix>see</ix> <sc>*bangkáag</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxbangkaxag""><sc>*bangkáag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6277, "hibangkaágan", "hibangkaagan", "m", "");
@@ -8086,7 +8086,7 @@ INSERT INTO `wced_entry` VALUES (6278, "hibat", "317", "<entry page=""317"" id="
 </sense></hom>
 <entry><form id=""hibat"" lang=""ceb""><abbr expan=""hibat"" type=""lemma"">(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hixbat"">= <sc>híbat</sc>, <i lang=""ceb"">a</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hixbat""><sc>híbat</sc></xr>, <i lang=""ceb"">a</i>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6278, "híbat", "hibat", "m", "av");
@@ -8094,7 +8094,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6278
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6278, "unsymmetrical");
 INSERT INTO `wced_entry` VALUES (6279, "hibawu", "317", "<entry page=""317"" id=""6279""><form id=""hibawu"" lang=""ceb"">hibawu</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hibalu"">= <sc>hibalu</sc>.</xr> <xr lang=""ceb"" target=""#balu""><ix>see</ix> <sc>balu</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hibalu""><sc>hibalu</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#balu""><sc>balu</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6279, "hibawu", "hibawu", "m", "");
@@ -8112,7 +8112,7 @@ INSERT INTO `wced_entry` VALUES (6281, "hibi2", "317", "<entry page=""317"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6281, "híbi", "hibi", "s", "n");
 INSERT INTO `wced_entry` VALUES (6282, "hibi, hibi", "317", "<entry page=""317"" id=""6282""><form id=""hibiq_hixbiq"" lang=""ceb"">hibì, híbì</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#tixbiq"">= <sc>tíbì</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#tixbiq""><sc>tíbì</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6282, "hibì", "hibi", "s", "");
@@ -8129,7 +8129,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6283
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6283, "heavy duty");
 INSERT INTO `wced_entry` VALUES (6284, "hibihibi", "317", "<entry page=""317"" id=""6284""><form id=""hibiqhibiq"" lang=""ceb"">hibìhibì</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#kipiqkipiq"">= <sc>kipìkipì</sc>.</xr> <xr lang=""ceb"" target=""#kipiq""><ix>see</ix> <sc>kipì</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kipiqkipiq""><sc>kipìkipì</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#kipiq""><sc>kipì</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6284, "hibìhibì", "hibihibi", "m", "");
@@ -8157,7 +8157,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6286
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6286, "heavyweight boxer");
 INSERT INTO `wced_entry` VALUES (6287, "hibubuyna", "317", "<entry page=""317"" id=""6287""><form id=""hibubuyna"" lang=""ceb"">hibubuyna</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hirbubuyna"">= <sc>hirbubuyna</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hirbubuyna""><sc>hirbubuyna</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6287, "hibubuyna", "hibubuyna", "m", "");
@@ -8191,7 +8191,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6289
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6289, "hibulhíbul", "hibulhibul", "s", "v");
 INSERT INTO `wced_entry` VALUES (6290, "hibulung", "318", "<entry page=""318"" id=""6290""><form id=""hibuxlung"" lang=""ceb"">hibúlung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxbuxlung3""><ix>see</ix> <sc>*búlung<sub>3</sub></sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxbuxlung3""><sc>*búlung<sub>3</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6290, "hibúlung", "hibulung", "m", "");
@@ -8250,7 +8250,7 @@ INSERT INTO `wced_entry` VALUES (6295, "hibus", "318", "<entry page=""318"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6295, "híbus", "hibus", "m", "v");
 INSERT INTO `wced_entry` VALUES (6296, "hibuylas", "318", "<entry page=""318"" id=""6296""><form id=""hibuylas"" lang=""ceb"">hibuylas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxbuylas""><ix>see</ix> <sc>*buylas</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxbuylas""><sc>*buylas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6296, "hibuylas", "hibuylas", "m", "");
@@ -8295,7 +8295,7 @@ INSERT INTO `wced_entry` VALUES (6299, "hidhid1", "318", "<entry page=""318"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6299, "hidhid", "hidhid", "s", "v");
 INSERT INTO `wced_entry` VALUES (6300, "hidhid2", "318", "<entry page=""318"" id=""6300""><form id=""hidhid2"" lang=""ceb"">hidhid<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#lidgid"">= <sc>lidgid</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#lidgid""><sc>lidgid</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6300, "hidhid", "hidhid", "s", "");
@@ -8341,7 +8341,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6303
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6303, "headlights");
 INSERT INTO `wced_entry` VALUES (6304, "higa", "318", "<entry page=""318"" id=""6304""><form id=""hixgaq"" lang=""ceb"">hígà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#higkuq"">= <sc>higkù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#higkuq""><sc>higkù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6304, "hígà", "higa", "m", "");
@@ -8419,7 +8419,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6307, "good friend
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6307, "friendly");
 INSERT INTO `wced_entry` VALUES (6308, "higalam, higam", "318", "<entry page=""318"" id=""6308""><form id=""higaxlam_higaxm"" lang=""ceb"">higálam, higám</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxgaxlam""><ix>see</ix> <sc>*gálam</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxgaxlam""><sc>*gálam</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6308, "higálam", "higalam", "s", "");
@@ -8459,13 +8459,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6310
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6310, "gasbut", "gasbut", "s", "");
 INSERT INTO `wced_entry` VALUES (6311, "higaw", "318", "<entry page=""318"" id=""6311""><form id=""hixgaw"" lang=""ceb"">hígaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hixgal"">= <sc>hígal</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hixgal""><sc>hígal</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6311, "hígaw", "higaw", "m", "");
 INSERT INTO `wced_entry` VALUES (6312, "higayun", "318", "<entry page=""318"" id=""6312""><form id=""higayun"" lang=""ceb"">higayun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#gayun""><ix>see</ix> <sc>gayun</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#gayun""><sc>gayun</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6312, "higayun", "higayun", "m", "");
@@ -8532,7 +8532,7 @@ INSERT INTO `wced_entry` VALUES (6314, "higku", "319", "<entry page=""319"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6314, "higkù", "higku", "m", "av");
 INSERT INTO `wced_entry` VALUES (6315, "higmuyu", "319", "<entry page=""319"" id=""6315""><form id=""higmuyuq"" lang=""ceb"">higmuyù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hisagmuyuq"">= <sc>hisagmuyù</sc>.</xr> <xr lang=""ceb"" target=""#sagmuyuq""><ix>see</ix> <sc>sagmuyù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hisagmuyuq""><sc>hisagmuyù</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#sagmuyuq""><sc>sagmuyù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6315, "higmuyù", "higmuyu", "m", "");
@@ -8741,7 +8741,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6322
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6322, "hínin", "hinin", "s", "v");
 INSERT INTO `wced_entry` VALUES (6323, "hihuba", "320", "<entry page=""320"" id=""6323""><form id=""Hihuxba"" lang=""ceb"">Hihúba</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiyuxba"">= <sc>hiyúba</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiyuxba""><sc>hiyúba</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6323, "Hihúba", "hihuba", "m", "");
@@ -8760,13 +8760,13 @@ INSERT INTO `wced_entry` VALUES (6325, "hikabhikab", "320", "<entry page=""320""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6325, "hikabhikab", "hikabhikab", "m", "v");
 INSERT INTO `wced_entry` VALUES (6326, "hikad", "320", "<entry page=""320"" id=""6326""><form id=""hixkad"" lang=""ceb"">híkad</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiklad"">= <sc>hiklad</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiklad""><sc>hiklad</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6326, "híkad", "hikad", "m", "");
 INSERT INTO `wced_entry` VALUES (6327, "hikadhikad", "320", "<entry page=""320"" id=""6327""><form id=""hikadhikad"" lang=""ceb"">hikadhikad</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hikabhikab"">= <sc>hikabhikab</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hikabhikab""><sc>hikabhikab</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6327, "hikadhikad", "hikadhikad", "m", "");
@@ -8851,7 +8851,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6330, "selfish");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6330, "selfishness");
 INSERT INTO `wced_entry` VALUES (6331, "hikaw2", "320", "<entry page=""320"" id=""6331""><form id=""hixkaw2"" lang=""ceb"">híkaw<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hixgal"">= <sc>hígal</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hixgal""><sc>hígal</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6331, "híkaw", "hikaw", "s", "");
@@ -8907,7 +8907,7 @@ INSERT INTO `wced_entry` VALUES (6333, "hikdat", "321", "<entry page=""321"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6333, "hikdat", "hikdat", "m", "va");
 INSERT INTO `wced_entry` VALUES (6334, "hikihiki", "321", "<entry page=""321"" id=""6334""><form id=""hikiqhixkiq"" lang=""ceb"">hikìhíkì</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hukuqhuxkuq"">= <sc>hukùhúkù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hukuqhuxkuq""><sc>hukùhúkù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6334, "hikìhíkì", "hikihiki", "m", "");
@@ -8964,7 +8964,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6338
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6338, "hiknit", "hiknit", "s", "v");
 INSERT INTO `wced_entry` VALUES (6339, "hiktarya", "321", "<entry page=""321"" id=""6339""><form id=""hiktarya"" lang=""ceb"">hiktarya</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#iktarya"">= <sc>iktarya</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#iktarya""><sc>iktarya</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6339, "hiktarya", "hiktarya", "m", "");
@@ -9007,7 +9007,7 @@ INSERT INTO `wced_entry` VALUES (6342, "hikuhiku", "321", "<entry page=""321"" i
 <eg><i lang=""ceb"">Naghikùhíkù siya pagkinatáwa,</i><trans> She rocked back and forth with laughter. </trans></eg>
 <eg><i lang=""ceb"">Maáyu kaáyu siyang muhikùhíkù sa láwas samtang nagsáyaw,</i><trans> She swayed her body beautifully as she danced. </trans></eg>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#hikluqhikluq"">= <sc>hiklùhiklù</sc>.</xr>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#hikluqhikluq""><sc>hiklùhiklù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6342, "hikùhíkù", "hikuhiku", "m", "v");
@@ -9024,7 +9024,7 @@ INSERT INTO `wced_entry` VALUES (6343, "hikum", "321", "<entry page=""321"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6343, "híkum", "hikum", "m", "va");
 INSERT INTO `wced_entry` VALUES (6344, "hikut1", "321", "<entry page=""321"" id=""6344""><form id=""hikut"" lang=""ceb"">hikut<sub>1</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#higut"">= <sc>higut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#higut""><sc>higut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6344, "hikut", "hikut", "s", "");
@@ -9070,7 +9070,7 @@ INSERT INTO `wced_entry` VALUES (6347, "hikuy", "321", "<entry page=""321"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6347, "hikuy", "hikuy", "m", "v");
 INSERT INTO `wced_entry` VALUES (6348, "hikyad", "321", "<entry page=""321"" id=""6348""><form id=""hikyad"" lang=""ceb"">hikyad</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiklad"">= <sc>hiklad</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiklad""><sc>hiklad</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6348, "hikyad", "hikyad", "m", "");
@@ -9147,7 +9147,7 @@ INSERT INTO `wced_entry` VALUES (6352, "hilab2", "322", "<entry page=""322"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6352, "hílab", "hilab", "s", "nv");
 INSERT INTO `wced_entry` VALUES (6353, "hilabut", "322", "<entry page=""322"" id=""6353""><form id=""hilabut"" lang=""ceb"">hilabut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#laxbut""><ix>see</ix> <sc>lábut</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#laxbut""><sc>lábut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6353, "hilabut", "hilabut", "m", "");
@@ -9157,7 +9157,7 @@ INSERT INTO `wced_entry` VALUES (6354, "hilada", "322", "<entry page=""322"" id=
 </sense>
 <sense n=""2""><number>2</number><trans> drink made with scraped ice, sugar, water, and flavoring. </trans>
 </sense>
-<sense n=""2a""><number>2a</number><trans> <xr lang=""ceb"" target=""#kahilaxda"">= <sc>kahiláda</sc></xr>, <xr lang=""ceb"" target=""#kahil2""><ix>see</ix> <sc>kahil<sub>2</sub></sc>.</xr> </trans>
+<sense n=""2a""><number>2a</number><trans> = <xr lang=""ceb"" target=""#kahilaxda""><sc>kahiláda</sc></xr>, <ix>see</ix> <xr lang=""ceb"" target=""#kahil2""><sc>kahil<sub>2</sub></sc></xr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""1""><number>1</number> <itype>[A; a12]</itype><trans> put food on ice to keep it from spoiling. </trans>
@@ -9191,7 +9191,7 @@ INSERT INTO `wced_entry` VALUES (6355, "hilak", "322", "<entry page=""322"" id="
 </sense></hom></entry>
 <entry><form id=""hilak"" lang=""ceb""><abbr expan=""hilak"" type=""lemma"">(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#ma-rx"">= <sc><abbr expan=""mahilak"" type=""lemma"">ma-(→)</abbr></sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#mahilak""><sc><abbr expan=""mahilak"" type=""lemma"">ma-(→)</abbr></sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""hilakhixlak_hinilakay"" lang=""ceb"">hilakhílak, hinilakay</form>
 <hom role=""a""><pos>a</pos>
@@ -9338,7 +9338,7 @@ INSERT INTO `wced_entry` VALUES (6361, "hilang", "322", "<entry page=""322"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6361, "hilang", "hilang", "m", "av");
 INSERT INTO `wced_entry` VALUES (6362, "hilangyud", "322", "<entry page=""322"" id=""6362""><form id=""hilangyud"" lang=""ceb"">hilangyud</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulangyud"">= <sc>hulangyud</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulangyud""><sc>hulangyud</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6362, "hilangyud", "hilangyud", "m", "");
@@ -9522,7 +9522,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6372, "liking");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6372, "fond of");
 INSERT INTO `wced_entry` VALUES (6373, "hilihud", "323", "<entry page=""323"" id=""6373""><form id=""hilihud"" lang=""ceb"">hilihud</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulihud"">= <sc>hulihud</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulihud""><sc>hulihud</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6373, "hilihud", "hilihud", "m", "");
@@ -9880,13 +9880,13 @@ INSERT INTO `wced_entry` VALUES (6390, "hilwas1", "325", "<entry page=""325"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6390, "hilwas", "hilwas", "s", "nv");
 INSERT INTO `wced_entry` VALUES (6391, "hilwas2", "325", "<entry page=""325"" id=""6391""><form id=""hilwas2"" lang=""ceb"">hilwas<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiluwas"">= <sc>hiluwas</sc>.</xr> <xr lang=""ceb"" target=""#luwas2""><ix>see</ix> <sc>luwas<sub>2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiluwas""><sc>hiluwas</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#luwas2""><sc>luwas<sub>2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6391, "hilwas", "hilwas", "s", "");
 INSERT INTO `wced_entry` VALUES (6392, "himabaw", "325", "<entry page=""325"" id=""6392""><form id=""himaxbaw"" lang=""ceb"">himábaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#babaw""><ix>see</ix> <sc>babaw</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#babaw""><sc>babaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6392, "himábaw", "himabaw", "m", "");
@@ -9975,7 +9975,7 @@ INSERT INTO `wced_entry` VALUES (6399, "him-an(→)", "325", "<entry page=""325"
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6399, "him-an(→)", "him-an(→)", "m", "");
 INSERT INTO `wced_entry` VALUES (6400, "himangnu", "325", "<entry page=""325"" id=""6400""><form id=""himangnuq"" lang=""ceb"">himangnù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#mangnuq""><ix>see</ix> <sc>mangnù</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#mangnuq""><sc>mangnù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6400, "himangnù", "himangnu", "m", "");
@@ -10019,7 +10019,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6403
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6403, "scorn");
 INSERT INTO `wced_entry` VALUES (6404, "himasaw", "325", "<entry page=""325"" id=""6404""><form id=""himaxsaw"" lang=""ceb"">himásaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hilimaxsaw"">= <sc>hilimásaw</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hilimaxsaw""><sc>hilimásaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6404, "himásaw", "himasaw", "m", "");
@@ -10074,7 +10074,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6406
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6406, "decrease");
 INSERT INTO `wced_entry` VALUES (6407, "himbangkaagan", "325", "<entry page=""325"" id=""6407""><form id=""himbangkaaxgan"" lang=""ceb"">himbangkaágan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hibangkaaxgan"">= <sc>hibangkaágan</sc>.</xr> <xr lang=""ceb"" target=""#xxbangkaxag""><ix>see</ix> <sc>*bangkáag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hibangkaaxgan""><sc>hibangkaágan</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#xxbangkaxag""><sc>*bangkáag</sc></xr>.
 <pb n=""326""/>
 </trans>
 </sense></hom></entry>");
@@ -10084,7 +10084,7 @@ INSERT INTO `wced_entry` VALUES (6408, "himbay", "326", "<entry page=""326"" id=
 <sense n=""0""><trans> slow-moving, without energy in walking. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#himbayhimbay"">= <sc>himbayhimbay</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#himbayhimbay""><sc>himbayhimbay</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""himbayhimbay"" lang=""ceb"">himbayhimbay</form>
 <hom role=""v""><pos>v</pos>
@@ -10099,7 +10099,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6408
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6408, "himbayhimbay", "himbayhimbay", "s", "v");
 INSERT INTO `wced_entry` VALUES (6409, "himbis", "326", "<entry page=""326"" id=""6409""><form id=""himbis"" lang=""ceb"">himbis</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hingbis"">= <sc>hingbis</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hingbis""><sc>hingbis</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6409, "himbis", "himbis", "m", "");
@@ -10135,7 +10135,7 @@ INSERT INTO `wced_entry` VALUES (6411, "himi", "326", "<entry page=""326"" id=""
 </sense></hom>
 <entry><form id=""himiq2"" lang=""ceb""><abbr expan=""himì"" type=""lemma"">(→)</abbr><sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hixmiq"">= <sc>hímì</sc>, <i lang=""ceb"">a</i>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hixmiq""><sc>hímì</sc></xr>, <i lang=""ceb"">a</i>. </trans>
 </sense></hom></entry>
 <entry><form id=""himiqhimiq"" lang=""ceb"">himìhimì</form>
 <hom role=""v""><pos>v</pos>
@@ -10185,7 +10185,7 @@ INSERT INTO `wced_entry` VALUES (6414, "himilu", "326", "<entry page=""326"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6414, "himílu", "himilu", "m", "nv");
 INSERT INTO `wced_entry` VALUES (6415, "himisik", "326", "<entry page=""326"" id=""6415""><form id=""himisik"" lang=""ceb"">himisik</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#pisik""><ix>see</ix> <sc>pisik</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#pisik""><sc>pisik</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6415, "himisik", "himisik", "m", "");
@@ -10197,7 +10197,7 @@ INSERT INTO `wced_entry` VALUES (6416, "himnu", "326", "<entry page=""326"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6416, "himnu", "himnu", "m", "n");
 INSERT INTO `wced_entry` VALUES (6417, "himpit", "326", "<entry page=""326"" id=""6417""><form id=""himpit"" lang=""ceb"">himpit</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hingpit"">= <sc>hingpit</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hingpit""><sc>hingpit</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6417, "himpit", "himpit", "m", "");
@@ -10321,7 +10321,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6420
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6420, "maghilímù", "maghilimu", "s", "n");
 INSERT INTO `wced_entry` VALUES (6421, "himughat", "326", "<entry page=""326"" id=""6421""><form id=""himughat"" lang=""ceb"">himughat</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#bughat""><ix>see</ix> <sc>bughat</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#bughat""><sc>bughat</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6421, "himughat", "himughat", "m", "");
@@ -10383,7 +10383,7 @@ INSERT INTO `wced_entry` VALUES (6425, "himulaut", "327", "<entry page=""327"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6425, "himuláut", "himulaut", "m", "v");
 INSERT INTO `wced_entry` VALUES (6426, "himulus", "327", "<entry page=""327"" id=""6426""><form id=""himuxlus"" lang=""ceb"">himúlus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#pulus""><ix>see</ix> <sc>pulus<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#pulus""><sc>pulus<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6426, "himúlus", "himulus", "m", "");
@@ -10400,14 +10400,14 @@ INSERT INTO `wced_entry` VALUES (6427, "himunga", "327", "<entry page=""327"" id
 </sense></hom>
 <entry><form id=""himungaxal"" lang=""ceb""><abbr expan=""himungáal"" type=""lemma"">-an(←)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#himungaq"">= <sc>himungà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#himungaq""><sc>himungà</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6427, "himungà", "himunga", "m", "nv");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6427, "himungáal", "himungaal", "s", "");
 INSERT INTO `wced_entry` VALUES (6428, "himungawung", "327", "<entry page=""327"" id=""6428""><form id=""himungaxwung"" lang=""ceb"">himungáwung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxmungaxlung""><ix>see</ix> <sc>*mungálung</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxmungaxlung""><sc>*mungálung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6428, "himungáwung", "himungawung", "m", "");
@@ -10458,19 +10458,19 @@ INSERT INTO `wced_entry` VALUES (6432, "himus", "327", "<entry page=""327"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6432, "himus", "himus", "m", "av");
 INSERT INTO `wced_entry` VALUES (6433, "himutakal", "327", "<entry page=""327"" id=""6433""><form id=""himutaxkal"" lang=""ceb"">himutákal</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#butakal""><ix>see</ix> <sc>butakal</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#butakal""><sc>butakal</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6433, "himutákal", "himutakal", "m", "");
 INSERT INTO `wced_entry` VALUES (6434, "himut-uk", "327", "<entry page=""327"" id=""6434""><form id=""himut-uk"" lang=""ceb"">himut-uk</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#put-uk""><ix>see</ix> <sc>put-uk</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#put-uk""><sc>put-uk</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6434, "himut-uk", "himut-uk", "m", "");
 INSERT INTO `wced_entry` VALUES (6435, "himuylas", "327", "<entry page=""327"" id=""6435""><form id=""himuylas"" lang=""ceb"">himuylas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#xxbuylas""><ix>see</ix> <sc>*buylas</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#xxbuylas""><sc>*buylas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6435, "himuylas", "himuylas", "m", "");
@@ -10511,14 +10511,14 @@ INSERT INTO `wced_entry` VALUES (6438, "hin-2", "327", "<entry page=""327"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6438, "hiN-", "hin-", "s", "");
 INSERT INTO `wced_entry` VALUES (6439, "hinabdus, hinablus", "327", "<entry page=""327"" id=""6439""><form id=""hinabdus_hinablus"" lang=""ceb"">hinabdus, hinablus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humablus"">= <sc>humablus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#humablus""><sc>humablus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6439, "hinabdus", "hinabdus", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6439, "hinablus", "hinablus", "s", "");
 INSERT INTO `wced_entry` VALUES (6440, "hinabu", "327", "<entry page=""327"" id=""6440""><form id=""hinabuq"" lang=""ceb"">hinabù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#taxbuq""><ix>see</ix> <sc>tábù</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#taxbuq""><sc>tábù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6440, "hinabù", "hinabu", "m", "");
@@ -10576,7 +10576,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6444
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6444, "pahináhin", "pahinahin", "s", "v");
 INSERT INTO `wced_entry` VALUES (6445, "hinalam, hinalam", "328", "<entry page=""328"" id=""6445""><form id=""hinalam_hinaxlam"" lang=""ceb"">hinalam, hinálam</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#higaxlam"">= <sc>higálam</sc>.</xr> <xr lang=""ceb"" target=""#xxgaxlam""><ix>see</ix> <sc>*gálam</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#higaxlam""><sc>higálam</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#xxgaxlam""><sc>*gálam</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6445, "hinalam", "hinalam", "s", "");
@@ -10619,19 +10619,19 @@ INSERT INTO `wced_entry` VALUES (6447, "hin-an(→)", "328", "<entry page=""328"
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6447, "hin-an(→)", "hin-an(→)", "m", "");
 INSERT INTO `wced_entry` VALUES (6448, "hinangiban", "328", "<entry page=""328"" id=""6448""><form id=""hinangiban"" lang=""ceb"">hinangiban</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hinagiban"">= <sc>hinagiban</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hinagiban""><sc>hinagiban</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6448, "hinangiban", "hinangiban", "m", "");
 INSERT INTO `wced_entry` VALUES (6449, "hinangkan", "328", "<entry page=""328"" id=""6449""><form id=""hinangkan"" lang=""ceb"">hinangkan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#anak""><ix>see</ix> <sc>anak</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#anak""><sc>anak</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6449, "hinangkan", "hinangkan", "m", "");
 INSERT INTO `wced_entry` VALUES (6450, "hinanib", "328", "<entry page=""328"" id=""6450""><form id=""hinaxnib"" lang=""ceb"">hinánib</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxnib""><ix>see</ix> <sc>hánib</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#haxnib""><sc>hánib</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6450, "hinánib", "hinanib", "m", "");
@@ -10725,7 +10725,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6455
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6455, "washbasin");
 INSERT INTO `wced_entry` VALUES (6456, "hinawnaw", "328", "<entry page=""328"" id=""6456""><form id=""hinawnaw"" lang=""ceb"">hinawnaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#nawnaw""><ix>see</ix> <sc>nawnaw</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#nawnaw""><sc>nawnaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6456, "hinawnaw", "hinawnaw", "m", "");
@@ -10844,15 +10844,15 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6459
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6459, "pahinayak", "pahinayak", "s", "v");
 INSERT INTO `wced_entry` VALUES (6460, "hinayhay", "329", "<entry page=""329"" id=""6460""><form id=""hinayhay"" lang=""ceb"">hinayhay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hanayhay"">= <sc>hanayhay</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hanayhay""><sc>hanayhay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6460, "hinayhay", "hinayhay", "m", "");
 INSERT INTO `wced_entry` VALUES (6461, "hinayun", "329", "<entry page=""329"" id=""6461""><form id=""hinayun"" lang=""ceb"">hinayun</form>
 <hom>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#daxyun""><ix>see</ix> <sc>dáyun</sc>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> <ix>see</ix> <xr lang=""ceb"" target=""#daxyun""><sc>dáyun</sc></xr>. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#hixnay""><ix>see</ix> <sc>hínay<sub>1</sub></sc>.</xr>
+<sense n=""2""><number>2</number><trans> <ix>see</ix> <xr lang=""ceb"" target=""#hixnay""><sc>hínay<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6461, "hinayun", "hinayun", "m", "");
@@ -10968,7 +10968,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6470, "enthusiasm"
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6470, "interest");
 INSERT INTO `wced_entry` VALUES (6471, "hing-an(→)", "329", "<entry page=""329"" id=""6471""><form id=""hing-anrx"" lang=""ceb"">hing-an(→)</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hi-anrx"">= <sc>hi-an(→)</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hi-anrx""><sc>hi-an(→)</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6471, "hing-an(→)", "hing-an(→)", "m", "");
@@ -10991,7 +10991,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6473
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6473, "always");
 INSERT INTO `wced_entry` VALUES (6474, "hingatag", "329", "<entry page=""329"" id=""6474""><form id=""hingatag"" lang=""ceb"">hingatag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haxtag""><ix>see</ix> <sc>hátag</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#haxtag""><sc>hátag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6474, "hingatag", "hingatag", "m", "");
@@ -11018,7 +11018,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6475, "worry");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6475, "anxiety");
 INSERT INTO `wced_entry` VALUES (6476, "hingbangkaagan", "329", "<entry page=""329"" id=""6476""><form id=""hingbangkaaxgan"" lang=""ceb"">hingbangkaágan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hibangkaaxgan"">= <sc>hibangkaágan</sc></xr><corr>.</corr> <xr lang=""ceb"" target=""#xxbangkaxag""><ix>see</ix> <sc>*bangkáag</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hibangkaaxgan""><sc>hibangkaágan</sc></xr><corr>.</corr> <ix>see</ix> <xr lang=""ceb"" target=""#xxbangkaxag""><sc>*bangkáag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6476, "hingbangkaágan", "hingbangkaagan", "m", "");
@@ -11092,7 +11092,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6479
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6479, "exorcism");
 INSERT INTO `wced_entry` VALUES (6480, "hingiting", "330", "<entry page=""330"" id=""6480""><form id=""hingiting"" lang=""ceb"">hingiting</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#alingiting"">= <sc>alingiting</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#alingiting""><sc>alingiting</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6480, "hingiting", "hingiting", "m", "");
@@ -11213,7 +11213,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6485
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6485, "pull a tooth");
 INSERT INTO `wced_entry` VALUES (6486, "hinguk", "330", "<entry page=""330"" id=""6486""><form id=""hixnguk"" lang=""ceb"">hínguk</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hixnuk"">= <sc>hínuk<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hixnuk""><sc>hínuk<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6486, "hínguk", "hinguk", "m", "");
@@ -11230,19 +11230,19 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6487
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6487, "sniffle");
 INSERT INTO `wced_entry` VALUES (6488, "hingushingus", "330", "<entry page=""330"" id=""6488""><form id=""hingushingus"" lang=""ceb"">hingushingus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#ingus-ingus"">= <sc>ingus-ingus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#ingus-ingus""><sc>ingus-ingus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6488, "hingushingus", "hingushingus", "m", "");
 INSERT INTO `wced_entry` VALUES (6489, "hinguy", "330", "<entry page=""330"" id=""6489""><form id=""hinguy"" lang=""ceb"">hinguy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hunguy"">= <sc>hunguy</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hunguy""><sc>hunguy</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6489, "hinguy", "hinguy", "m", "");
 INSERT INTO `wced_entry` VALUES (6490, "hinhin1", "330", "<entry page=""330"" id=""6490""><form id=""hinhin"" lang=""ceb"">hinhin<sub>1</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hilhig"">= <sc>hilhig</sc>, <i lang=""ceb"">v</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hilhig""><sc>hilhig</sc></xr>, <i lang=""ceb"">v</i>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6490, "hinhin", "hinhin", "s", "");
@@ -11314,7 +11314,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6495
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6495, "jockey");
 INSERT INTO `wced_entry` VALUES (6496, "hiniti2", "331", "<entry page=""331"" id=""6496""><form id=""hinixti2"" lang=""ceb"">hiníti<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hanixti"">= <sc>haníti</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hanixti""><sc>haníti</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6496, "hiníti", "hiniti", "s", "");
@@ -11341,13 +11341,13 @@ INSERT INTO `wced_entry` VALUES (6498, "hinlawan", "331", "<entry page=""331"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6498, "hinlawan", "hinlawan", "m", "nv");
 INSERT INTO `wced_entry` VALUES (6499, "hinlit", "331", "<entry page=""331"" id=""6499""><form id=""hinlit"" lang=""ceb"">hinlit</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hinglit"">= <sc>hinglit</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hinglit""><sc>hinglit</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6499, "hinlit", "hinlit", "m", "");
 INSERT INTO `wced_entry` VALUES (6500, "hinlu", "331", "<entry page=""331"" id=""6500""><form id=""hinluq"" lang=""ceb"">hinlù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hingluq"">= <sc>hinglù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hingluq""><sc>hinglù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6500, "hinlù", "hinlu", "m", "");
@@ -11413,19 +11413,19 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6504
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6504, "ripe");
 INSERT INTO `wced_entry` VALUES (6505, "hinugan", "331", "<entry page=""331"" id=""6505""><form id=""hinuxgan"" lang=""ceb"">hinúgan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#tuxlug""><ix>see</ix> <sc>túlug</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#tuxlug""><sc>túlug</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6505, "hinúgan", "hinugan", "m", "");
 INSERT INTO `wced_entry` VALUES (6506, "hinugay", "331", "<entry page=""331"" id=""6506""><form id=""hinuxgay"" lang=""ceb"">hinúgay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#duxgay""><ix>see</ix> <sc>dúgay</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#duxgay""><sc>dúgay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6506, "hinúgay", "hinugay", "m", "");
 INSERT INTO `wced_entry` VALUES (6507, "hinug-u", "331", "<entry page=""331"" id=""6507""><form id=""hinug-u"" lang=""ceb"">hinug-u</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#sug-u""><ix>see</ix> <sc>sug-u</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#sug-u""><sc>sug-u</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6507, "hinug-u", "hinug-u", "m", "");
@@ -11492,7 +11492,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6511
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6511, "kahinuklug", "kahinuklug", "s", "n");
 INSERT INTO `wced_entry` VALUES (6512, "hinuktuk", "331", "<entry page=""331"" id=""6512""><form id=""hinuktuk"" lang=""ceb"">hinuktuk</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#tuktuk2""><ix>see</ix> <sc>tuktuk<sub>2</sub></sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#tuktuk2""><sc>tuktuk<sub>2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6512, "hinuktuk", "hinuktuk", "m", "");
@@ -11530,7 +11530,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6514, "repent");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6514, "repentance");
 INSERT INTO `wced_entry` VALUES (6515, "hinultul", "331", "<entry page=""331"" id=""6515""><form id=""hinultul"" lang=""ceb"">hinultul</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#tultul""><ix>see</ix> <sc>tultul</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#tultul""><sc>tultul</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6515, "hinultul", "hinultul", "m", "");
@@ -11549,13 +11549,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6516
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6516, "hinúlung", "hinulung", "s", "v");
 INSERT INTO `wced_entry` VALUES (6517, "hinumdum", "332", "<entry page=""332"" id=""6517""><form id=""hinumdum"" lang=""ceb"">hinumdum</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#dumdum""><ix>see</ix> <sc>dumdum</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#dumdum""><sc>dumdum</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6517, "hinumdum", "hinumdum", "m", "");
 INSERT INTO `wced_entry` VALUES (6518, "hinungdan", "332", "<entry page=""332"" id=""6518""><form id=""hinungdan"" lang=""ceb"">hinungdan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#tungud""><ix>see</ix> <sc>tungud</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#tungud""><sc>tungud</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6518, "hinungdan", "hinungdan", "m", "");
@@ -11644,7 +11644,7 @@ INSERT INTO `wced_entry` VALUES (6522, "hip", "332", "<entry page=""332"" id=""6
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6522, "hip", "hip", "m", "");
 INSERT INTO `wced_entry` VALUES (6523, "hipalag", "332", "<entry page=""332"" id=""6523""><form id=""hipaxlag"" lang=""ceb"">hipálag</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#palag""><ix>see</ix> <sc>palag</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#palag""><sc>palag</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6523, "hipálag", "hipalag", "m", "");
@@ -11725,7 +11725,7 @@ INSERT INTO `wced_entry` VALUES (6528, "hipi", "332", "<entry page=""332"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6528, "hipì", "hipi", "m", "v");
 INSERT INTO `wced_entry` VALUES (6529, "hipihip", "332", "<entry page=""332"" id=""6529""><form id=""hipixhip"" lang=""ceb"">hipíhip</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hapixhip"">= <sc>hapíhip</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hapixhip""><sc>hapíhip</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6529, "hipíhip", "hipihip", "m", "");
@@ -11745,19 +11745,19 @@ INSERT INTO `wced_entry` VALUES (6530, "hipli", "332", "<entry page=""332"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6530, "hiplì", "hipli", "m", "v");
 INSERT INTO `wced_entry` VALUES (6531, "hiplig", "333", "<entry page=""333"" id=""6531""><form id=""hiplig"" lang=""ceb"">hiplig</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hipliq"">= <sc>hiplì</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hipliq""><sc>hiplì</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6531, "hiplig", "hiplig", "m", "");
 INSERT INTO `wced_entry` VALUES (6532, "hiplus", "333", "<entry page=""333"" id=""6532""><form id=""hiplus"" lang=""ceb"">hiplus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haplus"">= <sc>haplus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haplus""><sc>haplus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6532, "hiplus", "hiplus", "m", "");
 INSERT INTO `wced_entry` VALUES (6533, "hiplut", "333", "<entry page=""333"" id=""6533""><form id=""hiplut"" lang=""ceb"">hiplut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haplus"">= <sc>haplus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haplus""><sc>haplus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6533, "hiplut", "hiplut", "m", "");
@@ -11770,7 +11770,7 @@ INSERT INTO `wced_entry` VALUES (6534, "hipnu", "333", "<entry page=""333"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6534, "hipnù", "hipnu", "m", "v");
 INSERT INTO `wced_entry` VALUES (6535, "hipsut", "333", "<entry page=""333"" id=""6535""><form id=""hipsut"" lang=""ceb"">hipsut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#ipsut"">= <sc>ipsut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#ipsut""><sc>ipsut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6535, "hipsut", "hipsut", "m", "");
@@ -11873,7 +11873,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6537
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6537, "manggihipúsun", "manggihipusun", "s", "a");
 INSERT INTO `wced_entry` VALUES (6538, "hip-ut", "333", "<entry page=""333"" id=""6538""><form id=""hip-ut"" lang=""ceb"">hip-ut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#gip-ut"">= <sc>gip-ut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#gip-ut""><sc>gip-ut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6538, "hip-ut", "hip-ut", "m", "");
@@ -11933,7 +11933,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6541
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6541, "kahíral", "kahiral", "s", "n");
 INSERT INTO `wced_entry` VALUES (6542, "hiram", "333", "<entry page=""333"" id=""6542""><form id=""hixram"" lang=""ceb"">híram</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hixlam"">= <sc>hílam</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hixlam""><sc>hílam</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6542, "híram", "hiram", "m", "");
@@ -11953,7 +11953,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6543
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6543, "tools");
 INSERT INTO `wced_entry` VALUES (6544, "hirbabuyna", "333", "<entry page=""333"" id=""6544""><form id=""hirbabuyna"" lang=""ceb"">hirbabuyna</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hirbubuyna"">= <sc>hirbubuyna</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hirbubuyna""><sc>hirbubuyna</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6544, "hirbabuyna", "hirbabuyna", "m", "");
@@ -11965,7 +11965,7 @@ INSERT INTO `wced_entry` VALUES (6545, "hirbubuyna", "333", "<entry page=""333""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6545, "hirbubuyna", "hirbubuyna", "m", "n");
 INSERT INTO `wced_entry` VALUES (6546, "hirbularyu", "333", "<entry page=""333"" id=""6546""><form id=""hirbularyu"" lang=""ceb"">hirbularyu</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#arbularyu"">= <sc>arbularyu</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#arbularyu""><sc>arbularyu</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6546, "hirbularyu", "hirbularyu", "m", "");
@@ -12111,7 +12111,7 @@ INSERT INTO `wced_entry` VALUES (6558, "hirushirus", "334", "<entry page=""334""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6558, "hirushirus", "hirushirus", "m", "v");
 INSERT INTO `wced_entry` VALUES (6559, "hisa", "334", "<entry page=""334"" id=""6559""><form id=""hisaq"" lang=""ceb"">hisà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#isaq"">= <sc>isà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#isaq""><sc>isà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6559, "hisà", "hisa", "m", "");
@@ -12157,7 +12157,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6562
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6562, "hisgutánan", "hisgutanan", "s", "n");
 INSERT INTO `wced_entry` VALUES (6563, "hisi", "334", "<entry page=""334"" id=""6563""><form id=""hisi"" lang=""ceb"">hisi</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#axsi"">= <sc>ási</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#axsi""><sc>ási</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6563, "hisi", "hisi", "m", "");
@@ -12297,13 +12297,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6572
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6572, "hit");
 INSERT INTO `wced_entry` VALUES (6573, "hitabu", "335", "<entry page=""335"" id=""6573""><form id=""hitabuq"" lang=""ceb"">hitabù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#taxbuq""><ix>see</ix> <sc>tábù</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#taxbuq""><sc>tábù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6573, "hitabù", "hitabu", "m", "");
 INSERT INTO `wced_entry` VALUES (6574, "hitad", "335", "<entry page=""335"" id=""6574""><form id=""hixtad"" lang=""ceb"">hítad</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huyaxtid"">= <sc>huyátid</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huyaxtid""><sc>huyátid</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6574, "hítad", "hitad", "m", "");
@@ -12363,7 +12363,7 @@ INSERT INTO `wced_entry` VALUES (6579, "hiting", "335", "<entry page=""335"" id=
 </sense></hom></entry>
 <entry><form id=""hitinghiting"" lang=""ceb"">hitinghiting</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiting"">= <sc>hiting</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiting""><sc>hiting</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6579, "hiting", "hiting", "m", "av");
@@ -12371,7 +12371,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6579
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6579, "hitinghiting", "hitinghiting", "s", "");
 INSERT INTO `wced_entry` VALUES (6580, "hitsas", "335", "<entry page=""335"" id=""6580""><form id=""hitsas"" lang=""ceb"">hitsas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hitsu"">= <sc>hitsu</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hitsu""><sc>hitsu</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6580, "hitsas", "hitsas", "m", "");
@@ -12496,7 +12496,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6584, "cutting boa
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6584, "cut up");
 INSERT INTO `wced_entry` VALUES (6585, "hiwal", "336", "<entry page=""336"" id=""6585""><form id=""hixwal"" lang=""ceb"">híwal</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiwalhixwal"">= <sc>hiwalhíwal</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiwalhixwal""><sc>hiwalhíwal</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""hiwalhixwal"" lang=""ceb"">hiwalhíwal</form>
 <hom role=""v""><pos>v</pos>
@@ -12510,20 +12510,20 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6585, "writhe");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6585, "wriggle");
 INSERT INTO `wced_entry` VALUES (6586, "hiwasa, hiwasa", "336", "<entry page=""336"" id=""6586""><form id=""hiwasa_hiwasaq"" lang=""ceb"">hiwasa, hiwasà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#aliwaxsa"">= <sc>aliwása</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#aliwaxsa""><sc>aliwása</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6586, "hiwasa", "hiwasa", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6586, "hiwasà", "hiwasa", "s", "");
 INSERT INTO `wced_entry` VALUES (6587, "hiwatid", "336", "<entry page=""336"" id=""6587""><form id=""hiwaxtid"" lang=""ceb"">hiwátid</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huyaxtid"">= <sc>huyátid</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huyaxtid""><sc>huyátid</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6587, "hiwátid", "hiwatid", "m", "");
 INSERT INTO `wced_entry` VALUES (6588, "hiwaus", "336", "<entry page=""336"" id=""6588""><form id=""hiwaus"" lang=""ceb"">hiwaus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#higwaus"">= <sc>higwaus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#higwaus""><sc>higwaus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6588, "hiwaus", "hiwaus", "m", "");
@@ -12576,7 +12576,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6589, "deformed");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6589, "misdeed");
 INSERT INTO `wced_entry` VALUES (6590, "hiwid", "336", "<entry page=""336"" id=""6590""><form id=""hixwid"" lang=""ceb"">híwid</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huyaxtid"">= <sc>huyátid</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huyaxtid""><sc>huyátid</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6590, "híwid", "hiwid", "m", "");
@@ -12596,7 +12596,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6591
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6591, "getty-up");
 INSERT INTO `wced_entry` VALUES (6592, "hiya", "336", "<entry page=""336"" id=""6592""><form id=""hixyaq"" lang=""ceb"">híyà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiyaq""><ix>see</ix> <sc>hiyà</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#hiyaq""><sc>hiyà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6592, "híyà", "hiya", "m", "");
@@ -12637,7 +12637,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6594, "good qualit
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6594, "virtues");
 INSERT INTO `wced_entry` VALUES (6595, "hiyawasa", "336", "<entry page=""336"" id=""6595""><form id=""hiyawasa"" lang=""ceb"">hiyawasa</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#aliwasa"">= <sc>aliwasa</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#aliwasa""><sc>aliwasa</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6595, "hiyawasa", "hiyawasa", "m", "");
@@ -12671,7 +12671,7 @@ INSERT INTO `wced_entry` VALUES (6598, "hiyud2", "336", "<entry page=""336"" id=
 <sense n=""0""> <itype>[B]</itype><trans> get <tr>curled</tr> up from dampness, heat. </trans>
 <eg><i lang=""ceb"">Nahíyud ang tabla nga nainitan,</i><trans> The lumber curled because it was left in the sun. </trans></eg>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#hiyudhixyud"">= <sc>hiyudhíyud</sc>.</xr> </trans>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#hiyudhixyud""><sc>hiyudhíyud</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""hiyudhixyud"" lang=""ceb"">hiyudhíyud</form>
 <hom role=""v""><pos>v</pos>
@@ -12694,7 +12694,7 @@ INSERT INTO `wced_entry` VALUES (6599, "hiyum", "336", "<entry page=""336"" id="
 </sense></hom>
 <entry><form id=""hiyumhiyum"" lang=""ceb"">hiyumhiyum</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#kipiqkipiq"">= <sc>kipìkipì</sc>.</xr> <xr lang=""ceb"" target=""#kixpiq""><ix>see</ix> <sc>kípì</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kipiqkipiq""><sc>kipìkipì</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#kixpiq""><sc>kípì</sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""pahixyum_pahiyum"" lang=""ceb""><abbr expan=""pahíyum"" type=""lemma"">pa-</abbr>, <abbr expan=""pahiyum"" type=""lemma"">pa-(→)</abbr></form>
 <hom role=""v""><pos>v</pos>
@@ -12732,7 +12732,7 @@ INSERT INTO `wced_entry` VALUES (6600, "hiyung", "336", "<entry page=""336"" id=
 </sense></hom></entry>
 <entry><form id=""hiyunghiyung_hiyunghixyung"" lang=""ceb"">hiyunghiyung, hiyunghíyung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#kipiqkipiq"">= <sc>kipìkipì</sc>.</xr> <xr lang=""ceb"" target=""#kixpiq""><ix>see</ix> <sc>kípì</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kipiqkipiq""><sc>kipìkipì</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#kixpiq""><sc>kípì</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6600, "híyung", "hiyung", "m", "v");
@@ -12778,7 +12778,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6601
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6601, "deflated");
 INSERT INTO `wced_entry` VALUES (6602, "hiyut", "337", "<entry page=""337"" id=""6602""><form id=""hiyut"" lang=""ceb"">hiyut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxsud"">= <sc>húsud</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxsud""><sc>húsud</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6602, "hiyut", "hiyut", "m", "");
@@ -12809,7 +12809,7 @@ INSERT INTO `wced_entry` VALUES (6605, "hu", "337", "<entry page=""337"" id=""66
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6605, "hú", "hu", "m", "n");
 INSERT INTO `wced_entry` VALUES (6606, "hubad", "337", "<entry page=""337"" id=""6606""><form id=""huxbad"" lang=""ceb"">húbad</form>
 <hom role=""v""><pos>v</pos>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#hulbad"">= <sc>hulbad</sc>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#hulbad""><sc>hulbad</sc></xr>. </trans>
 </sense>
 <sense n=""1""><number>1</number> a <itype>[A2; a12]</itype><trans> break out of a hold in wrestling or judo. </trans>
 <eg><i lang=""ceb"">Way makahúbad ning gwarníha,</i><trans> No one can break out of this lock. </trans></eg>
@@ -12872,12 +12872,12 @@ INSERT INTO `wced_entry` VALUES (6607, "hubag", "337", "<entry page=""337"" id="
 </sense></hom>
 <entry><form id=""hubag_sa_baxbuy"" lang=""ceb""><abbr expan=""hubag"" type=""lemma"">—</abbr> sa bábuy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#daxti"">= <sc>dáti</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#daxti""><sc>dáti</sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""huxbag"" lang=""ceb""><abbr expan=""húbag"" type=""lemma"">(←)</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> newly harvested grains which haven’t been dried. </trans>
-<eg><i lang=""ceb"">Dì magaling ang húbag nga mais kay mapusà lang,</i><trans> Fresh corn kernels cannot be milled because they will just get squeezed. <xr lang=""ceb"" target=""#kulub""><ix>see also</ix> <sc>kulub</sc>.</xr> †
+<eg><i lang=""ceb"">Dì magaling ang húbag nga mais kay mapusà lang,</i><trans> Fresh corn kernels cannot be milled because they will just get squeezed. <ix>see also</ix> <xr lang=""ceb"" target=""#kulub""><sc>kulub</sc></xr>. †
 </trans></eg>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6607, "hubag", "hubag", "m", "nv");
@@ -12936,7 +12936,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6609, "dry up");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6609, "drain");
 INSERT INTO `wced_entry` VALUES (6610, "hubaw", "337", "<entry page=""337"" id=""6610""><form id=""hubaw"" lang=""ceb"">hubaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hubawhubaw"">= <sc>hubawhubaw</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hubawhubaw""><sc>hubawhubaw</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""hubawhubaw"" lang=""ceb"">hubawhubaw</form>
 <hom role=""v""><pos>v</pos>
@@ -12999,7 +12999,7 @@ INSERT INTO `wced_entry` VALUES (6614, "hublag", "337", "<entry page=""337"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6614, "hublag", "hublag", "m", "v");
 INSERT INTO `wced_entry` VALUES (6615, "hublut", "338", "<entry page=""338"" id=""6615""><form id=""hublut"" lang=""ceb"">hublut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulbut"">= <sc>hulbut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulbut""><sc>hulbut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6615, "hublut", "hublut", "m", "");
@@ -13126,7 +13126,7 @@ INSERT INTO `wced_entry` VALUES (6618, "hubun", "338", "<entry page=""338"" id="
 </sense></hom>
 <entry><form id=""hubunhubun"" lang=""ceb"">hubunhubun</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hubun"">= <sc>hubun</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hubun""><sc>hubun</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6618, "hubun", "hubun", "m", "n");
@@ -13175,9 +13175,9 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6620, "full");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6620, "plump");
 INSERT INTO `wced_entry` VALUES (6621, "hubut", "338", "<entry page=""338"" id=""6621""><form id=""huxbut"" lang=""ceb"">húbut</form>
 <hom>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#hulbut"">= <sc>hulbut</sc>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#hulbut""><sc>hulbut</sc></xr>. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#bulhut"">= <sc>bulhut</sc>, <i lang=""ceb"">1, 2, 3.</i></xr>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#bulhut""><sc>bulhut</sc></xr>, <i lang=""ceb"">1, 2, 3.</i>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6621, "húbut", "hubut", "m", "");
@@ -13214,7 +13214,7 @@ INSERT INTO `wced_entry` VALUES (6624, "hubyas", "338", "<entry page=""338"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6624, "hubyas", "hubyas", "m", "n");
 INSERT INTO `wced_entry` VALUES (6625, "hud", "338", "<entry page=""338"" id=""6625""><form id=""huxd"" lang=""ceb"">húd</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulud"">= <sc>hulud</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulud""><sc>hulud</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6625, "húd", "hud", "m", "");
@@ -13337,7 +13337,7 @@ INSERT INTO `wced_entry` VALUES (6633, "hudnu", "339", "<entry page=""339"" id="
 </sense></hom>
 <entry><form id=""hudnuhan"" lang=""ceb"">hudnuhan</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hudnu"">= <sc>hudnu</sc>, <i lang=""ceb"">n</i>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hudnu""><sc>hudnu</sc></xr>, <i lang=""ceb"">n</i>. </trans>
 </sense></hom></entry>
 <entry><form id=""panghudnu"" lang=""ceb""><abbr expan=""panghudnu"" type=""lemma"">paN-</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -13350,19 +13350,19 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6633
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6633, "oven");
 INSERT INTO `wced_entry` VALUES (6634, "hug", "339", "<entry page=""339"" id=""6634""><form id=""huxg"" lang=""ceb"">húg</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulug"">= <sc>hulug</sc>.</xr> <xr lang=""ceb"" target=""#huxlug""><ix>see</ix> <sc>húlug</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulug""><sc>hulug</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#huxlug""><sc>húlug</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6634, "húg", "hug", "m", "");
 INSERT INTO `wced_entry` VALUES (6635, "hug", "339", "<entry page=""339"" id=""6635""><form id=""hu5g"" lang=""ceb"">hū́g</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxlug"">= <sc>húlug</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxlug""><sc>húlug</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6635, "hū́g", "hug", "m", "");
 INSERT INTO `wced_entry` VALUES (6636, "huga", "339", "<entry page=""339"" id=""6636""><form id=""huxgaq"" lang=""ceb"">húgà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulgaq"">= <sc>hulgà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulgaq""><sc>hulgà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6636, "húgà", "huga", "m", "");
@@ -13447,7 +13447,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6642, "clank");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6642, "clatter");
 INSERT INTO `wced_entry` VALUES (6643, "hugan-ub", "339", "<entry page=""339"" id=""6643""><form id=""hugan-ub"" lang=""ceb"">hugan-ub</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#lugan-ub"">= <sc>lugan-ub</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#lugan-ub""><sc>lugan-ub</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6643, "hugan-ub", "hugan-ub", "m", "");
@@ -13503,11 +13503,11 @@ INSERT INTO `wced_entry` VALUES (6646, "hugas", "339", "<entry page=""339"" id="
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> place for washing. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#hugasun"">= <sc>hugasun</sc>.</xr> </trans>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#hugasun""><sc>hugasun</sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""panghugasan"" lang=""ceb""><abbr expan=""panghugasan"" type=""lemma"">paN-an(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hugasan"">= <sc>hugasan</sc>, <i lang=""ceb"">n 1.</i></xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hugasan""><sc>hugasan</sc></xr>, <i lang=""ceb"">n 1.</i>
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6646, "húgas", "hugas", "m", "v");
@@ -13567,7 +13567,7 @@ INSERT INTO `wced_entry` VALUES (6647, "hugaw", "340", "<entry page=""340"" id="
 </sense></hom></entry>
 <entry><form id=""mahuxgaw"" lang=""ceb""><abbr expan=""mahúgaw"" type=""lemma"">ma-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxgaw"">= <sc>húgaw</sc>, <i lang=""ceb"">a</i>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxgaw""><sc>húgaw</sc></xr>, <i lang=""ceb"">a</i>. </trans>
 </sense></hom></entry>
 <entry><form id=""kahuxgaw"" lang=""ceb""><abbr expan=""kahúgaw"" type=""lemma"">ka-</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -13581,7 +13581,7 @@ INSERT INTO `wced_entry` VALUES (6647, "hugaw", "340", "<entry page=""340"" id="
 <eg><i lang=""ceb"">1</i><trans> dirty oneself up. </trans></eg>
 <eg><i lang=""ceb"">Ngánung naghugawhugaw man ka dihà sa yánang?</i><trans> Why are you dirtying yourself in the mire? </trans></eg>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#huxgaw"">= <sc>húgaw</sc>, <i lang=""ceb"">v 2.</i></xr>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#huxgaw""><sc>húgaw</sc></xr>, <i lang=""ceb"">v 2.</i>
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6647, "húgaw", "hugaw", "m", "avn");
@@ -13610,13 +13610,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6648
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6648, "device");
 INSERT INTO `wced_entry` VALUES (6649, "hugayaw", "340", "<entry page=""340"" id=""6649""><form id=""hugaxyaw"" lang=""ceb"">hugáyaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hugyaw"">= <sc>hugyaw</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hugyaw""><sc>hugyaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6649, "hugáyaw", "hugayaw", "m", "");
 INSERT INTO `wced_entry` VALUES (6650, "hughug", "340", "<entry page=""340"" id=""6650""><form id=""hughug"" lang=""ceb"">hughug</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halughug"">= <sc>halughug<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halughug""><sc>halughug<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6650, "hughug", "hughug", "m", "");
@@ -13648,7 +13648,7 @@ INSERT INTO `wced_entry` VALUES (6652, "hugkal", "340", "<entry page=""340"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6652, "hugkal", "hugkal", "m", "v");
 INSERT INTO `wced_entry` VALUES (6653, "hugkas", "340", "<entry page=""340"" id=""6653""><form id=""hugkas"" lang=""ceb"">hugkas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hubkas"">= <sc>hubkas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hubkas""><sc>hubkas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6653, "hugkas", "hugkas", "m", "");
@@ -13960,7 +13960,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6670, "pull");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6670, "pick");
 INSERT INTO `wced_entry` VALUES (6671, "huguy", "342", "<entry page=""342"" id=""6671""><form id=""huxguy"" lang=""ceb"">húguy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huguyhuxguy"">= <sc>huguyhúguy</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huguyhuxguy""><sc>huguyhúguy</sc></xr>. </trans>
 </sense></hom>
 <entry><form id=""huguyhuxguy"" lang=""ceb"">huguyhúguy</form>
 <hom role=""v""><pos>v</pos>
@@ -13998,7 +13998,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6673, "together");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6673, "en masse");
 INSERT INTO `wced_entry` VALUES (6674, "huhungihung", "342", "<entry page=""342"" id=""6674""><form id=""huhungixhung"" lang=""ceb"">huhungíhung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulungixhung"">= <sc>hulungíhung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulungixhung""><sc>hulungíhung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6674, "huhungíhung", "huhungihung", "m", "");
@@ -14142,7 +14142,7 @@ INSERT INTO `wced_entry` VALUES (6686, "hukal", "343", "<entry page=""343"" id="
 <eg><i lang=""ceb"">Muhukal ang ubu sa tambal,</i><trans> The cough will be eased by medicine. </trans></eg>
 <eg><i lang=""ceb"">Kining tambála muhukal sa ímung ubu,</i><trans> This medicine will loosen your cough. </trans></eg>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#ukal"">= <sc>ukal</sc>.</xr> </trans>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#ukal""><sc>ukal</sc></xr>. </trans>
 </sense></hom>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>phlegm</tr>. </trans>
@@ -14180,7 +14180,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6687
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6687, "stripping");
 INSERT INTO `wced_entry` VALUES (6688, "hukaw", "343", "<entry page=""343"" id=""6688""><form id=""hukaw"" lang=""ceb"">hukaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hukal"">= <sc>hukal</sc>, <i lang=""ceb"">v1;</i> <pos>n</pos>; <i lang=""ceb"">a</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hukal""><sc>hukal</sc></xr>, <i lang=""ceb"">v1;</i> <pos>n</pos>; <i lang=""ceb"">a</i>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6688, "hukaw", "hukaw", "m", "");
@@ -14228,7 +14228,7 @@ INSERT INTO `wced_entry` VALUES (6692, "hukhuk1", "343", "<entry page=""343"" id
 </sense></hom></entry>
 <entry><form id=""hukhukixra"" lang=""ceb""><abbr expan=""hukhukíra"" type=""lemma"">-íra</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hukhukixru"">= <sc>hukhukíru</sc> (female).</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hukhukixru""><sc>hukhukíru</sc></xr> (female).
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6692, "hukhuk", "hukhuk", "s", "v");
@@ -14236,7 +14236,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6692
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6692, "hukhukíra", "hukhukira", "s", "");
 INSERT INTO `wced_entry` VALUES (6693, "hukhuk2", "343", "<entry page=""343"" id=""6693""><form id=""hukhuk2"" lang=""ceb"">hukhuk<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halukhuk_2"">= <sc>halukhuk<sub>1, 2</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halukhuk_2""><sc>halukhuk<sub>1, 2</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6693, "hukhuk", "hukhuk", "s", "");
@@ -14278,13 +14278,13 @@ INSERT INTO `wced_entry` VALUES (6698, "huklub", "343", "<entry page=""343"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6698, "huklub", "huklub", "m", "n");
 INSERT INTO `wced_entry` VALUES (6699, "hukmuy", "343", "<entry page=""343"" id=""6699""><form id=""hukmuy"" lang=""ceb"">hukmuy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#lukmuy"">= <sc>lukmuy</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#lukmuy""><sc>lukmuy</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6699, "hukmuy", "hukmuy", "m", "");
 INSERT INTO `wced_entry` VALUES (6700, "huks", "343", "<entry page=""343"" id=""6700""><form id=""huks"" lang=""ceb"">huks</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huk"">= <sc>huk<sub>1</sub></sc> (plural).</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huk""><sc>huk<sub>1</sub></sc></xr> (plural).
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6700, "huks", "huks", "m", "");
@@ -14328,7 +14328,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6702, "decision");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6702, "court");
 INSERT INTO `wced_entry` VALUES (6703, "hukut", "343", "<entry page=""343"" id=""6703""><form id=""hukut"" lang=""ceb"">hukut</form>
 <hom>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#higut"">= <sc>higut</sc>, <ix>v, n</ix>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#higut""><sc>higut</sc></xr>, <ix>v, n</ix>. </trans>
 </sense>
 <sense n=""2""><number>2</number>
 </sense></hom>
@@ -14398,7 +14398,7 @@ INSERT INTO `wced_entry` VALUES (6707, "hulad", "344", "<entry page=""344"" id="
 </sense></hom>
 <entry><form id=""hulad"" lang=""ceb""><abbr expan=""hulad"" type=""lemma"">(→)</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huwad"">= <sc>huwad</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huwad""><sc>huwad</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6707, "húlad", "hulad", "m", "vn");
@@ -14521,13 +14521,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6713
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6713, "slip and fall");
 INSERT INTO `wced_entry` VALUES (6714, "hul-ap", "344", "<entry page=""344"" id=""6714""><form id=""hul-ap"" lang=""ceb"">hul-ap</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huld-ap"">= <sc>huld-ap</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huld-ap""><sc>huld-ap</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6714, "hul-ap", "hul-ap", "m", "");
 INSERT INTO `wced_entry` VALUES (6715, "hular", "344", "<entry page=""344"" id=""6715""><form id=""hular"" lang=""ceb"">hular</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hurar"">= <sc>hurar</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hurar""><sc>hurar</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6715, "hular", "hular", "m", "");
@@ -14848,7 +14848,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6733
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6733, "pahúlì", "pahuli", "s", "v");
 INSERT INTO `wced_entry` VALUES (6734, "hulibis", "345", "<entry page=""345"" id=""6734""><form id=""hulixbis"" lang=""ceb"">hulíbis</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hilixbis"">= <sc>hilíbis</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hilixbis""><sc>hilíbis</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6734, "hulíbis", "hulibis", "m", "");
@@ -14879,7 +14879,7 @@ INSERT INTO `wced_entry` VALUES (6736, "hulikab", "345", "<entry page=""345"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6736, "hulíkab", "hulikab", "m", "vn");
 INSERT INTO `wced_entry` VALUES (6737, "hulin", "346", "<entry page=""346"" id=""6737""><form id=""huxlin"" lang=""ceb"">húlin</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#dyuxlin"">= <sc>dyúlin</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#dyuxlin""><sc>dyúlin</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6737, "húlin", "hulin", "m", "");
@@ -15123,7 +15123,7 @@ INSERT INTO `wced_entry` VALUES (6748, "hulug", "346", "<entry page=""346"" id="
 </sense></hom></entry>
 <entry><form id=""hulug"" lang=""ceb""><abbr expan=""hulug"" type=""lemma"">(→)</abbr></form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#kahuluxgan"">= <sc>kahulúgan</sc>, <i lang=""ceb"">2.</i></xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kahuluxgan""><sc>kahulúgan</sc></xr>, <i lang=""ceb"">2.</i> </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13N]</itype><trans> mean. </trans>
@@ -15146,7 +15146,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6748, "drop");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6748, "fall");
 INSERT INTO `wced_entry` VALUES (6749, "hulum", "347", "<entry page=""347"" id=""6749""><form id=""huxlum"" lang=""ceb"">húlum</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxmul"">= <sc>húmul</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxmul""><sc>húmul</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6749, "húlum", "hulum", "m", "");
@@ -15185,7 +15185,7 @@ INSERT INTO `wced_entry` VALUES (6753, "hulus1", "347", "<entry page=""347"" id=
 <sense n=""1""><number>1</number> <itype>[A; a12]</itype><trans> strip leaves off the stem. </trans>
 <eg><i lang=""ceb"">Paghulus ug dáhun sa kamunggay kay utánun,</i><trans> Strip off some malunggay leaves to cook. </trans></eg>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#hurus"">= <sc>hurus</sc>.</xr>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#hurus""><sc>hurus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6753, "hulus", "hulus", "s", "v");
@@ -15206,13 +15206,13 @@ INSERT INTO `wced_entry` VALUES (6755, "hulut", "347", "<entry page=""347"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6755, "húlut", "hulut", "m", "v");
 INSERT INTO `wced_entry` VALUES (6756, "huluy", "347", "<entry page=""347"" id=""6756""><form id=""huluy"" lang=""ceb"">huluy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiluy"">= <sc>hiluy</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiluy""><sc>hiluy</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6756, "huluy", "huluy", "m", "");
 INSERT INTO `wced_entry` VALUES (6757, "hulyu", "347", "<entry page=""347"" id=""6757""><form id=""Hulyu"" lang=""ceb"">Hulyu</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""1""><number>1</number><trans> July. <xr lang=""ceb"" target=""#abril""><ix>see</ix> <sc>abril</sc> <i lang=""ceb"">for verb forms.</i></xr> </trans>
+<sense n=""1""><number>1</number><trans> July. <ix>see</ix> <xr lang=""ceb"" target=""#abril""><sc>abril</sc></xr> <i lang=""ceb"">for verb forms.</i> </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> time of the year when there is little to eat, so called because the year’s big harvest, the <ix>panúig,</ix> comes just after July, and the previous harvest does not last until the <ix>panúig.</ix> </trans>
 <eg><i lang=""ceb"">Ang mga datù wà makailag hulyu,</i><trans> The rich haven’t experienced hard times.
@@ -15253,7 +15253,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6759
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6759, "humánan", "humanan", "s", "n");
 INSERT INTO `wced_entry` VALUES (6760, "humabdus", "347", "<entry page=""347"" id=""6760""><form id=""humabdus"" lang=""ceb"">humabdus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humablus"">= <sc>humablus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#humablus""><sc>humablus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6760, "humabdus", "humabdus", "m", "");
@@ -15273,7 +15273,7 @@ INSERT INTO `wced_entry` VALUES (6762, "humad", "347", "<entry page=""347"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6762, "humad", "humad", "m", "v");
 INSERT INTO `wced_entry` VALUES (6763, "humagbus", "347", "<entry page=""347"" id=""6763""><form id=""humagbus"" lang=""ceb"">humagbus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humablus"">= <sc>humablus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#humablus""><sc>humablus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6763, "humagbus", "humagbus", "m", "");
@@ -15420,19 +15420,19 @@ INSERT INTO `wced_entry` VALUES (6769, "humbis", "348", "<entry page=""348"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6769, "humbis", "humbis", "m", "nv");
 INSERT INTO `wced_entry` VALUES (6770, "humhum1", "348", "<entry page=""348"" id=""6770""><form id=""humhum"" lang=""ceb"">humhum<sub>1</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#halumhum"">= <sc>halumhum</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#halumhum""><sc>halumhum</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6770, "humhum", "humhum", "s", "");
 INSERT INTO `wced_entry` VALUES (6771, "humhum2", "348", "<entry page=""348"" id=""6771""><form id=""humhum2"" lang=""ceb"">humhum<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#latuq"">= <sc>latù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#latuq""><sc>latù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6771, "humhum", "humhum", "s", "");
 INSERT INTO `wced_entry` VALUES (6772, "humigas", "348", "<entry page=""348"" id=""6772""><form id=""humixgas"" lang=""ceb"">humígas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulmixgas"">= <sc>hulmígas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulmixgas""><sc>hulmígas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6772, "humígas", "humigas", "m", "");
@@ -15541,7 +15541,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6777, "smooth out"
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6777, "flatten");
 INSERT INTO `wced_entry` VALUES (6778, "humpil", "349", "<entry page=""349"" id=""6778""><form id=""humpil"" lang=""ceb"">humpil</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humpid"">= <sc>humpid</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#humpid""><sc>humpid</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6778, "humpil", "humpil", "m", "");
@@ -15855,7 +15855,7 @@ INSERT INTO `wced_entry` VALUES (6793, "hunahuna", "350", "<entry page=""350"" i
 </sense></hom>
 <entry><form id=""panghunaqhunaq"" lang=""ceb""><abbr expan=""panghunàhunà"" type=""lemma"">paN-(→)</abbr></form>
 <hom role=""n""><pos>n</pos>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#hunaqhuxnaq"">= <sc>hunàhúnà</sc> <ix>1, 1a, 2.</ix></xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#hunaqhuxnaq""><sc>hunàhúnà</sc></xr> <ix>1, 1a, 2.</ix> </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> the process of thinking. </trans>
 <eg><i lang=""ceb"">Tin-aw pa ang panghunàhunà ni Lúlu,</i><trans> Grandfather can still think clearly. </trans></eg>
@@ -15883,7 +15883,7 @@ INSERT INTO `wced_entry` VALUES (6794, "hunas", "350", "<entry page=""350"" id="
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> <tr>low tide</tr>. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#kinhasun"">= <sc>kinhasun</sc>.</xr> <xr lang=""ceb"" target=""#kinhas""><ix>see</ix> <sc>kinhas</sc>.</xr> </trans>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#kinhasun""><sc>kinhasun</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#kinhas""><sc>kinhas</sc></xr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""1""><number>1</number> <itype>[B3(1)4; b4]</itype><trans> for the tide to go out. </trans>
@@ -15902,7 +15902,7 @@ INSERT INTO `wced_entry` VALUES (6794, "hunas", "350", "<entry page=""350"" id="
 </sense></hom></entry>
 <entry><form id=""panghunas"" lang=""ceb""><abbr expan=""panghunas"" type=""lemma"">paN-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#panginhas"">= <sc>panginhas</sc>.</xr> <xr lang=""ceb"" target=""#kinhas""><ix>see</ix> <sc>kinhas</sc>.</xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#panginhas""><sc>panginhas</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#kinhas""><sc>kinhas</sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""hunasan"" lang=""ceb""><abbr expan=""hunasan"" type=""lemma"">-an(←)</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -15914,7 +15914,7 @@ INSERT INTO `wced_entry` VALUES (6794, "hunas", "350", "<entry page=""350"" id="
 </sense></hom></entry>
 <entry><form id=""kinhas"" lang=""ceb"">kinhas</form>
 <hom>
-<sense n=""0""><trans> listed under <xr lang=""ceb"" target=""#kinhas""><sc>kinhas</sc>.</xr> </trans>
+<sense n=""0""><trans> listed under <xr lang=""ceb"" target=""#kinhas""><sc>kinhas</sc></xr>. </trans>
 </sense></hom></entry>
 <entry><form id=""hunaxsun"" lang=""ceb""><abbr expan=""hunásun"" type=""lemma"">-un(←)</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -15970,7 +15970,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6795
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6795, "mahunátun", "mahunatun", "s", "a");
 INSERT INTO `wced_entry` VALUES (6796, "hunaw", "350", "<entry page=""350"" id=""6796""><form id=""hunaw"" lang=""ceb"">hunaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hinaw"">= <sc>hinaw</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hinaw""><sc>hinaw</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6796, "hunaw", "hunaw", "m", "");
@@ -15995,7 +15995,7 @@ INSERT INTO `wced_entry` VALUES (6798, "hundunghundung", "350", "<entry page=""3
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6798, "hundunghundung", "hundunghundung", "m", "v");
 INSERT INTO `wced_entry` VALUES (6799, "hungakhungak", "350", "<entry page=""350"" id=""6799""><form id=""hungakhuxngak"" lang=""ceb"">hungakhúngak</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hingakhixngak"">= <sc>hingakhíngak</sc>.</xr> <xr lang=""ceb"" target=""#hixngak""><ix>see</ix> <sc>híngak</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hingakhixngak""><sc>hingakhíngak</sc></xr>. <ix>see</ix> <xr lang=""ceb"" target=""#hixngak""><sc>híngak</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6799, "hungakhúngak", "hungakhungak", "m", "");
@@ -16052,7 +16052,7 @@ INSERT INTO `wced_entry` VALUES (6800, "hungaw", "350", "<entry page=""350"" id=
 </sense></hom></entry>
 <entry><form id=""hulungawan"" lang=""ceb""><abbr expan=""hulungawan"" type=""lemma"">-l-an</abbr></form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#x-anan"">= <sc><abbr expan=""hungawanan"" type=""lemma"">-anan</abbr></sc>, <i lang=""ceb"">2.</i></xr> </trans>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hungawanan""><sc><abbr expan=""hungawanan"" type=""lemma"">-anan</abbr></sc></xr>, <i lang=""ceb"">2.</i> </trans>
 </sense></hom></entry>
 <entry><form id=""hinungaw"" lang=""ceb""><abbr expan=""hinungaw"" type=""lemma"">-in-</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -16111,7 +16111,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6803, "hollow spac
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6803, "void");
 INSERT INTO `wced_entry` VALUES (6804, "hunggaw", "351", "<entry page=""351"" id=""6804""><form id=""hunggaw"" lang=""ceb"">hunggaw</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hunggal"">= <sc>hunggal</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hunggal""><sc>hunggal</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6804, "hunggaw", "hunggaw", "m", "");
@@ -16136,7 +16136,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6805
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6805, "whisper");
 INSERT INTO `wced_entry` VALUES (6806, "hungihung", "351", "<entry page=""351"" id=""6806""><form id=""hungixhung"" lang=""ceb"">hungíhung</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulungixhung"">= <sc>hulungíhung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulungixhung""><sc>hulungíhung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6806, "hungíhung", "hungihung", "m", "");
@@ -16181,7 +16181,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6807
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6807, "ighulúngit", "ighulungit", "s", "n");
 INSERT INTO `wced_entry` VALUES (6808, "hungkad", "351", "<entry page=""351"" id=""6808""><form id=""hungkad"" lang=""ceb"">hungkad</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hukad"">= <sc>hukad</sc>, <i lang=""ceb"">v1.</i></xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hukad""><sc>hukad</sc></xr>, <i lang=""ceb"">v1.</i>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6808, "hungkad", "hungkad", "m", "");
@@ -16199,14 +16199,14 @@ INSERT INTO `wced_entry` VALUES (6809, "hungkag", "351", "<entry page=""351"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6809, "hungkag", "hungkag", "m", "v");
 INSERT INTO `wced_entry` VALUES (6810, "hungkagul, hungkarul", "351", "<entry page=""351"" id=""6810""><form id=""hungkagul_hungkarul"" lang=""ceb"">hungkagul, hungkarul</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hugangkul"">= <sc>hugangkul</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hugangkul""><sc>hugangkul</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6810, "hungkagul", "hungkagul", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6810, "hungkarul", "hungkarul", "s", "");
 INSERT INTO `wced_entry` VALUES (6811, "hungkiyang", "351", "<entry page=""351"" id=""6811""><form id=""hungkiyang"" lang=""ceb"">hungkiyang</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#kungkiyang"">= <sc>kungkiyang</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kungkiyang""><sc>kungkiyang</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6811, "hungkiyang", "hungkiyang", "m", "");
@@ -16225,19 +16225,19 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6812
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6812, "panghungkung", "panghungkung", "s", "v");
 INSERT INTO `wced_entry` VALUES (6813, "hunglus1", "351", "<entry page=""351"" id=""6813""><form id=""hunglus"" lang=""ceb"">hunglus<sub>1</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#alaxyun"">= <sc>aláyun</sc>, <ix>n, v1.</ix></xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#alaxyun""><sc>aláyun</sc></xr>, <ix>n, v1.</ix>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6813, "hunglus", "hunglus", "s", "");
 INSERT INTO `wced_entry` VALUES (6814, "hunglus2", "351", "<entry page=""351"" id=""6814""><form id=""hunglus2"" lang=""ceb"">hunglus<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hunlus"">= <sc>hunlus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hunlus""><sc>hunlus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6814, "hunglus", "hunglus", "s", "");
 INSERT INTO `wced_entry` VALUES (6815, "hungu", "351", "<entry page=""351"" id=""6815""><form id=""hunguq"" lang=""ceb"">hungù</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#nguhuq"">= <sc>nguhù</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#nguhuq""><sc>nguhù</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6815, "hungù", "hungu", "m", "");
@@ -16266,7 +16266,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6816, "stupid");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6816, "stupidity");
 INSERT INTO `wced_entry` VALUES (6817, "hungus", "352", "<entry page=""352"" id=""6817""><form id=""hungus"" lang=""ceb"">hungus</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hunglus"">= <sc>hunglus<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hunglus""><sc>hunglus<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6817, "hungus", "hungus", "m", "");
@@ -16495,7 +16495,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6829, "leaky");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6829, "seepage");
 INSERT INTO `wced_entry` VALUES (6830, "hunulhunul", "353", "<entry page=""353"" id=""6830""><form id=""hunulhuxnul"" lang=""ceb"">hunulhúnul</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humulhuxmul"">= <sc>humulhúmul</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#humulhuxmul""><sc>humulhúmul</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6830, "hunulhúnul", "hunulhunul", "m", "");
@@ -16548,7 +16548,7 @@ INSERT INTO `wced_entry` VALUES (6833, "hunus2", "353", "<entry page=""353"" id=
 </sense></hom>
 <entry><form id=""hunushuxnus"" lang=""ceb"">hunushúnus</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxnus"">= <sc>húnus</sc>, <i lang=""ceb"">n</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxnus""><sc>húnus</sc></xr>, <i lang=""ceb"">n</i>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6833, "húnus", "hunus", "s", "nv");
@@ -16559,20 +16559,20 @@ INSERT INTO `wced_entry` VALUES (6834, "hunyu", "353", "<entry page=""353"" id="
 <sense n=""0""><trans> <tr>June</tr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#abril""><ix>see</ix> <sc>abril</sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#abril""><sc>abril</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6834, "Hunyu", "hunyu", "m", "nv");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6834, "June");
 INSERT INTO `wced_entry` VALUES (6835, "hup", "353", "<entry page=""353"" id=""6835""><form id=""huxp"" lang=""ceb"">húp</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxlup"">= <sc>húlup</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxlup""><sc>húlup</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6835, "húp", "hup", "m", "");
 INSERT INTO `wced_entry` VALUES (6836, "hupa", "353", "<entry page=""353"" id=""6836""><form id=""hupaq"" lang=""ceb"">hupà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulpaq"">= <sc>hulpà</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulpaq""><sc>hulpà</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6836, "hupà", "hupa", "m", "");
@@ -16634,7 +16634,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6840
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6840, "sigh");
 INSERT INTO `wced_entry` VALUES (6841, "hupay", "353", "<entry page=""353"" id=""6841""><form id=""hupay"" lang=""ceb"">hupay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#humpay"">= <sc>humpay</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#humpay""><sc>humpay</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6841, "hupay", "hupay", "m", "");
@@ -16717,7 +16717,7 @@ INSERT INTO `wced_entry` VALUES (6847, "hupung, hupung", "353", "<entry page=""3
 </sense></hom></entry>
 <entry><form id=""panghuxpung"" lang=""ceb""><abbr expan=""panghúpung"" type=""lemma"">paN-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxpung"">= <sc>húpung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxpung""><sc>húpung</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6847, "hupung", "hupung", "s", "nv");
@@ -16808,13 +16808,13 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6855, "eager");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6855, "excited");
 INSERT INTO `wced_entry` VALUES (6856, "hural", "354", "<entry page=""354"" id=""6856""><form id=""hural"" lang=""ceb"">hural</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hurar"">= <sc>hurar</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hurar""><sc>hurar</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6856, "hural", "hural", "m", "");
 INSERT INTO `wced_entry` VALUES (6857, "huraminta", "354", "<entry page=""354"" id=""6857""><form id=""huraminta"" lang=""ceb"">huraminta</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiraminta"">= <sc>hiraminta</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiraminta""><sc>hiraminta</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6857, "huraminta", "huraminta", "m", "");
@@ -16949,7 +16949,7 @@ INSERT INTO `wced_entry` VALUES (6866, "hurnada", "354", "<entry page=""354"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6866, "hurnáda", "hurnada", "m", "nv");
 INSERT INTO `wced_entry` VALUES (6867, "hurnu", "354", "<entry page=""354"" id=""6867""><form id=""hurnu"" lang=""ceb"">hurnu</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hudnu"">= <sc>hudnu</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hudnu""><sc>hudnu</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6867, "hurnu", "hurnu", "m", "");
@@ -16957,7 +16957,7 @@ INSERT INTO `wced_entry` VALUES (6868, "hurs", "354", "<entry page=""354"" id=""
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> horse in a chess piece. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> one’s girl <pb n=""355""/>friend or mistress (from <xr lang=""ceb"" target=""#""><ix>kabáyù,</ix> <pos>n</pos> <i lang=""ceb"">2</i></xr>—slang).
+<sense n=""2""><number>2</number><trans> one’s girl <pb n=""355""/>friend or mistress (from <ix>kabáyù,</ix> <pos>n</pos> <i lang=""ceb"">2</i>—slang).
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6868, "hurs", "hurs", "m", "n");
@@ -17019,7 +17019,7 @@ INSERT INTO `wced_entry` VALUES (6872, "hurus", "355", "<entry page=""355"" id="
 <sense n=""2""><number>2</number> <itype>[B1256]</itype><trans> be blown off from an attachment as if stripped. </trans>
 <eg><i lang=""ceb"">Nahurus ang dáhun sa káhuy sa makusug nga hángin,</i><trans> The leaves of the tree were blown away by the strong wind. </trans></eg>
 </sense>
-<sense n=""3, 4""><number>3, 4</number><trans> <xr lang=""ceb"" target=""#harus"">= <sc>harus</sc> <i lang=""ceb"">1, 3.</i></xr>
+<sense n=""3, 4""><number>3, 4</number><trans> = <xr lang=""ceb"" target=""#harus""><sc>harus</sc></xr> <i lang=""ceb"">1, 3.</i>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6872, "hurus", "hurus", "m", "v");
@@ -17082,7 +17082,7 @@ INSERT INTO `wced_entry` VALUES (6874, "hus1", "355", "<entry page=""355"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6874, "hús", "hus", "s", "nv");
 INSERT INTO `wced_entry` VALUES (6875, "hus2", "355", "<entry page=""355"" id=""6875""><form id=""huxs2"" lang=""ceb"">hús<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hulus"">= <sc>hulus</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hulus""><sc>hulus</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6875, "hús", "hus", "s", "");
@@ -17234,7 +17234,7 @@ INSERT INTO `wced_entry` VALUES (6882, "husla", "356", "<entry page=""356"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6882, "huslà", "husla", "m", "v");
 INSERT INTO `wced_entry` VALUES (6883, "huslir", "356", "<entry page=""356"" id=""6883""><form id=""huslir"" lang=""ceb"">huslir</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haslir"">= <sc>haslir</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haslir""><sc>haslir</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6883, "huslir", "huslir", "m", "");
@@ -17288,10 +17288,10 @@ INSERT INTO `wced_entry` VALUES (6888, "hustisya1", "356", "<entry page=""356"" 
 <hom role=""n""><pos>n</pos>
 <sense n=""1""><number>1</number><trans> <tr>justice</tr>. </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <xr lang=""ceb"" target=""#husga4r"">= <sc>husgǎr</sc>.</xr> </trans>
+<sense n=""2""><number>2</number><trans> = <xr lang=""ceb"" target=""#husga4r""><sc>husgǎr</sc></xr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#husga4r"">= <sc>husgǎr</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#husga4r""><sc>husgǎr</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6888, "hustisya", "hustisya", "s", "nv");
@@ -17304,7 +17304,7 @@ INSERT INTO `wced_entry` VALUES (6889, "hustisya2", "356", "<entry page=""356"" 
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6889, "hustisya", "hustisya", "s", "n");
 INSERT INTO `wced_entry` VALUES (6890, "hustiyas", "356", "<entry page=""356"" id=""6890""><form id=""hustiyas"" lang=""ceb"">hustiyas</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#ustiyas"">= <sc>ustiyas</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#ustiyas""><sc>ustiyas</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6890, "hustiyas", "hustiyas", "m", "");
@@ -17506,7 +17506,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6907
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6907, "collapse");
 INSERT INTO `wced_entry` VALUES (6908, "huthut4", "357", "<entry page=""357"" id=""6908""><form id=""huthut4"" lang=""ceb"">huthut<sub>4</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#haluthut"">= <sc>haluthut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#haluthut""><sc>haluthut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6908, "huthut", "huthut", "s", "");
@@ -17522,7 +17522,7 @@ INSERT INTO `wced_entry` VALUES (6909, "hutik", "357", "<entry page=""357"" id="
 </sense></hom>
 <entry><form id=""huxtik"" lang=""ceb""><abbr expan=""hútik"" type=""lemma"">(←)</abbr><sub>1</sub></form>
 <hom>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#hutik"">= <sc>hutik</sc>, <i lang=""ceb"">2.</i></xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#hutik""><sc>hutik</sc></xr>, <i lang=""ceb"">2.</i> </trans>
 </sense></hom></entry>
 <entry><form id=""hutixkay"" lang=""ceb""><abbr expan=""hutíkay"" type=""lemma"">-ay</abbr></form>
 <hom role=""v""><pos>v</pos>
@@ -17587,7 +17587,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6913
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6913, "drunk");
 INSERT INTO `wced_entry` VALUES (6914, "huts", "357", "<entry page=""357"" id=""6914""><form id=""huts"" lang=""ceb"">huts</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hut"">= <sc>hut</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hut""><sc>hut</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6914, "huts", "huts", "m", "");
@@ -17748,7 +17748,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (6925, "crowded");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6925, "jampacked");
 INSERT INTO `wced_entry` VALUES (6926, "huut2", "358", "<entry page=""358"" id=""6926""><form id=""huut2"" lang=""ceb"">huut<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huung"">= <sc>huung</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huung""><sc>huung</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6926, "huut", "huut", "s", "");
@@ -17761,7 +17761,7 @@ INSERT INTO `wced_entry` VALUES (6927, "huwa", "358", "<entry page=""358"" id=""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6927, "huwà", "huwa", "m", "v");
 INSERT INTO `wced_entry` VALUES (6928, "huwa-", "358", "<entry page=""358"" id=""6928""><form id=""huwa-"" lang=""ceb"">huwa-</form>
 <hom>
-<sense n=""0""><trans> for words with <bx>huwa-</bx> see also under <xr lang=""ceb"" target=""#hula-""><sc>hula-</sc>.</xr>
+<sense n=""0""><trans> for words with <bx>huwa-</bx> see also under <xr lang=""ceb"" target=""#hula-""><sc>hula-</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6928, "huwa-", "huwa-", "m", "");
@@ -17857,7 +17857,7 @@ INSERT INTO `wced_entry` VALUES (6934, "huwas2", "358", "<entry page=""358"" id=
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6934, "huwas", "huwas", "s", "n");
 INSERT INTO `wced_entry` VALUES (6935, "huwasay", "358", "<entry page=""358"" id=""6935""><form id=""huwaxsay"" lang=""ceb"">huwásay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#waxsay"">= <sc>wásay</sc>, <i lang=""ceb"">n</i>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#waxsay""><sc>wásay</sc></xr>, <i lang=""ceb"">n</i>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6935, "huwásay", "huwasay", "m", "");
@@ -17882,13 +17882,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6937
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6937, "whoa");
 INSERT INTO `wced_entry` VALUES (6938, "huwatid", "359", "<entry page=""359"" id=""6938""><form id=""huwaxtid"" lang=""ceb"">huwátid</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huyaxtid"">= <sc>huyátid</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huyaxtid""><sc>huyátid</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6938, "huwátid", "huwatid", "m", "");
 INSERT INTO `wced_entry` VALUES (6939, "huwi-", "359", "<entry page=""359"" id=""6939""><form id=""huwi-"" lang=""ceb"">huwi-</form>
 <hom>
-<sense n=""0""><trans> for words with <ix>huwi-</ix> <xr lang=""ceb"" target=""#huy-"">see also <sc>huy-</sc>.</xr>
+<sense n=""0""><trans> for words with <ix>huwi-</ix> see also <xr lang=""ceb"" target=""#huy-""><sc>huy-</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6939, "huwi-", "huwi-", "m", "");
@@ -17955,7 +17955,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6942
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6942, "hùy", "huy", "s", "n");
 INSERT INTO `wced_entry` VALUES (6943, "huy", "359", "<entry page=""359"" id=""6943""><form id=""huxy"" lang=""ceb"">húy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#hiluy"">= <sc>hiluy</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#hiluy""><sc>hiluy</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6943, "húy", "huy", "m", "");
@@ -17966,7 +17966,7 @@ INSERT INTO `wced_entry` VALUES (6944, "huy-ab", "359", "<entry page=""359"" id=
 </sense></hom>
 <entry><form id=""panghuy-ab"" lang=""ceb""><abbr expan=""panghuy-ab"" type=""lemma"">paN-</abbr></form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huy-ab"">= <sc>huy-ab</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huy-ab""><sc>huy-ab</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6944, "huy-ab", "huy-ab", "m", "v");
@@ -18031,7 +18031,7 @@ INSERT INTO `wced_entry` VALUES (6948, "huyang", "359", "<entry page=""359"" id=
 </sense></hom>
 <entry><form id=""huyang"" lang=""ceb""><abbr expan=""huyang"" type=""lemma"">(→)</abbr></form>
 <hom>
-<sense n=""1""><number>1</number><trans> <xr lang=""ceb"" target=""#huxyang"">= <sc>húyang</sc>, <i lang=""ceb"">a</i>.</xr> </trans>
+<sense n=""1""><number>1</number><trans> = <xr lang=""ceb"" target=""#huxyang""><sc>húyang</sc></xr>, <i lang=""ceb"">a</i>. </trans>
 </sense></hom></entry>
 <entry><form id=""mahuxyang"" lang=""ceb""><abbr expan=""mahúyang"" type=""lemma"">ma-</abbr></form>
 <hom role=""a""><pos>a</pos>
@@ -18059,7 +18059,7 @@ INSERT INTO `wced_entry` VALUES (6949, "huyatid", "359", "<entry page=""359"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6949, "huyátid", "huyatid", "m", "v");
 INSERT INTO `wced_entry` VALUES (6950, "huybis", "359", "<entry page=""359"" id=""6950""><form id=""Huybis"" lang=""ceb"">Huybis</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <tr>Thursday</tr>. <xr lang=""ceb"" target=""#birnis""><ix>see</ix> <sc>birnis</sc> <i lang=""ceb"">for verb forms.</i></xr> </trans>
+<sense n=""0""><trans> <tr>Thursday</tr>. <ix>see</ix> <xr lang=""ceb"" target=""#birnis""><sc>birnis</sc></xr> <i lang=""ceb"">for verb forms.</i> </trans>
 </sense></hom>
 <entry><form id=""Huybis_Santu"" lang=""ceb""><abbr expan=""Huybis"" type=""lemma"">—</abbr> Santu</form>
 <hom>
@@ -18152,7 +18152,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6955
 INSERT INTO `wced_translation` (entryid, translation) VALUES (6955, "sound");
 INSERT INTO `wced_entry` VALUES (6956, "huyhuy", "360", "<entry page=""360"" id=""6956""><form id=""huyhuxy"" lang=""ceb"">huyhúy</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huy""><ix>see</ix> <sc>huy<sub>1</sub></sc>.</xr>
+<sense n=""0""><trans> <ix>see</ix> <xr lang=""ceb"" target=""#huy""><sc>huy<sub>1</sub></sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6956, "huyhúy", "huyhuy", "m", "");
@@ -18220,7 +18220,7 @@ INSERT INTO `wced_entry` VALUES (6960, "huyup", "360", "<entry page=""360"" id="
 </sense></hom></entry>
 <entry><form id=""huypanay"" lang=""ceb"">huypanay</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxyup"">= <sc>húyup</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxyup""><sc>húyup</sc></xr>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6960, "huyup", "huyup", "m", "vn");
@@ -18245,13 +18245,13 @@ INSERT INTO `wced_entry` VALUES (6961, "huyut", "360", "<entry page=""360"" id="
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6961, "huyut", "huyut", "m", "va");
 INSERT INTO `wced_entry` VALUES (6962, "huyut", "360", "<entry page=""360"" id=""6962""><form id=""huxyut"" lang=""ceb"">húyut</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#huxsud"">= <sc>húsud</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#huxsud""><sc>húsud</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6962, "húyut", "huyut", "m", "");
 INSERT INTO `wced_entry` VALUES (6963, "hwasa, hwasa", "360", "<entry page=""360"" id=""6963""><form id=""hwasa_hwasaq"" lang=""ceb"">hwasa, hwasà</form>
 <hom>
-<sense n=""0""><trans> <xr lang=""ceb"" target=""#aliwaxsa"">= <sc>aliwása</sc>.</xr>
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#aliwaxsa""><sc>aliwása</sc></xr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6963, "hwasa", "hwasa", "s", "");

@@ -4,9 +4,9 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:local="http://localhost"
+    xmlns:f="urn:stylesheet-functions"
     version="2.0"
-    exclude-result-prefixes="xs dc">
+    exclude-result-prefixes="xs dc f">
 
     <xsl:output 
         method="html" 
@@ -65,7 +65,7 @@
         </html>
     </xsl:template>
 
-    <xsl:function name="local:get-page-url" as="xs:string">
+    <xsl:function name="f:get-page-url" as="xs:string">
         <xsl:param name="page" as="xs:string"/>
         <xsl:variable name="pageNumber" select="number($page)"/>
 
@@ -93,7 +93,7 @@
 
     <xsl:template match="entry">
         <xsl:if test="parent::dictionary">
-            <div class="page-ref"><a href="{local:get-page-url(@page)}"><xsl:value-of select="@page"/></a></div>
+            <div class="page-ref"><a href="{f:get-page-url(@page)}"><xsl:value-of select="@page"/></a></div>
         </xsl:if>
 
         <div class="entry">

@@ -24,10 +24,10 @@
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:local="http://localhost"
+    xmlns:f="urn:stylesheet-functions"
     xmlns:xd="http://www.pnp-software.com/XSLTdoc"
     version="2.0"
-    exclude-result-prefixes="xs local xd">
+    exclude-result-prefixes="xs f xd">
 
     <xsl:include href="WCED-support.xsl"/>
 
@@ -122,7 +122,7 @@
         <xsl:variable name="id" select="ancestor::p/@id"/>
         <!-- remove asterisks and split on comma or slash -->
         <xsl:for-each select="tokenize(replace($heads, '[*&dagger;]', ''), '[,/][,/ ]*')">
-            <xsl:value-of select="local:insertHeadSql($id, .)"/>
+            <xsl:value-of select="f:insertHeadSql($id, .)"/>
         </xsl:for-each>
     </xsl:template>
 
@@ -134,12 +134,12 @@
         <xsl:value-of select="@expan"/>
     </xsl:template>
 
-    <xsl:function name="local:insertHeadSql">
+    <xsl:function name="f:insertHeadSql">
         <xsl:param name="entryId"/>
         <xsl:param name="word"/>
 
         <xsl:variable name="normalizedWord">
-            <xsl:value-of select="lower-case(local:strip_diacritics($word))"/>
+            <xsl:value-of select="lower-case(f:strip_diacritics($word))"/>
         </xsl:variable>
 
         <xsl:text>&lf;</xsl:text>
@@ -313,7 +313,7 @@
 
         <xsl:for-each-group select="$nodes" group-starting-with="pos">
             <!-- ignore spurious empty groups (caused by spaces in source text) -->
-            <xsl:if test="not(local:is-empty(current-group()))">
+            <xsl:if test="not(f:is-empty(current-group()))">
                 <xsl:text>&lf;</xsl:text>
                 <hom>
                     <xsl:choose>
@@ -353,7 +353,7 @@
 
         <xsl:for-each-group select="$nodes" group-starting-with="number">
             <!-- eliminate spurious empty groups (caused by spaces in source text) -->
-            <xsl:if test="not(local:is-empty(current-group()))">
+            <xsl:if test="not(f:is-empty(current-group()))">
                 <xsl:text>&lf;</xsl:text>
                 <sense>
                     <xsl:attribute name="n" select="if (name(.) = 'number') then string(.) else 0"/>
@@ -438,10 +438,20 @@
     </xsl:template>
 
 
-    <!-- TODO handle actual link on sc element -->
     <xsl:template match="xr">
-        <xr lang="ceb" target="#{local:make-id(lower-case(local:as-string(sc)))}">
-            <xsl:apply-templates/>
+        <xsl:apply-templates mode="crossref"/>
+    </xsl:template>
+
+
+    <xsl:template match="*" mode="crossref">
+        <xsl:apply-templates select="."/>
+    </xsl:template>
+
+
+    <xsl:template match="sc" mode="crossref">
+        <xsl:variable name="target" select="if(abbr/@expan) then abbr/@expan else ."/>
+        <xr lang="ceb" target="#{f:make-id(lower-case(f:as-string($target)))}">
+            <sc><xsl:apply-templates/></sc>
         </xr>
     </xsl:template>
 
@@ -479,7 +489,7 @@
             <xsl:apply-templates mode="expanded-form" select="."/>
         </xsl:variable>
         <xsl:variable name="id">
-            <xsl:value-of select="local:make-id(if (contains(',', $expanded-form)) then substring-before(',', $expanded-form) else $expanded-form)"/>
+            <xsl:value-of select="f:make-id(if (contains(',', $expanded-form)) then substring-before(',', $expanded-form) else $expanded-form)"/>
         </xsl:variable>
         <form id="{$id}">
             <xsl:if test="not(@lang)">

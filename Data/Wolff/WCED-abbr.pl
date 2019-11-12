@@ -27,8 +27,9 @@ sub handleAbbreviations($) {
         $remainder = $';
 
         if ($abbr eq '') {
-            print "\n[ERROR: empty abbreviation]\n";
-            print STDERR "ERROR: empty abbreviation\n";
+            # In four cases, this is intended.
+            # print "\n[ERROR: empty abbreviation]\n";
+            print STDERR "WARNING: empty abbreviation\n";
         }
 
         if ($expan eq '') {

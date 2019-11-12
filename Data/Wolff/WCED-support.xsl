@@ -35,10 +35,10 @@
 <xsl:stylesheet
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xmlns:local="http://localhost"
+    xmlns:f="urn:stylesheet-functions"
     xmlns:xd="http://www.pnp-software.com/XSLTdoc"
     version="2.0"
-    exclude-result-prefixes="xs local xd">
+    exclude-result-prefixes="xs f xd">
 
     <xsl:output
         method="xml"
@@ -56,7 +56,7 @@
     <!--== SUPPORT FUNCTIONS ==-->
 
     <!-- Turn a word into a string usable as id -->
-    <xsl:function name="local:make-id" as="xs:string">
+    <xsl:function name="f:make-id" as="xs:string">
         <xsl:param name="word" as="xs:string"/>
 
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'á',          'ax')"/></xsl:variable>
@@ -98,7 +98,7 @@
         <xsl:value-of select="$word"/>
     </xsl:function>
 
-    <xsl:function name="local:make-sortkey" as="xs:string">
+    <xsl:function name="f:make-sortkey" as="xs:string">
         <xsl:param name="word" as="xs:string"/>
 
         <xsl:variable name="word" as="xs:string"><xsl:value-of select="replace($word, 'a',          'a0')"/></xsl:variable>
@@ -140,14 +140,14 @@
         <xsl:value-of select="$word"/>
     </xsl:function>
 
-    <xsl:function name="local:strip_diacritics" as="xs:string">
+    <xsl:function name="f:strip_diacritics" as="xs:string">
         <xsl:param name="string" as="xs:string"/>
         <xsl:value-of select="replace(normalize-unicode($string, 'NFD'), '\p{M}', '')"/>
     </xsl:function>
 
 
     <!-- Flatten a sequence of nodes to a string -->
-    <xsl:function name="local:as-string" as="xs:string">
+    <xsl:function name="f:as-string" as="xs:string">
         <xsl:param name="sequence"/>
 
         <xsl:variable name="string">
@@ -161,7 +161,7 @@
 
 
     <!-- Determine whether a sequence of nodes has no text content -->
-    <xsl:function name="local:is-empty" as="xs:boolean">
+    <xsl:function name="f:is-empty" as="xs:boolean">
         <xsl:param name="sequence" as="node()*"/>
 
         <xsl:variable name="string">
@@ -175,7 +175,7 @@
 
 
     <!-- Remove initial empty nodes from a sequence -->
-    <xsl:function name="local:remove-initial-empty" as="node()*">
+    <xsl:function name="f:remove-initial-empty" as="node()*">
         <xsl:param name="sequence" as="node()*"/>
 
         <xsl:variable name="sequence">
