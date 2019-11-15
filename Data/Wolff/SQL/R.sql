@@ -760,8 +760,8 @@ INSERT INTO `wced_entry` VALUES (15361, "raspa1", "822", "<entry page=""822"" id
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A; b(1)]</itype><trans> </trans>
 </sense>
-<sense n=""1""><number>1</number><trans> perform the <xr lang=""ceb"" target=""#d""><sc>d</sc></xr> and <xr lang=""ceb"" target=""#c""><sc>c</sc></xr> on s.o. </trans>
-<eg><i lang=""ceb"">Raspahan ang babáying talinug-an,</i><trans> A woman with excessive bleeding has to get a <xr lang=""ceb"" target=""#d""><sc>d</sc></xr> and <xr lang=""ceb"" target=""#c""><sc>c</sc></xr>. </trans></eg>
+<sense n=""1""><number>1</number><trans> perform the <sc>d</sc> and <sc>c</sc> on s.o. </trans>
+<eg><i lang=""ceb"">Raspahan ang babáying talinug-an,</i><trans> A woman with excessive bleeding has to get a <sc>d</sc> and <sc>c</sc>. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> <tr>trim</tr> and thin the hair with a razor. </trans>
 </sense>

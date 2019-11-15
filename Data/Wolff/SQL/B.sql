@@ -20515,15 +20515,15 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (2997, "starfish");
 INSERT INTO `wced_entry` VALUES (2998, "biu", "146", "<entry page=""146"" id=""2998""><form id=""bixu"" lang=""ceb"">bíu</form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>body odor</tr>. </trans>
-<eg><i lang=""ceb"">Bahúang bíu nímu uy,</i><trans> Jesus, what strong <xr lang=""ceb"" target=""#body_odor""><sc><abbr expan=""body odor"">b.o.</abbr></sc></xr> you’ve got. </trans></eg>
+<eg><i lang=""ceb"">Bahúang bíu nímu uy,</i><trans> Jesus, what strong <sc><abbr expan=""body odor"">b.o.</abbr></sc> you’ve got. </trans></eg>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""> <itype>[B126]</itype><trans> have <xr lang=""ceb"" target=""#b.o""><sc>b.o</sc></xr>. </trans>
-<eg><i lang=""ceb"">Mabíu (biúhun) ka ug dì ka malígù,</i><trans> You’ll have <xr lang=""ceb"" target=""#b.o""><sc>b.o</sc></xr>. if you don’t take a bath. </trans></eg>
+<sense n=""0""> <itype>[B126]</itype><trans> have <sc>b.o</sc>. </trans>
+<eg><i lang=""ceb"">Mabíu (biúhun) ka ug dì ka malígù,</i><trans> You’ll have <sc>b.o</sc>. if you don’t take a bath. </trans></eg>
 </sense></hom>
 <entry><form id=""biuxhun"" lang=""ceb"">biúhun</form>
 <hom role=""a""><pos>a</pos>
-<sense n=""0""><trans> having strong <xr lang=""ceb"" target=""#b.o""><sc>b.o</sc></xr>.
+<sense n=""0""><trans> having strong <sc>b.o</sc>.
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2998, "bíu", "biu", "m", "nv");

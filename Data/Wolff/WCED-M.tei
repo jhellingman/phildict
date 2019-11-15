@@ -857,7 +857,7 @@
 
 <p id=12339><form>matadíru<sub>2</sub></form> <pos>a</pos> <tr>clever</tr>, skillfully shrewd in deception and trickery. <i>Ayawg kumpiyansahi nang tawhána kay matadíru kaáyu nà sa baráha,</i> Don&apos;t trust that man because he&apos;s very cunning in card games. <pos>v</pos> <itype>[B1; b6]</itype> become <tr>cunning</tr>.
 
-<p id=12340><form>matadur</form> <pos>n</pos> <number>1</number> <xr>= <sc>matadíru<hi rend=sub>1, 2</i></sc>.</xr> <number>2</number> <tr>matador</tr>. <number>3</number> <tr>killer</tr>, <tr>fierce</tr>. <i>Manuk nga matadur,</i> A killer gamecock. <pos>v</pos> <itype>[B156; a12]</itype> be, become a matador.
+<p id=12340><form>matadur</form> <pos>n</pos> <number>1</number> <xr>= <sc>matadíru</sc><sub>1, 2</sub>.</xr> <number>2</number> <tr>matador</tr>. <number>3</number> <tr>killer</tr>, <tr>fierce</tr>. <i>Manuk nga matadur,</i> A killer gamecock. <pos>v</pos> <itype>[B156; a12]</itype> be, become a matador.
 
 <p id=12341><form>matag</form> <number>1a</number> <formx>{&mdash;|matag} <r>[<ix>word referring to time or day</ix>]</r></formx> <tr>every</tr>. <i>Bisitáhan ku níya matag adlaw,</i> He visits me every day. <number>1b</number> <formx>{&mdash;|matag} <r>[<ix>verb base</ix>]</r></formx> every time [so-and-so] is done. <i>Usa ka bandihádu ang <pb n=676>mahurut níya matag káun,</i> Each time he ate he consumed a platter of rice. <form>{&mdash;|matag} karun ug unyà</form> every now and then. <i>Tan-áwa ang linat-an matag karun ug unyà,</i> Take a look at the stew every now and then. <form>{&mdash;|matag} usa <r>[<ix>dat.</ix>]</r></form> each and every one of [dat.]. <i>Matag usa níla muámut ug singku písus,</i> Each and every one of them will contribute five pesos.
 
@@ -1755,7 +1755,7 @@
 
 <p id=12783><form>mwiblis</form> <pos>n</pos> <tr>furniture</tr>. <pos>v</pos> <itype>[A12]</itype> get furniture.
 
-<p id=12784><form>mwilyi</form> <xr>= <sc>mulyi<sub>1, 2, 3</sub></sc>.</xr>
+<p id=12784><form>mwilyi</form> <xr>= <sc>mulyi</sc><sub>1, 2, 3</sub>.</xr>
 
 <p id=12785><form>mwistra</form> <xr>= <sc>mustra</sc>.</xr> <form>{-dur|mwistradur}</form> <xr>= <sc>mustradur</sc>.</xr>
 

@@ -12785,14 +12785,14 @@ INSERT INTO `wced_entry` VALUES (14065, "pii", "756", "<entry page=""756"" id=""
 <sense n=""0""><trans> acronym for <abbr expan=""Physical Education"">P.E.</abbr>, <tr>Physical Education</tr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""> <itype>[A1; b6]</itype><trans> hold <xr lang=""ceb"" target=""#p.e""><sc>p.e</sc></xr>. activities.
+<sense n=""0""> <itype>[A1; b6]</itype><trans> hold <sc>p.e.</sc> activities.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (14065, "píi", "pii", "m", "nv");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (14065, "Physical Education");
 INSERT INTO `wced_entry` VALUES (14066, "piis", "756", "<entry page=""756"" id=""14066""><form id=""pixis"" lang=""ceb"">píis</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> acronym for P.S., <tr>postscript</tr>. </trans>
+<sense n=""0""><trans> acronym for <abbr expan=""postscript"">P.S.</abbr>, <tr>postscript</tr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A1; c]</itype><trans> write a postscript. </trans>

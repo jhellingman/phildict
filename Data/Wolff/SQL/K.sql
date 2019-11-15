@@ -3652,7 +3652,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8311
 INSERT INTO `wced_translation` (entryid, translation) VALUES (8311, "calamity");
 INSERT INTO `wced_entry` VALUES (8312, "kalamri", "423", "<entry page=""423"" id=""8312""><form id=""kalamri"" lang=""ceb"">kalamri</form>
 <hom>
-<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kalambri_2""><sc>kalambri<sub>1, 2</sub></sc></xr>.
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kalambri""><sc>kalambri</sc></xr><sub>1, 2</sub>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8312, "kalamri", "kalamri", "m", "");
@@ -8163,7 +8163,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8666
 INSERT INTO `wced_translation` (entryid, translation) VALUES (8666, "captain");
 INSERT INTO `wced_entry` VALUES (8667, "kap", "440", "<entry page=""440"" id=""8667""><form id=""kaxp"" lang=""ceb"">káp</form>
 <hom>
-<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kalap_2""><sc>kalap<sub>1, 2</sub></sc></xr>.
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kalap""><sc>kalap</sc></xr><sub>1, 2</sub>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8667, "káp", "kap", "m", "");
@@ -11075,7 +11075,7 @@ INSERT INTO `wced_entry` VALUES (8879, "kasadu", "450", "<entry page=""450"" id=
 <hom>
 <sense n=""1""><number>1</number><trans> <ix>see</ix> <xr lang=""ceb"" target=""#kasal""><sc>kasal</sc></xr>, <i lang=""ceb"">2.</i> </trans>
 </sense>
-<sense n=""2""><number>2</number><trans> <ix>see</ix> <xr lang=""ceb"" target=""#kasar_2""><sc>kasar<sub>1, 2</sub></sc></xr>.
+<sense n=""2""><number>2</number><trans> <ix>see</ix> <xr lang=""ceb"" target=""#kasar""><sc>kasar</sc></xr><sub>1, 2</sub>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8879, "kasádu", "kasadu", "m", "");
@@ -11827,7 +11827,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8938
 INSERT INTO `wced_translation` (entryid, translation) VALUES (8938, "cut");
 INSERT INTO `wced_entry` VALUES (8939, "kat2", "453", "<entry page=""453"" id=""8939""><form id=""kaxt2"" lang=""ceb"">kát<sub>2</sub></form>
 <hom>
-<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kaxlat_2""><sc>kálat<sub>1, 2</sub></sc></xr>.
+<sense n=""0""><trans> = <xr lang=""ceb"" target=""#kaxlat""><sc>kálat</sc></xr><sub>1, 2</sub>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (8939, "kát", "kat", "s", "");

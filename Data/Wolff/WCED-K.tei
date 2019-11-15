@@ -629,7 +629,7 @@
 
 <p id=8311><form>kalamidad</form> <pos>n</pos> <tr>calamity</tr>.
 
-<p id=8312><form>kalamri</form> <xr>= <sc>kalambri<sub>1, 2</i></sc>.</xr>
+<p id=8312><form>kalamri</form> <xr>= <sc>kalambri</sc><sub>1, 2</sub>.</xr>
 
 <p id=8313><form>kalamúhuy</form> <pos>n</pos> k.o. <tr>fish</tr>.
 
@@ -1351,7 +1351,7 @@
 
 <p id=8666><form>kap</form> <pos>n</pos> short for kapitan, <tr>captain</tr>.
 
-<p id=8667><form>káp</form> <xr>= <sc>kalap<sub>1, 2</i></sc>.</xr>
+<p id=8667><form>káp</form> <xr>= <sc>kalap</sc><sub>1, 2</sub>.</xr>
 
 <p id=8668><form>kápa<sub>1</sub></form> <pos>n</pos> <tr>cape</tr>. <pos>v</pos> <itype>[A; a]</itype> put on a cape, make into a cape.
 
@@ -1785,7 +1785,7 @@
 
 <p id=8878><form>kasába</form> <xr>= <sc>kamúting káhuy</sc>.</xr> <ix>see</ix> <xr><sc>kamúti</sc>.</xr>
 
-<p id=8879><form>kasádu</form> <number>1</number> <ix>see</ix> <xr><sc>kasal</sc>, <i>2.</i></xr> <number>2</number> <ix>see</ix> <xr><sc>kasar<sub>1, 2</i></sc>.</xr>
+<p id=8879><form>kasádu</form> <number>1</number> <ix>see</ix> <xr><sc>kasal</sc>, <i>2.</i></xr> <number>2</number> <ix>see</ix> <xr><sc>kasar</sc><sub>1, 2</sub>.</xr>
 
 <p id=8880><form>kasag</form> <pos>n</pos> k.o. edible salt-water <tr>crab</tr> growing to <measure reg="10 cm">4&Prime;</measure>. <form>{pa&N;-|pangasag}</form> <pos>v</pos> <itype>[A2; b6(1)]</itype> catch <ix>kasag</ix>.
 
@@ -1907,7 +1907,7 @@
 
 <p id=8938><form>kát<sub>1</sub></form> <pos>v</pos> <number>1</number> <itype>[A; b(1)]</itype> take or give a <tr>cut</tr> from an amount of money due s.o. <i>Kátan sa ahinti ang halin,</i> The agent will take a cut from the proceeds. <i>Kátan ang ahinti ug dyís pursintu,</i> The agent will get a cut of ten percent. <number>2</number> <itype>[A; a]</itype> cut playing cards. <i>Kátun ang baráha paghumag saksak,</i> The deck of cards is cut after it is shuffled. <number>3</number> <itype>[A; a]</itype> for a movie to have s.t. cut out of it. <i>Gikát sa sinsur ang hílas nga parti,</i> The lewd scenes were cut out by the censors. <number>3a</number> <itype>[A; a12]</itype> stop a recording to correct an error by re-recording. <number>4</number> <itype>[A; a2]</itype> cut the ball in table tennis, hitting it with the edge of the paddle to make it spin. <pos>n</pos> <number>1</number> one&apos;s share in a deal, commission. <number>2</number> action of cutting in cards or table tennis. <number>3</number> portions of a movie removed by the censors. <number>4</number> recording. <i>Maáyu kaáyu mukanta. Usa lang ka kát, úki na,</i> He is really a good singer. Just one recording, and it is O.K. <number>4a</number> single side of a record.
 
-<p id=8939><form>kát<sub>2</sub></form> <xr>= <sc>kálat<sub>1, 2</i></sc>.</xr>
+<p id=8939><form>kát<sub>2</sub></form> <xr>= <sc>kálat</sc><sub>1, 2</sub>.</xr>
 
 <p id=8940><form>káta</form> <pos>a</pos> for sounds to be <tr>rapid</tr>, in quick succession. <i>Kátà lang ininglis níya!</i> He talks English so fast! <pos>v</pos> <number>1</number> <itype>[B6; c1]</itype> talk rapidly. <i>Mikátà lag tabian ay,</i> There&apos;s the babbler talking at full speed. <i>Ug katáun (ikátà) nákù ang ákung sinultihan, dì mu kasabut,</i> If I talk rapidly, you won&apos;t understand. <number>2</number> <itype>[B3(1)6]</itype> make a series of sharp short sounds in quick succession. <i>Mikátà ang masinggan,</i> The machine guns rattled. <i>Makakátà gánì ang makinilya,</i> If the typewriter makes a rapid popping noise. <i>Mikátà na ang ákung gilung-ag ságing,</i> The bananas I&apos;m cooking are bubbling now. <form>{(&rarr;)|kata}</form> <pos>a</pos> talking rapidly.
 

@@ -8779,10 +8779,8 @@ INSERT INTO `wced_entry` VALUES (16346, "santu", "874", "<entry page=""874"" id=
 <sense n=""a""><number>a</number><trans> the <tr>Christ Child</tr>. </trans>
 </sense>
 <sense n=""b""><number>b</number><trans> the image of the Christ Child thought to have been brought by Magellan. </trans>
-</sense></hom></entry>
-<entry><form id=""b"" lang=""ceb"">b1</form>
-<hom>
-<sense n=""0""><trans> the church which houses it. </trans>
+</sense>
+<sense n=""b1""><number>b1</number><trans> the church which houses it. </trans>
 </sense></hom></entry>
 <entry><form id=""Santu_Paxpa"" lang=""ceb""><abbr expan=""Santu"" type=""lemma"">—</abbr> Pápa</form>
 <hom>
@@ -8812,7 +8810,6 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (1634
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16346, "Santu Kristu", "santu kristu", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16346, "santu lána", "santu lana", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16346, "Santu Ninyu", "santu ninyu", "s", "");
-INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16346, "b1", "b1", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16346, "Santu Pápa", "santu papa", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16346, "Santu Rusaryu", "santu rusaryu", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16346, "santu santítu", "santu santitu", "s", "");
@@ -16619,7 +16616,7 @@ INSERT INTO `wced_entry` VALUES (16914, "singut", "903", "<entry page=""903"" id
 <sense n=""2""><number>2</number> <itype>[A; a4]</itype><trans> gather condensation. <corr sic=""pitcher containing ice will get drops of water on it. ""/></trans>
 </sense>
 <sense n=""3""><number>3</number> <itype>[C123P]</itype><trans> have a hard fight. </trans>
-<eg><i lang=""ceb"">Ug gustu kang makigsíngut (makigpasíngut), hala andǎr,</i><trans> If you want to have a fight, <xr lang=""ceb"" target=""#o.k""><sc>o.k</sc></xr>. let’s get to it. </trans></eg>
+<eg><i lang=""ceb"">Ug gustu kang makigsíngut (makigpasíngut), hala andǎr,</i><trans> If you want to have a fight, <sc>o.k</sc>. let’s get to it. </trans></eg>
 </sense></hom></entry>
 <entry><form id=""paningut"" lang=""ceb""><abbr expan=""paningut"" type=""lemma"">paN-</abbr></form>
 <hom role=""v""><pos>v</pos>
@@ -16895,7 +16892,7 @@ INSERT INTO `wced_entry` VALUES (16926, "sinsilyu", "904", "<entry page=""904"" 
 <entry><form id=""pasinsilyu"" lang=""ceb""><abbr expan=""pasinsilyu"" type=""lemma"">pa-</abbr></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A]</itype><trans> <tr>have children</tr> (humorous). </trans>
-<eg><i lang=""ceb"">Agad pay tibuuk, nagpasinsíyu giyud,</i><trans> You were doing <xr lang=""ceb"" target=""#o.k""><sc>o.k</sc></xr>. single (lit. a whole bill). What did you have to go and have children for (lit. make yourself into small change)?†
+<eg><i lang=""ceb"">Agad pay tibuuk, nagpasinsíyu giyud,</i><trans> You were doing <sc>o.k.</sc> single (lit. a whole bill). What did you have to go and have children for (lit. make yourself into small change)?†
 </trans></eg>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (16926, "sinsilyu", "sinsilyu", "m", "n");

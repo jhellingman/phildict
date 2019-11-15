@@ -1763,7 +1763,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2000
 INSERT INTO `wced_entry` VALUES (20003, "ugingut", "1079", "<entry page=""1079"" id=""20003""><form id=""ugixngut"" lang=""ceb"">ugíngut</form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>body odor</tr> of unwashed perspiration and dirt. </trans>
-<eg><i lang=""ceb"">Nanimáhù lang kang ugíngut,</i><trans> You have a terrible <xr lang=""ceb"" target=""#b.o""><sc>b.o</sc></xr>.
+<eg><i lang=""ceb"">Nanimáhù lang kang ugíngut,</i><trans> You have a terrible <sc><abbr expan=""body odor"">b.o.</abbr></sc>
 </trans></eg>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20003, "ugíngut", "ugingut", "m", "n");
