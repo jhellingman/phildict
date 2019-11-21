@@ -12378,7 +12378,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (6580
 INSERT INTO `wced_entry` VALUES (6581, "hitsu", "335", "<entry page=""335"" id=""6581""><form id=""hitsu"" lang=""ceb"">hitsu</form>
 <hom role=""a""><pos>a</pos>
 <sense n=""1""><number>1</number><trans> complete, having all parts intact. </trans>
-<eg><i lang=""ceb"">Dílì bitsu ning baráha,</i><trans> This is not a complete deck of cards. </trans></eg>
+<eg><i lang=""ceb"">Dílì hitsu ning baráha,</i><trans> This is not a complete deck of cards. </trans></eg>
 <eg><i lang=""ceb"">Hitsu nag ngípun ang bátà,</i><trans> The baby has all its teeth now. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> having been fully furnished. </trans>
