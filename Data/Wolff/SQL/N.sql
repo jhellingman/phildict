@@ -87,7 +87,7 @@ INSERT INTO `wced_entry` VALUES (12794, "na2", "696", "<entry page=""696"" id=""
 <sense n=""1a""><number>1a</number><trans> <ix>particle terminating a conversation</ix>: well, all right. </trans>
 <eg><i lang=""ceb"">Na, adtu na lang ku,</i><trans> Well, I’ll be going now. </trans></eg>
 </sense>
-<sense n=""1b""><number>1b</number><trans> <ix>before exhortations or commands to begin as action</ix>: well, O.K. Let’s get on with it and [do]. </trans>
+<sense n=""1b""><number>1b</number><trans> <ix>before exhortations or commands to begin as action</ix>: well, <asc>O.K.</asc> Let’s get on with it and [do]. </trans>
 <eg><i lang=""ceb"">Na, adtu na lang mi,</i><trans> All right, we’ll be going now. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> <ix>particle preceding a statement that concludes a conversation</ix>: well, all right, I give up. </trans>
@@ -2320,7 +2320,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (12982, "deny");
 INSERT INTO `wced_entry` VALUES (12983, "nigatib1", "705", "<entry page=""705"" id=""12983""><form id=""nigatib"" lang=""ceb"">nigatib<sub>1</sub></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> having negative indications of a disease. </trans>
-<eg><i lang=""ceb"">Sa iksámin sa duktǔr nigatib ku sa tíbi,</i><trans> The doctor’s exam showed me negative for TB.
+<eg><i lang=""ceb"">Sa iksámin sa duktǔr nigatib ku sa tíbi,</i><trans> The doctor’s exam showed me negative for <asc>TB</asc>.
 </trans></eg>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (12983, "nigatib", "nigatib", "s", "n");

@@ -1406,7 +1406,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (1204
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (12043, "walay málay", "walay malay", "s", "");
 INSERT INTO `wced_entry` VALUES (12044, "malayang", "663", "<entry page=""663"" id=""12044""><form id=""malaxyang"" lang=""ceb"">maláyang</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> k.o. fine, white rice introduced by the PACD.
+<sense n=""0""><trans> k.o. fine, white rice introduced by the <asc>PACD</asc>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (12044, "maláyang", "malayang", "m", "n");
@@ -2935,7 +2935,7 @@ INSERT INTO `wced_entry` VALUES (12170, "maniubra", "669", "<entry page=""669"" 
 <eg><i lang=""ceb"">Maniubráha (imaniubra) pag-áyu ang sakayan arun dílì masángad,</i><trans> Manipulate the boat skillfully so that it won’t run aground. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> contrive s.t. skillfully in an underhanded way. </trans>
-<eg><i lang=""ceb"">Nakalusut dáyun ang ákung lún sa bangku kay gimaniubrag maáyu sa ákung amígu,</i><trans> My loan went through OK because my friend maneuvered it skillfully.
+<eg><i lang=""ceb"">Nakalusut dáyun ang ákung lún sa bangku kay gimaniubrag maáyu sa ákung amígu,</i><trans> My loan went through <asc>OK</asc> because my friend maneuvered it skillfully.
 </trans></eg>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (12170, "maniubra", "maniubra", "m", "nv");
@@ -8921,7 +8921,7 @@ INSERT INTO `wced_entry` VALUES (12634, "mubu", "689", "<entry page=""689"" id="
 <entry><form id=""minubuq"" lang=""ceb""><abbr expan=""minubù"" type=""lemma"">-in-</abbr></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>shortenings</tr>. </trans>
-<eg><i lang=""ceb"">Ang yúbi mauy minubù sa University of the Visayas,</i><trans> U.V. is short for the University of the Visayas.
+<eg><i lang=""ceb"">Ang yúbi mauy minubù sa University of the Visayas,</i><trans> <asc>U.V.</asc> is short for the University of the Visayas.
 </trans></eg>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (12634, "mubù", "mubu", "m", "a");

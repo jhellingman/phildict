@@ -3394,7 +3394,7 @@ INSERT INTO `wced_entry` VALUES (4014, "dalu", "198", "<entry page=""198"" id=""
 <eg><i lang=""ceb"">Ngánung gidawúan mu man ang kaugalíngun mung anak?</i><trans> Why do you have to begrudge your own child? </trans></eg>
 </sense>
 <sense n=""2""><number>2</number> <itype>[A; a]</itype><trans> <tr>tease</tr> by offering s.t. and then taking it away. </trans>
-<eg><i lang=""ceb"">Ayaw akug dalúa. Ug ihátag, ihátag,</i><trans> Don’t take away what you have given me. If you’re going to give it, O.K. </trans></eg>
+<eg><i lang=""ceb"">Ayaw akug dalúa. Ug ihátag, ihátag,</i><trans> Don’t take away what you have given me. If you’re going to give it, <asc>O.K.</asc> </trans></eg>
 </sense></hom></entry>
 <entry><form id=""kadaluqdaluq"" lang=""ceb"">kadalùdalù</form>
 <hom role=""v""><pos>v</pos>
@@ -11433,7 +11433,7 @@ INSERT INTO `wced_entry` VALUES (4646, "drama", "227", "<entry page=""227"" id="
 <eg><i lang=""ceb"">Ayaw kug dramáhi ánang ímung paghilakhílak,</i><trans> Don’t put on an act pretending to cry in front of me. </trans></eg>
 </sense></hom>
 <hom role=""n""><pos>n</pos>
-<sense n=""1""><number>1</number><trans> <tr>drama</tr> on stage, radio or TV broadcast. </trans>
+<sense n=""1""><number>1</number><trans> <tr>drama</tr> on stage, radio or <asc>TV</asc> broadcast. </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> act put on to fool s.o.
 </trans>
@@ -11468,7 +11468,7 @@ INSERT INTO `wced_entry` VALUES (4648, "dramaturga", "227", "<entry page=""227""
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (4648, "dramaturga", "dramaturga", "m", "");
 INSERT INTO `wced_entry` VALUES (4649, "dramaturgu", "227", "<entry page=""227"" id=""4649""><form id=""dramaturgu"" lang=""ceb"">dramaturgu</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""1""><number>1</number><trans> <tr>actor</tr> on stage or in a radio or TV drama. </trans>
+<sense n=""1""><number>1</number><trans> <tr>actor</tr> on stage or in a radio or <asc>TV</asc> drama. </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> <tr>playwright</tr>. </trans>
 </sense></hom>
@@ -11638,7 +11638,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (4664, "dressmaking
 INSERT INTO `wced_entry` VALUES (4665, "drisrihirsal", "228", "<entry page=""228"" id=""4665""><form id=""drisrihirsal"" lang=""ceb"">drisrihirsal</form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> a <tr>final rehearsal</tr> of s.t. to be performed. </trans>
-<eg><i lang=""ceb"">Dris rihirsal sa píi,</i><trans> Final rehearsal of the <abbr expan=""Physical Education"">P.E.</abbr> performance. </trans></eg>
+<eg><i lang=""ceb"">Dris rihirsal sa píi,</i><trans> Final rehearsal of the <asc><abbr expan=""Physical Education"">P.E.</abbr></asc> performance. </trans></eg>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A12; c1]</itype><trans> hold a final rehearsal of a play, an operetta, etc.
@@ -11787,10 +11787,10 @@ INSERT INTO `wced_entry` VALUES (4677, "dubla", "228", "<entry page=""228"" id="
 <eg><i lang=""ceb"">Nagdubla mig tíru sa liyun,</i><trans> We both fired at the lion. </trans></eg>
 <eg><i lang=""ceb"">Human na siya kasab-i. Ayaw idubla ang ímu,</i><trans> He has gotten his scolding. Don’t you do it, too. </trans></eg>
 </sense>
-<sense n=""2""><number>2</number><trans> <tr>toll</tr> the church bell for the dead, done with two bells in a set rhythm, or toll the bells in the same way at eight P.M. </trans>
+<sense n=""2""><number>2</number><trans> <tr>toll</tr> the church bell for the dead, done with two bells in a set rhythm, or toll the bells in the same way at eight <asc>P.M.</asc> </trans>
 </sense></hom>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> tolling of the church bells at eight P.M.
+<sense n=""0""><trans> tolling of the church bells at eight <asc>P.M.</asc>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (4677, "dubla", "dubla", "m", "vn");
@@ -13305,7 +13305,7 @@ INSERT INTO `wced_entry` VALUES (4751, "dula", "234", "<entry page=""234"" id=""
 <sense n=""1""><number>1</number> <itype>[AC; abc]</itype><trans> <tr>play</tr>, play a game. </trans>
 <eg><i lang=""ceb"">Ang bátà nagdúwà sa íyang tái,</i><trans> The child is playing with its feces. </trans></eg>
 <eg><i lang=""ceb"">Makigdúlà aku nímug tínis,</i><trans> I’ll play a game of tennis with you. </trans></eg>
-<eg><i lang=""ceb"">Duláun nátù ang Píi run,</i><trans> Let’s make our <abbr expan=""Physical Education"">P.E.</abbr> class into a play session. </trans></eg>
+<eg><i lang=""ceb"">Duláun nátù ang Píi run,</i><trans> Let’s make our <asc><abbr expan=""Physical Education"">P.E.</abbr></asc> class into a play session. </trans></eg>
 <eg><i lang=""ceb"">Ása man duláa ang inyung baskit?</i><trans> Where will you hold your basketball game? </trans></eg>
 <eg><i lang=""ceb"">Ayawg dulái nang makinilya,</i><trans> Don’t play with that machine. </trans></eg>
 <eg><i lang=""ceb"">Dúgay nang wà sila nátù igdúlà,</i><trans> We haven’t played against them in a long time. </trans></eg>
@@ -16274,7 +16274,7 @@ INSERT INTO `wced_entry` VALUES (4999, "dyiru", "245", "<entry page=""245"" id="
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""1""><number>1</number> <itype>[AN; b5]</itype><trans> give a zero in school, not let an opponent get more than zero in games. </trans>
-<eg><i lang=""ceb"">Nangdyíru ang taga Yúbi námù,</i><trans> We got zero in our game against <abbr expan=""University of the Visayas"">U.V.</abbr> (Lit. The U.V. team gave us a zero.) </trans></eg>
+<eg><i lang=""ceb"">Nangdyíru ang taga Yúbi námù,</i><trans> We got zero in our game against <asc><abbr expan=""University of the Visayas"">U.V.</abbr></asc> (Lit. The <asc>U.V.</asc> team gave us a zero.) </trans></eg>
 <eg><i lang=""ceb"">Nadyíru (nadyirúhan) ku sa mat,</i><trans> I got a zero in Math. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number> <itype>[B3; c1]</itype><trans> for a gauge to reach zero. </trans>

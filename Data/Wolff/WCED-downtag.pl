@@ -32,6 +32,9 @@ sub handleEntry($) {
     $entry =~ s/<sub>/<hi rend=sub>/sg;
     $entry =~ s/<\/sub>/<\/hi>/sg;
 
+    $entry =~ s/<asc>/<hi rend=asc>/sg;
+    $entry =~ s/<\/asc>/<\/hi>/sg;
+
     $entry =~ s/<sc>/<hi rend=sc>/sg;
     $entry =~ s/<\/sc>/<\/hi>/sg;
 

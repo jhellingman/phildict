@@ -1133,7 +1133,7 @@ INSERT INTO `wced_entry` VALUES (20659, "waraswaras", "1124", "<entry page=""112
 <sense n=""0""> <itype>[A]</itype><trans> </trans>
 </sense>
 <sense n=""1""><number>1</number><trans> go back and forth. </trans>
-<eg><i lang=""ceb"">Nagwaraswáras pa ra ba giyud atubángas bisíta, nanimáhù ra ba!</i><trans> She walked back and forth in front of the visitors, and to think that she had <abbr expan=""body odor"">B.O.</abbr>! </trans></eg>
+<eg><i lang=""ceb"">Nagwaraswáras pa ra ba giyud atubángas bisíta, nanimáhù ra ba!</i><trans> She walked back and forth in front of the visitors, and to think that she had <asc><abbr expan=""body odor"">B.O.</abbr></asc>! </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> go in all directions hastily. </trans>
 <eg><i lang=""ceb"">Miwaraswáras si Kuring pagpangítà sa puldir nga nawálà,</i><trans> Coring went around in a dither looking for the lost folder.

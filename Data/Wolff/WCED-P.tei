@@ -173,7 +173,7 @@
 
 <p id=13163><form>pagapak</form> <xr>= <sc>palagupak</sc>.</xr>
 
-<p id=13164><form>pagari</form> <pos>n</pos> <number>1</number> s.t. payable on an installment basis. <i>Mukúhà kug tíbi nga pagari,</i> I will get a T.V. set on an installment basis. <number>2</number> <tr>promissory note</tr>. <i>Pirmáhi ring pagari arun masigúru,</i> Sign this promissory note to be sure. <pos>v</pos> <itype>[A; b6]</itype> sell, pay for s.t. on an installment basis. <i>Nakapagari aku ug sininaun,</i> I got a piece of dress material on an installment basis.
+<p id=13164><form>pagari</form> <pos>n</pos> <number>1</number> s.t. payable on an installment basis. <i>Mukúhà kug tíbi nga pagari,</i> I will get a <asc>T.V.</asc> set on an installment basis. <number>2</number> <tr>promissory note</tr>. <i>Pirmáhi ring pagari arun masigúru,</i> Sign this promissory note to be sure. <pos>v</pos> <itype>[A; b6]</itype> sell, pay for s.t. on an installment basis. <i>Nakapagari aku ug sininaun,</i> I got a piece of dress material on an installment basis.
 
 <p id=13165><form>págas</form> <pos>n</pos> hardened crust on top of a wound. <pos>v</pos> <itype>[B3]</itype> form a crust on top of a wound.
 
@@ -269,7 +269,7 @@
 
 <p id=13211><form>pahína<sub>1</sub></form> <pos>n</pos> <tr>page</tr>, <tr>leaf of a book</tr>. <pos>v</pos> <itype>[A; b]</itype> mark, number pages. <i>Gipahináhan ku na ang ripurt,</i> I have already numbered the pages of the report.
 
-<p id=13212><form>pahína<sub>2</sub></form> <pos>v</pos> <itype>[C2; a2b]</itype> for a group to work on s.t. without compensation. <i>Magpahína pagpatay sa ilagà ang tibuuk baryu káda Sabadu,</i> The whole village works on a project to exterminate rats every Saturday. <i>Gipahinahan sa Pitii ang pagtrabáhu sa iskuylahan,</i> The P.T.A. volunteered to work on the school building. <pos>n</pos> work bee to accomplish a certain project.
+<p id=13212><form>pahína<sub>2</sub></form> <pos>v</pos> <itype>[C2; a2b]</itype> for a group to work on s.t. without compensation. <i>Magpahína pagpatay sa ilagà ang tibuuk baryu káda Sabadu,</i> The whole village works on a project to exterminate rats every Saturday. <i>Gipahinahan sa Pitii ang pagtrabáhu sa iskuylahan,</i> The <asc><abbr expan="parent-teacher association">P.T.A.</abbr></asc> volunteered to work on the school building. <pos>n</pos> work bee to accomplish a certain project.
 
 <p id=13213><form>pahináhin</form> <ix>see</ix> <xr><sc>*hináhin</sc>.</xr>
 
@@ -429,7 +429,7 @@
 
 <p id=13290><form>pákul</form> <xr>= <sc>pagúha</sc>.</xr>
 
-<p id=13291><form>pakúma</form> <pos>n</pos> FACOMA, the acronym for Farmers&apos; Cooperative Marketing Association.
+<p id=13291><form>pakúma</form> <pos>n</pos> <asc>FACOMA</asc>, the acronym for Farmers&apos; Cooperative Marketing Association.
 
 <p id=13292><form>pakung</form> <pos>v</pos> <itype>[AC; ab2c]</itype> give s.t. a light rap with s.t. else, bump a small part of the head against s.t. <i>Kanang maistrang saputun ang nagpakung nákù,</i> That irate teacher rapped me on the head. <i>Napakung ang ákung úlu sa nag-abring sira,</i> I knocked my head against the open door. <pos>v</pos> <itype>[A; ac]</itype> bang repeatedly.
 
@@ -447,7 +447,7 @@
 
 <p id=13299><form>pál<sub>1</sub></form> <pos>n</pos> one&apos;s <tr>pal</tr>. <pos>v</pos> <itype>[C; c]</itype> be pals.
 
-<p id=13300><form>pál<sub>2</sub></form> <pos>n</pos> acronym for Philippine Air Lines. <pos>v</pos> <itype>[A13]</itype> take a PAL flight; by extension, take a plane.
+<p id=13300><form>pál<sub>2</sub></form> <pos>n</pos> acronym for Philippine Air Lines. <pos>v</pos> <itype>[A13]</itype> take a <asc>PAL</asc> flight; by extension, take a plane.
 
 <p id=13301><form>pala</form> <pos>n</pos> k.o. black ant, the size of an ordinary red ant (<ix>hulmígas</ix>) infesting fruits. It does not bite but secretes an acid which can sting the eyes. <pos>v</pos> <itype>[a4]</itype> be infested with black ants. <ix>see also</ix> <xr><sc>pa</sc>.</xr>
 
@@ -631,7 +631,7 @@
 
 <p id=13390><form>palinpinun</form> <pos>n</pos> <pos>a</pos> narrow road with a sharp turn having a high cliff on one side and a deep precipice on the other side.
 
-<p id=13391><form>palis</form> <pos>n</pos> <tr>early afternoon</tr>, between noon and 4 P.M. <pos>v</pos> <itype>[B5; b4(1)]</itype> be in the afternoon. <i>Napalisan <pb n=725>kug laba sa mga bulingun,</i> I washed the clothes until afternoon. <i>Palisan ku ang ímung bábuy,</i> I will pay for your pig with an afternoon&apos;s work.
+<p id=13391><form>palis</form> <pos>n</pos> <tr>early afternoon</tr>, between noon and 4 <asc>P.M.</asc> <pos>v</pos> <itype>[B5; b4(1)]</itype> be in the afternoon. <i>Napalisan <pb n=725>kug laba sa mga bulingun,</i> I washed the clothes until afternoon. <i>Palisan ku ang ímung bábuy,</i> I will pay for your pig with an afternoon&apos;s work.
 
 <p id=13392><form>pális</form> <xr>= <sc>pálid<sub>2</sub></sc>, <i>v2.</i></xr>
 
@@ -1251,7 +1251,7 @@
 
 <p id=13696><form>parapin</form> <pos>n</pos> <tr>paraffin</tr>. <pos>v</pos> <itype>[A; b6(1)]</itype> apply paraffin to s.t.
 
-<p id=13697><form>parapirnalya</form> <pos>n</pos> groups of things used for a specific purpose: tools for a trade, items worn with a uniform. <i>Hitsu ka na sa parapirnalya sa ar-utísi?</i> Do you have all the items for your ROTC uniform complete?
+<p id=13697><form>parapirnalya</form> <pos>n</pos> groups of things used for a specific purpose: tools for a trade, items worn with a uniform. <i>Hitsu ka na sa parapirnalya sa ar-utísi?</i> Do you have all the items for your <asc>ROTC</asc> uniform complete?
 
 <p id=13698><form>parapu</form> <pos>n</pos> <tr>paragraph</tr>.
 
@@ -1679,7 +1679,7 @@
 
 <p id=13909><form>patr&ucaron;l</form> <pos>n</pos> <number>1</number> <tr>police patrol</tr>, esp. in vehicles or boats. <number>2</number> <tr>boy scout patrol</tr>. <pos>v</pos> <xr>= <sc>patrulya</sc>.</xr> <form>{-man|patrulman}</form> <pos>n</pos> <tr>patrolman</tr>. <i>Patrulman Ruhíru,</i> Patrolman Rogero.
 
-<p id=13910><form>patrulya</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <number>1</number> go on <tr>patrol</tr>. <i>Gipatrulyahan (gipatrulyáhan) sa mga Písi ang mga prisintu sa pag-iliksiyun,</i> The <abbr expan="Philippine Constabulary">P.C.</abbr> patrolled the precincts during the elections. <number>2</number> go out for a walk. <i>Magpatrulya ta sa plása,</i> Let&apos;s go out for a walk to the plaza. <pos>n</pos> <tr>patrol</tr>.
+<p id=13910><form>patrulya</form> <pos>v</pos> <itype>[A; b6(1)]</itype> <number>1</number> go on <tr>patrol</tr>. <i>Gipatrulyahan (gipatrulyáhan) sa mga Písi ang mga prisintu sa pag-iliksiyun,</i> The <asc><abbr expan="Philippine Constabulary">P.C.</abbr></asc> patrolled the precincts during the elections. <number>2</number> go out for a walk. <i>Magpatrulya ta sa plása,</i> Let&apos;s go out for a walk to the plaza. <pos>n</pos> <tr>patrol</tr>.
 
 <p id=13911><form>patrun, patr&ucaron;n</form> <pos>n</pos> <tr>patron saint</tr> of a place or occupation. <pos>v</pos> <itype>[A23; c1]</itype> take a saint as one&apos;s patron. <form>{-a(&larr;)|patruna}</form> <pos>n</pos> female patron saint. &dagger;
 
@@ -1871,9 +1871,9 @@
 
 <p id=14004><form>píang</form> <pos>v</pos> <number>1</number> <itype>[A; b]</itype> <tr>dislocate</tr>, <tr>sprain</tr>, <tr>fracture</tr> s.o. <i>Napíang ku pagkadakin-as nákù,</i> I got a sprain (fracture) when I slipped and fell. <i>Kaáyung piángan nang ímung kamut nga kiriwan,</i> How nice it would be to break your thieving hands. <number>2</number> <itype>[A; b6]</itype> make s.t. crippled, be at a disadvantage because of a loss or absence of s.t. indispensable. <i>Napíang ang nigusyu pagháwà sa kasusyu,</i> The business was crippled when one of the partners withdrew. <i>Gipiángan na mi dáan kay nasakit ang ámung sinalígan nga magdudulà,</i> We are already on a disadvantage because one of our important players is sick. <form>{(&rarr;)|piang}</form> <pos>n</pos> <number>1</number> general term for <tr>dislocation</tr>, <tr>fracture</tr>, or <tr>sprain</tr>. It may manifest itself in other ways than in the sprained or fractured limb, e.g. respiratory ailments are commonly thought to result from <ix>piang</ix>. <number>2</number> <tr>lacking</tr>. <i>Piang tag usa sa kúrum sa madyung,</i> We&apos;re lacking one to play mahjong. <form>{-an(&rarr;)|piángan}</form> <pos>n</pos> <xr>= <sc>piang</sc>, <i>n2.</i></xr> <form>{-un(&rarr;)|piangun}</form> <pos>a</pos> having a sprain, dislocation, or fracture.
 
-<p id=14005><form>píar</form> <pos>n</pos> acronym for <tr>P.R.</tr>, <tr>public relations</tr>. <i>Dì siya mulampus kay kuwag píar,</i> He won&apos;t succeed because he is bad in dealing with people (lit. lacks public relations).
+<p id=14005><form>píar</form> <pos>n</pos> acronym for <tr><asc>P.R.</asc></tr>, <tr>public relations</tr>. <i>Dì siya mulampus kay kuwag píar,</i> He won&apos;t succeed because he is bad in dealing with people (lit. lacks public relations).
 
-<p id=14006><form>píay</form> <pos>n</pos> dump truck used by the Bureau of Public Highways (from the PI mark on its plate number).
+<p id=14006><form>píay</form> <pos>n</pos> dump truck used by the Bureau of Public Highways (from the <asc>PI</asc> mark on its plate number).
 
 <p id=14007><form>Pib.</form> <pos>n</pos> abbreviation for <ix>Pibríru</ix>, February.
 
@@ -1991,9 +1991,9 @@
 
 <p id=14064><form>pii</form> <pos>a</pos> be not perfectly spherical or circular. <i>Pii ang ligid kay nadusmug ang mutur sa paril,</i> The wheel is not round any more because the motorcycle crashed into a wall. <pos>v</pos> <itype>[B; a2]</itype> be out of true. <i>Mupii (mapii) ang yanta ug hugut kaáyu ang radiyus,</i> The rim will be out of true if the spokes are too tight.
 
-<p id=14065><form>píi</form> <pos>n</pos> acronym for <abbr expan="Physical Education">P.E.</abbr>, <tr>Physical Education</tr>. <pos>v</pos> <itype>[A1; b6]</itype> hold <sc>p.e.</sc> activities.
+<p id=14065><form>píi</form> <pos>n</pos> acronym for <asc><abbr expan="Physical Education">P.E.</abbr></asc>, <tr>Physical Education</tr>. <pos>v</pos> <itype>[A1; b6]</itype> hold <asc>P.E.</asc> activities.
 
-<p id=14066><form>píis</form> <pos>n</pos> acronym for <abbr expan="postscript">P.S.</abbr>, <tr>postscript</tr>. <pos>v</pos> <itype>[A1; c]</itype> write a postscript. <i>Ipíis ku na lang nang ímung panúgun,</i> I&apos;ll put your request in the postscript.
+<p id=14066><form>píis</form> <pos>n</pos> acronym for <asc><abbr expan="postscript">P.S.</abbr></asc>, <tr>postscript</tr>. <pos>v</pos> <itype>[A1; c]</itype> write a postscript. <i>Ipíis ku na lang nang ímung panúgun,</i> I&apos;ll put your request in the postscript.
 
 <p id=14067><form>piit</form> <pos>a</pos> <number>1</number> <tr>too narrow</tr>. <i>Piit kaáyu siyag sinínà,</i> She has a very tight dress on. <i>Piit kaáyung dálan,</i> Too narrow a street. <number>2</number> close, not affording proper distance. <i>Piit kaáyu siya nga mubayli,</i> He dances too close. <pos>v</pos> <number>1</number> <itype>[B; a]</itype> for an area to be too narrow or small, get into too narrow a place. <i>Napiit ang ilagà sa káhuy,</i> The mouse was wedged tight in the firewood. <number>1a</number> <itype>[A; a]</itype> hold s.t. tightly, in a close embrace. <i>Gipiit ni Inting ang láwas ni Tabúra,</i> Inting held Tabora&apos;s body in a close embrace. <number>2</number> <itype>[A; a]</itype> compel s.o. to do s.t. with pressure. <i>Pit-un gánì ku, mutug-an na lang ku,</i> If I&apos;m pressed, I&apos;ll tell the truth. <number>3</number> <itype>[B; c1]</itype> for a singing voice to be tight and forced on a high pitch. <i>Mupiit ang tíngug ug taas kaáyu ang núta,</i> The singing voice becomes tight on very high notes. <form>{-an|piítan}</form> <pos>n</pos> contrivance to squeeze juice out of s.t. slowly, made of two pieces of wood, the top of which is weighed down.
 
@@ -2095,7 +2095,7 @@
 
 <p id=14115><form>pilbaks</form> <pos>n</pos> k.o. homemade bomb used in street demonstrations.
 
-<p id=14116><form>pildi</form> <pos>v</pos> <number>1</number> <itype>[A3P; a]</itype> <tr>lose</tr> in a contest. <i>Mupildi siyag nilibu,</i> He loses by the thousands. <i>Wà pay nakapildi sa kampiyun,</i> No one has beaten the champion yet. <i>Mu ra ka mag napildi sa sugal,</i> You look as if you lost in gambling. <i>Gipildi ang ílang kandidáta sa ámù,</i> Our candidate beat theirs. <number>2</number> <itype>[B126; a4]</itype> die of a sickness. <i>Pildíhun (mapildi) ka sa tísis ug dì ka mupatambal,</i> You&apos;ll die of TB if you don&apos;t get treatment. <number>3</number> <itype>[A; a12]</itype> cause a woman to lose her virtue. <i>Ang uyuan ray mipildi ánang bayhána,</i> That woman was despoiled by her own uncle. <pos>n</pos> <number>1</number> <tr>loser</tr>. <i>Kinsay pildi?</i> Who lost? <number>2</number> <tr>loss</tr>, as in gambling, business, crops. <i>Dakù ang pildi sa ákung humay pagbagyu,</i> The rice field suffered a big loss because of the storm. <pos>a</pos> <number>1</number> <tr>outclassed</tr>. <i>Pildi kaáyu ang tím ninyu,</i> Your team was severely beaten. <number>2</number> an exclamation of disgust, disappointment. <i>&lsquo;Pildi!&rsquo; nakasinggit si Isku. &lsquo;Gihabhab ang ákung karsúnis sa bábuy,&rsquo;</i> &lsquo;Damn!&rsquo; shouted Esco. &lsquo;The pig ate my trousers.&rsquo; <form>kapildíhan</form> <pos>n</pos> <tr>loss</tr>, <tr>defeat</tr>. <i>Angkúna ang ímung kapildíhan,</i> Concede your defeat. <form>{-ru|pildíru}</form> <pos>n</pos> loser (male). <i>Pildíru sa iliksiyun,</i> The losers in the election. <form>{-ra|pildíra}</form> <xr>= <sc>pildíru</sc></xr> (female). &dagger;
+<p id=14116><form>pildi</form> <pos>v</pos> <number>1</number> <itype>[A3P; a]</itype> <tr>lose</tr> in a contest. <i>Mupildi siyag nilibu,</i> He loses by the thousands. <i>Wà pay nakapildi sa kampiyun,</i> No one has beaten the champion yet. <i>Mu ra ka mag napildi sa sugal,</i> You look as if you lost in gambling. <i>Gipildi ang ílang kandidáta sa ámù,</i> Our candidate beat theirs. <number>2</number> <itype>[B126; a4]</itype> die of a sickness. <i>Pildíhun (mapildi) ka sa tísis ug dì ka mupatambal,</i> You&apos;ll die of <asc>TB</asc> if you don&apos;t get treatment. <number>3</number> <itype>[A; a12]</itype> cause a woman to lose her virtue. <i>Ang uyuan ray mipildi ánang bayhána,</i> That woman was despoiled by her own uncle. <pos>n</pos> <number>1</number> <tr>loser</tr>. <i>Kinsay pildi?</i> Who lost? <number>2</number> <tr>loss</tr>, as in gambling, business, crops. <i>Dakù ang pildi sa ákung humay pagbagyu,</i> The rice field suffered a big loss because of the storm. <pos>a</pos> <number>1</number> <tr>outclassed</tr>. <i>Pildi kaáyu ang tím ninyu,</i> Your team was severely beaten. <number>2</number> an exclamation of disgust, disappointment. <i>&lsquo;Pildi!&rsquo; nakasinggit si Isku. &lsquo;Gihabhab ang ákung karsúnis sa bábuy,&rsquo;</i> &lsquo;Damn!&rsquo; shouted Esco. &lsquo;The pig ate my trousers.&rsquo; <form>kapildíhan</form> <pos>n</pos> <tr>loss</tr>, <tr>defeat</tr>. <i>Angkúna ang ímung kapildíhan,</i> Concede your defeat. <form>{-ru|pildíru}</form> <pos>n</pos> loser (male). <i>Pildíru sa iliksiyun,</i> The losers in the election. <form>{-ra|pildíra}</form> <xr>= <sc>pildíru</sc></xr> (female). &dagger;
 
 <p id=14117><form>pildir</form> <pos>n</pos> <tr>outfielder</tr> in baseball. <pos>v</pos> <itype>[A; c1]</itype> be an outfielder.
 
@@ -2587,7 +2587,7 @@
 
 <p id=14357><form>pisaw</form> <pos>n</pos> <pos>a</pos> k.o. <tr>kitchen knife</tr> usually with a metal handle.
 
-<p id=14358><form>písi</form> <pos>n</pos> acronym for P.C., the <tr>Philippine Constabulary</tr>. <pos>v</pos> <itype>[B156; a12]</itype> be, become a member of the P.C. <form>{pa-|papísi}</form> <pos>v</pos> <itype>[A; bc]</itype> have the P.C. arrest s.o. <i>Ipapísi (papisíhan) nang hubug,</i> Have the P.C. arrest (watch) that drunk. <form>{&mdash;|písi} kuntrul</form> <pos>n</pos> P.C. control. <pos>v</pos> <itype>[a4]</itype> put under the control of the P.C. <i>Gipísi kuntrul ang lungsud kay gubut pirmi,</i> The town was placed under P.C. control because of the frequent outbreaks of violence.
+<p id=14358><form>písi</form> <pos>n</pos> acronym for <asc>P.C.</asc>, the <tr>Philippine Constabulary</tr>. <pos>v</pos> <itype>[B156; a12]</itype> be, become a member of the <asc>P.C.</asc> <form>{pa-|papísi}</form> <pos>v</pos> <itype>[A; bc]</itype> have the <asc>P.C.</asc> arrest s.o. <i>Ipapísi (papisíhan) nang hubug,</i> Have the <asc>P.C.</asc> arrest (watch) that drunk. <form>{&mdash;|písi} kuntrul</form> <pos>n</pos> <asc>P.C.</asc> control. <pos>v</pos> <itype>[a4]</itype> put under the control of the <asc>P.C.</asc> <i>Gipísi kuntrul ang lungsud kay gubut pirmi,</i> The town was placed under <asc>P.C.</asc> control because of the frequent outbreaks of violence.
 
 <p id=14359><form>písì</form> <pos>n</pos> <tr>rope</tr> consisting of two or three strands (<ix>lúbid</ix>) twisted together, usually made of fiber. <pos>v</pos> <itype>[A; a]</itype> make a rope, twist s.t. like a rope. <form>{-an|pisían}</form> <pos>n</pos> a device for twisting rope. <form>{-in-|pinísì}</form> <pos>n</pos> tidbit, made of a heavy dough twisted like a rope and fried until it is brown and crunchy. <pos>v</pos> <itype>[A; a12]</itype> make, have <ix>pinísì</ix>. <form>{mag-r-|magpipísì}, {ma&N;-r-|mamimísì}</form> <pos>n</pos> <tr>rope maker</tr>. <form>{-un(&rarr;)|pisiun}</form> <pos>n</pos> fiber to be made into a rope.
 
@@ -2613,7 +2613,7 @@
 
 <p id=14370><form>piskul</form> <xr>= <sc>piskat<sub>1</sub></sc>.</xr>
 
-<p id=14371><form>piskur</form> <pos>n</pos> U.S. <tr>Peace Corps</tr> volunteer. <pos>v</pos> <itype>[B156; a12]</itype> be a Peace Corps volunteer.
+<p id=14371><form>piskur</form> <pos>n</pos> <asc>U.S.</asc> <tr>Peace Corps</tr> volunteer. <pos>v</pos> <itype>[B156; a12]</itype> be a Peace Corps volunteer.
 
 <p id=14372><form>piskut, piskuy</form> <xr>= <sc>piskat<sub>1</sub></sc>.</xr>
 
@@ -2709,9 +2709,9 @@
 
 <p id=14418><form>pitì</form> <pos>n</pos> slapping, <tr>crackling</tr>, or <tr>popping</tr> sound. <pos>v</pos> <itype>[A]</itype> resound with this sound. <i>Mipitì ang íyang nawung kay nagtubagtubag man,</i> She received a slap because she answered me back. <i>Mipitì ang papkurn,</i> The popcorn crackled. <i>Nagpitìpitì ang kakugnan nga nasúnug,</i> The grass field was crackling as it burnt. <form>{(&larr;)|pítì}</form> <pos>n</pos> intense action of producing this sound. <i>Pítì lang ang ílang kinatsilà ay,</i> They&apos;re rattling off Spanish. <pos>v</pos> <itype>[A]</itype> make this sound intensely.
 
-<p id=14419><form>pitibut</form> <pos>n</pos> <tr>PT boat</tr>. <pos>v</pos> <itype>[A1; ac]</itype> take a, go by PT boat.
+<p id=14419><form>pitibut</form> <pos>n</pos> <tr><ast>PT</asc> boat</tr>. <pos>v</pos> <itype>[A1; ac]</itype> take a, go by <asc>PT</asc> boat.
 
-<p id=14420><form>pitii</form> <pos>n</pos> <tr>PTA</tr>, acronym for the Parent-Teachers&apos; Association. <pos>v</pos> <itype>[A1]</itype> have a PTA meeting.
+<p id=14420><form>pitii</form> <pos>n</pos> <tr><asc>PTA</asc></tr>, acronym for the Parent-Teachers&apos; Association. <pos>v</pos> <itype>[A1]</itype> have a <asc>PTA</asc> meeting.
 
 <p id=14421><form>pitik</form> <pos>v</pos> <number>1</number> <itype>[A; b]</itype> <tr>flick</tr> s.t. with the thumb and forefinger. <i>Kinsay nagpitik sa ákung dawunggan?</i> Who flicked my ear? <i>Gipitkan níyang ákung kúmù,</i> He flicked my knuckles. <number>1a</number> <itype>[A; c]</itype> <tr>flick</tr> s.t. away with the fingers. <i>Anhà sa astri ipitik ang sigarilyu,</i> Flick your ashes into the ash tray. <number>1b</number> <itype>[A; b]</itype> in carpentry, mark a line on a piece of wood by stretching a string soaked in dye or soot and letting it snap onto the wood. <number>1c</number> <itype>[A; ab2]</itype> <tr>shot</tr> with a slingshot. <i>Pitkun ku nang manuk ihálas,</i> I&apos;ll shoot that wild chicken with a slingshot. <number>1d</number> <itype>[A; b6]</itype> <tr>whip</tr> s.o. with s.t. small, making a snapping sound. <i>Ákung gipitkan ang íyang tiil ug tualya,</i> I flicked a towel at his legs. <number>2</number> <itype>[A]</itype> for the heart or pulse to <tr>beat</tr>. <i>Nagpitik pa ang íyang pulsu,</i> His pulse is still beating. <number>2a</number> <itype>[A]</itype> for the heart to <tr>beat</tr> for s.o. <i>Mupitik lang ang ákung kasingkásing kang Artúru,</i> My heart beats only for Arturo. <number>3</number> <itype>[A; c1]</itype> make a click, as when a mechanism is released. <i>Mipitik lang ang pistúla. Wà nay bála,</i> The pistol clicked. There were no more bullets. <i>Pahíyum kay ákù nang pitkun (ipitik) ang kamira,</i> Smile because I&apos;m going to snap the camera now. <pos>n</pos> <number>1</number> s.t. which flicks or snaps: slingshot, chalk line in carpentry, et al. <number>2</number> beating of the heart. <number>3</number> <tr>clicking</tr>, <tr>snapping</tr> sound. <number>4</number> action of flicking or snapping. <form>{-in-|pinitik}</form> <pos>n</pos> <number>1</number> continuous sound of the heartbeat. <number>2</number> the dictates of the heart. <i>Sunda ang pinitik sa ímung kasingkásing,</i> Follow the dictates <pb n=774>of your heart.
 
@@ -3171,7 +3171,7 @@
 
 <p id=14646><form>primatiyur</form> <pos>a</pos> <tr>premature</tr> in birth. <pos>v</pos> <itype>[B126; b4(1)]</itype> have a premature delivery, be prematurely born. <i>Iingkiyubítur ang bátang maprimatiyur,</i> They put premature babies in the incubator.
 
-<p id=14647><form>prí mid</form> <pos>n</pos> <number>1</number> <tr>pre-medical</tr> course leading to a <pb n=782>B.S. degree. <number>2</number> <tr>girl</tr> who is just a servant (humorous). <i>Mangasáwa ka lag usa ka pri mid nga prupisyunal ka man?</i> You want to marry a mere maid when you work at a profession? <pos>v</pos> <itype>[B156]</itype> be a pre-medical student.
+<p id=14647><form>prí mid</form> <pos>n</pos> <number>1</number> <tr>pre-medical</tr> course leading to a <pb n=782><asc>B.S.</asc> degree. <number>2</number> <tr>girl</tr> who is just a servant (humorous). <i>Mangasáwa ka lag usa ka pri mid nga prupisyunal ka man?</i> You want to marry a mere maid when you work at a profession? <pos>v</pos> <itype>[B156]</itype> be a pre-medical student.
 
 <p id=14648><form>*primir</form> short for <bx>primíru</bx> <form>{&mdash;|primir} grádu</form> <tr>first grade</tr>. <form>{&mdash;|primir} kumuniyun</form> first <tr>communion</tr>. <pos>v</pos> <itype>[A; c]</itype> take first communion. <form>{&mdash;|primir} ministru</form> <pos>n</pos> <tr>prime minister</tr>. <pos>v</pos> <itype>[B56; c1]</itype> be, become a prime minister.
 
@@ -3313,7 +3313,7 @@
 
 <p id=14716><form>prugráma</form> <pos>n</pos> <number>1</number> <tr>program</tr> of entertainment or ceremony. <number>2</number> program listing the details of an entertainment. <i>Naimprinta na ang prugráma,</i> The program has been printed. <number>3</number> <tr>plans</tr>. <i>Ang <corr sic="prugrama">prugráma</corr> sa gubyirnu sa panguma,</i> The government&apos;s agricultural program. <pos>v</pos> <number>1</number> <itype>[A; c]</itype> have a program. <number>2</number> <itype>[A1]</itype> make out a written program. <i>Magprugráma pa ku sa tulumanun sa pista,</i> I&apos;ll make out the program of the events during the fiesta.
 
-<p id=14717><form>prugrisista</form> <pos>n</pos> a short-lived third party of the nineteen sixties, the Progressive Party of the Philippines, or a member thereof. <pos>v</pos> <itype>[B156]</itype> be a PPP member.
+<p id=14717><form>prugrisista</form> <pos>n</pos> a short-lived third party of the nineteen sixties, the Progressive Party of the Philippines, or a member thereof. <pos>v</pos> <itype>[B156]</itype> be a <asc>PPP</asc> member.
 
 <p id=14718><form>prugrísu</form> <pos>n</pos> <tr>improvement</tr> from a state, condition, or station. <i>Way prugrísu ang átung lungsud kay naghítak ang pamulitiku,</i> The town never makes progress because everything is politics.
 
@@ -3759,7 +3759,7 @@
 
 <p id=14937><form>pulus<sub>2</sub>, púlus<sub>1</sub></form> (not without <ix>l</ix>) be all s.t. <i>Pulus babáyi mi dinhi,</i> We are all women here. <i>Pulus ka lang balíbad dà,</i> You always say no. <i>Pulus dáan ang ákung libru,</i> My books are all old. <pos>v</pos> <itype>[B1256; c16]</itype> be <tr>covered</tr> all over with, be all full of s.t. of one kind. <i>Napulus patik ang buktun sa prísu,</i> The prisoner&apos;s arms are all covered with tattoos.
 
-<p id=14938><form>pulut</form> (not without <ix>l</ix>) <xr>= KAPULUT.</xr>
+<p id=14938><form>pulut</form> (not without <ix>l</ix>) <xr>= <sc>kapulut</sc>.</xr>
 
 <p id=14939><form>púlut</form> <pos>v</pos> <number>1</number> <itype>[A; a1b6]</itype> <tr>pick up</tr> s.t. with the hand(s). <i>Mipúlut kug batu pagdúul sa irù,</i> I picked up a rock when the dog came toward me. <number>2</number> <itype>[A12; b8]</itype> <tr>come across</tr> s.t. by accident. <i>Íyang giúlì ang pitáka nga íyang hipulutan,</i> She returned the wallet that she had found. <form>{pa&N;-|pamúlut}</form> <itype>[A2; b6]</itype> <tr>gather</tr> by picking up. <i>Mamúlut kug dalag sa lumbuy pára líkin,</i> I will gather yellowed lumbuy leaves for cigars.
 
@@ -4115,7 +4115,7 @@
 
 <p id=15113><form>purtintúsu</form> <pos>a</pos> <tr>portending</tr> a major event. <i>Purtintúsu <pb n=808>kunu kining kumíta. Basta musubang, mugíra kunu,</i> They say that this is a portentous comet. Whenever it appears, there&apos;s going to be war.
 
-<p id=15114><form>purtipayib</form> <pos>n</pos> <number>1</number> <tr>forty-five</tr> r.p.m. <tr>record</tr> or record player. <number>2</number> forty-five caliber <tr>pistol</tr> or revolver. <form>{&mdash;|purtipayib} arpíim</form> <xr>= <sc>purtipayib</sc>, <i>1.</i></xr>
+<p id=15114><form>purtipayib</form> <pos>n</pos> <number>1</number> <tr>forty-five</tr> <abbr>r.p.m.</abbr> <tr>record</tr> or record player. <number>2</number> forty-five caliber <tr>pistol</tr> or revolver. <form>{&mdash;|purtipayib} arpíim</form> <xr>= <sc>purtipayib</sc>, <i>1.</i></xr>
 
 <p id=15115><form>purtíru</form> <xr>= <sc>pultíru</sc>.</xr> <xr><ix>see</ix> <sc>pulta</sc>.</xr>
 
@@ -4217,7 +4217,7 @@
 
 <p id=15162><form>pusta</form> <pos>n</pos> <number>1</number> <tr>bet</tr>, <tr>wager</tr>. <i>Pilay ímung pusta?</i> How much do you bet? <number>2</number> <formx>{&mdash;|pusta} ku sa</formx> think [so-and-so] is likely to happen. <i>Pusta ku sa muulan,</i> I bet it&apos;s going to rain. <pos>v</pos> <number>1</number> <itype>[A1; c]</itype> <tr>bet</tr>. <i>Kabáyung ákung gipustáan (gipustáhan),</i> The horse I betted on. <i>Pilay ímung ipusta?</i> How much will you bet? <number>2</number> <itype>[A]</itype> think s.t. is likely to happen. <form>{&mdash;|pusta} dirikta</form> direct bet. <form>{-da|pustáda}</form> <xr>= <sc>pusta</sc>.</xr> <form>{ig-r-|igpupusta}, {ig-l-|igpulusta}</form> <pos>n</pos> money to bet.
 
-<p id=15163><form>pustal</form> <pos>n</pos> <tr>postal</tr>. <form>{&mdash;|pustal} aydi</form> <pos>n</pos> <tr>identification</tr> card for a post office. <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> issue a postal ID. <number>2</number> <itype>[A12]</itype> get a postal ID. <form>{&mdash;|pustal} kard</form> <tr>post card</tr>. <form>híru <corr sic="&rarr;">{&mdash;|pustal}</corr></form> <tr>money order</tr>.
+<p id=15163><form>pustal</form> <pos>n</pos> <tr>postal</tr>. <form>{&mdash;|pustal} aydi</form> <pos>n</pos> <tr>identification</tr> card for a post office. <pos>v</pos> <number>1</number> <itype>[A; b6]</itype> issue a postal <asc>ID</asc>. <number>2</number> <itype>[A12]</itype> get a postal <asc>ID</asc>. <form>{&mdash;|pustal} kard</form> <tr>post card</tr>. <form>híru <corr sic="&rarr;">{&mdash;|pustal}</corr></form> <tr>money order</tr>.
 
 <p id=15164><form>pusti</form> <pos>n</pos> <tr>post</tr>. <i>Pusti sa iliktrisidad,</i> Electric light post. <pos>v</pos> <itype>[A; a]</itype> put up, make into, use a post.
 
@@ -4431,7 +4431,7 @@
 
 <p id=15269><form>pwís</form> <tr>so</tr>, <tr>therefore</tr>, for that reason. <i>Pwís, átung buhátun arun mahuman,</i> So, let&apos;s do it so that it will be finished. <i>Kun tinúud kang nahigugma, pwís, dawáta,</i> If it is true you like him, accept him.
 
-<p id=15270><form>pwistu</form> <pos>n</pos> <number>1</number> <tr>place</tr>, <tr>position</tr>. <i>Ang mga gwardiya mitultul dáyun sa ílang pwistu,</i> The guards found their posts. <number>2</number> position, <tr>job</tr>. <i>Dúgay na siya ánang pwistúha,</i> He has been employed in that job for a long time. <form>{&mdash;|pwistu} sa</form> <abbr expan="free on board">f.o.b.</abbr>, reckoned at [such-and-such] a price at a certain place. <i>Kanang prisyúha pwistu sa pabrika,</i> That price is what you pay at the factory. <pos>v</pos> <itype>[A12; b6]</itype> get a job. <i>Gipwistuhan man gáling kug trabáhu apan túa sa búkid,</i> I was given a job, but in the mountains.
+<p id=15270><form>pwistu</form> <pos>n</pos> <number>1</number> <tr>place</tr>, <tr>position</tr>. <i>Ang mga gwardiya mitultul dáyun sa ílang pwistu,</i> The guards found their posts. <number>2</number> position, <tr>job</tr>. <i>Dúgay na siya ánang pwistúha,</i> He has been employed in that job for a long time. <form>{&mdash;|pwistu} sa</form> <asc><abbr expan="free on board">F.O.B.</abbr></asc>, reckoned at [such-and-such] a price at a certain place. <i>Kanang prisyúha pwistu sa pabrika,</i> That price is what you pay at the factory. <pos>v</pos> <itype>[A12; b6]</itype> get a job. <i>Gipwistuhan man gáling kug trabáhu apan túa sa búkid,</i> I was given a job, but in the mountains.
 
 <p id=15271><form>pyádu</form> <pos>n</pos> <tr>caretaker</tr> of lands, estates. <pos>v</pos> <itype>[AB156; a2]</itype> make s.o. the caretaker or overseer, become such.
 

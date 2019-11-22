@@ -1882,7 +1882,7 @@ INSERT INTO `wced_entry` VALUES (20929, "yirba buyna", "1137", "<entry page=""11
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20929, "yirba buyna", "yirba buyna", "m", "");
 INSERT INTO `wced_entry` VALUES (20930, "yir bar", "1137", "<entry page=""1137"" id=""20930""><form id=""yixr_bar"" lang=""ceb"">yír bar</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <tr>year bar</tr>, a piece of metal fastened above the right pocket on the uniform of an ROTC trainee, indicating which year a student is. </trans>
+<sense n=""0""><trans> <tr>year bar</tr>, a piece of metal fastened above the right pocket on the uniform of an <asc>ROTC</asc> trainee, indicating which year a student is. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A13]</itype><trans> use, wear a year bar.
@@ -2187,7 +2187,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (20952, "penetrate"
 INSERT INTO `wced_translation` (entryid, translation) VALUES (20952, "smuggler");
 INSERT INTO `wced_entry` VALUES (20953, "yuin", "1139", "<entry page=""1139"" id=""20953""><form id=""yuxin"" lang=""ceb"">yúin</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <tr>UN</tr><corr>,</corr> acronym for <tr>United Nations</tr>.
+<sense n=""0""><trans> <tr><asc>UN</asc></tr><corr>,</corr> acronym for <tr>United Nations</tr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20953, "yúin", "yuin", "m", "n");
@@ -2614,7 +2614,7 @@ INSERT INTO `wced_entry` VALUES (20988, "yusa", "1140", "<entry page=""1140"" id
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20988, "yúsà", "yusa", "m", "");
 INSERT INTO `wced_entry` VALUES (20989, "yusapi, yusapi", "1140", "<entry page=""1140"" id=""20989""><form id=""yusapi_yusaxpi"" lang=""ceb"">yusapi, yusápi</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> acronym for USAFFE, <tr>United States Armed Forces in the Far East</tr> (of the postwar period).
+<sense n=""0""><trans> acronym for <asc>USAFFE</asc>, <tr>United States Armed Forces in the Far East</tr> (of the postwar period).
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (20989, "yusapi", "yusapi", "s", "n");

@@ -958,7 +958,7 @@ INSERT INTO `wced_entry` VALUES (21093, "ar-ip si", "1144", "<entry page=""1144"
 <sense n=""0""><trans> acronym for the <tr>Rehabilitation Finance Corporation</tr>, now known as the <tr>Development Bank of the Philippines</tr>. </trans>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""> <itype>[A; a12]</itype><trans> make a loan with the R.F.C.
+<sense n=""0""> <itype>[A; a12]</itype><trans> make a loan with the <asc>R.F.C.</asc>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21093, "ar-ip si", "ar-ip si", "m", "nv");
@@ -1175,7 +1175,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2111
 INSERT INTO `wced_translation` (entryid, translation) VALUES (21115, "urge");
 INSERT INTO `wced_entry` VALUES (21116, "ay-ar it", "1145", "<entry page=""1145"" id=""21116""><form id=""ay-ar_it"" lang=""ceb"">ay-ar it</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> a recently introduced variety of <tr>rice</tr>, the IR-8 miracle rice.
+<sense n=""0""><trans> a recently introduced variety of <tr>rice</tr>, the <asc>IR-8</asc> miracle rice.
 
 </trans>
 </sense></hom></entry>");
@@ -2125,7 +2125,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (21206, "obvious li
 INSERT INTO `wced_entry` VALUES (21207, "buing", "1148", "<entry page=""1148"" id=""21207""><form id=""buxing"" lang=""ceb"">búing</form>
 <hom>
 <sense n=""0""><trans> euphemism for <ix>búang</ix>, used as an endearing curse and not particularly as an insult. </trans>
-<eg><i lang=""ceb"">Kabúing nímu uy! Gipahulat ku nímug maáyu,</i><trans> You sure made me wait, you handsome <abbr expan=""son of a bitch"">S.O.B.</abbr>, you!
+<eg><i lang=""ceb"">Kabúing nímu uy! Gipahulat ku nímug maáyu,</i><trans> You sure made me wait, you handsome <asc><abbr expan=""son of a bitch"">S.O.B.</abbr></asc>, you!
 </trans></eg>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21207, "búing", "buing", "m", "");
@@ -2234,7 +2234,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2121
 INSERT INTO `wced_entry` VALUES (21220, "†butang1", "1148", "<entry page=""1148"" id=""21220""><form id=""qqbutang"" lang=""ceb"">†butang<sub>1</sub></form>
 <hom role=""v""><pos>v</pos>
 <sense n=""5a""><number>5a</number> <form id=""butangi"" lang=""ceb"">butangi</form><trans> [<ix>bū́tangi</ix>] exclamation indicating that a taunt is so apt there is no answer possible (lit. hit him where it hurts). </trans>
-<eg><i lang=""ceb"">‘Primírang tihik ug mangáyù lag sabaw nga dílì mupalit ug unud.’—‘Bū́tangi,’</i><trans> ‘What a tightwad! He asks for gravy but won’t buy the meat it’s supposed to go with.’—‘OK, you win (I can’t answer that).’
+<eg><i lang=""ceb"">‘Primírang tihik ug mangáyù lag sabaw nga dílì mupalit ug unud.’—‘Bū́tangi,’</i><trans> ‘What a tightwad! He asks for gravy but won’t buy the meat it’s supposed to go with.’—‘<asc>OK</asc>, you win (I can’t answer that).’
 <pb n=""1149""/>
 </trans></eg>
 </sense></hom></entry>");
@@ -2580,12 +2580,13 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2125
 INSERT INTO `wced_entry` VALUES (21255, "†datu3", "1150", "<entry page=""1150"" id=""21255""><form id=""qqdaxtuq3"" lang=""ceb"">†dátù<sub>3</sub></form>
 <entry><form id=""sakit_ug_sa_daxtuq"" lang=""ceb"">sakit ug, sa <abbr expan=""dátù"" type=""lemma"">—</abbr></form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> TB (from the notion that one who has TB should have a total rest).
+<sense n=""0""><trans> <tr><asc>TB</asc></tr> (from the notion that one who has <asc>TB</asc> should have a total rest).
 </trans>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21255, "dátù", "datu", "s", "");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21255, "sakit ug", "sakit ug", "s", "n");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21255, "sa dátù", "sa datu", "s", "n");
+INSERT INTO `wced_translation` (entryid, translation) VALUES (21255, "TB");
 INSERT INTO `wced_entry` VALUES (21256, "datu3", "1150", "<entry page=""1150"" id=""21256""><form id=""daxtuq3"" lang=""ceb"">dátù<sub>3</sub></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> k.o. crudely distilled medicinal liquor of local make.
@@ -2648,7 +2649,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2126
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21261, "dibisiyun syupirintindint", "dibisiyun syupirintindint", "s", "n");
 INSERT INTO `wced_entry` VALUES (21262, "diditi", "1150", "<entry page=""1150"" id=""21262""><form id=""diditi"" lang=""ceb"">diditi</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> <tr>DDT</tr>.
+<sense n=""0""><trans> <tr><asc>DDT</asc></tr>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21262, "diditi", "diditi", "m", "n");
@@ -2890,7 +2891,7 @@ INSERT INTO `wced_entry` VALUES (21291, "dyiay", "1150", "<entry page=""1150"" i
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21291, "dyíay", "dyiay", "m", "n");
 INSERT INTO `wced_entry` VALUES (21292, "dyu", "1150", "<entry page=""1150"" id=""21292""><form id=""dyux"" lang=""ceb"">dyú</form>
 <hom>
-<sense n=""0""><trans> term of address to American men (from the WW II <corr sic=""appelation"">appellation</corr> of American GI’s). </trans>
+<sense n=""0""><trans> term of address to American men (from the <asc>WW</asc> II <corr sic=""appelation"">appellation</corr> of American GI’s). </trans>
 <eg><i lang=""ceb"">Máni, dyú,</i><trans> Give me money, Joe.
 </trans></eg>
 </sense></hom></entry>");
@@ -3727,7 +3728,7 @@ INSERT INTO `wced_entry` VALUES (21385, "†intrada", "1153", "<entry page=""115
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21385, "intráda", "intrada", "s", "n");
 INSERT INTO `wced_entry` VALUES (21386, "ip-is", "1153", "<entry page=""1153"" id=""21386""><form id=""ip-is"" lang=""ceb"">ip-is</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> surplus navy ships used for inter-island shipping (so called from the legend FS painted on the sides).
+<sense n=""0""><trans> surplus navy ships used for inter-island shipping (so called from the legend <asc>FS</asc> painted on the sides).
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21386, "ip-is", "ip-is", "m", "n");
@@ -6011,19 +6012,19 @@ INSERT INTO `wced_entry` VALUES (21628, "†sirung", "1160", "<entry page=""1160
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21628, "sirung", "sirung", "s", "av");
 INSERT INTO `wced_entry` VALUES (21629, "siu", "1160", "<entry page=""1160"" id=""21629""><form id=""sixu"" lang=""ceb"">síu</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""1""><number>1</number><trans> the C.O., acronym for the Commanding Officer in a military headquarters. </trans>
+<sense n=""1""><number>1</number><trans> the <asc>C.O.</asc>, acronym for the Commanding Officer in a military headquarters. </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> anyone in charge of an establishment (humorous). </trans>
-<eg><i lang=""ceb"">Aku na karuy síu sa ámù kay túa sa Mindanaw si Pápa ug Máma,</i><trans> I’m the C.O. at home now because Dad and Mom are in Mindanao. </trans></eg>
+<eg><i lang=""ceb"">Aku na karuy síu sa ámù kay túa sa Mindanaw si Pápa ug Máma,</i><trans> I’m the <asc>C.O.</asc> at home now because Dad and Mom are in Mindanao. </trans></eg>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
-<sense n=""0""> <itype>[B1256]</itype><trans> get to be the C.O.
+<sense n=""0""> <itype>[B1256]</itype><trans> get to be the <asc>C.O.</asc>
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21629, "síu", "siu", "m", "nv");
 INSERT INTO `wced_entry` VALUES (21630, "siudi", "1160", "<entry page=""1160"" id=""21630""><form id=""siuxdi"" lang=""ceb"">siúdi</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""1""><number>1</number><trans> C.O.D., acronym for cash on delivery. </trans>
+<sense n=""1""><number>1</number><trans> <asc>C.O.D.</asc>, acronym for cash on delivery. </trans>
 </sense>
 <sense n=""2""><number>2</number><trans> get s.t. on credit. </trans>
 </sense></hom>
@@ -6792,10 +6793,11 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (21714, "over-actin
 INSERT INTO `wced_translation` (entryid, translation) VALUES (21714, "overact");
 INSERT INTO `wced_entry` VALUES (21715, "uiks u", "1163", "<entry page=""1163"" id=""21715""><form id=""uxiks_u"" lang=""ceb"">úiks u</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> OXO, a gang of Visayan toughs in Manila.
+<sense n=""0""><trans> <tr><asc>OXO</asc></tr>, a gang of Visayan toughs in Manila.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (21715, "úiks u", "uiks u", "m", "n");
+INSERT INTO `wced_translation` (entryid, translation) VALUES (21715, "OXO");
 INSERT INTO `wced_entry` VALUES (21716, "†ulan", "1163", "<entry page=""1163"" id=""21716""><form id=""qqulan"" lang=""ceb"">†ulan</form>
 <hom role=""n""><pos>n</pos>
 <sense n=""3""><number>3</number><trans> diamond with some yellowish coloration. </trans>

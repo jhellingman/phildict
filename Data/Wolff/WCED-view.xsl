@@ -56,6 +56,7 @@
                     .exp { color: grey; }
 
                     .rm { font-style: normal; font-weight: normal; }
+                    .asc { font-variant: small-caps; text-transform: lowercase; }
 
                 </style>
             </head>
@@ -255,6 +256,12 @@
 
     <xsl:template match="r">
         <span class="rm">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+
+    <xsl:template match="asc">
+        <span class="asc">
             <xsl:apply-templates/>
         </span>
     </xsl:template>

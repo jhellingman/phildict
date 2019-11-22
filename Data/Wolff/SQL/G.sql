@@ -2268,7 +2268,7 @@ INSERT INTO `wced_entry` VALUES (5166, "gang", "254", "<entry page=""254"" id=""
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[C12]</itype><trans> be a member of a gang. </trans>
-<eg><i lang=""ceb"">Dì ta makiggáng ug kídyi,</i><trans> We won’t have a KJ (killjoy) in our gang. </trans></eg>
+<eg><i lang=""ceb"">Dì ta makiggáng ug kídyi,</i><trans> We won’t have a <asc>KJ</asc> (killjoy) in our gang. </trans></eg>
 </sense></hom>
 <entry><form id=""ganggaxng"" lang=""ceb"">ganggáng</form>
 <hom role=""v""><pos>v</pos>
@@ -2885,7 +2885,7 @@ INSERT INTO `wced_entry` VALUES (5212, "ganuy", "256", "<entry page=""256"" id="
 <eg><i lang=""ceb"">Gigánuy ang ákung pangísip sa láing kalibútan,</i><trans> My thoughts were drawn to another world. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number> <itype>[A; c1]</itype><trans> for s.t. to draw s.o. tenderly to sleep or bring on a pleasant feeling. </trans>
-<eg><i lang=""ceb"">Ang LSD nga mugánuy nímu sa pagbáting langitnun,</i><trans> LSD that brings you to a state of heavenly bliss. </trans></eg>
+<eg><i lang=""ceb"">Ang <asc>LSD</asc> nga mugánuy nímu sa pagbáting langitnun,</i><trans> <asc>LSD</asc> that brings you to a state of heavenly bliss. </trans></eg>
 </sense></hom>
 <entry><form id=""ganuyan"" lang=""ceb""><abbr expan=""ganuyan"" type=""lemma"">-an(→)</abbr></form>
 <hom role=""n""><pos>n</pos>
@@ -4396,7 +4396,7 @@ INSERT INTO `wced_entry` VALUES (5318, "gayud", "262", "<entry page=""262"" id="
 <eg><i lang=""ceb"">Salámat, nakapangíhì na giyud ku,</i><trans> Thank heavens. At last I’ve had a chance to urinate. </trans></eg>
 </sense>
 <sense n=""2d""><number>2d</number> <form id=""ra_gayud"" lang=""ceb"">ra <abbr expan=""gayud"" type=""lemma"">—</abbr></form><trans> [so-and-so] will happen despite anything. </trans>
-<eg><i lang=""ceb"">Hingpatyan ku ra giyud nang bastúsa,</i><trans> I’ll kill that <abbr expan=""son of a bitch"">s.o.b.</abbr> one of these days for sure. </trans></eg>
+<eg><i lang=""ceb"">Hingpatyan ku ra giyud nang bastúsa,</i><trans> I’ll kill that <asc><abbr expan=""son of a bitch"">S.O.B.</abbr></asc> one of these days for sure. </trans></eg>
 </sense>
 <sense n=""3a""><number>3a</number> <form id=""walaq_gayud"" lang=""ceb"">walà <abbr expan=""gayud"" type=""lemma"">—</abbr></form><trans> never. </trans>
 <eg><i lang=""ceb"">Wà giyud ku masáyud ánà,</i><trans> I never knew that. </trans></eg>

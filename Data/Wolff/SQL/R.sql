@@ -119,7 +119,7 @@ INSERT INTO `wced_entry` VALUES (15309, "ra", "819", "<entry page=""819"" id=""1
 <eg><i lang=""ceb"">Higúpa dáyun kay ínit pa ra ba,</i><trans> Eat it right away because it’s still warm. </trans></eg>
 <eg><i lang=""ceb"">Mangísug ra ba tug madúgay ka,</i><trans> He will get angry if you take too long. </trans></eg>
 </sense>
-<sense n=""7b""><number>7b</number><trans> ordinarily [so-and-so] would have been OK, but ... </trans>
+<sense n=""7b""><number>7b</number><trans> ordinarily [so-and-so] would have been <asc>OK</asc>, but ... </trans>
 <eg><i lang=""ceb"">Sus, nía na ang mga bisíta. Wà ra ba tay giandam,</i><trans> My! The visitors have arrived and here we don’t have anything to give them. </trans></eg>
 <eg><i lang=""ceb"">Dà, nag-uwan na hinúun. Wà ra ba kuy páyung,</i><trans> Darn! It’s raining, and I don’t have an umbrella. </trans></eg>
 </sense>
@@ -727,7 +727,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (15358, "breed");
 INSERT INTO `wced_translation` (entryid, translation) VALUES (15358, "pedigreed");
 INSERT INTO `wced_entry` VALUES (15359, "rasak", "821", "<entry page=""821"" id=""15359""><form id=""raxsak"" lang=""ceb"">rásak</form>
 <hom role=""n""><pos>n</pos>
-<sense n=""0""><trans> RASAC, acronym for a government organization: the Regional Anti-Smuggling Action Center.
+<sense n=""0""><trans> <asc>RASAC</asc>, acronym for a government organization: the Regional Anti-Smuggling Action Center.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (15359, "rásak", "rasak", "m", "n");
@@ -998,7 +998,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (1537
 INSERT INTO `wced_entry` VALUES (15375, "rayadilyu", "823", "<entry page=""823"" id=""15375""><form id=""rayadilyu"" lang=""ceb"">rayadilyu</form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> a <tr>strip</tr> of ribbon sewn along the side seams of trousers, as in uniforms. </trans>
-<eg><i lang=""ceb"">Pula ang rayadilyu sa unipurmi sa písi,</i><trans> The <abbr expan=""Philippine Constabulary"">P.C.</abbr> have red stripes on their trousers. </trans></eg>
+<eg><i lang=""ceb"">Pula ang rayadilyu sa unipurmi sa písi,</i><trans> The <asc><abbr expan=""Philippine Constabulary"">P.C.</abbr></asc> have red stripes on their trousers. </trans></eg>
 </sense></hom>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A; ac]</itype><trans> attach, make a <tr>stripe</tr> on trousers.
@@ -2141,7 +2141,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (15465, "reconsider
 INSERT INTO `wced_entry` VALUES (15466, "rikunusir", "826", "<entry page=""826"" id=""15466""><form id=""rikunusir"" lang=""ceb"">rikunusir</form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A; a12]</itype><trans> <tr>examine</tr> s.o. physically. </trans>
-<eg><i lang=""ceb"">Rikunusihun ka ug wà ka bay tíbi,</i><trans> You will be <tr>examined</tr> for <abbr expan=""tuberculosis"">T.B.</abbr> </trans></eg>
+<eg><i lang=""ceb"">Rikunusihun ka ug wà ka bay tíbi,</i><trans> You will be <tr>examined</tr> for <asc><abbr expan=""tuberculosis"">T.B.</abbr></asc> </trans></eg>
 </sense></hom>
 <entry><form id=""parikunusir"" lang=""ceb""><abbr expan=""parikunusir"" type=""lemma"">pa-</abbr></form>
 <hom role=""v""><pos>v</pos>
@@ -2820,7 +2820,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (1551
 INSERT INTO `wced_translation` (entryid, translation) VALUES (15516, "kidney");
 INSERT INTO `wced_entry` VALUES (15517, "rip", "828", "<entry page=""828"" id=""15517""><form id=""RIP"" lang=""ceb"">RIP</form>
 <hom>
-<sense n=""0""><trans> abbreviation on graves for <ix>Requiescat in Pace</ix>.
+<sense n=""0""><trans> abbreviation on graves for <ix><foreign lang=""la"" xml:lang=""la"">Requiescat in Pace</foreign></ix>.
 </trans>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (15517, "RIP", "rip", "m", "");
@@ -2938,7 +2938,7 @@ INSERT INTO `wced_entry` VALUES (15527, "ripir", "828", "<entry page=""828"" id=
 <sense n=""0""> <itype>[A; ac]</itype><trans> </trans>
 </sense>
 <sense n=""1""><number>1</number><trans> have s.t. <tr>repaired</tr>. </trans>
-<eg><i lang=""ceb"">Iparipir nátù ang tíbi,</i><trans> Let’s have the TV fixed. </trans></eg>
+<eg><i lang=""ceb"">Iparipir nátù ang tíbi,</i><trans> Let’s have the <asc>TV</asc> fixed. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> have the genitalia stitched <pb n=""829""/>after childbirth.
 </trans>
@@ -3068,7 +3068,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (15537, "refrigerat
 INSERT INTO `wced_entry` VALUES (15538, "riprisintar", "829", "<entry page=""829"" id=""15538""><form id=""riprisinta4r"" lang=""ceb"">riprisintǎr</form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A; b(1)]</itype><trans> <tr>represent</tr>. </trans>
-<eg><i lang=""ceb"">Si Glurya Díyas mauy miriprisintǎr sa Yúbi sa banggà,</i><trans> Gloria Diaz represented <abbr expan=""University of the Visayas"">U.V.</abbr> in the contest. </trans></eg>
+<eg><i lang=""ceb"">Si Glurya Díyas mauy miriprisintǎr sa Yúbi sa banggà,</i><trans> Gloria Diaz represented <asc><abbr expan=""University of the Visayas"">U.V.</abbr></asc> in the contest. </trans></eg>
 <eg><i lang=""ceb"">Siya mauy nagriprisintar sa ikaduhang distrítu,</i><trans> He is the <tr>representative</tr> of the second district. </trans></eg>
 <eg><i lang=""ceb"">Unsang kapunungána ímung giriprisintahan?</i><trans> What organization do you represent? </trans></eg>
 </sense></hom>
@@ -3085,7 +3085,7 @@ INSERT INTO `wced_entry` VALUES (15538, "riprisintar", "829", "<entry page=""829
 <entry><form id=""riprisintasiyun"" lang=""ceb"">riprisintasiyun<sub>1</sub></form>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> <tr>representatives</tr> collectively sent s.w. </trans>
-<eg><i lang=""ceb"">Ang riprisintasiyun sa kabisay-an mauy nanaug sa Prisáa,</i><trans> The representatives of the Visayas won the PRISAA athletic meet.
+<eg><i lang=""ceb"">Ang riprisintasiyun sa kabisay-an mauy nanaug sa Prisáa,</i><trans> The representatives of the Visayas won the <asc>PRISAA</asc> athletic meet.
 </trans></eg>
 </sense></hom></entry></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (15538, "riprisintǎr", "riprisintar", "m", "v");
@@ -3978,7 +3978,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (15607, "reunion");
 INSERT INTO `wced_entry` VALUES (15608, "rps /arpiis/", "832", "<entry page=""832"" id=""15608""><form id=""RPS_arpixis_"" lang=""ceb"">RPS /arpíis/</form>
 <hom>
 <sense n=""0""><trans> abbreviation for Republic of the Philippines Ship put on Philippine naval craft. </trans>
-<eg><i lang=""ceb"">Ang arpíis Lapulápu mauy yáti sa Prisidinti,</i><trans> The RPS Lapulapu is the yacht of the President.
+<eg><i lang=""ceb"">Ang arpíis Lapulápu mauy yáti sa Prisidinti,</i><trans> The <asc>RPS</asc> Lapulapu is the yacht of the President.
 </trans></eg>
 </sense></hom></entry>");
 INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (15608, "RPS ", "rps ", "s", "");
@@ -4399,7 +4399,7 @@ INSERT INTO `wced_entry` VALUES (15642, "runda", "833", "<entry page=""833"" id=
 <sense n=""0""> <itype>[A; a12]</itype><trans> </trans>
 </sense>
 <sense n=""1""><number>1</number><trans> police <tr>raid</tr>. </trans>
-<eg><i lang=""ceb"">Mga Písi ang mirunda sa sugálan,</i><trans> The <abbr expan=""Philippine Constabulary"">P.C.</abbr> raided the gambling den. </trans></eg>
+<eg><i lang=""ceb"">Mga Písi ang mirunda sa sugálan,</i><trans> The <asc><abbr expan=""Philippine Constabulary"">P.C.</abbr></asc> raided the gambling den. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> go to s.o.’s house unexpectedly to collect a debt, ask for charity. </trans>
 <eg><i lang=""ceb"">Girunda mi sa mananaygun,</i><trans> The carollers came to see us to <tr>solicit</tr> money (lit. raided us).
