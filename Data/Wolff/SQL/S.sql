@@ -9043,7 +9043,7 @@ INSERT INTO `wced_entry` VALUES (16361, "sapak", "875", "<entry page=""875"" id=
 <eg><i lang=""ceb"">Sapak nga pagpangasáwa, dátù,</i><trans> A <tr>perfect</tr> marriage—a rich wife. </trans></eg>
 </sense>
 <sense n=""1a""><number>1a</number><trans> <tr>timely</tr>, <tr>well-timed</tr>. </trans>
-<eg><i lang=""ceb"">Sapak ang pagabut mu kay tingkaun,</i><trans> You arrived just at the right time. It’s time to eat. </trans></eg>
+<eg><i lang=""ceb"">Sapak ang pag-abut mu kay tingkaun,</i><trans> You arrived just at the right time. It’s time to eat. </trans></eg>
 </sense>
 <sense n=""2""><number>2</number><trans> having just the right qualities. </trans>
 <eg><i lang=""ceb"">Sapak sad ug láwas si Iyay ug magbáting sut,</i><trans> Iyay has a beautiful body when she wears a bathing suit. </trans></eg>

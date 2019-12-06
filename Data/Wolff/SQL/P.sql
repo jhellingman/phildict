@@ -7501,7 +7501,7 @@ INSERT INTO `wced_translation` (entryid, translation) VALUES (13690, "paralyzed"
 INSERT INTO `wced_entry` VALUES (13691, "paralisar", "737", "<entry page=""737"" id=""13691""><form id=""paralisar"" lang=""ceb"">paralisar</form>
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[B16; c1]</itype><trans> <tr>paralyze</tr>, <tr>immobilize</tr> activities. </trans>
-<eg><i lang=""ceb"">Maparalisar ang trabábu kun madáut ang makina,</i><trans> The work will be paralyzed if the machine breaks down. </trans></eg>
+<eg><i lang=""ceb"">Maparalisar ang trabáhu kun madáut ang makina,</i><trans> The work will be paralyzed if the machine breaks down. </trans></eg>
 <eg><i lang=""ceb"">Paralisahun (iparalisar) ang nigusyu sa mga impliyádu nga nagwilga,</i><trans> The business will be paralyzed by the employees who are on strike. </trans></eg>
 </sense></hom>
 <entry><form id=""paralisaxdu"" lang=""ceb"">paralisádu</form>
@@ -18912,7 +18912,7 @@ INSERT INTO `wced_entry` VALUES (14515, "plas1", "777", "<entry page=""777"" id=
 <hom role=""v""><pos>v</pos>
 <sense n=""0""> <itype>[A; b1c]</itype><trans> <tr>flush</tr> the toilet, <tr>flush</tr> water over an area. </trans>
 <eg><i lang=""ceb"">Iplás ang kasilyas humag gámit,</i><trans> Flush the toilet after using it. </trans></eg>
-<eg><i lang=""ceb"">Giplásan <pb n=""778""/>níya ug túhig ang húgaw sa salug sa banyu,</i><trans> She flushed water over the bathroom floor to get rid of the dirt. </trans></eg>
+<eg><i lang=""ceb"">Giplásan <pb n=""778""/>níya ug túbig ang húgaw sa salug sa banyu,</i><trans> She flushed water over the bathroom floor to get rid of the dirt. </trans></eg>
 </sense></hom>
 <hom role=""n""><pos>n</pos>
 <sense n=""0""><trans> flush mechanism.

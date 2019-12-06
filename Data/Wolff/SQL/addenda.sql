@@ -569,7 +569,7 @@ INSERT INTO `wced_head` (entryid, head, normalized_head, type, pos) VALUES (2105
 INSERT INTO `wced_entry` VALUES (21058, "†amin", "1143", "<entry page=""1143"" id=""21058""><form id=""qqamin"" lang=""ceb"">†amin</form>
 <hom role=""v""><pos>v</pos>
 <sense n=""3""><number>3</number> <itype>[A; a12]</itype><trans> <tr>admit</tr> a wrong or mistake one has done and be held responsible. </trans>
-<eg><i lang=""ceb"">Kun aminun nímung tanang nabitabù, maminusminus pa ang ímung sintinsiya,</i><trans> If you admit everything, your sentence will be reduced. </trans></eg>
+<eg><i lang=""ceb"">Kun aminun nímung tanang nahitabù, maminusminus pa ang ímung sintinsiya,</i><trans> If you admit everything, your sentence will be reduced. </trans></eg>
 </sense>
 <sense n=""4""><number>4</number> <itype>[A; a]</itype><trans> <tr>kill</tr> (humorous). </trans>
 <eg><i lang=""ceb"">Akuy muamin ánang hingusig nga irù,</i><trans> I’ll put an end to that noisy dog. </trans></eg>
