@@ -20,8 +20,7 @@ use open OUT => ':utf8';
 main();
 
 
-sub main()
-{
+sub main() {
     my $infile = $ARGV[0];
 
     open (INPUTFILE, $infile) || die("Could not open input file $infile");
@@ -34,16 +33,13 @@ sub main()
 
     print DATA "\n\nBEGIN TRANSACTION;\n\n";
 
-    while (<INPUTFILE>)
-    {
+    while (<INPUTFILE>) {
         my $line = $_;
-        if ($line =~ /<pb n=\"([0-9]+)\"\/>/)
-        {
+        if ($line =~ /<pb n=\"([0-9]+)\"\/>/) {
             $nextPageNum = $1;
         }
 
-        if ($line =~ /<entry\b(.*?)>/)
-        {
+        if ($line =~ /<entry\b(.*?)>/) {
             handleEntry();
         }
 
@@ -62,8 +58,7 @@ sub main()
 #
 # writeLanguageWords() -- write the collected words for a certain language to SQL statements.
 #
-sub writeLanguageWords($)
-{
+sub writeLanguageWords($) {
     my $lang = shift;
     my @wordList = keys %{$wordHash{$lang}};
 
@@ -113,19 +108,15 @@ sub writeLanguageWords($)
 #
 # handleEntry() -- print the SQL statment for an entry.
 #
-sub handleEntry()
-{
+sub handleEntry() {
     my $entry = "";
 
-    while (<INPUTFILE>)
-    {
+    while (<INPUTFILE>) {
         my $line = $_;
-        if ($line =~ /<pb n=\"([0-9]+)\"\/>/)
-        {
+        if ($line =~ /<pb n=\"([0-9]+)\"\/>/) {
             $nextPageNum = $1;
         }
-        if ($line =~ /<\/entry>/)
-        {
+        if ($line =~ /<\/entry>/) {
             last;
         }
         $entry .= $line;
@@ -164,17 +155,14 @@ sub handleEntry()
 #
 # handleHeadWords() -- collect the headwords in an entry
 #
-sub handleHeadWords($)
-{
+sub handleHeadWords($) {
     my $entry = shift;
     my $remainder = $entry;
-    while ($remainder =~ /<hw>(.*?)<\/hw>/)
-    {
+    while ($remainder =~ /<hw>(.*?)<\/hw>/) {
         my $phrase = $1;
         $remainder = $';
 
-        while ($phrase =~ /<s lang=\"hil\">(.*?)<\/s>/)
-        {
+        while ($phrase =~ /<s lang=\"hil\">(.*?)<\/s>/) {
             my $word = $1;
             $phrase = $';
 
@@ -182,8 +170,7 @@ sub handleHeadWords($)
             $word = stripPunctuation($word);
 
             my @words = split (/ /, $word);
-            foreach my $word (@words)
-            {
+            foreach my $word (@words) {
                 handleWord($word, "HW", $entryId);
             }
         }
@@ -194,13 +181,11 @@ sub handleHeadWords($)
 #
 # handleWords() -- collect all the words in an entry
 #
-sub handleWords($)
-{
+sub handleWords($) {
     my $entry = shift;
 
     my $remainder = $entry;
-    while ($remainder =~ /<s lang=\"hil\">(.*?)<\/s>/)
-    {
+    while ($remainder =~ /<s lang=\"hil\">(.*?)<\/s>/) {
         my $before = $`;
         my $phrase = $1;
         $remainder = $';
@@ -214,8 +199,7 @@ sub handleWords($)
 #
 # handleFragmentWords() -- collect the words in a certain language in an entry
 #
-sub handleFragmentWords($$)
-{
+sub handleFragmentWords($$) {
     my $phrase = shift;
     my $lang = shift;
 
@@ -231,8 +215,7 @@ sub handleFragmentWords($$)
     # split into words
     my @words = split(/ /, $phrase);
 
-    foreach my $word (@words)
-    {
+    foreach my $word (@words) {
         handleWord($word, $lang, $entryId);
     }
 }
@@ -241,8 +224,7 @@ sub handleFragmentWords($$)
 #
 # handleWord() -- store a single word in the hash with the entry ids it appears with.
 #
-sub handleWord($$$)
-{
+sub handleWord($$$) {
     my $word = shift;
     my $lang = shift;
     my $entryId = shift;
@@ -266,8 +248,7 @@ sub handleWord($$$)
 #
 # normalizeHiligaynon() -- normalize the spelling of Hiligaynon words.
 #
-sub normalizeHiligaynon($)
-{
+sub normalizeHiligaynon($) {
     my $word = shift;
 
     $word = lc($word);
@@ -285,8 +266,7 @@ sub normalizeHiligaynon($)
 #
 # quoteSql() -- quote a string for inclusion into a SQL query.
 #
-sub quoteSql($)
-{
+sub quoteSql($) {
     my $field = shift;
     $field =~ s/\"/\"\"/g;
     return "\"$field\"";
@@ -296,8 +276,7 @@ sub quoteSql($)
 #
 # stripXmlTags() -- strip XML tags from a string.
 #
-sub stripXmlTags($)
-{
+sub stripXmlTags($) {
     my $string = shift;
     $string =~ s/<\/?[a-z]+(.*?)>//g;
     return $string;
@@ -307,8 +286,7 @@ sub stripXmlTags($)
 #
 # stripPunctuation() -- strip punctuation marks from a string.
 #
-sub stripPunctuation($)
-{
+sub stripPunctuation($) {
     my $string = shift;
     $string =~ s/[.,;:()?!]/ /g;
     return $string;

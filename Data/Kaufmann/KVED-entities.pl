@@ -6,8 +6,7 @@ my $infile = $ARGV[0];
 open (INPUTFILE, $infile) || die("Could not open input file $infile");
 
 
-while (<INPUTFILE>)
-{
+while (<INPUTFILE>) {
     my $line = $_;
 
     $line =~ s/\&Ntilde;G/NG/sg;

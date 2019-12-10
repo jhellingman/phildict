@@ -9,39 +9,31 @@ open (INPUTFILE, $infile) || die("Could not open input file $infile");
 handleDictionary();
 
 
-
-sub handleDictionary()
-{
-    while (<INPUTFILE>)
-    {
+sub handleDictionary() {
+    while (<INPUTFILE>) {
         my $line = $_;
 
         # Start of new entry
-        while ($line =~ /^<p><b>(.*?)(,?)<\/b>/) 
-        {
+        while ($line =~ /^<p><b>(.*?)(,?)<\/b>/) {
             my $entry = $line;
 
             # More lines in entry?
-            while (<INPUTFILE>) 
-            {
+            while (<INPUTFILE>) {
                 $line = $_;
 
-                if ($line eq "\n") 
-                {
+                if ($line eq "\n") {
                     next;
                 }
 
                 # Old entry ends where new entry starts.
-                if ($line =~ /^<p><b>(.*?)(,?)<\/b>/  || $line =~ /^<\/?div[0-9]/) 
-                {
+                if ($line =~ /^<p><b>(.*?)(,?)<\/b>/  || $line =~ /^<\/?div[0-9]/) {
                     handleEntry($entry);
                     $entry = $line;
                     last;
                 }
 
                 # Close tag <p> of remaining lines:
-                if ($line =~ /^<p>/) 
-                {
+                if ($line =~ /^<p>/) {
                     my $tail = $';
                     chomp ($tail);
                     $line = "<p>$tail</p>\n";
@@ -61,15 +53,13 @@ sub handleDictionary()
 
 
 
-sub handleLine($)
-{
+sub handleLine($) {
     my $line = shift;
     print $line;
 }
 
 
-sub handleEntry($)
-{
+sub handleEntry($) {
     my $entry = shift;
 
     print STDERR "|";
@@ -101,8 +91,7 @@ sub handleEntry($)
 
 
     # Normal entry: <p><b>....,</b>  ->  <hw>....</hw>,
-    if ($entry =~ /^<p><b>(.*?)(,?)<\/b>/s) 
-    {
+    if ($entry =~ /^<p><b>(.*?)(,?)<\/b>/s) {
         my $headword = $1;
         my $comma = $2;
         my $tail = $';

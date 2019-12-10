@@ -2,15 +2,15 @@
 
 <!ENTITY gtilde CDATA "&#x0192;" -- g with tilde -->
 
-<!ENTITY ait    CDATA "a" -- italic a           or a withacute -->
+<!ENTITY ait    CDATA "a" -- italic a            or a withacute -->
 <!ENTITY aacit  CDATA "a" -- italic a with grave or a with circumflex -->
-<!ENTITY eit    CDATA "e" -- italic e           or e withacute -->
+<!ENTITY eit    CDATA "e" -- italic e            or e withacute -->
 <!ENTITY eacit  CDATA "e" -- italic e with grave or e with circumflex -->
-<!ENTITY iit    CDATA "i" -- italic i           or i withacute -->
+<!ENTITY iit    CDATA "i" -- italic i            or i withacute -->
 <!ENTITY iacit  CDATA "i" -- italic i with grave or i with circumflex -->
-<!ENTITY oit    CDATA "o" -- italic o           or o withacute -->
+<!ENTITY oit    CDATA "o" -- italic o            or o withacute -->
 <!ENTITY oacit  CDATA "o" -- italic o with grave or o with circumflex -->
-<!ENTITY uit    CDATA "u" -- italic u           or u withacute -->
+<!ENTITY uit    CDATA "u" -- italic u            or u withacute -->
 <!ENTITY uacit  CDATA "u" -- italic u with grave or u with circumflex -->
 
 ]><TEI.2 lang=en>
@@ -18,8 +18,8 @@
 <fileDesc>
 <titleStmt>
 <title>Visayan-English Dictionary</title>
-<author sortkey="Kaufmann, John">John Kaufmann</author>
-<respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
+<author key="Kaufmann, John">John Kaufmann</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
 <publisher>Jeroen Hellingman</publisher>
@@ -47,10 +47,6 @@
 <profileDesc>
     <langUsage>
         <language id=en>English</language>
-        <language id=en-US>English (United States)</language>
-        <language id=en-UK>English (United Kingdom)</language>
-        <language id=de>German</language>
-        <language id=fr>French</language>
         <language id=la>Latin</language>
         <language id=es>Spanish</language>
         <language id=hil>Hiligaynon</language>
@@ -64,7 +60,7 @@
 </teiHeader>
 <text>
 <front id=frontmatter>
-<div1 type=FrenchTitle>
+<div1 type=FrenchTitle id=french>
 
 
 <p rend="align(center)">VISAYAN-ENGLISH DICTIONARY
@@ -75,7 +71,7 @@
 
 
 <pb n=VII>
-<div1 type=FrenchTitle>
+<div1 type=Copyright id=copyright>
 
 
 <p rend="align(center)"><hi rend=sc>Copyright</hi>
@@ -102,7 +98,7 @@
 <byline>
 By
 <lb><docAuthor>The REV. J. KAUFMANN, M.H.M.</docAuthor>
-<lb>Parish Priest of Igbar&aacute;s, Iloilo, P.I.
+<lb>Parish Priest of Igbar&aacute;s, Iloilo, <abbr expan="Philippine Islands">P.I.</abbr>
 </byline>
 
 
@@ -117,7 +113,7 @@ By
 
 
 <pb n=XI>
-<div1 type=Preface>
+<div1 type=Preface id=preface>
 <head>Preface</head>
 
 
@@ -134,7 +130,7 @@ By
 
 
 <pb n=XII>
-<div1 type=Acknowledgments>
+<div1 type=Acknowledgments id=ack>
 <head>Acknowledgments</head>
 
 
@@ -147,7 +143,7 @@ By
 <p rend="class(signed)">J. K.
 
 
-<div1 type=Abbreviations>
+<div1 type=Abbreviations id=abbr>
 <head>Abbreviations Used in this Dictionary</head>
 
 
@@ -166,9 +162,9 @@ By
 <row><cell>Freq.   <cell><corr resp=errata sic=Frequentive>Frequentative</corr>.
 <row><cell>e.g.    <cell><foreign lang=la>Exempli gratia</foreign> (Latin), for example, for instance.
 <row><cell>i.e.    <cell><foreign lang=la>Id est</foreign> (Latin), that is.
-<row><cell>etc.    <cell><foreign lang=la>Et cetera</foreign> (Latin), and the rest.
+<row><cell><abbr expan=etcetera>etc.</abbr>    <cell><foreign lang=la>Et cetera</foreign> (Latin), and the rest.
 <row><cell>id.     <cell><foreign lang=la>Idem</foreign> (Latin), the same.
-<row><cell>N.B.    <cell><foreign lang=la>Nota bene</foreign> (Latin), note well.
+<row><cell><abbr expan="Nota bene">N.B.</abbr>    <cell><foreign lang=la>Nota bene</foreign> (Latin), note well.
 <row><cell>Sp.     <cell>Spanish.
 </table>
 
@@ -176,7 +172,7 @@ By
 
 
 <pb n=XIII>
-<div1>
+<div1 type=Section id=hyphen>
 <head>The Hyphen</head>
 
 
@@ -190,7 +186,7 @@ By
 
 
 
-<div1>
+<div1 id=accentuation>
 <head>Accentuation</head>
 
 
@@ -201,7 +197,7 @@ By
 
 
 <pb n=XIV>
-<div1>
+<div1 id=vowel>
 <head>The Cut Short Vowel</head>
 
 
@@ -213,7 +209,7 @@ By
 
 
 
-<div1>
+<div1 id=oandu>
 <head>The Letters &ldquo;O&rdquo; and &ldquo;U&rdquo; in Hinir&aacute;ya Terms</head>
 
 
@@ -221,7 +217,7 @@ By
 
 
 
-<div2 type=Note>
+<div2 type=Note id=note>
 <head>Note</head>
 
 
@@ -232,21 +228,21 @@ By
 
 
 <pb n=1037>
-<div1>
+<div1 id=conc>
 <head>Concluding Remark</head>
 
 
 <p>The language as spoken and written in and around Iloilo is not only rich in Visayan roots, but extremely elastic and well-nigh inexhaustible in derivatives and compound words. The many prefixes, suffixes, inserted syllables, diminutive forms, etc. allow great scope for innumerable combinations with various shades of meaning. It is neither possible nor necessary to give a complete list of such words. For those advanced in the study of Visayan, and even for beginners with a good grammatical foundation, it will be easy with the help of this Dictionary to make out the meaning of many terms they may hear or read, although such terms are not explicitly mentioned in the Dictionary, e.g. <foreign lang=hil>alalas&oacute;n (l, -on, &aacute;las); bolobakyas&oacute;n (-olo-, -on, b&aacute;kyas); man&gtilde;inmabolob&uacute;g-at (man&gtilde;in-, ma-, -olo-, b&uacute;g-at); dalangh&oacute;san (l, -an, d&aacute;nghos); paggilin&uacute;al (pag-, ilin-, g&uacute;al); hinaluk&aacute;y hinadkan&aacute;y, hinagkan&aacute;y (-in-, -ay, hal&uacute;k, h&aacute;dkan, h&aacute;gkan); hinun&gtilde;&aacit;t&uacute;n&gtilde;&ait; (hi-, tun&gtilde;&aacit;); hulum&aacute;non (l,-on, hum&aacute;n); makatil&iacute;n-ad (maka-, t&iacute;n-ad); kaisd&aacute;an (ka-, -an, &iacute;sd&ait;); maulu&aacute;lwag (ma-, -ulu-, &aacute;lwag); malun&aacute;nglun&aacute;n&gtilde;on (ma-,-on, l&uacute;nang); (ma) limb&oacute;limb&oacute;hon (ma-,-on, l&iacute;mbo); minaninay&aacute;y (in-,-ay, man&iacute;nay); pamil&iacute;nb&iacute;lin (pan-, b&iacute;lin); paminungh&aacute;yb&uacute;nghay (pan-, b&uacute;nghay); pamul&oacute;ngp&uacute;long (pan-, p&uacute;long); panak&aacit;sak&aacit; (pan-, s&aacute;k&ait;); pagsilin&aacute;ut (pag-,-ilin-, s&aacute;ut); salakd&aacute;gon (l, -on, s&aacute;kdag); tal&aacute;kpan (l, -an, tak&oacute;p); talal-&uacute;san (l,-an, t&aacute;l-us); walahig&oacute;n (l, -on, w&aacute;hig); wil&iacute;skan (l, -an, wis&iacute;k)</foreign>, etc. etc.
 
-<p rend="class(signed)"><hi rend=bold>O.A.M.D.G</hi>.
+<p rend="class(signed)"><hi rend=bold><abbr expan="Omnia Ad Majorem Dei Gloriam">O.A.M.D.G.</abbr></hi>
 
 
 
 
-<div1>
+<div1 id=transcribersnote>
 <head>Transcriber&apos;s Note</head>
 
-<p>Kaufmann&apos;s Visayan-English Dictionary is probably one of the best dictionaries ever produced for Hiligaynon. At the same time, this work, printed around 1934, is extremely rare, and almost impossible to obtain. This electronic reprint resolves that issue. To further increase its accessibility, a searchable interface has been made available on-line at <xref url="http://www.bohol.ph/kved.php">http://www.bohol.ph/kved.php</xref>.
+<p>Kaufmann&apos;s Visayan-English Dictionary is probably one of the best dictionaries ever produced for Hiligaynon. At the same time, this work, printed around 1934, is extremely rare, and almost impossible to obtain. This electronic reprint resolves that issue. To further increase its accessibility, a searchable interface has been made available on-line at <xref url="https://www.bohol.ph/kved.php">http://www.bohol.ph/kved.php</xref>.
 
 <p>Since it was printed in 1934, it certainly shows its age: some of the words mentioned are no longer used and numerous new words have been added to the language (However, those new words mainly are English words that replace Spanish terms, and thus do not introduce problems for students who already know English.) One of this dictionary&apos;s strengths is that it gives sample sentences for almost every words, which is a great aid to learners.
 
@@ -257,24 +253,24 @@ By
     <item>The use of italic vowels to indicate a following glottal stop (cut-short vowel) has been replaced by the system conventionally used in the Philippines. That is, the acute accent (&acute;) is used to indicate stress, the grave accent (`) to indicate a following glottal stop, and the circumflex (^) when both occur together.
     <item>The entries in the supplement have been sorted into the main dictionary.
     <item>The corrections given in the errata have been applied.
-    <item>Further obvious typographic errors have been corrected. 
+    <item>Further obvious typographic errors have been corrected.
 </list>
 
 
 
 </front>
-<body>
+<body id=body>
 
 
 <xi:include href="KVED-Body.tei" parse="xml"></xi:include>
 
 
 </body>
-<back>
-
+<back id=backmatter>
 
 
 <divGen type=Colophon>
+
 
 </back>
 </text>

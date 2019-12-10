@@ -5,16 +5,13 @@ use strict;
 my $infile = $ARGV[0];
 open (INPUTFILE, $infile) || die("Could not open input file $infile");
 
-
 my $entryId = 0;
 my @entries = ();
 
-while (<INPUTFILE>)
-{
+while (<INPUTFILE>) {
     my $line = $_;
 
-    if ($line =~ /<entry\b(.*?)>/) 
-    {
+    if ($line =~ /<entry\b(.*?)>/) {
         collectEntry();
     }
 }
@@ -32,16 +29,13 @@ use sort 'stable';
 my $letter = '@';
 my $openDiv = 0;
 
-foreach my $entry (@entries)
-{
+foreach my $entry (@entries) {
     my $firstLetter = substr($entry, 0, 1);
     $entry =~ /\#\#\#/;
     $entry = $';
 
-    if ($letter ne $firstLetter) 
-    {
-        if ($openDiv == 1) 
-        {
+    if ($letter ne $firstLetter) {
+        if ($openDiv == 1) {
             print "</div2>\n";
         }
         print "<div2>\n";
@@ -52,8 +46,7 @@ foreach my $entry (@entries)
 
     print "<entry>\n$entry</entry>\n"; 
 }
-if ($openDiv == 1) 
-{
+if ($openDiv == 1) {
     print "</div2>\n";
 }
 
@@ -61,9 +54,7 @@ if ($openDiv == 1)
 print "</col></div1></dictionary>\n";
 
 
-
-sub beforeTripleHash($)
-{
+sub beforeTripleHash($) {
     my $str = shift;
     $str =~ /\#\#\#/;
     $str = $`;
@@ -71,16 +62,12 @@ sub beforeTripleHash($)
 }
 
 
-
-sub collectEntry()
-{
+sub collectEntry() {
     my $entry = "";
 
-    while (<INPUTFILE>)
-    {
+    while (<INPUTFILE>) {
         my $line = $_;
-        if ($line =~ /<\/entry>/) 
-        {
+        if ($line =~ /<\/entry>/) {
             last;
         }
         $entry .= $line;
@@ -91,13 +78,10 @@ sub collectEntry()
 }
 
 
-
-sub handleEntry($)
-{
+sub handleEntry($) {
     my $entry = shift;
     my $remainder = $entry;
-    if ($entry =~ /<hw>(.*?)<\/hw>/)
-    {
+    if ($entry =~ /<hw>(.*?)<\/hw>/) {
         my $headword = $1;
         $entry = stripSpecials($headword) . "###" . $entry;
     }
@@ -108,9 +92,7 @@ sub handleEntry($)
 }
 
 
-
-sub stripSpecials($)
-{
+sub stripSpecials($) {
     my $word = shift;
 
     $word = stripXmlTags($word);
@@ -128,8 +110,7 @@ sub stripSpecials($)
 }
 
 
-sub stripXmlTags($)
-{
+sub stripXmlTags($) {
     my $string = shift;
     $string =~ s/<\/?[a-z]+(.*?)>//g;
     return $string;

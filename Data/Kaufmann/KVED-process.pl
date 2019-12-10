@@ -11,34 +11,28 @@ my $saxon       = "java -jar $jardir/saxon9he.jar ";                    # (see h
 my $frontFile = "KVED-Introduction-0.2.tei";
 my $bodyFile = "KVED-Body-0.1.txt";
 
-print "Front...\n";
-
+# Preprocess front
 system ("perl KVED-entities.pl $frontFile > KVED-Introduction.tei");
 
-print "Body...\n";
-
-print "Concatenate paragraphs...\n";
+# Preprocess body
 system ("perl $toolsdir/catpars.pl $bodyFile > temp-01.txt");
-
-print "Add tagging for TEI processing...\n";
 system ("perl KVED-tei.pl temp-01.txt > temp-02.tei");
-system ("patc -p $toolsdir/win2sgml.pat temp-02.tei temp-03.tei");
-system ("perl KVED-entities.pl temp-03.tei > KVED-Body.tei");
+system ("perl KVED-entities.pl temp-02.tei > KVED-Body.tei");
 
-print "Combine Front and Body...\n";
+# Combine front and body and process result
 system ("perl KVED-include.pl KVED-Introduction.tei > KVED.tei");
-system ("perl -S tei2html.pl -h KVED.tei");
+system ("perl -S tei2html.pl -h -v -e -r KVED.tei");
 
-print "Add tagging for DB and Prince processing...\n";
+# Add tagging for DB and Prince processing
 system ("perl KVED-tag.pl temp-01.txt > temp-02.xml");
 
-print "Sort entries...\n";
+# Sort entries
 system ("perl KVED-sort.pl temp-02.xml > temp-02s.xml");
 
-# print "Create PDF format... (This may take up to 30 minutes)\n";
+# Create PDF format (This may take up to 30 minutes)
 # system ("\"$princedir/prince\" -s KVED-Prince3.css temp-02s.xml KVED-body.pdf");
 
-print "Create database format...\n";
+# Create database format
 system ("perl KVED-db.pl temp-02.xml");
 
 # Create database if needed
@@ -47,9 +41,5 @@ if (!-e "SQL/dictionary_database") {
     system ("sqlite3 SQL/dictionary_database < SQL/kved_data.sql");
 }
 
-print "Report on word usage...\n";
-system ("perl $toolsdir/win2utf8.pl temp-02.xml > KVED-dictionary.xml");
-system ("perl $toolsdir/ucwords.pl  KVED-dictionary.xml > words.html");
-
-print "Convert to simple XDXF...\n";
-system ("$saxon KVED-dictionary.xml dic2xdxf.xsl > KVED-xdxf.xml");
+# Convert to simple XDXF
+system ("$saxon KVED.xml dic2xdxf.xsl > KVED-xdxf.xml");
