@@ -99,6 +99,9 @@ sub handleEntry($) {
         # $entry = "<entry>\n<hw>$headword</hw>$comma$tail</entry>\n";
     }
 
+    # Translations are marked with @...@, remove them for now.
+    $entry =~ s/@(.*?)@/\1/sg;
+
     # Cross references are tagged with ^...^
     $entry =~ s/\^(.*?)\^/<xref>\1<\/xref>/sg;
 

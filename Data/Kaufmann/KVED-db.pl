@@ -29,9 +29,9 @@ sub main() {
     open (WORD,         ">SQL/kved_word.sql")        || die ("Could not create output file 'SQL/kved_word.sql'");
     open (WORDENTRY,    ">SQL/kved_wordentry.sql")   || die ("Could not create output file 'SQL/kved_wordentry.sql'");
 
-    open (DATA,         ">SQL/kved_data.sql")       || die ("Could not create output file 'SQL/kved_data.sql'");
+    open (SQLITE,       ">SQL/kved_sqlite.sql")      || die ("Could not create output file 'SQL/kved_sqlite.sql'");
 
-    print DATA "\n\nBEGIN TRANSACTION;\n\n";
+    print SQLITE "\n\nBEGIN TRANSACTION;\n\n";
 
     while (<INPUTFILE>) {
         my $line = $_;
@@ -51,14 +51,14 @@ sub main() {
     writeLanguageWords("EN");
     writeLanguageWords("HIL");
 
-    print DATA "\n\nCOMMIT;\n\n";
+    print SQLITE "\n\nCOMMIT;\n\n";
 }
 
 
 #
-# writeLanguageWords() -- write the collected words for a certain language to SQL statements.
+# Write the collected words for a certain language to SQL statements.
 #
-sub writeLanguageWords($) {
+sub writeLanguageWords {
     my $lang = shift;
     my @wordList = keys %{$wordHash{$lang}};
 
@@ -87,16 +87,16 @@ sub writeLanguageWords($) {
                         $headId++;
                         my $type = "m";         # Always main entry.
                         my $pos = 0;            # Always at start of entry.
-                        print DATA "INSERT INTO `" . $prefix . "head` VALUES($headId, " . quoteSql($word) . ", " . quoteSql($normalizedWord) . ", $entryId, " . quoteSql($type) . ", $pos);\n";
+                        print SQLITE "INSERT INTO `" . $prefix . "head` VALUES($headId, " . quoteSql($word) . ", " . quoteSql($normalizedWord) . ", $entryId, " . quoteSql($type) . ", $pos);\n";
                     }
 
                     my $flags = $lang eq "HW" ? 1 : 4;
                     $lang = $lang eq "HW" ? "HIL" : $lang;
-                    print DATA "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($word) . ", " . quoteSql($lang) . ");\n";
+                    print SQLITE "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($word) . ", " . quoteSql($lang) . ");\n";
                     if ($normalizedWord ne "" && $normalizedWord ne $word) {
                         $flags += 16;
                         $word2Id++;
-                        print DATA "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($normalizedWord) . ", " . quoteSql($lang) . ");\n";
+                        print SQLITE "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($normalizedWord) . ", " . quoteSql($lang) . ");\n";
                     }
                 }
             }
@@ -106,9 +106,9 @@ sub writeLanguageWords($) {
 
 
 #
-# handleEntry() -- print the SQL statment for an entry.
+# Print the SQL statment for an entry.
 #
-sub handleEntry() {
+sub handleEntry {
     my $entry = "";
 
     while (<INPUTFILE>) {
@@ -133,7 +133,7 @@ sub handleEntry() {
         ");\n";
 
     # Write insert for the SQL-lite structure to be used in App.
-    # First retrieve head (between <hw> and </hw>
+    # First retrieve head words (between <hw> and </hw>
 
     $entry =~ /<hw>(.*?)<\/hw>/;
     my $head = $1;
@@ -141,7 +141,7 @@ sub handleEntry() {
     $head =~ s/<s lang=\"hil\">//g;
     $head =~ s/<\/s>//g;
 
-    print DATA "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
+    print SQLITE "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
         quoteSql($head) .
         ", " . quoteSql("<entry>$entry</entry>") .
         ", " . $pageNum .
@@ -153,9 +153,9 @@ sub handleEntry() {
 
 
 #
-# handleHeadWords() -- collect the headwords in an entry
+# Collect the headwords in an entry
 #
-sub handleHeadWords($) {
+sub handleHeadWords {
     my $entry = shift;
     my $remainder = $entry;
     while ($remainder =~ /<hw>(.*?)<\/hw>/) {
@@ -171,7 +171,7 @@ sub handleHeadWords($) {
 
             my @words = split (/ /, $word);
             foreach my $word (@words) {
-                handleWord($word, "HW", $entryId);
+                handleWord($word, 'HW', $entryId);
             }
         }
     }
@@ -179,9 +179,9 @@ sub handleHeadWords($) {
 
 
 #
-# handleWords() -- collect all the words in an entry
+# Collect all the words in an entry
 #
-sub handleWords($) {
+sub handleWords {
     my $entry = shift;
 
     my $remainder = $entry;
@@ -189,17 +189,17 @@ sub handleWords($) {
         my $before = $`;
         my $phrase = $1;
         $remainder = $';
-        handleFragmentWords($before, "EN");
-        handleFragmentWords($phrase, "HIL");
+        handleFragmentWords($before, 'EN');
+        handleFragmentWords($phrase, 'HIL');
     }
-    handleFragmentWords($remainder, "EN");
+    handleFragmentWords($remainder, 'EN');
 }
 
 
 #
-# handleFragmentWords() -- collect the words in a certain language in an entry
+# Collect the words in a certain language in an entry
 #
-sub handleFragmentWords($$) {
+sub handleFragmentWords {
     my $phrase = shift;
     my $lang = shift;
 
@@ -222,23 +222,23 @@ sub handleFragmentWords($$) {
 
 
 #
-# handleWord() -- store a single word in the hash with the entry ids it appears with.
+# Store a single word in the hash with the entry ids it appears with.
 #
-sub handleWord($$$) {
+sub handleWord {
     my $word = shift;
     my $lang = shift;
     my $entryId = shift;
 
     $word = lc($word);
 
-    if ($word ne "" && $word ne "\n") {
+    if ($word ne '' && $word ne "\n") {
         if (index($wordHash{$lang}{$word}, " $entryId ") > 0) {
             # word already counted with this entry.
             return;
         }
-        if (!defined($wordHash{$lang}{$word}) || $wordHash{$lang}{$word} eq "") {
+        if (!defined($wordHash{$lang}{$word}) || $wordHash{$lang}{$word} eq '') {
             # word not seen before: start new entry.
-            $wordHash{$lang}{$word} = " ";
+            $wordHash{$lang}{$word} = ' ';
         }
         $wordHash{$lang}{$word} .= "$entryId ";
     }
@@ -246,9 +246,9 @@ sub handleWord($$$) {
 
 
 #
-# normalizeHiligaynon() -- normalize the spelling of Hiligaynon words.
+# Normalize the spelling of Hiligaynon words.
 #
-sub normalizeHiligaynon($) {
+sub normalizeHiligaynon {
     my $word = shift;
 
     $word = lc($word);
@@ -264,9 +264,9 @@ sub normalizeHiligaynon($) {
 
 
 #
-# quoteSql() -- quote a string for inclusion into a SQL query.
+# Quote a string for inclusion into a SQL query.
 #
-sub quoteSql($) {
+sub quoteSql {
     my $field = shift;
     $field =~ s/\"/\"\"/g;
     return "\"$field\"";
@@ -274,9 +274,9 @@ sub quoteSql($) {
 
 
 #
-# stripXmlTags() -- strip XML tags from a string.
+# Strip XML tags from a string.
 #
-sub stripXmlTags($) {
+sub stripXmlTags {
     my $string = shift;
     $string =~ s/<\/?[a-z]+(.*?)>//g;
     return $string;
@@ -284,9 +284,9 @@ sub stripXmlTags($) {
 
 
 #
-# stripPunctuation() -- strip punctuation marks from a string.
+# Strip punctuation marks from a string.
 #
-sub stripPunctuation($) {
+sub stripPunctuation {
     my $string = shift;
     $string =~ s/[.,;:()?!]/ /g;
     return $string;

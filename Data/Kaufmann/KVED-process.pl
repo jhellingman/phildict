@@ -21,9 +21,9 @@ system ("perl KVED-entities.pl temp-02.tei > KVED-Body.tei");
 
 # Combine front and body and process result
 system ("perl KVED-include.pl KVED-Introduction.tei > KVED.tei");
-system ("perl -S tei2html.pl -h -v -e -r KVED.tei");
+system ("perl -S tei2html.pl -h -v -r KVED.tei");
 
-# Add tagging for DB and Prince processing
+# Add tagging for database and Prince processing
 system ("perl KVED-tag.pl temp-01.txt > temp-02.xml");
 
 # Sort entries
@@ -38,7 +38,7 @@ system ("perl KVED-db.pl temp-02.xml");
 # Create database if needed
 if (!-e "SQL/dictionary_database") {
     system ("sqlite3 SQL/dictionary_database < SQL/structure-sqlite.sql");
-    system ("sqlite3 SQL/dictionary_database < SQL/kved_data.sql");
+    system ("sqlite3 SQL/dictionary_database < SQL/kved_sqlite.sql");
 }
 
 # Convert to simple XDXF

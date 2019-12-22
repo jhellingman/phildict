@@ -81,3 +81,9 @@ Data/Encarnacion/issues.xml
 Data/Encarnacion/EspanolBisaya-0.1-checks.html
 Data/Nigg/issues.xml
 Data/Nigg/TagalogDictionary-checks.html
+Data/Kaufmann/issues.xml
+Data/Kaufmann/KVED-checks.html
+Data/Kaufmann/KVED-normalized-kwic-variants-2.html
+Data/Kaufmann/KVED-normalized-kwic.html
+Data/Kaufmann/SQL/dictionary_database.zip
+Data/Kaufmann/SQL/kved_sqlite.sql

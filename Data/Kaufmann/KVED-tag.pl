@@ -12,7 +12,7 @@ my $useEntities = 0;
 handleDictionary();
 
 
-sub handleDictionary() {
+sub handleDictionary {
     print "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\n";
     print "<!DOCTYPE dictionary [\n";
     print "    <!ENTITY mdash \"&#x2014;\">\n";
@@ -66,7 +66,7 @@ sub handleDictionary() {
 }
 
 
-sub handleLine($) {
+sub handleLine {
     my $line = shift;
 
     # Turn <pb> tags to XML style tags.
@@ -76,7 +76,7 @@ sub handleLine($) {
 }
 
 
-sub handleEntry($) {
+sub handleEntry {
     my $entry = shift;
 
     print STDERR "|";
@@ -163,6 +163,17 @@ sub handleEntry($) {
     $entry =~ s/(\(cf\. ([^()]*?)\))/<cf>\1<\/cf>/sg;                       # Do not allow nested parentheses.
     $entry =~ s/(\(cf\. ([^()]*?\([^()]*?\)[^()]*?)\))/<cf>\1<\/cf>/sg;     # Handle one nested set of parentheses.
 
+    # Translations are marked with @...@
+    my $partial = '';
+    my $remainder = $entry;
+    while ($remainder =~ /@(.*?)@/s) {
+        $partial .= $`;
+        my $translations = $1;
+        $remainder = $';
+        $partial .= handleTranslations($translations);
+    }
+    $entry = $partial . $remainder;
+
     # Cross references are tagged with ^...^
     $entry =~ s/\^(.*?)\^/<xref>\1<\/xref>/sg;
 
@@ -174,4 +185,27 @@ sub handleEntry($) {
     ######### END EXPERIMENTAL
 
     print $entry;
+}
+
+
+sub handleTranslations {
+    my $translations = shift;
+
+    # translations, separated by commas or semicolons. Also keep other punctuation out of tagging.
+    # To do so we split while also capturing the separators.
+
+    my $result = '';
+    my @phrases = split(/([,;]\s+)/, $translations);
+    foreach my $phrase (@phrases) {
+        if ($phrase =~ /[a-záàâéèêíìîóòôúùûñ -]+/i and $phrase !~ /[ -]+/i) {
+            my $before = $`;
+            my $phrase = $&;
+            my $after = $';
+            $result .= "$before<tr>$phrase</tr>$after";
+        } else {
+            $result .= $phrase;
+        }
+    }
+
+    return $result;
 }
