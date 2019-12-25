@@ -6,6 +6,9 @@ my $infile = $ARGV[0];
 open (INPUTFILE, $infile) || die("Could not open input file $infile");
 
 
+my %idHash;
+
+
 handleDictionary();
 
 
@@ -43,7 +46,7 @@ sub handleDictionary() {
                 $entry .= $line;
             }
         }
-        
+
         # handle unhandled lines.
         handleLine($line);
     }
@@ -96,15 +99,67 @@ sub handleEntry($) {
         my $comma = $2;
         my $tail = $';
 
-        # $entry = "<entry>\n<hw>$headword</hw>$comma$tail</entry>\n";
+        my $id = normalizeWordForId($headword);
+
+        if (defined $idHash{$id}) {
+            $idHash{$id} = $idHash{$id} + 1;
+            $id = $id . $idHash{$id};
+            print STDERR "*";
+        } else {
+            $idHash{$id} = 1;
+        }
+
+        # $entry = "<entry id=\"$id\">\n<hw>$headword</hw>$comma$tail</entry>\n";
+        $entry = "<p id=\"$id\"><b>$headword$comma</b>$tail";
+
+
+
     }
 
     # Translations are marked with @...@, remove them for now.
     $entry =~ s/@(.*?)@/\1/sg;
 
     # Cross references are tagged with ^...^
-    $entry =~ s/\^(.*?)\^/<xref>\1<\/xref>/sg;
+    $entry =~ s/\^(.*?)\^/'<ref target="' . normalizeWordForId($1) . "\">$1<\/ref>"/esg;
 
     print $entry;
     print "\n";
+}
+
+
+sub normalizeWordForId {
+    my $word = shift;
+
+    $word =~ s/<.*?>//sg;
+    $word =~ s/&mdash;//sg;
+    $word =~ s/-//sg;
+
+    $word =~ s/ñ/n/sg;
+    $word =~ s/&ntilde;/n/sg;
+    $word =~ s/&gtilde;/g/sg;
+
+    # Encoding: acute -> x; grave -> q; circumflex -> z
+
+    $word =~ s/á/aq/sg;
+    $word =~ s/é/eq/sg;
+    $word =~ s/í/iq/sg;
+    $word =~ s/ó/oq/sg;
+    $word =~ s/ú/uq/sg;
+
+    $word =~ s/&ait;/aq/sg;
+    $word =~ s/&eit;/eq/sg;
+    $word =~ s/&iit;/iq/sg;
+    $word =~ s/&oit;/oq/sg;
+    $word =~ s/&uit;/uq/sg;
+
+    $word =~ s/&aacit;/az/sg;
+    $word =~ s/&eacit;/ez/sg;
+    $word =~ s/&iacit;/iz/sg;
+    $word =~ s/&oacit;/oz/sg;
+    $word =~ s/&uacit;/uz/sg;
+
+    $word =~ s/&[a-z0-9.]+;//sg;
+    $word =~ s/[ .,:;!?]//sg;
+
+    return $word;
 }

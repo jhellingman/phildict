@@ -2,7 +2,7 @@
 
 use strict;
 
-my $prefix = "kved_";
+my $prefix = 'kved_';
 my $pageNum = 0;
 my $nextPageNum = 0;
 my $entryId = 0;
@@ -14,7 +14,7 @@ my %wordHash = ();
 
 use SgmlSupport qw/sgml2utf/;
 
-binmode(STDOUT, ":utf8");
+binmode(STDOUT, ':utf8');
 use open OUT => ':utf8';
 
 main();
@@ -47,9 +47,9 @@ sub main() {
     }
 
     # write collected words to SQL.
-    writeLanguageWords("HW");
-    writeLanguageWords("EN");
-    writeLanguageWords("HIL");
+    writeLanguageWords('HW');
+    writeLanguageWords('EN');
+    writeLanguageWords('HIL');
 
     print SQLITE "\n\nCOMMIT;\n\n";
 }
@@ -63,40 +63,40 @@ sub writeLanguageWords {
     my @wordList = keys %{$wordHash{$lang}};
 
     foreach my $word (@wordList) {
-        if ($word ne "") {
+        if ($word ne '') {
             $wordId++;
-            my $normalizedWord = "";
-            if ($lang eq "HIL" || $lang eq "HW") {
+            my $normalizedWord = '';
+            if ($lang eq 'HIL' || $lang eq 'HW') {
                 $normalizedWord = normalizeHiligaynon($word);
             }
 
             print WORD "INSERT INTO `" . $prefix . "word` VALUES ($wordId, " .
-                quoteSql($word) . ", " .
-                quoteSql($normalizedWord) . ", " .
+                quoteSql($word) . ', ' .
+                quoteSql($normalizedWord) . ', ' .
                 quoteSql($lang) .
                 ");\n";
 
             my @entries = split(/ /, $wordHash{$lang}{$word});
             foreach my $entryId (@entries) {
-                if ($entryId ne "") {
+                if ($entryId ne '') {
                     print WORDENTRY "INSERT INTO `" . $prefix . "wordentry` VALUES ($wordId, $entryId);\n";
 
                     # Write inserts for the SQL-lite structure to be used in App.
                     $word2Id++;
-                    if ($lang eq "HW") {
+                    if ($lang eq 'HW') {
                         $headId++;
-                        my $type = "m";         # Always main entry.
+                        my $type = 'm';         # Always main entry.
                         my $pos = 0;            # Always at start of entry.
-                        print SQLITE "INSERT INTO `" . $prefix . "head` VALUES($headId, " . quoteSql($word) . ", " . quoteSql($normalizedWord) . ", $entryId, " . quoteSql($type) . ", $pos);\n";
+                        print SQLITE "INSERT INTO `" . $prefix . "head` VALUES($headId, " . quoteSql($word) . ', ' . quoteSql($normalizedWord) . ", $entryId, " . quoteSql($type) . ", $pos);\n";
                     }
 
-                    my $flags = $lang eq "HW" ? 1 : 4;
-                    $lang = $lang eq "HW" ? "HIL" : $lang;
-                    print SQLITE "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($word) . ", " . quoteSql($lang) . ");\n";
-                    if ($normalizedWord ne "" && $normalizedWord ne $word) {
+                    my $flags = $lang eq 'HW' ? 1 : 4;
+                    $lang = $lang eq 'HW' ? 'HIL' : $lang;
+                    print SQLITE "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($word) . ', ' . quoteSql($lang) . ");\n";
+                    if ($normalizedWord ne '' && $normalizedWord ne $word) {
                         $flags += 16;
                         $word2Id++;
-                        print SQLITE "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($normalizedWord) . ", " . quoteSql($lang) . ");\n";
+                        print SQLITE "INSERT INTO `" . $prefix . "word` VALUES($word2Id, $entryId, $flags, " . quoteSql($normalizedWord) . ', ' . quoteSql($lang) . ");\n";
                     }
                 }
             }
@@ -129,7 +129,7 @@ sub handleEntry {
     $entryId++;
     print ENTRY "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
         quoteSql("<entry>$entry</entry>") .
-        ", " . $pageNum .
+        ', ' . $pageNum .
         ");\n";
 
     # Write insert for the SQL-lite structure to be used in App.
@@ -143,8 +143,8 @@ sub handleEntry {
 
     print SQLITE "INSERT INTO `" . $prefix . "entry` VALUES ($entryId, " .
         quoteSql($head) .
-        ", " . quoteSql("<entry>$entry</entry>") .
-        ", " . $pageNum .
+        ', ' . quoteSql("<entry>$entry</entry>") .
+        ', ' . $pageNum .
         ");\n";
 
     handleHeadWords($entry);

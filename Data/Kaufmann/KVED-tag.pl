@@ -175,7 +175,7 @@ sub handleEntry {
     $entry = $partial . $remainder;
 
     # Cross references are tagged with ^...^
-    $entry =~ s/\^(.*?)\^/<xref>\1<\/xref>/sg;
+    $entry =~ s/\^(.*?)\^/<ref>\1<\/ref>/sg;
 
     ######### EXPERIMENTAL
 
@@ -195,7 +195,7 @@ sub handleTranslations {
     # To do so we split while also capturing the separators.
 
     my $result = '';
-    my @phrases = split(/([,;]\s+)/, $translations);
+    my @phrases = split(/([.,;]\s+)/, $translations);
     foreach my $phrase (@phrases) {
         if ($phrase =~ /[a-záàâéèêíìîóòôúùûñ -]+/i and $phrase !~ /[ -]+/i) {
             my $before = $`;
