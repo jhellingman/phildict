@@ -1,7 +1,0 @@
-
-/* hanging indent for dictionary works better */
-div.body div.div1 p, div.body div.div1 p.first
-{
-    text-indent: -1em; 
-    margin-left: 1em;
-}

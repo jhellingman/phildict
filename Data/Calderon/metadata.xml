@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated on 2023-01-14T22:31:47Z. -->
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
    <rdf:Description>
       <dc:title>Diccionario Ingles-Español-Tagalog</dc:title>
-      <dc:creator>Sofronio G. Calderón</dc:creator>
+      <dc:creator>Sofronio G. Calderón (1878–1954)</dc:creator>
       <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2007-03-04</dc:publisher>
       <dc:date>2007-03-04</dc:date>
       <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
@@ -12,7 +13,7 @@ This dictionary contains a lot of obsolete words that may make one wonder how th
 Numerous, but not all, misspellings and older spellings have been silently corrected or modernized. Some misspellings seem to be taken from other contemporary English-Spanish dictionaries. (Internet search-engines are wonderful in revealing such things.)
 The pronuciations sometimes reveal a Spanish influx.
 The newly designed cover contains the flags of Spain, the United States, and the Philippines, current at the time this book was first published (ignoring the fact that use of the Philippine flag was forbidden at that time by the US authorities).
-</dc:rights>
+(Based on the available metadata, this work is likely to be subject to copyright in jurisdictions where copyright lasts for life plus 70 years until at least 1 January 2025.)</dc:rights>
       <dc:subject>English language -- Dictionaries -- Spanish</dc:subject>
       <dc:subject>English language -- Dictionaries -- Tagalog</dc:subject>
       <dc:subject>English language -- Dictionaries -- Polyglot</dc:subject>

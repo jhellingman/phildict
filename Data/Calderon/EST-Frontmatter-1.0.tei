@@ -1,6 +1,12 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
-<!ENTITY gtilde CDATA "g" -- g with tilde -->
+    <!ENTITY apos    CDATA "&#x2019;"   --     111 -->
+    <!ENTITY frac12  CDATA "&#x00BD;"   --       1 -->
+    <!ENTITY gtilde  CDATA "g&#x0303;"  --    5488 -->
+    <!ENTITY ldquo   CDATA "&#x201C;"   --       8 -->
+    <!ENTITY ndash   CDATA "&#x2013;"   --       3 -->
+    <!ENTITY oelig   CDATA "&#x0153;"   --     684 -->
+    <!ENTITY rdquo   CDATA "&#x201D;"   --      11 -->
 
 ]>
 <TEI.2 lang=es>
@@ -8,7 +14,7 @@
 <fileDesc>
 <titleStmt>
 <title>Diccionario Ingles-Español-Tagalog</title>
-<author key="Sofronio G. Calderón" ref="http://viaf.org/viaf/163146029576335822393">Sofronio G. Calderón (1878&ndash;1954)</author>
+<author key="Sofronio G. Calderón" ref="https://viaf.org/viaf/163146029576335822393">Sofronio G. Calderón (1878&ndash;1954)</author>
 <respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
@@ -20,9 +26,9 @@
 <idno type=PGnum>20738</idno>
 <date>2007-03-04</date>
 <availability lang=en-UK>
-<p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url="http://www.gutenberg.org/">www.gutenberg.org</xref>.
+<p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at <xref url="https://www.gutenberg.org/">www.gutenberg.org</xref>.
 
-<p>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+<p>This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 
 <p>This dictionary contains a lot of obsolete words that may make one wonder how they ever landed in this dictionary, such as the word Ettin for a Giant, which is obsolete in English since the 16th century. Be aware of this, especially when using this dictionary in &ldquo;reverse.&rdquo;
 
@@ -46,8 +52,17 @@
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
-<p>
-
+    <p></p>
+    <tagsDecl lang=xx>
+        <rendition selector=.small>font-size: small;</rendition>
+        <rendition selector=.large>font-size: large;</rendition>
+        <rendition selector=.center>text-align: center;</rendition>
+        <rendition selector="div.body div.div1 p, div.body div.div1 p.first">
+            <!-- hanging indent for dictionary works better -->
+            text-indent: -1em; 
+            margin-left: 1em;
+        </rendition>
+    </tagsDecl>
 </encodingDesc>
 <profileDesc lang=en>
     <langUsage>
@@ -57,6 +72,7 @@
         <language id=es>Spanish</language>
         <language id=tl>Tagalog</language>
         <language id=und>Undetermined</language>
+        <language id=xx>No linguistic content</language>
     </langUsage>
     <textClass>
         <keywords>
@@ -75,7 +91,7 @@
     </list>
 </revisionDesc>
 </teiHeader>
-<text>
+<text rend="stylesheet(style/classic.css)">
 <front id=frontmatter>
 <div1 id=cover type=Cover>
 
@@ -119,13 +135,13 @@ Primera Edición.
 <pb n=2>
 <div1 id=imprint type=Imprint>
 
-<p rend="align(center)"><hi>Es propiedad de la Imprenta, Librería y Papelería de J. Martínez.</hi>
+<p rend=center><hi>Es propiedad de la Imprenta, Librería y Papelería de J. Martínez.</hi>
 
-<p rend="align(center)">Imprenta de J. Martínez, Estraude 7, Binondo.
+<p rend=center>Imprenta de J. Martínez, Estraude 7, Binondo.
 
 
-</front>
 <pb n=3>
+</front>
 <body lang=en-UK>
 
 <!-- DICCIONARIO
