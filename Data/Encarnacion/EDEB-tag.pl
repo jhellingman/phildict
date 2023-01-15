@@ -13,12 +13,12 @@ handleDictionary();
 sub handleDictionary() {
     print XML "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\n";
     print XML "<dictionary lang=\"es\">\n";
-    
+
     my $entry = '';
     while (<INPUTFILE>) {
         my $line = $_;
         chomp($line);
-        
+
         if ($line =~ /-----File: /) {
             # Forget this line
         } elsif ($line eq '' && $entry ne '') {
@@ -101,7 +101,7 @@ sub handleEntry($) {
     $newEntry .= handlePart($remainder);
     $entry = $newEntry;
 
-    # Turn <pb> tags to XML style tags. 
+    # Turn <pb> tags to XML style tags.
     $entry =~ s/<pb n=([0-9]+)>/<pb n=\"\1\"\/>/sg;
 
     # Convert proofer's comments to SGML comments
@@ -177,7 +177,7 @@ sub translateCebuano($)
     $phrase =~ s/quí/kí/g;
     $phrase =~ s/que/ke/g;
     $phrase =~ s/qué/ké/g;
-    
+
     $phrase =~ s/ci/si/g;
     $phrase =~ s/ce/se/g;
     $phrase =~ s/c/k/g;
@@ -185,8 +185,8 @@ sub translateCebuano($)
     $phrase =~ s/v/b/g;
     $phrase =~ s/z/s/g;
     $phrase =~ s/ñ/ny/g;
-    
-    
+
+
     $phrase =~ s/oa/wa/g;
     $phrase =~ s/ao/aw/g;
 
