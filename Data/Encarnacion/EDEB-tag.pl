@@ -4,54 +4,41 @@ use strict;
 
 my $infile = $ARGV[0];
 open (INPUTFILE, $infile) || die("Could not open input file $infile");
-
-
 open (XML,    ">output.xml") || die("Could not create output file 'output.xml'");
 
 
 handleDictionary();
 
 
-sub handleDictionary()
-{
+sub handleDictionary() {
     print XML "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\n";
     print XML "<dictionary lang=\"es\">\n";
     
     my $entry = '';
-    while (<INPUTFILE>)
-    {
+    while (<INPUTFILE>) {
         my $line = $_;
         chomp($line);
         
-        if ($line =~ /-----File: /) 
-        {
+        if ($line =~ /-----File: /) {
             # Forget this line
-        }
-        elsif ($line eq '' && $entry ne '') 
-        {
+        } elsif ($line eq '' && $entry ne '') {
             handleEntry($entry);
             $entry = '';
-        }
-        elsif ($line ne '')
-        {
+        } elsif ($line ne '') {
             $entry .= ' ' . $line;
         }
     }
 
-    if ($entry ne '') 
-    {
+    if ($entry ne '') {
         handleEntry($entry);
     }
 
     print XML "</dictionary>\n";
-
     print STDERR "\n";
 }
 
 
-
-sub handleEntry($)
-{
+sub handleEntry($) {
     my $entry = shift;
 
     print XML "<entry>\n";
@@ -99,24 +86,20 @@ sub handleEntry($)
 
     my $remainder = $entry;
     my $newEntry = '';
-    while ($remainder =~ / \* /) 
-    {
+    while ($remainder =~ / \* /) {
         my $part = $`;
         $remainder = $';
 
-        if ($newEntry ne '') 
-        {
+        if ($newEntry ne '') {
             $newEntry .= ' * '
         }
         $newEntry .= handlePart($part);
     }
-    if ($newEntry ne '') 
-    {
+    if ($newEntry ne '') {
         $newEntry .= ' * '
     }
     $newEntry .= handlePart($remainder);
     $entry = $newEntry;
-
 
     # Turn <pb> tags to XML style tags. 
     $entry =~ s/<pb n=([0-9]+)>/<pb n=\"\1\"\/>/sg;
@@ -127,44 +110,32 @@ sub handleEntry($)
     print '<p>' . $entry . "\n\n";
 
     print XML "</entry>\n";
-
-
 }
 
 
-
-sub handlePart($)
-{
+sub handlePart($) {
     my $part = shift;
     my $result = '';
 
     print XML "<part>\n";
-    if ($part =~ /([^=]*?) ?(?:= ?)?V\. ?(.*)$/)
-    {
+    if ($part =~ /([^=]*?) ?(?:= ?)?V\. ?(.*)$/) {
         my $word = $1;
         my $xref = $2;
-        if ($word eq '') 
-        {
+        if ($word eq '') {
             print XML "<xref>$xref</xref>\n";
             $result = "V. <i>$xref</i>";
-        }
-        else
-        {
+        } else {
             print XML "<hw>$word</hw>\n";
             print XML "<xref>$xref</xref>\n";
             $result =  "<b>$word</b> V. <i>$xref</i>";
         }
-    }
-    elsif ($part =~ /([^=]*?) ?= ?(.*)$/)
-    {
+    } elsif ($part =~ /([^=]*?) ?= ?(.*)$/) {
         my $word = $1;
         my $trans = translateCebuano($2);
         print XML "<hw>$word</hw>\n";
         print XML "<trans lang=\"ceb\">$trans</trans>\n";
         $result = "<b>$word</b> = $trans";
-    }
-    else
-    {
+    } else {
         my $trans = translateCebuano($part);
         $result = $trans;
         print XML "<trans lang=\"ceb\">$trans</trans>\n";
@@ -172,7 +143,6 @@ sub handlePart($)
     print XML "</part>\n";
     return $result;
 }
-
 
 
 sub translateCebuano($)

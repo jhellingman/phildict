@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated on 2023-01-15T10:12:03Z. -->
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
    <rdf:Description>
@@ -8,24 +9,6 @@
       <dc:date>#####</dc:date>
       <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
 This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
-
-
-http://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10521977_00001.html (first edition)
-
-http://books.google.nl/books?id=hjM8AAAAMAAJ   (Es-Ceb)
-
-https://archive.org/details/diccionarioespa00unkngoog      (Es-Ceb); 2nd edition
-
-
-https://archive.org/details/aqp5055.0001.001.umich.edu  (Ceb-Es); 3rd edition
-
-http://books.google.nl/books?id=HuJGAAAAcAAJ  (Ceb-Es)
-
-http://books.google.nl/books?id=9OFGAAAAcAAJ  (Ceb-Es)
-
-http://books.google.nl/books?id=95VkAAAAMAAJ  (Ilongo)
-
-http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bisaya/oclc/63313179
 
 </dc:rights>
    </rdf:Description>
