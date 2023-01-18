@@ -51085,7 +51085,7 @@ hasta sa pagábot ta igong edad sa matúod ng̃a hari.
 Regentar. = Pagbóot, pagsúgo, paghúpot.
 
 Regente. = Magbolóot, ponóan, ang magahúput. * Ang nagabóot sa usá ca
-guinharían[**Guinharían], &c. V. Regenta desde babaye[**babáye].
+guinharían[**Guinharían], &c. * V. Regenta desde babaye[**babáye].
 
 Regiamente. = Sa pagcahári, ing̃on sa ang̃ay sa hari.
 
@@ -55838,7 +55838,7 @@ Sedera. = Ponpon, escoba sa balahíbo sa mg̃a baboy.
 Sedería. = Mg̃a balígya sa igagáma. * Tiendáhan ng̃a pagabaligyáan sa
 igagáma.
 
-Sedero. [**missing space added]= Ang magabalígya sa igagáma.
+Sedero. = Ang magabalígya sa igagáma.
 
 Sedicion. = Pagcagobóc, pagcaálsa. * Pagcasócol sa mg̃a ponóan. *
 Pagcasócol sa mg̃a balatían sa laoas sa táuo sa mg̃a galámhan sa calág.
@@ -57057,8 +57057,8 @@ nagaexaminar sa obán.
 Sinodático. = Buhis ng̃a guinabáyad sa mg̃a Padre sa ilang Obispo, sa
 timáan sa pagtáhor canía.
 
-Sinódico. V. Sinodal. * Ang nahatongód[**nahatong̃ód? P2] sa himatáyon
-sa bulan ug sa bag-ong bulan.
+Sinódico. V. Sinodal. * Ang nahatong̃ód sa himatáyon sa bulan ug sa
+bag-ong bulan.
 
 Sìnodo. V. Concilio. * Himatáyon sa bulan ug ang bag-ong bulan. *
 Catilíngban sa mg̃a Padre, sa pagtócso ug pagexaminar sa mg̃a táuo ng̃a
@@ -57075,7 +57075,7 @@ Sinople. V. Sinoble.
 
 Sinopsis. = Pagcaláctor.
 
-Sinrazon. = Buhat ng̃a batoc[**c?][**c. P2] ug contra sa catarúng̃an.
+Sinrazon. = Buhat ng̃a batoc ug contra sa catarúng̃an.
 
 Sinsabor. = Casáquet, calisód, cayógot.
 
@@ -57893,7 +57893,7 @@ Solivio. V. Soliviadura.
 
 Solo. = Usá lamang. * Ang oaláy obán.
 
-Solomillo. Ang onód sa talioála sa gosog sa mg̃a mananáp.
+Solomillo. = Ang onód sa talioála sa gosog sa mg̃a mananáp.
 
 Solomo. = Idem. * Guinamós sa baboy.
 
@@ -59088,7 +59088,7 @@ Surgidero. = Pondóhan, laoígan.
 
 Surgidor. V. Surgente.
 
-Surgir. = Pagpondo, pagláoig. * Pagólbo sa tubig̃[**tubig].
+Surgir. = Pagpondo, pagláoig. * Pagólbo sa tubig.
 
 Surtida. = Pultahán, alaguían ng̃a diótay, sa pagágui sa tinágo.
 
@@ -63427,7 +63427,7 @@ ng̃a maáyo, &.[**&c.] * Pagílis, pagtagáilo sa lingcoránan, &c.
 
 Trocatinta. = Pagcatagílis, pagcabáilo ng̃a díli mao, ng̃a guisáipan.
 
-Trocatinte. [**= ]Panápton ng̃a masínao cay sináctan sa daghan ng̃a mg̃a
+Trocatinte. = Panápton ng̃a masínao cay sináctan sa daghan ng̃a mg̃a
 color.
 
 Troceo. = Pising mabága ng̃a igabáat ug icalíg-on sa mg̃a bergang dagcó
@@ -63937,13 +63937,13 @@ Tús. = Polong ng̃a igatáuag sa mg̃a iró.
 
 Tusílago. = Tanóm, dagámi.
 
-Tuso. = Polong ng̃a igabúgao sa mg̃a iró. V. *[*** V.] Tús.
+Tuso. = Polong ng̃a igabúgao sa mg̃a iró. * V. Tús.
 
 Tuson. = Ang panit ng̃a balahibóan ug ang balahíbo sa carnero. * Cabayo
 ng̃a oalá pa omàbot[**omábot] sa totólo ca túig. * Babáyeng camaáyo,
 bigáon.
 
-Tutear. [**space missing]= Pagtáoag sa bisan cansa sa pagcaicáo lamang.
+Tutear. = Pagtáoag sa bisan cansa sa pagcaicáo lamang.
 
 Tutela. = Cahímtang sa pagcatutor, sa pagcamaghohópot. * Dalángpan. *
 Pagcatábang, pagcalában.
@@ -64141,8 +64141,8 @@ Ungir. = Pagdíhog, paghílog sa lana. * Pagdíhog sa santos ng̃a lana, sa
 nadáoat na ang ubán ng̃a mg̃a sacramento.
 
 Ungüentario. = Ang magabúhat sa mg̃a mahomót ug sa bisan onsa ng̃a silbi
-sa pagdíhog, ang nahatongód niána, ug ang baláy ng̃a pagabuhátan
-ug̃[**P2: typo for ug ?] pagatipígan.
+sa pagdíhog, ang nahatongód niána, ug ang baláy ng̃a pagabuhátan ug
+pagatipígan.
 
 Ungüento. = Cahomót. * Bisan onsa ng̃a may silbi sa pagdíhog. * Bisan
 onsa ng̃a magapahínay sa buot, sa húna húna.
@@ -64227,7 +64227,7 @@ Untador. = Ang magadíhog, ang magahílog.
 
 Untadura. = Pagcahílog, pagcadíhog.
 
-Untamiento[**P3 .] = Idem.
+Untamiento. = Idem.
 
 Untar. = Pagdíbog, paghílog.
 
@@ -64237,8 +64237,7 @@ Untuosidad. = Pagcatámboc, pagcahágcot sa bisan onsa ng̃a icadíhog.
 
 Untuoso. = Ang may pagcatámboc, pagcahágcot, ang may tamboc.
 
-Untura. V. Uncion hasta sa pagcahílog[**sa pagcahílog s/b italic]. *
-Ang igadíhog, igahílog.
+Untura. V. Uncion hasta sa pagcahílog. * Ang igadíhog, igahílog.
 
 
 
@@ -65045,7 +65044,7 @@ Veintiuna. = Sugál sa baraja.
 
 Veintiuno. = Caluháan ug usá.
 
-Vejacion. [**= ]Pagcapúgus, pagcalúgus, pagcadomót. * Pagcadáot.
+Vejacion. = Pagcapúgus, pagcalúgus, pagcadomót. * Pagcadáot.
 
 Vejámen. = Casabá, pagcabárlong sa pagyúbit sa isigcatáuo.
 
