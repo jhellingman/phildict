@@ -76,12 +76,14 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
     <row><cell>gui          <cell>gi
     <row><cell>ao           <cell>aw
     <row><cell>oa           <cell>wa
-    <row><cell>n&gtilde;    <cell>ng
-    <row><cell>ng           <cell>ngg
+    <row><cell>ao           <cell>aw
+    <row><cell>n&gtilde;    <cell>ng  (before a vowel)
     <row><cell>m&gtilde;a   <cell>mga
     </table>
 
     <p>The original is often inconsistent in its spelling of Cebuano. In particular, the <hi>o</hi> and the <hi>u</hi> have been used interchangeably. No attempt has been made to correct that or to modernize the spelling.
+
+    <p>Another aspect to be aware of is that some spellings reflect older pronunciations, e.g., where an <hi>r</hi> has become a <hi>d</hi>, as in <hi>torlo</hi>, which in modern Cebuano is <hi>tudlo</hi> (finger). Similarly, <hi>lungsor</hi> for <hi>lungsod</hi> (town), <hi>lingcor</hi> for <hi>lingkod</hi> (to sit), compare with modern <hi>lingkuranan</hi> (chair). Similarly, the sounds of <hi>n</hi> and <hi>ng</hi> have often been interchanged.
 
     <p>The quality of the available scans was insufficient to always reconstruct the correct accents. They have been restored where possible, but due to the low quality of these scans, some issues might have been overlooked, while others may have been introduced during the digitization process.
 
@@ -1550,7 +1552,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Ambulante. = <foreign lang=ceb>Ang magalacát, maglalacáo.</foreign>
 
-<p>Amedrentador. = <foreign lang=ceb>Macahádloc, mahahádloc, macalisáng.</foreign>
+<p>Amedrentador. = <foreign lang=ceb>Macahádloc, mahahádloc, <corr sic="macalisáng">macalísang</corr>.</foreign>
 
 <p>Amedrentar. = <foreign lang=ceb>Pagpahádloc, pagpalisáng.</foreign>
 
@@ -6219,7 +6221,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Castañeta. = <foreign lang=ceb>Castañetas.</foreign>
 
-<p>Castañetear[**. = S ?] sonar las choquezuelas de las rodillas, los artejos de los dedos, &amp;c. = <foreign lang=ceb>Loto, lito.</foreign>
+<p>Castañetear<corr>,</corr> sonar las choquezuelas de las rodillas, los artejos de los dedos, &amp;c. = <foreign lang=ceb>Loto, lito.</foreign>
 
 <p>Castañuela. = <hi>Castañetas</hi>.
 
@@ -9813,7 +9815,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Delicia. V. <hi>Deleite</hi>.
 
-<p>Delicioso. = <foreign lang=ceb>Bisan onsa n&gtilde;a macalipay. &ast; M&gtilde;a caboquílan, casólopan, capatágan, &amp;c., n&gtilde;a guitódcan sa daghan n&gtilde;a m&gtilde;a cahoy n&gtilde;a malángbo, malónhao ug matahóm n&gtilde;a pagasóln&gtilde;on.</foreign>
+<p>Delicioso. = <foreign lang=ceb>Bisan onsa n&gtilde;a <corr sic=macalipay>macalípay</corr>. &ast; M&gtilde;a caboquílan, casólopan, capatágan, &amp;c., n&gtilde;a guitódcan sa daghan n&gtilde;a m&gtilde;a cahoy n&gtilde;a malángbo, malónhao ug matahóm n&gtilde;a pagasóln&gtilde;on.</foreign>
 
 <p>Delincuente. = <foreign lang=ceb>Saláan, masaláipon, matalapáson sa m&gtilde;a sogo.</foreign>
 
@@ -11871,7 +11873,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Desvelar. = <foreign lang=ceb>Tocao, pocao hocao.</foreign>
 
-<p>Desvelo. = <foreign lang=ceb>Pagcatócao<corr sic=.>,</corr> dagcón&gtilde; cacógui sa pagbóhat ug sa pagdán&gtilde;at sa bisan onsa.</foreign>
+<p>Desvelo. = <foreign lang=ceb>Pagcatócao<corr sic=.>,</corr> <corr sic="dagcón&gtilde;">dagcóng</corr> cacógui sa pagbóhat ug sa pagdán&gtilde;at sa bisan onsa.</foreign>
 
 <p>Desvencijar. = <foreign lang=ceb>Pagbólag ug paglóag sa m&gtilde;a bahin sa bisan onsa n&gtilde;a nahiósa ug hinógtan onta. &ast; Paglisá, pagdáot, pagbalí sa bisan onsa n&gtilde;a bahin sa looas.</foreign>
 
@@ -25181,7 +25183,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Junior. = <foreign lang=ceb>Ang Padreng religioso n&gtilde;a anáa sa ilálom sa gahóm ug paghópot sa maestro de novicios.</foreign>
 
-<p>Juno. = <foreign lang=ceb>Ang usá sa ópat ca malin&gtilde;in sa Lan&gtilde;it n&gtilde;a guin&gtilde;álan ug planetas, n&gtilde;a nanaglibót sa aldao ug n&gtilde;a guipaambítan sa iang sugá.</foreign>
+<p>Juno. = <foreign lang=ceb>Ang usá sa ópat ca <corr sic="malin&gtilde;in">malín&gtilde;in</corr> sa Lan&gtilde;it n&gtilde;a guin&gtilde;álan ug planetas, n&gtilde;a nanaglibót sa aldao ug n&gtilde;a guipaambítan sa iang sugá.</foreign>
 
 <p>Junquillo. = <foreign lang=ceb>Tanóm n&gtilde;a magabólae sa m&gtilde;a bolac n&gtilde;a malálag ug mahomót caáyo.</foreign>
 
@@ -25919,9 +25921,9 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lectisternio. = <foreign lang=ceb>Pagsíngba sa m&gtilde;a dioatáhan sa m&gtilde;a dios dios n&gtilde;a bacácon, sa pagsalámat caníla con sa pagpaquigtábang caníla.</foreign>
 
-<p>Lectivo. = <foreign lang=ceb>Arlao n&gtilde;a <corr sic="guitagàna">guitagána</corr> sa m&gtilde;a escoláhan, sa sa[**extra sa] m&gtilde;a Universidad, sa pagtóon sa m&gtilde;a guintón-an.</foreign>
+<p>Lectivo. = <foreign lang=ceb>Arlao n&gtilde;a <corr sic="guitagàna">guitagána</corr> sa m&gtilde;a escoláhan, <corr sic="sa sa">sa</corr> m&gtilde;a Universidad, sa pagtóon sa m&gtilde;a guintón-an.</foreign>
 
-<p>Lector. = <foreign lang=ceb>Ang <corr sic="nagabàsa">nagabása</corr>. &ast; Bomalása, <corr sic="magbabàsa">magbabása</corr>. &ast; Ang magtotóon sa pilosopía, sa teología, &amp;c., sa m&gtilde;a caparían. &ast; Ang táuo n&gtilde;a ton&gtilde;ód sa pagodenal[**pagoldenal?] canía nagatórlo ug nagatóon, <corr sic="niàdtong">niádtong</corr> tiempo, sa m&gtilde;a táuo n&gtilde;a pagaboñágan.</foreign>
+<p>Lector. = <foreign lang=ceb>Ang <corr sic="nagabàsa">nagabása</corr>. &ast; Bomalása, <corr sic="magbabàsa">magbabása</corr>. &ast; Ang magtotóon sa pilosopía, sa teología, &amp;c., sa m&gtilde;a caparían. &ast; Ang táuo n&gtilde;a ton&gtilde;ód sa <sic corr="pagoldenal">pagodenal</sic> canía nagatórlo ug nagatóon, <corr sic="niàdtong">niádtong</corr> tiempo, sa m&gtilde;a táuo n&gtilde;a pagaboñágan.</foreign>
 
 <pb n=345 id=pb345 facs="f:345"><p>Lectorado. = <foreign lang=ceb>Ang icadóha ca pagolden sa m&gtilde;a pagolden n&gtilde;a guin&gtilde;álan ug diótay.</foreign>
 
@@ -25955,7 +25957,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lechino. = <foreign lang=ceb>Hobág n&gtilde;a motóbo sa panit sa m&gtilde;a cabayo, m&gtilde;a calabáo, &amp;c. &ast; Cadaghánan sa m&gtilde;a hílo n&gtilde;a liníquit liquit, n&gtilde;a isolód sa m&gtilde;a mananámbal sa m&gtilde;a samad.</foreign>
 
-<p>Lecho. = <foreign lang=ceb>Higdáan sa m&gtilde;a táuo. &ast; Casangcápan, lantay n&gtilde;a guisandígan sa m&gtilde;a caráan n&gtilde;a táuo sa ilang pagcáon. &ast; Balaháan sa m&gtilde;a sobá. &ast; Cadaghánan sa bisan onsa n&gtilde;a guilóngtor longtod[**longsod?]. &ast; Ang nauong sa usá ca bató n&gtilde;a pagalingcóran ug pagaan&gtilde;áyan sa lain n&gtilde;a bató.</foreign>
+<p>Lecho. = <foreign lang=ceb>Higdáan sa m&gtilde;a táuo. &ast; Casangcápan, lantay n&gtilde;a guisandígan sa m&gtilde;a caráan n&gtilde;a táuo sa ilang pagcáon. &ast; Balaháan sa m&gtilde;a sobá. &ast; Cadaghánan sa bisan onsa n&gtilde;a guilóngtor <sic corr="longsod">longtod</sic>. &ast; Ang nauong sa usá ca bató n&gtilde;a pagalingcóran ug pagaan&gtilde;áyan sa lain n&gtilde;a bató.</foreign>
 
 <p>Lechon. = <foreign lang=ceb>Bactin, baboy n&gtilde;a mogasóso pa, baboy n&gtilde;a dagcó na. &ast; Táuo n&gtilde;a hugáoan, bolín&gtilde;on.</foreign>
 
@@ -26103,9 +26105,9 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lente. = <foreign lang=ceb>Salamín n&gtilde;a icasolóng, n&gtilde;a icatán-ao sa m&gtilde;a haláp.</foreign>
 
-<p>Lenteja. = <foreign lang=ceb>Liso n&gtilde;a calánon, bolobalátong n&gtilde;a malin&gtilde;in ug linópiac.</foreign>
+<p>Lenteja. = <foreign lang=ceb>Liso n&gtilde;a calánon, bolobalátong n&gtilde;a <corr sic="malin&gtilde;in">malín&gtilde;in</corr> ug linópiac.</foreign>
 
-<p>Lentejuela. = <foreign lang=ceb>Dahon dahon n&gtilde;a diótay ug malin&gtilde;in sa salapí, boláoan, &amp;c., n&gtilde;a icadáyan dayan <corr sic="sa sa">sa</corr> m&gtilde;a pagborda.</foreign>
+<p>Lentejuela. = <foreign lang=ceb>Dahon dahon n&gtilde;a diótay ug <corr sic="malin&gtilde;in">malín&gtilde;in</corr> sa salapí, boláoan, &amp;c., n&gtilde;a icadáyan dayan <corr sic="sa sa">sa</corr> m&gtilde;a pagborda.</foreign>
 
 <p>Lenticular. = <foreign lang=ceb>Ang maín&gtilde;on sa lenteja.</foreign>
 
@@ -26233,13 +26235,13 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lia. = <foreign lang=ceb>Pisi, lubid n&gtilde;a binúhat sa pagcasinalápid, n&gtilde;a icabáat sa m&gtilde;a pardo, &amp;c.</foreign>
 
-<p>Liar. = <foreign lang=ceb>Pagbáat, pagtácgos sa m&gtilde;a fardo, sa m&gtilde;a potús, &amp;c.[**typo &amp;c], sa pisi. &ast; Pagábian, paghigála sa bisan cansa.</foreign>
+<p>Liar. = <foreign lang=ceb>Pagbáat, pagtácgos sa m&gtilde;a fardo, sa m&gtilde;a potús, &amp;c., sa pisi. &ast; Pagábian, paghigála sa bisan cansa.</foreign>
 
-<p>Libacion. = <foreign lang=ceb>Tolománon sa m&gtilde;a canhing tiempo sa m&gtilde;a dioatáhan, sa pagyabó sa bino, &amp;c., n&gtilde;a guisolód sa baso, sa obus na guitiláo nila[**typo ni la].</foreign>
+<p>Libacion. = <foreign lang=ceb>Tolománon sa m&gtilde;a canhing tiempo sa m&gtilde;a dioatáhan, sa pagyabó sa bino, &amp;c., n&gtilde;a guisolód sa baso, sa obus na guitiláo nila.</foreign>
 
 <p>Libar. = <foreign lang=ceb>Pagyópyop, pagsóyop, sa pagcahómoc, sa dogá sa bisan onsa. &ast; Pagtiláo, pagdímdim sa bino, &amp;c. <pb n=350 id=pb350 facs="f:350">&ast; Pagyabó sa bino, &amp;c., sa m&gtilde;a paghálad, sa m&gtilde;a dioatáhan.</foreign>
 
-<p>Libelo. = <foreign lang=ceb>Papel n&gtilde;a sinolátan sa pagpan&gtilde;áyo sa bisan onsa. &ast; Papel con libro n&gtilde;a sinolátan sa m&gtilde;a polong n&gtilde;a icabóncag sa don&gtilde;og sa isigcatáuo.</foreign> &ast; De repudio. = <foreign lang=ceb>Sulat con camatuódan n&gtilde;a guibotán&gtilde;an, sa canhing tiempo, sa m&gtilde;a hingtóngdan, sa pagbía sa sa[**extra sa] bana sa iang asáoa ug sa pagbóncag sa pagcamagtiáyon.</foreign>
+<p>Libelo. = <foreign lang=ceb>Papel n&gtilde;a sinolátan sa pagpan&gtilde;áyo sa bisan onsa. &ast; Papel con libro n&gtilde;a sinolátan sa m&gtilde;a polong n&gtilde;a icabóncag sa don&gtilde;og sa isigcatáuo.</foreign> &ast; De repudio. = <foreign lang=ceb>Sulat con camatuódan n&gtilde;a guibotán&gtilde;an, sa canhing tiempo, sa m&gtilde;a hingtóngdan, sa pagbía <corr sic="sa sa">sa</corr> bana sa iang asáoa ug sa pagbóncag sa pagcamagtiáyon.</foreign>
 
 <p>Liberacion. = <foreign lang=ceb>Pagcabáoi, pagcatángtang.</foreign>
 
@@ -26331,7 +26333,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Licoroso. = <foreign lang=ceb>Bino, &amp;c., n&gtilde;a maísog ug mahomót.</foreign>
 
-<p>Licuacion. = <foreign lang=ceb>Pagcatónao,[**image unclear] pagcalínis, pagcahílis sa bisan onsa n&gtilde;a natibúoc.</foreign>
+<p>Licuacion. = <foreign lang=ceb>Pagcatónao, pagcalínis, pagcahílis sa bisan onsa n&gtilde;a natibúoc.</foreign>
 
 <p>Licuar. = <foreign lang=ceb>Pagtúnao sa natibúoc.</foreign>
 
@@ -26523,7 +26525,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Liquefaccion. = <foreign lang=ceb>Pagcatúnao.</foreign>
 
-<p>Liquen. = <foreign lang=ceb>Tanóm n&gtilde;a motoróc sa m&gtilde;a pangpang, sa m&gtilde;a cota ng[**ang?] sa panit sa m&gtilde;a cahoy.</foreign>
+<p>Liquen. = <foreign lang=ceb>Tanóm n&gtilde;a motoróc sa m&gtilde;a pangpang, sa m&gtilde;a cota <corr sic=ng>ug</corr> sa panit sa m&gtilde;a cahoy.</foreign>
 
 <p>Liquidable. = <foreign lang=ceb>Ang arang pagatonáuon.</foreign>
 
@@ -26615,11 +26617,11 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Litipendencia. = <foreign lang=ceb>Capolon&gtilde;ánan n&gtilde;a oalá pa matibáoas, n&gtilde;a oalá pa sentensiáhan sa hocom.</foreign>
 
-<p>Liticola. = <foreign lang=ceb>Bulit n&gtilde;a pagabuháton sa batóng mármol n&gtilde;a dinócdoc ug maáyo, sa salong ug sa lan&gtilde;it lan&gtilde;it[**extra lan&gtilde;it?] sa itlog, n&gtilde;a icapílit ug igatápot sa m&gtilde;a bató.</foreign>
+<p>Liticola. = <foreign lang=ceb>Bulit n&gtilde;a pagabuháton sa batóng mármol n&gtilde;a dinócdoc ug maáyo, sa salong ug sa lan&gtilde;it lan&gtilde;it sa itlog, n&gtilde;a icapílit ug igatápot sa m&gtilde;a bató.</foreign>
 
 <p>Litografía. = <foreign lang=ceb>Quinaárman sa paglíloc sa m&gtilde;a bató, arón domághan ang m&gtilde;a solat con m&gtilde;a laráoan, &amp;c., n&gtilde;a buot n&gtilde;a pagaboháton.</foreign>
 
-<p>Litografiar. = <foreign lang=ceb>Paglíloc sa m&gtilde;a bató arón[**,?] ihúar sa papel, &amp;c., ang solat, laráoan, &amp;c., n&gtilde;a guitúyo.</foreign>
+<p>Litografiar. = <foreign lang=ceb>Paglíloc sa m&gtilde;a bató arón ihúar sa papel, &amp;c., ang solat, laráoan, &amp;c., n&gtilde;a guitúyo.</foreign>
 
 <p>Litográfico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa litografía.</foreign>
 
@@ -26681,7 +26683,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lobina. = <foreign lang=ceb>Isda.</foreign>
 
-<pb n=356 id=pb356 facs="f:356"><p>Lobo. = <foreign lang=ceb>Mananáp n&gtilde;a maín&gtilde;on in&gtilde;on sa usá ca iró, maísog caáyo ug manunúbad sa m&gtilde;a hayúpan. &ast; Isda. &ast; Cahobóg [**missing ,? P2] pagcahobóg.</foreign>
+<pb n=356 id=pb356 facs="f:356"><p>Lobo. = <foreign lang=ceb>Mananáp n&gtilde;a maín&gtilde;on in&gtilde;on sa usá ca iró, maísog caáyo ug manunúbad sa m&gtilde;a hayúpan. &ast; Isda. &ast; Cahobóg<corr>,</corr> pagcahobóg.</foreign>
 
 <p>Loboso. = <foreign lang=ceb>Yota n&gtilde;a guitobóan sa daghánan n&gtilde;a m&gtilde;a lobo.</foreign>
 
@@ -26715,7 +26717,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Locha. = <foreign lang=ceb>Isda n&gtilde;a diótay.</foreign>
 
-<p>Lodazal. = <foreign lang=ceb>Cayanán&gtilde;an, Lapócan,[**lapócan,? P2] pisácan.</foreign>
+<p>Lodazal. = <foreign lang=ceb>Cayanán&gtilde;an, <corr sic="Lapócan">lapócan</corr>, pisácan.</foreign>
 
 <p>Lodazar. = Idem.
 
@@ -26789,7 +26791,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Loquero. = <foreign lang=ceb>Ang may opicio sa pagbántay sa m&gtilde;a buang.</foreign>
 
-<p>Losquesca[**typo Loquesca?] (á la). = <foreign lang=ceb>In&gtilde;on sa an&gtilde;ay sa batásan sa m&gtilde;a boang.</foreign>
+<p><corr sic=Losquesca>Loquesca</corr> (á la). = <foreign lang=ceb>In&gtilde;on sa an&gtilde;ay sa batásan sa m&gtilde;a boang.</foreign>
 
 <p>Lord. = <foreign lang=ceb>Polong n&gtilde;a ióna sa n&gtilde;alan sa m&gtilde;a dagcóng táuo sa Ingláterra.</foreign>
 
@@ -26845,7 +26847,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lucierna. = <foreign lang=ceb>Aninípot.</foreign>
 
-<p>Lucifer. = <foreign lang=ceb>Táuo n&gtilde;a palábi labíhon, mabán&gtilde;is ug daótan caáyo. &ast; Ang yoa.[**yaoa? P2]</foreign>
+<p>Lucifer. = <foreign lang=ceb>Táuo n&gtilde;a palábi labíhon, mabán&gtilde;is ug daótan caáyo. &ast; Ang <corr sic=yoa>yaoa</corr>.</foreign>
 
 <p>Luciferino. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa Lucifer.</foreign>
 
@@ -26921,7 +26923,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lumbre. = <foreign lang=ceb>Caláyo. &ast; Siga, sugá.</foreign>
 
-<p>Lumbrera. = <foreign lang=ceb>Guinicánan sa sugá, sa siga. &ast; Táuo n&gtilde;a hamíli, mahál ag[**ug? P2] bilídhon, n&gtilde;a nagatórlo sa ubán sa iang batásan n&gtilde;a maáyo ug sa quinaárman nia. &ast; Alaguían sa sugá, sa m&gtilde;a baláy.</foreign>
+<p>Lumbrera. = <foreign lang=ceb>Guinicánan sa sugá, sa siga. &ast; Táuo n&gtilde;a hamíli, mahál <corr sic=ag>ug</corr> bilídhon, n&gtilde;a nagatórlo sa ubán sa iang batásan n&gtilde;a maáyo ug sa quinaárman nia. &ast; Alaguían sa sugá, sa m&gtilde;a baláy.</foreign>
 
 <p>Luminar. = <foreign lang=ceb>Ang arlao, ang bulan ug ang m&gtilde;a bitóon, cay magaíoag sila ug nasíga.</foreign>
 
@@ -26985,9 +26987,9 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Llagar. = <foreign lang=ceb>Pagsámar.</foreign>
 
-<p>Llama. = <foreign lang=ceb>Siga, casíga. &ast; Mananáp sa opát ca tíil. &ast; Caí-*sog, <pb>cosóg, gahóm sa bisan onsang cailíbgon.</foreign>
+<p>Llama. = <foreign lang=ceb>Siga, casíga. &ast; Mananáp sa opát ca tíil. &ast; Caísog, <pb>cosóg, gahóm sa bisan onsang cailíbgon.</foreign>
 
-<p>Llamada. = <foreign lang=ceb>Pagcatáoag. &ast; Bisan onsang timáan n&gtilde;a ibótang, arón hibalóan ug sabúton sa lain. &ast; pagcatóc-**toc [**P3 Pagcatóc-*] <pb n=360 id=pb360 facs="f:360">sa tambol arón omátang ang m&gtilde;a soldados sa bisan diin.</foreign>
+<p>Llamada. = <foreign lang=ceb>Pagcatáoag. &ast; Bisan onsang timáan n&gtilde;a ibótang, arón hibalóan ug sabúton sa lain. &ast; <corr sic="pagcatóctoc">Pagcatóctoc</corr> <pb n=360 id=pb360 facs="f:360">sa tambol arón omátang ang m&gtilde;a soldados sa bisan diin.</foreign>
 
 <p>Llamador. = <foreign lang=ceb>Ang nagatáoag. &ast; Ang táuo n&gtilde;a may opicio sa pagpatin&gtilde;ób sa m&gtilde;a sacop sa m&gtilde;a cofradía, &amp;c., sa lugar n&gtilde;a quinahánglan n&gtilde;a pagatíngban nila.</foreign>
 
@@ -26995,7 +26997,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Llamante. V. <hi>Llamador</hi>.
 
-<p>Llamar. = <foreign lang=ceb>Taoag, aohag. &ast; Pagpaquigtábang, pagpaquiglában, pagpan&gtilde;ilába, pagpaquigmalóoy. &ast; Paghin&gtilde;álan. &ast; Pagcábig, pagcáhig, pagdàla[**unusual accent] sa luyo ug sa luyo sa bisan onsa. &ast; Pagtóctoc sa m&gtilde;a pultahán.</foreign>
+<p>Llamar. = <foreign lang=ceb>Taoag, aohag. &ast; Pagpaquigtábang, pagpaquiglában, pagpan&gtilde;ilába, pagpaquigmalóoy. &ast; Paghin&gtilde;álan. &ast; Pagcábig, pagcáhig, <corr sic="pagdàla">pagdála</corr> sa luyo ug sa luyo sa bisan onsa. &ast; Pagtóctoc sa m&gtilde;a pultahán.</foreign>
 
 <p>Llamarada. = <foreign lang=ceb>Dilab, pagcadílab, diláab, pagcadiláab. &ast; Pagcapolá n&gtilde;a ahat sa nauong. &ast; Pagcatándog, pagcaláin sa húna húna n&gtilde;a díli madúgay.</foreign>
 
@@ -27033,7 +27035,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Llegada. = <foreign lang=ceb>Pagábot, pagtomód.</foreign>
 
-<pb n=361 id=pb361 facs="f:361"><p>Llegar. = <foreign lang=ceb>Abot, anhi, tomód. &ast; Pagdágay. &ast; Pagsonód sonód. &ast; Pagcóha, pagdán&gtilde;at sa sa[**extra sa? P2] tuyo n&gtilde;a guipanghináot.</foreign>
+<pb n=361 id=pb361 facs="f:361"><p>Llegar. = <foreign lang=ceb>Abot, anhi, tomód. &ast; Pagdágay. &ast; Pagsonód sonód. &ast; Pagcóha, pagdán&gtilde;at <corr sic="sa sa">sa</corr> tuyo n&gtilde;a guipanghináot.</foreign>
 
 <p>Llena. = <foreign lang=ceb>Bahá sa m&gtilde;a sobá, bon-og.</foreign>
 
@@ -27068,7 +27070,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Llorador. = <foreign lang=ceb>Ang muhílac, <corr sic="mahilàcon">mahilácon</corr>.</foreign>
 
-<p>Lloraduelos. = <foreign lang=ceb>Ang magahílac, ang magabachò[**unusual accent. P2], ang magaagólo sa masóbsob, ton&gtilde;ód sa m&gtilde;a calisód n&gtilde;a miábot canía.</foreign>
+<p>Lloraduelos. = <foreign lang=ceb>Ang magahílac, ang <corr sic="magabachò">magabachó</corr>, ang magaagólo sa masóbsob, ton&gtilde;ód sa m&gtilde;a calisód n&gtilde;a miábot canía.</foreign>
 
 <p>Llorar. = <foreign lang=ceb>Hilac, pagbachó, pagagólo. &ast; Pagtólo, pagdalígdig sa bino, sa tubig, &amp;c., sa tinágsa tagsa ca tolo.</foreign>
 
@@ -27076,7 +27078,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Lloriqueo. V. <hi>Gemido</hi>.
 
-<p>Lloro. = <foreign lang=ceb>Pagcahílac, dagcabachó[**pagcabachò? P2], pagcaagólo.</foreign>
+<p>Lloro. = <foreign lang=ceb>Pagcahílac, <corr sic="dagcabachó">pagcabachó</corr>, pagcaagólo.</foreign>
 
 <p>Lloron. = <foreign lang=ceb>Mahilácon, maghihílac, ang magahílac sa masóbsob, ang masáyon muhílac, ang magabachó, ang magaagólo.</foreign>
 
@@ -27128,13 +27130,13 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <pb n=362 id=pb362 facs="f:362"><p>Maceador. = <foreign lang=ceb>Ang magapaló, magapacáng.</foreign>
 
-<p>Macear. = <foreign lang=ceb>Pagpaló, pagpacáng. &ast; Paglális lalis. *Pagópod, pagosáb osáb.</foreign>
+<p>Macear. = <foreign lang=ceb>Pagpaló, pagpacáng. &ast; Paglális lalis. &ast; Pagópod, pagosáb osáb.</foreign>
 
 <p>Maceracion. = <foreign lang=ceb>Pagcahómoc.</foreign>
 
 <p>Macerar. = <foreign lang=ceb>Pagpahómoc, pogbónal, pagpíso. &ast; Pagsáquet sa laoas sa m&gtilde;a casáquet, sa m&gtilde;a hampac ug sa m&gtilde;a penitensia.</foreign>
 
-<p>Macerina. = <foreign lang=ceb>Pinggan, sanggáan n&gtilde;a may bohó sa talioála[**typo taliota-lioála?], sa pagán&gtilde;ay, pagbótang ug pagsolód sa socolatíhan.</foreign>
+<p>Macerina. = <foreign lang=ceb>Pinggan, sanggáan n&gtilde;a may bohó sa talioála, sa pagán&gtilde;ay, pagbótang ug pagsolód sa socolatíhan.</foreign>
 
 <p>Macero. = <foreign lang=ceb>Táuo n&gtilde;a moóna sa m&gtilde;a catilíngban sa m&gtilde;a dagcóng táuo, ug magapás-an sa usá ca cahoy cahoy n&gtilde;a sinapáoan sa salapí, ug n&gtilde;a guitaólan sa tomóy n&gtilde;a dapit sa itáas sa usá ca malín&gtilde;in.</foreign>
 
@@ -27198,7 +27200,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Madera. = <foreign lang=ceb>Cahoy.</foreign>
 
-<p>Maderada[**typo Maderáda?]. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a cahoy.</foreign>
+<p>Maderada. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a cahoy.</foreign>
 
 <pb n=363 id=pb363 facs="f:363"><p>Maderaje. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a tigcáhoy sa m&gtilde;a baláy, sa m&gtilde;a Singbahán, &amp;c.</foreign>
 
@@ -27288,7 +27290,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mágica. = Idem.
 
-<p>Mágico. = <foreign lang=ceb>Ang maálan[**maálam? P2] magbóhat sa m&gtilde;a bohat n&gtilde;a catin&gtilde;aláhan ug hibóln&gtilde;an.</foreign>
+<p>Mágico. = <foreign lang=ceb>Ang <corr sic="maálan">maálam</corr> magbóhat sa m&gtilde;a bohat n&gtilde;a catin&gtilde;aláhan ug hibóln&gtilde;an.</foreign>
 
 <p>Magin. = <foreign lang=ceb>Húna húna.</foreign>
 
@@ -27318,7 +27320,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Magnetizar. = <foreign lang=ceb>Pagpaámbit sa pothao sa gahóm sa pagcábig ug pagcáhig, sa pagdíhog niána sa batóng baláni.</foreign>
 
-<p>Magníficamente. = <foreign lang=ceb>La[**Sa? P2] pagcadináto, sa pagcamahál, sa pagcaáyo uyámot.</foreign>
+<p>Magníficamente. = <foreign lang=ceb><corr sic=La>Sa</corr> pagcadináto, sa pagcamahál, sa pagcaáyo uyámot.</foreign>
 
 <p>Magnificar. = <foreign lang=ceb>Pagdáyao, pagdáyeg, pagológ.</foreign>
 
@@ -27352,7 +27354,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <pb n=365 id=pb365 facs="f:365"><p>Mahometismo. = <foreign lang=ceb>Ang Pagtóo ni Mahoma, catilíngban sa m&gtilde;a táuo n&gtilde;a nahasácop sa pagtolón-an ni Mahoma.</foreign>
 
-<p>Mahon. = <foreign lang=ceb>Panàpton[**unusual accent. P2] sa gapas.</foreign>
+<p>Mahon. = <foreign lang=ceb><corr sic="Panàpton">Panápton</corr> sa gapas.</foreign>
 
 <p>Mahona. = <foreign lang=ceb>Sacayán sa m&gtilde;a turco.</foreign>
 
@@ -27364,7 +27366,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Maizal. = <foreign lang=ceb>Ang yota n&gtilde;a pinogásan sa maís, maisán.</foreign>
 
-<p>Majada. = <foreign lang=ceb>Lu&gtilde;ar[**unusual accent. P2] n&gtilde;a pagadángpan sa gabíy sa m&gtilde;a hayópan ug sa m&gtilde;a baquero.</foreign>
+<p>Majada. = <foreign lang=ceb><corr sic="Lu&gtilde;ar">Lugar</corr> n&gtilde;a pagadángpan sa gabíy sa m&gtilde;a hayópan ug sa m&gtilde;a baquero.</foreign>
 
 <p>Majadal. = <foreign lang=ceb>Yota n&gtilde;a <corr sic="pinogàsan">pinogásan</corr> con guitámnan, n&gtilde;a guimpóy-an n&gtilde;a daan sa m&gtilde;a hayúpan.</foreign>
 
@@ -27434,7 +27436,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Malcorage. = <foreign lang=ceb>Tanóm n&gtilde;a italámbal<corr sic=",">.</corr></foreign>
 
-<p>Malcriado. = <foreign lang=ceb>Anac n&gtilde;n[**should be n&gtilde;a] parayégon caáyo, n&gtilde;a colán&gtilde;an sa pagtórlo ug pagtóon, n&gtilde;a oalá pagahóptan ug maáyo, ug in&gtilde;on sa an&gtilde;ay, sa iang m&gtilde;a tigúlang.</foreign>
+<p>Malcriado. = <foreign lang=ceb>Anac <corr sic="n&gtilde;n">n&gtilde;a</corr> parayégon caáyo, n&gtilde;a colán&gtilde;an sa pagtórlo ug pagtóon, n&gtilde;a oalá pagahóptan ug maáyo, ug in&gtilde;on sa an&gtilde;ay, sa iang m&gtilde;a tigúlang.</foreign>
 
 <p>Maldad. = <foreign lang=ceb>Cadaótan, pagcadáot, bohat n&gtilde;a contra sa catarún&gtilde;an.</foreign>
 
@@ -27524,7 +27526,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Malparir. = <foreign lang=ceb>Pagápas, pagcóha sa báta sa tian sa inahán.</foreign>
 
-<p>Malparto. = <foreign lang=ceb>Pagcaápas, pagcacóha, pagtáctac sa báta con[**] sa anac sa mananáp, sa tian sa inahán.</foreign>
+<p>Malparto. = <foreign lang=ceb>Pagcaápas, pagcacóha, pagtáctac sa báta con sa anac sa mananáp, sa tian sa inahán.</foreign>
 
 <p>Malquerencia. = <foreign lang=ceb>Domót, daótan n&gtilde;a boot.</foreign>
 
@@ -27564,7 +27566,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Malversar. = <foreign lang=ceb>Osic.</foreign>
 
-<p>Malvís. = <foreign lang=ceb>Langgam n&gtilde;a maíngon[**maín&gtilde;on? P2] in&gtilde;on sa dalansíang.</foreign>
+<p>Malvís. = <foreign lang=ceb>Langgam n&gtilde;a <corr sic="maíngon">maín&gtilde;on</corr> in&gtilde;on sa dalansíang.</foreign>
 
 <p>Malvíz. = Idem.
 
@@ -27592,7 +27594,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mamila. = <foreign lang=ceb>Soso sa m&gtilde;a babáye ug sa man&gtilde;a baye, gaoas ang atn&gtilde;al.</foreign>
 
-<p>Mamola. = <foreign lang=ceb>Pagcóbot sa solang sa isicaín&gtilde;on[**isigcaín&gtilde;on?], con pagbótang sa camót sa ilálom sa maong solang, sa pagálam alam con sa pagyúbit canía.</foreign>
+<p>Mamola. = <foreign lang=ceb>Pagcóbot sa solang sa <sic corr="isigcaín&gtilde;on">isicaín&gtilde;on</sic>, con pagbótang sa camót sa ilálom sa maong solang, sa pagálam alam con sa pagyúbit canía.</foreign>
 
 <pb n=368 id=pb368 facs="f:368"><p>Mamon. = <foreign lang=ceb>Ang magasóso. &ast; Ang nadúgay caáyo sa pagsóso, ug labí sa isigcaín&gtilde;on.</foreign>
 
@@ -27638,7 +27640,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mancer. = <foreign lang=ceb>Anac sa babáyeng bigáon.</foreign>
 
-<p>Mancera[**typo Manceba]. V. <hi>Esteva</hi>.
+<p>Mancera. V. <hi>Esteva</hi>.
 
 <p>Mancilla. V. <hi>Mancha</hi>.
 
@@ -27646,7 +27648,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Manco. = <foreign lang=ceb>Piáng, pongcol. &ast; Ang colán&gtilde;an sa bisan onsa.</foreign>
 
-<p>Mancomun[**typo Mancomún] (de). = <foreign lang=ceb>Sa pagcahiósa sa duruhá con capin ba ca táuo.</foreign>
+<p>Mancomun (de). = <foreign lang=ceb>Sa pagcahiósa sa duruhá con capin ba ca táuo.</foreign>
 
 <p>Mancomunadamente. = <foreign lang=ceb>Sa paghiósa, sa pagcasábot.</foreign>
 
@@ -27660,7 +27662,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Manchar. = <foreign lang=ceb>Pagbóling, paghúgao. &ast; Pagdáot sa don&gtilde;og sa isigcaín&gtilde;on.</foreign>
 
-<p>Manchon[**typo Manchón]. = <foreign lang=ceb>Tolotagídyot sa yota n&gtilde;a guibalánan, n&gtilde;a guitórcan sa humáy, sa maís, &amp;c., sa pagcasónson, sa pagcabános.</foreign>
+<p>Manchon. = <foreign lang=ceb>Tolotagídyot sa yota n&gtilde;a guibalánan, n&gtilde;a guitórcan sa humáy, sa maís, &amp;c., sa pagcasónson, sa pagcabános.</foreign>
 
 <p>Manda. = <foreign lang=ceb>Saar, pagsáad. &ast; Ang hatag n&gtilde;a guibílin, sa nagabúhat sa testamento, sa lain.</foreign>
 
@@ -27668,11 +27670,11 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mandado. = <foreign lang=ceb>Sogo, pagbóot.</foreign>
 
-<p>Mandamiento. = <foreign lang=ceb>Idem: ang tagsa sa m&gtilde;a napólo ca sogo sa Dios ug sa lilíma sa santa Iglesia. &ast; Ang limá ca torlo[**typo torio] sa camót con man&gtilde;áon ang m&gtilde;a táuo sa oaláy cuchara ug tenedor.</foreign>
+<p>Mandamiento. = <foreign lang=ceb>Idem: ang tagsa sa m&gtilde;a napólo ca sogo sa Dios ug sa lilíma sa santa Iglesia. &ast; Ang limá ca torlo sa camót con man&gtilde;áon ang m&gtilde;a táuo sa oaláy cuchara ug tenedor.</foreign>
 
 <p>Mandante. = <foreign lang=ceb>Ang magasúgo, ang magabúot.</foreign>
 
-<p>Mandar. = <foreign lang=ceb>Pagsógo, <corr sic="pagbùot">pagbúot</corr>. &ast; Paghópot<corr sic=.>,</corr> pagalíma, pagbáton. &ast; Pagbílin sa bisan cansa[**missing][**caosa] sa usá ca bahin sa cabílin, sa testamento.</foreign>
+<p>Mandar. = <foreign lang=ceb>Pagsógo, <corr sic="pagbùot">pagbúot</corr>. &ast; Paghópot<corr sic=.>,</corr> pagalíma, pagbáton. &ast; Pagbílin sa bisan cansa sa usá ca bahin sa cabílin, sa testamento.</foreign>
 
 <pb n=369 id=pb369 facs="f:369"><p>Mandarin. = <foreign lang=ceb>Ang magabóot, ang magholópot, ang magasógo sa usá ca provincia sa m&gtilde;a insic.</foreign>
 
@@ -27892,7 +27894,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Manumisor. = <foreign lang=ceb>Ang motógot sa iang olípon arón omóndang sa pagcaolípon nia.</foreign>
 
-<p>Manumitir. = <foreign lang=ceb>Pagtógot sa m&gtilde;a olipón[**olípon?] arón omóngdang[**omóndang?] sila sa pagcaolípon, ug arón mahímo sila ug tagía sa ilang cabobót-on.</foreign>
+<p>Manumitir. = <foreign lang=ceb>Pagtógot sa m&gtilde;a <corr sic="olipón">olípon</corr> arón <corr sic="omóngdang">omóndang</corr> sila sa pagcaolípon, ug arón mahímo sila ug tagía sa ilang cabobót-on.</foreign>
 
 <p>Manuscrito. = <foreign lang=ceb>Solat, sinúlat sa camót.</foreign>
 
@@ -27926,7 +27928,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Maquila. = <foreign lang=ceb>Ang bahin sa binócboc, &amp;c., n&gtilde;a nahaton&gtilde;ód sa táuo n&gtilde;a maglilíguis.</foreign>
 
-<pb n=373 id=pb373 facs="f:373"><p>Maquilar. = <foreign lang=ceb><corr sic="Paghàoir">Pagháoir</corr> sa maglilígis[**maglilíguis?] sa bahin sa binócboc, &amp;c., n&gtilde;a nahaton&gtilde;ód canía.</foreign>
+<pb n=373 id=pb373 facs="f:373"><p>Maquilar. = <foreign lang=ceb><corr sic="Paghàoir">Pagháoir</corr> sa <corr sic="maglilígis">maglilíguis</corr> sa bahin sa binócboc, &amp;c., n&gtilde;a nahaton&gtilde;ód canía.</foreign>
 
 <p>Máquina. = <foreign lang=ceb>Capandáyan, tinócor sa cahóy, pothao, tombága, &amp;c., sa pagbóhat sa pagcasáyon sa bisan onsa.</foreign>
 
@@ -28022,7 +28024,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Margarita. = <foreign lang=ceb>Quinháson. &ast; Tanóm. &ast; Mutia.</foreign>
 
-<p>Márgen[**typo Margen]. = <foreign lang=ceb>Daplin sa bisan onsa. &ast; Baybáyon, pileu sa subá con sa dagat.</foreign>
+<p>Margen. = <foreign lang=ceb>Daplin sa bisan onsa. &ast; Baybáyon, pileu sa subá con sa dagat.</foreign>
 
 <p>Margenar. = <foreign lang=ceb>Pagbílin sa m&gtilde;a daplin, sa papel n&gtilde;a pagasulátan.</foreign>
 
@@ -28036,7 +28038,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Marica. = <foreign lang=ceb>Langgam, sal-ing.</foreign>
 
-<p>Maricon[**typo Maricón]. = <foreign lang=ceb>Laláqui n&gtilde;a babayénon ug taláoan.</foreign>
+<p>Maricon. = <foreign lang=ceb>Laláqui n&gtilde;a babayénon ug taláoan.</foreign>
 
 <p>Maridable. = <foreign lang=ceb>Pagpoyó ug paghiúsa sa man&gtilde;a miño, ug ang nahaton&gtilde;ód sa pagcamagtiáyon.</foreign>
 
@@ -28046,7 +28048,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Maridar. = <foreign lang=ceb>Pagbána sa babáye, pagmiño.</foreign>
 
-<p>Maridillo. = <foreign lang=ceb>Bana n&gtilde;a talamáyon. &ast; Bagáhan[**typo Ba&gtilde;aban] n&gtilde;a <corr sic="pagainítan">pagainitan</corr> sa m&gtilde;a <corr sic="babaye">babáye</corr> sa m&gtilde;a tiil.</foreign>
+<p>Maridillo. = <foreign lang=ceb>Bana n&gtilde;a talamáyon. &ast; Bagáhan n&gtilde;a <corr sic="pagainítan">pagainitan</corr> sa m&gtilde;a <corr sic="babaye">babáye</corr> sa m&gtilde;a tiil.</foreign>
 
 <p>Marimacho. = <foreign lang=ceb>Babáyeng lalaquínon.</foreign>
 
@@ -28182,7 +28184,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Martirio. = <foreign lang=ceb>Pagpasáquet ug pagcamatáy, camatáyon, ton&gtilde;ód sa matúod n&gtilde;a Pagtóo. &ast; Calisód, cayógot, cagóol.</foreign>
 
-<p>Martirizar. = <foreign lang=ceb>Pagpasáquet ug pagpatáy sa bisan cansa, ton&gtilde;ód cay motóo ug magatóg-an sa matúod n&gtilde;a Pagtúo sa atong Guinóong[**Guinóong? P2] Jesucristo.</foreign>
+<p>Martirizar. = <foreign lang=ceb>Pagpasáquet ug pagpatáy sa bisan cansa, ton&gtilde;ód cay motóo ug magatóg-an sa matúod n&gtilde;a Pagtúo sa atong Guinóong Jesucristo.</foreign>
 
 <p>Marzal. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa bulan sa marzo.</foreign>
 
@@ -28276,7 +28278,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Material. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa m&gtilde;a botang, sa ilang pagcamáo gayód, sa dagoay. &ast; Hilimóon sa pagbóhat sa bisan onsa.</foreign>
 
-<p>Materialidad. = <foreign lang=ceb>Pagcabótang sa n&gtilde;atanán n&gtilde;a mahímo n&gtilde;a pagasóln&gtilde;on[**] ug pagacubílon.</foreign>
+<p>Materialidad. = <foreign lang=ceb>Pagcabótang sa n&gtilde;atanán n&gtilde;a mahímo n&gtilde;a pagasóln&gtilde;on ug pagacubílon.</foreign>
 
 <p>Materialismo. = <foreign lang=ceb>Sayóp sa m&gtilde;a táuo n&gtilde;a díli sila buot magíla sa m&gtilde;a calág ug m&gtilde;a espíritu, ug sa n&gtilde;atanán n&gtilde;a oaláy laoas.</foreign>
 
@@ -28350,7 +28352,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Maulero. = <foreign lang=ceb>Ang mobalígya sa m&gtilde;a tinábas sa nagacaláin lain n&gtilde;a m&gtilde;a panápton. &ast; Malilímbong, malimbón&gtilde;an, malalán&gtilde;on.</foreign>
 
-<p>Maullador. = <foreign lang=ceb>Iríng n&gtilde;a magaín&gtilde;ao, man&gtilde;áo n&gtilde;áo[**n&gtilde;ao?] caáyo.</foreign>
+<p>Maullador. = <foreign lang=ceb>Iríng n&gtilde;a magaín&gtilde;ao, man&gtilde;áo n&gtilde;áo caáyo.</foreign>
 
 <p>Maullar. = <foreign lang=ceb>Pagín&gtilde;ao, pagn&gtilde;áo n&gtilde;ao, pagtín&gtilde;og sa m&gtilde;a iríng.</foreign>
 
@@ -28364,7 +28366,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Máxime. = <foreign lang=ceb>Polong n&gtilde;a linatín:</foreign> como el anterior.
 
-<p>Máximo. = <foreign lang=ceb>Ang labíng dagcó, mahál, maáyo, &amp;c., sa isigcaín&gtilde;on.[**first i, í?]</foreign>
+<p>Máximo. = <foreign lang=ceb>Ang labíng dagcó, mahál, maáyo, &amp;c., sa isigcaín&gtilde;on.</foreign>
 
 <pb n=379 id=pb379 facs="f:379"><p>Maya. = <foreign lang=ceb>Tanóm. &ast; Langgam.</foreign>
 
@@ -28394,7 +28396,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mayordomo. = <foreign lang=ceb>Sologóon n&gtilde;a nahaóna ug labí, n&gtilde;a guitugyánan sa paghópot, pagbáton ug pagbántay sa n&gtilde;atanán n&gtilde;a nahamútang sa usá ca baláy, sa usá ca baol, &amp;c. &ast; Ang táuo n&gtilde;a guin&gtilde;álan sa m&gtilde;a cofradía sa pagatúbang ug pagtimáan sa m&gtilde;a paggasto sa m&gtilde;a piesta, &amp;c.</foreign>
 
-<p>Mayoría. = <foreign lang=ceb>Pagcadagcó, pagcaáyo, pagcamahál sa usá ca butang con itándig ug iapanánglet[**ipanánglet?] sa lain n&gtilde;a butang. &ast; Ang edad n&gtilde;a guitórlo sa m&gtilde;a leyes arón magabúot ang táuo sa iang caogalín&gtilde;on.</foreign>
+<p>Mayoría. = <foreign lang=ceb>Pagcadagcó, pagcaáyo, pagcamahál sa usá ca butang con itándig ug <corr sic="iapanánglet">ipanánglet</corr> sa lain n&gtilde;a butang. &ast; Ang edad n&gtilde;a guitórlo sa m&gtilde;a leyes arón magabúot ang táuo sa iang caogalín&gtilde;on.</foreign>
 
 <p>Mayoridad. V. <hi>Mayoría</hi> hasta <hi lang=ceb>ang edad</hi>.
 
@@ -28450,11 +28452,11 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mecenas. = <foreign lang=ceb>Manlalában, tomalábang.</foreign>
 
-<p>Mecer. = <foreign lang=ceb>Pagdúyan, pagtábiog, pagtábog, pagábiog, pagtábion. &ast; Paglóg-o sa vino, tubig, &amp;c., sa baso, sa damajuana, &amp;c., arón masácot[**masócot?] ug maáyo.</foreign>
+<p>Mecer. = <foreign lang=ceb>Pagdúyan, pagtábiog, pagtábog, pagábiog, pagtábion. &ast; Paglóg-o sa vino, tubig, &amp;c., sa baso, sa damajuana, &amp;c., arón masácot ug maáyo.</foreign>
 
 <p>Meconio. = <foreign lang=ceb>Dugá sa guin&gtilde;álan ug adormideras.</foreign>
 
-<p>Mecha. = <foreign lang=ceb>Pabílo sa m&gtilde;a sugá, ang gapas, &amp;c., n&gtilde;a ibótang sa baso, &amp;c., n&gtilde;a sinórlan sa lana, arón masíga. &ast; Ang m&gtilde;a pinótol n&gtilde;a hilo n&gtilde;a linóbir, tinúyoc, n&gtilde;a guisulód sa m&gtilde;a mananámbal sa m&gtilde;a samad, sa pagtámbal caníla. &ast; Lubid n&gtilde;a magamáy n&gtilde;a icasílsil[**accent on 2nd i?] sa m&gtilde;a lothang con sa bisan onsa n&gtilde;a guibotán&gtilde;an sa pólvora.</foreign>
+<p>Mecha. = <foreign lang=ceb>Pabílo sa m&gtilde;a sugá, ang gapas, &amp;c., n&gtilde;a ibótang sa baso, &amp;c., n&gtilde;a sinórlan sa lana, arón masíga. &ast; Ang m&gtilde;a pinótol n&gtilde;a hilo n&gtilde;a linóbir, tinúyoc, n&gtilde;a guisulód sa m&gtilde;a mananámbal sa m&gtilde;a samad, sa pagtámbal caníla. &ast; Lubid n&gtilde;a magamáy n&gtilde;a icasílsil sa m&gtilde;a lothang con sa bisan onsa n&gtilde;a guibotán&gtilde;an sa pólvora.</foreign>
 
 <p>Mechar. = <foreign lang=ceb>Pagsácot sa m&gtilde;a tolotagídyot n&gtilde;a tamboc sa baboy, sa m&gtilde;a carne sa baca, &amp;c.</foreign>
 
@@ -28576,7 +28578,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Melífero. = <foreign lang=ceb>Ang may dugús.</foreign>
 
-<p>Melificado.[**Melifícado?] = Idem.
+<p>Melificado. = Idem.
 
 <p>Melificar. = <foreign lang=ceb>Pagbúhat sa m&gtilde;a puticócan sa dugús.</foreign>
 
@@ -28584,7 +28586,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Melifluidad. = <foreign lang=ceb>Pagcatám-is, pagcahómoc, pagcalómo.</foreign>
 
-<p>Melífluo. = <foreign lang=ceb>Ang may dugùs.[**typo ù?] &ast; Matám is, mahómoc. &ast; Táuo n&gtilde;a aghop, sa maáyong gaui.</foreign>
+<p>Melífluo. = <foreign lang=ceb>Ang may <corr sic="dugùs">dugús</corr>. &ast; Matám is, mahómoc. &ast; Táuo n&gtilde;a aghop, sa maáyong gaui.</foreign>
 
 <p>Meliloto. = <foreign lang=ceb>Tanóm. &ast; Táuo n&gtilde;a coliró, boang boang, hon&gtilde;og.</foreign>
 
@@ -28592,7 +28594,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Melindroso. = <foreign lang=ceb>Cuti cutíhan, ang magapacalígdong sa díli macaígo, magadúga dugang táuo.</foreign>
 
-<p>Melocoton. = <foreign lang=ceb>Cahoy ug ang bon&gtilde;a[**?] nia, sa España.</foreign>
+<p>Melocoton. = <foreign lang=ceb>Cahoy ug ang bon&gtilde;a nia, sa España.</foreign>
 
 <p>Melodía. = <foreign lang=ceb>Pagcaán&gtilde;ay, pagcamín&gtilde;ao sa m&gtilde;a tin&gtilde;og sa m&gtilde;a táuo, sa m&gtilde;a langgam ug sa m&gtilde;a tolónggon.</foreign>
 
@@ -28650,7 +28652,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Memoria. = <foreign lang=ceb>Panomdóman, idolómdom: ang usá sa totólo ca galámhan sa calág. &ast; Maáyong don&gtilde;og, pagcabántog, pagcabánsag. &ast; Pagcomostá, pagpan&gtilde;omostá.</foreign>
 
-<pb n=383 id=pb383 facs="f:383"><p>Memorial. = <foreign lang=ceb>Libro, papel n&gtilde;a pagasolátan sa bisan onsa n&gtilde;a tacós n&gtilde;a timaánan ug pagdodómon. &ast; Papel n&gtilde;a sinolátan sa pagpan&gtilde;áyo sa m&gtilde;a ponóan sa bisan onsang pagtógot, ton&gtilde;ód sa m&gtilde;a pahanóng-*dan sa táuo n&gtilde;a nan&gtilde;áyo.</foreign>
+<pb n=383 id=pb383 facs="f:383"><p>Memorial. = <foreign lang=ceb>Libro, papel n&gtilde;a pagasolátan sa bisan onsa n&gtilde;a tacós n&gtilde;a timaánan ug pagdodómon. &ast; Papel n&gtilde;a sinolátan sa pagpan&gtilde;áyo sa m&gtilde;a ponóan sa bisan onsang pagtógot, ton&gtilde;ód sa m&gtilde;a pahanóngdan sa táuo n&gtilde;a nan&gtilde;áyo.</foreign>
 
 <p>Memorialista. = <foreign lang=ceb>Ang may opicio sa pagsúlat sa guisógo.</foreign>
 
@@ -28706,7 +28708,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Menguar. = <foreign lang=ceb>Copós. &ast; Pagcólang.</foreign>
 
-<p>Menique.[**typo Meñique? See 119.png] = <foreign lang=ceb>Comaíngquing.</foreign>
+<p><corr sic=Menique>Meñique</corr>. = <foreign lang=ceb>Comaíngquing.</foreign>
 
 <p>Menjurje. = <foreign lang=ceb>Pagcasácot sa m&gtilde;a nagacaláin lain n&gtilde;a m&gtilde;a botang.</foreign>
 
@@ -28720,7 +28722,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Menoscabar. = <foreign lang=ceb>Pagcopós sa bisan onsa, pagcóha sa usá ca bahin sa bisan onsa. &ast; Pagdáot sa bisan onsa. &ast; Pagcóbot.</foreign>
 
-<p>Menospreciablemente. = <foreign lang=ceb>Sa pagpasipàla[**?], sa pagcatámay.</foreign>
+<p>Menospreciablemente. = <foreign lang=ceb>Sa <corr sic="pagpasipàla">pagpasipála</corr>, sa pagcatámay.</foreign>
 
 <p>Menospreciador. = <foreign lang=ceb>Ang magapasipála, ang magatámay, ang díli magatagád sa bisan onsa.</foreign>
 
@@ -28940,7 +28942,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mesurar. = <foreign lang=ceb>Pagpalígdong, pagpaámbong. &ast; Pagtáhor, pagtahá.</foreign>
 
-<p>Metafísica. = <foreign lang=ceb>Quinaárman n&gtilde;a nahiláhot[**nahilábot? as in pertaining to? P2] sa m&gtilde;a espíritu, sa m&gtilde;a calág, ug sa man&gtilde;a sinógdan ug guinicánan sa m&gtilde;a húna húna.</foreign>
+<p>Metafísica. = <foreign lang=ceb>Quinaárman n&gtilde;a <corr sic="nahiláhot">nahilábot</corr> sa m&gtilde;a espíritu, sa m&gtilde;a calág, ug sa man&gtilde;a sinógdan ug guinicánan sa m&gtilde;a húna húna.</foreign>
 
 <p>Metafísicamente. = <foreign lang=ceb>Sa pagcabátir caáyo, sa pagcahalálom.</foreign>
 
@@ -29060,7 +29062,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mierdacruz. = <foreign lang=ceb>Tanóm.</foreign>
 
-<p>Miés. = <foreign lang=ceb>Ang ohay[**oháy?], ang liso ug ang dagámi sa trigo, sa humáy, &amp;c. &ast; Panúig, panuígan. &ast; Cadaghánan sa m&gtilde;a cristianos, ug sa boot pabóñag.</foreign>
+<p>Miés. = <foreign lang=ceb>Ang <corr sic=ohay>oháy</corr>, ang liso ug ang dagámi sa trigo, sa humáy, &amp;c. &ast; Panúig, panuígan. &ast; Cadaghánan sa m&gtilde;a cristianos, ug sa boot pabóñag.</foreign>
 
 <p>Miga. = <foreign lang=ceb>Ang bahin n&gtilde;a mahómoc sa solód sa panit sa tinápay. &ast; Bisan onsa n&gtilde;a diótay, dogmoc ug magamáy caáyo.</foreign>
 
@@ -29106,7 +29108,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Militar. V. <hi>Miliciano</hi>, y <hi>Militante</hi> hasta <hi lang=ceb>ang Iglesia</hi>.
 
-<p>Militarmente. = <foreign lang=ceb>In&gtilde;on sa m&gtilde;a tolománon sa m&gtilde;a soldados. &ast; Sa pagcasinoldado[**pagcasoldados?].</foreign>
+<p>Militarmente. = <foreign lang=ceb>In&gtilde;on sa m&gtilde;a tolománon sa m&gtilde;a soldados. &ast; Sa <sic>pagcasinoldado</sic>.</foreign>
 
 <p>Milla. = <foreign lang=ceb>Ang icatólo ca bahin sa usá ca legua n&gtilde;a pagalácuon.</foreign>
 
@@ -29236,7 +29238,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mirro. = <foreign lang=ceb>Cahoy cahoy.</foreign>
 
-<p>Misa. = <foreign lang=ceb>Misa, paghálad n&gtilde;a guipanagbóhat[**guipangbóhat?] sa m&gtilde;a Padre, sa paghálad nila sa Dios n&gtilde;a Amahán sa <pb n=391 id=pb391 facs="f:391">bilídhon n&gtilde;a laoas ug dugó sa atong Guinóong Jesucristo sa ilálom sa m&gtilde;a dagoay sa tinápay ug sa bino. &ast; Pagólden sa pagcapadre.</foreign>
+<p>Misa. = <foreign lang=ceb>Misa, paghálad n&gtilde;a guipanagbóhat sa m&gtilde;a Padre, sa paghálad nila sa Dios n&gtilde;a Amahán sa <pb n=391 id=pb391 facs="f:391">bilídhon n&gtilde;a laoas ug dugó sa atong Guinóong Jesucristo sa ilálom sa m&gtilde;a dagoay sa tinápay ug sa bino. &ast; Pagólden sa pagcapadre.</foreign>
 
 <p>Misacantano. = <foreign lang=ceb>Ang guioldenáhan sa pagcapadre ug ang magamisa n&gtilde;a naháona, bag-o.</foreign>
 
@@ -29330,7 +29332,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mitra. = <foreign lang=ceb>Calo calo sa m&gtilde;a Obispo ug m&gtilde;a Arzobispo sa pagtóman nila sa m&gtilde;a catongdánan sa pagcaobispo nila. &ast; Ang cahímtang sa Arzobispo ug sa Obispo.</foreign>
 
-<p>Mitrado. = <foreign lang=ceb>Ang táuo n&gtilde;a guitogótan sa pagdála dala sa iang olo sa calo calo sa m&gtilde;a Arzobispo ug m&gtilde;a Opispo[**Obispo? P2].</foreign>
+<p>Mitrado. = <foreign lang=ceb>Ang táuo n&gtilde;a guitogótan sa pagdála dala sa iang olo sa calo calo sa m&gtilde;a Arzobispo ug m&gtilde;a <corr sic=Opispo>Obispo</corr>.</foreign>
 
 <p>Mitrar. = <foreign lang=ceb>Pagobispo.</foreign>
 
@@ -29368,11 +29370,11 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mochada. = <foreign lang=ceb>Pagcaómpog, pagcasóngco sa olo sa bisan diin. &ast; Pagcapácog sa olo.</foreign>
 
-<p>Mocheta. = <foreign lang=ceb>Catapúsan sa m&gtilde;a columna n&gtilde;a paglingcódan ug hunón&gtilde;an[**][**P2 thinks this is fine.] sa m&gtilde;a arco.</foreign>
+<p>Mocheta. = <foreign lang=ceb>Catapúsan sa m&gtilde;a columna n&gtilde;a paglingcódan ug hunón&gtilde;an sa m&gtilde;a arco.</foreign>
 
 <p>Mochil. = <foreign lang=ceb><corr sic="Bata">Báta</corr> n&gtilde;a pagasogóon, sologóon sa m&gtilde;a táuo n&gtilde;a nanagbóhat sa yota.</foreign>
 
-<p>Mochila. = <foreign lang=ceb>Poyo poyo, pontél sa panit, n&gtilde;a pagasórlan aa[**should be sa] m&gtilde;a sordados[**soldados?] sa ilang bisti ug ilang balon.</foreign>
+<p>Mochila. = <foreign lang=ceb>Poyo poyo, pontél sa panit, n&gtilde;a pagasórlan <corr sic=aa>sa</corr> m&gtilde;a <corr sic=sordados>soldados</corr> sa ilang bisti ug ilang balon.</foreign>
 
 <p>Mocho. = <foreign lang=ceb>Mananáp n&gtilde;a guipótlan sa m&gtilde;a son&gtilde;áy. &ast; Ang guigontín&gtilde;an ug guialótan sa bohóc. &ast; Cahoy n&gtilde;a guipótlan sa m&gtilde;a san&gtilde;á ug odlot. &ast; M&gtilde;a torres ug bisan onsa n&gtilde;a oalá botán&gtilde;an sa tomóy sa catapúsan.</foreign>
 
@@ -29398,7 +29400,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Moderno. = <foreign lang=ceb>Bag-o.</foreign> &ast; V. El anterior.
 
-<p>Modestamente. = <foreign lang=ceb>Sa pagcaólay, sa maáyong pagcahúsay ug pogcabótang[**pagcabótang? P2].</foreign>
+<p>Modestamente. = <foreign lang=ceb>Sa pagcaólay, sa maáyong pagcahúsay ug <corr sic="pogcabótang">pagcabótang</corr>.</foreign>
 
 <p>Modestia. = <foreign lang=ceb>Pagcaólay. &ast; Pagcaán&gtilde;ay sa m&gtilde;a buhat sa tagsa ca táuo, sumála sa cahímtang nia. &ast; Pagcahúsay sa matá sa pagsolóng.</foreign>
 
@@ -29708,9 +29710,9 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Montadura. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a quinahánglan sa m&gtilde;a cabayo arón cabayóan.</foreign>
 
-<p>Montaje. = <foreign lang=ceb>Pacabótang[**Pagcabótang] sa m&gtilde;a lothang sa m&gtilde;a cureña. &ast; M&gtilde;a casangcápan sa m&gtilde;a luthang.</foreign>
+<p>Montaje. = <foreign lang=ceb><corr sic="Pacabótang">Pagcabótang</corr> sa m&gtilde;a lothang sa m&gtilde;a cureña. &ast; M&gtilde;a casangcápan sa m&gtilde;a luthang.</foreign>
 
-<p>Montanera. = <foreign lang=ceb>Salóp[**Solóp?] n&gtilde;a pagabohían sa man&gtilde;a baboy arón manin&gtilde;áon.</foreign>
+<p>Montanera. = <foreign lang=ceb><corr sic="Salóp">Solóp</corr> n&gtilde;a pagabohían sa man&gtilde;a baboy arón manin&gtilde;áon.</foreign>
 
 <p>Montanero. = <foreign lang=ceb>Magbalántay sa m&gtilde;a solóp.</foreign>
 
@@ -29760,7 +29762,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Monzon. = <foreign lang=ceb>Cadugáyan sa han&gtilde;in dapit sa habagátan, dapit sa amihánan, &amp;c.</foreign>
 
-<p>Moña. = <foreign lang=ceb>Táuo táuo sa dagoy[**dagoay?] sa babáye n&gtilde;a binistíhan, n&gtilde;a pagahoálan sa pagcabóhat ug pagcatábas sa m&gtilde;a bisti. &ast; Casocó, capon&gtilde;ót, caligótgot. &ast; Pagcahobóg.</foreign>
+<p>Moña. = <foreign lang=ceb>Táuo táuo sa <corr sic=dagoy>dagoay</corr> sa babáye n&gtilde;a binistíhan, n&gtilde;a pagahoálan sa pagcabóhat ug pagcatábas sa m&gtilde;a bisti. &ast; Casocó, capon&gtilde;ót, caligótgot. &ast; Pagcahobóg.</foreign>
 
 <p>Moño. = <foreign lang=ceb>Pinángco. &ast; Lambóhay, tarong sa m&gtilde;a langgam.</foreign>
 
@@ -29934,7 +29936,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mosáico. = <foreign lang=ceb>Ang nahaton&gtilde;ód cang Moisés. &ast; Bohat n&gtilde;a pagaboháton sa m&gtilde;a papán con sa m&gtilde;a bató n&gtilde;a nagacaláin lain ug color.</foreign>
 
-<p>Mosca. = <foreign lang=ceb>Lan&gtilde;ao. &ast; Táuo n&gtilde;a cuti cutíhan n&gtilde;a magacasámoc, ma&gtilde;abórlay[**unusual accent. P2][**magabórlay] ug magaalin&gtilde;ása. &ast; Ang aligáto con biti n&gtilde;a guican sa caláyo.</foreign>
+<p>Mosca. = <foreign lang=ceb>Lan&gtilde;ao. &ast; Táuo n&gtilde;a cuti cutíhan n&gtilde;a magacasámoc, <corr sic="ma&gtilde;abórlay">magabórlay</corr> ug magaalin&gtilde;ása. &ast; Ang aligáto con biti n&gtilde;a guican sa caláyo.</foreign>
 
 <p>Moscarda. = <foreign lang=ceb>Lan&gtilde;ao n&gtilde;a dagcó. &ast; M&gtilde;a oloítlog sa m&gtilde;a putiócan.</foreign>
 
@@ -29950,7 +29952,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mosqueador. = <foreign lang=ceb>Paypay con bisan onsa sa pagbúgao sa m&gtilde;a lan&gtilde;ao. &ast; Ang icog sa m&gtilde;a mananáp.</foreign>
 
-<p>Mosquear. = <foreign lang=ceb>Pagbúgao sa m&gtilde;a lan&gtilde;ao. &ast; Pagtúbag tubag sa bisan cansa con barlón&gtilde;on sia ug saoáyon. &ast; Pagtolód, pagírog sa m&gtilde;a casámoc, sa m&gtilde;a cabilínggan, sa m&gtilde;a caolán&gtilde;an. &ast; Paghanólsol[**original looks like Paghauólsol] ton&gtilde;ód sa polong sa isigcatáuo.</foreign>
+<p>Mosquear. = <foreign lang=ceb>Pagbúgao sa m&gtilde;a lan&gtilde;ao. &ast; Pagtúbag tubag sa bisan cansa con barlón&gtilde;on sia ug saoáyon. &ast; Pagtolód, pagírog sa m&gtilde;a casámoc, sa m&gtilde;a cabilínggan, sa m&gtilde;a caolán&gtilde;an. &ast; Paghanólsol ton&gtilde;ód sa polong sa isigcatáuo.</foreign>
 
 <p>Mosqueo. = <foreign lang=ceb>Pagcabúgao, pagbógao sa m&gtilde;a lan&gtilde;ao.</foreign>
 
@@ -30106,7 +30108,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Muerte. = <foreign lang=ceb>Camatáyon, <corr sic="pagcamatày">pagcamatáy</corr>. &ast; <corr sic="Catapùsan">Catapúsan</corr> sa quinabúhi sa m&gtilde;a táuo, sa m&gtilde;a mananáp, sa m&gtilde;a tanóm ug m&gtilde;a cahoy. &ast; Pagcatibáoas sa bisan onsa.</foreign>
 
-<p>Muerto. = <foreign lang=ceb>Minatáy, patáy. &ast; Táuo n&gtilde;a mahináyon, n&gtilde;a aoláy[**oaláy? P2] cosóg ug gahóm.</foreign>
+<p>Muerto. = <foreign lang=ceb>Minatáy, patáy. &ast; Táuo n&gtilde;a mahináyon, n&gtilde;a <corr sic="aoláy">oaláy</corr> cosóg ug gahóm.</foreign>
 
 <p>Muesca. = <foreign lang=ceb>Totho, si-si, sin&gtilde;it, loblob.</foreign>
 
@@ -30146,7 +30148,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Mulatero. = <foreign lang=ceb>Ang magabántay ug magaalíma sa m&gtilde;a mula.</foreign>
 
-<p>Mulato. = <foreign lang=ceb>Táuo n&gtilde;a lioat sa m&gtilde;a tigúlang n&gtilde;a maítom ug maputí. &ast; Ang may calor[**color] n&gtilde;a molamaítom.</foreign>
+<p>Mulato. = <foreign lang=ceb>Táuo n&gtilde;a lioat sa m&gtilde;a tigúlang n&gtilde;a maítom ug maputí. &ast; Ang may <corr sic=calor>color</corr> n&gtilde;a molamaítom.</foreign>
 
 <p>Mulero. V. <hi>Mulatero</hi>.
 
@@ -30336,7 +30338,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nacarado. = <foreign lang=ceb>Ang guidáyan dayánan ug ang may color sa nácar.</foreign>
 
-<p>Nacer. = <foreign lang=ceb>Pagtáuo, pagágui, paggóa sa m&gtilde;a táuo ug sa m&gtilde;a mananáp sa tian sa ilang m&gtilde;a inahán. &ast; Pagbón&gtilde;a sa m&gtilde;a cahoy ug sa m&gtilde;a tanóm. &ast; Pagguítib, pagtoróc, paggóa sa yota sa m&gtilde;a tanóm. &ast; Paguícan sa bisan onsang guinicánan, banay con guinlioátan. &ast; Pagtoróc sa balahíbo, sa bohóc ug sa bon&gtilde;ot. &ast; Pagsílang[**Pagsálang?] sa adlao, sa bulan ug sa <pb n=405 id=pb405 facs="f:405">m&gtilde;a bitóon. &ast; Pagtóbod, pagólbo sa m&gtilde;a sobá ug sa m&gtilde;a tobóran. &ast; Pagsógod sa m&gtilde;a batásan. &ast; Pagsógod sa bisan onsa sa iang sinógdan ug guinicánan.</foreign>
+<p>Nacer. = <foreign lang=ceb>Pagtáuo, pagágui, paggóa sa m&gtilde;a táuo ug sa m&gtilde;a mananáp sa tian sa ilang m&gtilde;a inahán. &ast; Pagbón&gtilde;a sa m&gtilde;a cahoy ug sa m&gtilde;a tanóm. &ast; Pagguítib, pagtoróc, paggóa sa yota sa m&gtilde;a tanóm. &ast; Paguícan sa bisan onsang guinicánan, banay con guinlioátan. &ast; Pagtoróc sa balahíbo, sa bohóc ug sa bon&gtilde;ot. &ast; Pagsílang sa adlao, sa bulan ug sa <pb n=405 id=pb405 facs="f:405">m&gtilde;a bitóon. &ast; Pagtóbod, pagólbo sa m&gtilde;a sobá ug sa m&gtilde;a tobóran. &ast; Pagsógod sa m&gtilde;a batásan. &ast; Pagsógod sa bisan onsa sa iang sinógdan ug guinicánan.</foreign>
 
 <p>Nacido. = <foreign lang=ceb>Ang onay sa bisan onsa. &ast; Ang maáyo ug an&gtilde;ay sa bisan onsa. &ast; Hobág. &ast; Bisan quinsa sa m&gtilde;a táuo n&gtilde;a natáuo sa calibútan.</foreign>
 
@@ -30392,7 +30394,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Naranjado. = <foreign lang=ceb>Ang may color sa ocban.</foreign>
 
-<p>Naranjal. = <foreign lang=ceb>Lugar n&gtilde;a guitobóan sa m&gtilde;a cahoy n&gtilde;a [**·]mobón&gtilde;a sa m&gtilde;a ocban.</foreign>
+<p>Naranjal. = <foreign lang=ceb>Lugar n&gtilde;a guitobóan sa m&gtilde;a cahoy n&gtilde;a mobón&gtilde;a sa m&gtilde;a ocban.</foreign>
 
 <p>Naranjero. = <foreign lang=ceb>Lothang n&gtilde;a pagasórlan sa m&gtilde;a bala in&gtilde;on sa pagcadagcó sa m&gtilde;a ocban. &ast; Ang cahoy n&gtilde;a mobón&gtilde;a sa m&gtilde;a ocban. &ast; Ang mobalígya sa man&gtilde;a ocban.</foreign>
 
@@ -30492,7 +30494,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nava. = <foreign lang=ceb>Yota n&gtilde;a patag, datág.</foreign>
 
-<p>Navaja. = <foreign lang=ceb>Labaja. &ast; Quinháson sa maaníndot n&gtilde;a balàyan[**baláyan ?]. &ast; Tan&gtilde;ó sa m&gtilde;a baboy. &ast; Ang dila sa m&gtilde;a tiglíbac libac, sa m&gtilde;a malibácon.</foreign> &ast; De afeitar. = <foreign lang=ceb>Labaja n&gtilde;a igaálot.</foreign> &ast; De gallos. = <foreign lang=ceb>Bolang.</foreign>
+<p>Navaja. = <foreign lang=ceb>Labaja. &ast; Quinháson sa maaníndot n&gtilde;a <corr sic="balàyan">baláyan</corr>. &ast; Tan&gtilde;ó sa m&gtilde;a baboy. &ast; Ang dila sa m&gtilde;a tiglíbac libac, sa m&gtilde;a malibácon.</foreign> &ast; De afeitar. = <foreign lang=ceb>Labaja n&gtilde;a igaálot.</foreign> &ast; De gallos. = <foreign lang=ceb>Bolang.</foreign>
 
 <p>Navajada. = <foreign lang=ceb>Pagsámad, pagsóntoc sa labaja, ug ang maong samad.</foreign>
 
@@ -30574,7 +30576,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nefario. = <foreign lang=ceb>Daótan, tampalásan uyámot, mabán&gtilde;is.</foreign>
 
-<p>Nefas (por fas ó por.) V. <hi>Fas ó por nefas (por.)</hi>[**or separate paren.]
+<p>Nefas (por fas ó por.) V. <hi>Fas ó por nefas</hi> (<hi>por.</hi>)
 
 <p>Nefrítico. = <foreign lang=ceb>Saquét, caól-ol n&gtilde;a guican sa balás con sa bató n&gtilde;a nahamótang sa alaguían sa ihi.</foreign>
 
@@ -30606,7 +30608,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Negociante. = Idem.
 
-<p>Negociar. = <foreign lang=ceb>Pagpatigáyon sa pagpálit ug pagbalígya[á** not sure about this character], pagcomercio. &ast; Pagpatigáyon ug maáyo sa bisan onsa arón macóha ang guitúyo ug ang guipanghináot.</foreign>
+<p>Negociar. = <foreign lang=ceb>Pagpatigáyon sa pagpálit ug pagbalígya, pagcomercio. &ast; Pagpatigáyon ug maáyo sa bisan onsa arón macóha ang guitúyo ug ang guipanghináot.</foreign>
 
 <p>Negocio. = <foreign lang=ceb>Holosáyon. &ast; V. <hi>Negociacion</hi>. &ast; Polós, caposlánan, tobo sa pagcomercio.</foreign>
 
@@ -30640,7 +30642,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nene. = <foreign lang=ceb>Báta, diótay caáyo.</foreign>
 
-<p>Nenúfar. = <foreign lang=ceb>Tanóm n&gtilde;a motoróc sa tubig [**should there be a grave accent here]n&gtilde;a nadánao, n&gtilde;a díli magabahá.</foreign>
+<p>Nenúfar. = <foreign lang=ceb>Tanóm n&gtilde;a motoróc sa tubig n&gtilde;a nadánao, n&gtilde;a díli magabahá.</foreign>
 
 <p>Neófito. = <foreign lang=ceb>Táuo n&gtilde;a bag-o pa mibálic sa Pagtóo sa m&gtilde;a cristianos.</foreign>
 
@@ -30728,13 +30730,13 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nieve. = <foreign lang=ceb>Tubig sa olan n&gtilde;a natibúoc, n&gtilde;a mahólog sa yota sa dagoay sa m&gtilde;a loli n&gtilde;a diótay, binóscag ug maputí caáyo. &ast; Caputí n&gtilde;a dagcó sa bisan onsa.</foreign>
 
-<p>Nigromancía. = <foreign lang=ceb>Quinaárman n&gtilde;a man&gtilde;[**g with circumflex]íl-ad ug dinilían uyámot, sa pagbóhat sa m&gtilde;a bohat n&gtilde;a catin&gtilde;[**g with circumflex]aláhan, guican sa pagsábot sa yaoa ug sa iang gahóm, ug ang maong buhat.</foreign>
+<p>Nigromancía. = <foreign lang=ceb>Quinaárman n&gtilde;a man&gtilde;íl-ad ug dinilían uyámot, sa pagbóhat sa m&gtilde;a bohat n&gtilde;a catin&gtilde;aláhan, guican sa pagsábot sa yaoa ug sa iang gahóm, ug ang maong buhat.</foreign>
 
 <p>Nigromante. = <foreign lang=ceb>Ang maálam sa nigromancía.</foreign>
 
 <p>Nigromántico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa nigromancía.</foreign>
 
-<p>Nigua. = <foreign lang=ceb>Mananáp n&gtilde;a maín&gtilde;on in&gtilde;on sa pulgas, n&gtilde;[**g with circumflex]a mamáac caáyo.</foreign>
+<p>Nigua. = <foreign lang=ceb>Mananáp n&gtilde;a maín&gtilde;on in&gtilde;on sa pulgas, n&gtilde;a mamáac caáyo.</foreign>
 
 <p>Nimiamente. = <foreign lang=ceb>Sa guilabíhan.</foreign>
 
@@ -30776,7 +30778,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Níspero. = <foreign lang=ceb>Cahoy y ang iang bon&gtilde;a.</foreign>
 
-<p>Níspola. = <foreign lang=ceb>Ang bon&gtilde;[**g with circumflex]a sa Níspero.</foreign>
+<p>Níspola. = <foreign lang=ceb>Ang bon&gtilde;a sa Níspero.</foreign>
 
 <p>Nítido. = <foreign lang=ceb>Ang oaláy boling. &ast; Ang matín-ao, ang masíhag, ang magaguíla guila.</foreign>
 
@@ -30784,7 +30786,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nitrería. = <foreign lang=ceb>Lugar n&gtilde;a pagabohátan sa nitro.</foreign>
 
-<p>Nítrico. = <foreign lang=ceb>Ang nahaton&gtilde;[**g with circumflex]ód sa nitro.</foreign>
+<p>Nítrico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa nitro.</foreign>
 
 <p>Nitro. = <foreign lang=ceb>Calaínan sa asín n&gtilde;a magámit sa pagbóhat sa pólvora.</foreign>
 
@@ -30840,7 +30842,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nombrar. = <foreign lang=ceb>Paghin&gtilde;álan. &ast; Pagpíli, pagtórlo sa bisan cansa, sa bisan onsang opicio con catongdánan.</foreign>
 
-<p>Nombre. = <foreign lang=ceb>N&gtilde;alan. &ast; Maáyonog[**Maáyong? P2] don&gtilde;og.</foreign>
+<p>Nombre. = <foreign lang=ceb>N&gtilde;alan. &ast; <corr sic="Maáyonog">Maáyong</corr> don&gtilde;og.</foreign>
 
 <p>Nomenclatura. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a polong n&gtilde;a caogalín&gtilde;on sa bisan onsang n&gtilde;a quinaárman.</foreign>
 
@@ -30854,7 +30856,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nominar. V. <hi>Nombrar.</hi>
 
-<p>Non. = <foreign lang=ceb>Nones. &ast; Vsá[**Usá? P2] ca bóoc[**bóot?], ang oaláy obán, ang oaláy parang.</foreign>
+<p>Non. = <foreign lang=ceb>Nones. &ast; <corr sic="Vsá">Usá</corr> ca bóoc, ang oaláy obán, ang oaláy parang.</foreign>
 
 <p>Nona. = <foreign lang=ceb>Ang usá sa m&gtilde;a bahin sa adlao sa tiempo sa m&gtilde;a romanos, n&gtilde;a nacaígo sa horas sa las tres sa hapon. &ast; Ang icadúha ca <corr sic="habin">bahin</corr> sa bulan, sa maong m&gtilde;a romanos. &ast; Ang catapúsan sa m&gtilde;a <corr sic="pan&gtilde;àdye">pan&gtilde;ádye</corr> n&gtilde;a guin&gtilde;álan ug horas menores, n&gtilde;a pan&gtilde;adyéon sa m&gtilde;a Padre ug sa m&gtilde;a táuo n&gtilde;a guioldenáhan.</foreign>
 
@@ -30864,7 +30866,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nonagésimo. = <foreign lang=ceb>Ang macatúman sa isip sa casiáman.</foreign>
 
-<p>Nonagonal. = <foreign lang=ceb>Ang nahatun&gtilde;ód sa número cun[**con] sa isip sa siám.</foreign>
+<p>Nonagonal. = <foreign lang=ceb>Ang nahatun&gtilde;ód sa número cun sa isip sa siám.</foreign>
 
 <p>Nonágono. = <foreign lang=ceb>Dagoay n&gtilde;a may siám ca luyo con nauong.</foreign>
 
@@ -30882,7 +30884,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nordeste. = <foreign lang=ceb>Han&gtilde;in n&gtilde;a mohóyop sa talioála, sa calang sa timog ug sa amíhan.</foreign>
 
-<p>Noria. = <foreign lang=ceb>Máquina, tináod n&gtilde;a cahoy n&gtilde;a pagabotán&gtilde;an sa m&gtilde;a rueda, m&gtilde;a malín&gtilde;in, sa pagpagóa ug pag-*cálos <pb n=413 id=pb413 facs="f:413">sa tubig sa m&gtilde;a atábay. &ast; Atábay n&gtilde;a haláoig.</foreign>
+<p>Noria. = <foreign lang=ceb>Máquina, tináod n&gtilde;a cahoy n&gtilde;a pagabotán&gtilde;an sa m&gtilde;a rueda, m&gtilde;a malín&gtilde;in, sa pagpagóa ug pagcálos <pb n=413 id=pb413 facs="f:413">sa tubig sa m&gtilde;a atábay. &ast; Atábay n&gtilde;a haláoig.</foreign>
 
 <p>Norma. = <foreign lang=ceb>Escoála, capandáyan sa m&gtilde;a panday sa cahoy ug sa cota. &ast; Batacán n&gtilde;a paganóntan sa m&gtilde;a bohat sa m&gtilde;a táuo ug sa ilang pagpatigáyon.</foreign>
 
@@ -30900,9 +30902,9 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nota. = <foreign lang=ceb>Timáan, marca n&gtilde;a ibótang sa bisan díin arón hiílhan ug bisan onsa pagsáoay sa bisan onsa n&gtilde;a guisólat sa m&gtilde;a libro n&gtilde;a tacós n&gtilde;a saoáyon, con sa m&gtilde;a bohat sa m&gtilde;a táuo n&gtilde;a díli maáyo caáyo. &ast; Pagásoy, pagsáyod, pagpamólong sa bisan cansa, sa bisan onsang m&gtilde;a polong n&gtilde;a ibótang sa sulat. &ast; Bisan onsa n&gtilde;a guisólat sa m&gtilde;a hamóbong polong arón isúlat sa oláhing arlao sa hatáas n&gtilde;a pagásoy. &ast; M&gtilde;a timáan sa pagbása sa m&gtilde;a papel n&gtilde;a <corr sic="sinolàtan">sinolátan</corr> sa música.</foreign>
 
-<p>Notable. = <foreign lang=ceb>Ang tacús timaánan ug pamatn&gtilde;ónon[**]. &ast; Ang dagcó caáyo ug labí sa isigcaín&gtilde;on.</foreign>
+<p>Notable. = <foreign lang=ceb>Ang tacús timaánan ug pamatn&gtilde;ónon. &ast; Ang dagcó caáyo ug labí sa isigcaín&gtilde;on.</foreign>
 
-<p>Notar. = <foreign lang=ceb>Pagtimáan sa bisan onsa arón hiílhon. &ast; Pagtán-ao, pagmátn&gtilde;on,[**] pagsolóng ug maáyo.</foreign> &ast; V. <hi>Nota</hi> desde <hi lang=ceb>pagsáoay</hi>.
+<p>Notar. = <foreign lang=ceb>Pagtimáan sa bisan onsa arón hiílhon. &ast; Pagtán-ao, pagmátn&gtilde;on, pagsolóng ug maáyo.</foreign> &ast; V. <hi>Nota</hi> desde <hi lang=ceb>pagsáoay</hi>.
 
 <p>Notaría. = <foreign lang=ceb>Opicio, cahímtang sa notario. &ast; Solód n&gtilde;a <corr sic="pagabóhátan">pagabohátan</corr> sa m&gtilde;a notario.</foreign>
 
@@ -31086,7 +31088,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nunca. = <foreign lang=ceb>Guihápon, díli sa guihápon, díli gayód.</foreign>
 
-<p>Nunciatura. = <foreign lang=ceb>Opicio, cahímtang sa nuncio. &ast; Hocmánan sa Singbahán, sa España, n&gtilde;a guin&gtilde;álan de la Rota. &ast; Baláy n&gtilde;a guibután&gtilde;an niíning[**] hocmánan ug n&gtilde;a guimpúy-an sa nuncio.</foreign>
+<p>Nunciatura. = <foreign lang=ceb>Opicio, cahímtang sa nuncio. &ast; Hocmánan sa Singbahán, sa España, n&gtilde;a guin&gtilde;álan de la Rota. &ast; Baláy n&gtilde;a guibután&gtilde;an niíning hocmánan ug n&gtilde;a guimpúy-an sa nuncio.</foreign>
 
 <p>Nuncio. = <foreign lang=ceb>Sinógo, sinógo sa Santos n&gtilde;a Papa sa m&gtilde;a hari n&gtilde;a cristianos.</foreign>
 
@@ -31102,7 +31104,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Nutrimento. = <foreign lang=ceb>Ang gahóm sa m&gtilde;a calánon n&gtilde;a macatámboc sa m&gtilde;a táuo ug sa m&gtilde;a mananáp. &ast; Ang <pb n=416 id=pb416 facs="f:416">dugá sa yota n&gtilde;a macatámboc sa m&gtilde;a cahoy ug sa m&gtilde;a tanóm. &ast; Ang guinicánan, ang hingtúngdan sa cosóg, sa gahóm sa bisan onsa.</foreign>
 
-<p>Nutrir. = <foreign lang=ceb>Pagtámboc, pagdáoat sa cosóg sa man&gtilde;a[**cont'd next page] <pb>táuo ug sa m&gtilde;a mananáp, guican sa gahóm sa m&gtilde;a calánon.</foreign>
+<p>Nutrir. = <foreign lang=ceb>Pagtámboc, pagdáoat sa cosóg sa man&gtilde;a <pb>táuo ug sa m&gtilde;a mananáp, guican sa gahóm sa m&gtilde;a calánon.</foreign>
 
 <p>Nutritivo. = <foreign lang=ceb>Ang may gahóm sa pagpatámboc, sa pagpadagcó ug sa pagdógang.</foreign>
 
@@ -31130,7 +31132,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 <div2 id=NYO>
 <head>ÑO</head>
 
-<p>Ñoclo[**Ñoglo?]. = <foreign lang=ceb>Calán-on n&gtilde;a magáma sa binócboc n&gtilde;a pagasáctan sa asúcar, sa tamboc sa baca, sa itlog, sa bino ug sa anís.</foreign>
+<p>Ñoclo. = <foreign lang=ceb>Calán-on n&gtilde;a magáma sa binócboc n&gtilde;a pagasáctan sa asúcar, sa tamboc sa baca, sa itlog, sa bino ug sa anís.</foreign>
 
 <p>Ñoño. = <foreign lang=ceb>Tigúlang, an&gtilde;o an&gtilde;óhon, hin&gtilde;olíon.</foreign>
 
@@ -31431,7 +31433,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Odrero. = <foreign lang=ceb>Ang magabúhat ug magabalígya sa m&gtilde;a odre.</foreign>
 
-<p>Oedrina[**Odrina?]. = <foreign lang=ceb>Hobóg, hobgánon, ang nahobóg.[**should this be after OE heading? P2]</foreign>
+<p><corr sic=Oedrina>Odrina</corr>. = <foreign lang=ceb>Hobóg, hobgánon, ang nahobóg.</foreign>
 
 
 <div2 id=cOE>
@@ -31477,7 +31479,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Oficinista. = <foreign lang=ceb>Ang sinohólan sa hari n&gtilde;a magabúhat sa m&gtilde;a secretaría, &amp;c.</foreign>
 
-<p>Oficio. = <foreign lang=ceb>Buhat, catongdánan sa tagsa tagsa. &ast; Libang. &ast; Pan&gtilde;ádye n&gtilde;a may catungdánan n&gtilde;a pan&gtilde;adyéon sa m&gtilde;a Padre ug sa m&gtilde;a táuo n&gtilde;a guioldenáhan. &ast; Sulat, papel n&gtilde;a sinulátan sa m&gtilde;a ponóan, ug ang guisólat sa bisan cansa sa m&gtilde;a panóan[**ponóan], sa ton&gtilde;ód sa bisan onsang hulusáyon con catongdánan. &ast; Lugar n&gtilde;a pagatumánan sa m&gtilde;a secretario ug m&gtilde;a escribano sa m&gtilde;a longsod sa ilang m&gtilde;a catungdánan, ug n&gtilde;a pagasulátan sa m&gtilde;a camatuódan, &amp;c.</foreign>
+<p>Oficio. = <foreign lang=ceb>Buhat, catongdánan sa tagsa tagsa. &ast; Libang. &ast; Pan&gtilde;ádye n&gtilde;a may catungdánan n&gtilde;a pan&gtilde;adyéon sa m&gtilde;a Padre ug sa m&gtilde;a táuo n&gtilde;a guioldenáhan. &ast; Sulat, papel n&gtilde;a sinulátan sa m&gtilde;a ponóan, ug ang guisólat sa bisan cansa sa m&gtilde;a <corr sic="panóan">ponóan</corr>, sa ton&gtilde;ód sa bisan onsang hulusáyon con catongdánan. &ast; Lugar n&gtilde;a pagatumánan sa m&gtilde;a secretario ug m&gtilde;a escribano sa m&gtilde;a longsod sa ilang m&gtilde;a catungdánan, ug n&gtilde;a pagasulátan sa m&gtilde;a camatuódan, &amp;c.</foreign>
 
 <p>Ofrecedor. = <foreign lang=ceb>Ang magahálad. &ast; Ang magasáad.</foreign>
 
@@ -31543,7 +31545,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Ojerudo. = <foreign lang=ceb>Ang guidagcóan sa m&gtilde;a calágom sa matá, ang may dagcóng calágom sa matá.</foreign>
 
-<p>Ojete. = <foreign lang=ceb>Bohó n&gtilde;a malín&gtilde;in n&gtilde;a pagaboháton sa man&gtilde;a bisti con m&gtilde;a panápton, n&gtilde;a pagasórlan sa cordon, &amp;c., n&gtilde;a quinahánglan. &ast; Lobot, alaguían[**][**P2 thinks this is fine.] sa tae.</foreign>
+<p>Ojete. = <foreign lang=ceb>Bohó n&gtilde;a malín&gtilde;in n&gtilde;a pagaboháton sa man&gtilde;a bisti con m&gtilde;a panápton, n&gtilde;a pagasórlan sa cordon, &amp;c., n&gtilde;a quinahánglan. &ast; Lobot, alaguían sa tae.</foreign>
 
 <p>Ojetear. = <foreign lang=ceb>Pagbóhat sa m&gtilde;a ojete.</foreign>
 
@@ -31563,7 +31565,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Ojizarco. = <foreign lang=ceb>Táuo n&gtilde;a bolhog ug matá, n&gtilde;a may matá n&gtilde;a asules.</foreign>
 
-<p>Ojo. = <foreign lang=ceb>Matá. &ast; Bohó sa dagom, sa m&gtilde;a cuentas, &amp;c., sa m&gtilde;a saról ug ubán pang m&gtilde;a capandáyan. &ast; Toborán n&gtilde;a diótay. &ast; Ang tagsa ca tolo sa manteca, sa lana, &amp;c., n&gtilde;a magalutáo sa bino, sa tubig, &amp;c. &ast; Ang tagsa ca arco con bohó sa m&gtilde;a tuláy n&gtilde;a pagabaháan ug pagaaguían sa tubig. &ast; Timáan n&gtilde;a ibútang sa daplin sa bisan onsang sulat con sa bisan onsa n&gtilde;a inimprenta, sa pagmátn&gtilde;on[**] sa bisan onsa. &ast; Bohó sa tinápay.</foreign>
+<p>Ojo. = <foreign lang=ceb>Matá. &ast; Bohó sa dagom, sa m&gtilde;a cuentas, &amp;c., sa m&gtilde;a saról ug ubán pang m&gtilde;a capandáyan. &ast; Toborán n&gtilde;a diótay. &ast; Ang tagsa ca tolo sa manteca, sa lana, &amp;c., n&gtilde;a magalutáo sa bino, sa tubig, &amp;c. &ast; Ang tagsa ca arco con bohó sa m&gtilde;a tuláy n&gtilde;a pagabaháan ug pagaaguían sa tubig. &ast; Timáan n&gtilde;a ibútang sa daplin sa bisan onsang sulat con sa bisan onsa n&gtilde;a inimprenta, sa pagmátn&gtilde;on sa bisan onsa. &ast; Bohó sa tinápay.</foreign>
 
 
 <div2 id=cOL>
@@ -31754,7 +31756,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Opacamente. = <foreign lang=ceb>Sa pagcan&gtilde;ít n&gtilde;it, sa pagcalándong, sa oaláy sugá.</foreign>
 
-<p>Opacidad. = <foreign lang=ceb>Pagcan&gtilde;ít n&gtilde;it, pagcalándong. &ast; Can&gtilde;itn&gtilde;ítan.[**]</foreign>
+<p>Opacidad. = <foreign lang=ceb>Pagcan&gtilde;ít n&gtilde;it, pagcalándong. &ast; Can&gtilde;itn&gtilde;ítan.</foreign>
 
 <p>Opaco. = <foreign lang=ceb>Man&gtilde;ít n&gtilde;it, ang colán&gtilde;an sa sugá, ang guilandón&gtilde;an. &ast; Ang mamín&gtilde;ao, ang masolóbon.</foreign>
 
@@ -31766,7 +31768,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Operable. = <foreign lang=ceb>Ang arang boháton, ang mabóhat.</foreign>
 
-<p>Operacion. = <foreign lang=ceb>Buhat, pagcabóhat, pagbóhat. &ast; Pagcóha, pagbólag, pagpótol sa bisan onsang bahin sa laoas, sa camót, &amp;c. &ast; Caayóhan con cadaótan n&gtilde;a guican sa m&gtilde;a tambal.</foreign> &ast; Cesárea. = <foreign lang=ceb>Pagcasí-si, pag-*cadácdac, <pb n=425 id=pb425 facs="f:425">pagcalí-li sa tian sa m&gtilde;a babáye n&gtilde;a mabdos, sa pagcóha sa <corr sic="bàta">báta</corr>.</foreign> &ast; En Cebú. = <foreign lang=ceb>Yas yas.</foreign>
+<p>Operacion. = <foreign lang=ceb>Buhat, pagcabóhat, pagbóhat. &ast; Pagcóha, pagbólag, pagpótol sa bisan onsang bahin sa laoas, sa camót, &amp;c. &ast; Caayóhan con cadaótan n&gtilde;a guican sa m&gtilde;a tambal.</foreign> &ast; Cesárea. = <foreign lang=ceb>Pagcasí-si, pagcadácdac, <pb n=425 id=pb425 facs="f:425">pagcalí-li sa tian sa m&gtilde;a babáye n&gtilde;a mabdos, sa pagcóha sa <corr sic="bàta">báta</corr>.</foreign> &ast; En Cebú. = <foreign lang=ceb>Yas yas.</foreign>
 
 <p>Operante. = <foreign lang=ceb>Ang magabóhat.</foreign>
 
@@ -31798,7 +31800,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Opinion. = <foreign lang=ceb>Húna húna sa ton&gtilde;ód sa bisan onsa, labon n&gtilde;a arang onta húna húnaon sa pagcabátoc. &ast; Don&gtilde;og.</foreign>
 
-<p>Opio. = <foreign lang=ceb>Ang dugá sa guin&gtilde;álan ug adormideras:</foreign> V. <hi>Anfion</hi>. [**?]
+<p>Opio. = <foreign lang=ceb>Ang dugá sa guin&gtilde;álan ug adormideras:</foreign> V. <hi>Anfion</hi>.
 
 <p>Opíparo. = <foreign lang=ceb>Conbida n&gtilde;a mahál, sa daghánan n&gtilde;a m&gtilde;a calánon n&gtilde;a piníli.</foreign>
 
@@ -31822,7 +31824,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Opositor. = <foreign lang=ceb>Ang magabátoc sa lain. &ast; Ang magatúyo sa pagdán&gtilde;at sa bisan onsa, ton&gtilde;ód sa iang quinaárman.</foreign>
 
-<p>Opresion. = <foreign lang=ceb>Pagcalógos [**missing comma?] pagcapógos.</foreign>
+<p>Opresion. = <foreign lang=ceb>Pagcalógos<corr>,</corr> pagcapógos.</foreign>
 
 <p>Opresivamente. = <foreign lang=ceb>Sa pagcapógos, sa linugsánay.</foreign>
 
@@ -31950,7 +31952,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Oreja. = <foreign lang=ceb>Dalónggan.</foreign>
 
-<p>Orejeado. = <foreign lang=ceb>Ang guinatorlóan na n&gtilde;a daan, con pan&gtilde;otánon ogáling sa lain, arón hibáloan[**hibalóan?] nia con onsa ba ang itúbag.</foreign>
+<p>Orejeado. = <foreign lang=ceb>Ang guinatorlóan na n&gtilde;a daan, con pan&gtilde;otánon ogáling sa lain, arón <corr sic="hibáloan">hibalóan</corr> nia con onsa ba ang itúbag.</foreign>
 
 <p>Orejear. = <foreign lang=ceb>Paglíhoc sa m&gtilde;a mananáp sa ilang m&gtilde;a dalónggan, pagsóqui sa pagbóhat sa bisan onsa.</foreign>
 
@@ -32010,7 +32012,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Originario. = <foreign lang=ceb>Ang muguícan sa bisan onsa ug sa bisan diin.</foreign>
 
-<p>Orilla. = <foreign lang=ceb>Daplin, sidsid, sogot. &ast; N&gtilde;ilit, bay bay, baybáyon, piliu, panhay, bingqui, bigar[**]. &ast; Catapúsan, cocotóban.</foreign>
+<p>Orilla. = <foreign lang=ceb>Daplin, sidsid, sogot. &ast; N&gtilde;ilit, bay bay, baybáyon, piliu, panhay, bingqui, bigar. &ast; Catapúsan, cocotóban.</foreign>
 
 <p>Orillar. = <foreign lang=ceb>Pagtápus, paghúsay, pagtibáos sa bisan onsa. &ast; Pagdáplin. &ast; Pagpíleu. &ast; Paglíg-on sa sidsid sa bisti con sa panápton.</foreign>
 
@@ -32058,11 +32060,11 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Orobias. = <foreign lang=ceb>Calaínan n&gtilde;a labíng maáyo sa insienso.</foreign>
 
-<p>Orondo. = <foreign lang=ceb>Sorlánan n&gtilde;a dagcó, sa dagcóng loang. &ast; táuo[**Táuo? P2] n&gtilde;a parayégon, n&gtilde;a mahagógma n&gtilde;a pagasóln&gtilde;on sía ug dagyégon. &ast; Maandácon.</foreign>
+<p>Orondo. = <foreign lang=ceb>Sorlánan n&gtilde;a dagcó, sa dagcóng loang. &ast; <corr sic="táuo">Táuo</corr> n&gtilde;a parayégon, n&gtilde;a mahagógma n&gtilde;a pagasóln&gtilde;on sía ug dagyégon. &ast; Maandácon.</foreign>
 
 <pb n=429 id=pb429 facs="f:429"><p>Oropel. = <foreign lang=ceb>Tombága n&gtilde;a binácbac sa pagcanípis caáyo, dahon n&gtilde;a pino uyámot sa tumbága. &ast; Bisan onsang butang sa diótay n&gtilde;a bale. &ast; M&gtilde;a polong con bohat n&gtilde;a caoang, n&gtilde;a oaláy hingtóngdan. &ast; Dayan dayan sa m&gtilde;a táuo.</foreign>
 
-<p>Oropelero. = <foreign lang=ceb>Ang magabúhat ut[**ug? P2] magabalígya sa oropel.</foreign>
+<p>Oropelero. = <foreign lang=ceb>Ang magabúhat <corr sic=ut>ug</corr> magabalígya sa oropel.</foreign>
 
 <p>Oropéndola. = <foreign lang=ceb>Langgam n&gtilde;a maníndot ug matahóm <corr sic="úyamot">uyámot</corr>, tolíhao.</foreign>
 
@@ -32138,11 +32140,11 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Oscuras (a). = <foreign lang=ceb>Sa pagcan&gtilde;ít n&gtilde;it.</foreign>
 
-<p>Oscurecer. = <foreign lang=ceb>Pagn&gtilde;ít n&gtilde;it. &ast; Paggabíy. &ast; Pagcóha sa pagcamahál, sa pagcabale sa m&gtilde;a botang. &ast; Pagpaláin sa húna húna sa pagbóloc sa camatóod sa m&gtilde;a butang, arón díli hiílhan. &ast; Paggámit sa m&gtilde;a suguílon, sa m&gtilde;a polong n&gtilde;a halálom, sa m&gtilde;a sambi-*n&gtilde;ay <pb n=430 id=pb430 facs="f:430">n&gtilde;a malisód pagasabóton. &ast; Paglándong, pagdág-om.</foreign>
+<p>Oscurecer. = <foreign lang=ceb>Pagn&gtilde;ít n&gtilde;it. &ast; Paggabíy. &ast; Pagcóha sa pagcamahál, sa pagcabale sa m&gtilde;a botang. &ast; Pagpaláin sa húna húna sa pagbóloc sa camatóod sa m&gtilde;a butang, arón díli hiílhan. &ast; Paggámit sa m&gtilde;a suguílon, sa m&gtilde;a polong n&gtilde;a halálom, sa m&gtilde;a sambín&gtilde;ay <pb n=430 id=pb430 facs="f:430">n&gtilde;a malisód pagasabóton. &ast; Paglándong, pagdág-om.</foreign>
 
 <p>Oscurecimiento. = <foreign lang=ceb>Pagcan&gtilde;ít n&gtilde;it.</foreign>
 
-<p>Oscuridad. = <foreign lang=ceb>Idem. &ast; Pagcaoaláy sugá ug siga. &ast; Pagcadólom, pagcalándong sa m&gtilde;a solóp n&gtilde;a guibanósan, guisonsónan caáyo sa m&gtilde;a cahoy n&gtilde;a malángbo. &ast; Pagcaóbos sa m&gtilde;a calioátan. &ast; Pagcaoaláy siga ug pagcaíla n&gtilde;a maáyo sa m&gtilde;agalámhan[**m&gtilde;a galámhan? P2] sa calág.</foreign>
+<p>Oscuridad. = <foreign lang=ceb>Idem. &ast; Pagcaoaláy sugá ug siga. &ast; Pagcadólom, pagcalándong sa m&gtilde;a solóp n&gtilde;a guibanósan, guisonsónan caáyo sa m&gtilde;a cahoy n&gtilde;a malángbo. &ast; Pagcaóbos sa m&gtilde;a calioátan. &ast; Pagcaoaláy siga ug pagcaíla n&gtilde;a maáyo sa <corr sic="m&gtilde;agalámhan">m&gtilde;a galámhan</corr> sa calág.</foreign>
 
 <p>Oscuro. = <foreign lang=ceb>Man&gtilde;ít n&gtilde;it. &ast; Ang colán&gtilde;an sa sugá ug siga. &ast; Táuo sa obos n&gtilde;a guinicánan, n&gtilde;a díli mahál. &ast; Bisan onsa n&gtilde;a mabóloc, n&gtilde;a díli maháyag, madayág ug maáyo. &ast; Ang mabóloc sa iang suguílon. &ast; Color n&gtilde;a hapit moábot sa pagcaítom, molomaítom, ang hapit díli na maquíta.</foreign>
 
@@ -32318,7 +32320,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pabellon. = <foreign lang=ceb>Pabeyon, tabil, cobong cobong. &ast; Bandelang dagcó.</foreign>
 
-<p>Pábilo ó Pabílo. = <foreign lang=ceb>Ang hilo, pisi con gapas n&gtilde;a guibó-*tang <pb>sa m&gtilde;a candela, sa m&gtilde;a lamparahán, &amp;c., arón pagadagcótan ug masíga.</foreign>
+<p>Pábilo ó Pabílo. = <foreign lang=ceb>Ang hilo, pisi con gapas n&gtilde;a guibótang <pb>sa m&gtilde;a candela, sa m&gtilde;a lamparahán, &amp;c., arón pagadagcótan ug masíga.</foreign>
 
 <p>Pabulo. = <foreign lang=ceb>Calán-on.</foreign>
 
@@ -32356,9 +32358,9 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pacto. = <foreign lang=ceb>Pagcasábot, pagcasáad. &ast; Pagcasábot, pagcaóyon sa yaoa, sa pagbóhat sa m&gtilde;a bohat n&gtilde;a catin&gtilde;aláhan, hibóln&gtilde;an, daótan ug dinilían, sa iang n&gtilde;alan ug ton&gtilde;ód sa iang gahóm.</foreign>
 
-<p>[**pach after pact] Pachon. = <foreign lang=ceb>Táuo sa mahínay caáyo n&gtilde;a gaoi. &ast; Calaínan sa iró n&gtilde;a guin&gtilde;álan ug perdiguero.</foreign>
+<p>Pachon. = <foreign lang=ceb>Táuo sa mahínay caáyo n&gtilde;a gaoi. &ast; Calaínan sa iró n&gtilde;a guin&gtilde;álan ug perdiguero.</foreign>
 
-<p>Pachorra. = <foreign lang=ceb>Pagcahínay, dagcadúgay,[**pagcadúgay? P2] pagcalán&gtilde;an lan&gtilde;an.</foreign>
+<p>Pachorra. = <foreign lang=ceb>Pagcahínay, <corr sic="dagcadúgay">pagcadúgay</corr>, pagcalán&gtilde;an lan&gtilde;an.</foreign>
 
 <p>Pachorrudo. = <foreign lang=ceb>Táuo n&gtilde;a mahínay hináyon, malán&gtilde;an lan&gtilde;ánon.</foreign>
 
@@ -32416,7 +32418,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pairo. = <foreign lang=ceb>Pagcapúyo sa sacayán, in&gtilde;on sa guiín&gtilde;on carón.</foreign>
 
-<p>País. = <foreign lang=ceb>Guinharían, provincia, yota. &ast; Piníntal n&gtilde;a guipintálan sa m&gtilde;a lonsod[**longsod?], sa m&gtilde;a baláy, sa m&gtilde;a capatágan, &amp;c.</foreign>
+<p>País. = <foreign lang=ceb>Guinharían, provincia, yota. &ast; Piníntal n&gtilde;a guipintálan sa m&gtilde;a <corr sic=lonsod>longsod</corr>, sa m&gtilde;a baláy, sa m&gtilde;a capatágan, &amp;c.</foreign>
 
 <p>Paisaje. = Idem desde <hi lang=ceb>piníntal</hi>.
 
@@ -32446,13 +32448,13 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pajarero. = <foreign lang=ceb>Táuo n&gtilde;a matístis, malipáyon caáyo. &ast; Panápton, piníntal, &amp;c., n&gtilde;a guibotán&gtilde;an sa m&gtilde;a color n&gtilde;a buhi caáyo. &ast; Ang magadácop ug magabáton sa m&gtilde;a langgam ug ang magabalígya niána.</foreign>
 
-<p>Pajarico, ca, llo, lla, to, ta.[**s/c continues from main entry.] = <foreign lang=ceb>Langgam n&gtilde;a diótay.</foreign>
+<p>Pajarico, ca, llo, lla, to, ta. = <foreign lang=ceb>Langgam n&gtilde;a diótay.</foreign>
 
 <p>Pajaril (hacer). = <foreign lang=ceb>Pagtácgos, pagbáat sa puño sa m&gtilde;a layág sa m&gtilde;a sacayán, sa <corr sic="usa">usá</corr> sa pising dagcó, ug pagbótad dapit sa obus, arón mahogót ang maong m&gtilde;a layág, con matólod, matólot, malargo ang <corr sic="han&gtilde;uin">han&gtilde;in</corr>.</foreign>
 
 <p>Pajarilla. = <foreign lang=ceb>Tanóm. &ast; Bagá sa m&gtilde;a mananáp, ug labí pa sa m&gtilde;a baboy. &ast; Caólao sa pagpamólong sa cadaigánan ug sa cadaghánan. &ast; Caínit n&gtilde;a dagcó. &ast; Tiláoc.</foreign>
 
-<p>Pajarita de las nieves.[**s/c] = <foreign lang=ceb>Langgam.</foreign>
+<p>Pajarita de las nieves. = <foreign lang=ceb>Langgam.</foreign>
 
 <p>Pájaro. = <foreign lang=ceb>Langgam. &ast; Táuo n&gtilde;a batid, malalán&gtilde;on, masinabóton. &ast; Ang magalabás, ang magalabí sa quinaárman, sa pagcaboótan, &amp;c.</foreign>
 
@@ -32490,7 +32492,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Palabra. = <foreign lang=ceb>Polong, tin&gtilde;og. &ast; Ang Anac n&gtilde;a bogtong sa Dios n&gtilde;a Amahán. &ast; Saad.</foreign>
 
-<pb n=435 id=pb435 facs="f:435"><p>Palabrada. = <foreign lang=ceb>Polong n&gtilde;a daótan, n&gtilde;a macadáot sa isigcatáuo, malágsot, man&gtilde;uíl, ad[**man&gtilde;uíl-ad? P2], maláo-ay.</foreign>
+<pb n=435 id=pb435 facs="f:435"><p>Palabrada. = <foreign lang=ceb>Polong n&gtilde;a daótan, n&gtilde;a macadáot sa isigcatáuo, malágsot, <corr sic="man&gtilde;uíl, ad">man&gtilde;uíl-ad</corr>, maláo-ay.</foreign>
 
 <p>Palabrero. = <foreign lang=ceb>Hinoguilánon caáyo, tabían. &ast; Ang masáyon magasáad ug malisód magatúman.</foreign>
 
@@ -32506,13 +32508,13 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Palacio. = <foreign lang=ceb>Baláy n&gtilde;a guimpóy-an sa m&gtilde;a hari, sa m&gtilde;a Obispo, ug sa obán n&gtilde;a m&gtilde;a dagcóng táuo.</foreign>
 
-<p>Palacra. = <foreign lang=ceb>Tipac n&gtilde;a boláoan n&gtilde;a ólay[**olay] ug baol pa, n&gtilde;a maquíta usáhay sa m&gtilde;a mina.</foreign>
+<p>Palacra. = <foreign lang=ceb>Tipac n&gtilde;a boláoan n&gtilde;a <corr sic="ólay">olay</corr> ug baol pa, n&gtilde;a maquíta usáhay sa m&gtilde;a mina.</foreign>
 
 <p>Palada. = <foreign lang=ceb>Bisan onsa n&gtilde;a macóha sa pala, sa macaosá, sa tagsa ca pagcóha.</foreign>
 
 <p>Paladar. = <foreign lang=ceb>Lan&gtilde;ágn&gtilde;ag. &ast; Pagcalamí. &ast; Caíbog sa bisan onsang espirituhánon.</foreign>
 
-<p>Paladear. = <foreign lang=ceb>Pagbótang, pagtón&gtilde;ad sa lan&gtilde;án&gtilde;ag[**lan&gtilde;ágn&gtilde;ag] sa bag-ong guiánac, sa dogós con sa lain n&gtilde;a matám-is, arón mahagálam ug magasóso ug maáyo. &ast; Pagcóha sa caíbog sa bisan onsang botang ton&gtilde;ód sa lain n&gtilde;a botang n&gtilde;a ihátag, n&gtilde;a macalípat ug macalímbong sa lamí. &ast; Paghógas sa bába con sa lan&gtilde;ágn&gtilde;ag sa m&gtilde;a mananáp, arón macacáon sila ug maáyo. &ast; Pagbóhat sa timáan sa báta n&gtilde;a bag-ong guiánac, sa iang bába, n&gtilde;a boot magsóso. &ast; Pagdímdim, pagtagámtam, sa mahínay, sa bisan onsa.</foreign>
+<p>Paladear. = <foreign lang=ceb>Pagbótang, pagtón&gtilde;ad sa <corr sic="lan&gtilde;án&gtilde;ag">lan&gtilde;ágn&gtilde;ag</corr> sa bag-ong guiánac, sa dogós con sa lain n&gtilde;a matám-is, arón mahagálam ug magasóso ug maáyo. &ast; Pagcóha sa caíbog sa bisan onsang botang ton&gtilde;ód sa lain n&gtilde;a botang n&gtilde;a ihátag, n&gtilde;a macalípat ug macalímbong sa lamí. &ast; Paghógas sa bába con sa lan&gtilde;ágn&gtilde;ag sa m&gtilde;a mananáp, arón macacáon sila ug maáyo. &ast; Pagbóhat sa timáan sa báta n&gtilde;a bag-ong guiánac, sa iang bába, n&gtilde;a boot magsóso. &ast; Pagdímdim, pagtagámtam, sa mahínay, sa bisan onsa.</foreign>
 
 <p>Paladeo. = <foreign lang=ceb>Pagcadímdim, pagcatagámtam.</foreign>
 
@@ -32562,7 +32564,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Palenque. = <foreign lang=ceb>Dingding sa m&gtilde;a papán con sa m&gtilde;a bogsoc, n&gtilde;a magalibót sa bisan onsang lugar.</foreign>
 
-<p>Paleografía. = <foreign lang=ceb>Quinaárman n&gtilde;a magatórlo sa pagbása[**,?] sa m&gtilde;a sulat n&gtilde;a caráan.</foreign>
+<p>Paleografía. = <foreign lang=ceb>Quinaárman n&gtilde;a magatórlo sa pagbása<corr>,</corr> sa m&gtilde;a sulat n&gtilde;a caráan.</foreign>
 
 <p>Paleográfico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa paleografía.</foreign>
 
@@ -32572,7 +32574,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Palero. = <foreign lang=ceb>Ang magabúhat ug magabalígya sa m&gtilde;a pala. &ast; Ang magaháoan, sa pala, sa m&gtilde;a alaguían sa tubig, sa m&gtilde;a lugar n&gtilde;a tubígan caáyo.</foreign>
 
-<p>Palestra. = <foreign lang=ceb>Lugar n&gtilde;a pagaaoáyan[**][**OK], n&gtilde;a pagapinongpón&gtilde;an. &ast; Lugar n&gtilde;a pagaíndig indígan sa m&gtilde;a táuo, arón suláyon nila ang ilang quinaárman.</foreign>
+<p>Palestra. = <foreign lang=ceb>Lugar n&gtilde;a pagaaoáyan, n&gtilde;a pagapinongpón&gtilde;an. &ast; Lugar n&gtilde;a pagaíndig indígan sa m&gtilde;a táuo, arón suláyon nila ang ilang quinaárman.</foreign>
 
 <p>Palestrico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa palestra.</foreign>
 
@@ -32594,7 +32596,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Paliar. = <foreign lang=ceb>Paglimór, pagsomán&gtilde;il.</foreign>
 
-<p>Paliativo. = <foreign lang=ceb>Tambal n&gtilde;a ibótang sa m&gtilde;a masaquét n&gtilde;a díli na matámbal, arón mamahínay[**mahínay?] hinay lamang ang m&gtilde;a maól-ol.</foreign>
+<p>Paliativo. = <foreign lang=ceb>Tambal n&gtilde;a ibótang sa m&gtilde;a masaquét n&gtilde;a díli na matámbal, arón mamahínay hinay lamang ang m&gtilde;a maól-ol.</foreign>
 
 <p>Paliatorio. = <foreign lang=ceb>Ang macatábon, ug macalimód sa bisan onsa.</foreign>
 
@@ -32602,7 +32604,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pálido. = <foreign lang=ceb>Malospád, malopsád, malálag, madálag.</foreign>
 
-<p>Palillero. = <foreign lang=ceb>Ang magabóhat ug magabalígya sa m&gtilde;a palíyo, sa m&gtilde;a gun&gtilde;i n&gtilde;a icóhit sa m&gtilde;a n&gtilde;ipon. &ast; Hopot hopot ug bisan onsa n&gtilde;a pagasórlan ug pagabotán&gtilde;an sa m&gtilde;a paliyo[**palíyo?].</foreign>
+<p>Palillero. = <foreign lang=ceb>Ang magabóhat ug magabalígya sa m&gtilde;a palíyo, sa m&gtilde;a gun&gtilde;i n&gtilde;a icóhit sa m&gtilde;a n&gtilde;ipon. &ast; Hopot hopot ug bisan onsa n&gtilde;a pagasórlan ug pagabotán&gtilde;an sa m&gtilde;a <corr sic=paliyo>palíyo</corr>.</foreign>
 
 <p>Palillo. = <foreign lang=ceb>Palíyo, gon&gtilde;i n&gtilde;a icolóhit sa m&gtilde;a n&gtilde;ipon. &ast; Cahoy n&gtilde;a icabásal sa tambol. &ast; Bisan onsa n&gtilde;a oaláy bale ug polós. &ast; Ang tolománon n&gtilde;a ona ug tolotagídyot sa m&gtilde;a quinaárman ug man&gtilde;a opicio.</foreign>
 
@@ -32630,7 +32632,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Palmatoria. = <foreign lang=ceb>Palmeta, capandáyan n&gtilde;a guinagámit sa m&gtilde;a magtotóon sa pagbárlong ug pagcastigo sa m&gtilde;a báta n&gtilde;a tinón-an nila: mao ang usá ca papán n&gtilde;a diótay ug malín&gtilde;in n&gtilde;a guinabohó bohóan sa pila ca bohó, n&gtilde;a icadápi dapi sa m&gtilde;a palad sa m&gtilde;a camót sa maong m&gtilde;a báta, ug sa luyong tomóy guitaólan sa m&gtilde;a tinábas n&gtilde;a panit n&gtilde;a igahámpac opód caníla. &ast; Sanggáan sa m&gtilde;a candela, sa pothao, tombága, &amp;c.</foreign>
 
-<p>Palmeado. = <foreign lang=ceb>M&gtilde;a tiil sa m&gtilde;a gaquét, m&gtilde;a itic, &amp;c., n&gtilde;a guicalan&gtilde;aquítan sa m&gtilde;a tórlo[**torlo] ug m&gtilde;a cocó sa usá ca panit.</foreign>
+<p>Palmeado. = <foreign lang=ceb>M&gtilde;a tiil sa m&gtilde;a gaquét, m&gtilde;a itic, &amp;c., n&gtilde;a guicalan&gtilde;aquítan sa m&gtilde;a <corr sic="tórlo">torlo</corr> ug m&gtilde;a cocó sa usá ca panit.</foreign>
 
 <p>Palmear. = <foreign lang=ceb>Pagdápi dapi, pagdágpi sa m&gtilde;a camót, pagbásal sa m&gtilde;a palad.</foreign>
 
@@ -32642,7 +32644,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Palmera. V. <hi>Palma</hi> hasta <hi lang=ceb>timáan</hi>.
 
-<p>Palmero. = <foreign lang=ceb>Táuo n&gtilde;a magabántay sa m&gtilde;a palma. &ast; Táuo n&gtilde;a nagaádto sa yotang santos, sa yota sa Jerusalém, cay sa pagpaúli[**] nia nanagdála sa m&gtilde;a lucay, sa m&gtilde;a dahon sa m&gtilde;a palma.</foreign>
+<p>Palmero. = <foreign lang=ceb>Táuo n&gtilde;a magabántay sa m&gtilde;a palma. &ast; Táuo n&gtilde;a nagaádto sa yotang santos, sa yota sa Jerusalém, cay sa pagpaúli nia nanagdála sa m&gtilde;a lucay, sa m&gtilde;a dahon sa m&gtilde;a palma.</foreign>
 
 <p>Palmeta. V. <hi>Palmatoria</hi> hasta <hi lang=ceb>sanggáan</hi>. &ast; <foreign lang=ceb>Pagcadágpi sa palad sa camót sa palmeta, pagcadolápi.</foreign>
 
@@ -32764,7 +32766,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Panadear. = <foreign lang=ceb>Pagbóhat sa tinápay n&gtilde;a ibalígya.</foreign>
 
-<p>Panadería. = <foreign lang=ceb>Opicio sa pabóhat[**pagbóhat] sa tinápay, lugar n&gtilde;a pagabohátan ug pagabaligyáan sa tinápay.</foreign>
+<p>Panadería. = <foreign lang=ceb>Opicio sa <corr sic="pabóhat">pagbóhat</corr> sa tinápay, lugar n&gtilde;a pagabohátan ug pagabaligyáan sa tinápay.</foreign>
 
 <p>Panadero. = <foreign lang=ceb>Magbobóhat, ang magabóhat sa tinápay.</foreign>
 
@@ -32852,7 +32854,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pantomima. = <foreign lang=ceb>Dula sa puro, sa lonlon timáan, sa oaláy polong.</foreign>
 
-<p>Pantomímico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa pantomina[**pantomima?].</foreign>
+<p>Pantomímico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa <corr sic=pantomina>pantomima</corr>.</foreign>
 
 <p>Pantomimo. = <foreign lang=ceb>Ang táuo n&gtilde;a magapanigín&gtilde;on in&gtilde;on sa m&gtilde;a buhat ug sa m&gtilde;a polong sa m&gtilde;a táuo n&gtilde;a nanagápil sa m&gtilde;a dula.</foreign>
 
@@ -32880,7 +32882,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pañero. = <foreign lang=ceb>Ang magabalígya sa m&gtilde;a panápton.</foreign>
 
-<p>Peñetes[**Pañetes?]. = <foreign lang=ceb>Salooál, calsonsillos sa m&gtilde;a mananágat. &ast; Ang paño, ang panápton con bágcos n&gtilde;a guibácos sa m&gtilde;a laráoan sa atong Guinóong Jesucristo.</foreign>
+<p><corr sic="Peñetes">Pañetes</corr>. = <foreign lang=ceb>Salooál, calsonsillos sa m&gtilde;a mananágat. &ast; Ang paño, ang panápton con bágcos n&gtilde;a guibácos sa m&gtilde;a laráoan sa atong Guinóong Jesucristo.</foreign>
 
 <p>Paño. = <foreign lang=ceb>Panápton n&gtilde;a hinábol sa m&gtilde;a balahíbo sa m&gtilde;a carnero. &ast; Bisan onsang panápton. &ast; Tabil. &ast; Panápton n&gtilde;a magámit sa pagtámbal sa m&gtilde;a samad. &ast; Aláp-ap sa nauong <corr sic="ng">ug</corr> sa láoas. &ast; Pagcalágom sa m&gtilde;a matá, ug pagcapolá. &ast; Boling sa m&gtilde;a salamín, sa m&gtilde;a baso, &amp;c., landong n&gtilde;a macaólang sa ilang pagcasíga. &ast; Layág sa m&gtilde;a sacayán.</foreign>
 
@@ -32890,7 +32892,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pañuelo. = <foreign lang=ceb>Paño, panyo.</foreign>
 
-<p>Papa. = <foreign lang=ceb>Ang Santos n&gtilde;a Papa, pan&gtilde;ólo n&gtilde;a maquíta sa calibútan sa m&gtilde;a binuñágan n&gtilde;atanán, ilis ni Jesucristo sa iyang[**ilang?] Iglesia. &ast; Sopas n&gtilde;a mahómoc n&gtilde;a ipacáon sa m&gtilde;a báta. &ast; Bisan onsang calánon.</foreign>
+<p>Papa. = <foreign lang=ceb>Ang Santos n&gtilde;a Papa, pan&gtilde;ólo n&gtilde;a maquíta sa calibútan sa m&gtilde;a binuñágan n&gtilde;atanán, ilis ni Jesucristo sa iyang Iglesia. &ast; Sopas n&gtilde;a mahómoc n&gtilde;a ipacáon sa m&gtilde;a báta. &ast; Bisan onsang calánon.</foreign>
 
 <p>Papá. = <foreign lang=ceb>Polong n&gtilde;a igatáuag sa m&gtilde;a báta sa ilang amahán.</foreign>
 
@@ -32944,7 +32946,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <pb n=442 id=pb442 facs="f:442"><p>Papelería. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a papel n&gtilde;a nan&gtilde;obót ug nasácot, ug ang m&gtilde;a papel n&gtilde;a guisi ug oaláy polós.</foreign>
 
-<p>Papelero. = <foreign lang=ceb>Ang magbobóhat, ang magabóhat ug magabalígya sa papel, [**should be .]</foreign>
+<p>Papelero. = <foreign lang=ceb>Ang magbobóhat, ang magabóhat ug magabalígya sa papel<corr sic=",">.</corr></foreign>
 
 <p>Papeleta. = <foreign lang=ceb>Papel n&gtilde;a diótay, sinolátan sa bisan onsa, balisóngsong n&gtilde;a papel n&gtilde;a pagasórlan sa bisan onsa.</foreign>
 
@@ -33014,7 +33016,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Paradeta. = <foreign lang=ceb>Sayáo, pagsabáy, sa España.</foreign>
 
-<p>Paradigma. V. <hi>Ejemplar</hi> hasta <hi lang=ceb>catalágman</hi>[**catalúgman?].
+<p>Paradigma. V. <hi>Ejemplar</hi> hasta <hi lang=ceb>catalágman</hi>.
 
 <p>Paradilla. V. <hi>Parada</hi>.
 
@@ -33032,7 +33034,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Parafrasear. = <foreign lang=ceb>Pagásoy, pagsáyor sa magacaláin lain sa bisan onsa.</foreign>
 
-<p>Paráfrasis. = <foreign lang=ceb>Cosayóran[**Casayóran?] sa pagcaláin lain sa bisan onsa. &ast; Casayóran sa usá ca polong con suguílon n&gtilde;a halálom sa lain polong con suguílon n&gtilde;a masáyon pagasabóton.</foreign>
+<p>Paráfrasis. = <foreign lang=ceb><corr sic="Cosayóran">Casayóran</corr> sa pagcaláin lain sa bisan onsa. &ast; Casayóran sa usá ca polong con suguílon n&gtilde;a halálom sa lain polong con suguílon n&gtilde;a masáyon pagasabóton.</foreign>
 
 <p>Paraguay. = <foreign lang=ceb>Calaínan sa perico, sa loro.</foreign>
 
@@ -33042,11 +33044,11 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Paraiso. = <foreign lang=ceb>Tanáman n&gtilde;a matahóm caáyo, n&gtilde;a ponó sa m&gtilde;a bon&gtilde;ang tanán n&gtilde;a matám-is ug malalím oyámot, n&gtilde;a guibotán&gtilde;an ug guipapóy-an sa Dios cang Adán sa human na ang pagbóhat canía. &ast; Pahimayáan, padoláan, calipáyan sa m&gtilde;a buláhan, sa Lan&gtilde;it. &ast; Bisan onsa n&gtilde;a maníndot.</foreign>
 
-<p>Paraje. = <foreign lang=ceb>Lugar, bolotán&gtilde;an. &ast; Pagcabótang sa [**smudge?]bisan onsa.</foreign>
+<p>Paraje. = <foreign lang=ceb>Lugar, bolotán&gtilde;an. &ast; Pagcabótang sa bisan onsa.</foreign>
 
 <p>Paral. = <foreign lang=ceb>Cahoy n&gtilde;a guitongtón&gtilde;an sa quilla sa sacayán ug n&gtilde;a pagadihógon sa sebo, sa tamboc, arón pagadanglógan ug <corr sic="pagdalagànan">pagdalagánan</corr> sa maong <corr sic="sacayàn">sacayán</corr> con ibótang ug ipalotáo sa tubig.</foreign>
 
-<p>Paralelo. = <foreign lang=ceb>Ang guibótang sa pagcahalayó n&gtilde;a magsáma. &ast; Ang maín&gtilde;on, ang mahaton&gtilde;ód sa pacamagsáma. &ast; Pagcatándi, pacatándig[**pagcatándig] sa bisan onsa, sa lain n&gtilde;a butang.</foreign>
+<p>Paralelo. = <foreign lang=ceb>Ang guibótang sa pagcahalayó n&gtilde;a magsáma. &ast; Ang maín&gtilde;on, ang mahaton&gtilde;ód sa pacamagsáma. &ast; Pagcatándi, <corr sic="pacatándig">pagcatándig</corr> sa bisan onsa, sa lain n&gtilde;a butang.</foreign>
 
 <p>Paralisis. V. <hi>Perlesía</hi>.
 
@@ -33166,7 +33168,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Parérgon. = <foreign lang=ceb>Pagcasómpay, pagcadógang sa bisan onsa, sa lain. &ast; Ang guisómpay ug guidógang sa bisan onsang botang.</foreign>
 
-<p>Pares y[**] Nones (jugar, echar á). = <foreign lang=ceb>Pagsogál sa pares lones, pagsómbol, paghánip.</foreign> &ast; Secundinas. = <foreign lang=ceb>Inónlan<corr>.</corr></foreign>
+<p>Pares y Nones (jugar, echar á). = <foreign lang=ceb>Pagsogál sa pares lones, pagsómbol, paghánip.</foreign> &ast; Secundinas. = <foreign lang=ceb>Inónlan<corr>.</corr></foreign>
 
 <p>Parias. = <foreign lang=ceb>Ang bohis n&gtilde;a guinabáyad sa usá ca hari sa lain n&gtilde;a hari, n&gtilde;a igacaíla sa iang pagcaponóan canía.</foreign>
 
@@ -33184,7 +33186,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Parietaria. = <foreign lang=ceb>Tanóm.</foreign>
 
-<p>Parificar. = <foreign lang=ceb>Pagmatúod sa guiín&gtilde;on, sa guisoguílon, sa m&gtilde;a panaglétan[**pananglétan].</foreign>
+<p>Parificar. = <foreign lang=ceb>Pagmatúod sa guiín&gtilde;on, sa guisoguílon, sa m&gtilde;a <corr sic="panaglétan">pananglétan</corr>.</foreign>
 
 <p>Parihuela. = <foreign lang=ceb>Tarabón, orimón.</foreign>
 
@@ -33322,7 +33324,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Partidario. = <foreign lang=ceb>Ang mananámbal n&gtilde;a magasóroy soroy sa m&gtilde;a lugar. &ast; Ang magalában, mapasácop con magaápil sa bisan onsa n&gtilde;a dapig.</foreign>
 
-<p>Partido. = <foreign lang=ceb>Dapig. &ast; Pagcahiósa, pagcasábot sa pila ca <corr sic="tàuo">táuo</corr> sa pagbóhat sa bisan onsa. &ast; Polós, caposlánan, pagcalában, pagcatábang. &ast; Obán, caobánan sa táuo n&gtilde;a nagasugál. &ast; Bisan onsang alaguían con <corr sic="pagpatigàyon">pagpatigáyon</corr> n&gtilde;a guihúna húna sa pagbóhat con sa pagdán&gtilde;at sa bisan onsa. &ast; Guinhócman n&gtilde;a nagasácop[**] sa m&gtilde;a longsod n&gtilde;atanán sa tagsa ca cabecera con hocmánan. &ast; Longsod n&gtilde;a quinahánglan n&gtilde;a pagapóy-an con pagaduáuan sa m&gtilde;a masaquét sa caogalín&gtilde;on n&gtilde;a mananámbal, ton&gtilde;ód sa sohol n&gtilde;a guisabótan. &ast; Cadaghánan sa m&gtilde;a táuo n&gtilde;a apil sa usá ca dapig.</foreign>
+<p>Partido. = <foreign lang=ceb>Dapig. &ast; Pagcahiósa, pagcasábot sa pila ca <corr sic="tàuo">táuo</corr> sa pagbóhat sa bisan onsa. &ast; Polós, caposlánan, pagcalában, pagcatábang. &ast; Obán, caobánan sa táuo n&gtilde;a nagasugál. &ast; Bisan onsang alaguían con <corr sic="pagpatigàyon">pagpatigáyon</corr> n&gtilde;a guihúna húna sa pagbóhat con sa pagdán&gtilde;at sa bisan onsa. &ast; Guinhócman n&gtilde;a nagasácop sa m&gtilde;a longsod n&gtilde;atanán sa tagsa ca cabecera con hocmánan. &ast; Longsod n&gtilde;a quinahánglan n&gtilde;a pagapóy-an con pagaduáuan sa m&gtilde;a masaquét sa caogalín&gtilde;on n&gtilde;a mananámbal, ton&gtilde;ód sa sohol n&gtilde;a guisabótan. &ast; Cadaghánan sa m&gtilde;a táuo n&gtilde;a apil sa usá ca dapig.</foreign>
 
 <p>Partidor. = <foreign lang=ceb>Ang magabáhin, ang magalápa, ang magabúlag sa bisan onsa. &ast; Ang magapáhat. &ast; Ang <corr sic="capandàyan">capandáyan</corr> n&gtilde;a <corr sic="icabàhin">icabáhin</corr> ug <corr sic="icalàpa">icalápa</corr>.</foreign>
 
@@ -33340,7 +33342,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Parva. = <foreign lang=ceb>Humay, daoa, &amp;c., n&gtilde;a <corr sic="guicàtag">guicátag</corr> sa yota arón guiócon. &ast; Tapoc, ogdo n&gtilde;a dagcó.</foreign>
 
-<p>Parvedad ó Parvidad. = <foreign lang=ceb>Pagcadiótay, pagcadíot, diríot. &ast; An&gtilde;[**typo, Ang] calánon n&gtilde;a diótay n&gtilde;a icapaínit sa adlao n&gtilde;a pagapoasáhan, sa pagpoása.</foreign>
+<p>Parvedad ó Parvidad. = <foreign lang=ceb>Pagcadiótay, pagcadíot, diríot. &ast; <corr sic="An&gtilde;">Ang</corr> calánon n&gtilde;a diótay n&gtilde;a icapaínit sa adlao n&gtilde;a pagapoasáhan, sa pagpoása.</foreign>
 
 <p>Parvo. = <foreign lang=ceb>Diótay, diot.</foreign>
 
@@ -33348,9 +33350,9 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Párvulo. = <foreign lang=ceb>Diot, diótay. &ast; Ang bátang diótay <corr sic="caàyo">caáyo</corr>. &ast; Ang <corr sic="tàuo">táuo</corr> n&gtilde;a <corr sic="masàyon">masáyon</corr> pagaólo olóhon ug pagalimbón&gtilde;an. &ast; Táuo n&gtilde;a mapaobsánon.</foreign>
 
-<p>Pasa. = <foreign lang=ceb>Ubas n&gtilde;a namalá. &ast; Pagcaágui sa m&gtilde;a langgam cutub sa usá ca banua sa lain[**ì ?] n&gtilde;a banua.</foreign>
+<p>Pasa. = <foreign lang=ceb>Ubas n&gtilde;a namalá. &ast; Pagcaágui sa m&gtilde;a langgam cutub sa usá ca banua sa lain n&gtilde;a banua.</foreign>
 
-<p>Pasacaballo. = <foreign lang=ceb>Sacayán sa canhing[**][**yes] tiempo.</foreign>
+<p>Pasacaballo. = <foreign lang=ceb>Sacayán sa canhing tiempo.</foreign>
 
 <p>Pasacalle. = <foreign lang=ceb>Sones n&gtilde;a guisónes sa sesta ug sa obán pang m&gtilde;a tolónggon.</foreign>
 
@@ -33360,7 +33362,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pasaderamente. = <foreign lang=ceb>Sa <corr sic="pagcaàrang">pagcaárang</corr> arang.</foreign>
 
-<p>Pasadero. = <foreign lang=ceb>Ang maáyo ayo, ang arang arang. &ast; Ang masáyon pagaaguían ug pagalabán&gtilde;an. &ast; Ang arang pagaantóson ug pagailóbon[**][**unsure, looks like h].</foreign>
+<p>Pasadero. = <foreign lang=ceb>Ang maáyo ayo, ang arang arang. &ast; Ang masáyon pagaaguían ug pagalabán&gtilde;an. &ast; Ang arang pagaantóson ug pagailóbon.</foreign>
 
 <p>Pasadillo. = <foreign lang=ceb>Pagborda sa duhá ca nauong.</foreign>
 
@@ -33434,7 +33436,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pasillo. = <foreign lang=ceb>Solód n&gtilde;a diótay ug haíctin, ug alaguían sa obán n&gtilde;a m&gtilde;a solód sa m&gtilde;a baláy.</foreign>
 
-<p>Pasion. = <foreign lang=ceb>Pagpasáquit. &ast; Ang santos n&gtilde;a <corr sic="pagpasàquit">pagpasáquit</corr> n&gtilde;a guiaguían sa atong Guinóong Jesucristo. &ast; Cabóloc, pagcaláin sa húna húna. &ast; Paghigógma, pagpalángga n&gtilde;a guilabíhan. &ast; Caíbog, pagpanghináot n&gtilde;a labí sa casarán&gtilde;an sa bisan onsa. &ast; Oáli sa ton&gtilde;ód sa santos n&gtilde;a pagpasáquet sa atong Guinóong Jesucristo, n&gtilde;a ioáli[**oáli] sa jueves n&gtilde;a santos. &ast; Ang bahin sa opát ca Evangelio n&gtilde;a nagaásoy sa pagpasáquit sa atong Guinóong Jesucristo.</foreign>
+<p>Pasion. = <foreign lang=ceb>Pagpasáquit. &ast; Ang santos n&gtilde;a <corr sic="pagpasàquit">pagpasáquit</corr> n&gtilde;a guiaguían sa atong Guinóong Jesucristo. &ast; Cabóloc, pagcaláin sa húna húna. &ast; Paghigógma, pagpalángga n&gtilde;a guilabíhan. &ast; Caíbog, pagpanghináot n&gtilde;a labí sa casarán&gtilde;an sa bisan onsa. &ast; Oáli sa ton&gtilde;ód sa santos n&gtilde;a pagpasáquet sa atong Guinóong Jesucristo, n&gtilde;a ioáli sa jueves n&gtilde;a santos. &ast; Ang bahin sa opát ca Evangelio n&gtilde;a nagaásoy sa pagpasáquit sa atong Guinóong Jesucristo.</foreign>
 
 <pb n=450 id=pb450 facs="f:450"><p>Pasionaría. = <foreign lang=ceb>Tanóm sa color n&gtilde;a asul ug matahóm.</foreign>
 
@@ -33446,7 +33448,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pasito. = <foreign lang=ceb>Sa mahínay hínay, sa pagcahalaoáhao, sa pagcahínay.</foreign>
 
-<p>Pasitrote. = <foreign lang=ceb>Pagcalacát sa ma&gtilde;a[**m&gtilde;a? P2] cabayo, &amp;c., sa pagcaoloólpoc.</foreign>
+<p>Pasitrote. = <foreign lang=ceb>Pagcalacát sa <corr sic="ma&gtilde;a">m&gtilde;a</corr> cabayo, &amp;c., sa pagcaoloólpoc.</foreign>
 
 <p>Pasivamente. = <foreign lang=ceb>Sa pagcasáquet. &ast; Sa pagcapaságad.</foreign>
 
@@ -33474,7 +33476,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pasquinar. = <foreign lang=ceb>Pagdáot sa don&gtilde;og sa isigcatáuo sa m&gtilde;a polong n&gtilde;a guisúlat sa m&gtilde;a pasquin.</foreign>
 
-<p>Pasta. = <foreign lang=ceb>Minása, quinómos n&gtilde;a magáma sa bisan onsa n&gtilde;a dinócdoc. &ast; Minása, quinúmus sa binócboc, sa asúcar, lana, &amp;c., n&gtilde;a icabóhat sa m&gtilde;a ojaldre, sa m&gtilde;a pastel, &amp;c. &ast; Minása sa binócboc ug sa tubig n&gtilde;a igabúhat sa fideos, sa tinápay, &amp;c. &ast; Buláoan, salapí, &amp;c., n&gtilde;a tinúnao ug baol pa. &ast; Minása sa panápton n&gtilde;a dinócdoc, dinógmoc, n&gtilde;a igabúhat sa papel. &ast; Minása sa papel n&gtilde;a dinócdoc n&gtilde;a icabúhat sa m&gtilde;a carton. &ast; Pagcahínay sa pag-*búhat <pb n=451 id=pb451 facs="f:451">ug sa pagpamólong. &ast; Pagcalómo, pagcaáyo sa gaoi, sa cagaoían.</foreign>
+<p>Pasta. = <foreign lang=ceb>Minása, quinómos n&gtilde;a magáma sa bisan onsa n&gtilde;a dinócdoc. &ast; Minása, quinúmus sa binócboc, sa asúcar, lana, &amp;c., n&gtilde;a icabóhat sa m&gtilde;a ojaldre, sa m&gtilde;a pastel, &amp;c. &ast; Minása sa binócboc ug sa tubig n&gtilde;a igabúhat sa fideos, sa tinápay, &amp;c. &ast; Buláoan, salapí, &amp;c., n&gtilde;a tinúnao ug baol pa. &ast; Minása sa panápton n&gtilde;a dinócdoc, dinógmoc, n&gtilde;a igabúhat sa papel. &ast; Minása sa papel n&gtilde;a dinócdoc n&gtilde;a icabúhat sa m&gtilde;a carton. &ast; Pagcahínay sa pagbúhat <pb n=451 id=pb451 facs="f:451">ug sa pagpamólong. &ast; Pagcalómo, pagcaáyo sa gaoi, sa cagaoían.</foreign>
 
 <p>Pastar. = <foreign lang=ceb>Paghátud sa m&gtilde;a mananáp, sa m&gtilde;a hayúpan, arón manin&gtilde;áon. &ast; Pagpanin&gtilde;áon, pagcáon sa m&gtilde;a mananáp, sa m&gtilde;a hayúpan.</foreign>
 
@@ -33496,7 +33498,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pasto. = <foreign lang=ceb>Pagcapanin&gtilde;áon, pagcapanípsip sa m&gtilde;a <corr sic="hayùpan">hayúpan</corr>, sa m&gtilde;a mananáp. &ast; Calánon sa m&gtilde;a mananáp. &ast; Lugar n&gtilde;a calán-an sa m&gtilde;a mananáp. &ast; Calánon n&gtilde;a ihátag sa macaúsa sa m&gtilde;a langgam.</foreign>
 
-<p>Pastoforio. = <foreign lang=ceb>Pinuyánan n&gtilde;a guibúhat sa m&gtilde;a Singbahán, sa m&gtilde;a alampóan sa m&gtilde;a dioatáhan, n&gtilde;a guimpú-yan[**guimpúy-an? P2] sa ilang m&gtilde;a Padre.</foreign>
+<p>Pastoforio. = <foreign lang=ceb>Pinuyánan n&gtilde;a guibúhat sa m&gtilde;a Singbahán, sa m&gtilde;a alampóan sa m&gtilde;a dioatáhan, n&gtilde;a <corr sic="guimpú-yan">guimpúy-an</corr> sa ilang m&gtilde;a Padre.</foreign>
 
 <p>Pastor. = <foreign lang=ceb>Baquero, magbalántay. &ast; Ang moátang, ang magabántay sa m&gtilde;a hayúpan, sa m&gtilde;a mananáp. &ast; Ponóan sa Singbahán, ug ang Padreng saserdote n&gtilde;a may sacop ug catongdánan sa pagbántay caníla.</foreign>
 
@@ -33612,7 +33614,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Patitieso. = <foreign lang=ceb>Bacól sa m&gtilde;a paa, ang díli macaglíhoc sa iang m&gtilde;a paa. &ast; Ang natin&gtilde;ála sa bisan onsa. &ast; Ang parayégon.</foreign>
 
-<p>Patituerto. = <foreign lang=ceb>Táuo con mananáp n&gtilde;a guibalíqgan[**guibalíquigan?] sa iang m&gtilde;a paa. &ast; Bisan onsa n&gtilde;a balíquig, n&gtilde;a díli matúl-id.</foreign>
+<p>Patituerto. = <foreign lang=ceb>Táuo con mananáp n&gtilde;a guibalíqgan sa iang m&gtilde;a paa. &ast; Bisan onsa n&gtilde;a balíquig, n&gtilde;a díli matúl-id.</foreign>
 
 <p>Patizambo. = <foreign lang=ceb>Ang magabiláca sa iang paglacát, bacang, bacáang.</foreign>
 
@@ -33648,7 +33650,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pátrio. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa longsod n&gtilde;a guicatauóhan sa bisan cansa. &ast; Ang nahaton&gtilde;ód ug guican sa amahán.</foreign>
 
-<p>Patriota. = <foreign lang=ceb>Ang mahagógma sa longsor[**longsod], provinsia con Guinharían n&gtilde;a guicatauóhan nia.</foreign>
+<p>Patriota. = <foreign lang=ceb>Ang mahagógma sa longsor, provinsia con Guinharían n&gtilde;a guicatauóhan nia.</foreign>
 
 <p>Patriótico. V. <hi>Pátrio</hi> hasta <hi lang=ceb>cansa</hi>.
 
@@ -33766,7 +33768,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pe á Pa (de). = <foreign lang=ceb><corr sic="Cutúb">Cutub</corr> sa sinógdan hasta sa catapósan.</foreign>
 
-<p>Peaje. = <foreign lang=ceb>Ang salapí n&gtilde;a guibáyad ton&gtilde;ód sa pagágui sa m&gtilde;a manggad ug sa m&gtilde;a mananáp sa bisan diin, con sa bisan onsang yotáa[**yota?].</foreign>
+<p>Peaje. = <foreign lang=ceb>Ang salapí n&gtilde;a guibáyad ton&gtilde;ód sa pagágui sa m&gtilde;a manggad ug sa m&gtilde;a mananáp sa bisan diin, con sa bisan onsang yotáa.</foreign>
 
 <p>Peajero. = <foreign lang=ceb>Ang mudáoat sa salapí n&gtilde;a peaje.</foreign>
 
@@ -33782,7 +33784,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pebrada. = <foreign lang=ceb>Como el siguiente.</foreign>
 
-<p>Pebre. = <foreign lang=ceb>Sabáo, salsa n&gtilde;a magáma sa asafran, pimienta, clabos[**cabos?] ug sa obán n&gtilde;a m&gtilde;a panácot.</foreign>
+<p>Pebre. = <foreign lang=ceb>Sabáo, salsa n&gtilde;a magáma sa asafran, pimienta, <corr sic=clabos>cabos</corr> ug sa obán n&gtilde;a m&gtilde;a panácot.</foreign>
 
 <p>Peca. = <foreign lang=ceb>Talómtom.</foreign>
 
@@ -33848,7 +33850,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pechazo. = <foreign lang=ceb>Dughan n&gtilde;a dagcó. &ast; Táuo sa dagcóng cásing cásing, sa calig-ónan, sa maháoan n&gtilde;a boot.</foreign>
 
-<p>Pechera. = <foreign lang=ceb>Panápton n&gtilde;a itábon sa doghan. &ast; Dayan dayan sa pagcaquinonót conót n&gtilde;a itápot sa m&gtilde;a sinína, sa dapit sa dughan. &ast; Ang bahin sa <corr sic="sinina">sinína</corr> n&gtilde;a dapit sa goa sa dughan sa m&gtilde;a babáye. &ast; Ang panit n&gtilde;a ibútang sa m&gtilde;a dughan sa m&gtilde;a mananáp, n&gtilde;a pagahíctan[**pagahíGtan as in "a place to tie"?] sa m&gtilde;a pisi con m&gtilde;a corea n&gtilde;a icagóyod nila sa bisan onsa.</foreign>
+<p>Pechera. = <foreign lang=ceb>Panápton n&gtilde;a itábon sa doghan. &ast; Dayan dayan sa pagcaquinonót conót n&gtilde;a itápot sa m&gtilde;a sinína, sa dapit sa dughan. &ast; Ang bahin sa <corr sic="sinina">sinína</corr> n&gtilde;a dapit sa goa sa dughan sa m&gtilde;a babáye. &ast; Ang panit n&gtilde;a ibútang sa m&gtilde;a dughan sa m&gtilde;a mananáp, n&gtilde;a pagahíctan sa m&gtilde;a pisi con m&gtilde;a corea n&gtilde;a icagóyod nila sa bisan onsa.</foreign>
 
 <p>Pechería. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a pagbóhis, sa m&gtilde;a amot, m&gtilde;a tampa ug m&gtilde;a tampo. &ast; Padron, listáhan, casayóran sa m&gtilde;a baláiron sa m&gtilde;a táuo n&gtilde;a bomulúhis.</foreign>
 
@@ -33932,7 +33934,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pedregal. = <foreign lang=ceb>Cabatóhan, cabatóan, lugar n&gtilde;a ponó sa m&gtilde;a batóng diótay.</foreign>
 
-<p>Pedregoso. = <foreign lang=ceb>Lugar sa daghánan n&gtilde;a m&gtilde;a bató, cabatóhan, cabatóan. &ast; Táuo n&gtilde;a mobáti sa saquét n&gtilde;a gain&gtilde;álan[**guin&gtilde;álan?] sa bató, cay may bató sa alaguíau sa ihi.</foreign>
+<p>Pedregoso. = <foreign lang=ceb>Lugar sa daghánan n&gtilde;a m&gtilde;a bató, cabatóhan, cabatóan. &ast; Táuo n&gtilde;a mobáti sa saquét n&gtilde;a <corr sic="gain&gtilde;álan">guin&gtilde;álan</corr> sa bató, cay may bató sa alaguíau sa ihi.</foreign>
 
 <p>Pedrejon. = <foreign lang=ceb>Batóng dagcó.</foreign>
 
@@ -34042,7 +34044,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pelairía. = <foreign lang=ceb>Opicio sa pagcapelaire.</foreign>
 
-<p>Pelaje. = <foreign lang=ceb>Calaínan, quinaía sa bohóc, sa balahíbo. &ast; Pagcabútang sa bisan onsa, ng[**typo, ug, n&gtilde;a?][**ang ?] labí pa sa m&gtilde;a bisti.</foreign>
+<p>Pelaje. = <foreign lang=ceb>Calaínan, quinaía sa bohóc, sa balahíbo. &ast; Pagcabútang sa bisan onsa, <corr sic=ng>ug</corr> labí pa sa m&gtilde;a bisti.</foreign>
 
 <p>Pelambre. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a panit. &ast; Man&gtilde;a anit n&gtilde;a pagacoháan sa balahíbo. &ast; Cadaghánan sa bohóc ug sa balahíbo, ug labí pa ang naíbot. &ast; Ang sacót sa apog ug túbig n&gtilde;a igacurti sa m&gtilde;a anit. &ast; Pagcaoalá sa bohóc con sa balahíbo sa m&gtilde;a bahin sa laoas n&gtilde;a bohócan ug balahibóon unta.</foreign>
 
@@ -34076,7 +34078,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pelear. = <foreign lang=ceb>Gobat, aoay, damag, dosmog. &ast; Pagbátoc. &ast; Paglális, pagsócol sa m&gtilde;a cailíbgon n&gtilde;a daótan. &ast; Pagcógui, pagpatigáyon sa masingcámot, sa minatúod, sa pagdán&gtilde;at sa bisan onsa.</foreign>
 
-<p>Pelechar. = <foreign lang=ceb>Pagtoróc sa bohóc, sa balahíbo[**baiahíbo?], cay nalógdot ang nahaóna. &ast; Pagsógod sa maáyong don&gtilde;og.</foreign>
+<p>Pelechar. = <foreign lang=ceb>Pagtoróc sa bohóc, sa balahíbo, cay nalógdot ang nahaóna. &ast; Pagsógod sa maáyong don&gtilde;og.</foreign>
 
 <p>Pelele. = <foreign lang=ceb>Táuo táuo n&gtilde;a magáma sa doláan sa m&gtilde;a táuo. &ast; Táuo n&gtilde;a holohón&gtilde;og, n&gtilde;a oaláy polós.</foreign>
 
@@ -34118,7 +34120,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pelilargo. = <foreign lang=ceb>Ang may balahíbo con bohóc n&gtilde;a hatáas.</foreign>
 
-<p>Pelilloso. = <foreign lang=ceb>Táuo n&gtilde;a cuti cutíhan, n&gtilde;a madalí sasaquétan[**saquétan?].</foreign>
+<p>Pelilloso. = <foreign lang=ceb>Táuo n&gtilde;a cuti cutíhan, n&gtilde;a madalí sasaquétan.</foreign>
 
 <p>Pelinegro. = <foreign lang=ceb>Ang may balahíbo con bohóc n&gtilde;a maítom.</foreign>
 
@@ -34154,7 +34156,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pelote. = <foreign lang=ceb>Balahíbo sa m&gtilde;a canding.</foreign>
 
-<p>Pelotear. = <foreign lang=ceb>Pagágui, pagsúmay sa m&gtilde;a cuenta ug pagtándig sa m&gtilde;a isip sa ilang caugalín&gtilde;on ug hingtúngdan n&gtilde;a camatuódan. &ast; Pagdúla sa pelota. &ast; Pagtúbag tubag, paglális lalis, pagíndig [**pag-indig?] indig. <pb n=462 id=pb462 facs="f:462">&ast; Pagbalíbag sa bisan onsa, sa pagcabálic balic, sa pagcaósob <corr sic="ósob">osob</corr>. &ast; Pagcaáoay.</foreign>
+<p>Pelotear. = <foreign lang=ceb>Pagágui, pagsúmay sa m&gtilde;a cuenta ug pagtándig sa m&gtilde;a isip sa ilang caugalín&gtilde;on ug hingtúngdan n&gtilde;a camatuódan. &ast; Pagdúla sa pelota. &ast; Pagtúbag tubag, paglális lalis, pagíndig indig. <pb n=462 id=pb462 facs="f:462">&ast; Pagbalíbag sa bisan onsa, sa pagcabálic balic, sa pagcaósob <corr sic="ósob">osob</corr>. &ast; Pagcaáoay.</foreign>
 
 <p>Pelotera. = <foreign lang=ceb>Pagcaáoay, pagcalális lalis, ug labí pa sa m&gtilde;a babáye.</foreign>
 
@@ -34164,7 +34166,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pelotica. = <foreign lang=ceb>Malín&gtilde;in sa talo n&gtilde;a tinolpócan ug linansán&gtilde;an sa m&gtilde;a tipic sa lamín, n&gtilde;a guicahámpac ug guicasáquet, niádtong tiempo, sa laoas, n&gtilde;a guibútang sa tomóy sa m&gtilde;a saplina, sa m&gtilde;a ihalámpac.</foreign>
 
-<p>Peloton. = <foreign lang=ceb>Cadaghánan sa bohóc con sa balahíbo n&gtilde;a nangdocót[**nanagdocót?], nanagpílit, nanagtápot, nanápot. &ast; Tapoc sa m&gtilde;a táuo n&gtilde;a nanagbóloc ug nan&gtilde;óbot.</foreign>
+<p>Peloton. = <foreign lang=ceb>Cadaghánan sa bohóc con sa balahíbo n&gtilde;a <sic corr="nanagdocót">nangdocót</sic>, nanagpílit, nanagtápot, nanápot. &ast; Tapoc sa m&gtilde;a táuo n&gtilde;a nanagbóloc ug nan&gtilde;óbot.</foreign>
 
 <p>Peltre. = <foreign lang=ceb>Tombága n&gtilde;a magáma sa tingga ug sa estaño.</foreign>
 
@@ -34176,7 +34178,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Peluquera. = <foreign lang=ceb>Asáoa sa peluquero.</foreign>
 
-<p>Peluquería. = <foreign lang=ceb>Baláy n&gtilde;a pagabuhátan ug pagabaligyáan sa m&gtilde;a bohócan, sa man&gtilde;a [**m&gtilde;a?] tagbong.</foreign>
+<p>Peluquería. = <foreign lang=ceb>Baláy n&gtilde;a pagabuhátan ug pagabaligyáan sa m&gtilde;a bohócan, sa man&gtilde;a tagbong.</foreign>
 
 <p>Peluquero. = <foreign lang=ceb>Ang may opicio sa pagsórlay sa m&gtilde;a táuo, ug sa pagbúhat ug pagbalígya sa m&gtilde;a bohócan, sa m&gtilde;a tagbong, sa m&gtilde;a tagalábong.</foreign>
 
@@ -34272,7 +34274,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pendingue (tomar el). = <foreign lang=ceb>Pagoalá, pagpaháoa, paglacát.</foreign>
 
-<p>Péndol. = <foreign lang=ceb>Buhat n&gtilde;a guibúhat sa m&gtilde;a grumete[**gromete?], sa pagnósnos sa m&gtilde;a bahin sa m&gtilde;a sacayán n&gtilde;a anáa sa ilálom sa tubig, sa pagbótang sa m&gtilde;a mabóg-at sa luyo arón mataquílid.</foreign>
+<p>Péndol. = <foreign lang=ceb>Buhat n&gtilde;a guibúhat sa m&gtilde;a grumete, sa pagnósnos sa m&gtilde;a bahin sa m&gtilde;a sacayán n&gtilde;a anáa sa ilálom sa tubig, sa pagbótang sa m&gtilde;a mabóg-at sa luyo arón mataquílid.</foreign>
 
 <p>Péndola. = <foreign lang=ceb>Capandáyan n&gtilde;a magáma sa usá ca puthao, caoat, &amp;c., n&gtilde;a guitaólan sa tomóy n&gtilde;a dapit sa obus sa bisan onsang mabóg-at, arón magapalacát sa horasan sa iang m&gtilde;a pagtábiog tabiog.</foreign>
 
@@ -34310,7 +34312,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Penisla. V. <hi>Península</hi>.
 
-<p>Penitencia. = <foreign lang=ceb>Sacramento n&gtilde;a, ton&gtilde;ód sa pagdalán&gtilde;uin sa Padre n&gtilde;a may gahóm, sa m&gtilde;a táuo n&gtilde;a managcompisal, in&gtilde;on sa an&gtilde;ay, macaoalá sa m&gtilde;a saláng tanán. &ast; Casáquet paghinólsol, pagbásol, n&gtilde;a guican <corr sic="ca">sa</corr> grasia ug santos n&gtilde;a pagtábang sa Dios, sa m&gtilde;a salá n&gtilde;a <corr sic="guibúbat">guibúhat</corr> sa tagsa ca táuo, ug n&gtilde;a quinahánglan n&gtilde;a pagaobánan sa matúod n&gtilde;a pagsáad n&gtilde;a díli na maósob sa pagpacasalá. &ast; Pagcasáquet sa laoas, sa pagbáyad sa atobán&gtilde;an sa Dios sa <corr sic=mga>m&gtilde;a</corr> otang sa m&gtilde;a salá. &ast; Bisan onsang casáquet sa laoas. &ast; Ang penitensia n&gtilde;a guibótang, guihátag sa Padre n&gtilde;a guicompisálan sa táuo n&gtilde;a nagatóg-an sa iang <corr sic=mga>m&gtilde;a</corr> salá. &ast; Casáquet, paghinólsol ton&gtilde;ód sa bisan onsang cadaótan n&gtilde;a guibúhat. &ast; Ang castigo n&gtilde;a guibótang sa cadaigánan, sa hocmánan sa Inquisision, sa m&gtilde;a saláan contra sa Pagtúo sa man&gtilde;a cristianos. [**Cristianos?]</foreign>
+<p>Penitencia. = <foreign lang=ceb>Sacramento n&gtilde;a, ton&gtilde;ód sa pagdalán&gtilde;uin sa Padre n&gtilde;a may gahóm, sa m&gtilde;a táuo n&gtilde;a managcompisal, in&gtilde;on sa an&gtilde;ay, macaoalá sa m&gtilde;a saláng tanán. &ast; Casáquet paghinólsol, pagbásol, n&gtilde;a guican <corr sic="ca">sa</corr> grasia ug santos n&gtilde;a pagtábang sa Dios, sa m&gtilde;a salá n&gtilde;a <corr sic="guibúbat">guibúhat</corr> sa tagsa ca táuo, ug n&gtilde;a quinahánglan n&gtilde;a pagaobánan sa matúod n&gtilde;a pagsáad n&gtilde;a díli na maósob sa pagpacasalá. &ast; Pagcasáquet sa laoas, sa pagbáyad sa atobán&gtilde;an sa Dios sa <corr sic=mga>m&gtilde;a</corr> otang sa m&gtilde;a salá. &ast; Bisan onsang casáquet sa laoas. &ast; Ang penitensia n&gtilde;a guibótang, guihátag sa Padre n&gtilde;a guicompisálan sa táuo n&gtilde;a nagatóg-an sa iang <corr sic=mga>m&gtilde;a</corr> salá. &ast; Casáquet, paghinólsol ton&gtilde;ód sa bisan onsang cadaótan n&gtilde;a guibúhat. &ast; Ang castigo n&gtilde;a guibótang sa cadaigánan, sa hocmánan sa Inquisision, sa m&gtilde;a saláan contra sa Pagtúo sa man&gtilde;a cristianos.</foreign>
 
 <p>Penitenciado. = <foreign lang=ceb>Ang guicastigo.</foreign>
 
@@ -34336,7 +34338,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pensamiento. = <foreign lang=ceb>Húna húna. &ast; Pagcadalí, pagcalágmit, pagcalágsic. &ast; Catáhap, catághap.</foreign>
 
-<p>Pensar. = <foreign lang=ceb>Paghúna húna, pagpalándong, Pagpamátn&gtilde;on.[**small p? P2] &ast; Pagtúyo sa pagbóhat sa bisan onsa. &ast; Pagpacáon sa m&gtilde;a mananáp.</foreign>
+<p>Pensar. = <foreign lang=ceb>Paghúna húna, pagpalándong, <corr sic="Pagpamátn&gtilde;on">pagpamátn&gtilde;on</corr>. &ast; Pagtúyo sa pagbóhat sa bisan onsa. &ast; Pagpacáon sa m&gtilde;a mananáp.</foreign>
 
 <p>Pensativo. = <foreign lang=ceb>Ang magahúna húna, ang magapalándong, ang magapamátn&gtilde;on. &ast; Ang guicabórcan sa boot ton&gtilde;ód sa bisan onsa n&gtilde;a guidón&gtilde;og, guitán-ao con miábot canía.</foreign>
 
@@ -34346,7 +34348,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pensil. = <foreign lang=ceb>Ang nabítay. &ast; Tanáman sa m&gtilde;a bulac n&gtilde;a maníndot.</foreign>
 
-<p>Pension. = <foreign lang=ceb>Sohol n&gtilde;a guibáyad sa hari sa m&gtilde;a táuo n&gtilde;a nanagsílbi canía. &ast; Gahóm sa pagdáoat sa bisan onsang sohol, con sa m&gtilde;a bon&gtilde;a sa m&gtilde;a baol, ton&gtilde;ód sa bisan onsang opicio. &ast; calisód,[**capitalized? P2] cabórlay. &ast; Cacógui sa bisan onsa.</foreign>
+<p>Pension. = <foreign lang=ceb>Sohol n&gtilde;a guibáyad sa hari sa m&gtilde;a táuo n&gtilde;a nanagsílbi canía. &ast; Gahóm sa pagdáoat sa bisan onsang sohol, con sa m&gtilde;a bon&gtilde;a sa m&gtilde;a baol, ton&gtilde;ód sa bisan onsang opicio. &ast; <corr sic="calisód">Calisód</corr>, cabórlay. &ast; Cacógui sa bisan onsa.</foreign>
 
 <p>Pensionado. = <foreign lang=ceb>Ang guitogótan sa bisan onsang sohol.</foreign>
 
@@ -34374,7 +34376,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Peñascoso. = <foreign lang=ceb>Capangpán&gtilde;an.</foreign>
 
-<p>Peñol. V. <hi>Et[**or El] siguiente</hi>.
+<p>Peñol. V. <hi>El siguiente</hi>.
 
 <p>Peñon. = <foreign lang=ceb>Pangpang n&gtilde;a dagcó ug hatáas uyámot, buquid sa lonlon n&gtilde;a m&gtilde;a bató.</foreign>
 
@@ -34418,7 +34420,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Pequin. = <foreign lang=ceb><corr sic="Panàpton">Panápton</corr> sa igagáma sa Guinharían sa m&gtilde;a insic.</foreign>
 
-<p>Pera. = <foreign lang=ceb>Bon&gtilde;a sa España, n&gtilde;a malalím <corr sic="caàyo">caáyo</corr>. &ast; Ang bon&gtilde;ot n&gtilde;a guipatóbo sa tomóy sa sulang con sa maong sulang. &ast; Opicio n&gtilde;a macapolós caáyo ug díli macacabórlay[**macabórlay?], díli macasámoc.</foreign>
+<p>Pera. = <foreign lang=ceb>Bon&gtilde;a sa España, n&gtilde;a malalím <corr sic="caàyo">caáyo</corr>. &ast; Ang bon&gtilde;ot n&gtilde;a guipatóbo sa tomóy sa sulang con sa maong sulang. &ast; Opicio n&gtilde;a macapolós caáyo ug díli <sic corr="macabórlay">macacabórlay</sic>, díli macasámoc.</foreign>
 
 <p>Perada. = <foreign lang=ceb>Matám-is sa pera n&gtilde;a quinílquig, quinódcor.</foreign>
 
@@ -35594,7 +35596,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Piojo. = <foreign lang=ceb>Coto.</foreign>
 
-<p>Piojoso. = <foreign lang=ceb>Cot-on, ang may daghánan n&gtilde;a m&gtilde;a coto. *Hicáoan, daguinótan.</foreign>
+<p>Piojoso. = <foreign lang=ceb>Cot-on, ang may daghánan n&gtilde;a m&gtilde;a coto. &ast; Hicáoan, daguinótan.</foreign>
 
 <p>Piojuelo. = <foreign lang=ceb>Mananáp n&gtilde;a diótay ug maítom, n&gtilde;a managdáot sa m&gtilde;a tanóm.</foreign>
 
@@ -36180,7 +36182,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Poderoso. = <foreign lang=ceb>Ang may gahóm, ang may cosóg. &ast; Salapían, salapiánon, aronáhan, bahandiánon. &ast; Ang nagabáton sa bisan onsa sa ilálom sa iang gahóm.</foreign>
 
-<p>Podio. = <foreign lang=ceb>Lingcoránan n&gtilde;a hatáas n&gtilde;a guitindúgan sa nbán[**?][**P3 ubán] n&gtilde;a m&gtilde;a columna.</foreign>
+<p>Podio. = <foreign lang=ceb>Lingcoránan n&gtilde;a hatáas n&gtilde;a guitindúgan sa <corr sic="nbán">ubán</corr> n&gtilde;a m&gtilde;a columna.</foreign>
 
 <p>Podon. V. <hi>Podadera</hi>.
 
@@ -37062,7 +37064,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Predicamento. = <foreign lang=ceb>Pagcadagcó con pagcadiótay sa don&gtilde;og, sa maáyong n&gtilde;alan sa bisan cansa, n&gtilde;a macaígo sa iang m&gtilde;a pahanóngdan.</foreign>
 
-<p>Predicante. = <foreign lang=ceb>Padreng palaoáli, n&gtilde;a magaoaáli[**magaoáli?] sa m&gtilde;a pagtolón-an sa m&gtilde;a herejes.</foreign>
+<p>Predicante. = <foreign lang=ceb>Padreng palaoáli, n&gtilde;a <corr sic="magaoaáli">magaoáli</corr> sa m&gtilde;a pagtolón-an sa m&gtilde;a herejes.</foreign>
 
 <p>Predicar. = <foreign lang=ceb>Pagoáli, pagbántog sa m&gtilde;a pahanóngdan sa bisan cansa. &ast; Pagdáyeg.</foreign>
 
@@ -37148,7 +37150,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Prelacion. = <foreign lang=ceb>Pagcaóna sa usá ca butang sa lain n&gtilde;a butang.</foreign>
 
-<p>Prelada. = <foreign lang=ceb>Babáyeng ponóan sa m&gtilde;a binocót[**binócot?], sa m&gtilde;a monja.</foreign>
+<p>Prelada. = <foreign lang=ceb>Babáyeng ponóan sa m&gtilde;a <corr sic="binocót">binócot</corr>, sa m&gtilde;a monja.</foreign>
 
 <p>Prelado. = <foreign lang=ceb>Ponóan sa Singbahán, Obispo, Arzobispo, &amp;c. &ast; Ponóan sa m&gtilde;a caparían.</foreign>
 
@@ -43449,7 +43451,7 @@ http://www.worldcat.org/title/diccionario-bisaya-espanol-diccionario-espanol-bis
 
 <p>Rueca. = <foreign lang=ceb>Galín&gtilde;an. &ast; <corr sic="Pancatúyoc">Pagcatúyoc</corr>, pagcalúbag sa bisan onsa.</foreign>
 
-<p>Rueda. = <foreign lang=ceb>Malín&gtilde;uin. &ast; Isda.</foreign>
+<p>Rueda. = <foreign lang=ceb><corr sic="Malín&gtilde;uin">Malín&gtilde;in</corr>. &ast; Isda.</foreign>
 
 <p>Ruedo. = <foreign lang=ceb>Pagcalíguid, pagcatúyoc, pagcalíso. &ast; Ang magalibót sa bisan onsa. &ast; V. <hi>Orla</hi>. &ast; Baníg n&gtilde;a malín&gtilde;in ug diótay. &ast; Pagcalín&gtilde;in sa bisan onsa.</foreign>
 
