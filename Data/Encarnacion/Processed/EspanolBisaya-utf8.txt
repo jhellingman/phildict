@@ -1818,7 +1818,7 @@ Animarse. = Bisog bisog, paglógos logos.
 
 Ánimo. = Calág, huna huna. * Isod, oaláy cahádloc ug catálao, caísog.
 
-Animosidad. = Pagcaualáy catáhap, cahádloc ug catálao. * Caísog,
+Animosidad. = Pagcaoaláy catáhap, cahádloc ug catálao. * Caísog,
 caísod.
 
 Animoso. = Idem.
@@ -2697,7 +2697,7 @@ Arrojar. = Salibáy, balíbag, togpo. * Algo ó arrojarse alguno de arriba
 á abajo. = Ambac, layat. * Á alguno ó á cosa pesada de golpe. = Pogsac,
 posdac. * Hácia arriba. = Salibóngbong.
 
-Arrojo. = Pagcaoálay cahádloc, pagcaísog.
+Arrojo. = Pagcaoaláy cahádloc, pagcaísog.
 
 Arrollar. = Liquit, locot, balímbin. * El viento. = Anod, dagsa.
 
@@ -3712,7 +3712,7 @@ Baja. = Pagóbos sa bíli sa mg̃a balígya, sahol.
 Bajamar. = Honás, honásan. * De la mañana. = Talinága. * De la tarde. =
 Taginhápon.
 
-Bajamente. = sa dagcong pagpaóbos, sa pagcang̃il-ad, sa pagcalágsot.
+Bajamente. = sa dagcong pagpaóbos, sa pagcang̃íl-ad, sa pagcalágsot.
 
 Bajar. = Naog, canáog, consad. * La cabeza. = Yang̃o, docó, tangdo. *
 Del monte. = Togbong, dolhog. * Alguna cosa, boyar rio abajo. = Ilig.
@@ -3725,7 +3725,7 @@ Bajelero. = Tagía con arraez sa bísan ónsa ng̃a sacayán ng̃a dagcó.
 Bajeza. = Buhat ng̃a daótan, malágsot, magíl-ad, bodhíon, pagcabódhi.
 
 Bajo, lo que tiene poca altura. = Hamóbo. * De arena ó piedra. =
-Hunàsan, tacot, hamábao, pongtod, pasil.
+Hunásan, tacot, hamábao, pongtod, pasil.
 
 Bala. = Ponglo, bala.
 
@@ -3741,7 +3741,7 @@ Balanza. = Timbáng̃an. * Ang tágsa ca pínggan sa mg̃a timbáng̃an.
 
 Balar. = Tilí, honi, halá halá.
 
-Balaustre. = Cahoy ng̃a hamóbo ug linálic, ng̃a idàyan dáyan sa mg̃a
+Balaustre. = Cahoy ng̃a hamóbo ug linálic, ng̃a idáyan dáyan sa mg̃a
 balcon, sa mg̃a corredor ug sa mang̃a hagdanán.
 
 Balazo. = Pagcaigo sa bala ng̃a guican sa posil con sa lothang.
@@ -3831,7 +3831,7 @@ Bando. = Pagmantalá, pagbaláod.
 Bandolero. = Caoatán, tulisán, magsosógat sa mang̃a cadalánan sa mang̃a
 táuo ng̃a nanagágui sa pagpang̃áoat ug pagpatáy caníla.
 
-Bandullo. = Ang cadághanan sa mg̃a tináe, tong̃ol.
+Bandullo. = Ang cadaghánan sa mg̃a tináe, tong̃ol.
 
 Bandurria. = Tolónggon maíng̃on íng̃on sa sesta, sa guitara, ng̃a
 pagcablíton, sa usá ca pluma.
@@ -4415,7 +4415,7 @@ pagábot sa atong ila.
 Bigamia. = Ang pagcamíño sa bálo, ang icadóhang pagcamíño sa bisan
 quinsang táuo.
 
-Bígamo. = Ang guicasál, ang namiño sa nacadohà.
+Bígamo. = Ang guicasál, ang namiño sa nacadohá.
 
 Bigardo. = Ang tigsódoy sódoy lamang sa díli macógi sa pagbóhat, ang
 malibod líbod.
@@ -4429,7 +4429,7 @@ guing̃alán ug billar.
 
 Billon. = Usá ca libo ng̃a calibóhan.
 
-Bimestre. = Ang cadogáyan, ang pagcadógay sa dohà ca bolan, sa dohà, sa
+Bimestre. = Ang cadogáyan, ang pagcadógay sa dohá ca bolan, sa dohá, sa
 tagódha, sa tinagódha ca bólan.
 
 Biografía. = Casayódan sa quinabóhi sa mg̃a táuo.
@@ -4439,7 +4439,7 @@ ng̃a icabálhin bálhin bínsan díin, ug masáyon hipóson ug pilóon.
 
 Bípede. = Ang may duhá lang ca tíil.
 
-Birloche. = Coche sa dorohà con sa ópat ba ca rueda ug may dohá ca
+Birloche. = Coche sa dorohá con sa ópat ba ca rueda ug may dohá ca
 lingcodánan.
 
 Birola. V. Argolla.
@@ -4748,7 +4748,7 @@ Borboton. = Como el anterior. * Pagpamólong sa madalí caáyo.
 
 Borceguí. = Sapín ng̃a moábot cótob sa bagtac.
 
-Borda. = Ang sandígan sa ibàbao sa sàlog, sa cubierta, sa mg̃a sacayán.
+Borda. = Ang sandígan sa ibábao sa salog, sa cubierta, sa mg̃a sacayán.
 
 Bordada. = Ang paglacát, ang guitolínan sa mg̃a sacayán sa tágsa ca
 pagbíra bira con pagbálic bálic.
@@ -4976,7 +4976,7 @@ ibótang sa bába ug sa olo sa mg̃a cabayo, sa pagpogóng caníla sa
 magacabayo. * Ang bagong tinón-an sa bísan ónsang opicio. * Ang táuo
 ng̃a boang boang, borong, cabos ng̃a oaláy ug quinaádman.
 
-Bozo. = Ang balahíbo ng̃a bolàgao ng̃a motoróc sa mg̃a laláqui sa ibábao
+Bozo. = Ang balahíbo ng̃a bolágao ng̃a motoróc sa mg̃a laláqui sa ibábao
 sa ng̃abil sa itáas, sa oalá pa tomodóc ang bong̃ot. * Pisi ng̃a icabáat
 sa bába sa mg̃a mananáp sa paggóyor caníla.
 
@@ -5132,7 +5132,7 @@ Bribonar. = Pagtápol, pagtampálas.
 
 Bribonería. V. Bribonada.
 
-Bricho. = Dahon ng̃a haíctin ug manípis caáyo sa bolàoan, sa pagbólda.
+Bricho. = Dahon ng̃a haíctin ug manípis caáyo sa boláoan, sa pagbólda.
 
 Brida. = Mang̃a pisi con mg̃a panit ng̃a guihócot sa bozal con sa preno sa
 mg̃a cabayo, ug ng̃a pagacóptan sa nagacabayo, sa pagpogóng ug paghópot
@@ -5192,7 +5192,7 @@ campílang, &c.
 Bróculi. = Otan ng̃a maíng̃on íng̃on sa coles.
 
 Brocha. = Ponpon sa mg̃a balahíbo sa caballo con sa baboy, ng̃a bináat sa
-tomóy sa usà ca cáhoy ng̃a hamóbo, ng̃a guinámit sa mg̃a pintol, sa mang̃a
+tomóy sa usá ca cáhoy ng̃a hamóbo, ng̃a guinámit sa mg̃a pintol, sa mang̃a
 táuo ng̃a nanagpíntal. * Pincel.
 
 Brochada. = Tagsa sa paghílog sa brocha.
@@ -5443,7 +5443,7 @@ tigpang̃íta caáyo sa mg̃a quinahánglan sa pagcabóhi. * Tabían.
 
 Buscon. V. Buscador. * Ang mang̃ang̃áhas, ang magaticás.
 
-Busilis. = Caculían, ang himotàng̃an sa caculían, bísan ónsa ng̃a macóli.
+Busilis. = Caculían, ang himotáng̃an sa caculían, bísan ónsa ng̃a macóli.
 
 Busto. = Ladáoan sa táuo cutub sa háoac sa oaláy bocton, maíng̃on sa
 guibótang sa salapí.
@@ -5552,7 +5552,7 @@ ug rosa, sa poyós pa.
 
 Cabida. = Ng̃atanán ng̃a árang botáng̃an sa bísan ónsa ng̃a bótang.
 
-Cabildo. = Catilíngban sa mg̃a Padre ng̃a may ting̃og ug mahilàbot sa mg̃a
+Cabildo. = Catilíngban sa mg̃a Padre ng̃a may ting̃og ug mahilábot sa mg̃a
 pagsolosámbag sa mg̃a Singbahán ng̃a catedral. * Catilíngban sa mg̃a
 dagcong táuo sa longsod.
 
@@ -5560,10 +5560,10 @@ Cabimiento. V. Cabida.
 
 Cabizbajo. = Ang nagadong̃ó, nagadocó, nagayang̃ó, dong̃óy, sacmoló.
 
-Cable. = Pisi ng̃a dagcóan ug mabagá, ng̃a icaláoig sa mg̃a sacayàn,
+Cable. = Pisi ng̃a dagcóan ug mabagá, ng̃a icaláoig sa mg̃a sacayán,
 dandan, buli búli, talícol.
 
-Cabo, extremo, punta. = Tomóy, catadmàn. * Fin, término. = Catapúsan,
+Cabo, extremo, punta. = Tomóy, catadmán. * Fin, término. = Catapúsan,
 casangpútan. * Punta de tierra. = Catarmán, dauis, lauis. * Punta de
 tabaco, candela, &c. = Opús. * Puño de toda arma. = Polóan. * Astil de
 azuela, azadon, &c. = Patoc, polóan. * Palo de lanza, de fisga, &c. =
@@ -5597,7 +5597,7 @@ Cabrita. = Nati, anac sa canding.
 
 Cabritero. = Ang nagabalígya sa mg̃a anac ng̃a diótay sa canding.
 
-Cabrito. = Anac ng̃a làqui ug diótay sa canding.
+Cabrito. = Anac ng̃a laqui ug diótay sa canding.
 
 Cabron. = Canding ng̃a láqui, láqui sa mg̃a canding, lambáyan. * Táuo ng̃a
 magapaságad sa íang asáoa ng̃a somápao sa ílang pagtiáyon, ng̃a macasala
@@ -6213,7 +6213,7 @@ con oalá ba.
 
 Campeon. = Táuo ng̃a nagabóhat sa mg̃a bóhat ng̃a cating̃aláhan, dalayégon
 ug hibólng̃an sa pagpang̃óbat, maíng̃on sa guibóhat ni anhing Padre
-Pascual Ibañez ni Sta. Filomena sa pagpang̃óbat sa Sólog, ug ang ubàn
+Pascual Ibañez ni Sta. Filomena sa pagpang̃óbat sa Sólog, ug ang ubán
 pang mg̃a soldados.
 
 Campero. = Bisan ónsa ng̃a anáa sa dáyag, sa díli magsalípod, sa oaláy
@@ -6500,7 +6500,7 @@ Cañada. = Sapa, oálog, yota ng̃a calang sa talioála sa dohá ca boquid.
 
 Cañafístola. = Canyapístola, baláyon, capichola.
 
-Cañal. = Alad, lúgar ng̃a guilibótan sa caoàyan con sa bagácay, bongsod.
+Cañal. = Alad, lúgar ng̃a guilibótan sa caoáyan con sa bagácay, bongsod.
 
 Cáñama. = Tampo.
 
@@ -7441,7 +7441,7 @@ Celo. = Pagbántay sa masingcámot caáyo, pagbántay sa dong̃og ug sa
 paghimáya sa Dios. * Pagabobhó, pagaboghó.
 
 Celoso. = Maaboghóon, ang magaboghó, aboghóan. * Ang nagabántay ug
-maáyo. * Sacáyan ng̃a maquílas, ng̃a magataquilíd, malíngga lingga.
+maáyo. * Sacayán ng̃a maquílas, ng̃a magataquilíd, malíngga lingga.
 
 Celosía. = Linála sa mg̃a papán ng̃a manípis ug haíctin ng̃a pagacúrus
 curúson, ng̃a guibínlan sa mang̃a bohó ng̃a diótay, sa pagsólong con
@@ -8201,7 +8201,7 @@ Colgadizo. = Atop atop, balong balong.
 
 Colgador. = Papán ng̃a manípis ng̃a may togdánan ng̃a hatáas, sa pagbítay
 sa mg̃a pisi ng̃a sablayán sa mg̃a papel ng̃a guican sa imprenta, hinólma
-na, aron mamalá.
+na, arón mamalá.
 
 Colgadura. = Tabil, bitay bitay.
 
@@ -9056,7 +9056,7 @@ Conquistar. = Pagpang̃óbat, pagángcon. * Pagcóha sa maáyong boot sa
 
 Consagrar. = Pagdaláng̃in. * Pagsángpot ug pagpamólong sa Padre ng̃a
 nagamisa sa mg̃a polong ng̃a guipamólong ni Jesucristo sa catapúsan ng̃a
-pagpanihápon nía obán sa iang mang̃a guintón-an, aròn magáma ug mahímo
+pagpanihápon nía obán sa iang mang̃a guintón-an, arón magáma ug mahímo
 ang bilídhon ug mahál ng̃a laoas ug dogó sa maong Dios, sa tinápay ug sa
 vino. * Pagtíndog sa ladaoan, columna, &c., arón mahabílin hasta sa
 cadogáyan sa panomdóman sa mang̃a táuo ng̃á nanagbóhat sa mg̃a bohat ng̃a
@@ -9189,7 +9189,7 @@ Constipado. = Idem, sip-ónon, guisíp-on.
 
 Constipar. = Sip-on.
 
-Constitucion. = Pagcamào. * Dagoay, quinaía ng̃a caogalíng̃on sa bisan
+Constitucion. = Pagcamáo. * Dagoay, quinaía ng̃a caogalíng̃on sa bisan
 onsa. * Batásan.
 
 Constituir. = Gama, himo, bóhat, tocod.
@@ -9202,16 +9202,16 @@ Constreñir. = Logos, pogos, pigós, hogot. * Songsong.
 Constructor. = Ang magagáma ug magabóhat sa bisan onsa.
 
 Construir. = Bohat, gama, himo, tocod. * Paghóad, pagmáymay, paglóas sa
-usà ca pinamólong sa lain ng̃a pinamólong, hobar.
+usá ca pinamólong sa lain ng̃a pinamólong, hobar.
 
-Construpador. = Ang macasalá sa usà ca dalága, sa linogsánay, sa
+Construpador. = Ang macasalá sa usá ca dalága, sa linogsánay, sa
 paglógos canía.
 
-Construpar. = Paglógos sa usà ca dalága sa pagpacasalá canía, pagcasalá
-sa usà ca dalága sa linogsánay.
+Construpar. = Paglógos sa usá ca dalága sa pagpacasalá canía, pagcasalá
+sa usá ca dalága sa linogsánay.
 
 Consuegro. = Ng̃alan ng̃a guicahing̃álan sa amahán ug inahán sa bana, ug
-sa amahán ug inahán osab sa asáoa, sa mg̃a tigólang sa usà ca magtiáyon.
+sa amahán ug inahán osab sa asáoa, sa mg̃a tigólang sa usá ca magtiáyon.
 
 Consuelo. = Calípay.
 
@@ -9250,13 +9250,13 @@ matibáoas.
 
 Consuncion. V. Consumir desde pagcaláoat. * Pagcaníoang.
 
-Consuno (de). = Sa pagcahiósa, bisan onsa ng̃a pagabohàton sa maáyong
+Consuno (de). = Sa pagcahiósa, bisan onsa ng̃a pagaboháton sa maáyong
 pagsábot sa pila ca táuo.
 
 Consustancial. = Pagcamáo ng̃a magsáma ug topóng sa totoló ca Personas
 sa Santísima Trinidad.
 
-Consustancialidad. = Paghiósa, pagcámao ng̃a diósnon sa totoló ca
+Consustancialidad. = Paghiósa, pagcamáo ng̃a diósnon sa totoló ca
 Personas sa Santísima Trinidad.
 
 Contacto. = Pagcadápat, pagcasígpit, pagcadóol sa mg̃a botang.
@@ -9979,7 +9979,7 @@ Costumbre. = Gaoi, batásan. * Ang batásan sa bulan bulan ng̃atánan sa
 mg̃a babáye, saquít sa pagcababáye.
 
 Costura. = Tinahí, tinahían, talahíon. * Lotac sa mg̃a papán sa mg̃a
-salog, ug sa mg̃a sacáyan, pagcang̃áng̃a sa mang̃a papán ng̃a dili
+salog, ug sa mg̃a sacayán, pagcang̃áng̃a sa mang̃a papán ng̃a dili
 managdápat ug maáyo.
 
 Costurera. = Babáye ng̃a mananáhi.
@@ -10543,7 +10543,7 @@ Cultivar. = Pagbóhat sa yota, pagdáro, pagcále, pagbónglay, &c.
 
 Cultivo. V. Cultivar.
 
-Culto. = Pagsíngba, pagtáhod. * Táuo ng̃a quinaadmànon, mang̃ialáman,
+Culto. = Pagsíngba, pagtáhod. * Táuo ng̃a quinaadmánon, mang̃ialáman,
 batid.
 
 Cultura. V. Cultivar. * Pagpamólong, pagsólte sa maáyo, sa oaláy
@@ -10607,7 +10607,7 @@ Curador. = Ang nagabántay sa bisan onsa. * Magbalántay, ang magaalíma
 sa mg̃a báta ng̃a ilo ug sa ilang mg̃a dona.
 
 Curar. = Pagtámbal, pagáyo. * Paghátag, pagbótang sa mg̃a tambal sa mg̃a
-masaquét. * Pagasín sa onód, sa carne con sa isda, arón gomàhi.
+masaquét. * Pagasín sa onód, sa carne con sa isda, arón gomáhi.
 
 Curativo. = Tambal, bisan onsa, ng̃a igatámbal.
 
@@ -10858,7 +10858,7 @@ Chiribitil. = Sooc, lugar ng̃a tinágo, hamóbo ug haíctin.
 
 Chirimía. = Tolónggon ng̃a maíng̃on íng̃on sa clarinete.
 
-Chirla. = Quinhàson.
+Chirla. = Quinháson.
 
 Chirlador. = Ang nagasínggit, nagatiábao caáyo.
 
@@ -11020,7 +11020,7 @@ Chupado. = Ang maníoang caáyo.
 
 Chupador. V. Chupadero.
 
-Chupadera. = Pagcasópsop, pagcasóyop, pagcapàngos, pagsóso,
+Chupadera. = Pagcasópsop, pagcasóyop, pagcapángos, pagsóso,
 pagsalópsop.
 
 Chupar. = Sopsop, soyop, pang̃os, salópsop.
@@ -11054,7 +11054,7 @@ maghahátag.
 
 Dador. = Idem. * Ang mohátag, ang molólot.
 
-Daga. = Hing̃aniban sa doruhà ca soláb, hamóbo ug sa matalínis ng̃a
+Daga. = Hing̃aniban sa doruhá ca soláb, hamóbo ug sa matalínis ng̃a
 tomóy.
 
 Dale que dale. = Mao da guihápon, mao ng̃a mao.
@@ -12166,7 +12166,7 @@ Desatollar. V. Desatascar.
 Desatontarse. = Pagcóha sa pagcahóng̃ong, sa pagcabóng̃og, pagbálic sa
 pagcaboótan.
 
-Desatracar. = Pagbólag sa usà ca sacayán sa lain sacayán ng̃a
+Desatracar. = Pagbólag sa usá ca sacayán sa lain sacayán ng̃a
 guibangáan, ng̃a guidoólan, con sa lain ng̃a logar ng̃a guidonggóan.
 
 Desatraer. = Pagbólag sa usá ca botang sa lain ng̃a botang.
@@ -12516,7 +12516,7 @@ Descontentar. = Pagpasocó, pagpasobó.
 
 Descontento. = Casucó, casobó.
 
-Descontinuar. = Paglápas sa pagcanàyon, sa canayónan.
+Descontinuar. = Paglápas sa pagcanáyon, sa canayónan.
 
 Descontinuo. = Ang díli manáyon.
 
@@ -13165,7 +13165,7 @@ díli mao.
 
 Desinflamar. V. Deshinchar.
 
-Desinteres. = Pagcaualáy cahícao, sa oaláy húna húna sa mg̃a pagtóbo.
+Desinteres. = Pagcaoaláy cahícao, sa oaláy húna húna sa mg̃a pagtóbo.
 
 Desistir. = Ondang, arang, bia. * Bolag.
 
@@ -13469,7 +13469,7 @@ Despanzurrar. = Bosbos, boslic, pagsámad sa tian.
 Desparramado. = Halagpád. * Dagcó. * Quinátag.
 
 Desparramar. = Catag, sabólac, sab-oag. * Pagósic sa bahándí, sa
-salapí. * Paglíng̃ao líng̃ao sa caling̃àoan ng̃a díli maáyo.
+salapí. * Paglíng̃ao líng̃ao sa caling̃áoan ng̃a díli maáyo.
 
 Despartir. = Pagbólag, pagbáhin.
 
@@ -14451,7 +14451,7 @@ Discusion. = Paghóna huna, pagsolosámbag, pagíndig sa bisan onsa.
 
 Discutir. = Idem. * Pagásoy, pagsáyod ug maáyo sa bisan onsa.
 
-Disecar. = Pagbólag, pagbáhin, paglápa sa mg̃a minatáy, aron hisáydan sa
+Disecar. = Pagbólag, pagbáhin, paglápa sa mg̃a minatáy, arón hisáydan sa
 mg̃a mananámbal sa pagcabótang sa mg̃a bahin sa solód sa laoas, ug sa
 saquét ng̃a nacamatáy caníla.
 
@@ -14507,14 +14507,14 @@ Disgustado. = Táuo ng̃a guicasaquítan, ng̃a nasocó, nasobó.
 Disgustar. = Pagsobó, pagpasocó. * Pasáquit, pagpanoyó. * Paglális
 lalis, pagáoay.
 
-Disgusto. = Casocó, casobó, casáquit, pagláis, pagàoay.
+Disgusto. = Casocó, casobó, casáquit, pagláis, pagáoay.
 
 Disidente. = Ang mosócol sa mg̃a ponóan, ang díli boot magsógot. * Ang
 nabólag sa guihúna húna sa cadaghánan ng̃a mg̃a caobán nia.
 
 Disímil. = Díli magsáma, díli topóng, díli maíng̃on.
 
-Disimilitud. = Pagcadíli magsàma, ing̃on ug topóng, pagcalàin,
+Disimilitud. = Pagcadíli magsáma, ing̃on ug topóng, pagcaláin,
 pagcahalayó.
 
 Disimulado. = Ang díli magpaquíta ug díli magpasábot sa guihóna húna
@@ -14522,10 +14522,10 @@ nía.
 
 Disimular. = Pagtábon sa guihúna húna sa bisan cansa. * Pagpatigáyon
 arón díli hisáydan ug hibalóan sa obán sa anáa sa iang húna húna. *
-Díli pagtagàd, pagpasáilo sa mg̃a ponóan sa mg̃a sayóp sa ilang mg̃a
-guinsacópan, cay guipacaíng̃on ng̃a oalà quit-on ug hingbalóan. * V.
-Disfrazar. * Pagtàbon, pagsácot sa usá ca botang sa lain ng̃a botang,
-arón dilí hiílhan ug arón díli madayàg. * Hanip. * Paligás, pagpaligás
+Díli pagtagád, pagpasáilo sa mg̃a ponóan sa mg̃a sayóp sa ilang mg̃a
+guinsacópan, cay guipacaíng̃on ng̃a oalá quit-on ug hingbalóan. * V.
+Disfrazar. * Pagtábon, pagsácot sa usá ca botang sa lain ng̃a botang,
+arón dilí hiílhan ug arón díli madayág. * Hanip. * Paligás, pagpaligás
 sa soguílon.
 
 Disipacion. = Pagcaósic, pagcadágmal. * Pagcabáhin, pagcabólag sa mg̃a
@@ -14586,8 +14586,8 @@ Disparatadamente. = Sa oaláy cataróng̃an, sa oaláy maáyong paghúna buna.
 Disparatado. = Ang magabóhat ug mamólong sa oaláy húna huna ng̃a maáyo,
 sa pagcahanáyac.
 
-Disparatar. = Pagpamólong ug pagbóhat sa oalày húna húna ng̃a maáyo, sa
-pagcaoalày boot.
+Disparatar. = Pagpamólong ug pagbóhat sa oaláy húna húna ng̃a maáyo, sa
+pagcaoaláy boot.
 
 Disparate. = Polong con bohat ng̃a díli ang̃ay sa maáyong húna húna.
 
@@ -14839,7 +14839,7 @@ Docena. = Usá ca napólo ug dohá.
 
 Dócil. = Ang masáyon pagatón-an ug todlóan, matinománon. * Táuo sa
 maáyong gaui, ang masáyon cabigon sa cabobót-on sa lain. * Bató,
-pothao, tombága, &c., ng̃a masáyon sapsàpon bacbácon ug pagaboháton.
+pothao, tombága, &c., ng̃a masáyon sapsápon bacbácon ug pagaboháton.
 
 Doctamente. = Sa pagcaálam, sa quinaádman.
 
@@ -14937,7 +14937,7 @@ Domeñar. = Idem.
 
 Domesticable. V. Domable.
 
-Domésticamente. = Sa pagcaualáy coti coti.
+Domésticamente. = Sa pagcaoaláy coti coti.
 
 Domesticar. V. Domar.
 
@@ -15775,8 +15775,8 @@ Embocadero. = Bohó, alaguían, boáng̃an, boáng, soláng̃an, latásan.
 Embocado. = Vino sa maáyo ng̃a lalím, ng̃a dili maísog.
 
 Embocadura. V. Embocadero. * Agui, losot. * Ang bahin sa preno sa
-cabayo ng̃a isóol ug isolód sa bàba. * Vino sa maáyong lalím. *
-Pagtàyhop sa mahómoc sa mg̃a tolónggon.
+cabayo ng̃a isóol ug isolód sa bába. * Vino sa maáyong lalím. *
+Pagtáyhop sa mahómoc sa mg̃a tolónggon.
 
 Embocar. = Pagsolód sa bába sa bisan onsa. * Pagágui, pasolód,
 paglósot, sa bisan diin ng̃a bohóa con alaguiána ng̃a masígpit ug
@@ -15788,7 +15788,7 @@ Embolar. = Pagtáod, pagbótang, pagpahaáng̃ay sa mang̃a tomóy sa mg̃a
 song̃áy sa mg̃a mananáp sa mg̃a malíng̃in ng̃a cahoy, arón díli sila
 macagsámad ug macagsóng̃ag.
 
-Embolismador. = Ang magadàla dala sa mg̃a soguílon ng̃a díli mao, arón
+Embolismador. = Ang magadála dala sa mg̃a soguílon ng̃a díli mao, arón
 magaáoay ang mg̃a táuo ug managbíquil ang ilang mg̃a cabobót-on. *
 Tabían.
 
@@ -15827,7 +15827,7 @@ Embotar. = Sompo, pagcóha sa caísog, sa cosóg, sa gohóm sa bisan onsa.
 
 Embotellar. = Pagsolód sa vino, &c., sa mg̃a boteya.
 
-Embotijar. = Socó, sobó, ligótgot, cabalàca.
+Embotijar. = Socó, sobó, ligótgot, cabaláca.
 
 Embozado. = Ang nacolópo, ang guitabónan, guitaclápan. * Pagtáod sa
 bozal sa mg̃a mananáp. * V. Disfrazar.
@@ -15937,7 +15937,7 @@ Emigrar. = Haoa, halin. * Pagbía sa mg̃a táuo con sa mg̃a mananáp sa
 ilang dáan ng̃a pinoyánan.
 
 Eminencia. = Pagcatáas, cataáson, guitáson, ogdo, tapoc. * Catapósan sa
-quinaàdman, sa boot, sa caboótan, sa salabótan, &c. * Pagcahalángdon. *
+quinaádman, sa boot, sa caboótan, sa salabótan, &c. * Pagcahalángdon. *
 Polong ng̃a banságon ug bilídhon ng̃a ióna sa ng̃alan sa mg̃a Padreng
 Cardenal sa santa Iglesia.
 
@@ -15964,7 +15964,7 @@ Empachado. = Ang maólao, ang dili magatóltol sa pagbóhat sa bisan onsa.
 Empachar. = Samoc, olang. * Pagbáti sa calóod sa atay, sa guinháoa. *
 Dili paglínis sa cotó cotó sa quinaon. * V. Disfrazar. * Olao.
 
-Empacho. = Caólao, cabórong sa huna huna. * Casámoc, caolàng̃an. *
+Empacho. = Caólao, cabórong sa huna huna. * Casámoc, caoláng̃an. *
 Pagcalóod sa guinháoa, pagcaoalá mahílis sa cotó cotó sa quináon.
 
 Empadronador. = Ang magabóhat, macagáma sa padron ng̃a pagasolátan sa
@@ -15999,7 +15999,7 @@ Empantanar. = Pagponó sa tobig sa bisan onsang lugar, pagdánao,
 paglánao. * Pag-ólang sa bisan onsa ng̃a pagaboháton onta.
 
 Empañar. = Pagpótos sa mg̃a hapín sa mg̃a batang diótay. * Pagbóling,
-paghógao sa masinao, sa salamín, &c., paglíbac líbac sa isigcatàuo,
+paghógao sa masinao, sa salamín, &c., paglíbac líbac sa isigcatáuo,
 paghilábot sa iang dong̃og.
 
 Empapar. = Pagbasá ug maáyo, paghómod sa bisan onsa, lonao. * Pagponó
@@ -16431,11 +16431,11 @@ ng̃a hatáas.
 Encarar. = Pagatóbang, pagatbang, pagtong̃ód.
 
 Encaratularse. = Pagtábong sa nauong sa nauong nauong sa papel, sa
-panàpton, &c.
+panápton, &c.
 
 Encarcelacion. = Pagcabilánggo, pagcapreso.
 
-Encarcelar. = Bilànggo, pagpreso, pagsolód sa preso, sa pagcapreso.
+Encarcelar. = Bilánggo, pagpreso, pagsolód sa preso, sa pagcapreso.
 
 Encarecedor. = Ang magatóbo sa soguílon, ang magapadagcó un magalabí sa
 guisógid nía.
@@ -17720,7 +17720,7 @@ Entredicho. = Pagdilí, pagsógo arón díli boháton ug bisan onsa. *
 Castigo sa santa Iglesia sa pagdilí sa obán ng̃a mg̃a cristianos ng̃a
 saláan sa obán ng̃a mg̃a caposlánan ng̃a calágnon, espirituhánon.
 
-Entredoble. = Panàpton ng̃a díli mabága ug díli opód mahínag.
+Entredoble. = Panápton ng̃a díli mabága ug díli opód mahínag.
 
 Entrefino. = Ang díli dagcó, mabága, ug díli osáb magamáy, pino.
 
@@ -17880,7 +17880,7 @@ Pagpógos, pagpigós, paghógot sa bisan onsa.
 Enturbiar. = Paglóbog. * Pagdág-om, pagng̃ít ng̃it. * Paggobót sa nahósay
 ng̃a daan.
 
-Entusiasmar. = Paghátag sa gahóm, sa cosóg, sa maàyong cásing cásing,
+Entusiasmar. = Paghátag sa gahóm, sa cosóg, sa maáyong cásing cásing,
 sa pagbóhat con sa pagpamólong.
 
 Entusiasmo. = Húna húna ng̃a dagcó ug hatáas, ng̃a macalógos sa táuo sa
@@ -18366,7 +18366,7 @@ Escalofrio. = Nagnob, pagcatolotógnao, pagcatolotáquig, holohilánat.
 Escalon. = Ang ang, balítang. * Que se hace en las palmas, para subir á
 ellas. = Hachac.
 
-Escama. = Hingbis. * Cogan ng̃a magamày ng̃a matoróc osáhay sa laoas sa
+Escama. = Hingbis. * Cogan ng̃a magamáy ng̃a matoróc osáhay sa laoas sa
 mg̃a táuo ug sa mg̃a mananáp. * Cogan sa mg̃a noca ug sa mg̃a samad. *
 Catáhap. * Pagcatagám tong̃ód sa cadáot ng̃a guidáot sa bisan cansa sa
 iang isigcatáuo.
@@ -19327,7 +19327,7 @@ Espinadura. = Pagcatonóc.
 Espinal. = Ang nahatong̃ód sa tonóc con sa talódtod, sa cagóngcong.
 
 Espinar. = Lugar ng̃a naponó sa mg̃a tonóc, sa mg̃a sapínit. * Cacolían,
-calisdánan, caolángan. * Pagtonóc, pagsámad sa tonóc, sa sapínit, sa
+calisdánan, caoláng̃an. * Pagtonóc, pagsámad sa tonóc, sa sapínit, sa
 caguíngquing, sa soyac, sa bocóg.
 
 Espinazo. = Talódtod, cagóngcong, bocó bocó.
@@ -19441,7 +19441,7 @@ Espolvorear. V. Despolvorear. * Bilibód, bodbod.
 
 Espolvorizar. = Idem.
 
-Esponja. = Boá, soloságbot sa dagat ng̃a magàan, ng̃a guilibótan sa
+Esponja. = Boá, soloságbot sa dagat ng̃a magáan, ng̃a guilibótan sa
 daghánan ng̃a mg̃a bohó bohó ng̃a pinoyánan sa mg̃a mananáp ng̃a diótay, ng̃a
 macasóyop ug magayópyop sa tobig.
 
@@ -19695,7 +19695,7 @@ Estajo. V. Destajo.
 Estalacion. = Timáan con pagcabótang ng̃a nagapacaláin lain sa mg̃a táuo,
 somála sa ilang pagcahímtang ug opicio.
 
-Estalactita. = Ang mg̃a bitay, ng̃a nagacaláin lain sa pagcadagcò ug
+Estalactita. = Ang mg̃a bitay, ng̃a nagacaláin lain sa pagcadagcó ug
 pagcadágoay, ng̃a natápot sa mang̃a atóp, dapit sa solód, sa mg̃a lang̃ob,
 guican sa pagcahonób ug pagcahong̃áo sa tobig sa olan.
 
@@ -19739,7 +19739,7 @@ Estancacion. = Pagcahonóng, pagcaárang, pagcaóndang, pagcató-ang,
 pagcapoyó sa bisan onsa.
 
 Estancar. = To-ang, poyó, ondang, arang, honóng. * Pagólang. * Pagdilí
-sa pagbalígya sa cadaghànan, sa bisan onsa, arón ibalígya lamang sa mg̃a
+sa pagbalígya sa cadaghánan, sa bisan onsa, arón ibalígya lamang sa mg̃a
 táuo ng̃a guitódlo sa mg̃a ponóan.
 
 Estancia. = Pagcapoyó, pagcadógay sa bisan diin. * Solód ng̃a pagapóy-an
@@ -19754,7 +19754,7 @@ Pagcadilí sa mg̃a ponóan sa pagbalígya sa cadaghánan, sa bisan onsa,
 arón ibalígya lamang sa táuo ng̃a tinórlo sa maong mang̃a ponóan. *
 Pagbotáng̃an sa mg̃a manggad ug sa mang̃a papel.
 
-Estandarte. = Timàan ng̃a guinagámit sa mg̃a soldados; ng̃a mao ang usá ca
+Estandarte. = Timáan ng̃a guinagámit sa mg̃a soldados; ng̃a mao ang usá ca
 panápton ng̃a laro ng̃a guitáod ug guibítay sa usá ca cahoy, ng̃a
 guipintálan sa mg̃a dagoay ng̃a guiángcon sa hari con sa hingtóngdan ng̃a
 pang̃obátan. * Timáan sa caparían ug sa mg̃a cofradía, ng̃a mao ang usá ca
@@ -21738,7 +21738,7 @@ onsa.
 Fealdad. = Pagcalágsot, pagcang̃íl-ad, pagcadaótan. * Pagcaólag,
 pagcaláo-ay, pagcahílas.
 
-Feble. = Maníoang, malóya, mahóyang. * Salapí, bolaoan, &c., ng̃a
+Feble. = Maníoang, malóya, mahóyang. * Salapí, boláoan, &c., ng̃a
 coláng̃an sa timbang, miné, colidó.
 
 Feblemente. = Sa pagcalóya, sa pagcahóyang, sa pagcaoaláy calig-ónan. *
@@ -23505,7 +23505,7 @@ minása ng̃a matóbig tobig, atóle.
 Gacho. V. Encorvada. * Ang baca con calabáo ng̃a may song̃áy ng̃a nabalicó
 sa dapit sa obus.
 
-Gachon. = Bàta ng̃a parayégon caáyo. * Ang may caang̃áyan ug catahóman.
+Gachon. = Báta ng̃a parayégon caáyo. * Ang may caang̃áyan ug catahóman.
 
 Gachonería. = Pagcaáng̃ay, pagcaáñag, pagcatahóm.
 
@@ -28300,7 +28300,7 @@ bisan onsa, ang díli mahanáyac, ang nagadúha doha.
 
 Indecoro. V. Indecencia.
 
-Indecorosamente. = Sa pagcangíl-ad, sa pagcaláo-ay, sa díli maáyo, sa
+Indecorosamente. = Sa pagcang̃íl-ad, sa pagcaláo-ay, sa díli maáyo, sa
 pagcahógao, sa pagcaoaláy caólao.
 
 Indecoroso. V. Indecente.
@@ -34216,7 +34216,7 @@ Manipular. = Paghilábot sa bisan onsa.
 
 Manípulo. = Bisti sa mg̃a Padre sa pagtúman nila sa ilang mg̃a
 catungdánan sa pagcapadre, sa pagmisa: mao sa dagoay sa estola, apan
-hamóbo, ug isáblay sa boton sa oála, sa ibàbao sa manggas sa alba.
+hamóbo, ug isáblay sa boton sa oála, sa ibábao sa manggas sa alba.
 
 Manir. = Pagpahómoc sa carne ug sa isda, sa pagtípig niána sa usá ca
 arlao con capin ba.
@@ -34225,7 +34225,7 @@ Maniroto. = Táuo ng̃a malólot ug dagcó, maosícon.
 
 Manivacío. = Ang táuo ng̃a oaláy dala sa iang mang̃a camót.
 
-Manjar. = Calánon. * Calingáoan ng̃a macalípat sa húna húna.
+Manjar. = Calánon. * Caling̃áoan ng̃a macalípat sa húna húna.
 
 Mano. = Camót. * Tiil sa pang̃onáhan sa mg̃a mananáp. * Ang pothao, &c.,
 ng̃a nagatórlo sa mg̃a horas sa mg̃a horásan. * Idolócdoc, idológmoc sa
@@ -35052,7 +35052,7 @@ Meauca. = Langgam ng̃a mocáon sa mg̃a isda.
 Mecánica. = Quinaárman sa pagíla sa ng̃atanán ng̃a nahatong̃ód sa mg̃a
 máquina. * Bisan onsa ng̃a oaláy polós, ng̃a tacós ng̃a pagatamáyon.
 
-Mecánico. = Ang nahatong̃ód sa mg̃a bohat: sa mg̃a paghàbol, mg̃a pagsálsal
+Mecánico. = Ang nahatong̃ód sa mg̃a bohat: sa mg̃a paghábol, mg̃a pagsálsal
 mg̃a pagpánday, &c.
 
 Mecanismo. = Ang pagcabótang sa bisan onsa ng̃a may laoas.
@@ -39588,7 +39588,7 @@ Orza. = Tibor, sorlánan sa yota ng̃a guidíhog sa bulit ng̃a masínao.
 
 Orzaga. = Tanóm.
 
-Orzar. = Pagpínpin, pagbíloc sa sacáyan, pagatúbang sa dolong, cutub sa
+Orzar. = Pagpínpin, pagbíloc sa sacayán, pagatúbang sa dolong, cutub sa
 mahímo, sa guiguicánan sa hang̃in.
 
 Orzuelo. = Talúbig, bogas, boing̃it, hobág ng̃a diótay ng̃a mutóbo sa
@@ -40246,7 +40246,7 @@ tolománon ng̃a ona ug tolotagídyot sa mg̃a quinaárman ug mang̃a opicio.
 
 Palinodia. = Pagcasíbog ng̃a bantog sa guiíng̃on ng̃a daan.
 
-Pálio. = Timaán ng̃a guihátag sa santos ng̃a Papa sa mg̃a Arzobispo ug sa
+Pálio. = Timáan ng̃a guihátag sa santos ng̃a Papa sa mg̃a Arzobispo ug sa
 obán ng̃a mg̃a Obispo, ng̃a mao ang usá ca bacus ng̃a putíon, ng̃a
 guibotáng̃an sa onóm ca crus ng̃a maítom, ng̃a guisáblay sa mg̃a abága ug
 mobítay sa doghan. * Panápton ng̃a dagcó ng̃a guibótang sa onóm con oaló
@@ -41820,7 +41820,7 @@ color.
 
 Pavon. = Langgam. * Tapoc sa mg̃a bitóon.
 
-Pavonada. = Paglacát ng̃a hamóbo, con lain ng̃a calingáoan ba sa macariót
+Pavonada. = Paglacát ng̃a hamóbo, con lain ng̃a caling̃áoan ba sa macariót
 lamang. * Pagcaámbong ng̃a ipaquíta sa bisan cansa.
 
 Pavonar. = Pagpíntal sa puthao sa color ng̃a oloasul.
@@ -41853,7 +41853,7 @@ Paz. = Cadáet, pagcadáit. * Ang usá sa mg̃a hatag sa Dios ng̃a Espíritu
 Santo. * Pagcahúsay sa mg̃a Guinharían ug sa mg̃a caubánan, sa oaláy
 pagpang̃óbat ug pagbíquil biquil sa mg̃a cabobót-on. * Pagcasábot sa mg̃a
 hari, arón mahúsay ang ilang mg̃a Guinharían. * Gaoi ng̃a maáyo, mahúsay.
-* Pagsigháloc sa mg̃a táuo, sa nauong, sa timaán sa maáyong búot. *
+* Pagsigháloc sa mg̃a táuo, sa nauong, sa timáan sa maáyong búot. *
 Pagcabálos sa mg̃a búhat ug mg̃a polong ng̃a maáyo con daótan. * Pagcabáoi
 sa nagapíldi sa sugál. * Pagcabáyad sa mg̃a otang. * Tolománon sa mg̃a
 pagmísa, sa pagháloc sa nagamísa sa patena, sa paggácos sa diácono, sa
@@ -59315,11 +59315,11 @@ Dalángpan.
 Talante. = Nauong, baihon, pagcabútang. * Pagbúot, gugma, caíbog. *
 Pagcabótang ng̃a caugalíng̃on sa pagbúhat sa bisan onsa.
 
-Talar. = Bisti ng̃a hatáas ng̃a muábut hasta sa mg̃a ticúd. * Pagtagà,
+Talar. = Bisti ng̃a hatáas ng̃a muábut hasta sa mg̃a ticúd. * Pagtagá,
 pagpótol sa mg̃a cahoy, pagcaíng̃in. * Paggobá, pagdáot, pagsónog,
 pagláglag sa mg̃a cabalánan. * Pagcúha, pagíbot.
 
-Talco. = Tolotumbàga ng̃a nagacalàin lain ug color ug mahínlo caáyo, ng̃a
+Talco. = Tolotumbága ng̃a nagacaláin lain ug color ug mahínlo caáyo, ng̃a
 masáyon pagbúlag bulágon sa pagcadágoay sa mg̃a dahon. * Tumbága ng̃a
 binácbac.
 
@@ -61182,7 +61182,7 @@ Tocinero. = Ang táuo ng̃a magabalígya sa onód ug sa tamboc sa baboy.
 Tocino. = Ang onód ug ang tamboc sa baboy. * Hampac.
 
 Tocon. = Ang ponóan ug ang mg̃a gamót ng̃a mahabílin sa ilálom sa yota,
-sa pagtága sa mg̃a cahoy.
+sa pagtagá sa mg̃a cahoy.
 
 Tochédad. = Pagcahóng̃og. * Pagcaoaláy maáyong pagtórlo. * Pagcacólang
 sa pagábi abi.
@@ -64519,8 +64519,8 @@ Varadero. = Lugar ng̃a pagasangláran sa mg̃a sacayán.
 
 Varal. = Cahoy ng̃a hatáas, tocón. * Táuo ng̃a hatáas.
 
-Varapalo. = Idem hasta táuo. * Lambos, pagcalàmbos[**P1 pagcalámbos?]
-ng̃a guilámbos sa cahoy. * Casáquet, calisód, cayógot ng̃a dagcó.
+Varapalo. = Idem hasta táuo. * Lambos, pagcalámbos ng̃a guilámbos sa
+cahoy. * Casáquet, calisód, cayógot ng̃a dagcó.
 
 Varar. = Pagsánglar sa mg̃a sacayán. * Pagpalutáo, pagdáhic sa tubig sa
 mg̃a sacayán. * Paghonóng, pagárang, pagóndang sa bisan onsang buhat con
@@ -66327,9 +66327,9 @@ Volandíllas (en). V. Volandas (en).
 Volanta. = Cocheng diótay ug magáan.
 
 Volante. = Ang magalúpad. * Ang díli mahimútang ug magapuyó. * Dayan
-dayan sa panápton ng̃a magamày[**áy?] sa olo sa mg̃a babáye. * Salípdan
-sa tumbaga, &c., sa siga arón dili magasuláo ug magadáot sa mang̃a matá.
-* Puthao ng̃a apil sa máquina sa mg̃a horásan. * Sologóon ng̃a magalacát
+dayan sa panápton ng̃a magamáy sa olo sa mg̃a babáye. * Salípdan sa
+tumbaga, &c., sa siga arón dili magasuláo ug magadáot sa mang̃a matá. *
+Puthao ng̃a apil sa máquina sa mg̃a horásan. * Sologóon ng̃a magalacát
 pagóna sa coche con sa cabayo sa iang agálon.
 
 Volanton. = Langgam ng̃a harúul na macalupád.
