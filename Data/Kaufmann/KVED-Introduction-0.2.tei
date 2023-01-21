@@ -60,6 +60,15 @@
 </teiHeader>
 <text>
 <front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)"> 
+<figDesc>Newly Designed Front Cover.</figDesc> 
+</figure>
+
+
+
 <div1 type=FrenchTitle id=french>
 
 
