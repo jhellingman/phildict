@@ -1,13 +1,15 @@
 
 @patterns 0 default mode
 
-"<foreign language=ceb>"    1 "<foreign language=ceb>"
+"<foreign lang=ceb>"    1 "<foreign lang=ceb>"
 
 @patterns 1 Cebuano in old orthography
 
 "</foreign>"        0 "</foreign>"
 "&"                 2 "&"
 "<"                 3 "<"
+
+"&amp;c"    p "&amp;c"
 
 "&gtilde;"  p "g"
 "ñ"         p "ny"
@@ -91,7 +93,7 @@
 
 @patterns 3 Skip Tags
 
-">"         0 ">"
+">"         1 ">"
 
 
 @end
