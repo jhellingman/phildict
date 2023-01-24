@@ -18,10 +18,11 @@ print STDERR "Adding ids to $inputFile\n";
 
 while (<INPUTFILE>) {
     my $line = $_;
-    if ($line =~ m/<p>([a-zביםףתאטלעשגךמפûס ]+)(,[,a-zביםףתאטלעשגךמפûס ]+)?\. [=]/i) {
+    if ($line =~ m/<p>([a-zביםףתאטלעשגךמפûס ]+)(,[,a-zביםףתאטלעשגךמפûס ]+)?(\. (?:<corr.*?>)?(?:V\.|[=])(?:<\/corr>)?)/i) {
         my $before = $`;
         my $entry = $1;
         my $afterComma = $2;
+        my $connector = $3;
         my $after = $';
 
         if (!defined $afterComma) {
@@ -30,7 +31,7 @@ while (<INPUTFILE>) {
 
         my $newId = makeId($entry);
 
-        print "$before<p id=e.$newId>$entry$afterComma. =$after";
+        print "$before<p id=e.$newId>$entry$afterComma$connector$after";
     } else {
         print $line;
     }
