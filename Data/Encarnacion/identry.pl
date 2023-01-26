@@ -40,6 +40,7 @@ while (<INPUTFILE>) {
 
 sub makeId {
     my $entry = shift;
+    $entry =~ s/[Ò—]/ny/;
     my $newId = stripDiacritics(lc($entry));
 
     $newId =~ s/ /./g;            ## replace spaces with dots
