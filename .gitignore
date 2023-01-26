@@ -45,7 +45,6 @@ Data/Kaufmann/KVED-Introduction.tei
 Data/Kaufmann/KVED-dictionary.xml
 Data/Kaufmann/KVED-normalized.xml
 Data/Kaufmann/KVED.xml
-Data/Kaufmann/imageinfo.xml
 Data/Kaufmann/metadata.xml
 Data/Kaufmann/temp-01.txt
 Data/Kaufmann/temp-02.tei
@@ -54,7 +53,6 @@ Data/Kaufmann/temp-02.xml
 Data/Kaufmann/temp-03.tei
 Data/Kaufmann/usage.xml
 Data/Kaufmann/words.html
-Data/Wolff/imageinfo.xml
 Data/Wolff/usage.sql
 Data/Nigg/body-EN-TL.tei
 Data/Nigg/body-names.tei
@@ -126,3 +124,7 @@ Data/Encarnacion/edeb-words.html
 Data/Encarnacion/edeb.html
 Data/Encarnacion/edeb.txt
 Data/Encarnacion/edeb.xml
+Data/Encarnacion/edeb-kwic-variants-3.html
+Data/Encarnacion/edeb-utf8.txt
+Data/Encarnacion/Processed/edeb.html
+Data/Encarnacion/Processed/edeb.xml

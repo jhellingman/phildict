@@ -1,7 +1,7 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
-    <!ENTITY ast     CDATA "*"          --   11706 -->
-    <!ENTITY gtilde  CDATA "g&#x0303;"  --   38691 -->
+    <!ENTITY ast     CDATA "*"          --   11707 -->
+    <!ENTITY gtilde  CDATA "g&#x0303;"  --   39233 -->
     <!ENTITY mdash   CDATA "&#x2014;"   --       9 -->
     <!ENTITY ndash   CDATA "&#x2013;"   --       2 -->
 
@@ -35,15 +35,10 @@
 <p>This book has been prepared from scans of the second edition available from Google Books (copy <xref url="https://books.google.com/books?id=hjM8AAAAMAAJ">1</xref>) and the Internet Archive (copy <xref url="https://archive.org/details/diccionarioespa00unkngoog">1</xref>). Scans of the first edition are also available (copy <xref url="https://reader.digitale-sammlungen.de/en/fs1/object/display/bsb10521977_00001.html">1</xref>).
 
 <!--
-
 https://archive.org/details/aqp5055.0001.001.umich.edu  (Ceb-Es); 3rd edition
-
 https://books.google.com/books?id=HuJGAAAAcAAJ  (Ceb-Es)
-
 https://books.google.com/books?id=9OFGAAAAcAAJ  (Ceb-Es)
-
 https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
-
 -->
 
 </availability>
@@ -81,7 +76,9 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
     <p>The quality of the available scans was insufficient to always reconstruct the correct accents. They have been restored where possible, but due to the low quality of these scans, some issues might have been overlooked, while others may have been introduced during the digitization process.
 
-    <p>Minor punctuation issues have been corrected silently, all other corrections have been listed in the colophon.</p>
+    <p>Minor punctuation issues have been corrected silently, all significant corrections have been listed in the colophon.
+    
+    <p>Since the available copy of the second edition is missing the last 10 pages, and no alternative copy could be located, the entries starting with <hi><ref target=e.zamarro>Zamarro</ref></hi> have been included from the first edition.</p>
 
     <tagsDecl lang=xx>
         <rendition selector=.small>font-size: small;</rendition>
@@ -591,7 +588,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Acreedor. = <foreign lang=ceb>Hin&gtilde;otán&gtilde;an.</foreign>
 
-<p>Acribar. = <foreign lang=ceb>Alig-ig.</foreign>
+<p>Acribar. = <foreign lang=ceb><corr sic=Alig-ig>Alíg-ig</corr>.</foreign>
 
 <p>Acribillar. = <foreign lang=ceb>Pagbohó, bohó, tabád, tadtad.</foreign>
 
@@ -671,7 +668,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Adefesio. = <foreign lang=ceb>Polong n&gtilde;a oaláy hingtóngdan, cahológan, cahonón&gtilde;an.</foreign>
 
-<p>Adelantado, atrevido. = <foreign lang=ceb>Oaláy catahá, oálay pagtáhod, maísog, casíng casín&gtilde;an.</foreign>
+<p>Adelantado, atrevido. = <foreign lang=ceb>Oaláy catahá, oálay pagtáhod, maísog, <corr sic="casíng">cásing</corr> casín&gtilde;an.</foreign>
 
 <p>Adelantar. = <foreign lang=ceb>Ona, dalí.</foreign> &ast; Paga. = <foreign lang=ceb>Bayad n&gtilde;a daan, ona.</foreign> &ast; Dejando atrás á otro. = <foreign lang=ceb>Bia.</foreign>
 
@@ -3469,7 +3466,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Balconaje. = <foreign lang=ceb>Ang pagcadághan sa m&gtilde;a balcon sa m&gtilde;a cabaláyan.</foreign>
 
-<p>Baldar. = <foreign lang=ceb>Bacol, piáng, quihod, quíang, opog, quimay, pingcao.</foreign>
+<p>Baldar. = <foreign lang=ceb><corr sic=Bacol>Bacól</corr>, piáng, quihod, quíang, opog, quimay, pingcao.</foreign>
 
 <p>Balde. = <foreign lang=ceb>Toong, timba, cabog, ihinóbig.</foreign>
 
@@ -3587,7 +3584,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Báratro. = <foreign lang=ceb>Ang espierno, impierno.</foreign>
 
-<p>Barba, parte de la cara que está debajo de la boca. = <foreign lang=ceb>Solang.</foreign> &ast; Pelos que nacen en la cara. = <foreign lang=ceb>Bon&gtilde;ot.</foreign> Barbada. = <foreign lang=ceb>Ang talicalá n&gtilde;a póthao n&gtilde;a ibótang sa ilálom, sa obos, sa solang sa m&gtilde;a cabayo, ug isáb-it sa preno con sa bocado sa <corr sic="pagpogòng">pagpogóng</corr> canila. &ast; Isda.</foreign>
+<p>Barba, parte de la cara que está debajo de la boca. = <foreign lang=ceb>Solang.</foreign> &ast; Pelos que nacen en la cara. = <foreign lang=ceb>Bon&gtilde;ot.</foreign> Barbada. = <foreign lang=ceb>Ang talicalá n&gtilde;a póthao n&gtilde;a ibótang sa ilálom, sa obos, sa solang sa m&gtilde;a cabayo, ug isáb-it sa preno con sa bocado sa <corr sic="pagpogòng">pagpogóng</corr> <corr sic=canila>caníla</corr>. &ast; Isda.</foreign>
 
 <p>Barbado. = <foreign lang=ceb>Bon&gtilde;óton.</foreign>
 
@@ -4057,7 +4054,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Birola. V. <hi>Argolla</hi>.
 
-<p>Birrete. = <foreign lang=ceb>Calo calo n&gtilde;a mapóla n&gtilde;a ihátag sa Santos n&gtilde;a Papa sa m&gtilde;a Cardenales, sa pagtógot canila sa ilang bág-ong cahímtang.</foreign>
+<p>Birrete. = <foreign lang=ceb>Calo calo n&gtilde;a mapóla n&gtilde;a ihátag sa Santos n&gtilde;a Papa sa m&gtilde;a Cardenales, sa pagtógot <corr sic=canila>caníla</corr> sa ilang bág-ong cahímtang.</foreign>
 
 <pb n=48 id=pb48 facs="f:048"><p>Bisabuelo. = <foreign lang=ceb>Amahán sa apóhan, son&gtilde;áy.</foreign>
 
@@ -4551,7 +4548,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Bravisimo. = <foreign lang=ceb>Maban&gtilde;is oyámot, maísog caáyo, ihaláson n&gtilde;a túod.</foreign>
 
-<p>Bravo. = <foreign lang=ceb><corr sic="Tàuo">Táuo</corr> n&gtilde;a oaláy cahádloc ug catáhap, cásing casin&gtilde;an.</foreign> &ast; V. <hi>Bravio</hi>. &ast; <foreign lang=ceb>Dagat n&gtilde;a badlan, n&gtilde;a nagobót caáyo. &ast; Lugar, yota n&gtilde;a sagbótan, n&gtilde;a díli maáyo pagalácoan, calibónan, solóp.</foreign>
+<p>Bravo. = <foreign lang=ceb><corr sic="Tàuo">Táuo</corr> n&gtilde;a oaláy cahádloc ug catáhap, cásing <corr sic="casin&gtilde;an">casín&gtilde;an</corr>.</foreign> &ast; V. <hi>Bravio</hi>. &ast; <foreign lang=ceb>Dagat n&gtilde;a badlan, n&gtilde;a nagobót caáyo. &ast; Lugar, yota n&gtilde;a sagbótan, n&gtilde;a díli maáyo pagalácoan, calibónan, solóp.</foreign>
 
 <p>Bravote. V. <hi>Bravatero</hi>.
 
@@ -6301,7 +6298,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Cauce. = <foreign lang=ceb><corr sic=Alaguian>Alaguían</corr> n&gtilde;a halálon sa tobig.</foreign>
 
-<p>Caucion. = <foreign lang=ceb>Camatoódan n&gtilde;a guihátag sa usá ca táuo sa lain n&gtilde;a táuo, sa pagtúman sa guisógo cania, sa guisáad nia, &amp;c.</foreign>
+<p>Caucion. = <foreign lang=ceb>Camatoódan n&gtilde;a guihátag sa usá ca táuo sa lain n&gtilde;a táuo, sa pagtúman sa guisógo <corr sic=cania>canía</corr>, sa guisáad nia, &amp;c.</foreign>
 
 <p>Caudal. = <foreign lang=ceb>Pohónan, catigayónan, manggad, dona.</foreign>
 
@@ -7638,7 +7635,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Confirmacion. = <foreign lang=ceb>Pagmatúod, pagcamatúod, camatoódan sa bisan onsa. &ast; Pagpirma, paglíg-on sa Pagtóo n&gtilde;a guicaláoat sa m&gtilde;a cristianos sa pagbóñag caníla: ang icadóha ca sacramento sa atong Inahan santa Iglesia.</foreign>
 
-<p>Confirmar. = <foreign lang=ceb>Paglíg-on. &ast; Pagpirma sa m&gtilde;a cristianos sa pagdíhog canila sa señor Obispo sa santos n&gtilde;a lana, ug sa pagtóman osáb sa obán n&gtilde;a m&gtilde;a tolománon niíning sacramento.</foreign>
+<p>Confirmar. = <foreign lang=ceb>Paglíg-on. &ast; Pagpirma sa m&gtilde;a cristianos sa pagdíhog <corr sic=canila>caníla</corr> sa señor Obispo sa santos n&gtilde;a lana, ug sa pagtóman osáb sa obán n&gtilde;a m&gtilde;a tolománon niíning sacramento.</foreign>
 
 <p>Confiscar. = <foreign lang=ceb>Pagcóha sa hocom sa m&gtilde;a salapí, man&gtilde;a manggad ug m&gtilde;a dona sa m&gtilde;a saláan.</foreign>
 
@@ -7824,7 +7821,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Consignar. = <foreign lang=ceb>Pagtimáan, pagtódlo.</foreign>
 
-<p>Consigo. = <foreign lang=ceb>Cania.</foreign>
+<p>Consigo. = <foreign lang=ceb><corr sic=Cania>Canía</corr>.</foreign>
 
 <p>Consiliario. V. <hi>Consejero</hi>.
 
@@ -9897,7 +9894,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Denominar. = <foreign lang=ceb>Paghin&gtilde;álan, pagtimáan sa bisan onsa n&gtilde;a táuo sa n&gtilde;alan n&gtilde;a banságon.</foreign>
 
-<pb n=122 id=pb122 facs="f:122"><p>Denostar. = <foreign lang=ceb>Pagdáot sa ísigcatáuo, pagtóyo cania sa m&gtilde;a polong n&gtilde;a mabóg-at.</foreign>
+<pb n=122 id=pb122 facs="f:122"><p>Denostar. = <foreign lang=ceb>Pagdáot sa ísigcatáuo, pagtóyo <corr sic=cania>canía</corr> sa m&gtilde;a polong n&gtilde;a mabóg-at.</foreign>
 
 <p>Denotar. = <foreign lang=ceb>Paghibaló, pagásoy, pagpatimáan.</foreign>
 
@@ -10623,7 +10620,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Descocado. = <foreign lang=ceb>Táuo n&gtilde;a díli maólao.</foreign>
 
-<p>Descocar. = <foreign lang=ceb>Pagpádpad, pagcóha sa m&gtilde;a cahoy ug m&gtilde;a tanóm sa m&gtilde;a olod n&gtilde;a nan&gtilde;adáot canila.</foreign>
+<p>Descocar. = <foreign lang=ceb>Pagpádpad, pagcóha sa m&gtilde;a cahoy ug m&gtilde;a tanóm sa m&gtilde;a olod n&gtilde;a nan&gtilde;adáot <corr sic=canila>caníla</corr>.</foreign>
 
 <p>Descoger. = <foreign lang=ceb>Pagbódbor, paghínat sa nalóco, sa nalíquit ug sa naconót.</foreign>
 
@@ -12629,7 +12626,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Documento. = <foreign lang=ceb>Sambag, pagtámbag sa bisan cansa arón díli magabóhat sa m&gtilde;a bohat n&gtilde;a daótan. &ast; Camatoódan sa bisan onsa. &ast; Papel n&gtilde;a sinolátan sa pagásoy sa bisan onsa.</foreign>
 
-<p>Dogal. = <foreign lang=ceb>Pisi n&gtilde;a ihócot sa m&gtilde;a mananáp, ug ang igabítay ug icapatáy sa m&gtilde;a saláan n&gtilde;a <corr sic="gnipatáy">guipatáy</corr> sa justicia. &ast; Lobid.</foreign>
+<p>Dogal. = <foreign lang=ceb>Pisi n&gtilde;a ihócot sa m&gtilde;a mananáp, ug ang igabítay ug icapatáy sa m&gtilde;a saláan n&gtilde;a <corr sic="gnipatáy" type=scanno>guipatáy</corr> sa justicia. &ast; Lobid.</foreign>
 
 <p>Dogma. = <foreign lang=ceb>Camatóod, Pagtóo sa m&gtilde;a cristianos sa n&gtilde;atanán n&gtilde;a guipamólong ug guitódlo sa Dios, n&gtilde;a guipaháyag sa santa Iglesia ug guisógo nía, arón toóhan nila.</foreign>
 
@@ -13138,7 +13135,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Ejercitante. = <foreign lang=ceb>Ang magabóhat sa bisan onsa. &ast; Ang magatóman sa m&gtilde;a tolománon sa canhic Dios ug sa canhic calág.</foreign>
 
-<p>Ejercitar. = <foreign lang=ceb>Pagbóhat sa bisan onsa. &ast; Pagtóon sa bisan cansa, arón maálam sa guitóon cania. &ast; Pagsómay somay sa masóbsob sa bisan onsa, arón hicádman ug saológon.</foreign>
+<p>Ejercitar. = <foreign lang=ceb>Pagbóhat sa bisan onsa. &ast; Pagtóon sa bisan cansa, arón maálam sa guitóon <corr sic=cania>canía</corr>. &ast; Pagsómay somay sa masóbsob sa bisan onsa, arón hicádman ug saológon.</foreign>
 
 <p>Ejército. = <foreign lang=ceb>Pan&gtilde;obátan, cadaghánan sa m&gtilde;a soldados.</foreign>
 
@@ -13462,7 +13459,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Embudar. = <foreign lang=ceb>Pagbótang sa sandayóng sa bába sa boteya, &amp;c., sa pagsolód sa sa vino, tobig, &amp;c.</foreign>
 
-<p>Embudo. = <foreign lang=ceb>Sandayóng, alólong, capandayán n&gtilde;a halagpád dapit sa itáas ug diótay ug haíctin dapit sa obus, sa paghúad sa vino, tobig, &amp;c., sa m&gtilde;a damajuana, m&gtilde;a boteya, &amp;c., &amp;c. &ast; Bacac, <corr sic=limhong>limbong</corr>.</foreign>
+<p>Embudo. = <foreign lang=ceb>Sandayóng, alólong, capandayán n&gtilde;a halagpád dapit sa itáas ug diótay ug haíctin dapit sa obus, sa paghúad sa vino, tobig, &amp;c., sa m&gtilde;a damajuana, m&gtilde;a boteya, &amp;c., &amp;c. &ast; Bacac, <corr sic=limhong type=scanno>limbong</corr>.</foreign>
 
 <p>Emburujar. = <foreign lang=ceb>Pagtápoc sa bisan onsa sa pagcagobót, sa pagcasácot.</foreign>
 
@@ -13472,7 +13469,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Embustería. V. <hi>Embuste</hi>.
 
-<p>Embustero. = <foreign lang=ceb>Bacacon.</foreign> &ast; V. <hi>Embrollon</hi>.
+<p>Embustero. = <foreign lang=ceb><corr sic=Bacacon>Bacácon</corr>.</foreign> &ast; V. <hi>Embrollon</hi>.
 
 <p>Embutir. = <foreign lang=ceb>Pagpahaán&gtilde;ay sa m&gtilde;a tolotaguídyot n&gtilde;a cahoy, tombága, salapí, bató, &amp;c., sa m&gtilde;a bohó <corr sic=nga>n&gtilde;a</corr> pagatígban n&gtilde;a daan, sa lain n&gtilde;a cahoy tombága, salapí, pothao, bató, &amp;c., arón magacaláin ang m&gtilde;a dagoay ug ang color. &ast; Pagsolód sa balóyot, sa onlánan, sa caban, &amp;c., sa bisan onsa, sa dinásoc caáo. &ast; Pagponó sa bisan onsa. &ast; Pagcáon n&gtilde;a labí sa <corr sic="casadángan">casadán&gtilde;an</corr>.</foreign>
 
@@ -13848,7 +13845,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Encambronar. = <foreign lang=ceb>Paglípot, paglibót sa m&gtilde;a sagbot ug m&gtilde;a <corr sic="san&gtilde;a">san&gtilde;á</corr> n&gtilde;a toncan sa m&gtilde;a cabalánan. &ast; Paglíg-on sa m&gtilde;a pothao sa bisan onsa.</foreign>
 
-<p>Encaminar. = <foreign lang=ceb>Pagtódlo sa dalan. &ast; Pagpatigáyon sa pagdán&gtilde;at sa <corr sic="gnitúyo">guitúyo</corr>.</foreign>
+<p>Encaminar. = <foreign lang=ceb>Pagtódlo sa dalan. &ast; Pagpatigáyon sa pagdán&gtilde;at sa <corr sic="gnitúyo" type=scanno>guitúyo</corr>.</foreign>
 
 <p>Encampanado. = <foreign lang=ceb>Ang may dagoay sa <corr sic="lin&gtilde;ànay">lin&gtilde;ánay</corr>.</foreign>
 
@@ -14062,7 +14059,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Encomio. = <foreign lang=ceb>Pagdáyeg.</foreign>
 
-<p>Encompadrar. = <foreign lang=ceb>Pagcógos, pagcódcod sa anac sa lain, sa pagbóñag ug pagpirma cania. &ast; Paghigála, pagábian.</foreign>
+<p>Encompadrar. = <foreign lang=ceb>Pagcógos, pagcódcod sa anac sa lain, sa pagbóñag ug pagpirma <corr sic=cania>canía</corr>. &ast; Paghigála, pagábian.</foreign>
 
 <p>Enconamiento. = <foreign lang=ceb>Pagcacalamáyo, pagcaínsoy, pagcahóbag sa m&gtilde;a bahin sa laoas n&gtilde;a nahasámad sa tonoc, con guipáac sa iró, sa laoa laoa, &amp;c.</foreign>
 
@@ -14144,7 +14141,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Encuadernar. = <foreign lang=ceb>Pagípon, patíp-oc sa daghánan n&gtilde;a m&gtilde;a papel, n&gtilde;a pagtahíon ug pagabotán&gtilde;an sa sapáo. &ast; Paghósay, pagpahigála sa m&gtilde;a táuo n&gtilde;a nanagáoay.</foreign>
 
-<p>Encubar. = <foreign lang=ceb>Pagsolód sa vino, sa aguardiente, sa soca, &amp;c., sa m&gtilde;a cuba. &ast; Pagsolód sa m&gtilde;a táuo n&gtilde;a saláan oyámot sa usá ca coba, ubán sa usá ca manóc n&gtilde;a laqui, usá ca amó n&gtilde;a baye, usá ca iro ug usá co saoa, ug pagbalíbag canila sa tobig.</foreign>
+<p>Encubar. = <foreign lang=ceb>Pagsolód sa vino, sa aguardiente, sa soca, &amp;c., sa m&gtilde;a cuba. &ast; Pagsolód sa m&gtilde;a táuo n&gtilde;a saláan oyámot sa usá ca coba, ubán sa usá ca manóc n&gtilde;a laqui, usá ca amó n&gtilde;a baye, usá ca iro ug usá co saoa, ug pagbalíbag <corr sic=canila>caníla</corr> sa tobig.</foreign>
 
 <p>Encubertar. = <foreign lang=ceb>Pagtábon sa bisan onsa sa m&gtilde;a panápton. &ast; Pagtábon sa laoas sa bisan onsa n&gtilde;a icaságang sa m&gtilde;a pagbónal sa caáoay.</foreign>
 
@@ -14792,7 +14789,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Entarimar. = <foreign lang=ceb>Pagtábon sa salog sa m&gtilde;a papán.</foreign>
 
-<p>Ente. = <foreign lang=ceb>Bisan onsa n&gtilde;a may pagcamáo. &ast; Bisan onsa n&gtilde;a may pagcamáo sa húna <corr sic="búna">húna</corr> lamang sa man&gtilde;a táuo. &ast; Ang tacós <corr sic="nga">n&gtilde;a</corr> pagacatáoan.</foreign>
+<p>Ente. = <foreign lang=ceb>Bisan onsa n&gtilde;a may pagcamáo. &ast; Bisan onsa n&gtilde;a may pagcamáo sa húna <corr sic="búna" type=scanno>húna</corr> lamang sa man&gtilde;a táuo. &ast; Ang tacós <corr sic="nga">n&gtilde;a</corr> pagacatáoan.</foreign>
 
 <p>Enteco. = <foreign lang=ceb>Táuo n&gtilde;a masaquéton, salaquétan, maloyáhon.</foreign>
 
@@ -15872,7 +15869,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Escurriduras. = <foreign lang=ceb>Ang m&gtilde;a tolong catapúsan sa vino, tubig, soca, &amp;c., sa bisan onsa n&gtilde;a sodlánan.</foreign>
 
-<p>Escurrir. = <foreign lang=ceb>Paghorót sa bisan onsang ilímnon. &ast; Paglacát sa bisan díin sa pagsolóng ug paghíling sa yota. &ast; Tolo, agas, agay, agáyay, dalígdig, dahínggay.</foreign> &ast; V. <hi>Deslizar</hi> hasta <hi lang=ceb>pagpamólong</hi>. &ast; <foreign lang=ceb>Pagcalágueu, pagpaháoa.</foreign>
+<p>Escurrir. = <foreign lang=ceb>Paghorót sa bisan onsang ilímnon. &ast; Paglacát sa bisan díin sa pagsolóng ug paghíling sa yota. &ast; Tolo, agas, agay, <corr sic="agáyay">agáy-ay</corr>, dalígdig, dahínggay.</foreign> &ast; V. <hi>Deslizar</hi> hasta <hi lang=ceb>pagpamólong</hi>. &ast; <foreign lang=ceb>Pagcalágueu, pagpaháoa.</foreign>
 
 <p>Esencia. = <foreign lang=ceb>Pagcamáo, pagcaquinaía sa bisan onsa.</foreign> &ast; V. <hi>El siguiente</hi>.
 
@@ -16364,7 +16361,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Estacazo. = <foreign lang=ceb>Pagcabónal, pagcalámbos, sa bogsoc.</foreign>
 
-<p>Estacion. = <foreign lang=ceb>Pagcabótang sa bisan onsa. &ast; Túig, catuígan. &ast; Pagdúao sa m&gtilde;a Singbahán ug pagámpo dihá sa atobán&gtilde;an sa Santísimo Sacramento, labí pa sa jueves ug sa viernes sa semana santa. &ast; Pila ca amáhan namo ug maghimáya ca María n&gtilde;a ipan&gtilde;ádye sa atobán&gtilde;an sa Santísimo Sacramento. &ast; Honón&gtilde;an sa procesion sa jueves santo, sa pagsómay sa m&gtilde;a pagpasáquet n&gtilde;a guiántos ug guibáti sa atong Guinóong Jesucristo.</foreign>
+<p>Estacion. = <foreign lang=ceb>Pagcabótang sa bisan onsa. &ast; Túig, catuígan. &ast; Pagdúao sa m&gtilde;a Singbahán ug pagámpo dihá sa atobán&gtilde;an sa Santísimo Sacramento, labí pa sa jueves ug sa viernes sa semana santa. &ast; Pila ca <corr sic="amáhan">amahán</corr> namo ug maghimáya ca María n&gtilde;a ipan&gtilde;ádye sa atobán&gtilde;an sa Santísimo Sacramento. &ast; Honón&gtilde;an sa procesion sa jueves santo, sa pagsómay sa m&gtilde;a pagpasáquet n&gtilde;a guiántos ug guibáti sa atong Guinóong Jesucristo.</foreign>
 
 <p>Estacional. = <foreign lang=ceb>Ang an&gtilde;ay ug nahaton&gtilde;ód sa pagcaláin sa tiempo, sa init, sa tugnao, &amp;c.</foreign>
 
@@ -16542,7 +16539,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Estima. = <foreign lang=ceb>Pagpalángga, pagbóot, paghigógma, gogma. &ast; Paghúna húna sa pagcabótang sa m&gtilde;a sacayán sa dagcóng lauod, ton&gtilde;ód sa paghíling ug maáyo sa alaguían sa adlao ug sa m&gtilde;a bitóon.</foreign>
 
-<p>Estimabilidad. = <foreign lang=ceb>Ang <corr sic="nahamótaug">nahamótang</corr> sa bisan onsa, arón palanggáon ug higogmáon, arón boóton ug panghinaóton.</foreign>
+<p>Estimabilidad. = <foreign lang=ceb>Ang <corr sic="nahamótaug" type=scanno>nahamótang</corr> sa bisan onsa, arón palanggáon ug higogmáon, arón boóton ug panghinaóton.</foreign>
 
 <p>Estimado. = <foreign lang=ceb>Ang guibóot, ang guipalángga, ang guihigógma, ang guipanghináot.</foreign>
 
@@ -16690,7 +16687,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Estrella. = <foreign lang=ceb>Bitóon. &ast; Quinháson in&gtilde;on sa pagcadágoay sa bitóon. &ast; Palad sa m&gtilde;a táuo.</foreign>
 
-<p>Estrellado. = <foreign lang=ceb>Bitoónan, an&gtilde; naponó sa m&gtilde;a bitóon.</foreign>
+<p>Estrellado. = <foreign lang=ceb>Bitoónan, <corr sic="an&gtilde;">ang</corr> naponó sa m&gtilde;a bitóon.</foreign>
 
 <p>Estrellar. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa m&gtilde;a bitóon. &ast; Pagbalibag, pagsalibáy sa bisan onsa sa macosóg, sa mabáscog, pagposá. &ast; Paglális, pogsócol sa isigcatáuo sa m&gtilde;a masíngcang polong.</foreign>
 
@@ -16952,7 +16949,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Evitable. = <foreign lang=ceb>Ang arang licáyon.</foreign>
 
-<p>Evitar. = <foreign lang=ceb>Licay, pagbalíbad, <corr sic="pagcalágucu">pagcalágueu</corr> sa pagbóhat con sa pagpamólong sa bisan onsa.</foreign>
+<p>Evitar. = <foreign lang=ceb>Licay, pagbalíbad, <corr sic="pagcalágucu" type=scanno>pagcalágueu</corr> sa pagbóhat con sa pagpamólong sa bisan onsa.</foreign>
 
 <p>Evo. = <foreign lang=ceb>Pagcadógay sa n&gtilde;atanán n&gtilde;a oaláy catapósan, pagcadógay sa guihápon.</foreign>
 
@@ -17897,7 +17894,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Favorito. = <foreign lang=ceb>Ang guilabánan, ang guipalángga, ang tinabán&gtilde;an.</foreign>
 
-<p>Fayanza. = <foreign lang=ceb><corr sic="Pngcabótang">Pagcabótang</corr> sa laoas n&gtilde;a alang alang, n&gtilde;a díli maáyo, n&gtilde;a díli malíg-on.</foreign>
+<p>Fayanza. = <foreign lang=ceb><corr sic="Pngcabótang" type=scanno>Pagcabótang</corr> sa laoas n&gtilde;a alang alang, n&gtilde;a díli maáyo, n&gtilde;a díli malíg-on.</foreign>
 
 <p>Faz. = <foreign lang=ceb>Nauong.</foreign>
 
@@ -18089,13 +18086,13 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Feudatario. = <foreign lang=ceb>Bisan onsa n&gtilde;a hisácpan sa pagcafeudo, ug sa ton&gtilde;ód niíni sa quinahánglan n&gtilde;a baydan ang señor sa bisan onsa n&gtilde;a guisabótan.</foreign>
 
-<p>Feudo. = <foreign lang=ceb>Pagsábot n&gtilde;a icatógot sa m&gtilde;a dagcóng táuo sa m&gtilde;a guinsacópan nila sa bisan onsa, yota, &amp;c., n&gtilde;a pagabohátan nila, sa pagángcon sa polós n&gtilde;a ilang pagacoháon, sa catongdánan sa pagsílbi ug pagtáhod sa ilang agálon sa ilálom sa pagpanómpa. &ast; Bisan onsa n&gtilde;a guibáyad ug guicabálos sa man&gtilde;a guinsacópan sa ilang agálon, ton&gtilde;ód sa guihátag canila sa pagcafeudo.</foreign>
+<p>Feudo. = <foreign lang=ceb>Pagsábot n&gtilde;a icatógot sa m&gtilde;a dagcóng táuo sa m&gtilde;a guinsacópan nila sa bisan onsa, yota, &amp;c., n&gtilde;a pagabohátan nila, sa pagángcon sa polós n&gtilde;a ilang pagacoháon, sa catongdánan sa pagsílbi ug pagtáhod sa ilang agálon sa ilálom sa pagpanómpa. &ast; Bisan onsa n&gtilde;a guibáyad ug guicabálos sa man&gtilde;a guinsacópan sa ilang agálon, ton&gtilde;ód sa guihátag <corr sic=canila>caníla</corr> sa pagcafeudo.</foreign>
 
 
 <div2 id=cFI>
 <head>FI</head>
 
-<p>Fiador. = <foreign lang=ceb>Man&gtilde;aáco, pan&gtilde;acóhon, ang nagasalíli, nagaalíli ug nagaatóbang sa ton&gtilde;ód sa otang con catongdánan n&gtilde;a quinahánglan n&gtilde;a baydan ug pagatománon sa lain. &ast; Salioálo, cordon n&gtilde;a ígagáma n&gtilde;a icapogóng sa m&gtilde;a capa con capote, sa liog, arón díli man&gtilde;ahólog. &ast; Tranca n&gtilde;a pothao n&gtilde;a itralanca sa m&gtilde;a poltáhan, m&gtilde;a tacop ug m&gtilde;a talambóan sa dapit sa solód. &ast; Ang sampot sa m&gtilde;a báta, cay maoy magabáyad sa ilang m&gtilde;a salá ug sa pagcacondátan <pb n=236 id=pb236 facs="f:236">nila, sa paghámpac ug paggáer, canila. &ast; Palíhan, saclit, cauo, cauot, pacot, gan&gtilde;ot, gauot.</foreign>
+<p>Fiador. = <foreign lang=ceb>Man&gtilde;aáco, pan&gtilde;acóhon, ang nagasalíli, nagaalíli ug nagaatóbang sa ton&gtilde;ód sa otang con catongdánan n&gtilde;a quinahánglan n&gtilde;a baydan ug pagatománon sa lain. &ast; Salioálo, cordon n&gtilde;a ígagáma n&gtilde;a icapogóng sa m&gtilde;a capa con capote, sa liog, arón díli man&gtilde;ahólog. &ast; Tranca n&gtilde;a pothao n&gtilde;a itralanca sa m&gtilde;a poltáhan, m&gtilde;a tacop ug m&gtilde;a talambóan sa dapit sa solód. &ast; Ang sampot sa m&gtilde;a báta, cay maoy magabáyad sa ilang m&gtilde;a salá ug sa pagcacondátan <pb n=236 id=pb236 facs="f:236">nila, sa paghámpac ug paggáer, <corr sic=canila>caníla</corr>. &ast; Palíhan, saclit, cauo, cauot, pacot, gan&gtilde;ot, gauot.</foreign>
 
 <p>Fiambrar. = <foreign lang=ceb>Pagbáhao.</foreign>
 
@@ -19440,7 +19437,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Ganado. = <foreign lang=ceb>M&gtilde;a mananáp n&gtilde;a aghop, hayópon, man&gtilde;a baca, m&gtilde;a carnero, m&gtilde;a baboy, m&gtilde;a canding, &amp;c. &ast; Cadaghánan sa m&gtilde;a potiócan sa tagsa ca odlan.</foreign>
 
-<p>Ganador. = <foreign lang=ceb>Ang modáog sa sogál, an&gtilde; may caposlánan sa pagcomercio.</foreign>
+<p>Ganador. = <foreign lang=ceb>Ang modáog sa sogál, <corr sic="an&gtilde;">ang</corr> may caposlánan sa pagcomercio.</foreign>
 
 <p>Ganancia. = <foreign lang=ceb>Daog, tobo, polós, caposlánan.</foreign>
 
@@ -19634,7 +19631,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Garrocha. = <foreign lang=ceb>Cahoy n&gtilde;a hatáas n&gtilde;a guitaólan sa tomóy sa usá ca pothao maín&gtilde;on sa pothao sa isi con sa salapáng.</foreign>
 
-<p>Garrote. = <foreign lang=ceb>Cahoy n&gtilde;a díli dagcó caáyo ug díli opód hatáas. &ast; Castigo n&gtilde;a guipanghátag sa m&gtilde;a hocom sa m&gtilde;a saláan n&gtilde;a dagcó, sa pagpatáy canila sa usá ca capandáyan n&gtilde;a pothao n&gtilde;a magalóoc caníla. &ast; Pagcatóltol sa m&gtilde;a pisi n&gtilde;a guibáat sa bisan onsa. &ast; Pagcabáat n&gtilde;a mahógot caáyo sa m&gtilde;a bocton ug man&gtilde;a paa. &ast; Pagcalábag.</foreign>
+<p>Garrote. = <foreign lang=ceb>Cahoy n&gtilde;a díli dagcó caáyo ug díli opód hatáas. &ast; Castigo n&gtilde;a guipanghátag sa m&gtilde;a hocom sa m&gtilde;a saláan n&gtilde;a dagcó, sa pagpatáy <corr sic=canila>caníla</corr> sa usá ca capandáyan n&gtilde;a pothao n&gtilde;a magalóoc caníla. &ast; Pagcatóltol sa m&gtilde;a pisi n&gtilde;a guibáat sa bisan onsa. &ast; Pagcabáat n&gtilde;a mahógot caáyo sa m&gtilde;a bocton ug man&gtilde;a paa. &ast; Pagcalábag.</foreign>
 
 <p>Garrotillo. = <foreign lang=ceb>Pagcahobág sa totónlan.</foreign>
 
@@ -24596,7 +24593,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Irregular. = <foreign lang=ceb>Ang díli an&gtilde;ay sa pagcataláid. &ast; Ang mahatábo sa talágsa lamang. &ast; Padre n&gtilde;a may cacolían ug cabilínggan sa pagtúman sa catúngdanan sa iang pagcapadre.</foreign>
 
-<p>Irregularidad. = <foreign lang=ceb>Cabilínggan n&gtilde;a guican sa m&gtilde;a tolománon sa santa Iglesia, n&gtilde;a macaólang sa m&gtilde;a táuo sa pagordenal canila, ug sa pagtóman sa ilang pagcapadre, ton&gtilde;ód sa <corr sic=mga>m&gtilde;a</corr> salá, con ton&gtilde;ód ba sa bisan onsang cacolían n&gtilde;a onay sa caogalín&gtilde;on n&gtilde;a laoas.</foreign>
+<p>Irregularidad. = <foreign lang=ceb>Cabilínggan n&gtilde;a guican sa m&gtilde;a tolománon sa santa Iglesia, n&gtilde;a macaólang sa m&gtilde;a táuo sa pagordenal <corr sic=canila>caníla</corr>, ug sa pagtóman sa ilang pagcapadre, ton&gtilde;ód sa <corr sic=mga>m&gtilde;a</corr> salá, con ton&gtilde;ód ba sa bisan onsang cacolían n&gtilde;a onay sa caogalín&gtilde;on n&gtilde;a laoas.</foreign>
 
 <p>Irreligion. = <foreign lang=ceb>Pagcaoaláy pagcacristianos, pagcaoaláy pagpoán&gtilde;od.</foreign>
 
@@ -25281,7 +25278,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <pb n=337 id=pb337 facs="f:337"><p>Juzgante. = <foreign lang=ceb>Ang magahócom.</foreign>
 
-<p>Juzgar. = <foreign lang=ceb>Paghócom, pagsentensia. &ast; Paghúna <corr sic="búna">húna</corr>, pagtóo sa bisan onsa.</foreign>
+<p>Juzgar. = <foreign lang=ceb>Paghócom, pagsentensia. &ast; Paghúna <corr sic="búna" type=scanno>húna</corr>, pagtóo sa bisan onsa.</foreign>
 
 
 
@@ -27300,7 +27297,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Magistratura. = <foreign lang=ceb>Opicio, cahímtang sa hocom ug ang tiempo n&gtilde;a pagadugáyan sa opicio.</foreign>
 
-<p>Magnánimamente. = <foreign lang=ceb>Sa dagcóng casíng casíng, sa pagcaáyo oyámot, sa tuman caáyo.</foreign>
+<p>Magnánimamente. = <foreign lang=ceb>Sa dagcóng <corr sic="casíng casíng">cásing cásing</corr>, sa pagcaáyo oyámot, sa tuman caáyo.</foreign>
 
 <p>Magnanimidad. = <foreign lang=ceb>Pagcadagcó sa boot, sa casing casing.</foreign>
 
@@ -34036,7 +34033,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Pelagiano. = <foreign lang=ceb>Ang nahatun&gtilde;ód cang Pelagio n&gtilde;a herejes.</foreign>
 
-<p>Pelaire. = <foreign lang=ceb>Táuo n&gtilde;a mamomóo sa baláy n&gtilde;a pagaháblan sa m&gtilde;a panápton, ug magahaláyhay canila.</foreign>
+<p>Pelaire. = <foreign lang=ceb>Táuo n&gtilde;a mamomóo sa baláy n&gtilde;a pagaháblan sa m&gtilde;a panápton, ug magahaláyhay <corr sic=canila>caníla</corr>.</foreign>
 
 <p>Pelairía. = <foreign lang=ceb>Opicio sa pagcapelaire.</foreign>
 
@@ -34386,7 +34383,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Peonía. = <foreign lang=ceb>Tanóm.</foreign> &ast; V. el anterior.
 
-<p>Peonza. = <foreign lang=ceb><corr sic="Casíng">Casing</corr>. &ast; Táuo n&gtilde;a diótay ug condátan, n&gtilde;a malíhoc caáyo.</foreign>
+<p>Peonza. = <foreign lang=ceb><corr sic="Casíng">Cásing</corr>. &ast; Táuo n&gtilde;a diótay ug condátan, n&gtilde;a malíhoc caáyo.</foreign>
 
 <p>Peor. = <foreign lang=ceb>Ang butang n&gtilde;a labíng daútan sa lain n&gtilde;a butang.</foreign>
 
@@ -34994,7 +34991,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Pesada. = <foreign lang=ceb>Ang guitímbang sa tagsa ca pagtímbang.</foreign>
 
-<p>Pesadamente. = <foreign lang=ceb>Sa pagcabóg-at. &ast; Sa casáquet. &ast; Sa pagcasóqui, sa daútan n&gtilde;a <corr sic="búna">húna</corr> húna. &ast; Sa pagcahínay, sa pagcadúgay. &ast; Sa guilabíhan.</foreign>
+<p>Pesadamente. = <foreign lang=ceb>Sa pagcabóg-at. &ast; Sa casáquet. &ast; Sa pagcasóqui, sa daútan n&gtilde;a <corr sic="búna" type=scanno>húna</corr> húna. &ast; Sa pagcahínay, sa pagcadúgay. &ast; Sa guilabíhan.</foreign>
 
 <p>Pesadez. = <foreign lang=ceb>Pagcabóg-at, cabóg-at. &ast; Pagcabórong, pagcabón&gtilde;og sa olo. &ast; Calisód, casáquet. &ast; Pagcahínay, pagcadúgay. &ast; Pagcatámboc.</foreign>
 
@@ -40229,7 +40226,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Reconcomerse. = <foreign lang=ceb>Paglíhoc sa licód sa abága, ug sa bocó bocó, guican sa pagcacatól n&gtilde;a dagcó.</foreign>
 
-<p>Reconcomio. = <foreign lang=ceb>Pagcalíhoc sa bocó bocó, sa abága ug sa licód, n&gtilde;a don&gtilde;an, guican sa pagcacatól n&gtilde;a dagcó, con guican ba sa pagcadagcóng calípay. &ast; Catáhap n&gtilde;a magatándog sa m&gtilde;a húna <corr sic="búna">húna</corr>.</foreign>
+<p>Reconcomio. = <foreign lang=ceb>Pagcalíhoc sa bocó bocó, sa abága ug sa licód, n&gtilde;a don&gtilde;an, guican sa pagcacatól n&gtilde;a dagcó, con guican ba sa pagcadagcóng calípay. &ast; Catáhap n&gtilde;a magatándog sa m&gtilde;a húna <corr sic="búna" type=scanno>húna</corr>.</foreign>
 
 <p>Recóndito. = <foreign lang=ceb>Ang natágo. &ast; Ang nahóbong. &ast; Ang halálom uyámot.</foreign>
 
@@ -42943,7 +42940,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Rizar. = <foreign lang=ceb>Pagcólong. &ast; Pagconót.</foreign>
 
-<p>Rizo. = <foreign lang=ceb>Pagcacólong sa <corr sic="bobóc">bohóc</corr>, bohóc n&gtilde;a quinólong.</foreign>
+<p>Rizo. = <foreign lang=ceb>Pagcacólong sa <corr sic="bobóc" type=scanno>bohóc</corr>, bohóc n&gtilde;a quinólong.</foreign>
 
 
 <div2 id=cRO>
@@ -44264,7 +44261,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Sanitario. = <foreign lang=ceb>Ang mahaton&gtilde;ód sa pagpatigáyon sa m&gtilde;a tambal sa m&gtilde;a saquét.</foreign>
 
-<p>Sanjacado. = <foreign lang=ceb>Pagcahópot sa m&gtilde;a provinsia sa <corr sic="Gninharían">Guinharían</corr> sa m&gtilde;a turco.</foreign>
+<p>Sanjacado. = <foreign lang=ceb>Pagcahópot sa m&gtilde;a provinsia sa <corr sic="Gninharían" type=scanno>Guinharían</corr> sa m&gtilde;a turco.</foreign>
 
 <p>Sanjacato. = Idem.
 
@@ -44434,7 +44431,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Sarpullido. V. <hi>Salpullido</hi>. &ast; <foreign lang=ceb>M&gtilde;a labhag, pinaácan sa pulgas.</foreign>
 
-<p>Sarpullir. = <foreign lang=ceb>Pagpáac sa pulgas:</foreign> V. <hi>Salpullir.</hi> <!-- self-reference -->
+<p>Sarpullir. = <foreign lang=ceb>Pagpáac sa pulgas:</foreign> V. <hi>Salpullir.</hi>
 
 <p>Sarracénico. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa m&gtilde;a moros.</foreign>
 
@@ -47942,7 +47939,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Tantear. = <foreign lang=ceb>Pagtándig, pagtándi. &ast; <corr sic="Pagtimàan">Pagtimáan</corr> sa m&gtilde;a tantos sa m&gtilde;a pagsugál arón hibalóan ang táuo n&gtilde;a macadáog. &ast; Pagsúsi, paghíling sa bisan onsa. &ast; Pagsógor sa pagbárlis sa m&gtilde;a pagpíntal. &ast; Pagpálit sa usá ca hias, baláy, &amp;c., sa maong bili n&gtilde;a <corr sic="guigátag">guihátag</corr> ug guipálit sa lain, ton&gtilde;ód sa gahóm n&gtilde;a guitógot sa batásan sa m&gtilde;a leyes, usáhay, sa m&gtilde;a caubánan, &amp;c.</foreign>
 
-<p>Tanteo. = <foreign lang=ceb><corr sic="Pngcatándig">Pagcatándig</corr>, pagcatándi sa usá ca <corr sic="hutang">butang</corr> sa lain n&gtilde;a <corr sic="butan&gtilde;">butang</corr>. &ast; Isip sa m&gtilde;a bató, sa m&gtilde;a tantos n&gtilde;a guidáog sa m&gtilde;a pagsugál. &ast; Pagcabáyad ton&gtilde;ód sa bisan onsa n&gtilde;a hias, baláy, &amp;c., sa maong bayad n&gtilde;a guipálit sa lain. &ast; Gahóm n&gtilde;a guipanógot sa m&gtilde;a leyes, sa batásan, usáhay, sa obán n&gtilde;a m&gtilde;a tauo, arón moángcon sila sa m&gtilde;a hias, m&gtilde;a baláy, &amp;c., sa maong bale n&gtilde;a guipálit sa lain. &ast; Paghúna húna sa pagcaboótan arón macúha ang tuyo n&gtilde;a guipanghináot. &ast; Sinógdan sa m&gtilde;a barlis n&gtilde;a ióna sa m&gtilde;a pagpíntal.</foreign>
+<p>Tanteo. = <foreign lang=ceb><corr sic="Pngcatándig" type=scanno>Pagcatándig</corr>, pagcatándi sa usá ca <corr sic="hutang" type=scanno>butang</corr> sa lain n&gtilde;a <corr sic="butan&gtilde;">butang</corr>. &ast; Isip sa m&gtilde;a bató, sa m&gtilde;a tantos n&gtilde;a guidáog sa m&gtilde;a pagsugál. &ast; Pagcabáyad ton&gtilde;ód sa bisan onsa n&gtilde;a hias, baláy, &amp;c., sa maong bayad n&gtilde;a guipálit sa lain. &ast; Gahóm n&gtilde;a guipanógot sa m&gtilde;a leyes, sa batásan, usáhay, sa obán n&gtilde;a m&gtilde;a tauo, arón moángcon sila sa m&gtilde;a hias, m&gtilde;a baláy, &amp;c., sa maong bale n&gtilde;a guipálit sa lain. &ast; Paghúna húna sa pagcaboótan arón macúha ang tuyo n&gtilde;a guipanghináot. &ast; Sinógdan sa m&gtilde;a barlis n&gtilde;a ióna sa m&gtilde;a pagpíntal.</foreign>
 
 <p>Tanto. = <foreign lang=ceb>Pagcadagcó sa bisan onsa. &ast; Hinúad sa bisan onsang sulat. &ast; Bató n&gtilde;a silbi sa pagtimáan sa m&gtilde;a pagdáog sa m&gtilde;a sugál.</foreign>
 
@@ -51098,7 +51095,7 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Trovador. = <foreign lang=ceb>Ang poeta, ang magabúhat sa m&gtilde;a balac.</foreign>
 
-<p>Trovar. = <foreign lang=ceb>Pagbúhat, pagsúlat sa m&gtilde;a balac. &ast; Pagsábot sa bisan onsa n&gtilde;a <corr sic="snguílon">suguílon</corr> sa díli an&gtilde;ay sa cahológan sa m&gtilde;a polong.</foreign>
+<p>Trovar. = <foreign lang=ceb>Pagbúhat, pagsúlat sa m&gtilde;a balac. &ast; Pagsábot sa bisan onsa n&gtilde;a <corr sic="snguílon" type=scanno>suguílon</corr> sa díli an&gtilde;ay sa cahológan sa m&gtilde;a polong.</foreign>
 
 <p>Trovista. V. <hi>Trovador</hi>.
 
@@ -53966,8 +53963,530 @@ https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 
 <p>Zamarrilla. = <foreign lang=ceb>Tanóm n&gtilde;a italámbal.</foreign>
 
+<!-- Start of copy taken from first edition. -->
 
-<!-- TODO: remainder missing, look for alternative source -->
+<p>Zamarro. = <foreign lang=ceb>Bisti sa m&gtilde;a panit sa m&gtilde;a carnerong diótay sa mohómoc n&gtilde;a balahíbo; <corr sic=v.>V.</corr> <hi>Zamacuco.</hi></foreign>
+
+<p>Zambaigo. = <foreign lang=ceb>Ang anac sa laláqui n&gtilde;a maítom ug sa babáye n&gtilde;a maputí, con sa laláqui n&gtilde;a maputí ug sa babáye n&gtilde;a maítom, sa Indias.</foreign>
+
+<p>Zambapalo. = <foreign lang=ceb>Sabáy n&gtilde;a caráan.</foreign>
+
+<p>Zambarco. = <foreign lang=ceb>Corea n&gtilde;a halagpád n&gtilde;a ibútang sa dughan sa m&gtilde;a cabayo, &amp;c., n&gtilde;a nanagúyod sa m&gtilde;a coche, &amp;c., arón dili sila man&gtilde;asámad.</foreign>
+
+<p>Zámbigo. = <foreign lang=ceb>Ang guibalíqgan sa m&gtilde;a paa, ang may m&gtilde;a paa n&gtilde;a balíquig.</foreign>
+
+<p>Zambo. = Idem; <corr sic=v.>V.</corr> <hi>Zambaigo</hi>; <foreign lang=ceb>calaínan sa amó.</foreign>
+
+<p>Zamboa. = <foreign lang=ceb>Calaínan sa bon&gtilde;a n&gtilde;a guin&gtilde;álan ug membrillo.</foreign>
+
+<p>Zambomba. = <foreign lang=ceb>Tolónggon n&gtilde;a pagaduláan sa m&gtilde;a baquero.</foreign>
+
+<p>Zambombo. <corr sic="= V.">V.</corr> <hi>Zamacuco</hi>.
+
+<p>Zamborotudo ó zamborrotudo. = Idem.
+
+<p>Zambra. = <foreign lang=ceb>Piesta sa m&gtilde;a moros sa dagcóng banha ug pagsabay; sacayán sa m&gtilde;a moros.</foreign>
+
+<p>Zambucar. = <foreign lang=ceb>Pagsacót sa bisan onsa sa talioúla sa obán n&gtilde;a m&gtilde;a butang, arón dili quiton.</foreign>
+
+<p>Zambuco. = <foreign lang=ceb>Pagcatágo sa bisan onsa sa talioála sa obán n&gtilde;a m&gtilde;a butang.</foreign>
+
+<p>Zambullida. <corr sic="= V.">V.</corr> <hi>Zabullidura</hi>.
+
+<p>Zambullidura. = Idem.
+
+<p>Zambullirse. <corr sic="= V.">V.</corr> <hi>Zabullir</hi>.
+
+<p>Zampabollos. <corr sic="= V.">V.</corr> <hi>Zampatortas</hi>.
+
+<p>Zampalimosnas. = <foreign lang=ceb>Ang maquiglímos sa m&gtilde;a pultahán sa oaláy caúlao.</foreign>
+
+<p>Zampapalo. <corr sic="= V.">V.</corr> <hi>Zampatortas</hi>.
+
+<p>Zampar. = <foreign lang=ceb>Pagsolód sa usa ca botang sa solód sa lain n&gtilde;a butang, sa pagcacálit; pagcáon sa pagcadalí ug sa pagcalabí.</foreign>
+
+<p>Zampatortas. = <foreign lang=ceb>Hin&gtilde;áon caáyo;</foreign> <corr sic=v.>V.</corr> <hi>Zamacuco</hi>.
+
+<p>Zampoña. = <foreign lang=ceb>Tolónggon n&gtilde;a pagagamíton sa m&gtilde;a baquero, n&gtilde;a guibután&gtilde;an sa daghan n&gtilde;a m&gtilde;a plauta; polong n&gtilde;a oaláy cahológan ug hingtúngdan.</foreign>
+
+<p>Zampuzar. = <foreign lang=ceb>Pagsálom; <corr>V. </corr><hi>Zampar</hi> hasta <hi lang=ceb>pagcáon</hi>.</foreign>
+
+<p>Zampuzo. = <foreign lang=ceb>Pagcasálom; pagcatágo sa bisan onsa sa talioála sa ubán n&gtilde;a m&gtilde;a butang.</foreign>
+
+<p>Zanahoria. = <foreign lang=ceb>Tanóm n&gtilde;a italámbal ug ang gamót nia n&gtilde;a macaón.</foreign>
+
+<p>Zanca. = <foreign lang=ceb>Tiil n&gtilde;a hatáas sa m&gtilde;a langgam; paa n&gtilde;a manípis sa m&gtilde;a tauo ug sa m&gtilde;a mananáp.</foreign>
+
+<p>Zancada. = <foreign lang=ceb>Lacang n&gtilde;a hatáas.</foreign>
+
+<p>Zancadilla. = <foreign lang=ceb>Pagcatinángbir, tinángbir; limbong.</foreign>
+
+<p>Zancajear. = <foreign lang=ceb>Paglacát sa m&gtilde;a caianán&gtilde;an.</foreign>
+
+<p>Zancajera. = <foreign lang=ceb><corr sic="Ang ang">ang</corr> n&gtilde;a pagabotán&gtilde;an sa tiil sa pagsáca sa m&gtilde;a coche; bahin sa m&gtilde;a sapín ug sa m&gtilde;a medias n&gtilde;a magatábon sa ticúd; tauo n&gtilde;a hamóbo ug sa malágsot n&gtilde;a dagoay.</foreign>
+
+<p>Zancajo. = <foreign lang=ceb>Ticód.</foreign>
+
+<p>Zancajoso. = <foreign lang=ceb>Luing; ang guiguisían sa m&gtilde;a medias, sa ticód; ang may dagcóng ticód.</foreign>
+
+<p>Zancarron. = <foreign lang=ceb>Bocóg n&gtilde;a dagcó sa oaláy onód; ang bocóg sa tiil sa oaláy onód; tauo n&gtilde;a maníoang, tigúlang ug malágsot; ang dili maálam caáyo sa iang catungdánan.</foreign>
+
+<p>Zancarron de Mahoma. = <foreign lang=ceb>Ang m&gtilde;a bocóg ni Mahoma n&gtilde;a manalágnang <corr sic=bacacon>bacácon</corr> n&gtilde;a <pb n=568>guipanagdúao sa m&gtilde;a moros, sa alampóan nila sa longsod sa Meca.</foreign>
+
+<p>Zanco. = <foreign lang=ceb>Cadang; ang magsaláyao.</foreign>
+
+<p>Zancudo. = <foreign lang=ceb>Ang guitaásan sa m&gtilde;a paa.</foreign>
+
+<p>Zándalo. <corr sic="= V.">V.</corr> <hi>Sándalo</hi>.
+
+<p>Zanga. = <foreign lang=ceb>Sugál sa baraja.</foreign>
+
+<p>Zangala. = <foreign lang=ceb>Panápton sa hilo.</foreign>
+
+<p>Zangandango. = <foreign lang=ceb>Tauo n&gtilde;a magapacahón&gtilde;og arón dili sia papagbuháton; tauo n&gtilde;a oalúy quinaárman ug hingbangcaágan.</foreign>
+
+<p>Zanganear. = <foreign lang=ceb>Pagtápol, pagsóroy soroy sa oalúy buhat.</foreign>
+
+<p>Zángano. = <foreign lang=ceb>Putiócan n&gtilde;a laqui, ang laqui sa m&gtilde;a putiócan; tapólan, ang mahagógma mucáon sa oaláy buhat.</foreign>
+
+<p>Zangarilleja. = <foreign lang=ceb>Bátang hugáoan n&gtilde;a tigsóroy soroy.</foreign>
+
+<p>Zangarrear. = <foreign lang=ceb>Pagcóscos sa guitara sa oaláy caálam.</foreign>
+
+<p>Zangarriana. = <foreign lang=ceb>Saquét sa olo sa m&gtilde;a hayúpan; camín&gtilde;ao, casobó; hilánat con lain n&gtilde;a saquét n&gtilde;a mudámag sa hingtúngdan n&gtilde;a adlao.</foreign>
+
+<p>Zangarullon. <corr sic="= V.">V.</corr> <hi>Zangarilleja</hi>.
+
+<p>Zangolotear. = <foreign lang=ceb>Pagdúyan, pagtábiog; pagsinó, pagquíno, paglo-gó; paghúyang, paggaló galó, paglígang sa bisan onsa cay mahómoc ug halúag.</foreign>
+
+<p>Zangoloteo. = <foreign lang=ceb>Pagcatábiog; pagcalo-gó, pagcaquinó; pagcalígang, pagcagaló galó, pagcahúyang sa bisan onsa.</foreign>
+
+<p>Zangotear. <corr sic="= V.">V.</corr> <hi>Zangolotear</hi>.
+
+<p>Zangoteo. <corr sic="= V.">V.</corr> <hi>Zangoloteo</hi>.
+
+<p>Zanguanga. = <foreign lang=ceb>Pagcasomán&gtilde;il sa bisan onsang saquét arón dili magbúhat ug bisan quinsang tauo.</foreign>
+
+<p>Zanguango. = <foreign lang=ceb>Tauo n&gtilde;a tapólan, n&gtilde;a man&gtilde;íta sa m&gtilde;a pagsomán&gtilde;il arón dili sia magabúhat.</foreign>
+
+<p>Zanguayo. = <foreign lang=ceb>Tauo sa malúyang laoas, hatáas ug tapólan.</foreign>
+
+<p>Zanja. = <foreign lang=ceb>Aoang; sinógdan, guinicánan sa bisan onsa; simientos, tilindúgan sa m&gtilde;a baláy, &amp;c.</foreign>
+
+<p>Zanjar. = <foreign lang=ceb>Pagbúhat sa m&gtilde;a aoang; pagtápus, pagtibáoas sa bisan onsa, sa pagcahigála.</foreign>
+
+<p>Zanqueador. = <foreign lang=ceb>Ang magalacát sa pagcabalíquig sa m&gtilde;a paa; tiglacáo; hilacát, ang magalacát caáyo.</foreign>
+
+<p>Zanqueamiento. = <foreign lang=ceb>Pagcalacát sa pagcaba líquig sa m&gtilde;a paa.</foreign>
+
+<p>Zanquear. = <foreign lang=ceb>Paylacáo sa pagcabalíguig sa m&gtilde;a paa; paglacát caáyo ug sa hatáas n&gtilde;a dalan, sa halayó.</foreign>
+
+<p>Zanquilargo. <corr sic="= V.">V.</corr> <hi>Zancudo</hi>.
+
+<p>Zanquillas. = <foreign lang=ceb>Tauo sa hamóbo ug manípis n&gtilde;a m&gtilde;a paa; tauo n&gtilde;a hamóbo.</foreign>
+
+<p>Zanquituerto. <corr sic="= V.">V.</corr> <hi>Zámbigo</hi>.
+
+<p>Zanquivano. = <foreign lang=ceb>Ang may m&gtilde;a paa n&gtilde;a hatáas ug sa diótay n&gtilde;a bitíis.</foreign>
+
+<p>Zapa. = <foreign lang=ceb>Capandáyan sa m&gtilde;a soldados sa pagcále sa yota; quilquígan.</foreign>
+
+<p>Zapador. = <foreign lang=ceb>Ang soldado n&gtilde;a magabúhat sa zapa n&gtilde;a guidála nía.</foreign>
+
+<p>Zapar. = <foreign lang=ceb>Pagcále sa yota, sa zapa.</foreign>
+
+<p>Zaparrastrar. = <foreign lang=ceb>Paggúyor sa m&gtilde;a bisti.</foreign>
+
+<p>Zaparrastroso. = <foreign lang=ceb>Ang magabísti sa m&gtilde;a bisting daan, guisi ug bulín&gtilde;on; buhat n&gtilde;a dili maáyo, sa daútan n&gtilde;a pagbúhat.</foreign>
+
+<p>Zaparrazo. = <foreign lang=ceb>Pagcahágbong; calisód n&gtilde;a muábot sa bisan cansa</foreign>
+
+<p>Zapata. = <foreign lang=ceb>Panit n&gtilde;a mabága, n&gtilde;a ibútang sa ilálom sa quisio sa m&gtilde;a pultahán, arón dili unta cagdan ang quisióhan; pinótol n&gtilde;a cahoy n&gtilde;a ibútang ug ipahaán&gtilde;ay sa tomóy sa m&gtilde;a halígue, n&gtilde;a mulábao sa luyo ug sa luyo, n&gtilde;a pagalingcóran sa m&gtilde;a sabláyan, &amp;c<corr>.</corr>; sapín n&gtilde;a muábot hasta sa harúul sa bitíis.</foreign>
+
+<p>Zapatazo. = <foreign lang=ceb>Pagcabúnal, pagcapócpoc sa sapato, sa sapín; pagcahágbong, pagcapúcan, pagcahólog sa m&gtilde;a mananáp, sa pagtonób ug mabáscog.</foreign>
+
+<p>Zapateado. = <foreign lang=ceb>Sayáo, pagsabáy.</foreign>
+
+<p>Zapateador. = <foreign lang=ceb>Ang magabánha sa m&gtilde;a sapín, sa paglacát.</foreign>
+
+<p>Zapatear. = <foreign lang=ceb>Pagbánha sa m&gtilde;a sapín, sa paglacát; pagpasipála sa bisan cansa, sa polong con sa buhat; pagbásal sa m&gtilde;a camót, sa pagápas sa compas sa música; pagsócol, paglális lalis.</foreign>
+
+<p>Zapatera. = <foreign lang=ceb>Asáoa sa sapatero; babáye n&gtilde;a tigbúhat sa m&gtilde;a sapín.</foreign>
+
+<p>Zapatería. = <foreign lang=ceb>Baláy, tiendáhan n&gtilde;a pagabuhátan ug pagabaligyáan sa m&gtilde;a sapín; lugar, dalan n&gtilde;a guibután&gtilde;an sa daghan n&gtilde;a m&gtilde;a tiendáhan sa m&gtilde;a sapín; opicio sa pagbúhat sa m&gtilde;a sapín.</foreign>
+
+<p>Zapatero. = <foreign lang=ceb>Magbubúhat, tigbúhat, ang magabúhat sa m&gtilde;a sapín.</foreign>
+
+<p>Zapateta. = <foreign lang=ceb>Pagcabánha sa salog, sa m&gtilde;a sapín, sa paglócso sa timáan sa calípay.</foreign>
+
+<p>Zapatilla. = <foreign lang=ceb>Panit n&gtilde;a isápao sa m&gtilde;a bató n&gtilde;a santícan sa m&gtilde;a pusil, &amp;c.; sapín <pb n=569>n&gtilde;a pino ug sa maáyong pagbúhat; sinelas; cocó sa m&gtilde;a mananáp.</foreign>
+
+<p>Zapatillero. = <foreign lang=ceb>Ang magabúhat sa ma sapatilla.</foreign>
+
+<p>Zapato. = <foreign lang=ceb>Sapín.</foreign>
+
+<p>Zapatudo. = <foreign lang=ceb>Ang magasapín sa m&gtilde;a sapín n&gtilde;a dagcóan caáyo; mananáp n&gtilde;a cocan caáyo.</foreign>
+
+<p>Zape. = <foreign lang=ceb>Polong n&gtilde;a igabúgao sa m&gtilde;a iríng; sica; abá, abáa<corr sic=",">.</corr></foreign>
+
+<p>Zapear. = <foreign lang=ceb>Pagsíca, pagbúgao sa m&gtilde;a iríng.</foreign>
+
+<p>Zapito. = <foreign lang=ceb>Baso, surlánan sa cahoy n&gtilde;a pagagamíton sa pagpagátas sa m&gtilde;a mananáp.</foreign>
+
+<p>Zapote. = <foreign lang=ceb>Cahoy ug ang iang bon&gtilde;a.</foreign>
+
+<p>Zapuza. <corr sic="= V.">V.</corr> <hi>Chapuzar</hi>.
+
+<p>Zaque. = <foreign lang=ceb>Sorlánan n&gtilde;a diótay sa bino, sa tubig, &amp;c., sa panit.</foreign>
+
+<p>Zaquear. = <foreign lang=ceb>Paghúar sa m&gtilde;a ilímnon sa m&gtilde;a surlánan sa panit.</foreign>
+
+<p>Zaquizamí. = <foreign lang=ceb>Catapúsan n&gtilde;a salog sa m&gtilde;a baláy, paga; baláy, solód n&gtilde;a diótay caáyo.</foreign>
+
+<p>Zar. = <foreign lang=ceb>Hari sa guinharían sa Moscobia.</foreign>
+
+<p>Zara. <corr sic="= V.">V.</corr> <hi>Maíz</hi>.
+
+<p>Zarabanda. = <foreign lang=ceb>Sayáo, pagsabáy; bisan onsa n&gtilde;a mabánha caáyo ug macasámoc.</foreign>
+
+<p>Zarabutero. <corr sic="= V.">V.</corr> <hi>Embustero</hi>; samócan, condátan.
+
+<p>Zaragatona. = <foreign lang=ceb>Tanóm n&gtilde;a italámbal.</foreign>
+
+<p>Zaragocí. = <foreign lang=ceb>Calaínan sa sirioelas.</foreign>
+
+<p>Zaragüelles. = <foreign lang=ceb>Salooál; calsones n&gtilde;a halagpád ug sa daótan n&gtilde;a pagbúhat.</foreign>
+
+<p>Zaragutero. <corr sic="= V.">V.</corr> <hi>Zarabutero</hi>.
+
+<p>Zaramagullo. = <foreign lang=ceb>Langgam.</foreign>
+
+<p>Zarambeque. = <foreign lang=ceb>Sayáo, pagsabáy.</foreign>
+
+<p>Zaranda. <corr sic="= V.">V.</corr> <hi>Criba</hi>.
+
+<p>Zarandador. = <foreign lang=ceb>Ang magaalíg-ig.</foreign>
+
+<p>Zarandajas. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a butang n&gtilde;a diótay, magamáy.</foreign>
+
+<p>Zarandajillas. = Idem.
+
+<p>Zanrandalí. = <foreign lang=ceb>Salapáti n&gtilde;a laqui, n&gtilde;a sinambágan sa m&gtilde;a balahíbo n&gtilde;a maítom.</foreign>
+
+<p>Zarandar. = <foreign lang=ceb>Pagcaalíg-ig; pagóyog oyog; paglíhoc sa bisan onsa sa madalí caáyo, pagláin sa labíng mahál sa bisan onsa.</foreign>
+
+<p>Zarandear. = Idem.
+
+<p>Zarandero. <corr sic="= V.">V.</corr> <hi>Zarandador</hi>; <foreign lang=ceb>tauo n&gtilde;a dili mahamútang, cundátan, n&gtilde;a malíhoc caáyo.</foreign>
+
+<p>Zarapatel. = <foreign lang=ceb>Calaínan sa guisál.</foreign>
+
+<p>Zarapito. = <foreign lang=ceb>Langgam.</foreign>
+
+<p>Zaratan. = <foreign lang=ceb>Hubág n&gtilde;a man&gtilde;il-ád caáyo, samád n&gtilde;a daútan sa m&gtilde;a soso sa m&gtilde;a babáye.</foreign>
+
+<p>Zaraza. = <foreign lang=ceb>Panápton n&gtilde;a maputí, pino ug halagpád caáyo; minása n&gtilde;a sináctan sa m&gtilde;a dagom, sa salamín n&gtilde;a dinócdoc ug sa hiló, n&gtilde;a icapatáy sa m&gtilde;a iró.</foreign>
+
+<p>Zarcear. = <foreign lang=ceb>Paghúgas sa m&gtilde;a alaguían sa tubig, sa m&gtilde;a ihi, &amp;c.; paglacát n&gtilde;adto n&gtilde;adto, sa madalí caáyo; paglacáo sa pagpaín&gtilde;on n&gtilde;adto ug sa pagpaín&gtilde;on n&gtilde;anhi sa masóbsob.</foreign>
+
+<p>Zarcero. = <foreign lang=ceb>Calaínan sa iró.</foreign>
+
+<p>Zarcillo. = <foreign lang=ceb>Aretes, ariyos, bitay bitay sa m&gtilde;a dalúnggan; bacólong sa m&gtilde;a cuba ug sa m&gtilde;a bariles.</foreign>
+
+<p>Zarco. = <foreign lang=ceb>Color n&gtilde;a asul n&gtilde;a dili buhi caáyo.</foreign>
+
+<p>Zarevitz. = <foreign lang=ceb>Anac n&gtilde;a pan&gtilde;ánay sa hari sa Moscobia.</foreign>
+
+<p>Zariano. = <foreign lang=ceb>Ang nahatún&gtilde;od ug ang an&gtilde;ay sa hari sa Moscobia.</foreign>
+
+<p>Zarina. = <foreign lang=ceb>Ang asáoa sa Zar.</foreign>
+
+<p>Zarpa. = <foreign lang=ceb>Pagcasácoat, pagcabútad sa ancla, sa sinípit; pagcalábao, sa luyo ug sa luyo, sa m&gtilde;a simientos, sa guibágon sa m&gtilde;a pared, sa m&gtilde;a cota; iánang n&gtilde;a matápot sa m&gtilde;a bisti; <corr sic="eamót">camót</corr> sa m&gtilde;a mananáp n&gtilde;a may m&gtilde;a torlo ug m&gtilde;a cocó.</foreign>
+
+<p>Zarpar. = <foreign lang=ceb>Pagsácoat, pagbútad sa áncora sa sinípit.</foreign>
+
+<p>Zarpazo. = <foreign lang=ceb>Pagcahágbong sa bisan onsa n&gtilde;a mahólog sa yota.</foreign>
+
+<p>Zarposo. = <foreign lang=ceb>Ang nahúgao sa iánang, sa lapoc.</foreign>
+
+<p>Zarracatin. = <foreign lang=ceb>Hicáoan; ang tighán&gtilde;io caáyo sa pagpálit sa bisan onsa, arón ibalígya <corr sic="oña">onya</corr> sa pagcamahál.</foreign>
+
+<p>Zarramplín. = <foreign lang=ceb>Tauo n&gtilde;a dili maálam caáyo sa iang catungdánan con opicio.</foreign>
+
+<p>Zarrapastra. = <foreign lang=ceb>Iánang, lapoc n&gtilde;a matápot sa m&gtilde;a bisti<corr>.</corr></foreign>
+
+<p>Zarrapastron. = <foreign lang=ceb>Hugáoan, bolín&gtilde;on, ang nagabisti sa m&gtilde;a bisti n&gtilde;a daan; guisi ug noog.</foreign>
+
+<p>Zarrapastrosamente. = <foreign lang=ceb>Sa pagcahúgao; sa pagcaoaláy cacúgui sa pagalíma sa caugalín&gtilde;on n&gtilde;a laoas ug sa bisti.</foreign>
+
+<p>Zarrapastroso. <corr sic="= V.">V.</corr> <hi>Zarrapastron</hi>.
+
+<p>Zarria. <corr sic="= V.">V.</corr> <hi>Cazcarria</hi>; <foreign lang=ceb>tinábas sa panit n&gtilde;a igatácgos sa m&gtilde;a sapín n&gtilde;a guin&gtilde;álan ug abarca.</foreign>
+
+<p>Zarriento. <corr sic="= V.">V.</corr> <hi>Zarposo</hi>.
+
+<p>Zarza. = <foreign lang=ceb>Tanóm n&gtilde;a tuncan, sapínit.</foreign>
+
+<pb><p>Zarzagan. = <foreign lang=ceb>Han&gtilde;in n&gtilde;a mabúgnao caáyo bisan n&gtilde;a dili mahurús, amíhan.</foreign>
+
+<p>Zarzaganillo. = <foreign lang=ceb>Han&gtilde;in n&gtilde;a amíhan n&gtilde;a mahurús uyámot.</foreign>
+
+<p>Zarzahan. = <foreign lang=ceb>Calaínan sa panápton sa igagáma n&gtilde;a binúrcan sa m&gtilde;a boloc n&gtilde;a nagacaláin lain ug color.</foreign>
+
+<p>Zarzal. = <foreign lang=ceb>Lugar n&gtilde;a guidaghánan sa man&gtilde;a tanóm n&gtilde;a toncan.</foreign>
+
+<p>Zarzamora. = <foreign lang=ceb>Ang bon&gtilde;a sa zarza.</foreign>
+
+<p>Zarzaparrilla. = <foreign lang=ceb>Banag, tanóm n&gtilde;a italámbal.</foreign>
+
+<p>Zarzaparrillar. = <foreign lang=ceb>Lugar n&gtilde;a guidaghánan sa banag.</foreign>
+
+<p>Zarzarosa. = <foreign lang=ceb>Bulac n&gtilde;a maín&gtilde;on ín&gtilde;on sa rosa.</foreign>
+
+<p>Zarzoso. = <foreign lang=ceb>Ang may sapínit, ang guibután&gtilde;an sa m&gtilde;a tanóm n&gtilde;a toncan.</foreign>
+
+<p>Zas. = <foreign lang=ceb>Polong n&gtilde;a icaásoy sa pagcahágbong, sa pagcaósdac sa bisan onsa n&gtilde;a nahólog.</foreign>
+
+<p>Zascandil. = <foreign lang=ceb>Tauo n&gtilde;a batir; tauo n&gtilde;a malimbón&gtilde;an; tauo n&gtilde;a obus ug mahilabtánon.</foreign>
+
+<p>Zatara. = <foreign lang=ceb>Gaquet.</foreign>
+
+<p>Zato. = <foreign lang=ceb>Tipac n&gtilde;a pan.</foreign>
+
+
+
+<div2 id=cZE>
+<head>ZE</head>
+
+<p>Zeca. = <foreign lang=ceb>Baláy n&gtilde;a pagabuhátan sa salapí: sa pisos, sa caháte, &amp;c.</foreign>
+
+<p>Zedoaria. = <foreign lang=ceb>Gamót n&gtilde;a italámbal sa usa ca tanóm sa India.</foreign>
+
+<p>Zelador. = <foreign lang=ceb>Ang magabántay, magbalántay; sumbún&gtilde;an, ang magasúmbong.</foreign>
+
+<p>Zelar. = <foreign lang=ceb>Pagbántay ug maáyo; pag aboghó.</foreign>
+
+<p>Zelo. = <foreign lang=ceb>Cacúguiug dagcó sa pagtúman sa m&gtilde;a tulumánon sa batásan ug sa m&gtilde;a catungdánan; pagcabántay sa paghimáya sa Dios ug sa caayóhan sa m&gtilde;a calág; caíbug sa paglíoat sa m&gtilde;a mananáp; pagcaabogbó sa m&gtilde;a tauo n&gtilde;a managsig higúgma sila.</foreign>
+
+<p>Zelosamente. = <foreign lang=ceb>Sa dagcóng cacúgui.</foreign>
+
+<p>Zeloso. = <foreign lang=ceb>Aboghóan; mananáp n&gtilde;a buot man&gtilde;asáoa; cacuguíhan, mabantáyon caáyo.</foreign>
+
+<p>Zénzalo. = <foreign lang=ceb>Namóc.</foreign>
+
+
+
+<div2 id=cZI>
+<head>ZI</head>
+
+<p>Zilórgano. = <foreign lang=ceb>Tolónggon n&gtilde;a caráan.</foreign>
+
+<p>Zinc. = <foreign lang=ceb>Tumbága n&gtilde;a maín&gtilde;on in&gtilde;on sa tingga.</foreign>
+
+<p>Zipizape. = <foreign lang=ceb>Pagcaáoay.</foreign>
+
+<p>Zirigaña. = <foreign lang=ceb>Pagcaálam alam, pagcaógay ogay; bisan onsa n&gtilde;a diótay caáyo.</foreign>
+
+<p>Ziszas. <corr sic="= V.">V.</corr> <hi>Zas</hi>.
+
+<p>Zizaña. = <foreign lang=ceb>Sagbot, dagámi, bungláyon n&gtilde;a muturóc ug mutóbo sa yota n&gtilde;a guipugásan sa trigo, sa humáy, &amp;c.; pagcabiquil biquil sa m&gtilde;a cabobóton; bisan onsa n&gtilde;a macadáot.</foreign>
+
+<p>Zizañar. = <foreign lang=ceb>Pagsámbag arón magaáoay ang m&gtilde;a tauo; pagdála dala sa m&gtilde;a suguílon n&gtilde;a icabíquil biquil sa m&gtilde;a cabobóton.</foreign>
+
+
+
+
+<div2 id=cZO>
+<head>ZO</head>
+
+<p>Zócalo. = <foreign lang=ceb>Ang hunún&gtilde;an sa m&gtilde;a baláy, &amp;c., ug sa <corr sic="mga">m&gtilde;a</corr> pared, sa m&gtilde;a dingding, &amp;c.</foreign>
+
+<p>Zocato. = <foreign lang=ceb>Talóng n&gtilde;a malálag na; tauo n&gtilde;a oálhon.</foreign>
+
+<p>Zoco. = <foreign lang=ceb>Oálhon, camót sa oála.</foreign>
+
+<p>Zodiaco. = <foreign lang=ceb>Dalan n&gtilde;a pagalácoan sa m&gtilde;a planeta, cutub sa casarpánan sa pagpaín&gtilde;on sa casubán&gtilde;an.</foreign>
+
+<p>Zofra. = <foreign lang=ceb>Baníg sa m&gtilde;a moros.</foreign>
+
+<p>Zoilo. = <foreign lang=ceb>Tauo n&gtilde;a cuti cutíhan, n&gtilde;a masináhon ug tiglíbac libac sa m&gtilde;a buhat sa iang isigcatáuo.</foreign>
+
+<p>Zolocho. = <foreign lang=ceb>Hon&gtilde;og, bo-ang bo-ang, culiró<corr sic=",">.</corr></foreign>
+
+<p>Zollipar. = <foreign lang=ceb>Pagbachó.</foreign>
+
+<p>Zollipo. = <foreign lang=ceb>Pagcabachó.</foreign>
+
+<p>Zona. = <foreign lang=ceb>Ang usa sa lilíma ca bahin sa calibútan.</foreign>
+
+<p>Zonzamente. = <foreign lang=ceb>Sa pagcatáb-an, sa pagcaoaláy lamí.</foreign>
+
+<p>Zonzería. = <foreign lang=ceb>Pagcatáb-an, pagcaoaláy lalím ug lamí.</foreign>
+
+<p>Zonzo. = <foreign lang=ceb>Matáb-an; tauo n&gtilde;a hon&gtilde;og, n&gtilde;a oaláy caan&gtilde;áyan sa iang pagsólte ug pagatúbang.</foreign>
+
+<p>Zonzorrion. = Idem desde <hi lang=ceb>tauo</hi>.
+
+<p>Zoología. = <foreign lang=ceb>Quinaárman n&gtilde;a magaásoy sa pagcabótang ug pagcamáo sa m&gtilde;a mananáp.</foreign>
+
+<p>Zoológico. = <foreign lang=ceb>Ang nahatón&gtilde;ad sa zoología.</foreign>
+
+<p>Zoólogo. = <foreign lang=ceb>Ang maálam sa zoología.</foreign>
+
+<p>Zopas ó zopitas. = <foreign lang=ceb>Mga palong, dangga n&gtilde;a guicahin&gtilde;álan sa tauo n&gtilde;a yun&gtilde;it.</foreign>
+
+<p>Zopenco. = <foreign lang=ceb>Tauo n&gtilde;a hon&gtilde;og, n&gtilde;a oaláy quinaárman, cabus.</foreign>
+
+<p>Zopisa. = <foreign lang=ceb>Tagoc sa cahoy n&gtilde;a sináctan sa talo.</foreign>
+
+<pb><p>Zopo. = <foreign lang=ceb>Pongcol, bacól sa m&gtilde;a tiil ug sa m&gtilde;a camót; tauo n&gtilde;a oaláy pulús sa n&gtilde;atanán.</foreign>
+
+<p>Zoquete. = <foreign lang=ceb>Pinótol sa cahoy n&gtilde;a dagcó ug hamóbo, tipac n&gtilde;a pan; tauo n&gtilde;a malágsot, hamóbo ug matámboc; ang hon&gtilde;óg, sa magahíng olo, ang dili macagtóon sa guitóon canía.</foreign>
+
+<p>Zoquetero. = <foreign lang=ceb>Ang magadaguínot sa m&gtilde;a tipac n&gtilde;a pan sa pagcáon nia, sa oaláy opicio.</foreign>
+
+<p>Zoquetudo. = <foreign lang=ceb>Bisan onsa n&gtilde;a baol, sa daótan n&gtilde;a pagcabóhat.</foreign>
+
+<p>Zorita. = <foreign lang=ceb>Salapáti n&gtilde;a ihálas.</foreign>
+
+<p>Zorra. = <foreign lang=ceb>Mananáp n&gtilde;a maín&gtilde;on in&gtilde;on sa usa ca iró, ug manunubár caáyo sa obán n&gtilde;a m&gtilde;a mananáp n&gtilde;a diótay ug sa m&gtilde;a langgam; babáyeng bigáon, n&gtilde;a magatógot sa iang laoas sa cadaghánan; tauo n&gtilde;a batid, malalán&gtilde;on caáyo.</foreign>
+
+<p>Zorrastron. = <foreign lang=ceb>Tampalásan; matahápon caáyo.</foreign>
+
+<p>Zorrera. = <foreign lang=ceb>Lan&gtilde;ob, baláyan sa zorra; alasóhan, lugar n&gtilde;a may daghan n&gtilde;a asó; pagcabórong, pagcabón&gtilde;og, pagcabóg-at sa olo; pagcatólog n&gtilde;a mabóg-at ug halálom.</foreign>
+
+<p>Zorrería. = <foreign lang=ceb>Pagcalaláng sa zorra sa pagbólong sa quinahánglan sa pagcáon; pagcabátid; pagcalaláng sa m&gtilde;a tauo.</foreign>
+
+<p>Zorrero. = <foreign lang=ceb>Sacayán n&gtilde;a mabóg-at, n&gtilde;a oaláy tulin; tauo n&gtilde;a malalán&gtilde;on, matahápon; ang sonód sa lain, ang naoláhi; calaínan sa iró n&gtilde;a dagcó ug maáyo sa pagpan&gtilde;áyam; ang tauo n&gtilde;a sinohólan sa m&gtilde;a solóp n&gtilde;a hariánon, sa pagpatáy sá m&gtilde;a mananáp n&gtilde;a daótan.</foreign>
+
+<p>Zorro. = <foreign lang=ceb>Zorra n&gtilde;a laqui, ang laqui sa zorra; ang magapacalúya arón dili sia papagbuháton; ang icog sa zorra n&gtilde;a igapáhid sa m&gtilde;a cuadro, &amp;c<corr>.</corr>; ang panit sa zorra n&gtilde;a quinórti laquip ang balahíbo</foreign>, <corr sic="v.">V.</corr> <hi>Zorrero</hi> hasta <hi lang=ceb>tauo</hi>.
+
+<p>Zorrocloco. = <foreign lang=ceb>Tauo n&gtilde;a holohón&gtilde;og; madugáyon, mahináyon sa iang m&gtilde;a buhat, apan n&gtilde;a macúgui sa n&gtilde;atanán n&gtilde;a may polós canía.</foreign>
+
+<p>Zorronglon. = <foreign lang=ceb>Suquíhan, ang magabagólbol sa pagbúhat sa guisógo ug guipabúhat canía.</foreign>
+
+<p>Zorruno. = <foreign lang=ceb>Ang nahatón&gtilde;od sa m&gtilde;a zorra.</foreign>
+
+<p>Zorzal<corr sic=","></corr> = <foreign lang=ceb>Langgam; tauo n&gtilde;a batid, malalán&gtilde;on.</foreign>
+
+<p>Zorzaleña. = <foreign lang=ceb>Aseitunas n&gtilde;a diótay caáyo.</foreign>
+
+<p>Zoster. = <foreign lang=ceb>Saquét n&gtilde;a nahamútang sa daghan n&gtilde;a m&gtilde;a nuca n&gtilde;a muturúc sa haoac.</foreign>
+
+<p>Zote<corr>.</corr> = <foreign lang=ceb>Tauo n&gtilde;a cabos, sa oaláy quinaárman, sa magahíng olo.</foreign>
+
+<p>Zozobra. = <foreign lang=ceb>Casáquet, cayógot, calisód sa huna huna.</foreign>
+
+<p>Zozobrante. = <foreign lang=ceb>Ang guicalísdan; ang anáa sa catáhap sa icadáot.</foreign>
+
+<p>Zozobrar. = <foreign lang=ceb>Paglonód, paglánas sa m&gtilde;a sacayán; pagpuyó sa may catáhap sa icadáot; pagsáquet, pagyógot, paglisód.</foreign>
+
+
+
+
+<div2 id=cZU>
+<head>ZU</head>
+
+<p>Zubia. = <foreign lang=ceb>Lugar n&gtilde;a pagabaháan ug pagatíngban sa daghan n&gtilde;a tubig.</foreign>
+
+<p>Zueco. = <foreign lang=ceb>Sapín sa lonlon n&gtilde;a cahoy, <corr sic="sa pín">sapín</corr> n&gtilde;a may tulúnban sa cahoy.</foreign>
+
+<p>Zuiza. = <foreign lang=ceb>Pagcaáoy, pagcalális lalis sa daghan n&gtilde;a m&gtilde;a tauo.</foreign>
+
+<p>Zulacar. = <foreign lang=ceb>Pagdíhog sa sulaque.</foreign>
+
+<p>Zulaque. = <foreign lang=ceb>Bulit n&gtilde;a magáma sa apog, sa lana ug sa ubán n&gtilde;a m&gtilde;a panácot.</foreign>
+
+<p>Zulla. = <foreign lang=ceb>Tanóm; tae sa m&gtilde;a tauo.</foreign>
+
+<p>Zullarse. = <foreign lang=ceb>Pagcalíbang, <corr sic="gagotót">pagotót</corr><corr>.</corr></foreign>
+
+<p>Zullenco. = <foreign lang=ceb>Tigúlang n&gtilde;a tigotót caáyo sa dili nia pagatuyóon.</foreign>
+
+<p>Zullon. = <foreign lang=ceb>Otót n&gtilde;a mugóa sa oalá tuyóon; otót n&gtilde;a dili mubánha.</foreign>
+
+<p>Zumacal. = <foreign lang=ceb>Yota n&gtilde;a guitámnan sa zumaque.</foreign>
+
+<p>Zumaque. = <foreign lang=ceb>Tanóm; ang dahon nia magámit sa pagtína, ug sa pagcúrti sa man&gtilde;a panit; ang bino.</foreign>
+
+<p>Zumaya. = <foreign lang=ceb>Langgam.</foreign>
+
+<p>Zumba. = <foreign lang=ceb>Cencerrong dagcó; pagcatiao n&gtilde;a mabóg-at, pagcasóod soor.</foreign>
+
+<p>Zumbar. = <foreign lang=ceb>Hagónghong, canógcog, hagong, dagóoc; pagtíao, pagsóod soor, pagsólog solog</foreign>
+
+<p>Zumbel. = <foreign lang=ceb>Ang timáan sa nauong sa tauo n&gtilde;a nasucó; pisí, lubid n&gtilde;a igatúyoc sa casing.</foreign>
+
+<p>Zumbido. = <foreign lang=ceb>Pagcahagónghong, pagcacanógcog, pagcahagólot, pagcadagóoc.</foreign>
+
+<p>Zumbon. = <foreign lang=ceb>Ang magatíao, ang magasóod sood, ang magasólog solog sa masóbsob.</foreign>
+
+<p>Zumiento. = <foreign lang=ceb>Ang pagatolóan sa duga.</foreign>
+
+<p>Zumillo. = <foreign lang=ceb>Tanóm.</foreign>
+
+<p>Zumo. = <foreign lang=ceb>Duga; polós, caposlánan sa bisan onsa.</foreign>
+
+<p>Zumoso<corr>.</corr> <corr sic="= V.">V.</corr> <hi>Zumiento</hi>.
+
+<pb><p>Zupia. = <foreign lang=ceb>Ang bino n&gtilde;a nalobóg, n&gtilde;a may daútan m&gtilde;a color; bisan onsa sa daótan n&gtilde;a lalím ug lamí, ug man&gtilde;ílad n&gtilde;a pagasóln&gtilde;on; ang labíng daótan sa bisan onsa.</foreign>
+
+<p>Zurcido. = <foreign lang=ceb>Ang guisúrse, ang guitahí sa pagcapíno caáyo.</foreign>
+
+<p>Zurcidor. = <foreign lang=ceb>Ang magasúrse, ang magatahí sa panápton n&gtilde;a guisi sa pagcapíno, sa dili maíla caáyo ang tinahían, ang m&gtilde;a tulpoc; cagon cagon.</foreign>
+
+<p>Zurcidura. = <foreign lang=ceb>Pagcasúrsi.</foreign>
+
+<p>Zurcir. = <foreign lang=ceb>Pagsúrsi, pagtahí sa pagcaáyo sa m&gtilde;a panápton n&gtilde;a naguísi; pagbácac, pagmáo mao, pagsúmpay, paggáma sa m&gtilde;a suguílon sa puro ug lonlon n&gtilde;a m&gtilde;a bacac.</foreign>
+
+<p>Zurdo. = <foreign lang=ceb>Oálhon; camót sa oála.</foreign>
+
+<p>Zurita. <corr sic="= V.">V.</corr> <hi>Zuiza</hi>.
+
+<p>Zuro. = <foreign lang=ceb>Salapáti n&gtilde;a ihálas.</foreign>
+
+<p>Zurra. = <foreign lang=ceb>Pagcahámpac; pagcacúrti sa m&gtilde;a panit; pagcaparáyon sa bisan onsang buhat ug labí pa sa pagbása ug sa pagsúlat; pagcaáoay, pagcalális lalis<corr sic=",">.</corr></foreign>
+
+<p>Zurrador. = <foreign lang=ceb>Ang magacúrti sa m&gtilde;a panit; tighámpac, ang muhámpac.</foreign>
+
+<p>Zurrapa. = <foreign lang=ceb>Lalog sa m&gtilde;a ilímnon; bisan onsa n&gtilde;a obús caáyo, n&gtilde;a oaláy bale ug talamáyon; <corr sic="bátâ">báta</corr> n&gtilde;a ualá mutóbo ug sa malágsot ug dagoay.</foreign>
+
+<p>Zurrapilla. = <foreign lang=ceb>Lalog; lauot.</foreign>
+
+<p>Zurraposo. = <foreign lang=ceb>Hugáoan, mahúgao; ang may lalog con lauot.</foreign>
+
+<p>Zurrar. = <foreign lang=ceb>Pagcúrti sa m&gtilde;a panit; paghámpac; paglíbang, paghibúlus.</foreign>
+
+<p>Zurriagar. = <foreign lang=ceb>Pagbúnal, paghámpac.</foreign>
+
+<p>Zurriagazo. = <foreign lang=ceb>Pagcahámpac, pagcabúnal; casáquet, calisód n&gtilde;a miábot sa oalá paabóton ug huna hunáon.</foreign>
+
+<p>Zurriago. = <foreign lang=ceb>Ihalámpac sa panit, sa pisí, &amp;c.</foreign>
+
+<p>Zurriar. = <foreign lang=ceb>Pagpamólong sa malagsot ug sa dagcóng tin&gtilde;og.</foreign>
+
+<p>Zurribanda. = <foreign lang=ceb>Pagcahámpac sa daghan n&gtilde;a m&gtilde;a pagbúnal; pagcaáoay sa daghan n&gtilde;a m&gtilde;a tauo n&gtilde;a nagacabúnal bunal sila.</foreign>
+
+<p>Zurriburri. = <foreign lang=ceb>Tauo n&gtilde;a obus, talamáyon; cadaghánan sa m&gtilde;a tauo uga daútan, tampalásan.</foreign>
+
+<p>Zurrido. = <foreign lang=ceb>Tonóg n&gtilde;a dagcó; pagcahagónghong, pagcacanógcog sa dalónggan.</foreign>
+
+<p>Zurrir. = <foreign lang=ceb>Pagdagónghong, pagdáhog, paghagónghong, pagcanógcog sa m&gtilde;a dalónggan, ug sa bisan onsa.</foreign>
+
+<p>Zurron. = <foreign lang=ceb>Puyo puyo, puntél sa panit n&gtilde;a pagasórlan sa balon, &amp;c., sa m&gtilde;a baquero, sa m&gtilde;a bantay sa m&gtilde;a hayópan; tacong sa m&gtilde;a bon&gtilde;a.</foreign>
+
+<p>Zurrona. = <foreign lang=ceb>Babáye n&gtilde;a obos ug sa daútan n&gtilde;a batúsan, maláo-ay, bigáon.</foreign>
+
+<p>Zurruscarse. = <foreign lang=ceb>Paghicaigit, pagcalíbang sa bisti sa oalá mapanghibaló ang tauo n&gtilde;a nagahibúlus.</foreign>
+
+<p>Zurullo. = <foreign lang=ceb>Ligir sa talo, &amp;c.</foreign>
+
+<p>Zutano. = <foreign lang=ceb>Coan.</foreign>
+
+<p>Zuzo. = <foreign lang=ceb>Polong n&gtilde;a igatáoag sa m&gtilde;a iró.</foreign>
+
+<p>Zuzon. = <foreign lang=ceb>Tanóm.</foreign>
+
 
 
 </body>

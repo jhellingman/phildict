@@ -205,7 +205,6 @@ Abejorro. = Boyog, guiao, biao.
 
 Abejuno. = Canhic, canhig potiócan.
 
-Abertura de boca ó dedos. = Sing̃í, guing̃í.
 
 Abertura de boca ó dedos. = Sing̃í, guing̃i. * De camisa por el cuello. =
 Liab. * En tierra, tabla, pared, &c. = Bohó, bang̃ag, lotac, boong,
@@ -556,7 +555,7 @@ Acreditar. = Matúod, pagmatúod, tood.
 
 Acreedor. = Hing̃otáng̃an.
 
-Acribar. = Alig-ig.
+Acribar. = Alíg-ig.
 
 Acribillar. = Pagbohó, bohó, tabád, tadtad.
 
@@ -640,7 +639,7 @@ Adecuar. = Ang̃ay, oyon, topóng.
 
 Adefesio. = Polong ng̃a oaláy hingtóngdan, cahológan, cahonóng̃an.
 
-Adelantado, atrevido. = Oaláy catahá, oálay pagtáhod, maísog, casíng
+Adelantado, atrevido. = Oaláy catahá, oálay pagtáhod, maísog, cásing
 casíng̃an.
 
 Adelantar. = Ona, dalí. * Paga. = Bayad ng̃a daan, ona. * Dejando atrás
@@ -3756,7 +3755,7 @@ hambóyan.
 
 Balconaje. = Ang pagcadághan sa mg̃a balcon sa mg̃a cabaláyan.
 
-Baldar. = Bacol, piáng, quihod, quíang, opog, quimay, pingcao.
+Baldar. = Bacól, piáng, quihod, quíang, opog, quimay, pingcao.
 
 Balde. = Toong, timba, cabog, ihinóbig.
 
@@ -3903,7 +3902,7 @@ Báratro. = Ang espierno, impierno.
 Barba, parte de la cara que está debajo de la boca. = Solang. * Pelos
 que nacen en la cara. = Bong̃ot. Barbada. = Ang talicalá ng̃a póthao ng̃a
 ibótang sa ilálom, sa obos, sa solang sa mg̃a cabayo, ug isáb-it sa
-preno con sa bocado sa pagpogóng canila. * Isda.
+preno con sa bocado sa pagpogóng caníla. * Isda.
 
 Barbado. = Bong̃óton.
 
@@ -4447,7 +4446,7 @@ lingcodánan.
 Birola. V. Argolla.
 
 Birrete. = Calo calo ng̃a mapóla ng̃a ihátag sa Santos ng̃a Papa sa mg̃a
-Cardenales, sa pagtógot canila sa ilang bág-ong cahímtang.
+Cardenales, sa pagtógot caníla sa ilang bág-ong cahímtang.
 
 Bisabuelo. = Amahán sa apóhan, song̃áy.
 
@@ -5061,7 +5060,7 @@ tudocbánoa.
 
 Bravisimo. = Mabang̃is oyámot, maísog caáyo, ihaláson ng̃a túod.
 
-Bravo. = Táuo ng̃a oaláy cahádloc ug catáhap, cásing casing̃an. * V.
+Bravo. = Táuo ng̃a oaláy cahádloc ug catáhap, cásing casíng̃an. * V.
 Bravio. * Dagat ng̃a badlan, ng̃a nagobót caáyo. * Lugar, yota ng̃a
 sagbótan, ng̃a díli maáyo pagalácoan, calibónan, solóp.
 
@@ -7250,7 +7249,7 @@ catre.
 Cauce. = Alaguían ng̃a halálon sa tobig.
 
 Caucion. = Camatoódan ng̃a guihátag sa usá ca táuo sa lain ng̃a táuo, sa
-pagtúman sa guisógo cania, sa guisáad nia, &c.
+pagtúman sa guisógo canía, sa guisáad nia, &c.
 
 Caudal. = Pohónan, catigayónan, manggad, dona.
 
@@ -8875,7 +8874,7 @@ Pagpirma, paglíg-on sa Pagtóo ng̃a guicaláoat sa mg̃a cristianos sa
 pagbóñag caníla: ang icadóha ca sacramento sa atong Inahan santa
 Iglesia.
 
-Confirmar. = Paglíg-on. * Pagpirma sa mg̃a cristianos sa pagdíhog canila
+Confirmar. = Paglíg-on. * Pagpirma sa mg̃a cristianos sa pagdíhog caníla
 sa señor Obispo sa santos ng̃a lana, ug sa pagtóman osáb sa obán ng̃a mg̃a
 tolománon niíning sacramento.
 
@@ -9124,7 +9123,7 @@ Consiervo. = Isigcaolípon, taláp-od. * Isigcabíhag, isigcasologóon.
 
 Consignar. = Pagtimáan, pagtódlo.
 
-Consigo. = Cania.
+Consigo. = Canía.
 
 Consiliario. V. Consejero.
 
@@ -11558,7 +11557,7 @@ Denominacion. = Bansag, ng̃alan.
 Denominar. = Paghing̃álan, pagtimáan sa bisan onsa ng̃a táuo sa ng̃alan
 ng̃a banságon.
 
-Denostar. = Pagdáot sa ísigcatáuo, pagtóyo cania sa mg̃a polong ng̃a
+Denostar. = Pagdáot sa ísigcatáuo, pagtóyo canía sa mg̃a polong ng̃a
 mabóg-at.
 
 Denotar. = Paghibaló, pagásoy, pagpatimáan.
@@ -12427,7 +12426,7 @@ Descocadamente. = Sa pagcaoaláy caólao.
 Descocado. = Táuo ng̃a díli maólao.
 
 Descocar. = Pagpádpad, pagcóha sa mg̃a cahoy ug mg̃a tanóm sa mg̃a olod
-ng̃a nang̃adáot canila.
+ng̃a nang̃adáot caníla.
 
 Descoger. = Pagbódbor, paghínat sa nalóco, sa nalíquit ug sa naconót.
 
@@ -15506,7 +15505,7 @@ Ejercitante. = Ang magabóhat sa bisan onsa. * Ang magatóman sa mg̃a
 tolománon sa canhic Dios ug sa canhic calág.
 
 Ejercitar. = Pagbóhat sa bisan onsa. * Pagtóon sa bisan cansa, arón
-maálam sa guitóon cania. * Pagsómay somay sa masóbsob sa bisan onsa,
+maálam sa guitóon canía. * Pagsómay somay sa masóbsob sa bisan onsa,
 arón hicádman ug saológon.
 
 Ejército. = Pang̃obátan, cadaghánan sa mg̃a soldados.
@@ -15909,7 +15908,7 @@ Embustear. = Pagbácac, paglímbong.
 
 Embustería. V. Embuste.
 
-Embustero. = Bacacon. * V. Embrollon.
+Embustero. = Bacácon. * V. Embrollon.
 
 Embutir. = Pagpahaáng̃ay sa mg̃a tolotaguídyot ng̃a cahoy, tombága,
 salapí, bató, &c., sa mg̃a bohó ng̃a pagatígban ng̃a daan, sa lain ng̃a
@@ -16644,7 +16643,7 @@ ng̃a sináb-ong sa ilang bisti, ug ng̃a guitógot caníla sa Guinóong hari.
 Encomio. = Pagdáyeg.
 
 Encompadrar. = Pagcógos, pagcódcod sa anac sa lain, sa pagbóñag ug
-pagpirma cania. * Paghigála, pagábian.
+pagpirma canía. * Paghigála, pagábian.
 
 Enconamiento. = Pagcacalamáyo, pagcaínsoy, pagcahóbag sa mg̃a bahin sa
 laoas ng̃a nahasámad sa tonoc, con guipáac sa iró, sa laoa laoa, &c.
@@ -16750,7 +16749,7 @@ ng̃a nanagáoay.
 Encubar. = Pagsolód sa vino, sa aguardiente, sa soca, &c., sa mg̃a cuba.
 * Pagsolód sa mg̃a táuo ng̃a saláan oyámot sa usá ca coba, ubán sa usá ca
 manóc ng̃a laqui, usá ca amó ng̃a baye, usá ca iro ug usá co saoa, ug
-pagbalíbag canila sa tobig.
+pagbalíbag caníla sa tobig.
 
 Encubertar. = Pagtábon sa bisan onsa sa mg̃a panápton. * Pagtábon sa
 laoas sa bisan onsa ng̃a icaságang sa mg̃a pagbónal sa caáoay.
@@ -18975,7 +18974,7 @@ Escurriduras. = Ang mg̃a tolong catapúsan sa vino, tubig, soca, &c., sa
 bisan onsa ng̃a sodlánan.
 
 Escurrir. = Paghorót sa bisan onsang ilímnon. * Paglacát sa bisan díin
-sa pagsolóng ug paghíling sa yota. * Tolo, agas, agay, agáyay,
+sa pagsolóng ug paghíling sa yota. * Tolo, agas, agay, agáy-ay,
 dalígdig, dahínggay. * V. Deslizar hasta pagpamólong. * Pagcalágueu,
 pagpaháoa.
 
@@ -19643,7 +19642,7 @@ Estacazo. = Pagcabónal, pagcalámbos, sa bogsoc.
 
 Estacion. = Pagcabótang sa bisan onsa. * Túig, catuígan. * Pagdúao sa
 mg̃a Singbahán ug pagámpo dihá sa atobáng̃an sa Santísimo Sacramento,
-labí pa sa jueves ug sa viernes sa semana santa. * Pila ca amáhan namo
+labí pa sa jueves ug sa viernes sa semana santa. * Pila ca amahán namo
 ug maghimáya ca María ng̃a ipang̃ádye sa atobáng̃an sa Santísimo
 Sacramento. * Honóng̃an sa procesion sa jueves santo, sa pagsómay sa mg̃a
 pagpasáquet ng̃a guiántos ug guibáti sa atong Guinóong Jesucristo.
@@ -20112,7 +20111,7 @@ bang̃od, bag-id, nisnis, coso coso, haplos.
 Estrella. = Bitóon. * Quinháson ing̃on sa pagcadágoay sa bitóon. * Palad
 sa mg̃a táuo.
 
-Estrellado. = Bitoónan, ang̃ naponó sa mg̃a bitóon.
+Estrellado. = Bitoónan, ang naponó sa mg̃a bitóon.
 
 Estrellar. = Ang nahatong̃ód sa mg̃a bitóon. * Pagbalibag, pagsalibáy sa
 bisan onsa sa macosóg, sa mabáscog, pagposá. * Paglális, pogsócol sa
@@ -21970,7 +21969,7 @@ nila sa bisan onsa, yota, &c., ng̃a pagabohátan nila, sa pagángcon sa
 polós ng̃a ilang pagacoháon, sa catongdánan sa pagsílbi ug pagtáhod sa
 ilang agálon sa ilálom sa pagpanómpa. * Bisan onsa ng̃a guibáyad ug
 guicabálos sa mang̃a guinsacópan sa ilang agálon, tong̃ód sa guihátag
-canila sa pagcafeudo.
+caníla sa pagcafeudo.
 
 
 
@@ -21983,7 +21982,7 @@ icapogóng sa mg̃a capa con capote, sa liog, arón díli mang̃ahólog. *
 Tranca ng̃a pothao ng̃a itralanca sa mg̃a poltáhan, mg̃a tacop ug mg̃a
 talambóan sa dapit sa solód. * Ang sampot sa mg̃a báta, cay maoy
 magabáyad sa ilang mg̃a salá ug sa pagcacondátan nila, sa paghámpac ug
-paggáer, canila. * Palíhan, saclit, cauo, cauot, pacot, gang̃ot, gauot.
+paggáer, caníla. * Palíhan, saclit, cauo, cauot, pacot, gang̃ot, gauot.
 
 Fiambrar. = Pagbáhao.
 
@@ -23792,7 +23791,7 @@ Ganadero. = Tagía sa mg̃a hayópan, sa mg̃a mananáp.
 Ganado. = Mg̃a mananáp ng̃a aghop, hayópon, mang̃a baca, mg̃a carnero, mg̃a
 baboy, mg̃a canding, &c. * Cadaghánan sa mg̃a potiócan sa tagsa ca odlan.
 
-Ganador. = Ang modáog sa sogál, ang̃ may caposlánan sa pagcomercio.
+Ganador. = Ang modáog sa sogál, ang may caposlánan sa pagcomercio.
 
 Ganancia. = Daog, tobo, polós, caposlánan.
 
@@ -24038,7 +24037,7 @@ maíng̃on sa pothao sa isi con sa salapáng.
 
 Garrote. = Cahoy ng̃a díli dagcó caáyo ug díli opód hatáas. * Castigo
 ng̃a guipanghátag sa mg̃a hocom sa mg̃a saláan ng̃a dagcó, sa pagpatáy
-canila sa usá ca capandáyan ng̃a pothao ng̃a magalóoc caníla. *
+caníla sa usá ca capandáyan ng̃a pothao ng̃a magalóoc caníla. *
 Pagcatóltol sa mg̃a pisi ng̃a guibáat sa bisan onsa. * Pagcabáat ng̃a
 mahógot caáyo sa mg̃a bocton ug mang̃a paa. * Pagcalábag.
 
@@ -30216,7 +30215,7 @@ lamang. * Padre ng̃a may cacolían ug cabilínggan sa pagtúman sa
 catúngdanan sa iang pagcapadre.
 
 Irregularidad. = Cabilínggan ng̃a guican sa mg̃a tolománon sa santa
-Iglesia, ng̃a macaólang sa mg̃a táuo sa pagordenal canila, ug sa pagtóman
+Iglesia, ng̃a macaólang sa mg̃a táuo sa pagordenal caníla, ug sa pagtóman
 sa ilang pagcapadre, tong̃ód sa mg̃a salá, con tong̃ód ba sa bisan onsang
 cacolían ng̃a onay sa caogalíng̃on ng̃a laoas.
 
@@ -33614,7 +33613,7 @@ Magistralmente. = Sa pagcaálam, sa quinaárman, sa pagcatúman caáyo.
 Magistratura. = Opicio, cahímtang sa hocom ug ang tiempo ng̃a
 pagadugáyan sa opicio.
 
-Magnánimamente. = Sa dagcóng casíng casíng, sa pagcaáyo oyámot, sa
+Magnánimamente. = Sa dagcóng cásing cásing, sa pagcaáyo oyámot, sa
 tuman caáyo.
 
 Magnanimidad. = Pagcadagcó sa boot, sa casing casing.
@@ -42244,7 +42243,7 @@ ng̃a inherejes ni Pelagio.
 Pelagiano. = Ang nahatung̃ód cang Pelagio ng̃a herejes.
 
 Pelaire. = Táuo ng̃a mamomóo sa baláy ng̃a pagaháblan sa mg̃a panápton, ug
-magahaláyhay canila.
+magahaláyhay caníla.
 
 Pelairía. = Opicio sa pagcapelaire.
 
@@ -42726,7 +42725,7 @@ Peonería. = Yota ng̃a pagabohátan sa tagsa ca táuo, sa tagsa ca adlao.
 
 Peonía. = Tanóm. * V. el anterior.
 
-Peonza. = Casing. * Táuo ng̃a diótay ug condátan, ng̃a malíhoc caáyo.
+Peonza. = Cásing. * Táuo ng̃a diótay ug condátan, ng̃a malíhoc caáyo.
 
 Peor. = Ang butang ng̃a labíng daútan sa lain ng̃a butang.
 
@@ -55304,6 +55303,7 @@ Sarnoso. = Nucáon.
 Sarpullido. V. Salpullido. * Mg̃a labhag, pinaácan sa pulgas.
 
 Sarpullir. = Pagpáac sa pulgas: V. Salpullir.
+
 Sarracénico. = Ang nahatong̃ód sa mg̃a moros.
 
 Sarraceno. = Moros.
@@ -66844,6 +66844,657 @@ sonór canía sa luyo ug sa luyo.
 
 Zamarrilla. = Tanóm ng̃a italámbal.
 
+
+Zamarro. = Bisti sa mg̃a panit sa mg̃a carnerong diótay sa mohómoc ng̃a
+balahíbo; V. Zamacuco.
+
+Zambaigo. = Ang anac sa laláqui ng̃a maítom ug sa babáye ng̃a maputí, con
+sa laláqui ng̃a maputí ug sa babáye ng̃a maítom, sa Indias.
+
+Zambapalo. = Sabáy ng̃a caráan.
+
+Zambarco. = Corea ng̃a halagpád ng̃a ibútang sa dughan sa mg̃a cabayo,
+&c., ng̃a nanagúyod sa mg̃a coche, &c., arón dili sila mang̃asámad.
+
+Zámbigo. = Ang guibalíqgan sa mg̃a paa, ang may mg̃a paa ng̃a balíquig.
+
+Zambo. = Idem; V. Zambaigo; calaínan sa amó.
+
+Zamboa. = Calaínan sa bong̃a ng̃a guing̃álan ug membrillo.
+
+Zambomba. = Tolónggon ng̃a pagaduláan sa mg̃a baquero.
+
+Zambombo. V. Zamacuco.
+
+Zamborotudo ó zamborrotudo. = Idem.
+
+Zambra. = Piesta sa mg̃a moros sa dagcóng banha ug pagsabay; sacayán sa
+mg̃a moros.
+
+Zambucar. = Pagsacót sa bisan onsa sa talioúla sa obán ng̃a mg̃a butang,
+arón dili quiton.
+
+Zambuco. = Pagcatágo sa bisan onsa sa talioála sa obán ng̃a mg̃a butang.
+
+Zambullida. V. Zabullidura.
+
+Zambullidura. = Idem.
+
+Zambullirse. V. Zabullir.
+
+Zampabollos. V. Zampatortas.
+
+Zampalimosnas. = Ang maquiglímos sa mg̃a pultahán sa oaláy caúlao.
+
+Zampapalo. V. Zampatortas.
+
+Zampar. = Pagsolód sa usa ca botang sa solód sa lain ng̃a butang, sa
+pagcacálit; pagcáon sa pagcadalí ug sa pagcalabí.
+
+Zampatortas. = Hing̃áon caáyo; V. Zamacuco.
+
+Zampoña. = Tolónggon ng̃a pagagamíton sa mg̃a baquero, ng̃a guibutáng̃an sa
+daghan ng̃a mg̃a plauta; polong ng̃a oaláy cahológan ug hingtúngdan.
+
+Zampuzar. = Pagsálom; V. Zampar hasta pagcáon.
+
+Zampuzo. = Pagcasálom; pagcatágo sa bisan onsa sa talioála sa ubán ng̃a
+mg̃a butang.
+
+Zanahoria. = Tanóm ng̃a italámbal ug ang gamót nia ng̃a macaón.
+
+Zanca. = Tiil ng̃a hatáas sa mg̃a langgam; paa ng̃a manípis sa mg̃a tauo ug
+sa mg̃a mananáp.
+
+Zancada. = Lacang ng̃a hatáas.
+
+Zancadilla. = Pagcatinángbir, tinángbir; limbong.
+
+Zancajear. = Paglacát sa mg̃a caianáng̃an.
+
+Zancajera. = ang ng̃a pagabotáng̃an sa tiil sa pagsáca sa mg̃a coche;
+bahin sa mg̃a sapín ug sa mg̃a medias ng̃a magatábon sa ticúd; tauo ng̃a
+hamóbo ug sa malágsot ng̃a dagoay.
+
+Zancajo. = Ticód.
+
+Zancajoso. = Luing; ang guiguisían sa mg̃a medias, sa ticód; ang may
+dagcóng ticód.
+
+Zancarron. = Bocóg ng̃a dagcó sa oaláy onód; ang bocóg sa tiil sa oaláy
+onód; tauo ng̃a maníoang, tigúlang ug malágsot; ang dili maálam caáyo sa
+iang catungdánan.
+
+Zancarron de Mahoma. = Ang mg̃a bocóg ni Mahoma ng̃a manalágnang bacácon
+ng̃a guipanagdúao sa mg̃a moros, sa alampóan nila sa longsod sa Meca.
+
+Zanco. = Cadang; ang magsaláyao.
+
+Zancudo. = Ang guitaásan sa mg̃a paa.
+
+Zándalo. V. Sándalo.
+
+Zanga. = Sugál sa baraja.
+
+Zangala. = Panápton sa hilo.
+
+Zangandango. = Tauo ng̃a magapacahóng̃og arón dili sia papagbuháton; tauo
+ng̃a oalúy quinaárman ug hingbangcaágan.
+
+Zanganear. = Pagtápol, pagsóroy soroy sa oalúy buhat.
+
+Zángano. = Putiócan ng̃a laqui, ang laqui sa mg̃a putiócan; tapólan, ang
+mahagógma mucáon sa oaláy buhat.
+
+Zangarilleja. = Bátang hugáoan ng̃a tigsóroy soroy.
+
+Zangarrear. = Pagcóscos sa guitara sa oaláy caálam.
+
+Zangarriana. = Saquét sa olo sa mg̃a hayúpan; camíng̃ao, casobó; hilánat
+con lain ng̃a saquét ng̃a mudámag sa hingtúngdan ng̃a adlao.
+
+Zangarullon. V. Zangarilleja.
+
+Zangolotear. = Pagdúyan, pagtábiog; pagsinó, pagquíno, paglo-gó;
+paghúyang, paggaló galó, paglígang sa bisan onsa cay mahómoc ug halúag.
+
+Zangoloteo. = Pagcatábiog; pagcalo-gó, pagcaquinó; pagcalígang,
+pagcagaló galó, pagcahúyang sa bisan onsa.
+
+Zangotear. V. Zangolotear.
+
+Zangoteo. V. Zangoloteo.
+
+Zanguanga. = Pagcasománg̃il sa bisan onsang saquét arón dili magbúhat ug
+bisan quinsang tauo.
+
+Zanguango. = Tauo ng̃a tapólan, ng̃a mang̃íta sa mg̃a pagsománg̃il arón dili
+sia magabúhat.
+
+Zanguayo. = Tauo sa malúyang laoas, hatáas ug tapólan.
+
+Zanja. = Aoang; sinógdan, guinicánan sa bisan onsa; simientos,
+tilindúgan sa mg̃a baláy, &c.
+
+Zanjar. = Pagbúhat sa mg̃a aoang; pagtápus, pagtibáoas sa bisan onsa, sa
+pagcahigála.
+
+Zanqueador. = Ang magalacát sa pagcabalíquig sa mg̃a paa; tiglacáo;
+hilacát, ang magalacát caáyo.
+
+Zanqueamiento. = Pagcalacát sa pagcaba líquig sa mg̃a paa.
+
+Zanquear. = Paylacáo sa pagcabalíguig sa mg̃a paa; paglacát caáyo ug sa
+hatáas ng̃a dalan, sa halayó.
+
+Zanquilargo. V. Zancudo.
+
+Zanquillas. = Tauo sa hamóbo ug manípis ng̃a mg̃a paa; tauo ng̃a hamóbo.
+
+Zanquituerto. V. Zámbigo.
+
+Zanquivano. = Ang may mg̃a paa ng̃a hatáas ug sa diótay ng̃a bitíis.
+
+Zapa. = Capandáyan sa mg̃a soldados sa pagcále sa yota; quilquígan.
+
+Zapador. = Ang soldado ng̃a magabúhat sa zapa ng̃a guidála nía.
+
+Zapar. = Pagcále sa yota, sa zapa.
+
+Zaparrastrar. = Paggúyor sa mg̃a bisti.
+
+Zaparrastroso. = Ang magabísti sa mg̃a bisting daan, guisi ug bulíng̃on;
+buhat ng̃a dili maáyo, sa daútan ng̃a pagbúhat.
+
+Zaparrazo. = Pagcahágbong; calisód ng̃a muábot sa bisan cansa
+
+
+[**ERROR: Contains unhandled entity &c.;]
+Zapata. = Panit ng̃a mabága, ng̃a ibútang sa ilálom sa quisio sa mg̃a
+pultahán, arón dili unta cagdan ang quisióhan; pinótol ng̃a cahoy ng̃a
+ibútang ug ipahaáng̃ay sa tomóy sa mg̃a halígue, ng̃a mulábao sa luyo ug
+sa luyo, ng̃a pagalingcóran sa mg̃a sabláyan, &c.; sapín ng̃a muábot hasta
+sa harúul sa bitíis.
+
+Zapatazo. = Pagcabúnal, pagcapócpoc sa sapato, sa sapín; pagcahágbong,
+pagcapúcan, pagcahólog sa mg̃a mananáp, sa pagtonób ug mabáscog.
+
+Zapateado. = Sayáo, pagsabáy.
+
+Zapateador. = Ang magabánha sa mg̃a sapín, sa paglacát.
+
+Zapatear. = Pagbánha sa mg̃a sapín, sa paglacát; pagpasipála sa bisan
+cansa, sa polong con sa buhat; pagbásal sa mg̃a camót, sa pagápas sa
+compas sa música; pagsócol, paglális lalis.
+
+Zapatera. = Asáoa sa sapatero; babáye ng̃a tigbúhat sa mg̃a sapín.
+
+Zapatería. = Baláy, tiendáhan ng̃a pagabuhátan ug pagabaligyáan sa mg̃a
+sapín; lugar, dalan ng̃a guibutáng̃an sa daghan ng̃a mg̃a tiendáhan sa mg̃a
+sapín; opicio sa pagbúhat sa mg̃a sapín.
+
+Zapatero. = Magbubúhat, tigbúhat, ang magabúhat sa mg̃a sapín.
+
+Zapateta. = Pagcabánha sa salog, sa mg̃a sapín, sa paglócso sa timáan sa
+calípay.
+
+
+[**ERROR: Contains unhandled entity &c.;]
+Zapatilla. = Panit ng̃a isápao sa mg̃a bató ng̃a santícan sa mg̃a pusil,
+&c.; sapín ng̃a pino ug sa maáyong pagbúhat; sinelas; cocó sa mg̃a
+mananáp.
+
+Zapatillero. = Ang magabúhat sa ma sapatilla.
+
+Zapato. = Sapín.
+
+Zapatudo. = Ang magasapín sa mg̃a sapín ng̃a dagcóan caáyo; mananáp ng̃a
+cocan caáyo.
+
+Zape. = Polong ng̃a igabúgao sa mg̃a iríng; sica; abá, abáa.
+
+Zapear. = Pagsíca, pagbúgao sa mg̃a iríng.
+
+Zapito. = Baso, surlánan sa cahoy ng̃a pagagamíton sa pagpagátas sa mg̃a
+mananáp.
+
+Zapote. = Cahoy ug ang iang bong̃a.
+
+Zapuza. V. Chapuzar.
+
+Zaque. = Sorlánan ng̃a diótay sa bino, sa tubig, &c., sa panit.
+
+Zaquear. = Paghúar sa mg̃a ilímnon sa mg̃a surlánan sa panit.
+
+Zaquizamí. = Catapúsan ng̃a salog sa mg̃a baláy, paga; baláy, solód ng̃a
+diótay caáyo.
+
+Zar. = Hari sa guinharían sa Moscobia.
+
+Zara. V. Maíz.
+
+Zarabanda. = Sayáo, pagsabáy; bisan onsa ng̃a mabánha caáyo ug
+macasámoc.
+
+Zarabutero. V. Embustero; samócan, condátan.
+
+Zaragatona. = Tanóm ng̃a italámbal.
+
+Zaragocí. = Calaínan sa sirioelas.
+
+Zaragüelles. = Salooál; calsones ng̃a halagpád ug sa daótan ng̃a
+pagbúhat.
+
+Zaragutero. V. Zarabutero.
+
+Zaramagullo. = Langgam.
+
+Zarambeque. = Sayáo, pagsabáy.
+
+Zaranda. V. Criba.
+
+Zarandador. = Ang magaalíg-ig.
+
+Zarandajas. = Cadaghánan sa mg̃a butang ng̃a diótay, magamáy.
+
+Zarandajillas. = Idem.
+
+Zanrandalí. = Salapáti ng̃a laqui, ng̃a sinambágan sa mg̃a balahíbo ng̃a
+maítom.
+
+Zarandar. = Pagcaalíg-ig; pagóyog oyog; paglíhoc sa bisan onsa sa
+madalí caáyo, pagláin sa labíng mahál sa bisan onsa.
+
+Zarandear. = Idem.
+
+Zarandero. V. Zarandador; tauo ng̃a dili mahamútang, cundátan, ng̃a
+malíhoc caáyo.
+
+Zarapatel. = Calaínan sa guisál.
+
+Zarapito. = Langgam.
+
+Zaratan. = Hubág ng̃a mang̃il-ád caáyo, samád ng̃a daútan sa mg̃a soso sa
+mg̃a babáye.
+
+Zaraza. = Panápton ng̃a maputí, pino ug halagpád caáyo; minása ng̃a
+sináctan sa mg̃a dagom, sa salamín ng̃a dinócdoc ug sa hiló, ng̃a icapatáy
+sa mg̃a iró.
+
+
+[**ERROR: Contains unhandled entity &c.;]
+Zarcear. = Paghúgas sa mg̃a alaguían sa tubig, sa mg̃a ihi, &c.; paglacát
+ng̃adto ng̃adto, sa madalí caáyo; paglacáo sa pagpaíng̃on ng̃adto ug sa
+pagpaíng̃on ng̃anhi sa masóbsob.
+
+Zarcero. = Calaínan sa iró.
+
+Zarcillo. = Aretes, ariyos, bitay bitay sa mg̃a dalúnggan; bacólong sa
+mg̃a cuba ug sa mg̃a bariles.
+
+Zarco. = Color ng̃a asul ng̃a dili buhi caáyo.
+
+Zarevitz. = Anac ng̃a pang̃ánay sa hari sa Moscobia.
+
+Zariano. = Ang nahatúng̃od ug ang ang̃ay sa hari sa Moscobia.
+
+Zarina. = Ang asáoa sa Zar.
+
+Zarpa. = Pagcasácoat, pagcabútad sa ancla, sa sinípit; pagcalábao, sa
+luyo ug sa luyo, sa mg̃a simientos, sa guibágon sa mg̃a pared, sa mg̃a
+cota; iánang ng̃a matápot sa mg̃a bisti; camót sa mg̃a mananáp ng̃a may mg̃a
+torlo ug mg̃a cocó.
+
+Zarpar. = Pagsácoat, pagbútad sa áncora sa sinípit.
+
+Zarpazo. = Pagcahágbong sa bisan onsa ng̃a mahólog sa yota.
+
+Zarposo. = Ang nahúgao sa iánang, sa lapoc.
+
+Zarracatin. = Hicáoan; ang tigháng̃io caáyo sa pagpálit sa bisan onsa,
+arón ibalígya onya sa pagcamahál.
+
+Zarramplín. = Tauo ng̃a dili maálam caáyo sa iang catungdánan con
+opicio.
+
+Zarrapastra. = Iánang, lapoc ng̃a matápot sa mg̃a bisti.
+
+Zarrapastron. = Hugáoan, bolíng̃on, ang nagabisti sa mg̃a bisti ng̃a daan;
+guisi ug noog.
+
+Zarrapastrosamente. = Sa pagcahúgao; sa pagcaoaláy cacúgui sa pagalíma
+sa caugalíng̃on ng̃a laoas ug sa bisti.
+
+Zarrapastroso. V. Zarrapastron.
+
+Zarria. V. Cazcarria; tinábas sa panit ng̃a igatácgos sa mg̃a sapín ng̃a
+guing̃álan ug abarca.
+
+Zarriento. V. Zarposo.
+
+Zarza. = Tanóm ng̃a tuncan, sapínit.
+
+Zarzagan. = Hang̃in ng̃a mabúgnao caáyo bisan ng̃a dili mahurús, amíhan.
+
+Zarzaganillo. = Hang̃in ng̃a amíhan ng̃a mahurús uyámot.
+
+Zarzahan. = Calaínan sa panápton sa igagáma ng̃a binúrcan sa mg̃a boloc
+ng̃a nagacaláin lain ug color.
+
+Zarzal. = Lugar ng̃a guidaghánan sa mang̃a tanóm ng̃a toncan.
+
+Zarzamora. = Ang bong̃a sa zarza.
+
+Zarzaparrilla. = Banag, tanóm ng̃a italámbal.
+
+Zarzaparrillar. = Lugar ng̃a guidaghánan sa banag.
+
+Zarzarosa. = Bulac ng̃a maíng̃on íng̃on sa rosa.
+
+Zarzoso. = Ang may sapínit, ang guibutáng̃an sa mg̃a tanóm ng̃a toncan.
+
+Zas. = Polong ng̃a icaásoy sa pagcahágbong, sa pagcaósdac sa bisan onsa
+ng̃a nahólog.
+
+Zascandil. = Tauo ng̃a batir; tauo ng̃a malimbóng̃an; tauo ng̃a obus ug
+mahilabtánon.
+
+Zatara. = Gaquet.
+
+Zato. = Tipac ng̃a pan.
+
+
+
+
+ZE
+
+Zeca. = Baláy ng̃a pagabuhátan sa salapí: sa pisos, sa caháte, &c.
+
+Zedoaria. = Gamót ng̃a italámbal sa usa ca tanóm sa India.
+
+Zelador. = Ang magabántay, magbalántay; sumbúng̃an, ang magasúmbong.
+
+Zelar. = Pagbántay ug maáyo; pag aboghó.
+
+Zelo. = Cacúguiug dagcó sa pagtúman sa mg̃a tulumánon sa batásan ug sa
+mg̃a catungdánan; pagcabántay sa paghimáya sa Dios ug sa caayóhan sa mg̃a
+calág; caíbug sa paglíoat sa mg̃a mananáp; pagcaabogbó sa mg̃a tauo ng̃a
+managsig higúgma sila.
+
+Zelosamente. = Sa dagcóng cacúgui.
+
+Zeloso. = Aboghóan; mananáp ng̃a buot mang̃asáoa; cacuguíhan, mabantáyon
+caáyo.
+
+Zénzalo. = Namóc.
+
+
+
+
+ZI
+
+Zilórgano. = Tolónggon ng̃a caráan.
+
+Zinc. = Tumbága ng̃a maíng̃on ing̃on sa tingga.
+
+Zipizape. = Pagcaáoay.
+
+Zirigaña. = Pagcaálam alam, pagcaógay ogay; bisan onsa ng̃a diótay
+caáyo.
+
+Ziszas. V. Zas.
+
+
+[**ERROR: Contains unhandled entity &c.;]
+Zizaña. = Sagbot, dagámi, bungláyon ng̃a muturóc ug mutóbo sa yota ng̃a
+guipugásan sa trigo, sa humáy, &c.; pagcabiquil biquil sa mg̃a
+cabobóton; bisan onsa ng̃a macadáot.
+
+Zizañar. = Pagsámbag arón magaáoay ang mg̃a tauo; pagdála dala sa mg̃a
+suguílon ng̃a icabíquil biquil sa mg̃a cabobóton.
+
+
+
+
+
+ZO
+
+Zócalo. = Ang hunúng̃an sa mg̃a baláy, &c., ug sa mg̃a pared, sa mg̃a
+dingding, &c.
+
+Zocato. = Talóng ng̃a malálag na; tauo ng̃a oálhon.
+
+Zoco. = Oálhon, camót sa oála.
+
+Zodiaco. = Dalan ng̃a pagalácoan sa mg̃a planeta, cutub sa casarpánan sa
+pagpaíng̃on sa casubáng̃an.
+
+Zofra. = Baníg sa mg̃a moros.
+
+Zoilo. = Tauo ng̃a cuti cutíhan, ng̃a masináhon ug tiglíbac libac sa mg̃a
+buhat sa iang isigcatáuo.
+
+Zolocho. = Hong̃og, bo-ang bo-ang, culiró.
+
+Zollipar. = Pagbachó.
+
+Zollipo. = Pagcabachó.
+
+Zona. = Ang usa sa lilíma ca bahin sa calibútan.
+
+Zonzamente. = Sa pagcatáb-an, sa pagcaoaláy lamí.
+
+Zonzería. = Pagcatáb-an, pagcaoaláy lalím ug lamí.
+
+Zonzo. = Matáb-an; tauo ng̃a hong̃og, ng̃a oaláy caang̃áyan sa iang
+pagsólte ug pagatúbang.
+
+Zonzorrion. = Idem desde tauo.
+
+Zoología. = Quinaárman ng̃a magaásoy sa pagcabótang ug pagcamáo sa mg̃a
+mananáp.
+
+Zoológico. = Ang nahatóng̃ad sa zoología.
+
+Zoólogo. = Ang maálam sa zoología.
+
+Zopas ó zopitas. = Mga palong, dangga ng̃a guicahing̃álan sa tauo ng̃a
+yung̃it.
+
+Zopenco. = Tauo ng̃a hong̃og, ng̃a oaláy quinaárman, cabus.
+
+Zopisa. = Tagoc sa cahoy ng̃a sináctan sa talo.
+
+Zopo. = Pongcol, bacól sa mg̃a tiil ug sa mg̃a camót; tauo ng̃a oaláy
+pulús sa ng̃atanán.
+
+Zoquete. = Pinótol sa cahoy ng̃a dagcó ug hamóbo, tipac ng̃a pan; tauo
+ng̃a malágsot, hamóbo ug matámboc; ang hong̃óg, sa magahíng olo, ang dili
+macagtóon sa guitóon canía.
+
+Zoquetero. = Ang magadaguínot sa mg̃a tipac ng̃a pan sa pagcáon nia, sa
+oaláy opicio.
+
+Zoquetudo. = Bisan onsa ng̃a baol, sa daótan ng̃a pagcabóhat.
+
+Zorita. = Salapáti ng̃a ihálas.
+
+Zorra. = Mananáp ng̃a maíng̃on ing̃on sa usa ca iró, ug manunubár caáyo sa
+obán ng̃a mg̃a mananáp ng̃a diótay ug sa mg̃a langgam; babáyeng bigáon, ng̃a
+magatógot sa iang laoas sa cadaghánan; tauo ng̃a batid, malaláng̃on
+caáyo.
+
+Zorrastron. = Tampalásan; matahápon caáyo.
+
+Zorrera. = Lang̃ob, baláyan sa zorra; alasóhan, lugar ng̃a may daghan ng̃a
+asó; pagcabórong, pagcabóng̃og, pagcabóg-at sa olo; pagcatólog ng̃a
+mabóg-at ug halálom.
+
+Zorrería. = Pagcalaláng sa zorra sa pagbólong sa quinahánglan sa
+pagcáon; pagcabátid; pagcalaláng sa mg̃a tauo.
+
+Zorrero. = Sacayán ng̃a mabóg-at, ng̃a oaláy tulin; tauo ng̃a malaláng̃on,
+matahápon; ang sonód sa lain, ang naoláhi; calaínan sa iró ng̃a dagcó ug
+maáyo sa pagpang̃áyam; ang tauo ng̃a sinohólan sa mg̃a solóp ng̃a hariánon,
+sa pagpatáy sá mg̃a mananáp ng̃a daótan.
+
+
+[**ERROR: Contains unhandled entity &c.;]
+Zorro. = Zorra ng̃a laqui, ang laqui sa zorra; ang magapacalúya arón
+dili sia papagbuháton; ang icog sa zorra ng̃a igapáhid sa mg̃a cuadro,
+&c.; ang panit sa zorra ng̃a quinórti laquip ang balahíbo, V. Zorrero
+hasta tauo.
+
+Zorrocloco. = Tauo ng̃a holohóng̃og; madugáyon, mahináyon sa iang mg̃a
+buhat, apan ng̃a macúgui sa ng̃atanán ng̃a may polós canía.
+
+Zorronglon. = Suquíhan, ang magabagólbol sa pagbúhat sa guisógo ug
+guipabúhat canía.
+
+Zorruno. = Ang nahatóng̃od sa mg̃a zorra.
+
+Zorzal = Langgam; tauo ng̃a batid, malaláng̃on.
+
+Zorzaleña. = Aseitunas ng̃a diótay caáyo.
+
+Zoster. = Saquét ng̃a nahamútang sa daghan ng̃a mg̃a nuca ng̃a muturúc sa
+haoac.
+
+Zote. = Tauo ng̃a cabos, sa oaláy quinaárman, sa magahíng olo.
+
+Zozobra. = Casáquet, cayógot, calisód sa huna huna.
+
+Zozobrante. = Ang guicalísdan; ang anáa sa catáhap sa icadáot.
+
+Zozobrar. = Paglonód, paglánas sa mg̃a sacayán; pagpuyó sa may catáhap
+sa icadáot; pagsáquet, pagyógot, paglisód.
+
+
+
+
+
+ZU
+
+Zubia. = Lugar ng̃a pagabaháan ug pagatíngban sa daghan ng̃a tubig.
+
+Zueco. = Sapín sa lonlon ng̃a cahoy, sapín ng̃a may tulúnban sa cahoy.
+
+Zuiza. = Pagcaáoy, pagcalális lalis sa daghan ng̃a mg̃a tauo.
+
+Zulacar. = Pagdíhog sa sulaque.
+
+Zulaque. = Bulit ng̃a magáma sa apog, sa lana ug sa ubán ng̃a mg̃a
+panácot.
+
+Zulla. = Tanóm; tae sa mg̃a tauo.
+
+Zullarse. = Pagcalíbang, pagotót.
+
+Zullenco. = Tigúlang ng̃a tigotót caáyo sa dili nia pagatuyóon.
+
+Zullon. = Otót ng̃a mugóa sa oalá tuyóon; otót ng̃a dili mubánha.
+
+Zumacal. = Yota ng̃a guitámnan sa zumaque.
+
+Zumaque. = Tanóm; ang dahon nia magámit sa pagtína, ug sa pagcúrti sa
+mang̃a panit; ang bino.
+
+Zumaya. = Langgam.
+
+Zumba. = Cencerrong dagcó; pagcatiao ng̃a mabóg-at, pagcasóod soor.
+
+Zumbar. = Hagónghong, canógcog, hagong, dagóoc; pagtíao, pagsóod soor,
+pagsólog solog
+
+Zumbel. = Ang timáan sa nauong sa tauo ng̃a nasucó; pisí, lubid ng̃a
+igatúyoc sa casing.
+
+Zumbido. = Pagcahagónghong, pagcacanógcog, pagcahagólot, pagcadagóoc.
+
+Zumbon. = Ang magatíao, ang magasóod sood, ang magasólog solog sa
+masóbsob.
+
+Zumiento. = Ang pagatolóan sa duga.
+
+Zumillo. = Tanóm.
+
+Zumo. = Duga; polós, caposlánan sa bisan onsa.
+
+Zumoso. V. Zumiento.
+
+Zupia. = Ang bino ng̃a nalobóg, ng̃a may daútan mg̃a color; bisan onsa sa
+daótan ng̃a lalím ug lamí, ug mang̃ílad ng̃a pagasólng̃on; ang labíng
+daótan sa bisan onsa.
+
+Zurcido. = Ang guisúrse, ang guitahí sa pagcapíno caáyo.
+
+Zurcidor. = Ang magasúrse, ang magatahí sa panápton ng̃a guisi sa
+pagcapíno, sa dili maíla caáyo ang tinahían, ang mg̃a tulpoc; cagon
+cagon.
+
+Zurcidura. = Pagcasúrsi.
+
+Zurcir. = Pagsúrsi, pagtahí sa pagcaáyo sa mg̃a panápton ng̃a naguísi;
+pagbácac, pagmáo mao, pagsúmpay, paggáma sa mg̃a suguílon sa puro ug
+lonlon ng̃a mg̃a bacac.
+
+Zurdo. = Oálhon; camót sa oála.
+
+Zurita. V. Zuiza.
+
+Zuro. = Salapáti ng̃a ihálas.
+
+Zurra. = Pagcahámpac; pagcacúrti sa mg̃a panit; pagcaparáyon sa bisan
+onsang buhat ug labí pa sa pagbása ug sa pagsúlat; pagcaáoay,
+pagcalális lalis.
+
+Zurrador. = Ang magacúrti sa mg̃a panit; tighámpac, ang muhámpac.
+
+Zurrapa. = Lalog sa mg̃a ilímnon; bisan onsa ng̃a obús caáyo, ng̃a oaláy
+bale ug talamáyon; báta ng̃a ualá mutóbo ug sa malágsot ug dagoay.
+
+Zurrapilla. = Lalog; lauot.
+
+Zurraposo. = Hugáoan, mahúgao; ang may lalog con lauot.
+
+Zurrar. = Pagcúrti sa mg̃a panit; paghámpac; paglíbang, paghibúlus.
+
+Zurriagar. = Pagbúnal, paghámpac.
+
+Zurriagazo. = Pagcahámpac, pagcabúnal; casáquet, calisód ng̃a miábot sa
+oalá paabóton ug huna hunáon.
+
+Zurriago. = Ihalámpac sa panit, sa pisí, &c.
+
+Zurriar. = Pagpamólong sa malagsot ug sa dagcóng ting̃og.
+
+Zurribanda. = Pagcahámpac sa daghan ng̃a mg̃a pagbúnal; pagcaáoay sa
+daghan ng̃a mg̃a tauo ng̃a nagacabúnal bunal sila.
+
+Zurriburri. = Tauo ng̃a obus, talamáyon; cadaghánan sa mg̃a tauo uga
+daútan, tampalásan.
+
+Zurrido. = Tonóg ng̃a dagcó; pagcahagónghong, pagcacanógcog sa
+dalónggan.
+
+Zurrir. = Pagdagónghong, pagdáhog, paghagónghong, pagcanógcog sa mg̃a
+dalónggan, ug sa bisan onsa.
+
+Zurron. = Puyo puyo, puntél sa panit ng̃a pagasórlan sa balon, &c., sa
+mg̃a baquero, sa mg̃a bantay sa mg̃a hayópan; tacong sa mg̃a bong̃a.
+
+Zurrona. = Babáye ng̃a obos ug sa daútan ng̃a batúsan, maláo-ay, bigáon.
+
+Zurruscarse. = Paghicaigit, pagcalíbang sa bisti sa oalá mapanghibaló
+ang tauo ng̃a nagahibúlus.
+
+Zurullo. = Ligir sa talo, &c.
+
+Zutano. = Coan.
+
+Zuzo. = Polong ng̃a igatáoag sa mg̃a iró.
+
+Zuzon. = Tanóm.
 
 
 
