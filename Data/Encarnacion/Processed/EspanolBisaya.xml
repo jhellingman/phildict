@@ -4,9 +4,9 @@
 
 </p></availability></publicationStmt><notesStmt><note type="Description">#####</note></notesStmt><sourceDesc><bibl><author>Juan F&#232;lis de la Encarnacion</author>
 <title>Diccionario Espa&#241;ol-Bisaya</title>
-<date>1866</date></bibl></sourceDesc></fileDesc><encodingDesc lang="en" xml:lang="en"><p>The spelling of Cebuano in this dictionary follows Spanish conventions and is quite different from the current spelling. Most conspicuous is its use of <hi>c</hi> and <hi>q</hi> where Cebuano now uses <hi>k</hi>, and the absence of the letter <hi>w</hi>. Don't be surprised to see <hi>quinsa</hi> for <hi>kinsa</hi> and <hi>oal&#225;y</hi> for <hi>walay</hi>. Also used is the character <hi>ng&#771;</hi>, to indicate the sound of <hi>ng</hi> as in English <hi>singer</hi>, as opposed to <hi>ng</hi>, as used in English <hi>finger</hi>.
+<date>1866</date></bibl></sourceDesc></fileDesc><encodingDesc lang="en" xml:lang="en"><p>The spelling of Cebuano in this dictionary follows Spanish conventions and is quite different from the current spelling. Most conspicuous is its use of <hi>c</hi> and <hi>q</hi> where Cebuano now uses <hi>k</hi>, and the absence of the letter <hi>w</hi>. Don't be surprised to see <hi lang="ceb" xml:lang="ceb">quinsa</hi> for <hi lang="ceb" xml:lang="ceb">kinsa</hi> and <hi lang="ceb" xml:lang="ceb">oal&#225;y</hi> for <hi lang="ceb" xml:lang="ceb">walay</hi>. Also used is the character <hi>ng&#771;</hi>, to indicate the sound of <hi>ng</hi> as in English <hi>singer</hi>, as opposed to <hi>ng</hi>, as used in English <hi>finger</hi>.
 
-    <table rend="width(50%)"><row role="label"><cell rows="1" cols="1">Old </cell><cell rows="1" cols="1">Modern
+    <table lang="ceb" xml:lang="ceb" rend="width(50%)"><row role="label"><cell rows="1" cols="1">Old </cell><cell rows="1" cols="1">Modern
 
     </cell></row><row><cell rows="1" cols="1">c            </cell><cell rows="1" cols="1">k <hi>or</hi> s
     </cell></row><row><cell rows="1" cols="1">qu           </cell><cell rows="1" cols="1">k
@@ -20,13 +20,13 @@
 
     </p><p>The original is often inconsistent in its spelling of Cebuano. In particular, the <hi>o</hi> and the <hi>u</hi> have been used interchangeably. No attempt has been made to correct that or to modernize the spelling.
 
-    </p><p>Another aspect to be aware of is that some spellings reflect older pronunciations, e.g., where an <hi>r</hi> has become a <hi>d</hi>, as in <hi>torlo</hi>, which in modern Cebuano is <hi>tudlo</hi> (finger). Similarly, <hi>lungsor</hi> for <hi>lungsod</hi> (town), <hi>lingcor</hi> for <hi>lingkod</hi> (to sit), compare with modern <hi>lingkuranan</hi> (chair). Similarly, the sounds of <hi>n</hi> and <hi>ng</hi> have often been interchanged.
+    </p><p>Another aspect to be aware of is that some spellings reflect older pronunciations, e.g., where an <hi>r</hi> has become a <hi>d</hi>, as in <hi lang="ceb" xml:lang="ceb">torlo</hi>, which in modern Cebuano is <hi lang="ceb" xml:lang="ceb">tudlo</hi> (finger). Similarly, <hi lang="ceb" xml:lang="ceb">lungsor</hi> for <hi lang="ceb" xml:lang="ceb">lungsod</hi> (town), <hi lang="ceb" xml:lang="ceb">lingcor</hi> for <hi lang="ceb" xml:lang="ceb">lingkod</hi> (to sit), compare with modern <hi lang="ceb" xml:lang="ceb">lingkoranan</hi> (chair). Similarly, the sounds of <hi>n</hi> and <hi>ng</hi> have often been interchanged. This is also done with the pairs <hi>f</hi> and <hi>p</hi>, <hi>v</hi> and <hi>b</hi>, and <hi>j</hi> and <hi>h</hi>.
 
     </p><p>The quality of the available scans was insufficient to always reconstruct the correct accents. They have been restored where possible, but due to the low quality of these scans, some issues might have been overlooked, while others may have been introduced during the digitization process.
 
     </p><p>Minor punctuation issues have been corrected silently, all significant corrections have been listed in the colophon.
     
-    </p><p>Since the available copy of the second edition is missing the last 10 pages, and no alternative copy could be located, the entries starting with <hi><ref target="e.zamarro">Zamarro</ref></hi> have been included from the first edition.</p><tagsDecl lang="xx" xml:lang="xx"><rendition selector=".small">font-size: small;</rendition><rendition selector=".large">font-size: large;</rendition><rendition selector=".vam">vertical-align: middle;</rendition><rendition selector=".center">text-align: center;</rendition><rendition selector=":lang(ceb)">background-color: #FCFC79;</rendition></tagsDecl></encodingDesc><profileDesc><langUsage lang="en" xml:lang="en"><language id="en">English</language><language id="es">Spanish</language><language id="ceb">Cebuano</language><language id="xx">No linguistic content</language></langUsage><textClass><keywords><list><item>#####</item></list></keywords></textClass><listPrefixDef>        <prefixDef ident="f" matchPattern="(.+)" replacementPattern="https://www.pgdp.net/c/tools/page_browser.php?project=projectID49ee0f93a735d&amp;imagefile=$1.png&amp;mode=image&amp;round_id=F1"/>
+    </p><p>Since the available copy of the second edition is missing the last ten pages, and no alternative copy could be located, the entries starting with <hi><ref target="e.zamarro">Zamarro</ref></hi> have been included from the first edition.</p><tagsDecl lang="xx" xml:lang="xx"><rendition selector=".small">font-size: small;</rendition><rendition selector=".large">font-size: large;</rendition><rendition selector=".vam">vertical-align: middle;</rendition><rendition selector=".center">text-align: center;</rendition><rendition selector=":lang(ceb)">background-color: #FCFC79;</rendition></tagsDecl></encodingDesc><profileDesc><langUsage lang="en" xml:lang="en"><language id="en">English</language><language id="es">Spanish</language><language id="ceb">Cebuano</language><language id="xx">No linguistic content</language></langUsage><textClass><keywords><list><item>#####</item></list></keywords></textClass><listPrefixDef>        <prefixDef ident="f" matchPattern="(.+)" replacementPattern="https://www.pgdp.net/c/tools/page_browser.php?project=projectID49ee0f93a735d&amp;imagefile=$1.png&amp;mode=image&amp;round_id=F1"/>
     </listPrefixDef></profileDesc><revisionDesc><list><item>2014-08-27 Started.
     </item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/new-cover.jpg)"><figDesc>Cubierta frontal de nuevo dise&#241;o.</figDesc></figure>
 
@@ -75,7 +75,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Abalanzarse, arrojarse, impeler. = <foreign lang="ceb" xml:lang="ceb">Hamlag, damag, dasmag.</foreign> * Con los brazos abientos. = <foreign lang="ceb" xml:lang="ceb">Damhag, dasmag.</foreign>
 </p><p>Abalorio de color de oro. = <foreign lang="ceb" xml:lang="ceb">Sambol&#225;oan.</foreign> * De diferentes calidades y figuras. = <foreign lang="ceb" xml:lang="ceb">Malab&#243;la.</foreign>
 </p><p>Abanderado. = <foreign lang="ceb" xml:lang="ceb">Ang magad&#225;la sa bandera.</foreign>
-</p><p>Abandonar. = <foreign lang="ceb" xml:lang="ceb">B&#237;a, sagad &#243; pas&#225;gad.</foreign>
+</p><p>Abandonar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="B&#237;a">Bia</corr>, sagad &#243; pas&#225;gad.</foreign>
 </p><p>Abandono. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#237;a.</foreign>
 </p><p>Abanicar. = <foreign lang="ceb" xml:lang="ceb">Pagp&#225;ypay, pagap&#225;yod.</foreign>
 </p><p>Abanico. = <foreign lang="ceb" xml:lang="ceb">Paypay, ap&#225;yod.</foreign>
@@ -399,7 +399,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Agitarse. = <foreign lang="ceb" xml:lang="ceb">Bodlay, capoy, cot&#225;s.</foreign>
 </p><p>Agobiarse. = <foreign lang="ceb" xml:lang="ceb">Daog, <corr sic="boddlay">bodlay</corr>, capoy.</foreign>
 </p><p>Agolparse, juntarse muchas personas. = <foreign lang="ceb" xml:lang="ceb">Tigom, ting&#771;&#243;b, tagbo, tambong, tapoc.</foreign>
-</p><p>Agon&#237;a. = <foreign lang="ceb" xml:lang="ceb">Paghing&#771;&#243;tas, pagting&#771;&#225;, pagting-ab.</foreign>
+</p><p>Agon&#237;a. = <foreign lang="ceb" xml:lang="ceb">Paghing&#771;&#243;tas, pagting&#771;&#225;, <corr sic="pagting-ab">pagt&#237;ng-ab</corr>.</foreign>
 </p><p>Agonizar. = <foreign lang="ceb" xml:lang="ceb">Ting&#771;&#225;, ting-ab, hing&#771;&#243;tas.</foreign>
 </p><p>Agorar, adivinar los sucesos por medio de pr&#225;cticas vanas. = <foreign lang="ceb" xml:lang="ceb">An&#237;to, dio&#225;ta, tagna.</foreign>
 </p><p>Agorgojarse algo. = <foreign lang="ceb" xml:lang="ceb">Bocboc, gaboc, agay-ay.</foreign>
@@ -555,7 +555,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Alejamiento. = <foreign lang="ceb" xml:lang="ceb">Paghalay&#243;, pagcahalagy&#243;.</foreign>
 </p><p>Alejar. = <foreign lang="ceb" xml:lang="ceb">Halay&#243;, hilit, bolag, halin.</foreign>
 </p><p>Alentado. = <foreign lang="ceb" xml:lang="ceb">Casing cas&#237;ng&#771;an, ma&#237;sog.</foreign>
-</p><p>Alentar, respirar. = <foreign lang="ceb" xml:lang="ceb">Pagginh&#225;oa.</foreign>
+</p><p>Alentar, respirar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagginh&#225;oa">Pagguinh&#225;oa</corr>.</foreign>
 </p><p>Alentar incitando &#225; otro para hacer &#243; decir algo. = <foreign lang="ceb" xml:lang="ceb">Sogyot, agda, sambag hopo.</foreign>
 </p><p>Alero, ala de tejado. = <foreign lang="ceb" xml:lang="ceb">Balisb&#237;san.</foreign>
 </p><p>Alertar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#225;ntay, pol&#243;ng ng&#771;a igat&#243;bag tobag, pagb&#225;los sa mg&#771;a bantay.</foreign> * Poner atencion. = <foreign lang="ceb" xml:lang="ceb">Dong&#771;og, tal&#237;nghog, pagpam&#225;ti, bati.</foreign>
@@ -586,7 +586,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Aliado. = <foreign lang="ceb" xml:lang="ceb">Sandog&#243;, ob&#225;n, dapig.</foreign>
 </p><p>Alicates. = <foreign lang="ceb" xml:lang="ceb">Sipit, comp&#237;t.</foreign>
 </p><p>Aliciente. = <foreign lang="ceb" xml:lang="ceb">Pahag&#225;lam, icahag&#225;lam.</foreign>
-</p><p>Aliento. = <foreign lang="ceb" xml:lang="ceb">Pagginh&#225;oa, ginh&#225;oa, <corr sic="guininhaoa">guininh&#225;oa</corr>.</foreign>
+</p><p>Aliento. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagginh&#225;oa">Pagguinh&#225;oa</corr>, <corr sic="ginh&#225;oa">guinh&#225;oa</corr>, <corr sic="guininhaoa">guininh&#225;oa</corr>.</foreign>
 </p><p>Aligar. = <foreign lang="ceb" xml:lang="ceb">Baat, gapos, tacgos, hocot, hicot, hogot.</foreign>
 </p><p>Aligerar. = <foreign lang="ceb" xml:lang="ceb">Pagg&#225;an, haoas.</foreign>
 </p><p>Alijar. = Idem.
@@ -904,13 +904,13 @@ ESPA&#209;OL-BISAYA.
 </p><p>A&#241;ejo. = Idem.
 </p><p>A&#241;icos. = <foreign lang="ceb" xml:lang="ceb">Tin&#225;bas.</foreign>
 </p><p>A&#241;il. = <foreign lang="ceb" xml:lang="ceb">Tagom.</foreign>
-</p><p>A&#241;o. = <foreign lang="ceb" xml:lang="ceb">T&#250;ig.</foreign> * Pasado. = <foreign lang="ceb" xml:lang="ceb">Ang us&#225;ng t&#250;ig, t&#250;ig ng&#771;a mi&#225;gi, t&#250;ig ng&#771;a guis&#243;ndan ni&#237;ni.</foreign> * Que viene. = <foreign lang="ceb" xml:lang="ceb">T&#250;ig ng&#771;a omal&#225;bot, t&#250;ig ng&#771;a mos&#243;nod ni&#237;ni.</foreign>
+</p><p>A&#241;o. = <foreign lang="ceb" xml:lang="ceb">T&#250;ig.</foreign> * Pasado. = <foreign lang="ceb" xml:lang="ceb">Ang us&#225;ng t&#250;ig, t&#250;ig ng&#771;a mi&#225;gi, t&#250;ig ng&#771;a guis&#243;ndan ni&#237;ni.</foreign> * Que viene. = <foreign lang="ceb" xml:lang="ceb">T&#250;ig ng&#771;a omal&#225;bot, t&#250;ig ng&#771;a <corr sic="mos&#243;nod">moson&#243;d</corr> ni&#237;ni.</foreign>
 </p><p>A&#241;udar. <corr sic="= V.">V.</corr> <hi>Anudar</hi>.
 
 </p></div2><div2 id="cap" type="Section"><head>AP</head><p>Apacentar. = <foreign lang="ceb" xml:lang="ceb">Pagpac&#225;on sa mg&#771;a manan&#225;p, <corr sic="pagd&#225;ngot">pagd&#225;ng&#771;ot</corr>, pagc&#250;mpay.</foreign>
 </p><p>Apacible. = <foreign lang="ceb" xml:lang="ceb">Man&#225;ya n&#225;ya, t&#225;uo sa ma&#225;yong boot.</foreign>
 </p><p>Apaciguar. = <foreign lang="ceb" xml:lang="ceb">Pagd&#225;it, pagh&#250;say sa mg&#771;a cabob&#243;t-on ng&#771;a nanagsigb&#237;nquil b&#237;nquil.</foreign>
-</p><p>Apadrinar. = <foreign lang="ceb" xml:lang="ceb">Pags&#243;nod sa mg&#771;a cal&#225;slon: pagc&#243;dcod, pagc&#243;gos sa mg&#771;a bo&#241;&#225;gan con firm&#225;han. * Laban, tabang.</foreign>
+</p><p>Apadrinar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pags&#243;nod">Pagson&#243;d</corr> sa mg&#771;a cal&#225;slon: pagc&#243;dcod, pagc&#243;gos sa mg&#771;a bo&#241;&#225;gan con firm&#225;han. * Laban, tabang.</foreign>
 </p><p>Apagador. = <foreign lang="ceb" xml:lang="ceb">Ipal&#225;long.</foreign>
 </p><p>Apagar, apagarse. = <foreign lang="ceb" xml:lang="ceb">Palong, sobo, sal&#237;bo.</foreign>
 </p><p>Apalabrar. = <foreign lang="ceb" xml:lang="ceb">Pags&#225;ad sa pagb&#243;hat sa bisan onsa, pagp&#243;long, pags&#225;bot.</foreign>
@@ -923,7 +923,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Aparador. = <foreign lang="ceb" xml:lang="ceb">Paradol, sang&#771;at&#225;n, als&#225;han.</foreign>
 </p><p>Aparar. = <foreign lang="ceb" xml:lang="ceb">Salod.</foreign>
 </p><p>Aparato. = <foreign lang="ceb" xml:lang="ceb">Catil&#237;ngban sa mg&#771;a quinah&#225;nglan sa pagb&#250;hat sa bisan onsa.</foreign>
-</p><p>Aparear. = <foreign lang="ceb" xml:lang="ceb">Topad, topong<corr sic=".">,</corr> timbang, tobag.</foreign>
+</p><p>Aparear. = <foreign lang="ceb" xml:lang="ceb">Topad, <corr sic="topong">top&#243;ng</corr><corr sic=".">,</corr> timbang, tobag.</foreign>
 </p><p>Aparecer, aparecerse. = <foreign lang="ceb" xml:lang="ceb">Tongha, tohao, quita.</foreign>
 </p><p>Aparejar, preparar. = <foreign lang="ceb" xml:lang="ceb">Andam, tag&#225;na.</foreign>
 </p><p>Aparejo, preparacion. = <foreign lang="ceb" xml:lang="ceb">Pagca&#225;ndam, pagcatag&#225;na.</foreign> * Cordel para pescar. = <foreign lang="ceb" xml:lang="ceb">Tal&#243;nton.</foreign>
@@ -1103,7 +1103,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Argadillo. = <foreign lang="ceb" xml:lang="ceb">Badbad&#225;n, balbal&#225;n.</foreign>
 </p><p>Argamasa. = <foreign lang="ceb" xml:lang="ceb">Lichara, lisada.</foreign>
 </p><p>Argamasar. = <foreign lang="ceb" xml:lang="ceb">Pagsac&#243;t sa bal&#225;s ug sa &#225;pog sa t&#250;big.</foreign>
-</p><p>Argolla. = <foreign lang="ceb" xml:lang="ceb">Baclao, bac&#243;long, s&#237;ngsing, galong.</foreign>
+</p><p>Argolla. = <foreign lang="ceb" xml:lang="ceb">Baclao, bac&#243;long, <corr sic="s&#237;ngsing">singsing</corr>, galong.</foreign>
 </p><p>Arg&#252;ir. = <foreign lang="ceb" xml:lang="ceb">Sodya so&#225;y, lalis, indig.</foreign>
 </p><p>Argumentacion. = <foreign lang="ceb" xml:lang="ceb">Pagca&#237;ndig, pagcal&#225;lis, pagcas&#243;dya, pagcaso&#225;y.</foreign>
 </p><p>Argumento. = Idem.
@@ -1273,7 +1273,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Asar en parrillas. = <foreign lang="ceb" xml:lang="ceb">Pagtap&#225;.</foreign> * En rescoldo &#243; sobre las brasas. = <foreign lang="ceb" xml:lang="ceb">Ihao, lambon, ganggang.</foreign>
 </p><p>Ascender. = <foreign lang="ceb" xml:lang="ceb">Sac&#225;, cayab, ang&#771;at.</foreign>
 </p><p>Ascendiente. = <foreign lang="ceb" xml:lang="ceb">Guinic&#225;nan, guilio&#225;tan, tig&#250;lang, guis&#243;ndan. * Gah&#243;m sa us&#225; ca tauo sa ob&#225;n ng&#771;a mg&#771;a tauo, bin&#225;ta.</foreign>
-</p><p>Ascension. = <foreign lang="ceb" xml:lang="ceb">Ang pagsac&#225;, ang pagcay&#225;b, pags&#225;ca ni Jesucristo ng&#771;a &#225;tong Guin&#243;o sa Lang&#771;it.</foreign>
+</p><p>Ascension. = <foreign lang="ceb" xml:lang="ceb">Ang pagsac&#225;, ang <corr sic="pagcay&#225;b">pagc&#225;yab</corr>, pags&#225;ca ni Jesucristo ng&#771;a &#225;tong Guin&#243;o sa Lang&#771;it.</foreign>
 </p><p>Ascenso. = <foreign lang="ceb" xml:lang="ceb">Ang pag&#225;bot sa pagcab&#243;tang ng&#771;a l&#225;bi hat&#225;as ug mah&#225;l sa pagcab&#243;tang ng&#771;a d&#225;an.</foreign>
 </p><p>Asco. = <foreign lang="ceb" xml:lang="ceb">Pagl&#243;od sa guinh&#225;oa, higcon, sigcon.</foreign>
 </p><p>Ascua. = <foreign lang="ceb" xml:lang="ceb">Baga, <corr sic="ag&#237;po">agu&#237;po</corr> ng&#771;a may cal&#225;yo, ang nas&#237;ga.</foreign>
@@ -1350,8 +1350,8 @@ ESPA&#209;OL-BISAYA.
 </p><p>Aspersion. = <foreign lang="ceb" xml:lang="ceb">Pags&#225;blig, pagcas&#225;blig.</foreign>
 </p><p>Aspid. = <foreign lang="ceb" xml:lang="ceb">Sao&#225; ng&#771;a mal&#225;la.</foreign>
 </p><p>Aspiracion. = <foreign lang="ceb" xml:lang="ceb">Pagcaguinh&#225;oa.</foreign>
-</p><p>Aspirar. = <foreign lang="ceb" xml:lang="ceb">Pagginh&#225;oa.</foreign>
-</p><p>Asquerosidad. = <foreign lang="ceb" xml:lang="ceb">Pacah&#243;gao, hogao ng&#771;a macal&#243;od, magapal&#243;od sa ginh&#225;oa.</foreign>
+</p><p>Aspirar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagginh&#225;oa">Pagguinh&#225;oa</corr>.</foreign>
+</p><p>Asquerosidad. = <foreign lang="ceb" xml:lang="ceb">Pacah&#243;gao, hogao ng&#771;a macal&#243;od, magapal&#243;od sa <corr sic="ginh&#225;oa">guinh&#225;oa</corr>.</foreign>
 </p><p>Asqueros&#237;simo. = <foreign lang="ceb" xml:lang="ceb">Mah&#243;gao, hog&#225;oan oy&#225;mot.</foreign>
 </p><p>Asqueorso. <corr sic="= V.">V.</corr> <hi>Asquerosidad</hi>.
 </p><p>Asta de animal. = <foreign lang="ceb" xml:lang="ceb">Song&#771;ay.</foreign> * De lanza, &amp;c. = <foreign lang="ceb" xml:lang="ceb">Togd&#225;nan, ol&#243;ng&#771;an.</foreign>
@@ -1414,7 +1414,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Atm&#243;sfera. = <foreign lang="ceb" xml:lang="ceb">Ang h&#225;ng&#771;in ng&#771;atan&#225;n ug mg&#771;a d&#225;g-om ng&#771;a nanagl&#237;bot sa calib&#243;tan.</foreign>
 </p><p>Atocinar. = <foreign lang="ceb" xml:lang="ceb">Ang pagl&#225;pa sa <corr sic="b&#225;boy">baboy</corr> ug pagas&#237;n.</foreign>
 </p><p>Atolondrado. <corr sic="= V.">V.</corr> <hi>Atarantado</hi>.
-</p><p>Atolondrar. = <foreign lang="ceb" xml:lang="ceb">Pagl&#225;in sa h&#250;na h&#250;na sa t&#225;uo, pagt&#237;ng&#771;&#225;la ug dagc&#243;.</foreign>
+</p><p>Atolondrar. = <foreign lang="ceb" xml:lang="ceb">Pagl&#225;in sa h&#250;na h&#250;na sa t&#225;uo, <corr sic="pagt&#237;ng&#771;&#225;la">pagting&#771;&#225;la</corr> ug dagc&#243;.</foreign>
 </p><p>Atolladero. = <foreign lang="ceb" xml:lang="ceb">Lon&#225;ng calon&#225;ng&#771;an, cayan&#225;ng&#771;an, lap&#243;can.</foreign>
 </p><p>Atollar. = <foreign lang="ceb" xml:lang="ceb">Pasol&#243;d sa cayan&#225;ng&#771;an, sa lon&#225;ng&#771;an, lob&#243;n, lob&#243;ng.</foreign>
 </p><p>&#193;tomo. = <foreign lang="ceb" xml:lang="ceb"><corr sic="B&#237;san">Bisan</corr> <corr sic="&#243;nsa">onsa</corr> <corr sic="&#243;nsa">onsa</corr> ng&#771;a di&#243;tay ca&#225;yo, mg&#771;a dolodag&#225;mi, mg&#771;a sap&#243;c sap&#243;c ng&#771;a mag&#225;gmay ca&#225;yo, ng&#771;a maqu&#237;ta us&#225;hay ng&#771;a nanaglib&#243;t lib&#243;t sa mg&#771;a cas&#237;lao sa <corr sic="&#225;dlao">adlao</corr>.</foreign>
@@ -1506,7 +1506,7 @@ ESPA&#209;OL-BISAYA.
 <pb id="pb37" n="37" facs="f:037"/></p><p>Avaricioso. = <foreign lang="ceb" xml:lang="ceb">Hicao&#225;n, dagin&#243;tan ng&#771;a guilab&#237;han, ng&#771;a l&#225;cad na, cagu&#237;san, sinac&#250;an.</foreign>
 </p><p>Avariento. = Idem.
 </p><p>Ave. = <foreign lang="ceb" xml:lang="ceb">Langgam.</foreign> * De rapi&#241;a. = <foreign lang="ceb" xml:lang="ceb">Man&#225;guit.</foreign>
-</p><p>Avechucho. = <foreign lang="ceb" xml:lang="ceb">Langgam ng&#771;a mal&#225;gsot ug d&#225;goay ng&#771;a oal&#225; hibal&#243;e ang ng&#771;alan nia. * Bisan qu&#237;nsang t&#225;uo ng&#771;a talam&#225;yon <corr sic="tong&#243;d">tong&#771;&#243;d</corr> sa iang d&#225;goay, con sa &#237;ang bat&#225;san.</foreign>
+</p><p>Avechucho. = <foreign lang="ceb" xml:lang="ceb">Langgam ng&#771;a mal&#225;gsot ug d&#225;goay ng&#771;a oal&#225; hibal&#243;e ang ng&#771;alan nia. * Bisan <corr sic="qu&#237;nsang">quinsang</corr> t&#225;uo ng&#771;a talam&#225;yon <corr sic="tong&#243;d">tong&#771;&#243;d</corr> sa iang d&#225;goay, con sa &#237;ang bat&#225;san.</foreign>
 </p><p>Avecindamiento. = <foreign lang="ceb" xml:lang="ceb">Ang pagpoy&#243; sa us&#225; ca l&#243;ngsod, pags&#243;lat sa mang&#771;a t&#225;uo sa padron, pagcamol&#243;pio.</foreign>
 </p><p>Avecindar. = <foreign lang="ceb" xml:lang="ceb">Pagd&#225;oat sa mang&#771;a t&#225;uo ar&#243;n mah&#237;mo sila ug sacop sa l&#243;ngsod, pags&#225;cop.</foreign>
 </p><p>Avejentado. = <foreign lang="ceb" xml:lang="ceb">Ang b&#225;ta pa, &#225;pan ma&#237;ng&#771;on na sa tig&#250;lang.</foreign>
@@ -1936,7 +1936,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Bicoca. = <foreign lang="ceb" xml:lang="ceb">Cotang di&#243;tay, bantay&#225;n, lant&#225;oan, il&#237;han ng&#771;a d&#237;li mal&#237;g-on ca&#225;yo. * <corr sic="B&#237;san">Bisan</corr> <corr sic="&#243;nsa">onsa</corr> ng&#771;a oal&#225;y <corr sic="b&#225;li">bali</corr>.</foreign>
 </p><p>Bicho. = <foreign lang="ceb" xml:lang="ceb">Manan&#225;p ng&#771;a di&#243;tay ng&#771;a oal&#225;y hingt&#250;ngdan ng&#771;a ng&#771;alan. * Ang t&#225;uo sa mal&#225;gsot ug calat&#225;oan, ng&#771;a d&#225;goay.</foreign>
 </p><p>Bien. = <foreign lang="ceb" xml:lang="ceb">Ca&#225;yo, caay&#243;han, catigay&#243;nan, bah&#225;ndi.</foreign>
-</p><p>Bienal. = <foreign lang="ceb" xml:lang="ceb">Ang cadog&#225;yan, ang pagcad&#243;gay sa duha sa duruh&#225;, sa tag&#243;rha, sa tinag&#243;rha ca tuig.</foreign>
+</p><p>Bienal. = <foreign lang="ceb" xml:lang="ceb">Ang cadog&#225;yan, ang pagcad&#243;gay sa duha sa duruh&#225;, sa tag&#243;rha, sa tinag&#243;rha ca <corr sic="tuig">t&#250;ig</corr>.</foreign>
 </p><p>Bienaventurado. <corr sic="= V.">V.</corr> <hi>Beato</hi>.
 </p><p>Bienaventuranza. V. <hi>Beatitud</hi>.
 </p><p>Bienestar. = <foreign lang="ceb" xml:lang="ceb">Catigay&#243;nan, ma&#225;yong pagcab&#243;tang.</foreign>
@@ -1996,7 +1996,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Bloqueo. = <foreign lang="ceb" xml:lang="ceb">Ang pagl&#237;bot, ug pagl&#237;pot sa mang&#771;a ca&#225;oay sa mang&#771;a longsod, c&#250;tub sa lugar ng&#771;a d&#237;li hiab&#243;tan sa mang&#771;a bala sa mang&#771;a l&#243;thang, sa mg&#771;a tagil&#243;ngsod, ar&#243;n d&#237;li pagas&#243;dlan sa mang&#771;a cal&#225;n-on ug sa mang&#771;a quinah&#225;nglan sa pags&#243;col.</foreign>
 
 </p></div2><div2 id="cbo" type="Section"><head>BO</head><p>Boa. = <foreign lang="ceb" xml:lang="ceb">Sao&#225; ng&#771;a dagc&#243;an.</foreign>
-</p><p>Boato. = <foreign lang="ceb" xml:lang="ceb">Pagpad&#225;yeg ng&#771;a guilab&#237;han, pagh&#225;yag sa pagcad&#225;gcong t&#225;uo ug sa catigay&#243;nan sa <corr sic="b&#237;san">bisan</corr> qu&#237;nsa.</foreign>
+</p><p>Boato. = <foreign lang="ceb" xml:lang="ceb">Pagpad&#225;yeg ng&#771;a guilab&#237;han, pagh&#225;yag sa pagcad&#225;gcong t&#225;uo ug sa catigay&#243;nan sa <corr sic="b&#237;san">bisan</corr> <corr sic="qu&#237;nsa">quinsa</corr>.</foreign>
 </p><p>Bobada. = <foreign lang="ceb" xml:lang="ceb">Pacah&#243;ng&#771;og, b&#243;hat con p&#243;long ng&#771;a oal&#225;y hingt&#250;ngdan, c&#225;oang.</foreign>
 <pb id="pb49" n="49" facs="f:049"/></p><p>Bobamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcaoal&#225;y hingt&#250;ngdan, sa pagcac&#225;oang.</foreign>
 </p><p>Bobarron. = <foreign lang="ceb" xml:lang="ceb">Bodong, <corr sic="h&#243;ngog">h&#243;ng&#771;og</corr>, bong&#771;og ng&#771;a dagc&#243;.</foreign>
@@ -2128,7 +2128,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Bosquejo. = <foreign lang="ceb" xml:lang="ceb"><corr sic="B&#237;san">Bisan</corr> &#243;nsang b&#243;hat ng&#771;a guis&#243;gdan ug oal&#225; tap&#243;son, hum&#225;non.</foreign>
 </p><p>Bostezador. = <foreign lang="ceb" xml:lang="ceb">Mahoh&#243;yab, ang moh&#243;yab.</foreign>
 </p><p>Bostezar. = <foreign lang="ceb" xml:lang="ceb">Hoyab.</foreign>
-</p><p>Bota. = <foreign lang="ceb" xml:lang="ceb">Panon&#243;rlan sa vino, sodl&#225;nan sa vino: mah&#237;mo can&#225; sa us&#225; ca p&#225;nit ng&#771;a di&#243;tay ng&#771;a tinah&#237; ug binol&#237;tan sa sol&#243;d, sa salong. * Sap&#237;n ng&#771;a p&#225;nit ng&#771;a magat&#225;bon sa t&#237;el ug sa p&#225;a hasta sa <corr sic="b&#225;gtac">bagtac</corr> con cotub sa t&#243;hod.</foreign>
+</p><p>Bota. = <foreign lang="ceb" xml:lang="ceb">Panon&#243;rlan sa vino, sodl&#225;nan sa vino: mah&#237;mo can&#225; sa us&#225; ca p&#225;nit ng&#771;a di&#243;tay ng&#771;a tinah&#237; ug binol&#237;tan sa sol&#243;d, sa salong. * Sap&#237;n ng&#771;a p&#225;nit ng&#771;a magat&#225;bon sa t&#237;el ug sa p&#225;a hasta sa <corr sic="b&#225;gtac">bagtac</corr> con cotub sa <corr sic="t&#243;hod">tohod</corr>.</foreign>
 </p><p>Botador. = <foreign lang="ceb" xml:lang="ceb">Ang nagabal&#237;bag, tigbal&#237;bag. * Capand&#225;yan sa p&#243;thao sa pag&#237;bot sa mg&#771;a lansang ng&#771;a d&#237;li ica&#237;bot sa c&#243;mpit, sa sipit.</foreign>
 </p><p>Botafuego. = <foreign lang="ceb" xml:lang="ceb">C&#225;hoy ng&#771;a guita&#243;lan sa tom&#243;y sa mecha ng&#771;a dinagc&#243;tan, sa pags&#237;lsil sa artillero c&#250;tub sa halay&#243;, sa p&#243;lvora ng&#771;a guis&#233;bo sa mg&#771;a lothang.</foreign>
 </p><p>Botalon. = <foreign lang="ceb" xml:lang="ceb">C&#225;hoy ng&#771;a hat&#225;as ng&#771;a mag&#225;mit sa mg&#771;a sacay&#225;n con may quinah&#225;nglan.</foreign>
@@ -2194,7 +2194,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Brasero. = <foreign lang="ceb" xml:lang="ceb">Bagah&#225;n, cal&#225;n.</foreign>
 </p><p>Brasil, Palo Brasil. = <foreign lang="ceb" xml:lang="ceb">Sib&#243;cao.</foreign>
 </p><p>Brava cosa. = <foreign lang="ceb" xml:lang="ceb">Botang ng&#771;a oal&#225;y hingt&#243;ngdan.</foreign>
-</p><p>Bravamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcaisog, sa pagcab&#225;ng&#771;is. * Ma&#225;yo ca&#225;yo, sa toman, sa hingpit.</foreign>
+</p><p>Bravamente. = <foreign lang="ceb" xml:lang="ceb">Sa <corr sic="pagcaisog">pagca&#237;sog</corr>, sa pagcab&#225;ng&#771;is. * Ma&#225;yo ca&#225;yo, sa toman, sa hingpit.</foreign>
 </p><p>Bravata. = <foreign lang="ceb" xml:lang="ceb">Pagh&#243;lot, pagh&#243;mot.</foreign>
 </p><p>Bravatero. = <foreign lang="ceb" xml:lang="ceb">Maghol&#243;lot, maand&#225;con.</foreign>
 </p><p>Bravear. = <foreign lang="ceb" xml:lang="ceb">Pagh&#243;lot, pagh&#243;mot, pag&#225;ndac.</foreign>
@@ -2210,7 +2210,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Brazado. = Idem.
 </p><p>Brazaje. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#225;ghan sa <corr sic="mga">mg&#771;a</corr> d&#243;pa c&#243;tob sa ib&#225;bao sa t&#243;big hasta sa bal&#225;s, hasta sa pondo.</foreign>
 </p><p>Brazalete. = <foreign lang="ceb" xml:lang="ceb">Boc&#225;la.</foreign>
-</p><p>Brazo. = <foreign lang="ceb" xml:lang="ceb">Bocton, botcon.</foreign> * De rio. = <foreign lang="ceb" xml:lang="ceb">Sang&#771;a, sob&#225; sob&#225;.</foreign>
+</p><p>Brazo. = <foreign lang="ceb" xml:lang="ceb">Bocton, botcon.</foreign> * De rio. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Sang&#771;a">Sang&#771;&#225;</corr>, sob&#225; sob&#225;.</foreign>
 </p><p>Brazos de peso. = <foreign lang="ceb" xml:lang="ceb">Biday biday.</foreign> * U&#241;as de cangrejo, alacran, &amp;c. = <foreign lang="ceb" xml:lang="ceb">Cagat.</foreign>
 </p><p>Brazuelo. = <foreign lang="ceb" xml:lang="ceb">Bocton ng&#771;a di&#243;tay.</foreign>
 </p><p>Brea. = <foreign lang="ceb" xml:lang="ceb">Salong, t&#225;goc sa c&#225;hoy.</foreign> * Blanca. = <foreign lang="ceb" xml:lang="ceb">Lonay.</foreign>
@@ -2352,7 +2352,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Burrajo. = <foreign lang="ceb" xml:lang="ceb">Ta-i sa mg&#771;a caballo, &amp;c.</foreign>
 </p><p>Burrazo. = <foreign lang="ceb" xml:lang="ceb">Burro ng&#771;a dagc&#243;.</foreign>
 </p><p>Burro. V. <hi>Borrico</hi>.
-</p><p>Burujo. = <foreign lang="ceb" xml:lang="ceb">Ang opa sa mg&#771;a aceytunas sa nap&#237;ga na ug guinacoh&#225;an na sa d&#243;ga, sa l&#225;na, sa guibady&#233;tan na. * Ogdo sa yota ug sa <corr sic="b&#237;san">bisan</corr> <corr sic="&#243;nsa">onsa</corr>.</foreign>
+</p><p>Burujo. = <foreign lang="ceb" xml:lang="ceb">Ang opa sa mg&#771;a aceytunas sa nap&#237;ga na ug guinacoh&#225;an na sa <corr sic="d&#243;ga">dog&#225;</corr>, sa l&#225;na, sa guibady&#233;tan na. * Ogdo sa yota ug sa <corr sic="b&#237;san">bisan</corr> <corr sic="&#243;nsa">onsa</corr>.</foreign>
 </p><p>Burujon. = <foreign lang="ceb" xml:lang="ceb">Hob&#225;g sa olo, ogdo.</foreign>
 </p><p>Burraca. = <foreign lang="ceb" xml:lang="ceb">Poyo poyo ng&#771;a dagc&#243; sa panit.</foreign>
 <pb/></p><p>Busca. = <foreign lang="ceb" xml:lang="ceb">Pagpang&#771;&#237;ta.</foreign>
@@ -2697,7 +2697,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Candado. = <foreign lang="ceb" xml:lang="ceb">Candaro, yao&#237;han ng&#771;a dili pirme sa mang&#771;a tacop.</foreign>
 </p><p>Candela. = <foreign lang="ceb" xml:lang="ceb">Candela.</foreign>
 </p><p>Candelabro. = <foreign lang="ceb" xml:lang="ceb">Candelero ng&#771;a dagc&#243; ng&#771;a arang bot&#225;ng&#771;an ug ta&#243;lan sa d&#225;ghan ng&#771;a mg&#771;a candela con sug&#225;.</foreign>
-</p><p>Candelaria. = <foreign lang="ceb" xml:lang="ceb">Piesta sa pagh&#225;tod, sa pagpat&#243;ngha, sa pagpaquita ni Mar&#237;a Sant&#237;sima sa &#237;ang Santos ng&#771;a Anac sa Singbah&#225;n sa Jerusal&#233;m. * Piesta sa pag&#243;lay ni Mar&#237;a Sant&#237;sima.</foreign>
+</p><p>Candelaria. = <foreign lang="ceb" xml:lang="ceb">Piesta sa pagh&#225;tod, sa pagpat&#243;ngha, sa <corr sic="pagpaquita">pagpaqu&#237;ta</corr> ni Mar&#237;a Sant&#237;sima sa &#237;ang Santos ng&#771;a Anac sa Singbah&#225;n sa Jerusal&#233;m. * Piesta sa pag&#243;lay ni Mar&#237;a Sant&#237;sima.</foreign>
 </p><p>Candeleria. = <foreign lang="ceb" xml:lang="ceb">Bal&#225;y con lugar ng&#771;a pagaboh&#225;tan ug pagbaligy&#225;an sa mg&#771;a candela.</foreign>
 </p><p>Candelero. = <foreign lang="ceb" xml:lang="ceb">Candelero, sangg&#225;an sa mang&#771;a candela, bolot&#225;ng&#771;an, tolp&#243;can sa mg&#771;a candela.</foreign>
 </p><p>Candelica. = <foreign lang="ceb" xml:lang="ceb">Calilla ng&#771;a bat&#225;as sa pan&#225;pton ng&#771;a pino ng&#771;a lin&#237;quit, ang guih&#237;log sa talo ug sa ob&#225;n ng&#771;a mg&#771;a sac&#243;t, ng&#771;a guinag&#225;mit sa mg&#771;a manan&#225;mbal sa pagt&#225;mbal sa mg&#771;a t&#225;uo ng&#771;a mob&#225;ti sila sa alagu&#237;an sa &#237;hi.</foreign>
@@ -2742,7 +2742,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Can&#243;nigo. = <foreign lang="ceb" xml:lang="ceb">Ang Padre ng&#771;a may opicio sa mg&#771;a Singbah&#225;n ng&#771;a catedral.</foreign>
 </p><p>Canonista. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a quinaadm&#225;non sa tong&#771;&#243;d sa mg&#771;a tolom&#225;non sa Singbah&#225;n.</foreign>
 </p><p>Canonizable. = <foreign lang="ceb" xml:lang="ceb">Ang t&#225;uo ng&#771;a tac&#243;s ng&#771;a ilhan s&#237;a sa pagcasantos.</foreign>
-</p><p>Canonizacion. = <foreign lang="ceb" xml:lang="ceb">Ang pagt&#250;g-an ug pogbal&#225;od sa Santos ng&#771;a Papa sa pagcasantos sa <corr sic="b&#237;san">bisan</corr> cansang t&#225;uo ng&#771;a sa b&#243;hi pa s&#237;a nagaal&#225;gad sa hingpit sa Dios.</foreign>
+</p><p>Canonizacion. = <foreign lang="ceb" xml:lang="ceb">Ang pagt&#250;g-an ug <corr sic="pogbal&#225;od">pagbal&#225;od</corr> sa Santos ng&#771;a Papa sa pagcasantos sa <corr sic="b&#237;san">bisan</corr> cansang t&#225;uo ng&#771;a sa b&#243;hi pa s&#237;a nagaal&#225;gad sa hingpit sa Dios.</foreign>
 </p><p>Canonizar. = Idem.
 </p><p>Canonj&#237;a. = <foreign lang="ceb" xml:lang="ceb">Cah&#237;mtang sa mg&#771;a Padre ng&#771;a guing&#771;&#225;nlan ug can&#243;nigo.</foreign>
 </p><p>Canoro. = <foreign lang="ceb" xml:lang="ceb">Pagcas&#225;yod, pagca&#225;ng&#771;ay ug pagcam&#237;ng&#771;ao sa ting&#771;og sa mg&#771;a l&#225;nggam.</foreign>
@@ -2756,7 +2756,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Cantar. = <foreign lang="ceb" xml:lang="ceb">Pagcanta, pagg&#243;ya g&#243;ya.</foreign> * Las aves. = <foreign lang="ceb" xml:lang="ceb">Honi honi, ag&#243;mod.</foreign> * Para entretener &#225; ni&#241;os. = <foreign lang="ceb" xml:lang="ceb">Hol&#243;, bo-&#225;, hi-a.</foreign> * La lechuza. = <foreign lang="ceb" xml:lang="ceb">Caocao, boc&#225;ocao.</foreign> * Los que reman, &amp;c. = <foreign lang="ceb" xml:lang="ceb">Hol&#243;, sal&#243;ma.</foreign>
 </p><p>C&#225;ntara. = <foreign lang="ceb" xml:lang="ceb">Bang&#771;a.</foreign>
 </p><p>Cantarera. = <foreign lang="ceb" xml:lang="ceb">Ang tongt&#243;ng&#771;an sa mg&#771;a bang&#771;a.</foreign>
-</p><p>Cant&#225;rida. = <foreign lang="ceb" xml:lang="ceb">Lang&#771;ao ng&#771;a mal&#243;nhao ng&#771;a pagabol&#225;lon ug ma&#225;yo ug dodocd&#243;con: quin&#237;ng bin&#243;cboc ma&#237;sog ca&#225;yo ug magal&#225;btog, magal&#243;tob, magapab&#237;tlig ug magalib&#243;toy sa b&#225;hin sa l&#225;oas ng&#771;a pagabot&#225;ng&#771;an ug pagdap&#225;tan.</foreign>
+</p><p>Cant&#225;rida. = <foreign lang="ceb" xml:lang="ceb">Lang&#771;ao ng&#771;a mal&#243;nhao ng&#771;a pagabol&#225;lon ug ma&#225;yo ug dodocd&#243;con: <corr sic="quin&#237;ng">quining</corr> bin&#243;cboc ma&#237;sog ca&#225;yo ug magal&#225;btog, magal&#243;tob, magapab&#237;tlig ug magalib&#243;toy sa b&#225;hin sa l&#225;oas ng&#771;a pagabot&#225;ng&#771;an ug pagdap&#225;tan.</foreign>
 </p><p>Cantarillo. = <foreign lang="ceb" xml:lang="ceb">Bang&#771;a ng&#771;a di&#243;tay.</foreign>
 </p><p>Cantarin. = <foreign lang="ceb" xml:lang="ceb">Ang nagacolocanta sa mas&#243;bsob, ang nagacanta sa mg&#771;a d&#243;la.</foreign>
 </p><p>C&#225;ntaro. V. <hi>C&#225;ntara</hi>.
@@ -2818,7 +2818,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Capilla. = <foreign lang="ceb" xml:lang="ceb">Pan&#225;pton ng&#771;a guinacon&#243;t ug gui&#225;ng&#771;ay sa pagt&#225;bon sa olo. * Bahin sa bisti <corr sic="ng&#771;&#225;">ng&#771;a</corr> <corr sic="guinabisti">guinab&#237;sti</corr> <pb id="pb71" n="71" facs="f:071"/>sa ob&#225;n ng&#771;a mg&#771;a Padre, ng&#771;a icat&#225;bon op&#243;d sa olo, ug nagacal&#225;in lain ug d&#225;goay. * Sal&#243;d sol&#243;d ng&#771;a di&#243;tay sa sol&#243;d gay&#243;d sa mg&#771;a Singbah&#225;n, ng&#771;a guibot&#225;ng&#771;an sa altal ug pagamis&#225;han. * Mang&#771;a bal&#225;y ng&#771;a alamp&#243;an ug mg&#771;a Singbah&#225;n ng&#771;a di&#243;tay sa mang&#771;a calongs&#243;dan ug sa holoh&#237;lit sa mg&#771;a longsod. * Lames&#225;han ug mg&#771;a casangc&#225;pan sa pagmisa sa mg&#771;a sacay&#225;n, ug ng&#771;a guid&#225;la dala op&#243;d sa mg&#771;a pang&#771;ob&#225;tan.</foreign>
 </p><p>Capillo. = <foreign lang="ceb" xml:lang="ceb">Pan&#225;pton ng&#771;a igat&#225;bon sa olo. * Pan&#225;pton ng&#771;a pot&#237;on ng&#771;a icat&#225;bon sa mg&#771;a Padre sa olo sa mg&#771;a b&#225;ta sa &#243;bus na s&#237;la guibo&#241;&#225;gan. * Pan&#225;pton ng&#771;a pot&#237;on ng&#771;a sal&#225;han sa vino, t&#243;big, &amp;c.</foreign>
 </p><p>Capitacion. = <foreign lang="ceb" xml:lang="ceb">Pagb&#225;hin b&#225;hin ug pagt&#243;dlo sa t&#225;mpo ug bal&#225;ydon sa tagsa tagsa.</foreign>
-</p><p>Capital. = <foreign lang="ceb" xml:lang="ceb">Puh&#243;nan sa salap&#237; ug sa mangg&#225;d sa <corr sic="b&#237;san">bisan</corr> <corr sic="c&#225;nsa">cansa</corr>. * Puh&#243;nan ng&#771;a guid&#225;la sa lal&#225;qui con sa b&#225;na sa pagcam&#237;&#241;o n&#237;a. * Longsod ng&#771;a pon&#243;an con cabecera sa t&#225;gsa ca Guinhad&#237;an con provincia. * Sala ng&#771;a dagc&#243;an con pon&#243;an sa ob&#225;n ng&#771;a mg&#771;a sal&#225;. * Bisan <corr sic="&#243;nsa">onsa</corr> ng&#771;a dagc&#243;an oy&#225;mot.</foreign>
+</p><p>Capital. = <foreign lang="ceb" xml:lang="ceb">Puh&#243;nan sa salap&#237; ug sa <corr sic="mangg&#225;d">manggad</corr> sa <corr sic="b&#237;san">bisan</corr> <corr sic="c&#225;nsa">cansa</corr>. * Puh&#243;nan ng&#771;a guid&#225;la sa lal&#225;qui con sa <corr sic="b&#225;na">bana</corr> sa pagcam&#237;&#241;o n&#237;a. * Longsod ng&#771;a pon&#243;an con cabecera sa t&#225;gsa ca Guinhad&#237;an con provincia. * Sala ng&#771;a dagc&#243;an con pon&#243;an sa ob&#225;n ng&#771;a mg&#771;a sal&#225;. * Bisan <corr sic="&#243;nsa">onsa</corr> ng&#771;a dagc&#243;an oy&#225;mot.</foreign>
 </p><p>Capitalista. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a guit&#237;gom ang &#237;ang poh&#243;nan sa l&#243;nlon ng&#771;a salap&#237;.</foreign>
 </p><p>Capitan. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a pang&#771;&#243;lo, maghoh&#243;pot ug magbob&#243;ot sa pila ca t&#225;uo. * Pang&#771;&#243;lo sa mg&#771;a momomon&#243;. * Ang magab&#243;ot sa us&#225; ca longsod, ang hocom, ang gobernadorcillo. * Ang magah&#243;pot ug magab&#243;ot sa mg&#771;a sacay&#225;n, ang may catongd&#225;nan, sa pagt&#243;dlo ug pagb&#225;ntay sa &#237;lang <corr sic="pagadol&#243;ngan">pagadol&#243;ng&#771;an</corr>. * Ang magab&#225;ntay sa <corr sic="laoigan">lao&#237;gan</corr> con pond&#243;han, ug mang&#771;&#225;yo sa pinond&#243;han con sa <corr sic="b&#225;yad">bayad</corr> sa pagl&#225;oig. * Ang magab&#243;ot ug mags&#243;go sa mang&#771;a soldados ng&#771;atan&#225;n sa t&#225;gsa ca pang&#771;ob&#225;tan, ug ang pon&#243;an sa mang&#771;a provincia. * Capitan general.</foreign>
 </p><p>Capitanear. = <foreign lang="ceb" xml:lang="ceb">Pags&#243;go ug pagb&#243;ot sa mg&#771;a soldado, sa mg&#771;a calongs&#243;dan ug sa mg&#771;a caoat&#225;n.</foreign>
@@ -3090,7 +3090,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Cautivar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#237;hag, pagpam&#237;hag.</foreign>
 </p><p>Cautiverio. = <foreign lang="ceb" xml:lang="ceb">Cabih&#225;gon, cabih&#225;gan.</foreign>
 </p><p>Cautividad. = Idem.
-</p><p>Cautivo. = <foreign lang="ceb" xml:lang="ceb">Bih&#225;g.</foreign>
+</p><p>Cautivo. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Bih&#225;g">Bihag</corr>.</foreign>
 </p><p>Cauto. V. <hi>Cauteloso</hi>.
 </p><p>Cavador. = <foreign lang="ceb" xml:lang="ceb">Tigc&#225;le, comal&#225;le, magcac&#225;le, ang nagac&#225;le.</foreign>
 </p><p>Cavadura. = <foreign lang="ceb" xml:lang="ceb">Pagc&#225;le, quin&#225;le, quinal&#237;an.</foreign>
@@ -3150,7 +3150,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Celestialmente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcab&#243;ot sa Lang&#771;it, sa pagb&#243;ot sa Dios. * Sa pagcah&#237;ngpit, sa pagcat&#243;man.</foreign>
 <pb id="pb80" n="80" facs="f:080"/></p><p>Celibato. = <foreign lang="ceb" xml:lang="ceb">Ang cahimtang sa pagcaolit&#225;uo. * <corr sic="Tauo">T&#225;uo</corr> ng&#771;a oal&#225; pa mam&#237;&#241;o, apan ng&#771;a arang sia mam&#237;&#241;o ug boot.</foreign>
 </p><p>Celo. = <foreign lang="ceb" xml:lang="ceb">Pagb&#225;ntay sa masingc&#225;mot ca&#225;yo, pagb&#225;ntay sa dong&#771;og ug sa paghim&#225;ya sa Dios. * Pagabobh&#243;, pagabogh&#243;.</foreign>
-</p><p>Celoso. = <foreign lang="ceb" xml:lang="ceb">Maabogh&#243;on, ang magabogh&#243;, abogh&#243;an. * Ang nagab&#225;ntay ug ma&#225;yo. * <corr sic="Sac&#225;yan">Sacay&#225;n</corr> ng&#771;a maqu&#237;las, ng&#771;a magataquil&#237;d, mal&#237;ngga lingga.</foreign>
+</p><p>Celoso. = <foreign lang="ceb" xml:lang="ceb">Maabogh&#243;on, ang magabogh&#243;, abogh&#243;an. * Ang nagab&#225;ntay ug ma&#225;yo. * <corr sic="Sac&#225;yan">Sacay&#225;n</corr> ng&#771;a maqu&#237;las, ng&#771;a <corr sic="magataquil&#237;d">magataqu&#237;lid</corr>, mal&#237;ngga lingga.</foreign>
 </p><p>Celos&#237;a. = <foreign lang="ceb" xml:lang="ceb">Lin&#225;la sa mg&#771;a pap&#225;n ng&#771;a man&#237;pis ug ha&#237;ctin ng&#771;a pagac&#250;rus cur&#250;son, ng&#771;a guib&#237;nlan sa mang&#771;a boh&#243; ng&#771;a di&#243;tay, sa pags&#243;long con ib&#250;tang na sa atub&#225;ng&#771;an sa mg&#771;a bentana ug con sa lain ba ng&#771;a lugar.</foreign>
 </p><p>Celsitud. = <foreign lang="ceb" xml:lang="ceb">Pagcahal&#225;ngdon, pagcat&#225;as, pagcadagc&#243;.</foreign>
 </p><p>Cementerio. = <foreign lang="ceb" xml:lang="ceb">Lob&#243;ng&#771;an, lobng&#771;&#225;nan, lol&#243;bng&#771;an.</foreign>
@@ -3401,7 +3401,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Codo. = <foreign lang="ceb" xml:lang="ceb">Sico. * Socod ng&#771;a hat&#225;as ma&#237;ng&#771;on sa cahit&#225;son cotob sa sico hasta sa tom&#243;y sa mg&#771;a todlo, sa bin&#243;clad ang cam&#243;t.</foreign>
 </p><p>Codorniz. = <foreign lang="ceb" xml:lang="ceb">Langgam sa Espa&#241;a.</foreign>
 </p><p>Coep&#237;scopo. = <foreign lang="ceb" xml:lang="ceb">Isigcaobispo.</foreign>
-</p><p>Coercion. = <foreign lang="ceb" xml:lang="ceb">Pagcap&#243;gong, pagcah&#225;oid.</foreign>
+</p><p>Coercion. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagcap&#243;gong">Pagcapog&#243;ng</corr>, pagcah&#225;oid.</foreign>
 </p><p>Coercitivo. = <foreign lang="ceb" xml:lang="ceb">Ang nagap&#243;gong, ang nagah&#225;oid.</foreign>
 </p><p>Coet&#225;neo. = <foreign lang="ceb" xml:lang="ceb">Dong&#771;an, talid&#243;ng&#771;an.</foreign>
 </p><p>Cofa. = <foreign lang="ceb" xml:lang="ceb">Salog salog ng&#771;a guib&#243;tang sa olo con sa tom&#243;y sa mg&#771;a tal&#225;doc sa mg&#771;a sacay&#225;n.</foreign>
@@ -4178,7 +4178,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Coste. = <foreign lang="ceb" xml:lang="ceb">Bili.</foreign>
 </p><p>Costear. = <foreign lang="ceb" xml:lang="ceb">Pagsac&#225;y ug had&#243;ol sa yota, sa baib&#225;yon. * Pagb&#225;yad sa quinah&#225;nglan sa pagc&#225;on, sa pagbisti, &amp;c.</foreign>
 </p><p>Costera. = <foreign lang="ceb" xml:lang="ceb">Ang quilid, ang luyo sa too con sa o&#225;la sa bisan onsa.</foreign>
-</p><p>Costilla. = <foreign lang="ceb" xml:lang="ceb">Gos&#243;c. * Ang <corr sic="caugaling&#771;on">caugal&#237;ng&#771;on</corr> ng&#771;a as&#225;oa, licod. * Mg&#771;a ligazon sa mang&#771;a sacay&#225;n.</foreign>
+</p><p>Costilla. = <foreign lang="ceb" xml:lang="ceb">Gos&#243;c. * Ang <corr sic="caugaling&#771;on">caugal&#237;ng&#771;on</corr> ng&#771;a as&#225;oa, <corr sic="licod">lic&#243;d</corr>. * Mg&#771;a ligazon sa mang&#771;a sacay&#225;n.</foreign>
 <pb id="pb106" n="106" facs="f:106"/></p><p>Costillar. = <foreign lang="ceb" xml:lang="ceb">Ang cadagh&#225;nan sa mg&#771;a gos&#243;c.</foreign>
 </p><p>Costilludo. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a may lic&#243;d ng&#771;a halagp&#225;d, sa dagc&#243;ng hosog.</foreign>
 </p><p>Costo. = <foreign lang="ceb" xml:lang="ceb">Bili, bayad, paggasto.</foreign>
@@ -4201,7 +4201,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Cotorra. = <foreign lang="ceb" xml:lang="ceb">Loro, perico ng&#771;a di&#243;tay, ab&#243;cay.</foreign>
 </p><p>Covacha. = <foreign lang="ceb" xml:lang="ceb">Lang&#771;ob ng&#771;a di&#243;tay.</foreign>
 </p><p>Coy. = <foreign lang="ceb" xml:lang="ceb">Doyan.</foreign>
-</p><p>Coyunda. = <foreign lang="ceb" xml:lang="ceb">Correa, panit holohal&#225;gpad ng&#771;a guicah&#237;got ug guicalang&#771;&#225;quit sa mg&#771;a torong baca, sa mg&#771;a baca, sa mg&#771;a calabao, &amp;c., sa yogo, li&#243;gan. * Paghi&#243;sa sa mg&#771;a mi&#241;o.</foreign>
+</p><p>Coyunda. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Correa">Corea</corr>, panit holohal&#225;gpad ng&#771;a guicah&#237;got ug guicalang&#771;&#225;quit sa mg&#771;a torong baca, sa mg&#771;a baca, sa mg&#771;a calabao, &amp;c., sa yogo, li&#243;gan. * Paghi&#243;sa sa mg&#771;a mi&#241;o.</foreign>
 </p><p>Coyuntura, articulacion de un hueso con otro. = <foreign lang="ceb" xml:lang="ceb">Loha loha.</foreign> * Ocasion de decir &#243; hacer algo. = <foreign lang="ceb" xml:lang="ceb">Cahigay&#243;nan.</foreign>
 </p><p>Coz. = <foreign lang="ceb" xml:lang="ceb">Tindac, sindol. * Pagcas&#237;bog sa mg&#771;a lothang sa pagb&#243;hi can&#237;la.</foreign>
 
@@ -4737,7 +4737,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Dedal. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan sa pothao, tomb&#225;ga, salap&#237;, &amp;c., ng&#771;a is&#243;ol sa torlo ng&#771;a lomal&#225;bao con sa casing casing, sa pagd&#243;so sa manan&#225;hi sa dagom.</foreign>
 </p><p>Dedicar. = <foreign lang="ceb" xml:lang="ceb">Pagtong&#771;&#243;d sa bisan onsa sa Dios, cang Mar&#237;a Sant&#237;sima, sa mg&#771;a santos, ug bisan sa onsa ng&#771;a canhic calib&#243;tan, pagpahanong&#771;&#243;d.</foreign>
 </p><p>Dedicatoria. = <foreign lang="ceb" xml:lang="ceb">Solat ng&#771;a ib&#243;tang sa sin&#243;gdan sa mg&#771;a libro, ar&#243;n hibal&#243;an ang t&#225;uo ng&#771;a guipahan&#243;ngdan.</foreign>
-</p><p>Dedignar. = <foreign lang="ceb" xml:lang="ceb">Pagay&#225;d pagpasip&#225;la.</foreign>
+</p><p>Dedignar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagay&#225;d">Pag&#225;yad</corr> pagpasip&#225;la.</foreign>
 </p><p>Dedo. = <foreign lang="ceb" xml:lang="ceb">Torlo.</foreign> * Pulgar. = <foreign lang="ceb" xml:lang="ceb">Comalagc&#243;.</foreign> * &#205;ndice. = <foreign lang="ceb" xml:lang="ceb">Itol&#243;dlo.</foreign> * Del medio. = <foreign lang="ceb" xml:lang="ceb">Dalag&#225;ng&#771;an, lomal&#225;bao, sa c&#225;sing c&#225;sing.</foreign> * Anular. = <foreign lang="ceb" xml:lang="ceb">Torlo ng&#771;a pagasings&#237;ng&#771;an, tambo&#225;sog.</foreign> * Me&#241;ique. = <foreign lang="ceb" xml:lang="ceb">Comalingquing, coma&#237;ngquing.</foreign>
 </p><p>Deduccion. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;pos, pagc&#243;ha.</foreign>
 </p><p>Deducir. = <foreign lang="ceb" xml:lang="ceb">Coha, copus. * Pagh&#243;na h&#250;na sa bisan onsa <corr sic="nga">ng&#771;a</corr> moson&#243;d sa mg&#771;a guins&#243;ndan. * Pag&#225;soy, pags&#225;yod.</foreign>
@@ -5005,7 +5005,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Desahogado. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a d&#237;li ma&#243;lao ca&#225;yo. * Lugar<corr sic=".">,</corr> sol&#243;d, &amp;c., ng&#771;a dagc&#243;, ng&#771;a mah&#225;oay, ang d&#237;li pagasam&#243;can sa bisan onsa.</foreign>
 </p><p>Desahogar. = <foreign lang="ceb" xml:lang="ceb">Pagoal&#225; sa mg&#771;a calisd&#225;nan ug mg&#771;a cah&#225;go ng&#771;a nacay&#243;got sa h&#250;na h&#250;na ug sa casing casing sa t&#225;uo. * Pagb&#225;yad sa mg&#771;a otang. * Pagasoy, pags&#225;yor sa isigcat&#225;uo sa mg&#771;a cas&#225;quet. * Pags&#243;gid sa isigcat&#225;uo sa mg&#771;a calis&#243;d ug casaqu&#233;tan ng&#771;a guib&#225;ti sa bisan cansa.</foreign>
 </p><p>Desahuciado. = <foreign lang="ceb" xml:lang="ceb">Ang masaqu&#233;t ng&#771;a guicoh&#225;an sa pagl&#225;om ng&#771;a mac&#243;ha ang saqu&#233;t nia. * Ang t&#225;uo ng&#771;a guipapah&#225;oa sa guip&#250;y-an nia ng&#771;a bal&#225;y con yota.</foreign>
-</p><p>Desahuciar. = <foreign lang="ceb" xml:lang="ceb">Pagpaoal&#225; sa pagl&#225;om sa bisan cansa. * Pagt&#225;hap sa mg&#771;a manan&#225;mbal ng&#771;a dili mab&#243;hi ang masaqu&#233;t ng&#771;a guitamb&#225;lan nila. * Pagp&#225;haoa sa omal&#225;bang sa bal&#225;y, sa yota, &amp;c., tong&#771;&#243;d cay dili mob&#225;yad sa hingt&#243;ngdan ng&#771;a abang.</foreign>
+</p><p>Desahuciar. = <foreign lang="ceb" xml:lang="ceb">Pagpaoal&#225; sa pagl&#225;om sa bisan cansa. * Pagt&#225;hap sa mg&#771;a manan&#225;mbal ng&#771;a dili mab&#243;hi ang masaqu&#233;t ng&#771;a guitamb&#225;lan nila. * <corr sic="Pagp&#225;haoa">Pagpah&#225;oa</corr> sa omal&#225;bang sa bal&#225;y, sa yota, &amp;c., tong&#771;&#243;d cay dili mob&#225;yad sa hingt&#243;ngdan ng&#771;a abang.</foreign>
 </p><p>Desahumado. = <foreign lang="ceb" xml:lang="ceb">Vino, aguardiente ug bisan onsang il&#237;mnon ng&#771;a nat&#225;b-an, ng&#771;a guicoh&#225;an sa ca&#237;sog cay nahong&#771;&#225;o.</foreign>
 </p><p>Desahumar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa as&#243;.</foreign>
 </p><p>Desairadamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcaoal&#225;y caang&#771;&#225;yan.</foreign>
@@ -5141,11 +5141,11 @@ ESPA&#209;OL-BISAYA.
 </p><p>Desbarbado. = <foreign lang="ceb" xml:lang="ceb">Ang oal&#225;y <corr sic="bong&#771;&#243;t">bong&#771;ot</corr>.</foreign>
 </p><p>Desbarbar. = <foreign lang="ceb" xml:lang="ceb">Alot. * Pagg&#243;nting sa mg&#771;a tom&#243;y tom&#243;y sa hilo ng&#771;a mol&#225;bao sa mg&#771;a pan&#225;pton. * Pagp&#243;tol sa mg&#771;a gam&#243;t ng&#771;a magam&#225;y sa mg&#771;a tanom.</foreign>
 </p><p>Desbarrigado. = <foreign lang="ceb" xml:lang="ceb">Ang may di&#243;tay ng&#771;a tian.</foreign>
-</p><p>Desbarrigar. = <foreign lang="ceb" xml:lang="ceb">Pagsamad sa tian.</foreign>
+</p><p>Desbarrigar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagsamad">Pags&#225;mad</corr> sa tian.</foreign>
 </p><p>Desbarro. = <foreign lang="ceb" xml:lang="ceb">Say&#243;p, bohat con hona hona ng&#771;a dili ma&#225;yo.</foreign>
 </p><p>Desbastar. = <foreign lang="ceb" xml:lang="ceb">Sapsap, pagb&#237;ngcong.</foreign>
 </p><p>Desbocadamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcaoal&#225;y ca&#243;lao, sa oal&#225;y pagt&#225;hod, catah&#225;.</foreign>
-<pb id="pb129" n="129" facs="f:129"/></p><p>Desbocado. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan, pal&#243;, gobia, tig&#237;b, &amp;c., ng&#771;a guiguib&#225;ng&#771;an, guicabal&#237;an sa b&#225;ba, sa sol&#225;b. * T&#225;uo ng&#771;a na&#225;nad sa pagpam&#243;long sa mg&#771;a polong ng&#771;a da&#243;tan.</foreign>
+<pb id="pb129" n="129" facs="f:129"/></p><p>Desbocado. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan, pal&#243;, gobia, <corr sic="tig&#237;b">tigu&#237;b</corr>, &amp;c., ng&#771;a guiguib&#225;ng&#771;an, guicabal&#237;an sa b&#225;ba, sa sol&#225;b. * T&#225;uo ng&#771;a na&#225;nad sa pagpam&#243;long sa mg&#771;a polong ng&#771;a da&#243;tan.</foreign>
 </p><p>Desbocar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa b&#225;ba sa bisan onsa, sa saro, boteya, tinghoy, &amp;c. * Ang cabayo ng&#771;a mahan&#225;yac sa pagdal&#225;gan, sa oal&#225;y tag&#225;d sa preno.</foreign>
 </p><p>Desbravar. = <foreign lang="ceb" xml:lang="ceb">Pagoal&#225; sa pagca&#237;sog, sa mg&#771;a il&#237;mnon, pagpat&#225;b-an.</foreign>
 </p><p>Desbrazarse. = <foreign lang="ceb" xml:lang="ceb">Pagt&#243;yod sa linogs&#225;nay sa mg&#771;a bocton, pagh&#237;oid ug quin&#243;sog ca&#225;yo.</foreign>
@@ -5188,7 +5188,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Descararse. = <foreign lang="ceb" xml:lang="ceb">Pagat&#243;bang, pagpam&#243;long, pagsogu&#237;lon sa oal&#225;y ca&#243;lao.</foreign>
 </p><p>Descarga. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa lolan sa mg&#771;a sacay&#225;n ug sa bisan onsa ng&#771;a guib&#225;la, guip&#225;s-an sa mg&#771;a t&#225;uo ug <pb id="pb130" n="130" facs="f:130"/>guibalsa sa mg&#771;a manan&#225;p. * Pagb&#243;hi sa mg&#771;a lothang ug mg&#771;a posil.</foreign>
 </p><p>Descargadero. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a guitag&#225;na sa pagb&#243;tang sa mg&#771;a lolan ng&#771;a guih&#225;o-as sa mg&#771;a sacay&#225;n, ug sa <corr sic="b&#237;san">bisan</corr> onsa ng&#771;a guib&#225;la, guipanagy&#225;yong ug guip&#225;s-an sa mg&#771;a t&#225;uo, ug sa guipanagb&#225;lsa sa mg&#771;a manan&#225;p.</foreign>
-</p><p>Descargar. = <foreign lang="ceb" xml:lang="ceb">Pagh&#225;o-as sa lolan sa mg&#771;a sacay&#225;n, pagd&#225;oat ug pagc&#243;ha sa mg&#771;a guid&#225;la, guib&#225;la, guip&#225;s-an ug guiy&#225;yong sa mg&#771;a t&#225;uo ug sa guibalsa sa mang&#771;a manan&#225;p. * Pagb&#243;hi sa mg&#771;a lothang, sa mg&#771;a posil, mg&#771;a pan&#225;, mg&#771;a bat&#243;, &amp;c. * Pagg&#243;a sa mg&#771;a posil ug sa mg&#771;a lothang sa polv&#243;ra, taco ug bala ng&#771;a guisol&#243;d. * Pagb&#237;a sa opicio con catongd&#225;nan. * Pagt&#243;man sa guit&#243;gon sa lain.</foreign>
+</p><p>Descargar. = <foreign lang="ceb" xml:lang="ceb">Pagh&#225;o-as sa lolan sa mg&#771;a sacay&#225;n, pagd&#225;oat ug pagc&#243;ha sa mg&#771;a guid&#225;la, guib&#225;la, guip&#225;s-an ug guiy&#225;yong sa mg&#771;a t&#225;uo ug sa guibalsa sa mang&#771;a manan&#225;p. * Pagb&#243;hi sa mg&#771;a lothang, sa mg&#771;a posil, mg&#771;a pan&#225;, mg&#771;a bat&#243;, &amp;c. * Pagg&#243;a sa mg&#771;a posil ug sa mg&#771;a lothang sa <corr sic="polv&#243;ra">p&#243;lvora</corr>, taco ug bala ng&#771;a guisol&#243;d. * Pagb&#237;a sa opicio con catongd&#225;nan. * Pagt&#243;man sa guit&#243;gon sa lain.</foreign>
 </p><p>Descari&#241;arse. V. <hi>Desamar</hi>.
 </p><p>Descari&#241;o. V. <hi>Desamor</hi>.
 </p><p>Descarnar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#243;lag, pagt&#225;ctac sa on&#243;d sa mang&#771;a boc&#243;g, pagdisc&#225;rne.</foreign>
@@ -5355,7 +5355,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Desempacar. = <foreign lang="ceb" xml:lang="ceb">Pagg&#243;a sa mg&#771;a manggad sa mg&#771;a post&#225;nan. * Pagl&#237;pay, pagh&#243;oas sa casoc&#243;. * Pagb&#243;chad.</foreign>
 </p><p>Desempachar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa cal&#243;od sa at&#225;y sa cot&#243; cot&#243;, pagoal&#225; sa empacho. * Pagoal&#225; sa ca&#243;lao.</foreign>
 </p><p>Desempalagar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa pagcas&#243;m-ol.</foreign>
-</p><p>Desempa&#241;ar. = <foreign lang="ceb" xml:lang="ceb">Pogc&#243;ha sa mg&#771;a hap&#237;n ng&#771;a guip&#243;tos sa mg&#771;a b&#225;ta ng&#771;a di&#243;tay. * Pagh&#237;nis sa salam&#237;n ug bisan onsa ng&#771;a nas&#237;nao, ng&#771;a nasih&#225;g.</foreign>
+</p><p>Desempa&#241;ar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pogc&#243;ha">Pagc&#243;ha</corr> sa mg&#771;a hap&#237;n ng&#771;a guip&#243;tos sa mg&#771;a b&#225;ta ng&#771;a di&#243;tay. * Pagh&#237;nis sa salam&#237;n ug bisan onsa ng&#771;a nas&#237;nao, ng&#771;a nasih&#225;g.</foreign>
 </p><p>Desempapelar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa bisan onsa ng&#771;a guip&#243;tos sa papel.</foreign>
 </p><p>Desemparentado. = <foreign lang="ceb" xml:lang="ceb">Ang oal&#225;y caob&#225;nan.</foreign>
 </p><p>Desempatar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa pagcatop&#243;ng sa bisan onsa.</foreign>
@@ -5438,7 +5438,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Desenvolver. = <foreign lang="ceb" xml:lang="ceb">Boclar. * Pagday&#225;g, pagh&#243;say sa nab&#243;loc, sa oal&#225; mas&#225;yor ca&#225;yo.</foreign>
 </p><p>Desenvueltamente. = <foreign lang="ceb" xml:lang="ceb">Sa <corr sic="pag&#771;cas&#225;yon">pagcas&#225;yon</corr>, sa oal&#225;y ca&#243;lao ca&#225;yo.</foreign>
 </p><p>Desenvuelto. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a oal&#225;y ca&#243;lao. * T&#225;uo ng&#771;a magab&#243;hat ug mam&#243;long sa pagcas&#225;yon.</foreign>
-</p><p>Deseo. = <foreign lang="ceb" xml:lang="ceb">Ibog, caibog, gogma, pagpanghin&#225;ot.</foreign>
+</p><p>Deseo. = <foreign lang="ceb" xml:lang="ceb">Ibog, <corr sic="caibog">ca&#237;bog</corr>, gogma, pagpanghin&#225;ot.</foreign>
 </p><p>Deseoso. = <foreign lang="ceb" xml:lang="ceb">Ang naga&#237;bog, ang na&#237;bog, ang nagapanghin&#225;ot<corr sic=":">.</corr></foreign>
 </p><p>Desercion. = <foreign lang="ceb" xml:lang="ceb">Pagcal&#225;gueu, pagcao&#225;la, pagcab&#243;lag.</foreign>
 </p><p>Desertar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Langueu">Lagueu</corr>, bia, bolag.</foreign>
@@ -5450,7 +5450,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Desesperanzar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha, pagoal&#225; sa pagl&#225;om.</foreign>
 </p><p>Desesperar. = <foreign lang="ceb" xml:lang="ceb">Idem. * Pagb&#243;ot sa pagc&#243;ha sa quinab&#243;hi. * Soc&#243;, panoy&#243;.</foreign>
 </p><p>Desesterar. = <foreign lang="ceb" xml:lang="ceb">Pags&#225;coat, pagc&#243;ha, pagh&#237;pos sa mg&#771;a ban&#237;g.</foreign>
-</p><p>Desestimacion. = <foreign lang="ceb" xml:lang="ceb">Dili paghih&#243;gma, dili pagpal&#225;ngga.</foreign>
+</p><p>Desestimacion. = <foreign lang="ceb" xml:lang="ceb">Dili <corr sic="paghih&#243;gma">paghig&#243;gma</corr>, dili pagpal&#225;ngga.</foreign>
 </p><p>Desestimar. = <foreign lang="ceb" xml:lang="ceb">Idem. * Pag&#225;yad.</foreign>
 </p><p>Desfajar. = <foreign lang="ceb" xml:lang="ceb">Pagh&#243;bar, pagc&#243;ha sa bacos.</foreign>
 </p><p>Desfalcar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa us&#225; ca bahin sa bisan onsa.</foreign>
@@ -5519,7 +5519,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Deshonrar. = <foreign lang="ceb" xml:lang="ceb">Pagc&#243;ha sa dong&#771;og. * Pagl&#243;gos, pagpacasal&#225; sa linogs&#225;nay sa bab&#225;ye sa ma&#225;yong dong&#771;og.</foreign>
 </p><p>Deshonroso. = <foreign lang="ceb" xml:lang="ceb">Mao&#243;lao, ang maca&#243;lao, ang d&#237;li ang&#771;ay sa t&#225;uo ng&#771;a bo&#243;tan ug ma&#225;yo.</foreign>
 </p><p>Deshora. = <foreign lang="ceb" xml:lang="ceb">Tiempo, t&#250;ig, horas ng&#771;a d&#237;li ang&#771;ay sa <corr sic="b&#237;san">bisan</corr> onsa ng&#771;a arang pagaboh&#225;ton. * Sa ahat, sa calit, tagcol&#225;hao.</foreign>
-</p><p>Deshuesar. = <foreign lang="ceb" xml:lang="ceb">Pogc&#243;ha sa mg&#771;a boc&#243;g.</foreign>
+</p><p>Deshuesar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pogc&#243;ha">Pagc&#243;ha</corr> sa mg&#771;a boc&#243;g.</foreign>
 </p><p>Deshumedecer. = <foreign lang="ceb" xml:lang="ceb">Mal&#225;, og&#225;.</foreign>
 </p><p>Desiderable. = <foreign lang="ceb" xml:lang="ceb">Ang tac&#243;s ng&#771;a ca&#237;bgan, higugm&#225;on, panghina&#243;ton, bo&#243;ton.</foreign>
 </p><p>Desidia. = <foreign lang="ceb" xml:lang="ceb">Tac&#225;, pagcaoal&#225;y cac&#243;gi, cal&#243;ya.</foreign>
@@ -5902,7 +5902,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Diabla. = <foreign lang="ceb" xml:lang="ceb">Pagb&#243;hat sa <corr sic="b&#237;san">bisan</corr> onsa sa da&#243;tan ng&#771;a pagb&#243;hat.</foreign>
 </p><p>Diablillo. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a batid, <corr sic="condat&#225;n">cond&#225;tan</corr>, ng&#771;a mal&#237;hoc ca&#225;yo. * Ang nagapacay&#225;oa sa mg&#771;a piesta ug mang&#771;a procesion.</foreign>
 </p><p>Diablo. = <foreign lang="ceb" xml:lang="ceb">Yaoa. * T&#225;uo ng&#771;a ma&#237;sog, ng&#771;a oal&#225;y cah&#225;rloc. * T&#225;uo ng&#771;a mal&#225;gsot ug mang&#771;&#237;l-ad ca&#225;yo.</foreign>
-</p><p>Diab&#243;licamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcayin&#225;oa yao&#225;, sa pagcada&#243;tan oy&#225;mot.</foreign>
+</p><p>Diab&#243;licamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcayin&#225;oa <corr sic="yao&#225;">yaoa</corr>, sa pagcada&#243;tan oy&#225;mot.</foreign>
 <pb id="pb148" n="148" facs="f:148"/></p><p>Diab&#243;lico. = <foreign lang="ceb" xml:lang="ceb">Ang ang&#771;ay, ang nahatong&#771;&#243;d sa yaoa. * Ang da&#243;tan ca&#225;yo, ang mang&#771;&#237;l-ad oy&#225;mot.</foreign>
 </p><p>Diaconal. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa Di&#225;cono.</foreign>
 </p><p>Diaconato. = <foreign lang="ceb" xml:lang="ceb">Cah&#237;mtang sa Padre ng&#771;a guiolden&#225;han sa pagcadi&#225;cono.</foreign>
@@ -6661,7 +6661,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Empanar. = <foreign lang="ceb" xml:lang="ceb">Paglob&#243;ng, pagl&#237;bot sa mg&#771;a cal&#225;n-on sa tin&#225;pay con sa bin&#243;cboc, sa pagl&#243;to ni&#225;na sa horno.</foreign>
 </p><p>Empandar. = <foreign lang="ceb" xml:lang="ceb">Pagl&#237;co pagl&#243;co, pagbal&#237;quing sa bisan onsa.</foreign>
 </p><p>Empandillar. = <foreign lang="ceb" xml:lang="ceb">Pag&#237;pon sa mg&#771;a dahon sa baraja sa pagb&#243;hat ug limbong.</foreign>
-</p><p>Empantanar. = <foreign lang="ceb" xml:lang="ceb">Pagpon&#243; sa tobig sa bisan onsang lugar, pagd&#225;nao, pagl&#225;nao. * Pag-&#243;lang sa bisan onsa ng&#771;a pagaboh&#225;ton onta.</foreign>
+</p><p>Empantanar. = <foreign lang="ceb" xml:lang="ceb">Pagpon&#243; sa tobig sa bisan onsang lugar, pagd&#225;nao, pagl&#225;nao. * <corr sic="Pag-&#243;lang">Pag&#243;lang</corr> sa bisan onsa ng&#771;a pagaboh&#225;ton onta.</foreign>
 </p><p>Empa&#241;ar. = <foreign lang="ceb" xml:lang="ceb">Pagp&#243;tos sa mg&#771;a hap&#237;n sa mg&#771;a batang di&#243;tay. * Pagb&#243;ling, pagh&#243;gao sa masinao, sa salam&#237;n, &amp;c., pagl&#237;bac l&#237;bac sa <corr sic="isigcat&#224;uo">isigcat&#225;uo</corr>, paghil&#225;bot sa iang dong&#771;og.</foreign>
 </p><p>Empapar. = <foreign lang="ceb" xml:lang="ceb">Pagbas&#225; ug ma&#225;yo, pagh&#243;mod sa bisan onsa, lonao. * Pagpon&#243; sa bisan cansa sa quina&#225;dman, sa gogma, sa pagdom&#243;t, &amp;c.</foreign>
 </p><p>Empapelador. = <foreign lang="ceb" xml:lang="ceb">Ang magap&#243;tos sa bisan onsa sa papel.</foreign>
@@ -7092,7 +7092,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Engolosinarse. = <foreign lang="ceb" xml:lang="ceb">Pag&#225;nad sa bisan onsa. * Paghig&#243;gma, pag&#237;bog, pagpanghin&#225;ot.</foreign>
 </p><p>Engolletado. = <foreign lang="ceb" xml:lang="ceb">Pal&#225;bi lab&#237;hon.</foreign>
 </p><p>Engolletarse. V. <hi>Engolondrinarse</hi>.
-</p><p>Engomar. = <foreign lang="ceb" xml:lang="ceb">Pagdihog sa tagoc sa bisan onsa.</foreign>
+</p><p>Engomar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagdihog">Pagd&#237;hog</corr> sa tagoc sa bisan onsa.</foreign>
 </p><p>Engordar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagt&#224;mboc">Pagt&#225;mboc</corr>, pags&#243;pang. * Pagl&#225;ming sa mg&#771;a manan&#225;p.</foreign>
 </p><p>Engorro. = <foreign lang="ceb" xml:lang="ceb">Samoc, casam&#243;can, caol&#225;ng&#771;an.</foreign>
 </p><p>Engorroso. = <foreign lang="ceb" xml:lang="ceb">Ang macas&#225;moc, ang maca&#243;lang.</foreign>
@@ -7134,7 +7134,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Enjuagadura. = <foreign lang="ceb" xml:lang="ceb">Pagcah&#243;gas. * Hin&#243;gas.</foreign>
 </p><p>Enjuagar. = <foreign lang="ceb" xml:lang="ceb">Lim&#243;gmog. * Log-&#243;, hin&#225;onao, hilimas&#225;o, sao sao, hogas. * Honal.</foreign>
 </p><p>Enjuagatorio. = <foreign lang="ceb" xml:lang="ceb">Pagcalim&#243;gmog. * Pagcah&#243;gas, pagcalog-&#243;, pagcahin&#225;onao, pagcas&#225;o sao. * Pagcah&#243;nal.</foreign>
-</p><p>Enjuague. = <foreign lang="ceb" xml:lang="ceb">Tubig, vino, &amp;c., ng&#771;a icalim&#243;gmog, igah&#243;gas, icalog-&#243;, ih&#243;nal. * Pagpatig&#225;yon sa hil&#243;m, sa tin&#225;go, ar&#243;n mad&#225;ng&#771;at ang tuyo ng&#771;a guih&#243;na h&#250;na. * Ang vaso ug ang iang sangg&#225;an ng&#771;a guitag&#225;na sa poglim&#243;gmog.</foreign>
+</p><p>Enjuague. = <foreign lang="ceb" xml:lang="ceb">Tubig, vino, &amp;c., ng&#771;a icalim&#243;gmog, igah&#243;gas, icalog-&#243;, ih&#243;nal. * Pagpatig&#225;yon sa hil&#243;m, sa tin&#225;go, ar&#243;n mad&#225;ng&#771;at ang tuyo ng&#771;a guih&#243;na h&#250;na. * Ang vaso ug ang iang sangg&#225;an ng&#771;a guitag&#225;na sa <corr sic="poglim&#243;gmog">paglim&#243;gmog</corr>.</foreign>
 </p><p>Enjugador. = <foreign lang="ceb" xml:lang="ceb">Ang nagamal&#225;, nagaog&#225;, nagad&#225;ngdang, nagad&#225;ngca.</foreign>
 </p><p>Enjugar. = <foreign lang="ceb" xml:lang="ceb">Mal&#225;, og&#225;. * Dangdang, dangca. * Pagp&#225;hid sa sing&#771;&#243;t sa mg&#771;a loh&#225;, con sa tobig ng&#771;a guican sa olan, sa pagcal&#237;go, &amp;c.</foreign>
 </p><p>Enjuiciar. = <foreign lang="ceb" xml:lang="ceb">Pagh&#243;say sa mg&#771;a hocm&#225;nan sa bisan onsa, ar&#243;n pagah&#243;cman sam&#225;la sa catar&#243;ng&#771;an, pagh&#243;com, pagsentencia.</foreign>
@@ -7164,7 +7164,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Enlutar. = <foreign lang="ceb" xml:lang="ceb">Pagbal&#225;ta.</foreign>
 </p><p>Enllentecer. = <foreign lang="ceb" xml:lang="ceb">Pagpah&#243;moc sa bisan onsa.</foreign>
 </p><p>Enmaderamiento. = <foreign lang="ceb" xml:lang="ceb">Bisan onsa ng&#771;a bohat sa cahoy, ug ang bohat ng&#771;a guitab&#243;nan sa mg&#771;a cahoy con mang&#771;a pap&#225;n.</foreign>
-</p><p>Enmaderar. = <foreign lang="ceb" xml:lang="ceb">Pogt&#225;od sa mg&#771;a cahoy ng&#771;a quinah&#225;nglan sa mg&#771;a at&#243;p sa mg&#771;a bal&#225;y, mg&#771;a Singbah&#225;n, mang&#771;a cota, &amp;c.</foreign>
+</p><p>Enmaderar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pogt&#225;od">Pagt&#225;od</corr> sa mg&#771;a cahoy ng&#771;a quinah&#225;nglan sa mg&#771;a at&#243;p sa mg&#771;a bal&#225;y, mg&#771;a Singbah&#225;n, mang&#771;a cota, &amp;c.</foreign>
 </p><p>Enmagrecer. = <foreign lang="ceb" xml:lang="ceb">Pagpan&#237;oang sa bisan cansa, pagoal&#225; sa cat&#225;mboc.</foreign>
 </p><p>Enmantar. = <foreign lang="ceb" xml:lang="ceb">Pagh&#225;bol, pagt&#225;bon sa habol sa bisan onsa. * Pagy&#243;got, pagm&#237;ng&#771;ao, pagsob&#243;.</foreign>
 </p><p>Enmara&#241;ar. = <foreign lang="ceb" xml:lang="ceb">Gob&#243;t, boloc, sac&#243;t.</foreign>
@@ -7208,7 +7208,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Enrejado. V. <hi>Celos&#237;a</hi>.
 </p><p>Enrejar. = <foreign lang="ceb" xml:lang="ceb">Paglib&#243;t pag&#225;lar sa mg&#771;a cahoy, mang&#771;a cao&#225;yan con mg&#771;a pothao sa bisan onsang lugar.</foreign>
 </p><p>Enriquecedor. = <foreign lang="ceb" xml:lang="ceb">Ang magapaaron&#225;han sa lain.</foreign>
-</p><p>Enriquecer. = <foreign lang="ceb" xml:lang="ceb">Pagpaaron&#225;han sa bisan cansa, pagpatig&#225;yon, pagl&#225;ban, pagt&#225;bang can&#237;a ar&#243;n masalap&#237;an s&#237;a. * Pagb&#243;hat ug ma&#225;yo, pagpang&#771;u&#237;ta sa <corr sic="mas&#237;ngc&#225;mot">masingc&#225;mot</corr>, ar&#243;n <corr sic="mot&#242;bo">mot&#243;bo</corr> ang poh&#243;nan, ang salap&#237;. * Pagd&#225;yan dayan, pagd&#243;gang sa pagcamah&#225;l.</foreign>
+</p><p>Enriquecer. = <foreign lang="ceb" xml:lang="ceb">Pagpaaron&#225;han sa bisan cansa, pagpatig&#225;yon, pagl&#225;ban, pagt&#225;bang can&#237;a ar&#243;n masalap&#237;an s&#237;a. * Pagb&#243;hat ug ma&#225;yo, <corr sic="pagpang&#771;u&#237;ta">pagpang&#771;&#237;ta</corr> sa <corr sic="mas&#237;ngc&#225;mot">masingc&#225;mot</corr>, ar&#243;n <corr sic="mot&#242;bo">mot&#243;bo</corr> ang poh&#243;nan, ang salap&#237;. * Pagd&#225;yan dayan, pagd&#243;gang sa pagcamah&#225;l.</foreign>
 </p><p>Enriscado. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a cabat&#243;han, capangp&#225;ng&#771;an.</foreign>
 </p><p>Enriscar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#243;tang sa bisan onsa sa hat&#225;as ca&#225;yo. * Pagsol&#243;d sa bisan cansa sa lugar ng&#771;a cabat&#250;han ug capangp&#225;ng&#771;an.</foreign>
 </p><p>Enristrar. = <foreign lang="ceb" xml:lang="ceb">Pag&#225;ndam sa bangcao sa pags&#225;mar, sa pags&#243;ntoc, sa pags&#243;col. * Paglac&#225;t sa bisan d&#237;in sa dalan ng&#771;a lactod. * Pagt&#243;ltol, pagt&#243;man sa bisan onsa ng&#771;a mac&#243;li onta ng&#771;a pagatolt&#243;lan ug pagatom&#225;non.</foreign>
@@ -7475,7 +7475,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Epiceno. = <foreign lang="ceb" xml:lang="ceb">Ng&#771;alan ng&#771;a maca&#237;go sa bab&#225;ye ug sa lal&#225;que, sa laque ug sa baye.</foreign>
 </p><p>Epidemia. = <foreign lang="ceb" xml:lang="ceb">Salot, saqu&#233;t ng&#771;a matac&#243;d.</foreign>
 </p><p>Epid&#233;mico. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa salot, sa saqu&#233;t ng&#771;a matac&#243;d.</foreign>
-</p><p>Epifan&#237;a. = <foreign lang="ceb" xml:lang="ceb">Pagcah&#225;yag, pagcaday&#225;g. * Ang piesta sa <corr sic="pagdua&#243;">pagd&#250;ao</corr> sa tol&#243; ca hari sa atong Guinoong Jesucristo sa cam&#225;lig sa betl&#233;m, sa icap&#243;lo ug tol&#243; ca adlao sa iang pagcat&#225;uo.</foreign>
+</p><p>Epifan&#237;a. = <foreign lang="ceb" xml:lang="ceb">Pagcah&#225;yag, pagcaday&#225;g. * Ang piesta sa <corr sic="pagdua&#243;">pagd&#250;ao</corr> sa tol&#243; ca hari sa atong <corr sic="Guinoong">Guin&#243;ong</corr> Jesucristo sa cam&#225;lig sa betl&#233;m, sa icap&#243;lo ug tol&#243; ca adlao sa iang pagcat&#225;uo.</foreign>
 </p><p>Ep&#237;grafe. = <foreign lang="ceb" xml:lang="ceb">Pag&#225;soy ng&#771;a lactor ng&#771;a mo&#243;na sa mang&#771;a bahin ng&#771;a sin&#243;lat sa mg&#771;a libro, sa mg&#771;a pagsogu&#237;lon <pb id="pb191" n="191" facs="f:191"/>ug sa mg&#771;a pago&#225;li, ng&#771;a mao ang casay&#243;dan sa naham&#243;tang sa obos ug i&#237;ngnon pa sa <corr sic="hat&#225;aas">hat&#225;as</corr> ng&#771;a pags&#225;yod.</foreign>
 </p><p>Epilepsia. = <foreign lang="ceb" xml:lang="ceb">Saqu&#233;t ng&#771;a naham&#243;tang sa pagcaqu&#237;oi sa mg&#771;a bahin sa laoas ug sa mg&#771;a caog&#225;tan, ug sa pagcad&#225;ot sa mg&#771;a balat&#237;an.</foreign>
 </p><p>Epil&#233;ptico. = <foreign lang="ceb" xml:lang="ceb">Ang mob&#225;ti sa saqu&#233;t ng&#771;a gui&#237;ng&#771;on car&#243;n.</foreign>
@@ -7704,7 +7704,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Escoben. = <foreign lang="ceb" xml:lang="ceb">Ang boh&#243; sa mg&#771;a dolong sa sacay&#225;n ng&#771;a pagaagu&#237;an sa cable con sa talical&#225; ng&#771;a guih&#237;cot sa ancla, sa sin&#237;pit.</foreign>
 </p><p>Escobilla. = <foreign lang="ceb" xml:lang="ceb">Silhig ng&#771;a di&#243;tay sa mg&#771;a balah&#237;bo sa mg&#771;a baboy con sa icog sa mg&#771;a cabayo<corr sic="."/>, ng&#771;a icah&#237;nis <pb id="pb198" n="198" facs="f:198"/>ug icas&#237;lhig sa mg&#771;a panday sa salap&#237; sa mang&#771;a hias.</foreign>
 </p><p>Escobillon. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan, cahoy ng&#771;a hat&#225;as ng&#771;a guibot&#225;ng&#771;an sa us&#225; ca tom&#243;y sa mg&#771;a balah&#237;bo sa cabayo, sa pagn&#243;snos ug pagh&#237;nis sa mg&#771;a boh&#243; sa mg&#771;a lothang.</foreign>
-</p><p>Escobina. = <foreign lang="ceb" xml:lang="ceb">Ang quin&#225;on sa loc&#243;b, sa hil&#237;hod, sa pagboh&#243; na sa mg&#771;a cahoy, sa pothao, tomb&#225;ga, &amp;c.</foreign>
+</p><p>Escobina. = <foreign lang="ceb" xml:lang="ceb">Ang quin&#225;on sa <corr sic="loc&#243;b">locob</corr>, sa hil&#237;hod, sa pagboh&#243; na sa mg&#771;a cahoy, sa pothao, tomb&#225;ga, &amp;c.</foreign>
 </p><p>Escobon. = <foreign lang="ceb" xml:lang="ceb">Silhig ng&#771;a dagc&#243; sa pagn&#243;snos sa an&#243;os sa alas&#243;han, ang guit&#225;od sa tom&#243;y sa us&#225; ca cahoy ng&#771;a hat&#225;as.</foreign>
 </p><p>Escocer. = <foreign lang="ceb" xml:lang="ceb">Hapdos, ng&#771;ot ng&#771;ot. * Pagpa&#243;bos sa boot.</foreign>
 </p><p>Escoda. = <foreign lang="ceb" xml:lang="ceb">Bingcong sa pags&#225;psap sa mg&#771;a bat&#243;.</foreign>
@@ -7760,7 +7760,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Escota. = <foreign lang="ceb" xml:lang="ceb">Pisi ng&#771;a ih&#237;cot sa us&#225; ca tom&#243;y dapit sa obos sa mg&#771;a lay&#225;g sa mg&#771;a sacay&#225;n, sa pagt&#243;got ug pagh&#243;got som&#225;la sa pagcahor&#243;s con pagcah&#237;nay sa hang&#771;in. * Bohi bohi, bilo bilo.</foreign>
 </p><p>Escotadura. = <foreign lang="ceb" xml:lang="ceb">Liab sa mg&#771;a sin&#237;na ug mg&#771;a bisti ng&#771;a guib&#237;sti sa mg&#771;a bab&#225;ye.</foreign>
 </p><p>Escotar. = <foreign lang="ceb" xml:lang="ceb">Tabas, hol&#237;bis, pag&#225;ng&#771;ay sa bisan onsa sa lugar ng&#771;a hingt&#243;ngdan. * Pagb&#225;yad sa amot, sa tampo con tampa ng&#771;a naca&#237;go sa tagsa tagsa. * Pagpag&#243;a sa tobig, sa sob&#225;, sa lanao, &amp;c.</foreign>
-</p><p>Escote. = <foreign lang="ceb" xml:lang="ceb">L&#237;ab ng&#771;a guilab&#237;han sa pagcadagc&#243; sa mang&#771;a sin&#237;na sa ob&#225;n ng&#771;a mg&#771;a bab&#225;ye. * Dayan dayan ng&#771;a it&#225;pot sa mg&#771;a liab sa mg&#771;a bisti sa mg&#771;a bab&#225;ye. * Amot, tampa, tampo.</foreign>
+</p><p>Escote. = <foreign lang="ceb" xml:lang="ceb"><corr sic="L&#237;ab">Liab</corr> ng&#771;a guilab&#237;han sa pagcadagc&#243; sa mang&#771;a sin&#237;na sa ob&#225;n ng&#771;a mg&#771;a bab&#225;ye. * Dayan dayan ng&#771;a it&#225;pot sa mg&#771;a liab sa mg&#771;a bisti sa mg&#771;a bab&#225;ye. * Amot, tampa, tampo.</foreign>
 </p><p>Escotera. = <foreign lang="ceb" xml:lang="ceb">Boh&#243; sa qu&#237;lid sa mg&#771;a sacay&#225;n ng&#771;a pagaagu&#237;an sa pisi ng&#771;a escota.</foreign>
 </p><p>Escotero. = <foreign lang="ceb" xml:lang="ceb">Ang nagalac&#225;t sa aol&#225;y dala sa bisan onsa ng&#771;a macas&#225;moc ug maca&#243;lang can&#237;a.</foreign>
 </p><p>Escotilla. = <foreign lang="ceb" xml:lang="ceb">Boh&#243;ng dagc&#243; sa atob&#225;ng&#771;an sa tal&#225;roc ng&#771;a mayor sa mg&#771;a sacay&#225;n ng&#771;a pagas&#243;dlan sa lolan, ug pagag&#243;lan, pagacoh&#225;an ug pagaagu&#237;an sa pagh&#225;oas sa maong lolan.</foreign>
@@ -7902,7 +7902,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Especialidad. = <foreign lang="ceb" xml:lang="ceb">Pagcal&#225;in, pagcamah&#225;l. * Pagcating&#771;&#225;la, pagcalab&#237;.</foreign>
 </p><p>Especialmente. = <foreign lang="ceb" xml:lang="ceb">Lab&#237; pa.</foreign>
 </p><p>Especie. = <foreign lang="ceb" xml:lang="ceb">Hingt&#243;ngdan ng&#771;a nacas&#225;cop sa dagh&#225;nan ng&#771;a mg&#771;a sacop, pagcal&#225;in, cala&#237;nan, ma&#237;ng&#771;on ng&#771;a ang cala&#237;nan sa mg&#771;a ir&#243;, ang cala&#237;nan sa mg&#771;a cabayo, ang cala&#237;nan sa mg&#771;a ir&#237;ng, &amp;c. * Ang lar&#225;oan sa bisan onsa ng&#771;a mapaqu&#237;ta sa atong h&#250;na h&#250;na, sa atong cal&#225;g. * Bisan onsa ng&#771;a guipam&#243;long ug guib&#243;hat.</foreign>
-</p><p>Especiero. = <foreign lang="ceb" xml:lang="ceb">Ang magapatig&#225;yon sa pagp&#225;lit ug pagbaligya sa mg&#771;a pan&#225;cot.</foreign>
+</p><p>Especiero. = <foreign lang="ceb" xml:lang="ceb">Ang magapatig&#225;yon sa pagp&#225;lit ug <corr sic="pagbaligya">pagbal&#237;gya</corr> sa mg&#771;a pan&#225;cot.</foreign>
 </p><p>Especificacion. = <foreign lang="ceb" xml:lang="ceb">Pagca&#225;soy, pagcas&#225;yod, pagcaday&#225;g.</foreign>
 </p><p>Especificadamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagca&#225;soy, sa pagcas&#225;yod, sa pagcaday&#225;g.</foreign>
 </p><p>Especificar. = <foreign lang="ceb" xml:lang="ceb">Asoy, sayod, day&#225;g.</foreign>
@@ -7911,7 +7911,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Espect&#225;culo. = <foreign lang="ceb" xml:lang="ceb">Dula, cadol&#225;an sa cadaig&#225;nan. * Bisan onsa ng&#771;a nahat&#225;bo ng&#771;a tac&#243;s ng&#771;a cating&#771;&#225;d-an sa mg&#771;a t&#225;uo.</foreign>
 </p><p>Espectador. = <foreign lang="ceb" xml:lang="ceb">Ang magasol&#243;ng, ang mot&#225;n-ao sa bisan onsa.</foreign>
 </p><p>Espectro. = <foreign lang="ceb" xml:lang="ceb">Bisan onsa ng&#771;a lar&#225;oan ng&#771;a macalil&#237;sang, macahah&#225;rloc, ng&#771;a mot&#243;ngha ug paqu&#237;ta sa h&#250;na h&#250;na sa mg&#771;a t&#225;uo.</foreign>
-</p><p>Especulacion. = <foreign lang="ceb" xml:lang="ceb">Pagcat&#225;n-ao, pagcah&#237;ling ug ma&#225;yo, pagl&#237;-li sa dagc&#243;ng cac&#243;gi. * Pagcapatig&#225;yon sa pagp&#225;lit ug sa pagbal&#237;gya, sa pagpang&#771;u&#237;ta sa pagcab&#243;hi, sa caboh&#237;an. * Ang pagpatig&#225;yon.</foreign>
+</p><p>Especulacion. = <foreign lang="ceb" xml:lang="ceb">Pagcat&#225;n-ao, pagcah&#237;ling ug ma&#225;yo, pagl&#237;-li sa dagc&#243;ng cac&#243;gi. * Pagcapatig&#225;yon sa pagp&#225;lit ug sa pagbal&#237;gya, sa <corr sic="pagpang&#771;u&#237;ta">pagpang&#771;&#237;ta</corr> sa pagcab&#243;hi, sa caboh&#237;an. * Ang pagpatig&#225;yon.</foreign>
 </p><p>Especular. = <foreign lang="ceb" xml:lang="ceb">Sol&#237;ng, hiling, tan-ao, li-li. * Pagh&#243;na h&#250;na, pagpal&#225;ndong. * Pagpatig&#225;yon sa pagp&#225;lit ug sa pagbal&#237;gya, sa pagcomercio.</foreign>
 </p><p>Especulativa. = <foreign lang="ceb" xml:lang="ceb">Gah&#243;m sa mg&#771;a cal&#225;g sa mg&#771;a t&#225;uo sa pagh&#250;na h&#250;na, sa pagpal&#225;ndong.</foreign>
 </p><p>Espejado. = <foreign lang="ceb" xml:lang="ceb">Bisan onsa ng&#771;a guig&#225;ma sa salam&#237;n, ang ma&#237;ng&#771;on sa salam&#237;n.</foreign>
@@ -7961,10 +7961,10 @@ ESPA&#209;OL-BISAYA.
 </p><p>Espinoso. V. <hi>Esp&#237;neo</hi>. * <foreign lang="ceb" xml:lang="ceb">Ang mac&#243;li, ang malis&#243;d.</foreign>
 </p><p>Espirador. = <foreign lang="ceb" xml:lang="ceb">Ang magaguinh&#225;oa. * Ang mahing&#771;&#243;tas, ang magating&#771;&#225;, ang magat&#237;ng-ab.</foreign>
 </p><p>Espirante. = Idem.
-</p><p>Espirar. = <foreign lang="ceb" xml:lang="ceb">Pagg&#243;a sa ma&#225;yo con sa da&#243;tan ng&#771;a bah&#243;. * Pagh&#225;tag sa quinab&#243;hi: ang&#771;ay lamang sa Dios. * Pag&#225;gda sa mg&#771;a pagh&#243;nhong sa gracia ng&#771;a guican sa Dios ng&#771;a Esp&#237;ritu Santo. * Ang paggu&#237;can sa Dios ng&#771;a <corr sic="Espiritu">Esp&#237;ritu</corr> Santo sa Amah&#225;n ug sa Anac, tong&#771;&#243;d sa ilang pagsigbig&#243;gma ng&#771;a oal&#225;y sin&#243;gdan. * Paghing&#771;&#243;tas, pagting&#771;&#225;, pagt&#237;ng-ab. * Pagguinh&#225;ua. * Paghoy&#243;p sa hang&#771;in sa mah&#237;nay. * Pagt&#225;pus, pagtib&#225;oas.</foreign>
+</p><p>Espirar. = <foreign lang="ceb" xml:lang="ceb">Pagg&#243;a sa ma&#225;yo con sa da&#243;tan ng&#771;a bah&#243;. * Pagh&#225;tag sa quinab&#243;hi: ang&#771;ay lamang sa Dios. * Pag&#225;gda sa mg&#771;a pagh&#243;nhong sa gracia ng&#771;a guican sa Dios ng&#771;a Esp&#237;ritu Santo. * Ang paggu&#237;can sa Dios ng&#771;a <corr sic="Espiritu">Esp&#237;ritu</corr> Santo sa Amah&#225;n ug sa Anac, tong&#771;&#243;d sa ilang pagsigbig&#243;gma ng&#771;a oal&#225;y sin&#243;gdan. * Paghing&#771;&#243;tas, pagting&#771;&#225;, pagt&#237;ng-ab. * <corr sic="Pagguinh&#225;ua">Pagguinh&#225;oa</corr>. * Paghoy&#243;p sa hang&#771;in sa mah&#237;nay. * Pagt&#225;pus, pagtib&#225;oas.</foreign>
 </p><p>Espiritar. = <foreign lang="ceb" xml:lang="ceb">Pagt&#225;ndog. * Pagpapong&#771;&#243;t.</foreign>
 </p><p>Espiritoso. = <foreign lang="ceb" xml:lang="ceb">Vino ng&#771;a ma&#237;sog, ng&#771;a macal&#237;pay, aguardiente, &amp;c., ng&#771;a mas&#225;yon mahong&#771;&#225;o.</foreign>
-</p><p>Esp&#237;ritu. = <foreign lang="ceb" xml:lang="ceb">Esp&#237;ritu, cal&#225;g, &#193;ngeles. * Ang cos&#243;g ug gah&#243;m sa lauas. * Ca&#237;sog<corr sic=".">,</corr> gah&#243;m sa h&#250;na h&#250;na. * Caisog sa vino, sa <corr sic="guardiente">aguardiente</corr>, &amp;c.</foreign>
+</p><p>Esp&#237;ritu. = <foreign lang="ceb" xml:lang="ceb">Esp&#237;ritu, cal&#225;g, &#193;ngeles. * Ang cos&#243;g ug gah&#243;m sa lauas. * Ca&#237;sog<corr sic=".">,</corr> gah&#243;m sa h&#250;na h&#250;na. * <corr sic="Caisog">Ca&#237;sog</corr> sa vino, sa <corr sic="guardiente">aguardiente</corr>, &amp;c.</foreign>
 </p><p>Espiritual. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa Esp&#237;ritu, sa cal&#225;g, cal&#225;gnon, espirituh&#225;non.</foreign>
 </p><p>Espiritualidad. = <foreign lang="ceb" xml:lang="ceb">Pagcam&#225;o, cah&#237;mtang sa Esp&#237;ritu. * Cah&#237;mtang sa mg&#771;a Padre sacerdote ug sa nagas&#237;lbi sa Singbah&#225;n. * Bobat con sa bisan onsa ng&#771;a espirituh&#225;non.</foreign>
 </p><p>Espiritualizar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#225;lhin sa us&#225; ca t&#225;uo sa pagcaespiritoh&#225;non, tong&#771;&#243;d sa gracia ug pagt&#225;bang sa Dios.</foreign>
@@ -7982,7 +7982,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Espolazo. = Idem.
 </p><p>Espoleadura. = <foreign lang="ceb" xml:lang="ceb">Ang samad sa tian sa cabay&#243;, guican sa tahod tahod, sa espuela, sa nagacabayo.</foreign>
 </p><p>Espolear. = <foreign lang="ceb" xml:lang="ceb">Pagcol&#225;mpit, pagtinic&#243;d sa nagacabayo, ar&#243;n lomac&#225;t ang guicabay&#243;an nia ng&#771;a manan&#225;p. * Pag&#225;gda sa bisan cansa ar&#243;n magab&#243;hat sa bisan onsa.</foreign>
-</p><p>Espoleta. = <foreign lang="ceb" xml:lang="ceb">Pin&#243;tol ng&#771;a ham&#243;bo sa c&#225;hoy ng&#771;a binoh&#243;an pagl&#225;pos, hopot hopot ng&#771;a sin&#243;dlan sa polvora ng&#771;a icaseba sa mg&#771;a bomba.</foreign>
+</p><p>Espoleta. = <foreign lang="ceb" xml:lang="ceb">Pin&#243;tol ng&#771;a ham&#243;bo sa c&#225;hoy ng&#771;a binoh&#243;an pagl&#225;pos, hopot hopot ng&#771;a sin&#243;dlan sa <corr sic="polvora">p&#243;lvora</corr> ng&#771;a icaseba sa mg&#771;a bomba.</foreign>
 <pb id="pb207" n="207" facs="f:207"/></p><p>Espolin. = <foreign lang="ceb" xml:lang="ceb">Lans&#225;dera ng&#771;a di&#243;tay ng&#771;a pagagam&#237;ton sa mg&#771;a maghab&#225;bol sa mg&#771;a pan&#225;pton ng&#771;a bin&#243;dcan ug guis&#225;ctan sa mg&#771;a paglabra ug sa mg&#771;a bolac bolac.</foreign>
 </p><p>Espolio. = <foreign lang="ceb" xml:lang="ceb">Cadagh&#225;nan sa mg&#771;a casangc&#225;pan ng&#771;a nahab&#237;lin sa pagcamat&#225;y sa mg&#771;a Obispo ug ob&#225;n pang mg&#771;a<corr sic="."/> pon&#243;an sa singbah&#225;n, ug hasta ng&#771;ani sa mg&#771;a Padre.</foreign>
 </p><p>Espolique. = <foreign lang="ceb" xml:lang="ceb">Ang t&#225;uo, ang solog&#243;on ng&#771;a magalac&#225;t sa on&#225;han sa manan&#225;p ng&#771;a guicabay&#243;an sa iang ag&#225;lon.</foreign>
@@ -8097,7 +8097,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Estamper&#237;a. = <foreign lang="ceb" xml:lang="ceb">Bal&#225;y ng&#771;a pagaboh&#225;tan ug pagabaligy&#225;an sa mg&#771;a lar&#225;oan.</foreign>
 </p><p>Estampero = <foreign lang="ceb" xml:lang="ceb">Ang magab&#243;hat ug magabal&#237;gya sa mang&#771;a lar&#225;oan.</foreign>
 </p><p>Estampido. = <foreign lang="ceb" xml:lang="ceb">Ton&#243;g, bot&#243;, bal&#225;nsag, dal&#237;cya.</foreign>
-</p><p>Estampilla. = <foreign lang="ceb" xml:lang="ceb">Marca sa tomb&#225;ga ng&#771;a pagalil&#243;can sa ng&#771;alan ug sa p&#237;rma con r&#250;brica sa bisan cansang t&#225;uo, ng&#771;a ma&#237;ng&#771;on gay&#243;d sa bin&#243;hat sa com&#243;t, con ih&#243;ad na sa papel.</foreign>
+</p><p>Estampilla. = <foreign lang="ceb" xml:lang="ceb">Marca sa tomb&#225;ga ng&#771;a pagalil&#243;can sa ng&#771;alan ug sa <corr sic="p&#237;rma">pirma</corr> con r&#250;brica sa bisan cansang t&#225;uo, ng&#771;a ma&#237;ng&#771;on gay&#243;d sa bin&#243;hat sa com&#243;t, con ih&#243;ad na sa papel.</foreign>
 </p><p>Estancacion. = <foreign lang="ceb" xml:lang="ceb">Pagcahon&#243;ng, pagca&#225;rang, pagca&#243;ndang, pagcat&#243;-ang, pagcapoy&#243; sa bisan onsa.</foreign>
 </p><p>Estancar. = <foreign lang="ceb" xml:lang="ceb">To-ang, poy&#243;, ondang, arang, hon&#243;ng. * Pag&#243;lang. * Pagdil&#237; sa pagbal&#237;gya sa <corr sic="cadagh&#224;nan">cadagh&#225;nan</corr>, sa bisan onsa, ar&#243;n ibal&#237;gya lamang sa mg&#771;a t&#225;uo ng&#771;a guit&#243;dlo sa mg&#771;a pon&#243;an.</foreign>
 </p><p>Estancia. = <foreign lang="ceb" xml:lang="ceb">Pagcapoy&#243;, pagcad&#243;gay sa bisan diin. * Sol&#243;d ng&#771;a pagap&#243;y-an sa can&#243;nay. * Cabal&#225;nan ng&#771;a guipog&#225;san ug guit&#225;mnan sa mg&#771;a nagacal&#225;in lain ng&#771;a mg&#771;a tan&#243;m ug mg&#771;a cahoy, ug guibat&#243;nan sa mg&#771;a manan&#225;p, sa mg&#771;a hay&#243;pan.</foreign>
@@ -8142,7 +8142,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Estercoliso. = <foreign lang="ceb" xml:lang="ceb">Ang ma&#237;ng&#771;on ug ang mohatong&#771;&#243;d sa tae sa mg&#771;a manan&#225;p.</foreign>
 </p><p>Estercuelo. = <foreign lang="ceb" xml:lang="ceb">Ang pagb&#243;tang sa yota sa tae sa mg&#771;a manan&#225;p, sa iti.</foreign>
 </p><p>Esterero. = <foreign lang="ceb" xml:lang="ceb">Ang magab&#243;hat, ang magal&#225;la sa mg&#771;a ban&#237;g, ang magabal&#237;gya ug ang magapaha&#225;ng&#771;ay sa mg&#771;a bal&#225;y, sa mg&#771;a sol&#243;d, sa maong mg&#771;a ban&#237;g.</foreign>
-</p><p>Est&#233;ril. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li mob&#243;ng&#771;a. * Ang bab&#225;ye, con manan&#225;p ng&#771;a baye ng&#771;a d&#237;li macag&#225;nac, langday. * T&#243;ig sa di&#243;tay ng&#771;a pan&#250;ig, panu&#237;gan.</foreign>
+</p><p>Est&#233;ril. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li mob&#243;ng&#771;a. * Ang bab&#225;ye, con manan&#225;p ng&#771;a baye ng&#771;a d&#237;li macag&#225;nac, langday. * <corr sic="T&#243;ig">T&#250;ig</corr> sa di&#243;tay ng&#771;a pan&#250;ig, panu&#237;gan.</foreign>
 </p><p>Esterilidad. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#237;li pagb&#243;ng&#771;a. * Pagcad&#237;li pag&#225;nac. * Pagcac&#225;bos, pagcaoal&#225; sa pan&#250;ig, sa panu&#237;gan.</foreign>
 </p><p>Esterilizarse. = <foreign lang="ceb" xml:lang="ceb">Pags&#225;ndao, pag&#243;ndang sa pagb&#243;ng&#771;a, sa pag&#225;nac.</foreign>
 </p><p>Estero. = <foreign lang="ceb" xml:lang="ceb">Ang pagb&#243;tang sa mg&#771;a sol&#243;d sa mg&#771;a ban&#237;g. * Sob&#225; sob&#225; ng&#771;a mohon&#225;s ug mot&#225;ob, sapa, lat&#225;san, bal&#237;chag.</foreign>
@@ -8231,7 +8231,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Estregar. = <foreign lang="ceb" xml:lang="ceb">Nosnos, coloc&#243;so, coloc&#243;son, quisi quisi, log&#243;d, ng&#771;od ng&#771;od, bang&#771;od, bag-id, nisnis, coso coso, haplos.</foreign>
 </p><p>Estrella. = <foreign lang="ceb" xml:lang="ceb">Bit&#243;on. * Quinh&#225;son ing&#771;on sa pagcad&#225;goay sa bit&#243;on. * Palad sa mg&#771;a t&#225;uo.</foreign>
 </p><p>Estrellado. = <foreign lang="ceb" xml:lang="ceb">Bito&#243;nan, <corr sic="ang&#771;">ang</corr> napon&#243; sa mg&#771;a bit&#243;on.</foreign>
-</p><p>Estrellar. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa mg&#771;a bit&#243;on. * Pagbalibag, pagsalib&#225;y sa bisan onsa sa macos&#243;g, sa mab&#225;scog, pagpos&#225;. * Pagl&#225;lis, pogs&#243;col sa isigcat&#225;uo sa mg&#771;a mas&#237;ngcang polong.</foreign>
+</p><p>Estrellar. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa mg&#771;a bit&#243;on. * <corr sic="Pagbalibag">Pagbal&#237;bag</corr>, pagsalib&#225;y sa bisan onsa sa macos&#243;g, sa mab&#225;scog, pagpos&#225;. * Pagl&#225;lis, pogs&#243;col sa isigcat&#225;uo sa mg&#771;a mas&#237;ngcang polong.</foreign>
 </p><p>Estremecer. = <foreign lang="ceb" xml:lang="ceb">Pagpal&#237;hog, pagcacon&#243;g con&#243;g, pagqu&#237;mo quimo, pagqu&#237;rog quirog, pagl&#237;nog. * Pagpah&#225;rloc, pagpal&#237;sang, pagpac&#243;gmat.</foreign>
 </p><p>Estremecerse. = <foreign lang="ceb" xml:lang="ceb">Idem. * Pagc&#243;rog <corr sic="corog">cor&#243;g</corr>.</foreign>
 </p><p>Estrena. = <foreign lang="ceb" xml:lang="ceb">Hatag, gasa, regalo, ng&#771;a ih&#225;tag tong&#771;&#243;d sa bisan onsang hingt&#243;ngdan. * Pag&#243;na, pag&#225;na ana sa bisan onsa, pags&#243;god pags&#243;lay sa pagb&#243;hat sa bisan onsa. * Ang naha&#243;na sa pagp&#225;lit con sa pagbal&#237;gya sa bisan onsa.</foreign>
@@ -8436,7 +8436,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Excusabaraja. = <foreign lang="ceb" xml:lang="ceb">Tag&#225;can, boc&#225;g, bacat.</foreign>
 </p><p>Excusable. = <foreign lang="ceb" xml:lang="ceb">Ang tac&#243;s pagbalib&#225;don, ibal&#237;bar.</foreign>
 </p><p>Excusadamente. = <foreign lang="ceb" xml:lang="ceb">Sa oal&#225;y quinah&#225;nglan.</foreign>
-</p><p>Excusado. = <foreign lang="ceb" xml:lang="ceb">Ang nahag&#225;oas sa pagbay&#225;d sa bohis, tong&#771;&#243;d sa pagb&#243;ot sa hari, tong&#771;&#243;d sa iang opicio, ug tong&#771;&#243;d ba sa lain ng&#771;a hingt&#243;ngdan. * Ang <pb id="pb221" n="221" facs="f:221"/>d&#237;li mag&#225;mit sa mas&#243;bsob. * Ang oalay quinah&#225;nglan ng&#771;a boh&#225;ton con ipam&#243;long. * Ang d&#237;li map&#243;los sa guit&#243;yo.</foreign>
+</p><p>Excusado. = <foreign lang="ceb" xml:lang="ceb">Ang nahag&#225;oas sa <corr sic="pagbay&#225;d">pagb&#225;yad</corr> sa bohis, tong&#771;&#243;d sa pagb&#243;ot sa hari, tong&#771;&#243;d sa iang opicio, ug tong&#771;&#243;d ba sa lain ng&#771;a hingt&#243;ngdan. * Ang <pb id="pb221" n="221" facs="f:221"/>d&#237;li mag&#225;mit sa mas&#243;bsob. * Ang oalay quinah&#225;nglan ng&#771;a boh&#225;ton con ipam&#243;long. * Ang d&#237;li map&#243;los sa guit&#243;yo.</foreign>
 </p><p>Excusador. = <foreign lang="ceb" xml:lang="ceb">Ang mobal&#237;bad. * Ang magasal&#237;li, magaal&#237;li, magas&#225;gang, magasac&#225;l sa lain sa pagb&#225;yad sa bohis, sa pagb&#243;hat sa mg&#771;a bohat sa lonsod tog&#243;d can&#237;a.</foreign>
 </p><p>Excusar. = <foreign lang="ceb" xml:lang="ceb">Pagbal&#237;bad. * Pagd&#237;li, pag&#243;lang, ar&#243;n d&#237;li boh&#225;ton ug d&#237;li ipam&#243;long, ug ar&#243;n d&#237;li masor&#237;l ang mg&#771;a da&#243;tan. * Pag&#225;yad sa bisan onsa. * Pagg&#225;oas sa pagb&#225;yad sa bohis.</foreign>
 </p><p>Execrable. = <foreign lang="ceb" xml:lang="ceb">Ang da&#243;tan ca&#225;yo.</foreign>
@@ -8449,7 +8449,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Exequatur. = <foreign lang="ceb" xml:lang="ceb">Polong ng&#771;a linat&#237;n ng&#771;a maga&#225;soy sa pagt&#243;got sa mg&#771;a hari sa pagbal&#225;od ug pagt&#243;man sa mg&#771;a sogo sa Santos ng&#771;a Papa ng&#771;a guis&#243;lat sa mang&#771;a camato&#243;dan ng&#771;a guing&#771;&#225;lan ug Bula.</foreign>
 </p><p>Exequias. = <foreign lang="ceb" xml:lang="ceb">Ang mg&#771;a tolom&#225;non sa Singbah&#225;n tong&#771;&#243;d sa mg&#771;a cal&#225;g sa mg&#771;a minat&#225;y.</foreign>
 </p><p>Exequible. = <foreign lang="ceb" xml:lang="ceb">Ang arang tom&#225;non, boh&#225;ton.</foreign>
-</p><p>Exhalacion. = <foreign lang="ceb" xml:lang="ceb">Cal&#225;yo ng&#771;a maquita os&#225;hay sa ga-biy, sa tiempo sa linao, sa cahang&#771;&#237;nan, ng&#771;a ma&#237;ng&#771;on sa us&#225; ca bit&#243;on ng&#771;a modal&#225;gan ug mah&#243;log. * Pagcaal&#237;sng&#771;ao, pagcaal&#237;sbo sa bisan onsa.</foreign>
+</p><p>Exhalacion. = <foreign lang="ceb" xml:lang="ceb">Cal&#225;yo ng&#771;a <corr sic="maquita">maqu&#237;ta</corr> os&#225;hay sa ga-biy, sa tiempo sa linao, sa cahang&#771;&#237;nan, ng&#771;a ma&#237;ng&#771;on sa us&#225; ca bit&#243;on ng&#771;a modal&#225;gan ug mah&#243;log. * Pagcaal&#237;sng&#771;ao, pagcaal&#237;sbo sa bisan onsa.</foreign>
 </p><p>Exhalar. = <foreign lang="ceb" xml:lang="ceb">Al&#237;sng&#771;ao, al&#237;sbo, hong&#771;&#225;o. * Pagcot&#225;s guican sa pagca&#237;nit ng&#771;a dagc&#243; con sa pagcac&#225;poy. * Pagb&#243;hat sa bisan onsa sa minat&#250;od ca&#225;yo, sa masingc&#225;mot.</foreign>
 </p><p>Exhausto. <corr>= </corr><foreign lang="ceb" xml:lang="ceb">Pagcac&#225;bos, <corr sic="pagca&#242;bos">pagca&#243;bos</corr>, pagcac&#243;lang sa bisan onsa. * Ang guic&#225;bsan, guic&#243;psan, guicao&#225;d-an ug guicah&#243;dtan sa quinah&#225;nglan onta.</foreign>
 </p><p>Exheredacion. = <foreign lang="ceb" xml:lang="ceb">Pagcadil&#237; sa pagd&#225;oat sa cab&#237;lin.</foreign>
@@ -8975,7 +8975,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Filarm&#243;nico. = <foreign lang="ceb" xml:lang="ceb">Ang mahag&#243;gma sa m&#250;sica.</foreign>
 </p><p>Fil&#225;stica. = <foreign lang="ceb" xml:lang="ceb">Mg&#771;a hilo, mg&#771;a lobid lobid, mg&#771;a log&#225;s ng&#771;a pagacoh&#225;on sa mg&#771;a pisi, mg&#771;a lobid ng&#771;a daan, sa mg&#771;a sacay&#225;n, ug may silbi sa pagb&#225;at sa bisan onsa.</foreign>
 </p><p>Filater&#237;a. = <foreign lang="ceb" xml:lang="ceb">Cadagh&#225;nan sa mg&#771;a polong sa pag&#225;soy sa bisan onsa.</foreign>
-</p><p>Filderretor. = <foreign lang="ceb" xml:lang="ceb">Pan&#225;pton ng&#771;a hin&#225;bol sa mg&#771;a balah bo sa mg&#771;a carnero.</foreign>
+</p><p>Filderretor. = <foreign lang="ceb" xml:lang="ceb">Pan&#225;pton ng&#771;a hin&#225;bol sa mg&#771;a balah&#237;bo sa mg&#771;a carnero.</foreign>
 </p><p>Fileno. = <foreign lang="ceb" xml:lang="ceb">Di&#243;tay ca&#225;yo. * Man&#237;pis oy&#225;mot. * T&#225;uo ng&#771;a sine&#241;or ca&#225;yo.</foreign>
 </p><p>Filete. = <foreign lang="ceb" xml:lang="ceb">Barlis ng&#771;a hat&#225;as ug ha&#237;ctin ng&#771;a ib&#243;tang sa mg&#771;a bohat ng&#771;a lin&#237;loc. * Pagcag&#243;pot sa hilo, sa igag&#225;ma, &amp;c., sa mg&#771;a daplin ug mg&#771;a sidsid sa mg&#771;a bisti, ar&#243;n d&#237;li mag&#237;si ug mac&#225;scas.</foreign>
 </p><p>Filiacion. = <foreign lang="ceb" xml:lang="ceb">Calio&#225;tan guican sa mg&#771;a tig&#250;lang hasta sa pag&#225;bot sa mg&#771;a anac. * Pagcas&#225;cop sa bisan onsa sa iang guinic&#225;nan. * Ang papel con libro ng&#771;a guisol&#225;tan sa ng&#771;alan, sa pagcat&#225;as ug sa ob&#225;n ng&#771;a mang&#771;a tim&#225;an sa laoas sa mg&#771;a soldados.</foreign>
@@ -9654,7 +9654,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Gargajo. = <foreign lang="ceb" xml:lang="ceb">Ang laoay ng&#771;a mah&#225;gcot ng&#771;a guil&#243;a sa mg&#771;a t&#225;uo sa <corr sic="pagcol&#237;h-ar">pagcol&#237;h-ad</corr>, quinol&#237;h-ad. * Ang b&#225;ta sa mal&#225;gsot ng&#771;a d&#225;goay, ng&#771;a oal&#225; tom&#243;bo.</foreign>
 </p><p>Garganchon. V. <hi>Garg&#252;ero</hi>.
 </p><p>Garganta. = <foreign lang="ceb" xml:lang="ceb">Liog, tot&#243;nlan. * Ang lab&#237;ng man&#237;pis ug ha&#237;ctin sa mg&#771;a caboqu&#237;dan. * Ang bahin ng&#771;a lab&#237;ng man&#237;pis sa mg&#771;a columna, sa mg&#771;a balaustre. * Sa bisan onsa ng&#771;a lin&#237;loc, &amp;c.</foreign>
-</p><p>Gargantada. = <foreign lang="ceb" xml:lang="ceb">Ang tobig, vino, &amp;c., ng&#771;a guis&#243;ca con ng&#771;a guican sa tot&#243;nlan sa macaus&#225; ug sa mab&#225;scog.</foreign>
+</p><p>Gargantada. = <foreign lang="ceb" xml:lang="ceb">Ang tobig, vino, &amp;c., ng&#771;a guis&#243;ca con ng&#771;a guican sa tot&#243;nlan sa <corr sic="macaus&#225;">maca&#250;sa</corr> ug sa mab&#225;scog.</foreign>
 </p><p>Gargantear. = <foreign lang="ceb" xml:lang="ceb">Pagcanta sa pagl&#225;in lain sa ting&#771;og, ogoy ogoy. * Pagt&#243;g-an sa t&#225;uo sa hingbal&#243;an nia con guipanags&#225;quet na.</foreign>
 </p><p>Gargantilla. = <foreign lang="ceb" xml:lang="ceb">Dayan dayan ng&#771;a guis&#225;b-ong sa mg&#771;a bab&#225;ye sa ilang liog, cuentas, tol&#243;ng, toloy toloy, dahog.</foreign>
 </p><p>G&#225;rgara. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#243;loc boloc, pagcabol&#243;cboc, pagcac&#225;ga.</foreign>
@@ -9802,7 +9802,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Geograf&#237;a. = <foreign lang="ceb" xml:lang="ceb">Quina&#225;dman ng&#771;a maga&#225;soy sa pagcab&#243;tang sa ng&#771;atan&#225;n ng&#771;a yota sa calib&#243;tan.</foreign>
 </p><p>Geogr&#225;ficamente. = <foreign lang="ceb" xml:lang="ceb">Ing&#771;on sa naham&#243;tang sa geograf&#237;a.</foreign>
 </p><p>Geogr&#225;fico. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa geograf&#237;a, sa quina&#225;dman ng&#771;a naga&#225;soy sa pagcab&#243;tang sa mg&#771;a longsod, &amp;c., sa tibuoc ng&#771;a calib&#250;tan.</foreign>
-<pb id="pb263" n="263" facs="f:263"/></p><p>Ge&#243;grafo. = <foreign lang="ceb" xml:lang="ceb">Ang ma&#225;lam sa geografia.</foreign>
+<pb id="pb263" n="263" facs="f:263"/></p><p>Ge&#243;grafo. = <foreign lang="ceb" xml:lang="ceb">Ang ma&#225;lam sa <corr sic="geografia">geograf&#237;a</corr>.</foreign>
 </p><p>Geolog&#237;a. = <foreign lang="ceb" xml:lang="ceb">Quina&#225;dman sa maga&#225;soy sa pagcab&#243;tang sa ng&#771;atan&#225;n ng&#771;a motor&#243;c ug mag&#225;ma sa luyo ug sa luyo, sa bisan diin sa calib&#243;tan.</foreign>
 </p><p>Geomanc&#237;a. = <foreign lang="ceb" xml:lang="ceb">Quina&#225;dman ng&#771;a bac&#225;con, tolo&#243;han ng&#771;a da&#243;tan, ng&#771;a guican sa pagcab&#243;tang sa mg&#771;a bin&#243;hat ng&#771;a hingcapl&#225;gan sa yota, sa mg&#771;a barlis, &amp;c., ng&#771;a pagaboh&#225;ton sa maong yota.</foreign>
 </p><p>Geometr&#237;a. = <foreign lang="ceb" xml:lang="ceb">Quina&#225;dman ng&#771;a maga&#225;soy sa cadagc&#243;on ug sa mg&#771;a socod sa ng&#771;atan&#225;n.</foreign>
@@ -10250,7 +10250,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Guisote. = <foreign lang="ceb" xml:lang="ceb">Guinis&#225;l ng&#771;a d&#237;li ma&#225;yo, ng&#771;a colang sa lal&#237;m ug lam&#237;.</foreign>
 </p><p>Guita. = <foreign lang="ceb" xml:lang="ceb">Pisi, lobid ng&#771;a magam&#225;y.</foreign>
 </p><p>Guitarra. = <foreign lang="ceb" xml:lang="ceb">Guitarra, sesta.</foreign>
-</p><p>Guitarrero. = <foreign lang="ceb" xml:lang="ceb">Ang magab&#243;hat, maga&#225;yo ug magabal&#237;g-ya sa mg&#771;a sesta.</foreign>
+</p><p>Guitarrero. = <foreign lang="ceb" xml:lang="ceb">Ang magab&#243;hat, maga&#225;yo ug <corr sic="magabal&#237;g-ya">magabal&#237;gya</corr> sa mg&#771;a sesta.</foreign>
 </p><p>Guitarrilla. = <foreign lang="ceb" xml:lang="ceb">Sestang di&#243;tay.</foreign>
 </p><p>Guitarrillo. = Idem.
 </p><p>Guitarron. = <foreign lang="ceb" xml:lang="ceb">Sestang dagc&#243;. * T&#225;uo ng&#771;a malal&#225;ng&#771;on, tampal&#225;san.</foreign>
@@ -10632,7 +10632,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Hocico. = <foreign lang="ceb" xml:lang="ceb">Song&#771;ad, iol&#243;ng&#771;ad, ica&#243;ng&#771;ad, song&#771;&#243;. * B&#225;ba sa mg&#771;a t&#225;uo ng&#771;a guidagc&#243;an sa mg&#771;a ng&#771;abil. * Nauong. * Pagcacol&#237;ot, pagcasoc&#243;.</foreign>
 </p><p>Hocicudo. = <foreign lang="ceb" xml:lang="ceb">Manan&#225;p sa dagc&#243;ng song&#771;ad, song&#771;&#243;.</foreign>
 </p><p>Hocino. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan sa pothao ng&#771;a quinalah&#225;an ug mah&#225;it, ma&#237;ng&#771;on sa dagoay sa sanggot, galab ng&#771;a di&#243;tay.</foreign>
-</p><p>Hoga&#241;o. = <foreign lang="ceb" xml:lang="ceb">Car&#243;n tu&#237;ga, ni&#237;ning tuig ng&#771;a at&#243;bang, ng&#771;a nagalac&#225;t.</foreign>
+</p><p>Hoga&#241;o. = <foreign lang="ceb" xml:lang="ceb">Car&#243;n tu&#237;ga, ni&#237;ning <corr sic="tuig">t&#250;ig</corr> ng&#771;a at&#243;bang, ng&#771;a nagalac&#225;t.</foreign>
 </p><p>Hogar. = <foreign lang="ceb" xml:lang="ceb">Dap&#243;g, ab&#243;. * Bal&#225;y, pinoy&#225;nan.</foreign>
 </p><p>Hogaza. = <foreign lang="ceb" xml:lang="ceb">Tin&#225;pay ng&#771;a dagc&#243;.</foreign>
 </p><p>Hoguera. = <foreign lang="ceb" xml:lang="ceb">Daob, pagcasil&#225;b, dagc&#243;ng siga.</foreign>
@@ -10889,7 +10889,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Husillo. = <foreign lang="ceb" xml:lang="ceb">C&#225;hoy, tomb&#225;ga, pothao, &amp;c., ng&#771;a guican&#225;lan paglib&#243;t ug nayon ng&#771;&#225;dto sa tom&#243;y, ng&#771;a icap&#243;gos sa mg&#771;a pigs&#225;nan.</foreign>
 <pb id="pb294" n="294" facs="f:294"/></p><p>Husma (andar &#225; la). = <foreign lang="ceb" xml:lang="ceb">Pagpatig&#225;yon, pagpaquig&#225;soy pagpaquigs&#225;yod, sa pagcac&#243;gi ca&#225;yo sa bisan onsa ng&#771;a tin&#225;go. * Pagmat&#250;od sa bisan onsa ng&#771;a tin&#225;go, tong&#771;&#243;d sa mg&#771;a cat&#225;hap ug mg&#771;a tim&#225;an.</foreign>
 </p><p>Husmeador. = <foreign lang="ceb" xml:lang="ceb">Ang mac&#225;plag sa bisan onsa tong&#771;&#243;d lamang sa bah&#243;.</foreign>
-</p><p>Husmear. = <foreign lang="ceb" xml:lang="ceb">Pagc&#225;plag, paghib&#225;lag, pagquita sa bisan onsa cay guipang&#771;u&#237;ta sa iang bah&#243;. * Pagpaquigs&#225;yod pagpaquig&#225;soy, pags&#243;si sa bisan onsa ng&#771;a <pb id="pb295" n="295" facs="f:295"/>tin&#225;go, sa hilom lamang, d&#237;li sa day&#225;g. * Pags&#243;god sa bah&#243;, sa pagbah&#243; sa bisan onsa.</foreign>
+</p><p>Husmear. = <foreign lang="ceb" xml:lang="ceb">Pagc&#225;plag, paghib&#225;lag, <corr sic="pagquita">pagqu&#237;ta</corr> sa bisan onsa cay <corr sic="guipang&#771;u&#237;ta">guipang&#771;&#237;ta</corr> sa iang bah&#243;. * Pagpaquigs&#225;yod pagpaquig&#225;soy, pags&#243;si sa bisan onsa ng&#771;a <pb id="pb295" n="295" facs="f:295"/>tin&#225;go, sa hilom lamang, d&#237;li sa day&#225;g. * Pags&#243;god sa bah&#243;, sa pagbah&#243; sa bisan onsa.</foreign>
 </p><p>Husmo. = <foreign lang="ceb" xml:lang="ceb">Ang bah&#243; sa bisan onsa, sa carne, sa baboy, sa manteca<corr sic=".">,</corr> &amp;c. * Pagh&#243;lat, pagpa&#225;bot sa ma&#225;yong cahigay&#243;nan, ocasion, sa pagc&#243;ha sa bisan onsa ng&#771;a guit&#250;yo.</foreign>
 </p><p>Huso. = <foreign lang="ceb" xml:lang="ceb">Bil&#237;can.</foreign>
 </p><p>Huta. = <foreign lang="ceb" xml:lang="ceb">Balong balong, pay&#225;g.</foreign>
@@ -11396,7 +11396,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Indestructible. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li mah&#237;mo ng&#771;a gobon ug lagl&#225;gon.</foreign>
 </p><p>Indeterminable. V. <hi>Indeliberado</hi>.
 </p><p>Indeterminacion. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#250;ha duha.</foreign> * V. <hi>Indeliberacion</hi>.
-</p><p>Indeterminadamente. = <foreign lang="ceb" xml:lang="ceb">Sa pahcad&#250;ha doha, sa oal&#225;y pagcahan&#225;yac.</foreign>
+</p><p>Indeterminadamente. = <foreign lang="ceb" xml:lang="ceb">Sa <corr sic="pahcad&#250;ha">pagcad&#250;ha</corr> doha, sa oal&#225;y pagcahan&#225;yac.</foreign>
 </p><p>Indeterminado. = <foreign lang="ceb" xml:lang="ceb">Ang oal&#225; pa i&#225;soy, ang oal&#225; pa is&#243;go. * Ang oal&#225; pa mahan&#225;yac, ang nagad&#243;ha doha.</foreign>
 </p><p>Indevocion. = <foreign lang="ceb" xml:lang="ceb">Pagcac&#243;lang sa pag&#225;mpo.</foreign>
 </p><p>Indevoto. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li maamp&#243;on. * Ang d&#237;li mahag&#243;gma sa bisan cansa.</foreign>
@@ -11543,9 +11543,9 @@ ESPA&#209;OL-BISAYA.
 </p><p>Infamia. = <foreign lang="ceb" xml:lang="ceb">Pagcac&#243;lang sa ma&#225;yong dong&#771;og. * Bohat ng&#771;a da&#243;tan, mal&#225;gsot, mang&#771;&#237;l-ad, pagcatamp&#225;las.</foreign>
 </p><p>Infancia. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#243;tang, edad sa mg&#771;a b&#225;ta hasta sa icap&#237;to ca t&#250;ig cutub sa ilang pagcabo&#243;tan, hasta sa pags&#243;god sa ilang boot. * Pagcas&#243;god sa bisan onsa.</foreign>
 </p><p>Infando. = <foreign lang="ceb" xml:lang="ceb">Ang mang&#771;&#237;l-ad uy&#225;mot. * Ang d&#237;li tac&#243;s ng&#771;a pagahisg&#243;tan.</foreign>
-</p><p>Infanta. = <foreign lang="ceb" xml:lang="ceb">Ang b&#225;ta ng&#771;a bab&#225;ye ng&#771;a oal&#225; pa om&#225;bot sa icap&#237;to ca tuig. * Bisan quinsa sa mg&#771;a anac ng&#771;a <pb id="pb311" n="311" facs="f:311"/>bab&#225;ye, sa guintiay&#243;nan, sa mg&#771;a hari, ug bisan quinsa sa mg&#771;a as&#225;oa sa mg&#771;a anac ng&#771;a lal&#225;qui sa hari.</foreign>
+</p><p>Infanta. = <foreign lang="ceb" xml:lang="ceb">Ang b&#225;ta ng&#771;a bab&#225;ye ng&#771;a oal&#225; pa om&#225;bot sa icap&#237;to ca <corr sic="tuig">t&#250;ig</corr>. * Bisan quinsa sa mg&#771;a anac ng&#771;a <pb id="pb311" n="311" facs="f:311"/>bab&#225;ye, sa guintiay&#243;nan, sa mg&#771;a hari, ug bisan quinsa sa mg&#771;a as&#225;oa sa mg&#771;a anac ng&#771;a lal&#225;qui sa hari.</foreign>
 </p><p>Infantado. = <foreign lang="ceb" xml:lang="ceb">Ang yota ng&#771;a hings&#225;cpan sa pagcatag&#237;a sa mg&#771;a anac sa mg&#771;a hari.</foreign>
-</p><p>Infante. = <foreign lang="ceb" xml:lang="ceb">Ang b&#225;ta ng&#771;a lal&#225;qui ng&#771;a oal&#225; pa om&#225;bot sa icap&#237;to ca tuig. * Bisan quinsa sa mg&#771;a anac ng&#771;a lal&#225;qui, sa guintiay&#243;nan, sa mg&#771;a hari, ng&#771;a son&#243;d sa pang&#771;&#225;nay. * Ang soldado ng&#771;a oal&#225;y cabayo.</foreign>
+</p><p>Infante. = <foreign lang="ceb" xml:lang="ceb">Ang b&#225;ta ng&#771;a lal&#225;qui ng&#771;a oal&#225; pa om&#225;bot sa icap&#237;to ca <corr sic="tuig">t&#250;ig</corr>. * Bisan quinsa sa mg&#771;a anac ng&#771;a lal&#225;qui, sa guintiay&#243;nan, sa mg&#771;a hari, ng&#771;a son&#243;d sa pang&#771;&#225;nay. * Ang soldado ng&#771;a oal&#225;y cabayo.</foreign>
 </p><p>Infanter&#237;a. = <foreign lang="ceb" xml:lang="ceb">Ang mg&#771;a soldados ng&#771;a oal&#225;y mg&#771;a cabayo.</foreign>
 </p><p>Infanticida. = <foreign lang="ceb" xml:lang="ceb">Mamomon&#243; sa mg&#771;a b&#225;tang di&#243;tay.</foreign>
 </p><p>Infanticidio. = <foreign lang="ceb" xml:lang="ceb">Pagcabon&#243;, pagpat&#225;y sa bisan cansang b&#225;tang di&#243;tay.</foreign>
@@ -11646,7 +11646,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Ingenuidad. = <foreign lang="ceb" xml:lang="ceb">Pagcah&#225;oan sa boot, h&#250;na h&#250;na ng&#771;a ma&#225;yo.</foreign>
 </p><p>Ingenuo. = <foreign lang="ceb" xml:lang="ceb">Ang mah&#225;oan sa boot, ang mam&#243;long&#771; ing&#771;on sa an&#225;a sa iang c&#225;sing c&#225;sing.</foreign>
 </p><p>Ingerir. = <foreign lang="ceb" xml:lang="ceb">Pagsol&#243;d sa us&#225; ca botang sa lain ng&#771;a botang. * Pags&#225;cop, pagl&#243;cop. * Paghil&#225;bot sa bisan onsa ng&#771;a holos&#225;yon, sa mg&#771;a pagl&#225;lis, &amp;c.</foreign>
-</p><p>Ingretar. = <foreign lang="ceb" xml:lang="ceb">Pags&#243;lod sa pin&#243;tol sa sang&#771;&#225; sa us&#225; ca cahoy sa lindog con sa sang&#771;&#225; sa lain ng&#771;a cahoy.</foreign>
+</p><p>Ingretar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pags&#243;lod">Pagsol&#243;d</corr> sa pin&#243;tol sa sang&#771;&#225; sa us&#225; ca cahoy sa lindog con sa sang&#771;&#225; sa lain ng&#771;a cahoy.</foreign>
 <pb id="pb314" n="314" facs="f:314"/></p><p>Ingina. = <foreign lang="ceb" xml:lang="ceb">Apap&#225;ng&#771;ig.</foreign>
 </p><p>Ingle. = <foreign lang="ceb" xml:lang="ceb">Bolog.</foreign>
 </p><p>Ingobernable. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li mah&#237;mo ng&#771;a pagaay&#243;hon ug pagah&#243;ptan.</foreign>
@@ -11717,7 +11717,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Inmodesto. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li magapog&#243;ng sa mg&#771;a cail&#237;bgon, ang d&#237;li magab&#225;ntay sa iang pagsol&#243;ng ug mang&#771;a pagb&#243;hat, ar&#243;n maham&#243;tang onta sa pagcabo&#243;tan. * Ang ma&#243;lag, mal&#225;o-ay.</foreign>
 </p><p>Inmolacion. = <foreign lang="ceb" xml:lang="ceb">Pagcah&#225;lad sa pagpat&#225;y ug sa pagp&#243;nggot sa mg&#771;a manan&#225;p.</foreign>
 </p><p>Inmolador. = <foreign lang="ceb" xml:lang="ceb">Ang magah&#225;lad ug magap&#243;nggot sa mg&#771;a manan&#225;p.</foreign>
-</p><p>Inmolar. = <foreign lang="ceb" xml:lang="ceb">Pagp&#243;nggot sa mg&#771;a manan&#225;p ng&#771;a guipanghalad, ug bisan ng&#771;a t&#225;uo ang ih&#225;lad.</foreign>
+</p><p>Inmolar. = <foreign lang="ceb" xml:lang="ceb">Pagp&#243;nggot sa mg&#771;a manan&#225;p ng&#771;a <corr sic="guipanghalad">guipangh&#225;lad</corr>, ug bisan ng&#771;a t&#225;uo ang ih&#225;lad.</foreign>
 </p><p>Inmoral. = <foreign lang="ceb" xml:lang="ceb">Polong con bohat ng&#771;a d&#237;li ang&#771;ay, ng&#771;a batoc sa ma&#225;yong bat&#225;san ug pagtol&#243;n-an.</foreign>
 </p><p>Inmoralidad. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#225;ot sa bat&#225;san. * Pag&#225;pas sa bat&#225;san ng&#771;a d&#237;li ang&#771;ay sa pagtol&#243;n-an sa mg&#771;a bo&#243;tan, sa pagtol&#243;n-an sa Evangelio.</foreign>
 </p><p>Inmortal. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li mamat&#225;y. * Ang mad&#243;gay uy&#225;mot.</foreign>
@@ -12708,7 +12708,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Lata. = <foreign lang="ceb" xml:lang="ceb">Tagsa ca cahoy ng&#771;a hat&#225;as ug baol pa, ng&#771;a icab&#243;hat sa mg&#771;a salog, sa mg&#771;a cubierta sa mg&#771;a sacay&#225;n, sa mg&#771;a at&#243;p, &amp;c. * Sorl&#225;nan sa hoja de lata.</foreign>
 </p><p>Latamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagta&#225;s.</foreign>
 </p><p>Lataz. = <foreign lang="ceb" xml:lang="ceb">Manan&#225;p sa op&#225;t ca teel, sa Am&#233;rica ug sa Asia.</foreign>
-</p><p>Lateral. = <foreign lang="ceb" xml:lang="ceb">Ang an&#225;a sa luyo, sa quil&#237;d sa bisan onsa. * Ang dili guican sa pagcal&#225;ctud.</foreign>
+</p><p>Lateral. = <foreign lang="ceb" xml:lang="ceb">Ang an&#225;a sa luyo, sa <corr sic="quil&#237;d">quilid</corr> sa bisan onsa. * Ang dili guican sa pagcal&#225;ctud.</foreign>
 </p><p>Lateranense. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa Singbah&#225;n ni san Juan de Letran sa Roma.</foreign>
 </p><p>Latido. = <foreign lang="ceb" xml:lang="ceb">Pagcaqu&#237;bot quibot sa casing casing, sa pulso, &amp;c., sa mg&#771;a t&#225;uo ug sa mg&#771;a manan&#225;p. * Pagcang&#771;&#243;t ng&#771;ot sa mg&#771;a hob&#225;g.</foreign>
 </p><p>Latiente. = <foreign lang="ceb" xml:lang="ceb">Ang magaqu&#237;bot quibot.</foreign>
@@ -13759,7 +13759,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Mantero. = <foreign lang="ceb" xml:lang="ceb">Ang magab&#243;hat ug magabal&#237;gya sa mg&#771;a habol.</foreign>
 </p><p>Mantilla. = <foreign lang="ceb" xml:lang="ceb">Mantiya, pan&#225;pton ng&#771;a put&#237;on ug mal&#237;ng&#771;in dapit sa obus, ng&#771;a igad&#243;ngdong ug igat&#225;bon sa mg&#771;a bab&#225;ye sa olo ug sa ilang laoas hasta sa obos sa haoac. * Hap&#237;n sa mg&#771;a b&#225;tang di&#243;tay, ng&#771;a igap&#243;tus can&#237;la. * Hanig, hap&#237;n ng&#771;a igat&#225;bon sa mg&#771;a payod sa mg&#771;a cabayo.</foreign>
 </p><p>Mantillo. = <foreign lang="ceb" xml:lang="ceb">Cahog&#225;oan, sagbot, tae sa mg&#771;a manan&#225;p ng&#771;a nad&#243;gmoc ug nadon&#243;t na.</foreign>
-</p><p>Manto. = <foreign lang="ceb" xml:lang="ceb">Pandong. * Ang bisti sa mg&#771;a Padreng religioso ng&#771;a guib&#237;sti nila sa <corr sic="&#237;b&#225;bao">ib&#225;bao</corr> sa ilang t&#250;nica con h&#225;bito. * Bisti ng&#771;a mah&#225;l uy&#225;mot ng&#771;a guib&#237;sti sa mg&#771;a hari ug sa ob&#225;n pang mg&#771;a dagc&#243;ng t&#225;uo ng&#771;a ham&#237;li ca&#225;yo, ng&#771;a guis&#225;b-ong sa liog ug magag&#243;yod dapit sa lic&#243;d. * Ang icasalip&#243;d sa bisan onsa.</foreign>
+</p><p>Manto. = <foreign lang="ceb" xml:lang="ceb">Pandong. * Ang bisti sa mg&#771;a Padreng religioso ng&#771;a guib&#237;sti nila sa <corr sic="&#237;b&#225;bao">ib&#225;bao</corr> sa ilang t&#250;nica con h&#225;bito. * Bisti ng&#771;a mah&#225;l uy&#225;mot ng&#771;a guib&#237;sti sa mg&#771;a hari ug sa ob&#225;n pang mg&#771;a dagc&#243;ng t&#225;uo ng&#771;a ham&#237;li ca&#225;yo, ng&#771;a guis&#225;b-ong sa liog ug magag&#243;yod dapit sa lic&#243;d. * Ang <corr sic="icasalip&#243;d">icasal&#237;pod</corr> sa bisan onsa.</foreign>
 </p><p>Manuable. V. <hi>Manejable</hi>.
 </p><p>Manual. = <foreign lang="ceb" xml:lang="ceb">Ang guib&#250;hat sa mg&#771;a cam&#243;t. * Ang mas&#225;yon pagagam&#237;ton, pagaboh&#225;ton. * T&#225;uo sa ma&#225;yong cagao&#237;an, masin&#243;gton. * Libro ng&#771;a guisol&#225;tan sa mg&#771;a tolom&#225;non sa pagb&#243;hat sa mg&#771;a sacramento. * Ang libro ng&#771;a sinol&#225;tan sa mg&#771;a t&#225;uo ng&#771;a comerciante, &amp;c., sa salap&#237;, &amp;c., ng&#771;a guid&#225;oat ug ng&#771;a guig&#225;sto nila, sa pagh&#243;ad nila o&#241;a sa librong dagc&#243;.</foreign>
 </p><p>Manualmente. = <foreign lang="ceb" xml:lang="ceb">Sa mg&#771;a cam&#243;t.</foreign>
@@ -15166,7 +15166,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Nexo. = <foreign lang="ceb" xml:lang="ceb">Pagcahi&#243;sa sa bisan onsa sa lain ng&#771;a butang.</foreign>
 
 </p></div2><div2 id="cni" type="Section"><head>NI</head><p>Ni. = <foreign lang="ceb" xml:lang="ceb">Bisan.</foreign>
-</p><p>Niara. = <foreign lang="ceb" xml:lang="ceb">Tapoc sa mg&#771;a dag&#225;mi ng&#771;a pagaboh&#225;ton sa mang&#771;a cabal&#225;nan, sa pab&#243;tang sa tali&#243;ala sa trigo, &amp;c.</foreign>
+</p><p>Niara. = <foreign lang="ceb" xml:lang="ceb">Tapoc sa mg&#771;a dag&#225;mi ng&#771;a pagaboh&#225;ton sa mang&#771;a cabal&#225;nan, sa pab&#243;tang sa <corr sic="tali&#243;ala">talio&#225;la</corr> sa trigo, &amp;c.</foreign>
 </p><p>Nicerobino. = <foreign lang="ceb" xml:lang="ceb">Hom&#243;t ng&#771;a guicab&#243;bho sa mg&#771;a car&#225;an ng&#771;a t&#225;uo.</foreign>
 </p><p>Nicociana. = <foreign lang="ceb" xml:lang="ceb">Tan&#243;m sa tab&#225;co.</foreign>
 </p><p>Nicho. = <foreign lang="ceb" xml:lang="ceb">Lang&#771;ob lang&#771;ob, boh&#243; ng&#771;a pagaboh&#225;ton sa mg&#771;a cota, sa pagb&#243;tang sa bisan onsa.</foreign>
@@ -15602,7 +15602,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Oliente. = <foreign lang="ceb" xml:lang="ceb">Ang mabah&#243;. * Ang magas&#237;nghot, ang magapanimah&#243;.</foreign>
 </p><p>Oliera. = <foreign lang="ceb" xml:lang="ceb">Lal&#225;nhan, lan&#225;han. * Ang sodl&#225;nan sa santos ng&#771;a lana.</foreign>
 <pb id="pb423" n="423" facs="f:423"/></p><p>Oligarqu&#237;a. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#243;ot, pagcah&#243;pot sa p&#237;la ca t&#225;uo ng&#771;a nanaghi&#243;sa sila ar&#243;n pagas&#225;cpan nila ng&#771;atan&#225;n.</foreign>
-</p><p>Olimpiada. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#243;gay sa op&#225;t ca tuig.</foreign>
+</p><p>Olimpiada. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#243;gay sa op&#225;t ca <corr sic="tuig">t&#250;ig</corr>.</foreign>
 </p><p>Ol&#237;mpico. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa mg&#771;a dula ng&#771;a <corr sic="guibohat">guib&#243;hat</corr> sa mg&#771;a car&#225;an ng&#771;a t&#225;uo sa longsod sa Olimpia, sa tagsa ca ica&#243;pat ca t&#250;ig.</foreign>
 </p><p>Olimpo. = <foreign lang="ceb" xml:lang="ceb">Ang Lang&#771;it.</foreign>
 </p><p>Oliscar. V. <hi>Olfatear</hi>, y <hi>oler</hi> desde <hi lang="ceb" xml:lang="ceb">pagpaquigs&#225;yod</hi>. * <foreign lang="ceb" xml:lang="ceb">Pags&#243;god sa da&#243;tan ng&#771;a bah&#243; sa bisan onsa.</foreign>
@@ -15781,7 +15781,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Organizar. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pag&#225;ngay">Pag&#225;ng&#771;ay</corr> sa &#243;rgano ar&#243;n d&#237;li mab&#243;loc, pagh&#243;say sa bisan onsa.</foreign>
 </p><p>&#211;rgano. = <foreign lang="ceb" xml:lang="ceb">&#211;rgano, tol&#243;nggon sa Singbah&#225;n ng&#771;a guibot&#225;ng&#771;an sa dagh&#225;nan ng&#771;a mg&#771;a hopat hopot ng&#771;a managton&#243;g. * Alagu&#237;an sa ting&#771;og, &amp;c., sa l&#225;oas sa mg&#771;a t&#225;uo ug sa mg&#771;a manan&#225;p.</foreign>
 </p><p>Orgullo. = <foreign lang="ceb" xml:lang="ceb">Pagpal&#225;bi labi. * Pagcadal&#237;, pagcal&#225;gmit sa bisan onsa.</foreign>
-</p><p>Orgullosamente. = <foreign lang="ceb" xml:lang="ceb">Sa pagcal&#225;bi labi.</foreign>
+</p><p>Orgullosamente. = <foreign lang="ceb" xml:lang="ceb">Sa <corr sic="pagcal&#225;bi">pagcalab&#237;</corr> labi.</foreign>
 </p><p>Orgulloso. = <foreign lang="ceb" xml:lang="ceb">Pal&#225;bi lab&#237;hon. * Ang madal&#237;, ang mal&#225;gmit ca&#225;yo.</foreign>
 </p><p>Oriental. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa casil&#225;ng&#771;an, sa casob&#225;ng&#771;an. * Bit&#243;on ng&#771;a mog&#243;a sa bontag.</foreign>
 <pb id="pb428" n="428" facs="f:428"/></p><p>Orientar. = <foreign lang="ceb" xml:lang="ceb">Pagtim&#225;an sa mg&#771;a mapa, &amp;c., sa amih&#225;nan, ar&#243;n hibal&#243;an sa magat&#225;n-ao sa lugar ng&#771;a guibot&#225;ng&#771;an sa mg&#771;a provincia, sa mg&#771;a longsod, &amp;c. * <corr sic="Pagpat&#237;g&#225;yon">Pagpatig&#225;yon</corr>, pagb&#243;tang ug ma&#225;yo sa mg&#771;a lay&#225;g sa mg&#771;a sacay&#225;n, ar&#243;n pagas&#243;rlan sa hang&#771;in. * Pag&#237;la sa pagcab&#243;tang sa bisan onsa.</foreign>
@@ -16037,7 +16037,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Palaciego. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa palasio. * Ang nagas&#237;lbi sa palasio.</foreign>
 </p><p>Palacio. = <foreign lang="ceb" xml:lang="ceb">Bal&#225;y ng&#771;a guimp&#243;y-an sa mg&#771;a hari, sa mg&#771;a Obispo, ug sa ob&#225;n ng&#771;a mg&#771;a dagc&#243;ng t&#225;uo.</foreign>
 </p><p>Palacra. = <foreign lang="ceb" xml:lang="ceb">Tipac ng&#771;a bol&#225;oan ng&#771;a <corr sic="&#243;lay">olay</corr> ug baol pa, ng&#771;a maqu&#237;ta us&#225;hay sa mg&#771;a mina.</foreign>
-</p><p>Palada. = <foreign lang="ceb" xml:lang="ceb">Bisan onsa ng&#771;a mac&#243;ha sa pala, sa macaos&#225;, sa tagsa ca pagc&#243;ha.</foreign>
+</p><p>Palada. = <foreign lang="ceb" xml:lang="ceb">Bisan onsa ng&#771;a mac&#243;ha sa pala, sa <corr sic="macaos&#225;">maca&#250;sa</corr>, sa tagsa ca pagc&#243;ha.</foreign>
 </p><p>Paladar. = <foreign lang="ceb" xml:lang="ceb">Lang&#771;&#225;gng&#771;ag. * Pagcalam&#237;. * Ca&#237;bog sa bisan onsang espirituh&#225;non.</foreign>
 </p><p>Paladear. = <foreign lang="ceb" xml:lang="ceb">Pagb&#243;tang, pagt&#243;ng&#771;ad sa <corr sic="lang&#771;&#225;ng&#771;ag">lang&#771;&#225;gng&#771;ag</corr> sa bag-ong gui&#225;nac, sa dog&#243;s con sa lain ng&#771;a mat&#225;m-is, ar&#243;n mahag&#225;lam ug magas&#243;so ug ma&#225;yo. * Pagc&#243;ha sa ca&#237;bog sa bisan onsang botang tong&#771;&#243;d sa lain ng&#771;a botang ng&#771;a ih&#225;tag, ng&#771;a macal&#237;pat ug macal&#237;mbong sa lam&#237;. * Pagh&#243;gas sa b&#225;ba con sa lang&#771;&#225;gng&#771;ag sa mg&#771;a manan&#225;p, ar&#243;n macac&#225;on sila ug ma&#225;yo. * Pagb&#243;hat sa tim&#225;an sa b&#225;ta ng&#771;a bag-ong gui&#225;nac, sa iang b&#225;ba, ng&#771;a boot mags&#243;so. * Pagd&#237;mdim, pagtag&#225;mtam, sa mah&#237;nay, sa bisan onsa.</foreign>
 </p><p>Paladeo. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#237;mdim, pagcatag&#225;mtam.</foreign>
@@ -16202,7 +16202,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Panizo. = <foreign lang="ceb" xml:lang="ceb">Ma&#237;s.</foreign>
 </p><p>Panoja. = <foreign lang="ceb" xml:lang="ceb">Poso.</foreign>
 </p><p>Pantalon. = <foreign lang="ceb" xml:lang="ceb">Calson, saloo&#225;l ng&#771;a hat&#225;as.</foreign>
-</p><p>Pantalla. = <foreign lang="ceb" xml:lang="ceb">Oja de lata. * Tomb&#225;ga ng&#771;a bin&#225;cbac sa pagcan&#237;pis, &amp;c., ng&#771;a icaat&#250;bang sa mg&#771;a sug&#225; sa belon, &amp;c., ar&#243;n sal&#237;pdan ang siga, ug d&#237;li onta magapasol&#225;o ug magad&#225;ot sa mg&#771;a mat&#225;. * Bisan onsa ng&#771;a ib&#250;tang sa atub&#225;ng&#771;an sa mg&#771;a mat&#225;, sa pagsalip&#243;d sa sug&#225; con sa cal&#225;yo. * Bisan onsa ug bisan quinsa ng&#771;a magasalip&#243;d sa lain.</foreign>
+</p><p>Pantalla. = <foreign lang="ceb" xml:lang="ceb">Oja de lata. * Tomb&#225;ga ng&#771;a bin&#225;cbac sa pagcan&#237;pis, &amp;c., ng&#771;a icaat&#250;bang sa mg&#771;a sug&#225; sa belon, &amp;c., ar&#243;n sal&#237;pdan ang siga, ug d&#237;li onta magapasol&#225;o ug magad&#225;ot sa mg&#771;a mat&#225;. * Bisan onsa ng&#771;a ib&#250;tang sa atub&#225;ng&#771;an sa mg&#771;a mat&#225;, sa <corr sic="pagsalip&#243;d">pagsal&#237;pod</corr> sa sug&#225; con sa cal&#225;yo. * Bisan onsa ug bisan quinsa ng&#771;a magasalip&#243;d sa lain.</foreign>
 </p><p>Pantano. = <foreign lang="ceb" xml:lang="ceb">Danao, yota ng&#771;a tob&#237;gan. * Cacul&#237;an. * Caol&#225;ng&#771;an, cabil&#237;nggan, cas&#225;moc ng&#771;a dagc&#243;.</foreign>
 </p><p>Pantanoso. = <foreign lang="ceb" xml:lang="ceb">Yota ng&#771;a guidan&#225;oan ca&#225;yo. * Bisan onsa ng&#771;a guibot&#225;ng&#771;an sa mg&#771;a cabil&#237;nggan, mg&#771;a cacul&#237;an, mg&#771;a caol&#225;ng&#771;an, mg&#771;a cas&#225;moc.</foreign>
 </p><p>Panteon. = <foreign lang="ceb" xml:lang="ceb">Singbah&#225;n, sa canhing tiempo, ng&#771;a guib&#243;hat sa longsod sa Roma, ng&#771;a guisingb&#225;han sa mg&#771;a dioat&#225;han sa mg&#771;a dios dios ng&#771;atan&#225;n: car&#243;n tiempoha nah&#237;mo Singbah&#225;n ng&#771;a pagasingb&#225;han cang Mar&#237;a Sant&#237;sima. * Lugar ng&#771;a guiboh&#225;tan pagt&#250;yo sa mg&#771;a lang&#771;ob lang&#771;ob con mg&#771;a boh&#243;, sa paglob&#243;ng sa mg&#771;a minat&#225;y, ug labi pa sa <corr sic="mga">mg&#771;a</corr> hari ug mg&#771;a pr&#237;ncipe.</foreign>
@@ -16660,7 +16660,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Pavura. V. <hi>Pavor</hi>.
 </p><p>Payaso. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a macal&#237;pat ug macal&#237;pay sa mg&#771;a t&#225;uo, sa iang pagcat&#237;stis ug pagcal&#225;in lain sa iang pagat&#250;bang, sa mg&#771;a dula.</foreign>
 </p><p>Payo. = <foreign lang="ceb" xml:lang="ceb">Burong, buqu&#237;rnon, cabos.</foreign>
-</p><p>Paz. = <foreign lang="ceb" xml:lang="ceb">Cad&#225;et, pagcad&#225;it. * Ang us&#225; sa mg&#771;a hatag sa Dios ng&#771;a Esp&#237;ritu Santo. * Pagcah&#250;say sa mg&#771;a Guinhar&#237;an ug sa mg&#771;a caub&#225;nan, sa oal&#225;y pagpang&#771;&#243;bat ug pagb&#237;quil biquil sa mg&#771;a cabob&#243;t-on. * Pagcas&#225;bot sa mg&#771;a hari, ar&#243;n mah&#250;say ang ilang mg&#771;a Guinhar&#237;an. * Gaoi ng&#771;a ma&#225;yo, mah&#250;say. * Pagsigh&#225;loc sa mg&#771;a t&#225;uo, sa nauong, sa <corr sic="tima&#225;n">tim&#225;an</corr> sa ma&#225;yong b&#250;ot. * Pagcab&#225;los sa mg&#771;a b&#250;hat ug mg&#771;a polong ng&#771;a ma&#225;yo con da&#243;tan. * Pagcab&#225;oi sa nagap&#237;ldi sa sug&#225;l. * Pagcab&#225;yad sa mg&#771;a otang. * Tolom&#225;non sa mg&#771;a pagm&#237;sa, sa pagh&#225;loc sa nagam&#237;sa sa patena, sa pagg&#225;cos sa di&#225;cono, sa pagg&#225;cos us&#225;b sa di&#225;cono sa subdi&#225;cono, sa pagpah&#225;loc sa mg&#771;a t&#225;uo ng&#771;a an&#225;a sa coro sa us&#225; ca lar&#225;uan con reliquia, ug sa mg&#771;a t&#225;uo op&#243;d, ng&#771;a mg&#771;a pon&#243;an, ng&#771;a nanagat&#250;bang sa Singbah&#225;n.</foreign>
+</p><p>Paz. = <foreign lang="ceb" xml:lang="ceb">Cad&#225;et, pagcad&#225;it. * Ang us&#225; sa mg&#771;a hatag sa Dios ng&#771;a Esp&#237;ritu Santo. * Pagcah&#250;say sa mg&#771;a Guinhar&#237;an ug sa mg&#771;a caub&#225;nan, sa oal&#225;y pagpang&#771;&#243;bat ug pagb&#237;quil biquil sa mg&#771;a cabob&#243;t-on. * Pagcas&#225;bot sa mg&#771;a hari, ar&#243;n mah&#250;say ang ilang mg&#771;a Guinhar&#237;an. * Gaoi ng&#771;a ma&#225;yo, mah&#250;say. * Pagsigh&#225;loc sa mg&#771;a t&#225;uo, sa nauong, sa <corr sic="tima&#225;n">tim&#225;an</corr> sa ma&#225;yong b&#250;ot. * Pagcab&#225;los sa mg&#771;a b&#250;hat ug mg&#771;a polong ng&#771;a ma&#225;yo con da&#243;tan. * Pagcab&#225;oi sa nagap&#237;ldi sa sug&#225;l. * Pagcab&#225;yad sa mg&#771;a otang. * Tolom&#225;non sa mg&#771;a pagm&#237;sa, sa pagh&#225;loc sa <corr sic="nagam&#237;sa">nagamisa</corr> sa patena, sa pagg&#225;cos sa di&#225;cono, sa pagg&#225;cos us&#225;b sa di&#225;cono sa subdi&#225;cono, sa pagpah&#225;loc sa mg&#771;a t&#225;uo ng&#771;a an&#225;a sa coro sa us&#225; ca lar&#225;uan con reliquia, ug sa mg&#771;a t&#225;uo op&#243;d, ng&#771;a mg&#771;a pon&#243;an, ng&#771;a nanagat&#250;bang sa Singbah&#225;n.</foreign>
 </p><p>Pazguato. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a mating&#771;&#225;la dayon ca&#225;yo sa bisan onsa ng&#771;a guid&#243;ng&#771;og ug guinat&#225;n-ao nia.</foreign>
 </p><p>Pazote. = <foreign lang="ceb" xml:lang="ceb">Tan&#243;m ng&#771;a mahom&#243;t.</foreign>
 
@@ -16765,7 +16765,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Pegajoso. = <foreign lang="ceb" xml:lang="ceb">Mah&#225;gcot.</foreign> * V. <hi>Pegadizo</hi>. * <foreign lang="ceb" xml:lang="ceb">Ang mah&#243;moc, mal&#243;mo. * Opicio, cah&#237;mtang con catund&#225;nan sa paghil&#225;bot sa salap&#237;.</foreign>
 </p><p>Pegamiento. V. <hi>Pega</hi> hasta <hi lang="ceb" xml:lang="ceb"><corr sic="Pagcadihog">Pagcad&#237;hog</corr></hi>.
 </p><p>Pegante. V. <hi>Pegajoso</hi>.
-</p><p>Pegar. = <foreign lang="ceb" xml:lang="ceb">Tapot, pilit, doc&#243;t. * Pagpahi&#243;sa<corr sic=".">,</corr> paglang&#771;&#225;quit. * Pagd&#243;ol, pags&#237;gpit. * Pagb&#243;nal, pagpas&#225;quet, pagcastigo. * Pagtac&#243;d. * Paghig&#243;gma, pagpal&#225;ngga. * Pag&#237;bug, pagpanghin&#225;ot. * Pagd&#225;mag, pagd&#243;smog.</foreign>
+</p><p>Pegar. = <foreign lang="ceb" xml:lang="ceb">Tapot, pilit, doc&#243;t. * Pagpahi&#243;sa<corr sic=".">,</corr> paglang&#771;&#225;quit. * Pagd&#243;ol, pags&#237;gpit. * Pagb&#243;nal, pagpas&#225;quet, pagcastigo. * Pagtac&#243;d. * Paghig&#243;gma, pagpal&#225;ngga. * <corr sic="Pag&#237;bug">Pag&#237;bog</corr>, pagpanghin&#225;ot. * Pagd&#225;mag, pagd&#243;smog.</foreign>
 </p><p>Pegaso. = <foreign lang="ceb" xml:lang="ceb">Cabayo ng&#771;a guih&#250;na h&#250;na sa mg&#771;a dioat&#225;han sa canhing tiempo ng&#771;a pac-an sia. * Tapoc sa mg&#771;a bit&#243;on.</foreign>
 <pb id="pb459" n="459" facs="f:459"/></p><p>Pegata. = <foreign lang="ceb" xml:lang="ceb">Limbong. * Pagcay&#243;bit, pagcat&#237;ao ng&#771;a mab&#243;g-at.</foreign>
 </p><p>Pegote. V. <hi>Pegado</hi>. * <foreign lang="ceb" xml:lang="ceb">Bisan onsang guinis&#225;l, cal&#225;non con bisan onsa pa ng&#771;a mah&#225;gcot ca&#225;yo. * Bisan quinsa ng&#771;a d&#237;li mab&#243;lag sa lain, ug lab&#237; sa horas sa pagc&#225;on. * Bisan onsa ng&#771;a guib&#243;tang sa salingc&#225;pao lamang, ug ng&#771;a d&#237;li ang&#771;ay, d&#237;li mahi&#250;sa sa guibut&#225;ng&#771;an.</foreign>
@@ -16787,7 +16787,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Peiner&#237;a. = <foreign lang="ceb" xml:lang="ceb">Bal&#225;y ng&#771;a pagaboh&#225;tan ug pagbaligy&#225;an sa mg&#771;a sudlay ug mg&#771;a solod.</foreign>
 </p><p>Peinero. = <foreign lang="ceb" xml:lang="ceb">Magbob&#243;hat, tigb&#250;hat, ang macag&#225;ma ug magab&#250;hat sa mg&#771;a surlay ug mg&#771;a sulud.</foreign>
 </p><p>Peineta. = <foreign lang="ceb" xml:lang="ceb">Surlay ng&#771;a dagc&#243; sa sisic, &amp;c., ng&#771;a icad&#225;yan dayan sa mg&#771;a se&#241;ora sa ilang boh&#243;c.</foreign>
-</p><p>Peje. = <foreign lang="ceb" xml:lang="ceb">Isda. * T&#225;uo ng&#771;a batid, malal&#225;ng&#771;on ng&#771;a ma&#225;lam mang&#771;u&#237;ta ug magpatig&#225;yon.</foreign> * Mulier. = <foreign lang="ceb" xml:lang="ceb">Isda, duyon.</foreign>
+</p><p>Peje. = <foreign lang="ceb" xml:lang="ceb">Isda. * T&#225;uo ng&#771;a batid, malal&#225;ng&#771;on ng&#771;a ma&#225;lam <corr sic="mang&#771;u&#237;ta">mang&#771;&#237;ta</corr> ug magpatig&#225;yon.</foreign> * Mulier. = <foreign lang="ceb" xml:lang="ceb">Isda, duyon.</foreign>
 </p><p>Pejepalo. = <foreign lang="ceb" xml:lang="ceb">Isda, tala&#243;ng&#771;an.</foreign>
 </p><p>Pejerey. = <foreign lang="ceb" xml:lang="ceb">Isda ng&#771;a molomas&#237;hag, ug ng&#771;a guitolotolp&#243;can sa iang laoas sa mg&#771;a mansa ng&#771;a ma&#237;tom.</foreign>
 </p><p>Pejesapo. = <foreign lang="ceb" xml:lang="ceb">Isda.</foreign>
@@ -16963,7 +16963,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Pentat&#233;uco. = <foreign lang="ceb" xml:lang="ceb">Ang <corr sic="nahaonang">naha&#243;nang</corr> lil&#237;ma ca libro sa santos ng&#771;a Sulat ng&#771;a guis&#250;lat ni Moys&#233;s.</foreign>
 </p><p>Pentecostes. = <foreign lang="ceb" xml:lang="ceb">Pasco sa Pentecostes. * <corr sic="Pag&#224;nhi">Pag&#225;nhi</corr> sa Esp&#237;ritu Santo sa ib&#225;bao sa mg&#771;a tin&#243;n-an ni Jesucristo sa pagcad&#225;goay sa mg&#771;a dilang cal&#225;yo. * Piesta sa mg&#771;a Jud&#237;os, sa canhing tiempo, sa pagd&#243;mdom nila sa bat&#225;san ng&#771;a guih&#225;tag <corr sic="canila">can&#237;la</corr> sa Dios, sa buquid ng&#771;a guing&#771;&#225;lan ug Sina&#237;.</foreign>
 </p><p>Pen&#250;ltimo. = <foreign lang="ceb" xml:lang="ceb">Ang guis&#243;ndan sa catap&#250;san.</foreign>
-</p><p>Penumbra. = <foreign lang="ceb" xml:lang="ceb">Ang landong ng&#771;a nahat&#225;lioala sa pagcang&#771;&#237;t ng&#771;it ug sa pagcal&#225;mdag, sa mg&#771;a pagbacon&#225;oa.</foreign>
+</p><p>Penumbra. = <foreign lang="ceb" xml:lang="ceb">Ang landong ng&#771;a <corr sic="nahat&#225;lioala">nahatalio&#225;la</corr> sa pagcang&#771;&#237;t ng&#771;it ug sa pagcal&#225;mdag, sa mg&#771;a pagbacon&#225;oa.</foreign>
 </p><p>Pe&#241;a. = <foreign lang="ceb" xml:lang="ceb">Bat&#243;ng dagc&#243; ng&#771;a baol.</foreign>
 </p><p>Pe&#241;arse. = <foreign lang="ceb" xml:lang="ceb">Pagl&#225;gueu.</foreign>
 </p><p>Pe&#241;ascal. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a cabat&#243;han, ng&#771;a pon&#243; sa mg&#771;a bat&#243;ng dagc&#243;, sa mg&#771;a pangpang.</foreign>
@@ -17062,7 +17062,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Perenne. = <foreign lang="ceb" xml:lang="ceb">Can&#250;nay, ang oal&#225;y hon&#243;ng, ang oal&#225;y ondang.</foreign>
 </p><p>Perennemente. = <foreign lang="ceb" xml:lang="ceb">Sa can&#250;nay, sa pagcaoal&#225;y hon&#243;ng.</foreign>
 </p><p>Perennidad. = <foreign lang="ceb" xml:lang="ceb">Pagcacan&#250;nay, <corr sic="pagaoal&#225;y">pagcaoal&#225;y</corr> hon&#243;ng.</foreign>
-</p><p>Perentoriamente. = <foreign lang="ceb" xml:lang="ceb">Sa tag&#225;l ng&#771;a d&#237;li maop&#243;d. * Sa dinal&#237;an.</foreign>
+</p><p>Perentoriamente. = <foreign lang="ceb" xml:lang="ceb">Sa tag&#225;l ng&#771;a d&#237;li <corr sic="maop&#243;d">ma&#243;pod</corr>. * Sa dinal&#237;an.</foreign>
 </p><p>Perentoriedad. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pcgcatag&#225;l">Pagcatag&#225;l</corr>. * Pagcadal&#237;.</foreign>
 </p><p>Perentorio. = <foreign lang="ceb" xml:lang="ceb">Ang catap&#250;san ng&#771;a tag&#225;l ng&#771;a guit&#243;got. * Ang dinal&#237;an ca&#225;yo. * Ang oal&#225;y duha duha, ang naday&#225;g.</foreign>
 </p><p>Perero. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan ng&#771;a ma&#237;ng&#771;on ing&#771;on sa cuchiyo.</foreign>
@@ -17205,7 +17205,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Perrengue. = <foreign lang="ceb" xml:lang="ceb">Ang mas&#225;yon masuc&#243;, manuy&#243;, mabal&#225;ca.</foreign>
 </p><p>Perrera. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a pagabilangg&#243;an sa mg&#771;a ir&#243; sa pagpang&#771;&#225;yam. * Buhat ng&#771;a dagc&#243;, sa di&#243;tay ng&#771;a pul&#250;s. * Ang t&#225;uo ng&#771;a d&#237;li buot magb&#225;yad sa mang&#771;a otang nia.</foreign>
 </p><p>Perrer&#237;a. = <foreign lang="ceb" xml:lang="ceb">Cadagh&#225;nan sa mg&#771;a ir&#243;. * Catil&#237;ngban sa mg&#771;a t&#225;uo ng&#771;a da&#250;tan ug sa mang&#771;&#237;l-ad ng&#771;a bat&#225;san. * Polong con buhat ng&#771;a igapaqu&#237;ta sa bisan cansa sa iang casuc&#243; ug calig&#250;tgut.</foreign>
-</p><p>Perrero. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a may opicio ug catungd&#225;nan sa pagpag&#250;a sa Singbah&#225;n ng&#771;a Catedral sa mg&#771;a ir&#243; <pb id="pb472" n="472" facs="f:472"/>ng&#771;a manol&#243;d. * Ang magab&#225;ntay ug magaal&#237;ma sa mg&#771;a ir&#243; sa pagpang&#771;&#225;yam, ang mahag&#243;gma magb&#225;ton sa mg&#771;a ir&#243;. * Ang magal&#237;mbong sa isigca&#237;ng&#771;on.</foreign>
+</p><p>Perrero. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a may opicio ug catungd&#225;nan sa <corr sic="pagpag&#250;a">pagpag&#243;a</corr> sa Singbah&#225;n ng&#771;a Catedral sa mg&#771;a ir&#243; <pb id="pb472" n="472" facs="f:472"/>ng&#771;a manol&#243;d. * Ang magab&#225;ntay ug magaal&#237;ma sa mg&#771;a ir&#243; sa pagpang&#771;&#225;yam, ang mahag&#243;gma magb&#225;ton sa mg&#771;a ir&#243;. * Ang magal&#237;mbong sa isigca&#237;ng&#771;on.</foreign>
 </p><p>Perrezno. = <foreign lang="ceb" xml:lang="ceb">Ang ir&#243;ng di&#243;tay, ang toc&#243;y.</foreign>
 </p><p>Perrico, llo, lla, to, ta. = Idem.
 </p><p>Perro. = <foreign lang="ceb" xml:lang="ceb">Ir&#243;. * Ng&#771;alan ng&#771;a talam&#225;yon ng&#771;a guicahing&#771;&#225;lan sa mg&#771;a moros ug mg&#771;a jud&#237;os. * T&#225;uo ng&#771;a mal&#237;g-on sa iang h&#250;na h&#250;na, ng&#771;a d&#237;li maga&#243;pod opod sa iang pagb&#250;ot.</foreign>
@@ -17619,7 +17619,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Pisador. = <foreign lang="ceb" xml:lang="ceb">Ang magaton&#243;b. * Ang magap&#237;ga sa mang&#771;a ubas. * Ang cabayo ng&#771;a magaton&#243;g ca&#225;yo sa iang pagton&#243;b.</foreign>
 </p><p>Pisadura. V. <hi>Pisada</hi>.
 <pb id="pb483" n="483" facs="f:483"/></p><p>Pisante. = <foreign lang="ceb" xml:lang="ceb">Tiil. * Sap&#237;n.</foreign>
-</p><p>Pisar. = <foreign lang="ceb" xml:lang="ceb">Pagton&#243;b. * Pagd&#225;soc. * Pagd&#243;ol sa bisan diin. * Pagpang&#771;as&#225;ua sa mg&#771;a langgam, ug lab&#237; pa sa mg&#771;a salap&#225;ti.</foreign>
+</p><p>Pisar. = <foreign lang="ceb" xml:lang="ceb">Pagton&#243;b. * Pagd&#225;soc. * Pagd&#243;ol sa bisan diin. * <corr sic="Pagpang&#771;as&#225;ua">Pagpang&#771;as&#225;oa</corr> sa mg&#771;a langgam, ug lab&#237; pa sa mg&#771;a salap&#225;ti.</foreign>
 </p><p>Pisauvas. = <foreign lang="ceb" xml:lang="ceb">Ang magaton&#243;b sa mg&#771;a ubas ar&#243;n gom&#243;a ang dug&#225;.</foreign>
 </p><p>Pisaverde. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a mac&#250;gui ca&#225;yo sa pagd&#225;yan dayan sa iang mg&#771;a bisti. * Lal&#225;quing babay&#233;non. * Ang magas&#243;roy soroy sa pagb&#243;long sa mg&#771;a caling&#771;&#225;oan.</foreign>
 </p><p>Piscator. = <foreign lang="ceb" xml:lang="ceb">Ilis&#237;pan sa t&#250;ig t&#250;ig ng&#771;atan&#225;n.</foreign>
@@ -17709,7 +17709,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Plantaje. = <foreign lang="ceb" xml:lang="ceb">Cadagh&#225;nan sa mg&#771;a tan&#243;m.</foreign>
 </p><p>Plantanal. V. <hi>Platanal</hi>.
 </p><p>Pl&#225;ntano. V. <hi>Pl&#225;tano</hi>.
-</p><p>Plantar. = <foreign lang="ceb" xml:lang="ceb">Pagtan&#243;m. * Pagpat&#237;ndug sa bisan onsa. * Pagb&#243;tang, pagpal&#237;ngcod.</foreign>
+</p><p>Plantar. = <foreign lang="ceb" xml:lang="ceb">Pagtan&#243;m. * <corr sic="Pagpat&#237;ndug">Pagpat&#237;ndog</corr> sa bisan onsa. * Pagb&#243;tang, pagpal&#237;ngcod.</foreign>
 </p><p>Plantario. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a pagapug&#225;san sa mang&#771;a binhi sa mg&#771;a otang, sa <corr sic="hum&#224;y">hum&#225;y</corr>, &amp;c., sa pagtan&#243;m ug pagl&#225;lin o&#241;a sa lain ng&#771;a yota, con maholohat&#225;as na.</foreign>
 </p><p>Plantear. = <foreign lang="ceb" xml:lang="ceb">Pagh&#250;na huna sa pagcab&#250;tang sa bisan onsa, ar&#243;n mah&#237;mo ng&#771;a h&#237;ngpit sa pagb&#250;hat na.</foreign>
 </p><p>Plantica, lla, ta. = <foreign lang="ceb" xml:lang="ceb">Ang naha&#250;nang tin&#225;bas sa panit ng&#771;a ib&#250;tang sa pagb&#250;hat sa mg&#771;a sap&#237;n. * <corr sic="Tin&#224;bas">Tin&#225;bas</corr> ng&#771;a pan&#225;pton ng&#771;a is&#225;pao sa tul&#243;nban sa mang&#771;a medias. * Ang pothao ng&#771;a dagc&#243; ng&#771;a pagata&#243;lan sa ob&#225;n ng&#771;a mg&#771;a puthao ng&#771;a di&#243;tay sa mg&#771;a yaoe sa mg&#771;a posil. * Panig&#237;ngnan sa pap&#225;n sa bisan onsa ng&#771;a buot ng&#771;a <corr sic="pabuh&#225;ton">pagbuh&#225;ton</corr>.</foreign>
@@ -18291,7 +18291,7 @@ ESPA&#209;OL-BISAYA.
 <pb id="pb502" n="502" facs="f:502"/></p><p>Preconizar. = <foreign lang="ceb" xml:lang="ceb">Pagd&#225;yeg, pagt&#243;g-an, pagbal&#225;od sa bisan cansa sa mg&#771;a pahan&#243;ngdan sa lain. * Pagpah&#225;yag, pagday&#225;g sa catil&#237;ngban sa mg&#771;a cardenales, ng&#771;a <corr sic="pagaatub&#225;ng&#771;an">pagatub&#225;ng&#771;an</corr> sa santos ng&#771;a Papa, sa mg&#771;a pahan&#243;ngdan sa bisan cansa ng&#771;a t&#225;uo ng&#771;a guit&#243;rlo sa mg&#771;a hari sa pagcaobispo, &amp;c.</foreign>
 </p><p>Preconocer. = <foreign lang="ceb" xml:lang="ceb">Pagh&#250;na huna, pag&#237;la ng&#771;a daan.</foreign>
 </p><p>Precoz. = <foreign lang="ceb" xml:lang="ceb">Ang mo&#243;na. * Ang madal&#237;. * Bong&#771;a ng&#771;a mah&#237;nog sa masay&#243;.</foreign>
-</p><p>Precursor. = <foreign lang="ceb" xml:lang="ceb">Mao&#243;na, ang maga&#243;na sa lain, ang guis&#243;ndan sa lain. <corr sic="=">*</corr> Ng&#771;alan ng&#771;a guih&#225;tag sa santa Iglesia cang san Juan Bantista, cay naga&#243;na sa pagcat&#225;uo cang Jesucristo ug nagao&#225;li sa iang pag&#225;nhi sa calib&#250;tan.</foreign>
+</p><p>Precursor. = <foreign lang="ceb" xml:lang="ceb">Mao&#243;na, ang maga&#243;na sa lain, ang guis&#243;ndan sa lain. <corr sic="=">*</corr> Ng&#771;alan ng&#771;a guih&#225;tag sa santa Iglesia cang san Juan <corr sic="Bantista">Bautista</corr>, cay naga&#243;na sa pagcat&#225;uo cang Jesucristo ug nagao&#225;li sa iang pag&#225;nhi sa calib&#250;tan.</foreign>
 </p><p>Predecesor. = <foreign lang="ceb" xml:lang="ceb">Ang guis&#243;ndan sa lain, ang guiil&#237;san.</foreign>
 </p><p>Predecir. = <foreign lang="ceb" xml:lang="ceb">Pagt&#225;gna, pagt&#225;ghap.</foreign>
 </p><p>Predefinicion. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#243;ot sa Dios ar&#243;n magas&#243;god sa tin&#243;rlong t&#250;ig ng&#771;atan&#225;n ng&#771;a mg&#771;a bin&#250;hat nia.</foreign>
@@ -18566,7 +18566,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Primal. = <foreign lang="ceb" xml:lang="ceb">Saguio&#225;lo, cordon sa igag&#225;ma.</foreign>
 </p><p>Primariamente. = <foreign lang="ceb" xml:lang="ceb">Sa naha&#243;na, sa lab&#237;.</foreign>
 </p><p>Primario. = <foreign lang="ceb" xml:lang="ceb">Ang lab&#237;, ang naga&#243;na.</foreign>
-</p><p>Primavera. = <foreign lang="ceb" xml:lang="ceb">Ang us&#225; sa op&#225;t ca bahin sa tuig. * Tan&#243;m. * Bisan onsa ng&#771;a guisinamb&#225;gan sa mg&#771;a color ng&#771;a nagacal&#225;in lain ug man&#237;ndot. * Pan&#225;pton sa igag&#225;ma ng&#771;a guinoo&#225;tan, ng&#771;a guibol&#225;can. * T&#250;ig tiempo sa pagca&#225;ng&#771;ay sa bisan onsa.</foreign>
+</p><p>Primavera. = <foreign lang="ceb" xml:lang="ceb">Ang us&#225; sa op&#225;t ca bahin sa <corr sic="tuig">t&#250;ig</corr>. * Tan&#243;m. * Bisan onsa ng&#771;a guisinamb&#225;gan sa mg&#771;a color ng&#771;a nagacal&#225;in lain ug man&#237;ndot. * Pan&#225;pton sa igag&#225;ma ng&#771;a guinoo&#225;tan, ng&#771;a guibol&#225;can. * T&#250;ig tiempo sa pagca&#225;ng&#771;ay sa bisan onsa.</foreign>
 </p><p>Primazgo. = <foreign lang="ceb" xml:lang="ceb">Pagcamag&#225;gao, pagcacaub&#225;nan sa mg&#771;a ig&#225;gao.</foreign>
 </p><p>Primearse. = <foreign lang="ceb" xml:lang="ceb">Pagt&#225;oag sa us&#225; ca t&#225;uo sa lain ng&#771;a t&#225;uo sa ng&#771;alan sa ig&#225;gao.</foreign>
 </p><p>Primer. V. <hi>Primero</hi>.
@@ -18782,7 +18782,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Prolongar. = <foreign lang="ceb" xml:lang="ceb">Pagt&#225;as, pagpat&#243;bo sa bisan onsa. * Pagpad&#250;gay.</foreign>
 </p><p>Proloquio. = <foreign lang="ceb" xml:lang="ceb">Sugu&#237;lon sa di&#243;tay ng&#771;a mg&#771;a polong, ug sa dagc&#243;ng cahol&#243;gan.</foreign>
 </p><p>Promediar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#225;hin sa bisan onsa sa duh&#225; ca bahin ng&#771;a mags&#225;ma, top&#243;ng. * Paghil&#225;bot sa mg&#771;a holos&#225;yon <pb id="pb516" n="516" facs="f:516"/>sa dor&#243;ha con capin ba ca t&#225;uo, sa pagpa&#225;ng&#771;ay can&#237;la.</foreign>
-</p><p>Promedio. = <foreign lang="ceb" xml:lang="ceb">Tong&#771;&#225; tong&#771;&#225;, tolio&#225;la sa bisan onsa.</foreign>
+</p><p>Promedio. = <foreign lang="ceb" xml:lang="ceb">Tong&#771;&#225; tong&#771;&#225;, <corr sic="tolio&#225;la">talio&#225;la</corr> sa bisan onsa.</foreign>
 </p><p>Promesa. = <foreign lang="ceb" xml:lang="ceb">Saad, pags&#225;ad, pagcas&#225;ad.</foreign>
 </p><p>Prometedor. = <foreign lang="ceb" xml:lang="ceb">Ang magas&#225;ad.</foreign>
 </p><p>Prometer. = <foreign lang="ceb" xml:lang="ceb">Pags&#225;ad.</foreign>
@@ -18945,7 +18945,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Pr&#243;vido. = <foreign lang="ceb" xml:lang="ceb">Ang nagatag&#225;na, ang naga&#225;ndam.</foreign>
 </p><p>Provincia. = <foreign lang="ceb" xml:lang="ceb">Ang bahin sa us&#225; ca Guinhar&#237;an ng&#771;a nagas&#225;cop sa pila ca longsod, ug ng&#771;a guibot&#225;ng&#771;an sa caogal&#237;ng&#771;on ng&#771;a maghoh&#243;pot, alcalde, gobernador con pon&#243;an, ng&#771;a magab&#243;ot sa ng&#771;alan sa hari. * Ang mg&#771;a convento ng&#771;a nas&#225;cop sa gah&#250;m sa provincial.</foreign>
 </p><p>Provincial. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa provincia. * Ang Padreng religioso ng&#771;a magab&#243;ot sa sa mg&#771;a sacop <corr sic="g&#771;natan&#225;n">ng&#771;atan&#225;n</corr> sa mg&#771;a convento, sa us&#225; ca provincia.</foreign>
-</p><p>Provincialato. = <foreign lang="ceb" xml:lang="ceb">Opicio, cah&#237;mtang sa pagcaprovincial. * Tuig ng&#771;a pagdug&#225;yan sa provincial sa iang catungd&#225;nan.</foreign>
+</p><p>Provincialato. = <foreign lang="ceb" xml:lang="ceb">Opicio, cah&#237;mtang sa pagcaprovincial. * <corr sic="Tuig">T&#250;ig</corr> ng&#771;a pagdug&#225;yan sa provincial sa iang catungd&#225;nan.</foreign>
 </p><p>Provisi&#243;n. = <foreign lang="ceb" xml:lang="ceb">Ang mg&#771;a quinah&#225;nglan sa pagc&#225;on, sa pagbisti, &amp;c., ng&#771;a guib&#250;tang sa bisang diin, ar&#243;n gam&#237;ton sa tiempo ng&#771;a igag&#225;mit. * Pags&#243;go, pagb&#243;ot sa mg&#771;a hocom, sa ng&#771;&#225;lan sa hari, ar&#243;n mat&#250;man ang guis&#243;go nila, pagcat&#243;got, pagcah&#225;tag sa bisan onsang opicio con cah&#237;mtang.</foreign>
 </p><p>Provisional. = <foreign lang="ceb" xml:lang="ceb">Ang guis&#243;go sa pila lamang ca adlao.</foreign>
 </p><p>Provisionalmente. V. <hi>Providencialmente</hi>.
@@ -19469,7 +19469,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Ramada. V. <hi>Ramaje</hi>.
 </p><p>Ramadan. = <foreign lang="ceb" xml:lang="ceb">Cuaresma ng&#771;a pagapoas&#225;han sa mg&#771;a moros.</foreign>
 </p><p>Ramal. = <foreign lang="ceb" xml:lang="ceb">Tagsa ca labid sa mg&#771;a pisi. * Pisi ng&#771;a igag&#243;yod sa mg&#771;a manan&#225;p. * Tagsa sa hunta hunta sa mg&#771;a hagdan&#225;n. * Mg&#771;a lang&#771;ob lang&#771;ob ng&#771;a guican sa too ug sa o&#225;la sa mg&#771;a lang&#771;ob ng&#771;a dagc&#243;. * Bisan onsa ng&#771;a guican sa guinic&#225;nan.</foreign>
-</p><p>Ramalazo. = <foreign lang="ceb" xml:lang="ceb">Pagcal&#225;mbos sa pisi. * Labod ng&#771;a mahabilin sa pagl&#225;mbos sa pisi. * Ca&#243;l-ol ng&#771;a ahat, calit, sa bisan asa sa laoas. * Cas&#225;quet, cal&#237;sod ng&#771;a mo&#225;bot sa ahat, sa calit, sa oal&#225; h&#250;na hun&#225;on. * Cal&#237;sod ng&#771;a mo&#225;bot sa bisan cansa tong&#771;&#243;d sa sal&#225; sa lain.</foreign>
+</p><p>Ramalazo. = <foreign lang="ceb" xml:lang="ceb">Pagcal&#225;mbos sa pisi. * Labod ng&#771;a mahabilin sa pagl&#225;mbos sa pisi. * Ca&#243;l-ol ng&#771;a ahat, calit, sa bisan asa sa laoas. * Cas&#225;quet, <corr sic="cal&#237;sod">calis&#243;d</corr> ng&#771;a mo&#225;bot sa ahat, sa calit, sa oal&#225; h&#250;na hun&#225;on. * <corr sic="Cal&#237;sod">Calis&#243;d</corr> ng&#771;a mo&#225;bot sa bisan cansa tong&#771;&#243;d sa sal&#225; sa lain.</foreign>
 </p><p>Rambla. = <foreign lang="ceb" xml:lang="ceb">Yota ng&#771;a pon&#243; sa bal&#225;s ng&#771;a <corr sic="guidala">guid&#225;la</corr> sa mg&#771;a bah&#225; sa dagat ug sa mg&#771;a sub&#225;.</foreign>
 </p><p>Ramblar. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a guidagh&#225;nan sa mg&#771;a rambla.</foreign>
 </p><p>Ramblazo. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a guiagu&#237;an sa mg&#771;a pagbah&#225;.</foreign>
@@ -20014,7 +20014,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Redoblado. = <foreign lang="ceb" xml:lang="ceb">T&#225;uo ng&#771;a mat&#225;mboc, supang ug hat&#225;as ca&#225;yo. * Pagcalac&#225;t ng&#771;a mal&#225;gmit.</foreign>
 </p><p>Redoblamiento. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#243;ha sa bisan onsa.</foreign>
 </p><p>Redoblar. = <foreign lang="ceb" xml:lang="ceb">Pagd&#250;ha sa bisan onsa. * Pagb&#225;lic sa tom&#243;y sa mg&#771;a lansang, &amp;c. * Pag&#243;sub, pagop&#243;d.</foreign>
-</p><p>Redobla. V. <hi>Redoblamiento</hi>. * <foreign lang="ceb" xml:lang="ceb">Pagca&#243;sob, pagcaop&#243;d. * Pagcat&#243;ctoc sa tambol sa pagcad&#225;li, sa pagcal&#225;gmit.</foreign>
+</p><p>Redobla. V. <hi>Redoblamiento</hi>. * <foreign lang="ceb" xml:lang="ceb">Pagca&#243;sob, <corr sic="pagcaop&#243;d">pagca&#243;pod</corr>. * Pagcat&#243;ctoc sa tambol sa pagcad&#225;li, sa pagcal&#225;gmit.</foreign>
 </p><p>Redoblegar. V. <hi>Redoblar</hi>.
 </p><p>Redoblon. = <foreign lang="ceb" xml:lang="ceb">Pagcal&#237;mbong sa sug&#225;l sa baraja.</foreign>
 </p><p>Redoma. = <foreign lang="ceb" xml:lang="ceb">Sorl&#225;nan sa salam&#237;n, halagp&#225;d dapit sa obos ug ha&#237;ctin dapit sa b&#225;ba.</foreign>
@@ -20445,7 +20445,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Remondar. = <foreign lang="ceb" xml:lang="ceb">Pagp&#225;nit, pagp&#225;cpac pagop&#243;d. * Pagcap&#243;n pag&#243;sob sa mg&#771;a tan&#243;m ug sa mg&#771;a cahoy.</foreign>
 </p><p>Remonta. = <foreign lang="ceb" xml:lang="ceb">Pagcat&#243;ngtong, pagcabayo pagop&#243;d sa cabayo. * Pagca&#225;yo sa mg&#771;a sap&#237;n ng&#771;a guing&#771;&#225;lan ug botas. * Pagcas&#225;ngcap sa mg&#771;a soldados sa ilang caugal&#237;ng&#771;on ng&#771;a mg&#771;a cabayo. * Cadagh&#225;nan sa mg&#771;a cabayo ng&#771;a guip&#225;lit ug dong&#771;an sa mg&#771;a soldado.</foreign>
 </p><p>Remontar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#250;gao, pagpacal&#225;gueu. * Pagh&#225;tag sa mg&#771;a soldado sa mg&#771;a bag-ong cabayo. Pag&#225;yo sa mg&#771;a siya sa mg&#771;a cabayo. * Pag&#225;yo sa mg&#771;a botas. * Pag&#243;soag, pagit&#225;as. * Paglup&#225;d sa hat&#225;as uy&#225;mot.</foreign>
-</p><p>Remonte. = <foreign lang="ceb" xml:lang="ceb">Pagcalop&#225;d sa hat&#225;as ca&#225;yo. * Pagca&#243;soag, pagcat&#225;as.</foreign>
+</p><p>Remonte. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Pagcalop&#225;d">Pagcalup&#225;d</corr> sa hat&#225;as ca&#225;yo. * Pagca&#243;soag, pagcat&#225;as.</foreign>
 </p><p>Remontista. = <foreign lang="ceb" xml:lang="ceb">Ang t&#225;uo ng&#771;a guit&#243;gnan sa pagp&#225;lit sa mg&#771;a cabayo sa soldado.</foreign>
 </p><p>Remoque. = <foreign lang="ceb" xml:lang="ceb">Polong ng&#771;a ondan ng&#771;a mah&#225;it ug mab&#243;g-at.</foreign>
 </p><p>Remoquete. = <foreign lang="ceb" xml:lang="ceb">Pagp&#243;cpoc sa cam&#243;t ng&#771;a quin&#243;mcom. * Polong ng&#771;a mat&#237;stis, malip&#225;yon. * Pagca&#225;bi abi. * Pagca&#225;li ali.</foreign>
@@ -21457,7 +21457,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Rozavillon. = <foreign lang="ceb" xml:lang="ceb">Ang muc&#225;on sa bal&#225;y sa iang isigcat&#225;uo sa oal&#225;y bayad.</foreign>
 <pb id="pb588" n="588" facs="f:588"/></p><p>Roznar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#225;nha sa mg&#771;a ng&#771;ipon con maning&#771;&#225;on ang mg&#771;a manan&#225;p. * Pagt&#237;ng&#771;og sa mg&#771;a borico.</foreign>
 </p><p>Roznido. = <foreign lang="ceb" xml:lang="ceb">Ang banha sa mg&#771;a ng&#771;ipon sa pagc&#225;on sa mg&#771;a mag&#225;hi.</foreign>
-</p><p>Rozno. = <foreign lang="ceb" xml:lang="ceb">Boricong di&#243;tay.</foreign>
+</p><p>Rozno. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Boricong">Borricong</corr> di&#243;tay.</foreign>
 </p><p>Rozo. = <foreign lang="ceb" xml:lang="ceb">Pagcaca&#237;ng&#771;in. * Mg&#771;a cahoy ng&#771;a ham&#243;bo.</foreign>
 
 </p></div2><div2 id="cru" type="Section"><head>RU</head><p>Rua. = <foreign lang="ceb" xml:lang="ceb">Dalan sa longsod. * Dalan ng&#771;a halagp&#225;d.</foreign>
@@ -22127,7 +22127,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Segada. V. <hi>Siega</hi>.
 </p><p>Segadera. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan, sang&#771;&#243;t sa pagg&#225;lab.</foreign>
 </p><p>Segadero. V. <hi>Segable</hi>.
-</p><p>Segador. = <foreign lang="ceb" xml:lang="ceb">Maggag&#225;lab, ang magag&#225;lab.</foreign>
+</p><p>Segador. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Maggag&#225;lab">Magag&#225;lab</corr>, ang magag&#225;lab.</foreign>
 </p><p>Segar. = <foreign lang="ceb" xml:lang="ceb">Pagg&#225;lab. * Pagp&#243;tol sa bisan onsa.</foreign>
 </p><p>Segazon. = <foreign lang="ceb" xml:lang="ceb">Pagcag&#225;lab. * T&#250;ig ng&#771;a igag&#225;lab.</foreign>
 </p><p>Seglar. = <foreign lang="ceb" xml:lang="ceb">Ang d&#237;li Padre ug religioso. * Ang nahatong&#771;&#243;d sa quinab&#250;hi, sa pagcab&#250;hi, sa bat&#225;san sa calib&#250;tan.</foreign>
@@ -22200,7 +22200,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Sementera. V. <hi>Sembradura</hi>. * <foreign lang="ceb" xml:lang="ceb">Baol. * Cabal&#225;nan, oma. * T&#250;ig ng&#771;a igap&#250;gas.</foreign>
 </p><p>Sementero. = <foreign lang="ceb" xml:lang="ceb">Poyo poyo, bal&#250;yot, boc&#225;g ng&#771;a pagas&#243;rlan sa binhi ng&#771;a ipul&#250;gas.</foreign>
 </p><p>Sementino. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa binhi.</foreign>
-</p><p>Semestre. = <foreign lang="ceb" xml:lang="ceb">Ang mad&#250;gay sa on&#243;m ca bulan. * T&#250;ig, pagcad&#250;gay sa un&#250;m ca bulan, sa tung&#771;&#225; sa tuig.</foreign>
+</p><p>Semestre. = <foreign lang="ceb" xml:lang="ceb">Ang mad&#250;gay sa on&#243;m ca bulan. * T&#250;ig, pagcad&#250;gay sa un&#250;m ca bulan, sa tung&#771;&#225; sa <corr sic="tuig">t&#250;ig</corr>.</foreign>
 </p><p>Semi. = <foreign lang="ceb" xml:lang="ceb">Ang tong&#771;&#225; sa bisan onsa.</foreign>
 </p><p>Semicapro. = <foreign lang="ceb" xml:lang="ceb">Dios dios sa mg&#771;a dioat&#225;han sa canhing tiempo.</foreign>
 </p><p>Semicircular. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa semic&#237;rculo.</foreign>
@@ -22282,7 +22282,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Se&#241;aladamiente. = <foreign lang="ceb" xml:lang="ceb">Sa lab&#237; pa.</foreign>
 </p><p>Se&#241;alado. = <foreign lang="ceb" xml:lang="ceb">Mah&#225;l, ham&#237;li, bans&#225;gon, bant&#243;gon. * Pinat&#237;can.</foreign>
 </p><p>Se&#241;alamiento. = <foreign lang="ceb" xml:lang="ceb">Pagcatim&#225;an, pagcat&#243;rlo.</foreign>
-</p><p>Se&#241;alar. = <foreign lang="ceb" xml:lang="ceb">Pagtim&#225;an, pagt&#243;rlo. * Pagp&#237;rma sa mg&#771;a sulat. * Paghing&#771;&#225;lan. * Pagtag&#225;l. * Pagh&#243;lot, pagh&#243;mot. * Paglab&#237;. * Paglab&#225;o. * Pag&#237;sip sa mg&#771;a tantos ng&#771;a guid&#225;og sa mosog&#225;l sa baraja. * Pagp&#225;tic.</foreign>
+</p><p>Se&#241;alar. = <foreign lang="ceb" xml:lang="ceb">Pagtim&#225;an, pagt&#243;rlo. * <corr sic="Pagp&#237;rma">Pagpirma</corr> sa mg&#771;a sulat. * Paghing&#771;&#225;lan. * Pagtag&#225;l. * Pagh&#243;lot, pagh&#243;mot. * Paglab&#237;. * Paglab&#225;o. * Pag&#237;sip sa mg&#771;a tantos ng&#771;a guid&#225;og sa mosog&#225;l sa baraja. * Pagp&#225;tic.</foreign>
 </p><p>Se&#241;ero. = <foreign lang="ceb" xml:lang="ceb">Ang mopoy&#243; ng&#771;a us&#225; da, sa oal&#225;y ob&#225;n.</foreign>
 </p><p>Se&#241;or. = <foreign lang="ceb" xml:lang="ceb">Ag&#225;lon, tagu&#237;a. * Ang Dios. * Si Jesucristo sa Sant&#237;simo Sacramento sa altal. * Polong ng&#771;a ica&#225;bi abi.</foreign>
 </p><p>Se&#241;oreante. = <foreign lang="ceb" xml:lang="ceb">Ang magab&#243;ot, ang pon&#243;an.</foreign>
@@ -22313,7 +22313,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Septuplicar. V. <hi>Setuplicar</hi>.
 </p><p>S&#233;ptuplo. V. <hi>S&#233;tuplo</hi>.
 </p><p>Sepulcral. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa lob&#243;ng, sa lobng&#771;&#225;nan, <pb id="pb609" n="609" facs="f:609"/>sa lol&#243;bng&#771;an.</foreign>
-</p><p>Sepultar. = <foreign lang="ceb" xml:lang="ceb">Paglob&#243;ng. * Pagt&#225;go, pagh&#243;bong sa bisan onsa, ng&#771;a mal&#237;sod ng&#771;a hicapl&#225;gan.</foreign>
+</p><p>Sepultar. = <foreign lang="ceb" xml:lang="ceb">Paglob&#243;ng. * Pagt&#225;go, pagh&#243;bong sa bisan onsa, ng&#771;a <corr sic="mal&#237;sod">malis&#243;d</corr> ng&#771;a hicapl&#225;gan.</foreign>
 </p><p>Sepultura. = <foreign lang="ceb" xml:lang="ceb">Lob&#243;ng, lobng&#771;&#225;nan, lol&#243;bng&#771;an, lobong&#771;&#225;nan.</foreign>
 </p><p>Sequedad. = <foreign lang="ceb" xml:lang="ceb">Pagcamal&#225;<corr>,</corr> pagcaoal&#225;y ulan. * Pagcad&#237;li mab&#243;ng&#771;a ang yuta. * Polong ng&#771;a mag&#225;hi. * G&#225;oi, cagao&#237;an ng&#771;a ma&#237;sog.</foreign>
 </p><p>Sequedal &#243; Sequeral. = <foreign lang="ceb" xml:lang="ceb">Yota ng&#771;a mamal&#225; ca&#225;yo ug ng&#771;a d&#237;li mob&#243;ng&#771;a.</foreign>
@@ -22475,7 +22475,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Sic&#243;moro. = <foreign lang="ceb" xml:lang="ceb">Cahoy ng&#771;a ma&#237;ng&#771;on ing&#771;on sa higuera, sa Egipto.</foreign>
 </p><p>Sideritis. = <foreign lang="ceb" xml:lang="ceb">Cala&#237;nan sa bat&#243;ng mah&#225;l. * Cala&#237;nan sa mg&#771;a tan&#243;m ng&#771;a ital&#225;mbal.</foreign>
 </p><p>Sid&#233;reo. = <foreign lang="ceb" xml:lang="ceb">Ang nahatong&#771;&#243;d sa mg&#771;a bit&#243;on.</foreign>
-</p><p>Sidra. = <foreign lang="ceb" xml:lang="ceb">Il&#237;mnon ng&#771;a magama sa dug&#225; sa mg&#771;a mansana.</foreign>
+</p><p>Sidra. = <foreign lang="ceb" xml:lang="ceb">Il&#237;mnon ng&#771;a <corr sic="magama">mag&#225;ma</corr> sa dug&#225; sa mg&#771;a mansana.</foreign>
 </p><p>Siega. = <foreign lang="ceb" xml:lang="ceb">Pagcag&#225;lab. * T&#250;ig ng&#771;a igag&#225;lab. * Ang trigo, ang hum&#225;y, &amp;c., ng&#771;a guig&#225;lab na.</foreign>
 </p><p>Siembra. = <foreign lang="ceb" xml:lang="ceb">Pagcap&#250;gas. * T&#250;ig ng&#771;a igap&#250;gas. * Ang guipug&#225;san.</foreign>
 </p><p>Siempre. = <foreign lang="ceb" xml:lang="ceb">Guih&#225;pon. * Sa oal&#225;y catap&#250;san.</foreign>
@@ -22497,7 +22497,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Sigilo. = <foreign lang="ceb" xml:lang="ceb">Marca. * Pagcah&#237;lom, pagcad&#237;li pagt&#250;-an.</foreign>
 </p><p>Sigilosamente. = <foreign lang="ceb" xml:lang="ceb">Sa tin&#225;go, sa hilom, sa pagcah&#237;lom.</foreign>
 </p><p>Sigiloso. = <foreign lang="ceb" xml:lang="ceb">Mahil&#243;mon, ang d&#237;li magat&#250;g-an.</foreign>
-</p><p>Siglo. = <foreign lang="ceb" xml:lang="ceb">Cadug&#225;yan. * Pagcad&#250;gay sa us&#225; ca gat&#250;s ca tuig. * T&#250;ig ng&#771;a hat&#225;as uy&#225;mot. * Calib&#250;tan.</foreign>
+</p><p>Siglo. = <foreign lang="ceb" xml:lang="ceb">Cadug&#225;yan. * Pagcad&#250;gay sa us&#225; ca gat&#250;s ca <corr sic="tuig">t&#250;ig</corr>. * T&#250;ig ng&#771;a hat&#225;as uy&#225;mot. * Calib&#250;tan.</foreign>
 </p><p>Sign&#225;culo. = <foreign lang="ceb" xml:lang="ceb">Marca, tim&#225;an, patic.</foreign>
 </p><p>Signar. = <foreign lang="ceb" xml:lang="ceb">Pagtim&#225;an, pagmarca. * Pagpang&#771;&#243;ros.</foreign>
 </p><p>Signatura. V. <hi>Sign&#225;culo</hi>. * <foreign lang="ceb" xml:lang="ceb">Hocm&#225;nan sa Roma, sa daghan ng&#771;a mg&#771;a pon&#243;an sa Singbah&#225;n.</foreign>
@@ -24028,7 +24028,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Tenedero. = <foreign lang="ceb" xml:lang="ceb">Cahal&#225;rmon sa dagat ng&#771;a pagagon&#237;tan, pagasac&#225;tan sa ancla, sa sin&#237;pit.</foreign>
 </p><p>Tenedor. = <foreign lang="ceb" xml:lang="ceb">Ang dona. * Ang magab&#225;ntay, magaal&#237;ma ug magah&#250;pot sa bisan onsa, sa ng&#771;alan sa lain. * Capand&#225;yan sa lamesa ng&#771;a cal&#225;n-an, ng&#771;a guita&#243;lan sa tot&#243;lo con sa opat ba ca <corr sic="ng&#771;&#237;pon">ng&#771;ipon</corr> con tom&#243;y, ng&#771;a igat&#243;lpoc ug icac&#250;hit sa mg&#771;a sud-an.</foreign>
 </p><p>Tenencia. = <foreign lang="ceb" xml:lang="ceb">Pagcad&#243;na sa bisan onsa. * Cah&#237;mtang sa pagcateniente, sa pagca&#237;lis.</foreign>
-</p><p>Tener. = <foreign lang="ceb" xml:lang="ceb">Dona, may. * Pagc&#243;ha, pagc&#243;bot, pagc&#250;pot sa bisan onsa. * Pags&#225;gang, pagpog&#243;ng, pagh&#225;oid. * Pagb&#243;ot. * Pagp&#243;gos. * Paspas&#225;ca sa caogal&#237;ng&#771;on ng&#771;a bal&#225;y, pagh&#225;tag sa halap&#237;tan.</foreign>
+</p><p>Tener. = <foreign lang="ceb" xml:lang="ceb">Dona, may. * Pagc&#243;ha, pagc&#243;bot, pagc&#250;pot sa bisan onsa. * Pags&#225;gang, pagpog&#243;ng, pagh&#225;oid. * Pagb&#243;ot. * Pagp&#243;gos. * <corr sic="Paspas&#225;ca">Pagpas&#225;ca</corr> sa caogal&#237;ng&#771;on ng&#771;a bal&#225;y, pagh&#225;tag sa halap&#237;tan.</foreign>
 </p><p>Tener&#237;a. = <foreign lang="ceb" xml:lang="ceb">Lugar ng&#771;a pagacurt&#237;han sa mg&#771;a panit.</foreign>
 </p><p>Tenesmo. = <foreign lang="ceb" xml:lang="ceb">Saqu&#233;t ng&#771;a naham&#243;tang sa pagcag&#225;hi sa tae sa sul&#250;d sa mg&#771;a tin&#225;e.</foreign>
 <pb id="pb652" n="652" facs="f:652"/></p><p>Tenia. = <foreign lang="ceb" xml:lang="ceb">Bitoc ng&#771;a hat&#225;as ca&#225;yo ng&#771;a mal&#243;piac.</foreign>
@@ -24405,7 +24405,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Tocador. = <foreign lang="ceb" xml:lang="ceb">Ang magah&#237;cap, ang magac&#250;bil. * Dayan dayan sa olo sa mg&#771;a bab&#225;ye. * Lamesa ng&#771;a guibot&#225;ng&#771;an sa salam&#237;n ug sa ob&#225;n ng&#771;a mg&#771;a quinah&#225;nglan, ar&#243;n man&#243;rlay ug <corr sic="magd&#224;yan">magd&#225;yan</corr> dayan ang mg&#771;a bab&#225;ye sa ilang boh&#243;c ug sa ilang laoas. * Ang sol&#243;d ng&#771;a <corr sic="guibot&#224;ng&#771;an">guibot&#225;ng&#771;an</corr> ni&#237;ning lamesa. * Ang magal&#237;mbong sa sug&#225;l sa baraja.</foreign>
 </p><p>Tocamiento. = <foreign lang="ceb" xml:lang="ceb">Pagcah&#237;cap<corr sic=".">,</corr> pagcac&#250;bil. * Pagcat&#225;ndog sa h&#250;na h&#250;na.</foreign>
 </p><p>Tocante. V. <hi>Tocador</hi> hasta <hi lang="ceb" xml:lang="ceb">dayan dayan</hi>.
-</p><p>Tocar. = <foreign lang="ceb" xml:lang="ceb">Pagh&#237;cap, pagc&#250;bil. * Pagc&#225;blit, pagt&#225;ihop sa mg&#771;a tol&#243;nggon. * Pag&#225;lam, pags&#225;yor sa bisan onsa, sa pagcamat&#243;od. * Pagpat&#225;ndog sa casing casing, sa h&#250;na h&#250;na. * Pagt&#243;ctoc sa mg&#771;a pultah&#225;n. * Pags&#225;nghil. * <corr sic="Pagsol&#224;y">Pagsol&#225;y</corr> sa quina&#225;rman sa bisan cansa. * Pagt&#225;cod sa mg&#771;a saqu&#233;t. * Pags&#243;rlay, pagd&#225;yan dayan sa mg&#771;a boh&#243;c. * Pagh&#225;pit, pag&#225;bot sa bisan diin. * Pagc&#243;ha sa bisan onsa, sa pagr&#237;pa. * Pagcaub&#225;nan sa bisan cansa.</foreign>
+</p><p>Tocar. = <foreign lang="ceb" xml:lang="ceb">Pagh&#237;cap, pagc&#250;bil. * Pagc&#225;blit, pagt&#225;ihop sa mg&#771;a tol&#243;nggon. * Pag&#225;lam, pags&#225;yor sa bisan onsa, sa pagcamat&#243;od. * Pagpat&#225;ndog sa casing casing, sa h&#250;na h&#250;na. * Pagt&#243;ctoc sa mg&#771;a pultah&#225;n. * Pags&#225;nghil. * <corr sic="Pagsol&#224;y">Pagsol&#225;y</corr> sa quina&#225;rman sa bisan cansa. * <corr sic="Pagt&#225;cod">Pagtac&#243;d</corr> sa mg&#771;a saqu&#233;t. * Pags&#243;rlay, pagd&#225;yan dayan sa mg&#771;a boh&#243;c. * Pagh&#225;pit, pag&#225;bot sa bisan diin. * Pagc&#243;ha sa bisan onsa, sa pagr&#237;pa. * Pagcaub&#225;nan sa bisan cansa.</foreign>
 </p><p>Tocayo. = <foreign lang="ceb" xml:lang="ceb">Sang&#771;ay.</foreign>
 </p><p>Tocinero. = <foreign lang="ceb" xml:lang="ceb">Ang t&#225;uo ng&#771;a magabal&#237;gya sa on&#243;d ug sa tamboc sa baboy.</foreign>
 </p><p>Tocino. = <foreign lang="ceb" xml:lang="ceb">Ang on&#243;d ug ang tamboc sa baboy. * Hampac.</foreign>
@@ -24569,7 +24569,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Tornillo. = <foreign lang="ceb" xml:lang="ceb">Torniyo. * Pagcal&#225;gueu sa mg&#771;a soldados.</foreign>
 </p><p>Torniquete. = <foreign lang="ceb" xml:lang="ceb">Capand&#225;yan sa mg&#771;a manan&#225;mbal sa pagpog&#243;ng sa dug&#243; ng&#771;a mo&#225;gui.</foreign>
 </p><p>Torniscon. = <foreign lang="ceb" xml:lang="ceb">Sagp&#225;, tampal&#237;ng sa nauong, sa lic&#243;d sa cam&#243;t.</foreign>
-</p><p>Torno. = <foreign lang="ceb" xml:lang="ceb">Lal&#237;can. * Pagcat&#250;yoc, pagcalib&#243;t. * Tin&#243;cod sa pap&#225;n ng&#771;a guipaha&#225;ng&#771;ay sa us&#225; ca boh&#243; ng&#771;a pagabuh&#225;ton sa cota, sa pared, ug ng&#771;a magat&#250;yoc, ug may silbi sa pag&#250;a ug sa pagsul&#250;d sa bisan onsa sa mg&#771;a bal&#225;y, sa <corr sic="dil&#237;">d&#237;li</corr> masigqu&#237;ta ang mg&#771;a t&#225;uo.</foreign>
+</p><p>Torno. = <foreign lang="ceb" xml:lang="ceb">Lal&#237;can. * Pagcat&#250;yoc, pagcalib&#243;t. * Tin&#243;cod sa pap&#225;n ng&#771;a guipaha&#225;ng&#771;ay sa us&#225; ca boh&#243; ng&#771;a pagabuh&#225;ton sa cota, sa pared, ug ng&#771;a magat&#250;yoc, ug may silbi sa pag&#250;a ug sa <corr sic="pagsul&#250;d">pagsol&#243;d</corr> sa bisan onsa sa mg&#771;a bal&#225;y, sa <corr sic="dil&#237;">d&#237;li</corr> masigqu&#237;ta ang mg&#771;a t&#225;uo.</foreign>
 </p><p>Toro. = <foreign lang="ceb" xml:lang="ceb">Ang laqui sa mg&#771;a baca.</foreign>
 </p><p>Toronja. = <foreign lang="ceb" xml:lang="ceb">Cala&#237;nan sa ocban sa mab&#225;gang panit.</foreign>
 </p><p>Toronjil. = <foreign lang="ceb" xml:lang="ceb">Tan&#243;m ng&#771;a ital&#225;mbal.</foreign>
@@ -24667,7 +24667,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Trabucacion. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#243;loc, pagcagob&#243;t. * Pagcasay&#243;p sa pagpam&#243;long.</foreign>
 </p><p>Trabucador. = <foreign lang="ceb" xml:lang="ceb">Ang nagab&#243;loc, ang magagob&#243;t. * Ang mab&#243;loc, ang masay&#243;p sa iang pagsugu&#237;lon.</foreign>
 </p><p>Trabucante. = Idem.
-</p><p>Trabucar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#243;loc, paggob&#243;t. * Pagsay&#243;p sa pagpamol&#243;ng.</foreign>
+</p><p>Trabucar. = <foreign lang="ceb" xml:lang="ceb">Pagb&#243;loc, paggob&#243;t. * Pagsay&#243;p sa <corr sic="pagpamol&#243;ng">pagpam&#243;long</corr>.</foreign>
 </p><p>Trabucazo. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#243;hi<corr sic=".">,</corr> ton&#243;g <corr sic="so">sa</corr> pusil ng&#771;a ham&#243;bo, sa trabuco. * Calis&#243;r, cas&#225;quit cag&#243;ol ng&#771;a calit, <corr sic="&#225;hat">ahat</corr>, ng&#771;a oal&#225; paab&#243;ton.</foreign>
 </p><p>Trabuco. = <foreign lang="ceb" xml:lang="ceb">Pusil ng&#771;a ham&#243;bo sa dagc&#243;ng <corr sic="baba">b&#225;ba</corr>.</foreign>
 </p><p>Tracamundana. = <foreign lang="ceb" xml:lang="ceb">Pagcab&#225;ilo, pagcatagu&#237;lis sa mg&#771;a tolotag&#237;dyot.</foreign>
@@ -24751,7 +24751,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Trampilla. = <foreign lang="ceb" xml:lang="ceb">Talamb&#243;an ng&#771;a di&#243;tay ng&#771;a pagabuh&#225;ton sa mg&#771;a salog sa it&#225;as sa mg&#771;a bal&#225;y, ar&#243;n hilng&#771;on cutub dih&#225; ang musul&#250;d sa silong ug sa mg&#771;a sol&#243;d sa obus. * Pan&#225;pton ng&#771;a igat&#225;bon sa si-si sa mg&#771;a calson sa dapit sa atub&#225;ng&#771;an.</foreign>
 </p><p>Trampista. = <foreign lang="ceb" xml:lang="ceb">Bac&#225;con, malimb&#243;ng&#771;on, malil&#237;mbong.</foreign>
 </p><p>Tramposo. = <foreign lang="ceb" xml:lang="ceb">Idem. * Ang magal&#237;mbong sa mg&#771;a pagsug&#225;l.</foreign>
-</p><p>Tranca. = <foreign lang="ceb" xml:lang="ceb">Cahoy ng&#771;a ibal&#225;bag dapit sa sul&#250;d sa pagtranca sa tacop sa pultah&#225;n ug sa mg&#771;a talamb&#243;an. * Bal&#237;tang, lucub, ilul&#250;cob.</foreign>
+</p><p>Tranca. = <foreign lang="ceb" xml:lang="ceb">Cahoy ng&#771;a ibal&#225;bag dapit sa sul&#250;d sa pagtranca sa tacop sa pultah&#225;n ug sa mg&#771;a talamb&#243;an. * Bal&#237;tang, <corr sic="lucub">locob</corr>, ilul&#250;cob.</foreign>
 </p><p>Trancada. V. <hi>Trancazo</hi> y <hi>Tranco</hi>.
 </p><p>Trancanil. = <foreign lang="ceb" xml:lang="ceb">Cahoy ng&#771;a mal&#237;g-on ng&#771;a igalang&#771;&#225;guit sa cubierta, sa salog sa sacay&#225;n ug sa mg&#771;a quilid.</foreign>
 </p><p>Trancar. V. <hi>Atrancar</hi>.
@@ -26486,7 +26486,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Volandero. = <foreign lang="ceb" xml:lang="ceb">Ang mas&#225;yon pagalup&#225;lon, pagalih&#243;con ug pagac&#225;yab cay&#225;bon sa hang&#771;in. * Ang dili muh&#250;nung. * Ang bacac. * Papan ng&#771;a man&#237;pis ng&#771;a pagagam&#237;ton sa pags&#243;csoc sa talio&#225;la sa mg&#771;a liston sa galera, sa mg&#771;a imprenta.</foreign>
 </p><p>Voland&#237;llas (en). V. <hi>Volandas</hi> (<hi>en</hi>).
 </p><p>Volanta. = <foreign lang="ceb" xml:lang="ceb">Cocheng di&#243;tay ug mag&#225;an.</foreign>
-</p><p>Volante. = <foreign lang="ceb" xml:lang="ceb">Ang magal&#250;pad. * Ang d&#237;li mahim&#250;tang ug magapuy&#243;. * Dayan dayan sa pan&#225;pton ng&#771;a <corr sic="magam&#224;y">magam&#225;y</corr> sa olo sa mg&#771;a bab&#225;ye. * Sal&#237;pdan sa tumbaga, &amp;c., sa siga ar&#243;n dili magasul&#225;o ug magad&#225;ot sa mang&#771;a mat&#225;. * Puthao ng&#771;a apil sa m&#225;quina sa mg&#771;a hor&#225;san. * Solog&#243;on ng&#771;a magalac&#225;t pag&#243;na sa coche con sa cabayo sa iang ag&#225;lon.</foreign>
+</p><p>Volante. = <foreign lang="ceb" xml:lang="ceb">Ang magal&#250;pad. * Ang d&#237;li mahim&#250;tang ug magapuy&#243;. * Dayan dayan sa pan&#225;pton ng&#771;a <corr sic="magam&#224;y">magam&#225;y</corr> sa olo sa mg&#771;a bab&#225;ye. * Sal&#237;pdan sa <corr sic="tumbaga">tumb&#225;ga</corr>, &amp;c., sa siga ar&#243;n dili magasul&#225;o ug magad&#225;ot sa mang&#771;a mat&#225;. * Puthao ng&#771;a apil sa m&#225;quina sa mg&#771;a hor&#225;san. * Solog&#243;on ng&#771;a magalac&#225;t pag&#243;na sa coche con sa cabayo sa iang ag&#225;lon.</foreign>
 </p><p>Volanton. = <foreign lang="ceb" xml:lang="ceb">Langgam ng&#771;a har&#250;ul na macalup&#225;d.</foreign>
 </p><p>Volapi&#233; (&#224;). = <foreign lang="ceb" xml:lang="ceb">Sa pagcalac&#225;t ug sa pagcalup&#225;d.</foreign>
 </p><p>Volar. = <foreign lang="ceb" xml:lang="ceb">Lup&#225;d. * Pagcalac&#225;o sa madal&#237;, ca&#225;yo. * Pagg&#243;a sa mg&#771;a balisb&#237;san, sa mg&#771;a coredor, &amp;c., sa goa sa mg&#771;a pared, sa mg&#771;a bongbong. * Pagb&#250;hat sa bisan onsa sa macadi&#243;t, sa madal&#237; ca&#225;yo. * Pagpasoc&#243;, pagpalig&#243;tgot sa bisan cansa. * Paglab&#225;o, paglab&#237;, pagt&#243;ybo.</foreign>
@@ -26557,7 +26557,7 @@ ESPA&#209;OL-BISAYA.
 </p></div2><div2 id="cvu" type="Section"><head>VU</head><p>Vuecencia. = <foreign lang="ceb" xml:lang="ceb">Polong ng&#771;a igat&#225;oag sa mg&#771;a dagc&#243;ng <corr sic="tauo">t&#225;uo</corr> sa Guinhar&#237;an, ng&#771;a guitug&#250;tan sa hari sa dagc&#243;ng cruz.</foreign>
 <pb id="pb718" n="718" facs="f:718"/></p><p>Vuelco. = <foreign lang="ceb" xml:lang="ceb">Pagcacol&#243;b, pagcalint&#250;ad.</foreign>
 </p><p>Vuelo. = <foreign lang="ceb" xml:lang="ceb">Pagcalup&#225;d. * Cadagh&#225;nan sa mg&#771;a pac&#243; sa mg&#771;a langgam ng&#771;a icalup&#225;d nila. * Balisb&#237;san, coredor, &amp;c., sa mg&#771;a bal&#225;y, &amp;c., ng&#771;a mog&#243;a sa cota. * Pagcalup&#225;d sa mg&#771;a bist&#237;, sa mg&#771;a saya, &amp;c.</foreign>
-</p><p>Vuelta. = <foreign lang="ceb" xml:lang="ceb">Pagcat&#250;yoc, pagcal&#237;so. * Pagcalic&#243; lic&#243;, pagcalib&#243;t. * Pagcab&#243;rbor, pagcal&#237;cos. * Pagcab&#225;lic, pagca&#243;li sa lugar ng&#771;a guiguic&#225;nan. * Pagca&#243;li sa guic&#225;oat. * Pagcaop&#243;d, pagca&#243;sob. * Licod sa bisan onsa. * Pagcabal&#237;quig, pagcal&#237;ad. * Tin&#225;bas ng&#771;a it&#225;pot sa b&#225;ba sa mg&#771;a bocton sa mg&#771;a sin&#237;na, sa mg&#771;a supa, &amp;c. * Bisan onsa ng&#771;a tac&#243;s ng&#771;a i&#250;li sa lain.</foreign>
+</p><p>Vuelta. = <foreign lang="ceb" xml:lang="ceb">Pagcat&#250;yoc, pagcal&#237;so. * Pagcalic&#243; lic&#243;, pagcalib&#243;t. * Pagcab&#243;rbor, pagcal&#237;cos. * Pagcab&#225;lic, pagca&#243;li sa lugar ng&#771;a guiguic&#225;nan. * Pagca&#243;li sa guic&#225;oat. * Pagcaop&#243;d, pagca&#243;sob. * <corr sic="Licod">Lic&#243;d</corr> sa bisan onsa. * Pagcabal&#237;quig, pagcal&#237;ad. * Tin&#225;bas ng&#771;a it&#225;pot sa b&#225;ba sa mg&#771;a bocton sa mg&#771;a sin&#237;na, sa mg&#771;a supa, &amp;c. * Bisan onsa ng&#771;a tac&#243;s ng&#771;a i&#250;li sa lain.</foreign>
 </p><p>Vuese&#241;or&#237;a. V. <hi>Use&#241;or&#237;a</hi>.
 </p><p>Vuestro. = <foreign lang="ceb" xml:lang="ceb">I&#241;o, inyo.</foreign>
 </p><p>Vulgacho. = <foreign lang="ceb" xml:lang="ceb">Cadagh&#225;nan sa mg&#771;a t&#225;uo ng&#771;a obos ca&#225;yo sa tagsa ca longsod.</foreign>
@@ -26661,7 +26661,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Zafre. = <foreign lang="ceb" xml:lang="ceb">Bin&#243;cboc ng&#771;a pagagam&#237;ton sa bal&#225;y ng&#771;a pagabuh&#225;tan sa mg&#771;a pinggan.</foreign>
 </p><p>Zaga. = <foreign lang="ceb" xml:lang="ceb">Lulan ng&#771;a ib&#250;tang sa lic&#243;r sa mg&#771;a coche &amp;c. * Lic&#243;d sa bisan onsa. * Ang ol&#225;hi, ang catap&#250;san, ang poit sa mg&#771;a t&#225;uo ng&#771;a nanagsug&#225;l.</foreign>
 </p><p>Zagal. = <foreign lang="ceb" xml:lang="ceb">Oloolit&#225;uo. * Olit&#225;uo ng&#771;a cos&#243;gon, ng&#771;a casing cas&#237;ng&#771;an. * <corr sic="Bata">B&#225;ta</corr>, solog&#243;on sa mg&#771;a baquero.</foreign>
-</p><p>Zagala. = <foreign lang="ceb" xml:lang="ceb">Dalaga. * Ang bab&#225;ye ng&#771;a b&#225;ta pa ng&#771;a magab&#225;ntay sa mg&#771;a hay&#250;pan.</foreign>
+</p><p>Zagala. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Dalaga">Dal&#225;ga</corr>. * Ang bab&#225;ye ng&#771;a b&#225;ta pa ng&#771;a magab&#225;ntay sa mg&#771;a hay&#250;pan.</foreign>
 </p><p>Zagalejo = <foreign lang="ceb" xml:lang="ceb">Saya sa mg&#771;a bab&#225;ye ng&#771;a guiib&#225;bao nila sa mg&#771;a naguas.</foreign>
 </p><p>Zaguan. = <foreign lang="ceb" xml:lang="ceb">Ganh&#225;an, tugc&#225;lan sa bal&#225;y, silong.</foreign>
 </p><p>Zaguanete. = <foreign lang="ceb" xml:lang="ceb">Mg&#771;a soldados ng&#771;a nagaub&#225;a ob&#225;n sa mg&#771;a t&#225;uo ng&#771;a hadi&#225;non.</foreign>
@@ -26809,7 +26809,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Zarandero. <corr sic="= V.">V.</corr> <hi>Zarandador</hi>; <foreign lang="ceb" xml:lang="ceb">tauo ng&#771;a dili maham&#250;tang, cund&#225;tan, ng&#771;a mal&#237;hoc ca&#225;yo.</foreign>
 </p><p>Zarapatel. = <foreign lang="ceb" xml:lang="ceb">Cala&#237;nan sa guis&#225;l.</foreign>
 </p><p>Zarapito. = <foreign lang="ceb" xml:lang="ceb">Langgam.</foreign>
-</p><p>Zaratan. = <foreign lang="ceb" xml:lang="ceb">Hub&#225;g ng&#771;a mang&#771;il-&#225;d ca&#225;yo, sam&#225;d ng&#771;a da&#250;tan sa mg&#771;a soso sa mg&#771;a bab&#225;ye.</foreign>
+</p><p>Zaratan. = <foreign lang="ceb" xml:lang="ceb">Hub&#225;g ng&#771;a <corr sic="mang&#771;il-&#225;d">mang&#771;&#237;l-ad</corr> ca&#225;yo, sam&#225;d ng&#771;a da&#250;tan sa mg&#771;a soso sa mg&#771;a bab&#225;ye.</foreign>
 </p><p>Zaraza. = <foreign lang="ceb" xml:lang="ceb">Pan&#225;pton ng&#771;a maput&#237;, pino ug halagp&#225;d ca&#225;yo; min&#225;sa ng&#771;a sin&#225;ctan sa mg&#771;a dagom, sa salam&#237;n ng&#771;a din&#243;cdoc ug sa hil&#243;, ng&#771;a icapat&#225;y sa mg&#771;a ir&#243;.</foreign>
 </p><p>Zarcear. = <foreign lang="ceb" xml:lang="ceb">Pagh&#250;gas sa mg&#771;a alagu&#237;an sa tubig, sa mg&#771;a ihi, &amp;c.; paglac&#225;t ng&#771;adto ng&#771;adto, sa madal&#237; ca&#225;yo; paglac&#225;o sa pagpa&#237;ng&#771;on ng&#771;adto ug sa pagpa&#237;ng&#771;on ng&#771;anhi sa mas&#243;bsob.</foreign>
 </p><p>Zarcero. = <foreign lang="ceb" xml:lang="ceb">Cala&#237;nan sa ir&#243;.</foreign>
@@ -26883,7 +26883,7 @@ ESPA&#209;OL-BISAYA.
 </p><p>Zoolog&#237;a. = <foreign lang="ceb" xml:lang="ceb">Quina&#225;rman ng&#771;a maga&#225;soy sa pagcab&#243;tang ug pagcam&#225;o sa mg&#771;a manan&#225;p.</foreign>
 </p><p>Zool&#243;gico. = <foreign lang="ceb" xml:lang="ceb">Ang nahat&#243;ng&#771;ad sa zoolog&#237;a.</foreign>
 </p><p>Zo&#243;logo. = <foreign lang="ceb" xml:lang="ceb">Ang ma&#225;lam sa zoolog&#237;a.</foreign>
-</p><p>Zopas &#243; zopitas. = <foreign lang="ceb" xml:lang="ceb">Mga palong, dangga ng&#771;a guicahing&#771;&#225;lan sa tauo ng&#771;a yung&#771;it.</foreign>
+</p><p>Zopas &#243; zopitas. = <foreign lang="ceb" xml:lang="ceb">Mg&#771;a palong, dangga ng&#771;a guicahing&#771;&#225;lan sa tauo ng&#771;a yung&#771;it.</foreign>
 </p><p>Zopenco. = <foreign lang="ceb" xml:lang="ceb">Tauo ng&#771;a hong&#771;og, ng&#771;a oal&#225;y quina&#225;rman, cabus.</foreign>
 </p><p>Zopisa. = <foreign lang="ceb" xml:lang="ceb">Tagoc sa cahoy ng&#771;a sin&#225;ctan sa talo.</foreign>
 <pb/></p><p>Zopo. = <foreign lang="ceb" xml:lang="ceb">Pongcol, bac&#243;l sa mg&#771;a tiil ug sa mg&#771;a cam&#243;t; tauo ng&#771;a oal&#225;y pul&#250;s sa ng&#771;atan&#225;n.</foreign>
@@ -26929,9 +26929,9 @@ ESPA&#209;OL-BISAYA.
 </p><p>Zumbon. = <foreign lang="ceb" xml:lang="ceb">Ang magat&#237;ao, ang magas&#243;od sood, ang magas&#243;log solog sa mas&#243;bsob.</foreign>
 </p><p>Zumiento. = <foreign lang="ceb" xml:lang="ceb">Ang pagatol&#243;an sa duga.</foreign>
 </p><p>Zumillo. = <foreign lang="ceb" xml:lang="ceb">Tan&#243;m.</foreign>
-</p><p>Zumo. = <foreign lang="ceb" xml:lang="ceb">Duga; pol&#243;s, caposl&#225;nan sa bisan onsa.</foreign>
+</p><p>Zumo. = <foreign lang="ceb" xml:lang="ceb"><corr sic="Duga">Dug&#225;</corr>; pol&#243;s, caposl&#225;nan sa bisan onsa.</foreign>
 </p><p>Zumoso<corr>.</corr> <corr sic="= V.">V.</corr> <hi>Zumiento</hi>.
-<pb/></p><p>Zupia. = <foreign lang="ceb" xml:lang="ceb">Ang bino ng&#771;a nalob&#243;g, ng&#771;a may da&#250;tan mg&#771;a color; bisan onsa sa da&#243;tan ng&#771;a lal&#237;m ug lam&#237;, ug mang&#771;&#237;lad ng&#771;a pagas&#243;lng&#771;on; ang lab&#237;ng da&#243;tan sa bisan onsa.</foreign>
+<pb/></p><p>Zupia. = <foreign lang="ceb" xml:lang="ceb">Ang bino ng&#771;a nalob&#243;g, ng&#771;a may da&#250;tan mg&#771;a color; bisan onsa sa da&#243;tan ng&#771;a lal&#237;m ug lam&#237;, ug <corr sic="mang&#771;&#237;lad">mang&#771;&#237;l-ad</corr> ng&#771;a pagas&#243;lng&#771;on; ang lab&#237;ng da&#243;tan sa bisan onsa.</foreign>
 </p><p>Zurcido. = <foreign lang="ceb" xml:lang="ceb">Ang guis&#250;rse, ang guitah&#237; sa pagcap&#237;no ca&#225;yo.</foreign>
 </p><p>Zurcidor. = <foreign lang="ceb" xml:lang="ceb">Ang magas&#250;rse, ang magatah&#237; sa pan&#225;pton ng&#771;a guisi sa pagcap&#237;no, sa dili ma&#237;la ca&#225;yo ang tinah&#237;an, ang mg&#771;a tulpoc; cagon cagon.</foreign>
 </p><p>Zurcidura. = <foreign lang="ceb" xml:lang="ceb">Pagcas&#250;rsi.</foreign>
