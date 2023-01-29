@@ -28,7 +28,7 @@
 <idno type=PGnum>#####</idno>
 <date>#####</date>
 <availability>
-<p>&availability.en;
+<p lang=en>&availability.en;
 
 <p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="https://www.pgdp.net/">www.pgdp.net</xref>.
 
@@ -41,10 +41,43 @@ https://books.google.com/books?id=9OFGAAAAcAAJ  (Ceb-Es)
 https://books.google.com/books?id=95VkAAAAMAAJ  (Ilongo)
 -->
 
+<p>This Spanish-Cebuano dictionary was first published in 1851 in Manila. The second edition, on which this ebook is based, dates from 1866 and was printed in Binondo (now also part of Manila). Its author, Juan Félis de la Encarnacion, was an discalced Augustinian friar and twice a provincial at the church of San Nicolas de Tolentino in Manila.
+
+<p>As a dictionary it has several shortcomings. First, its spelling of Cebuano is highly inconsistent, and second, it appears to be based on a Spanish glossary with all the meanings translated to Cebuano. Some liberties have been taken in those translations, and, when a proper Cebuano word was not available, a short explanation was added. Do not trust them to much. It is curious for example that the entry <hi>Vergarzoso</hi>, &lsquo;armadillo&rsquo;, just glosses &lsquo;animal from America&rsquo;! Similarly, many Spanish names of specific species of birds, the gloss is simply <hi lang=ceb>langgam</hi>, &lsquo;bird, regardless whether the Spanish word designates a vulture, bee-eater, hoopoo, etc. The the entry for <hi lang=es>Unicornio</hi> translates as &lsquo;an animal like a horse, with just one horn&rsquo;, without any hint of its mythological character. Nevertheless, this dictionary is a valuable resource because documents Cebuano as it was some 150 years ago.
+
+
+<!--
+
+Este diccionario español-cebuano fue publicado por primera vez en 1851 en Manila. La segunda edición, en la que se basa este libro electrónico, data de 1866 y fue impresa en Binondo (ahora también parte de Manila). Su autor, Juan Félis de la Encarnación, era un fraile agustiniano descalzo y dos veces provincial en la iglesia de San Nicolás de Tolentino en Manila.
+
+Como diccionario, tiene varias carencias. En primer lugar, su ortografía del cebuano es altamente inconsistente, y en segundo lugar, parece basarse en un glosario español con todos los significados traducidos al cebuano. Se han tomado algunas libertades en esas traducciones, y cuando no había una palabra cebuana adecuada, se agregó una breve explicación. No confíe en ellas demasiado. Es curioso, por ejemplo, que la entrada Vergarzoso, 'armadillo', solo explique 'animal de América'! De manera similar, muchos nombres españoles de especies específicas de aves, la glosa es simplemente langgam, 'pájaro', sin importar si la palabra española designa un buitre, comilonas, hoopoo, etc. La entrada para Unicornio se traduce como 'un animal como un caballo, con solo un cuerno', sin ninguna indicación de su carácter mitológico. Sin embargo, este diccionario es un recurso valioso porque documenta el cebuano tal como era hace unos 150 años.
+
+
+
+La ortografía del cebuano en este diccionario sigue las convenciones españolas y es bastante diferente de la ortografía actual. Lo más notable es su uso de c y q donde el cebuano ahora usa k, y la ausencia de la letra w. No se sorprenda de ver quinsa por kinsa y oaláy por walay. También se utiliza el digrafo ng~ para indicar el sonido representado por ng en el inglés singer, en lugar de ng en el inglés finger.
+
+
+K o s dependiendo del contexto.
+
+ng (antes de una vocal)
+
+
+El original es a menudo inconsistente en su ortografía de cebuano. En particular, la o y la u se han intercambiado. Algunos de los problemas más llamativos se han corregido, pero no se ha intentado lograr una consistencia total ni modernizar la ortografía.
+
+Otro aspecto a tener en cuenta es que algunas ortografías pueden reflejar pronunciaciones más antiguas, por ejemplo, cuando una r se ha convertido en una d, como en torlo, que en cebuano moderno es tudlo (dedo). De manera similar, lungsor para lungsod (ciudad), lingcor para lingkod (sentarse), comparar con lingkoranan moderno (silla). De manera similar, los sonidos de n y ng a menudo se han intercambiado. Esto también sucede con las parejas f y p, v y b y j y h.
+
+La calidad de las escaneos disponibles a veces era insuficiente para reconstruir los acentos previstos. Se han restaurado donde es posible, pero debido a la baja calidad de estos escaneos, algunos problemas pueden haber sido pasados por alto, mientras que otros pueden haber sido introducidos durante el proceso de digitalización.
+
+Los problemas menores de puntuación se han corregido en silencio, todas las correcciones importantes se han enumerado en el colofón.
+
+Dado que la copia disponible de la segunda edición falta las últimas diez páginas y no se pudo localizar una copia alternativa, las entradas que comienzan con Zamarro se han incluido de la primera edición.
+
+-->
+
 </availability>
 </publicationStmt>
 <notesStmt>
-    <note type="Description">#####<!--A short description of this document.--></note>
+    <note type="Description">This Spanish-Cebuano dictionary was first published in 1852. The second edition used for this ebook dates from 1866. Although valuable, the dictionary has shortcomings such as inconsistent Cebuano spelling and being based on a Spanish glossary with translated meanings. Some liberties were taken in translation and caution is advised.</note>
 </notesStmt>
 <sourceDesc>
 <bibl>
