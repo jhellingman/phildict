@@ -8,7 +8,7 @@ When completed, the full text will be available on Project Gutenberg. In additio
 Included here are:
 
  * **Sofronio G. Calderón**, *Diccionario Ingles-Español-Tagalog*, Manila, 1915. ([20738](http://www.gutenberg.org/ebooks/20738); [Web interface](http://www.bohol.ph/calderon.php))
- * **Juan Felis de la Encarnacion**, *Diccionario Espanñol-Bisaya*, Binonda, 1866.
+ * **Juan Felis de la Encarnacion**, *Diccionario Espanñol-Bisaya*, Binondo, 1866.
  * **John Kaufmann**, *Visayan-English Dictionary*, Iloilo, 1934. ([Web interface](http://www.bohol.ph/kved.php))
  * **Charles Nigg**, *A Tagalog-English and English-Tagalog Dictionary*, Manila, 1904.
  * **John U. Wolff**, *A Dictionary of Cebuano Visayan*, 1972. ([40074](http://www.gutenberg.org/ebooks/40074); [Web interface](http://www.bohol.ph/wced.php); [Android App](https://play.google.com/store/apps/details?id=ph.bohol.dictionaryapp))
