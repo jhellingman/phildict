@@ -14,7 +14,7 @@ open(INPUTFILE, $inputFile) || die("Could not open $inputFile");
 print STDERR "Adding refs to $inputFile\n";
 
 
-# <p>Abadía. =    ->  <p id=e.abadia>
+# V. Abadía. =    ->  V> <ref target=e.abadia>Abadía</ref>.
 
 while (<INPUTFILE>) {
     my $line = $_;
