@@ -1760,7 +1760,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Angosto. = <foreign lang=ceb>Haíctin, hagóot, masígpit, quipot, quipiong.</foreign>
 
-<p>Anguila. = <foreign lang=ceb>Cátsíli, bais.</foreign>
+<p>Anguila. = <foreign lang=ceb><corr sic="Cátsíli">Catsíli</corr>, bais.</foreign>
 
 <p>Angustia. = <foreign lang=ceb>Sobó, aoa, yogot, hayhay, hopao.</foreign>
 
@@ -2405,7 +2405,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Armiño. = <foreign lang=ceb>Mananáp.</foreign>
 
-<p>Armonía. = <foreign lang=ceb>Pagcaán&gtilde;ay, pagcahigála, pagcaábían, pagcaóyon.</foreign>
+<p>Armonía. = <foreign lang=ceb>Pagcaán&gtilde;ay, pagcahigála, <corr sic="pagcaábían">pagcaábian</corr>, pagcaóyon.</foreign>
 
 <p>Armonioso. = <foreign lang=ceb>Ang may pagcaán&gtilde;ay, pagcamín&gtilde;ao, mamin&gtilde;ao, an&gtilde;ay.</foreign>
 
@@ -2933,7 +2933,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Atemperar. = <foreign lang=ceb>Pagán&gtilde;ay, pagóyon.</foreign>
 
-<p>Atenacear. = <foreign lang=ceb>Pagsípit, pagcómpít, pagquímpít.</foreign>
+<p>Atenacear. = <foreign lang=ceb>Pagsípit, <corr sic="pagcómpít">pagcómpit</corr>, <corr sic="pagquímpít">pagquímpit</corr>.</foreign>
 
 <p>Atencion. = <foreign lang=ceb>Pagbáti, paghimáti, pagpatalínghog, pagdón&gtilde;og.</foreign>
 
@@ -5565,7 +5565,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Cancelar. = <foreign lang=ceb>Pagcóha sa gahóm ug sa bali sa man&gtilde;a camatoódan.</foreign>
 
-<p>Cancelaria. = <foreign lang=ceb>Hocmánan sa Roma n&gtilde;a mao ang alaguían sa m&gtilde;a pagtógot ug m&gtilde;a pagpanghín&gtilde;alóoy sa Santos n&gtilde;a Papa.</foreign>
+<p>Cancelaria. = <foreign lang=ceb>Hocmánan sa Roma n&gtilde;a mao ang alaguían sa m&gtilde;a pagtógot ug m&gtilde;a <corr sic="pagpanghín&gtilde;alóoy">pagpanghin&gtilde;alóoy</corr> sa Santos n&gtilde;a Papa.</foreign>
 
 <p>Cancer. = <foreign lang=ceb>Hobág n&gtilde;a daótan caáyo n&gtilde;a macamatáy con díli ugáling toltólan sa ígong támbal.</foreign>
 
@@ -6067,7 +6067,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Carnal. = <foreign lang=ceb>Táuo n&gtilde;a calibotánan, sa maláo-ay n&gtilde;a batásan.</foreign>
 
-<p>Carnalidad. = <foreign lang=ceb>Pagcalá-oay.</foreign>
+<p>Carnalidad. = <foreign lang=ceb><corr sic="Pagcalá-oay">Pagcaláo-ay</corr>.</foreign>
 
 <p>Carnalísimo. = <foreign lang=ceb>Maláo-ay oyámot.</foreign>
 
@@ -7224,7 +7224,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Comarcano. = <foreign lang=ceb>Silín&gtilde;an, táuo n&gtilde;a mapoyó sa hadóol.</foreign>
 
-<p>Comarcar. = <foreign lang=ceb>Pagnáyon ang usá ca yota sa lain n&gtilde;a yota. &ast; Pagtánom sa m&gtilde;a cahoy sa pagcataláy, sa pagcaátobang.</foreign>
+<p>Comarcar. = <foreign lang=ceb>Pagnáyon ang usá ca yota sa lain n&gtilde;a yota. &ast; Pagtánom sa m&gtilde;a cahoy sa pagcataláy, sa <corr sic="pagcaátobang">pagcaatúbang</corr>.</foreign>
 
 <p>Combar. = <foreign lang=ceb>Liquiob, quióom, ticóco, balíquig.</foreign>
 
@@ -7290,7 +7290,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Comisario. = <foreign lang=ceb>Comisario, táuo n&gtilde;a magatóman sa m&gtilde;a sugo n&gtilde;a guitógon canía. &ast; Sologóon sa m&gtilde;a gobernadorcillo ug táuo n&gtilde;a guinatagáan ug baras, ug may gahóm sa pagbólong ug pagdácop sa man&gtilde;a saláan.</foreign>
 
-<p>Comision. = <foreign lang=ceb>Togon n&gtilde;a guítógon sa usá ca táuo sa lain n&gtilde;a táuo.</foreign>
+<p>Comision. = <foreign lang=ceb>Togon n&gtilde;a <corr sic="guítógon">guitógon</corr> sa usá ca táuo sa lain n&gtilde;a táuo.</foreign>
 
 <p>Comisionar. V. <hi>Cometer</hi> hasta <hi lang=ceb>pagsógod</hi>.
 
@@ -7706,7 +7706,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Confuso. = <foreign lang=ceb>Ang nagobót. &ast; Ang nabóloc. &ast; Ang nasacót. &ast; <corr sic="An&gtilde;">Ang</corr> naólao. &ast; Ang hióbsan sa boot. &ast; Ang dili madáyag, dili maquíta, dili masáyod, díli maásoy caáyo.</foreign>
 
-<p>Confutar. = <foreign lang=ceb>Paglális sa <corr sic="bísan">bisan</corr> cansa arón madáyag ang matóod, pagíndig índig.</foreign>
+<p>Confutar. = <foreign lang=ceb>Paglális sa <corr sic="bísan">bisan</corr> cansa arón madáyag ang matóod, pagíndig <corr sic="índig">indig</corr>.</foreign>
 
 <p>Congelar. V. <hi>Condensar</hi>.
 
@@ -8294,13 +8294,13 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Cordillera. = <foreign lang=ceb>Man&gtilde;a boquid, caboquídan n&gtilde;a nanagcasómpay sompay, nagacanáyon nayon.</foreign>
 
-<p>Cordon. = <foreign lang=ceb>Sagioálo, sígioálo, cordones.</foreign>
+<p>Cordon. = <foreign lang=ceb>Sagioálo, <corr sic="sígioálo">sigioálo</corr>, cordones.</foreign>
 
 <p>Cordura. = <foreign lang=ceb>Caboótan, salabótan.</foreign>
 
 <p>Corifeo. = <foreign lang=ceb>Pan&gtilde;ólo.</foreign>
 
-<p>Corion. = <foreign lang=ceb>Panit sa íbábao sa dorohá ca postánan sa báta, sa dihá pa sa tian sa inahán.</foreign>
+<p>Corion. = <foreign lang=ceb>Panit sa <corr sic="íbábao">ibábao</corr> sa dorohá ca postánan sa báta, sa dihá pa sa tian sa inahán.</foreign>
 
 <p>Corista. = <foreign lang=ceb>Ang Padre n&gtilde;a motámbong, n&gtilde;a moádto, n&gtilde;a moátang sa masóbsob sa coro. &ast; Ang religioso n&gtilde;a oalá omábot sa pagcapadre, n&gtilde;a oalá pa ordenáhan.</foreign>
 
@@ -8314,7 +8314,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Cornear. V. <hi>Cornada</hi>.
 
-<p>Corneja. = <foreign lang=ceb>Langgam n&gtilde;a maín&gtilde;on in&gtilde;on sa oóác.</foreign>
+<p>Corneja. = <foreign lang=ceb>Langgam n&gtilde;a maín&gtilde;on in&gtilde;on sa <corr sic="oóác">ooác</corr>.</foreign>
 
 <p>Cornejo. = <foreign lang=ceb>Cahoy.</foreign>
 
@@ -8328,7 +8328,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Cornudo. = <foreign lang=ceb>Mananáp ug bisan onsa n&gtilde;a may son&gtilde;áy. &ast; Ang bana n&gtilde;a guilimbón&gtilde;an sa iang asáoa sa pagpacasalá sa lain.</foreign>
 
-<p>Coro. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a táuo n&gtilde;a nanin&gtilde;ób sa pagcanta, sa pagpan&gtilde;ádye sa m&gtilde;a pan&gtilde;adyéon sa m&gtilde;a Padre. &ast; Lugar sa m&gtilde;a Singbahán n&gtilde;a págatíngban sa m&gtilde;a cantores.</foreign>
+<p>Coro. = <foreign lang=ceb>Cadaghánan sa m&gtilde;a táuo n&gtilde;a nanin&gtilde;ób sa pagcanta, sa pagpan&gtilde;ádye sa m&gtilde;a pan&gtilde;adyéon sa m&gtilde;a Padre. &ast; Lugar sa m&gtilde;a Singbahán n&gtilde;a <corr sic="págatíngban">pagatíngban</corr> sa m&gtilde;a cantores.</foreign>
 
 <p>Corona. = <foreign lang=ceb>Corona. &ast; Porong porong.</foreign> &ast; Fin de alguna obra. = <foreign lang=ceb>Catapúsan.</foreign>
 
@@ -8740,7 +8740,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Criticon. = <foreign lang=ceb>Ang macatimáan, ang matimaánon sa man&gtilde;a sayóp bisan n&gtilde;a diótay caáyo, ug sa bisan onsa dihá.</foreign>
 
-<p>Crónica. = <foreign lang=ceb>Librong sinolátan sa n&gtilde;atanán sa canhing tiempo ug n&gtilde;a ipacásonód sonód n&gtilde;atanán n&gtilde;a nahatábo sa túig túig.</foreign>
+<p>Crónica. = <foreign lang=ceb>Librong sinolátan sa n&gtilde;atanán sa canhing tiempo ug n&gtilde;a <corr sic="ipacásonód">ipacasonód</corr> sonód n&gtilde;atanán n&gtilde;a nahatábo sa túig túig.</foreign>
 
 <p>Cronista. = <foreign lang=ceb>Táuo n&gtilde;a nagasólat sa crónica, sa historia.</foreign>
 
@@ -10223,7 +10223,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Desahogado. = <foreign lang=ceb>Táuo n&gtilde;a díli maólao caáyo. &ast; Lugar<corr sic=".">,</corr> solód, &amp;c., n&gtilde;a dagcó, n&gtilde;a maháoay, ang díli pagasamócan sa bisan onsa.</foreign>
 
-<p>Desahogar. = <foreign lang=ceb>Pagoalá sa m&gtilde;a calisdánan ug m&gtilde;a cahágo n&gtilde;a nacayógot sa húna húna ug sa casing casing sa táuo. &ast; Pagbáyad sa m&gtilde;a otang. &ast; Pagasoy, pagsáyor sa isigcatáuo sa m&gtilde;a casáquet. &ast; Pagsógid sa isigcatáuo sa m&gtilde;a calisód ug casaquétan n&gtilde;a guibáti sa bisan cansa.</foreign>
+<p>Desahogar. = <foreign lang=ceb>Pagoalá sa m&gtilde;a calisdánan ug m&gtilde;a cahágo n&gtilde;a nacayógot sa húna húna ug sa casing casing sa táuo. &ast; Pagbáyad sa m&gtilde;a otang. &ast; <corr sic=Pagasoy>Pagásoy</corr>, pagsáyor sa isigcatáuo sa m&gtilde;a casáquet. &ast; Pagsógid sa isigcatáuo sa m&gtilde;a calisód ug casaquétan n&gtilde;a guibáti sa bisan cansa.</foreign>
 
 <p>Desahuciado. = <foreign lang=ceb>Ang masaquét n&gtilde;a guicoháan sa pagláom n&gtilde;a macóha ang saquét nia. &ast; Ang táuo n&gtilde;a guipapaháoa sa guipúy-an nia n&gtilde;a baláy con yota.</foreign>
 
@@ -11537,7 +11537,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Desparramado. = <foreign lang=ceb>Halagpád. &ast; Dagcó. &ast; Quinátag.</foreign>
 
-<p>Desparramar. = <foreign lang=ceb>Catag, sabólac, sab-oag. &ast; Pagósic sa bahándí, sa salapí. &ast; Paglín&gtilde;ao <corr sic="lín&gtilde;ao">lin&gtilde;ao</corr> sa <corr sic="calin&gtilde;àoan">calin&gtilde;áoan</corr> n&gtilde;a díli maáyo.</foreign>
+<p>Desparramar. = <foreign lang=ceb>Catag, sabólac, sab-oag. &ast; Pagósic sa <corr sic="bahándí">bahándi</corr>, sa salapí. &ast; Paglín&gtilde;ao <corr sic="lín&gtilde;ao">lin&gtilde;ao</corr> sa <corr sic="calin&gtilde;àoan">calin&gtilde;áoan</corr> n&gtilde;a díli maáyo.</foreign>
 
 <p>Despartir. = <foreign lang=ceb>Pagbólag, pagbáhin.</foreign>
 
@@ -11825,7 +11825,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Destronar. = <foreign lang=ceb>Pagcóba, pagpaháoa sa Guinharían sa m&gtilde;a hari.</foreign>
 
-<p>Destroncar. = <foreign lang=ceb>Pagtagá sa m&gtilde;a cahoy dapit ug haróol sa m&gtilde;a gamót. &ast; Pagpótol con paglisá sa <corr sic="bísan">bisan</corr> onsang bahín sa laoas sa m&gtilde;a táuo. &ast; Pagpótol, pagóndang, pagárang sa soguílon. &ast; Pagbótang sa m&gtilde;a cacolían, m&gtilde;a caolán&gtilde;an, sa isigcatáuro, arón díli macadán&gtilde;at sa guítúyo nia.</foreign>
+<p>Destroncar. = <foreign lang=ceb>Pagtagá sa m&gtilde;a cahoy dapit ug haróol sa m&gtilde;a gamót. &ast; Pagpótol con paglisá sa <corr sic="bísan">bisan</corr> onsang bahín sa laoas sa m&gtilde;a táuo. &ast; Pagpótol, pagóndang, pagárang sa soguílon. &ast; Pagbótang sa m&gtilde;a cacolían, m&gtilde;a caolán&gtilde;an, sa isigcatáuro, arón díli macadán&gtilde;at sa <corr sic="guítúyo">guitúyo</corr> nia.</foreign>
 
 <p>Destrozar. V. <hi>Despedazar</hi> y <hi>Destrizar</hi>. &ast; <foreign lang=ceb>Pagdáot, paggobá, pagósic, pagámong among. &ast; Paggobá, pagdáog sa m&gtilde;a caáoay.</foreign>
 
@@ -11887,7 +11887,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Desvariado. = <foreign lang=ceb>Ang salimoán&gtilde;on, ang tigyámyam, ang nasalimóang, nagayámyam.</foreign>
 
-<p>Desvariar. = <foreign lang=ceb>Salímóang, yamyan. &ast; Pagpamólong ug bisan onsa sa oaláy hingtóngdan ug cahológan.</foreign>
+<p>Desvariar. = <foreign lang=ceb><corr sic="Salímóang">Salimóang</corr>, yamyan. &ast; Pagpamólong ug bisan onsa sa oaláy hingtóngdan ug cahológan.</foreign>
 
 <p>Desvarío. = <foreign lang=ceb>Polong cong bohat n&gtilde;a oaláy hingtóngdan. &ast; Pagcayámyam, pagcasalimóang. &ast; Botang n&gtilde;a dili an&gtilde;ay sa isigcaín&gtilde;on. &ast; Pagcaoaláy calig-ónan sa boot. &ast; Huna huna n&gtilde;a paráyon bisan n&gtilde;a dili onta macaígo sa catarón&gtilde;an ug sa tacós n&gtilde;a hona honáon.</foreign>
 
@@ -12243,7 +12243,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Diplomático. = <foreign lang=ceb>Táuo n&gtilde;a nahilábot sa m&gtilde;a holosáyon sa m&gtilde;a hari ug sa man&gtilde;a Guinharían.</foreign>
 
-<p>Diputacion. = <foreign lang=ceb>Catilíngban sa pila ca táuo n&gtilde;a man&gtilde;a sinógo sa pagsábot ug paghosáy sa bisan onsa.</foreign>
+<p>Diputacion. = <foreign lang=ceb>Catilíngban sa pila ca táuo n&gtilde;a man&gtilde;a sinógo sa pagsábot ug <corr sic="paghosáy">paghósay</corr> sa bisan onsa.</foreign>
 
 <p>Diputado. = <foreign lang=ceb>Ang táuo n&gtilde;a guin&gtilde;álan ug guitódlo sa usá ca ciudad con longsod, con sa usá ca catilíngban sa m&gtilde;a táuo, ug guisógo sa bisan asa, orón mahímo ang ilang ilis sa pagsábot ug paghósay sa ilang m&gtilde;a holosáyon.</foreign>
 
@@ -12511,7 +12511,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Distraido. = <foreign lang=ceb>Táuo n&gtilde;a masámoc sa quinabóhi n&gtilde;a díli mahósay, sa batásan n&gtilde;a malágsot.</foreign>
 
-<p>Distribucion. = <foreign lang=ceb>Pagcabáhín, pagcapáhat. &ast; Pagbótang sa tagsa tagsa ca botang sa hingtóngdan niang lugar con bolotán&gtilde;an.</foreign>
+<p>Distribucion. = <foreign lang=ceb><corr sic="Pagcabáhín">Pagcabáhin</corr>, pagcapáhat. &ast; Pagbótang sa tagsa tagsa ca botang sa hingtóngdan niang lugar con bolotán&gtilde;an.</foreign>
 
 <p>Distribuidor. = <foreign lang=ceb>Ang magapáhat, ang magabáhin.</foreign>
 
@@ -12621,7 +12621,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Doblez. V. <hi>Dobladura</hi>. &ast; <foreign lang=ceb>Pagcalímbong, pagcabódhi. &ast; Timáan n&gtilde;a nahabílin sa bisan onsa n&gtilde;a guipiló guipíco.</foreign>
 
-<p>Doblon. = <foreign lang=ceb>Salapí n&gtilde;a boláoan, n&gtilde;a nagcaláín lain sa bili.</foreign>
+<p>Doblon. = <foreign lang=ceb>Salapí n&gtilde;a boláoan, n&gtilde;a <corr sic="nagcaláín">nagcaláin</corr> lain sa bili.</foreign>
 
 <p>Doblonada. = <foreign lang=ceb>Pagcadághan sa salapí.</foreign>
 
@@ -13956,7 +13956,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Encarnamiento. = <foreign lang=ceb>Pagtobó sa onód sa m&gtilde;a samad, pagonód.</foreign>
 
-<p>Encarnar. V. <hi>Encarnacion</hi> hasta <hi lang=ceb>color</hi>. &ast; <foreign lang=ceb>Pagtámboc sa naníoang. &ast; Pagdolót, pagsolód sa paná, sa cales, &amp;c., sa m&gtilde;a laoas. &ast; Pagsácot sa osa ca botang sa lain n&gtilde;a botang. &ast; Pagánad sa m&gtilde;a iró sa pagápas ug pagpatáy sa obán n&gtilde;a m&gtilde;a mananáp, sa pagpacáon caníla sa onód sa m&gtilde;a mananáp n&gtilde;a pinatay n&gtilde;a daan.</foreign>
+<p>Encarnar. V. <hi>Encarnacion</hi> hasta <hi lang=ceb>color</hi>. &ast; <foreign lang=ceb>Pagtámboc sa naníoang. &ast; Pagdolót, pagsolód sa paná, sa cales, &amp;c., sa m&gtilde;a laoas. &ast; Pagsácot sa osa ca botang sa lain n&gtilde;a botang. &ast; Pagánad sa m&gtilde;a iró sa pagápas ug pagpatáy sa obán n&gtilde;a m&gtilde;a mananáp, sa pagpacáon caníla sa onód sa m&gtilde;a mananáp n&gtilde;a <corr sic=pinatay>pinatáy</corr> n&gtilde;a daan.</foreign>
 
 <p>Encarnativo. = <foreign lang=ceb>Tambal n&gtilde;a igahónal sa m&gtilde;a samad arón motóbo ang bag-ong onód.</foreign>
 
@@ -14652,7 +14652,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <pb n=183 id=pb183 facs="f:183"><p>Enredadera. = <foreign lang=ceb>Balágon.</foreign>
 
-<p>Enredador. = <foreign lang=ceb>Condatán, táuo n&gtilde;a malíhoc caáyo, n&gtilde;a díli maálam magpoyó, n&gtilde;a díli mahamótang. &ast; Táuo ug bacácon, n&gtilde;a magadála dala sa luyo ug sa luyo sa m&gtilde;a soguílon, arón managaóay ang obán n&gtilde;a m&gtilde;a táuo, tabían.</foreign>
+<p>Enredador. = <foreign lang=ceb>Condatán, táuo n&gtilde;a malíhoc caáyo, n&gtilde;a díli maálam magpoyó, n&gtilde;a díli mahamótang. &ast; Táuo ug bacácon, n&gtilde;a magadála dala sa luyo ug sa luyo sa m&gtilde;a soguílon, arón <corr sic="managaóay">managáoay</corr> ang obán n&gtilde;a m&gtilde;a táuo, tabían.</foreign>
 
 <p>Enredar. = <foreign lang=ceb>Pagtáctac sa m&gtilde;a sahid, sa m&gtilde;a anod, ug sa obán pa n&gtilde;a m&gtilde;a panagátan, sa dagat con sa m&gtilde;a sobá. &ast; Paggobót, pagbóloc, pagsácot. &ast; Pagcóndat, pagósic, pagdóla. &ast; Pagdála dala sa man&gtilde;a soguílon arón managáoay ang m&gtilde;a táuo. &ast; Paglisód, pagólang, pagbótang sa m&gtilde;a cacolían sa bisan onsa n&gtilde;a pagaboháton ug pagahosáyon.</foreign> &ast; V. <hi>Amancebarse</hi>.
 
@@ -15216,7 +15216,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Epilogar. = <foreign lang=ceb>Pagláctor sa m&gtilde;a soguílon, m&gtilde;a oáli con m&gtilde;a solat. &ast; Pagásoy sa m&gtilde;a hamóbong polong, sa dinalí, sa dináclit.</foreign>
 
-<p>Epílogo. = <foreign lang=ceb>Catapósan sa usá ca soguílon, oáli con solat, n&gtilde;a icasúmay sa lactod n&gtilde;a pagsáyod ug pagasoy, sa n&gtilde;atanán n&gtilde;a guiín&gtilde;on na.</foreign>
+<p>Epílogo. = <foreign lang=ceb>Catapósan sa usá ca soguílon, oáli con solat, n&gtilde;a icasúmay sa lactod n&gtilde;a pagsáyod ug <corr sic=pagasoy>pagásoy</corr>, sa n&gtilde;atanán n&gtilde;a guiín&gtilde;on na.</foreign>
 
 <p>Epiqueya. = <foreign lang=ceb>Casayóran n&gtilde;a nahamótang sa casarán&gtilde;an ug catarón&gtilde;an, n&gtilde;a icaásoy sa cahológan sa man&gtilde;a leyes, sa batásan, somála sa túig, sa lugar, ug sa pagcabótang sa m&gtilde;a táuo <corr sic="u&gtilde;a">n&gtilde;a</corr> hingsácpan sa maong batásan.</foreign>
 
@@ -18533,7 +18533,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 <div2 id=cFO>
 <head>FO</head>
 
-<p>Foca. = <foreign lang=ceb>Mananáp sa dagat, isda n&gtilde;a mabóhí osáb sa yota.</foreign>
+<p>Foca. = <foreign lang=ceb>Mananáp sa dagat, isda n&gtilde;a <corr sic="mabóhí">mabóhi</corr> osáb sa yota.</foreign>
 
 <p>Fofo. = <foreign lang=ceb>Mahómoc, boga, haboc, <corr sic=bocag>bocág</corr>.</foreign>
 
@@ -18923,7 +18923,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Frenillo. = <foreign lang=ceb>Panit n&gtilde;a nahamótang sa ilálom sa dila ug n&gtilde;a motoróc sa ton&gtilde;á ton&gtilde;á, n&gtilde;a con moábot sa tomóy sa maong dila macaólang sa pagsóso ug sa pagpamólong ug maáyo.</foreign>
 
-<p>Freno. = <foreign lang=ceb>Preno, capandáyan sa pothao n&gtilde;a isolód sa bába sa m&gtilde;a cabayo sa paghópot ug pagpogóng caníla. &ast; Pagcapogóng sa bisan cansa, arón díli magpaságad sa págbóhat ug sa pagpamólong.</foreign>
+<p>Freno. = <foreign lang=ceb>Preno, capandáyan sa pothao n&gtilde;a isolód sa bába sa m&gtilde;a cabayo sa paghópot ug pagpogóng caníla. &ast; Pagcapogóng sa bisan cansa, arón díli magpaságad sa <corr sic="págbóhat">pagbóhat</corr> ug sa pagpamólong.</foreign>
 
 <p>Frental. = <foreign lang=ceb>M&gtilde;a caogátan sa agtang, sa bona.</foreign>
 
@@ -19408,7 +19408,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Gallear. = <foreign lang=ceb>Pagpan&gtilde;asáoa sa m&gtilde;a manóc. &ast; Pagsínggit, pagpamólong sa hataás n&gtilde;a tin&gtilde;og, sa man&gtilde;a masíngcang polong.</foreign>
 
-<p>Galleta. = <foreign lang=ceb>Sodlánan sa vino, sa tobig, sa soca, &amp;c. &ast; Tinapay n&gtilde;a oaláy binhi ug tinosta, n&gtilde;a maáyo sa balon sa m&gtilde;a sacayán.</foreign>
+<p>Galleta. = <foreign lang=ceb>Sodlánan sa vino, sa tobig, sa soca, &amp;c. &ast; <corr sic=Tinapay>Tinápay</corr> n&gtilde;a oaláy binhi ug tinosta, n&gtilde;a maáyo sa balon sa m&gtilde;a sacayán.</foreign>
 
 <p>Gallillo. = <foreign lang=ceb>Tiláoc.</foreign>
 
@@ -20384,7 +20384,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Grapa. = <foreign lang=ceb>Pothao, tombága, salapí, &amp;c., n&gtilde;a holohalagpád ug manípis, n&gtilde;a mahalánsang sa isicadáplin sa pagpalíg-on sa bisan onsa n&gtilde;a nalíqui, nabóoac, nalótac.</foreign>
 
-<p>Grasa. = <foreign lang=ceb>Manteca, tamboc, sebo. &ast; Bolíng sa m&gtilde;a bisti.</foreign>
+<p>Grasa. = <foreign lang=ceb>Manteca, tamboc, sebo. &ast; <corr sic="Bolíng">Boling</corr> sa m&gtilde;a bisti.</foreign>
 
 <p>Grasiento. = <foreign lang=ceb>Ang ponó, ang guidíhog, ang guihílog sa manteca, sa tamboc. &ast; Ang bolín&gtilde;on caáyo.</foreign>
 
@@ -22568,7 +22568,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Improperar. = <foreign lang=ceb>Pagbóyboy. &ast; Pagdáot sa polong sa isigcatáuo.</foreign>
 
-<p>Improperio. = <foreign lang=ceb>Polong n&gtilde;a icadáot sa isigcatáuo. &ast; Pagbúyboy.</foreign>
+<p>Improperio. = <foreign lang=ceb>Polong n&gtilde;a icadáot sa isigcatáuo. &ast; <corr sic="Pagbúyboy">Pagbóyboy</corr>.</foreign>
 
 <p>Impropiamente. = <foreign lang=ceb>Sa díli mao, sa díli <corr sic="mccaígo">macaígo</corr>, sa díli maín&gtilde;on.</foreign>
 
@@ -23684,7 +23684,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Injuria. = <foreign lang=ceb>Polong con bohat n&gtilde;a macadáot sa isigcatáuo con sa iang don&gtilde;og. &ast; Polong ug bohat n&gtilde;a contra sa catarón&gtilde;an.</foreign>
 
-<p>Injuriador. = <foreign lang=ceb>Ang magadáot sa isigcatáuo, mabalícáson, tigbalícas.</foreign>
+<p>Injuriador. = <foreign lang=ceb>Ang magadáot sa isigcatáuo, <corr sic="mabalícáson">mabalicáson</corr>, tigbalícas.</foreign>
 
 <p>Injuriante. = Idem.
 
@@ -24030,7 +24030,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Instantáneo. = <foreign lang=ceb>Ang madúgay sa macariót lamang, ang malágmit uyámot.</foreign>
 
-<p>Instante. = <foreign lang=ceb>Ang mohán&gtilde;ío, ang man&gtilde;amóyo pagópod. &ast; Macariót lamang, ang usá ca pagpíloc sa matá.</foreign>
+<p>Instante. = <foreign lang=ceb>Ang <corr sic="mohán&gtilde;ío">mohán&gtilde;io</corr>, ang man&gtilde;amóyo pagópod. &ast; Macariót lamang, ang usá ca pagpíloc sa matá.</foreign>
 
 <p>Instantemente. V. <hi>Instantáneamente</hi>.
 
@@ -25417,7 +25417,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Lactífero. = <foreign lang=ceb>Ang alaguían sa gatas cutub sa pagábot sa atn&gtilde;al sa soso.</foreign>
 
-<p>Lactumen. = <foreign lang=ceb>Saquét n&gtilde;a guinabáti usaháy sa man&gtilde;a báta n&gtilde;a nanagsóso, n&gtilde;a mao ang m&gtilde;a samar ug m&gtilde;a cogan n&gtilde;a diótay sa olo. &ast; Pono.</foreign>
+<p>Lactumen. = <foreign lang=ceb>Saquét n&gtilde;a guinabáti <corr sic="usaháy">usáhay</corr> sa man&gtilde;a báta n&gtilde;a nanagsóso, n&gtilde;a mao ang m&gtilde;a samar ug m&gtilde;a cogan n&gtilde;a diótay sa olo. &ast; Pono.</foreign>
 
 <p>Lacha. = <foreign lang=ceb>Isda.</foreign>
 
@@ -29308,7 +29308,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Misivo. = <foreign lang=ceb>Papel n&gtilde;a sinolátan, solat n&gtilde;a guipadála sa bisan cansa.</foreign>
 
-<p>Mismo. = <foreign lang=ceb>Mao, mao gayud. &ast; Magsáma, topóng, maín&gtilde;on n&gtilde;a tood.</foreign>
+<p>Mismo. = <foreign lang=ceb>Mao, mao <corr sic=gayud>gayúd</corr>. &ast; Magsáma, topóng, maín&gtilde;on n&gtilde;a tood.</foreign>
 
 <p>Mistamente. = <foreign lang=ceb>Ang an&gtilde;ay sa gahóm sa m&gtilde;a hocmánan sa m&gtilde;a Padre ug sa díli Padre.</foreign>
 
@@ -29772,7 +29772,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Montés. V. <hi>Montaraz</hi>.
 
-<p>Montescos y capeletes (haber.) = <foreign lang=ceb>Pagaóay, paglális lalis.</foreign>
+<p>Montescos y capeletes (haber.) = <foreign lang=ceb><corr sic="Pagaóay">Pagáoay</corr>, paglális lalis.</foreign>
 
 <p>Montesino. V. <hi>Montaraz</hi>.
 
@@ -33128,7 +33128,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Parcamente. = <foreign lang=ceb>Sa tolotagídyot, sa mahínay hinay, sa pagcahícao.</foreign>
 
-<p>Parce. = <foreign lang=ceb>Papel n&gtilde;a guihátag sa m&gtilde;a magtotóon sa m&gtilde;a tinón-an n&gtilde;a may pahanóngdan, n&gtilde;a sinolátan sa m&gtilde;a pagpasaílo caníla, con masayóp sila ogaling sa oláhing adlao.</foreign>
+<p>Parce. = <foreign lang=ceb>Papel n&gtilde;a guihátag sa m&gtilde;a magtotóon sa m&gtilde;a tinón-an n&gtilde;a may pahanóngdan, n&gtilde;a sinolátan sa m&gtilde;a pagpasaílo caníla, con masayóp sila <corr sic="ogaling">ogáling</corr> sa oláhing adlao.</foreign>
 
 <p>Parcial. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa bisan onsang bahin sa usá ca tibúoc. &ast; Ang magabóyoc sa bisan onsang dapig, ug ang magalában guihápon sa bisan cansa.</foreign> &ast; V. <hi>Afable</hi>.
 
@@ -33288,7 +33288,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Parricida. = <foreign lang=ceb>Ang nagapatáy sa iang amahán con sa inahán nia.</foreign>
 
-<p>Parricidio. = <foreign lang=ceb>Pagpátay sa bisan cansa sa iang amahán con inahán.</foreign>
+<p>Parricidio. = <foreign lang=ceb><corr sic="Pagpátay">Pagpatáy</corr> sa bisan cansa sa iang amahán con inahán.</foreign>
 
 <p>Parrillas. = <foreign lang=ceb>Taláphan, salárang. &ast; Tinghoy n&gtilde;a diótay dapit sa bába ug dagcó dapit sa sampot.</foreign>
 
@@ -34226,7 +34226,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Pellejina. = <foreign lang=ceb>Panit n&gtilde;a diótay.</foreign>
 
-<p>Pellejo. = <foreign lang=ceb>Panit, anit. &ast; Hobgánon, hobóg, palaílínom.</foreign>
+<p>Pellejo. = <foreign lang=ceb>Panit, anit. &ast; Hobgánon, hobóg, <corr sic="palaílínom">palailínom</corr>.</foreign>
 
 <p>Pellejudo. = <foreign lang=ceb>Ang may dagcóng panit.</foreign>
 
@@ -35352,7 +35352,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Picoteado. = <foreign lang=ceb>Ang may m&gtilde;a tomóy, ang guiguínting guintín&gtilde;an.</foreign>
 
-<p>Picotear. = <foreign lang=ceb>Pagtóctoc sa m&gtilde;a langgam. &ast; Pagpamólong sa oaláy polós, pagsógil sa m&gtilde;a soguílon n&gtilde;a cauang. &ast; Pagtábi. &ast; Pagáuay, paglális lalis sa man&gtilde;a babáye.</foreign>
+<p>Picotear. = <foreign lang=ceb>Pagtóctoc sa m&gtilde;a langgam. &ast; Pagpamólong sa oaláy polós, pagsógil sa m&gtilde;a soguílon n&gtilde;a cauang. &ast; Pagtábi. &ast; <corr sic="Pagáuay">Pagáoay</corr>, paglális lalis sa man&gtilde;a babáye.</foreign>
 
 <p>Picotería. = <foreign lang=ceb>Pagcatábi.</foreign>
 
@@ -38016,7 +38016,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Prolijamente. = <foreign lang=ceb>Sa m&gtilde;a hatáas n&gtilde;a polong. &ast; Sa pagcadúgay. &ast; Sa pagcacúti <corr sic="cúti">cuti</corr>.</foreign>
 
-<p>Prolijo. = <foreign lang=ceb>Ang cuti cutíhan sa iang suguílon, ang magaásoy sa hatáas n&gtilde;a polong. &ast; Cacuguíhan, mabantáyon n&gtilde;a guilabíhan. &ast; Ang macasámoc, magaborláy ug magaalin&gtilde;ása.</foreign>
+<p>Prolijo. = <foreign lang=ceb>Ang cuti cutíhan sa iang suguílon, ang magaásoy sa hatáas n&gtilde;a polong. &ast; Cacuguíhan, mabantáyon n&gtilde;a guilabíhan. &ast; Ang macasámoc, <corr sic="magaborláy">magabórlay</corr> ug magaalin&gtilde;ása.</foreign>
 
 <p>Prólogo. = <foreign lang=ceb>Sulat n&gtilde;a guibútang sa sinógdan sa m&gtilde;a libro, arón masáyod ang magabása sa hingtóngdan n&gtilde;a casayóran sa <corr sic=maoang>maong</corr> m&gtilde;a libro, con sa pagmátn&gtilde;on sa bisan onsa. &ast; Ang sinógdan sa bisan onsa.</foreign>
 
@@ -39589,7 +39589,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Raquítico. = <foreign lang=ceb>Ang mobáti sa saquét sa raquitis.</foreign>
 
-<p>Raquitis. = <foreign lang=ceb>Saquét n&gtilde;a nahamútang sa pagcaláin sa dagoay sa olo, sa man&gtilde;a bocton, sa m&gtilde;a bitíis ug sa obán n&gtilde;a m&gtilde;a bocóg. &ast; Pagcaníuang.</foreign>
+<p>Raquitis. = <foreign lang=ceb>Saquét n&gtilde;a nahamútang sa pagcaláin sa dagoay sa olo, sa man&gtilde;a bocton, sa m&gtilde;a bitíis ug sa obán n&gtilde;a m&gtilde;a bocóg. &ast; <corr sic="Pagcaníuang">Pagcaníoang</corr>.</foreign>
 
 <p>Raramente. = <foreign lang=ceb>Sa talágsa ra, sa pagcamilagros, sa pagcatin&gtilde;ála.</foreign>
 
@@ -43998,7 +43998,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Saliva. = <foreign lang=ceb><corr sic="Laoy">Laoay</corr>, loa.</foreign>
 
-<p>Salivacion. = <foreign lang=ceb>Pagcalóa, pagcaláoay.</foreign>
+<p>Salivacion. = <foreign lang=ceb>Pagcalóa, <corr sic="pagcaláoay">pagcaláo-ay</corr>.</foreign>
 
 <p>Salival. = <foreign lang=ceb>Ang nahaton&gtilde;ód sa laoay.</foreign>
 
@@ -45102,7 +45102,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Separante. = Idem.
 
-<p>Separar. = <foreign lang=ceb>Bulag, bahin, lain, lalin.</foreign>
+<p>Separar. = <foreign lang=ceb><corr sic=Bulag>Bolag</corr>, bahin, lain, lalin.</foreign>
 
 <p>Separativo. V. <hi>Separador</hi>.
 
@@ -45172,7 +45172,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Serbo. = Idem.
 
-<p>Serenar. = <foreign lang=ceb>Paglínao sa tiempo ug sa dagat. &ast; Pagpatón-og sa bisan onsa. &ast; Pagtín-ao sa bino, sa tubig, &amp;c., n&gtilde;a nalóbog. &ast; Pagpahínay sa man&gtilde;a pagálsa, sa m&gtilde;a cabobót-on n&gtilde;a nanagbíquil biquil, sa nanagáuay ug sa nasucó.</foreign>
+<p>Serenar. = <foreign lang=ceb>Paglínao sa tiempo ug sa dagat. &ast; Pagpatón-og sa bisan onsa. &ast; Pagtín-ao sa bino, sa tubig, &amp;c., n&gtilde;a nalóbog. &ast; Pagpahínay sa man&gtilde;a pagálsa, sa m&gtilde;a cabobót-on n&gtilde;a nanagbíquil biquil, sa <corr sic="nanagáuay">nanagáoay</corr> ug sa nasucó.</foreign>
 
 <p>Serenata. = <foreign lang=ceb>Pagmúsica, piesta sa música.</foreign>
 
@@ -51875,7 +51875,7 @@ Dado que la copia disponible de la segunda edición falta las últimas diez página
 
 <p>Vaciar. = <foreign lang=ceb>Pagyabó, paghúar sa tubig, sa bino, sa humáy, sa balás, &amp;c., cutub sa usá ca surlánan sa lain n&gtilde;a surlánan. &ast; Pagbúhat sa bisan onsang buhat sa buláoan, sa yeso, &amp;c., sa hormáhan. &ast; Pagbáid, pagsám-ir sa m&gtilde;a labajas n&gtilde;a igaálot. &ast; Pagsolód sa tubig sa usá ca subá sa lain n&gtilde;a subá. &ast; Paghunás. &ast; Paglúbar sa color sa bisan onsa. &ast; Pagoalá sa m&gtilde;a táuo n&gtilde;a nanagpuyó sa bisan diin. &ast; Pagsuguílon sa bisan onsa n&gtilde;a tacús unta n&gtilde;a pagahilúmun, n&gtilde;a díli itúg-an.</foreign>
 
-<p>Vaciedad. = <foreign lang=ceb>Pagcabúang, polong n&gtilde;a díli macaígo.</foreign>
+<p>Vaciedad. = <foreign lang=ceb><corr sic="Pagcabúang">Pagcabóang</corr>, polong n&gtilde;a díli macaígo.</foreign>
 
 <p>Vaciero. = <foreign lang=ceb>Baquero sa m&gtilde;a hayúpan n&gtilde;a oaláy m&gtilde;a anac.</foreign>
 

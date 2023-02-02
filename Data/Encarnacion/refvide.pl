@@ -14,22 +14,35 @@ open(INPUTFILE, $inputFile) || die("Could not open $inputFile");
 print STDERR "Adding refs to $inputFile\n";
 
 
-# V. Abadía. =    ->  V> <ref target=e.abadia>Abadía</ref>.
+# V. Abadía. =  ->  V> <ref target=e.abadia>Abadía</ref>.
 
 while (<INPUTFILE>) {
-    my $line = $_;
-    while ($line =~ m/((?:<corr.*?>)?V\.(?:<\/corr>)? <hi>)([a-záéíóúàèìòùâêîôûñ ]+)(<\/hi>)/i) {
+    my $remainder = $_;
+    my $result = "";
+    while ($remainder =~ m/((?:<corr.*?>)?V\.(?:<\/corr>)? <hi>)([a-záéíóúàèìòùâêîôûñ ]+)(<\/hi>)/i) {
         my $before = $`;
         my $start = $1;
         my $vide = $2;
         my $end = $3;
-        $line = $';
+        $remainder = $';
 
         my $newId = makeId($vide);
 
-        print "$before$start<ref target=e.$newId>$vide</ref>$end";
+        $result .= "$before$start<ref target=e.$newId>$vide</ref>$end";
     }
-    print $line;
+
+    while ($remainder =~ m/(, <hi>)([a-záéíóúàèìòùâêîôûñ ]+)(<\/hi>)/i) {
+        my $before = $`;
+        my $start = $1;
+        my $vide = $2;
+        my $end = $3;
+        $remainder = $';
+
+        my $newId = makeId($vide);
+        $result .= "$before$start<ref target=e.$newId>$vide</ref>$end";
+    }
+
+    print $result . $remainder;
 }
 
 
