@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on 2023-02-04T14:00:47Z. -->
+<!-- Generated on 2023-02-04T14:59:57Z. -->
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
    <rdf:Description>
       <dc:title>Diccionario Español-Bisaya</dc:title>
       <dc:creator>Juan Félix de la Encarnación (1806–1879)</dc:creator>
-      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., #####</dc:publisher>
-      <dc:date>#####</dc:date>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2023-02-04</dc:publisher>
+      <dc:date>2023-02-04</dc:date>
       <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
 
     This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
@@ -26,5 +26,6 @@
     Como diccionario, tiene varias carencias. En primer lugar, su ortografía del cebuano es altamente inconsistente, y en segundo lugar, parece basarse en un glosario español con todos los significados traducidos al cebuano. Se han tomado algunas libertades en esas traducciones, y cuando no había una palabra cebuana adecuada, se agregó una breve explicación. No confíe en ellas demasiado. Es curioso, por ejemplo, que la entrada Vergarzoso solo explique ‘animal de América’! De manera similar, muchos nombres españoles de especies específicas de aves, la glosa es simplemente langgam, ‘pájaro’, sin importar si la palabra española designa un buitre, comilonas, hoopoo, etc. La entrada para Unicornio se traduce como ‘un animal como un caballo, con solo un cuerno’, sin ninguna indicación de su carácter mitológico. Sin embargo, este diccionario es un recurso valioso porque documenta el cebuano tal como era hace unos 150 años.
 </dc:rights>
       <dc:description>This Spanish-Cebuano dictionary was first published in 1852. The second edition used for this ebook dates from 1866. Although valuable, the dictionary has shortcomings such as inconsistent Cebuano spelling and being based on a Spanish glossary with translated meanings. Some liberties were taken in translation and caution is advised.</dc:description>
+      <dc:identifier>pg:69948</dc:identifier>
    </rdf:Description>
 </rdf:RDF>
