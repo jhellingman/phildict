@@ -1180,7 +1180,7 @@ Aldaba. = Sab-it, cao-it.
 
 Aldabada. = Pagtóctoc sa sab-it.
 
-Aldabazo = Idem.
+Aldabazo. = Idem.
 
 Aldabear. = Idem.
 
@@ -1655,7 +1655,7 @@ pagbógao.
 Amotinar. = Alsa, gobot, paglápas sa pagtáhor ug pagsógot, pagsúqui,
 pagsocuáhi.
 
-Amover = Pagcóha sa gahóm con sa oficio ng̃a hinátag ng̃a dáan.
+Amover. = Pagcóha sa gahóm con sa oficio ng̃a hinátag ng̃a dáan.
 
 Amparar. = Tabang, laban, laba, hopót.
 
@@ -6053,7 +6053,7 @@ Calle. V. Calzada.
 
 Callear. = Pagbóhat sa dálan sa mg̃a tanáman, sa mg̃a cabalánan.
 
-Callejear = Paglacát sa masóbsob sa mg̃a cadalánan sa oaláy tóyo,
+Callejear. = Paglacát sa masóbsob sa mg̃a cadalánan sa oaláy tóyo,
 pagsódoy sódoy, paglíbod líbod.
 
 Callejero. = Hilacáo, lomalacát, tíglacat, tigsódoy sódoy, maglalacáo,
@@ -6631,7 +6631,7 @@ Capitanía. = Cahímtang sa pagcacapitan.
 Capitel. = Ang olo cong catapósan, dapit sa itáas, sa mg̃a columna,
 sapitel.
 
-Capiton. — Isda ng̃a motobó sa yánang, ang olo nía dagcóan caáyo.
+Capiton. = Isda ng̃a motobó sa yánang, ang olo nía dagcóan caáyo.
 
 Capitulacion. = Pagáng̃ay, pagsábot, pagpólong polong, pagcaámpo.
 
@@ -6713,7 +6713,7 @@ ng̃a opicio ug cahímtang. * Timáan ng̃a espirituhánon.
 
 Caracterizado. = Táuo ng̃a dato tong̃ód sa íang pagcahímtang.
 
-Caracterizar = Pagláin láin sa tagsa ca bótang sa íang caogalíng̃on ng̃a
+Caracterizar. = Pagláin láin sa tagsa ca bótang sa íang caogalíng̃on ng̃a
 timáan. * Paghátag sa gahóm sa mg̃a táuo sa paghátag opód caníla sa
 hatáas ng̃a opicio con cahímtang.
 
@@ -8738,9 +8738,9 @@ Concusion. = Pagcalíhoc, pagcatándog ng̃a ahat, mabáscog, sa bisan onsa.
 
 Concha. = Baláyan sa mg̃a quinháson.
 
-Concha-carey = Sisic.
+Concha-carey. = Sisic.
 
-Concha-nácar = Tipay.
+Concha-nácar. = Tipay.
 
 Conchabar. = Paghiúsa, pagdóol. * Pagípon, pagobán.
 
@@ -12475,7 +12475,7 @@ Descomunal. = Ang dagcóan caáyo ug labí sa obán ng̃a isigcaíng̃on.
 
 Desconcertado. = Maosícon, sa daótan ng̃a batásan.
 
-Desconcertar = Pagbóloc, paggobót. * Pagbíquil sa mg̃a cabobót-on ng̃a
+Desconcertar. = Pagbóloc, paggobót. * Pagbíquil sa mg̃a cabobót-on ng̃a
 nahósay ng̃a daan. * Paglisá sa bocton, sa paa, &c.
 
 Desconcierto. = Pagcabóloc, pagcadáot. * Pagcaoaláy paghópot. * Hibólos
@@ -13018,7 +13018,7 @@ Desgalgadero. = Pagcabang̃ílid, pagcabaquílid.
 
 Desgalgar. = Pagpaámbac cotob sa lugar ng̃a hatáas.
 
-Desgalichado, = Táuo ng̃a díli ang̃áyan.
+Desgalichado. = Táuo ng̃a díli ang̃áyan.
 
 Desgana. = Pagcaoaláy ganas sa pagcáon. * Pagcaoaláy cacógui. *
 Pagcaoaláy gogma sa bisan onsa. * Pagdáo, coyap.
@@ -13695,8 +13695,8 @@ isigcatáuo canía.
 
 Desquijarar. = Pagcóha, pagdáot sa apapáng̃ig.
 
-Desquitar = Baoi, pagbálos sa daótan ng̃a bohat sa isigcatáuo. * Pagbáoi
-sa napildi sa sogál.
+Desquitar. = Baoi, pagbálos sa daótan ng̃a bohat sa isigcatáuo. *
+Pagbáoi sa napildi sa sogál.
 
 Desquite. = Pagcabáoi, pagcabálos.
 
@@ -14220,7 +14220,7 @@ pagmantalá.
 
 Difunto. = Táuo ng̃a patáy, pinatáy, minatáy.
 
-Difusion. * Pagcatáas sa soguílon, sa oáli, &c.
+Difusion. = Pagcatáas sa soguílon, sa oáli, &c.
 
 Difuso. = Dagcó, halagpád, hatáas.
 
@@ -14316,11 +14316,11 @@ pagbóot.
 
 Dinerada. = Cadaghánan, isip ng̃a dagcó sa salapí.
 
-Dineral = Idem.
+Dineral. = Idem.
 
 Dinero. = Salapí, cuartas, salapíng boláoan.
 
-Dineroso = Salapían, salapiánon, adonáhan.
+Dineroso. = Salapían, salapiánon, adonáhan.
 
 Dintel. = Ang bahin sa mg̃a tocop ug mang̃a talambóan ng̃a mohónong ug
 molíngcod dapit sa ibábao sa balábag, ng̃a nahatóngtong sa mg̃a marco con
@@ -14415,7 +14415,7 @@ Discordar. = Díli pagáng̃ay. * V. Disconformidad desde díli omóyon.
 
 Discorde. = Idem.
 
-Discordia = Pagcabíquil sa mg̃a cabobót-on. * V. Disconformidad.
+Discordia. = Pagcabíquil sa mg̃a cabobót-on. * V. Disconformidad.
 
 Discrecion. = Salabótan, caboótan, paghóna húna ng̃a maáyo, matalínis. *
 Pagcabátid. * Polong ng̃a macaígo. * Pagtóman sa caogalíng̃on ng̃a
@@ -21167,7 +21167,7 @@ F
 FA
 
 
-Fábrica, = Balay, cota, Singbahán, &c., ng̃a binóhat sa bató, sa papán,
+Fábrica. = Balay, cota, Singbahán, &c., ng̃a binóhat sa bató, sa papán,
 &c. * Lugar ng̃a guitagána sa pagbóhat sa bisan onsang baláy, baluarte,
 &c. * Lugar ng̃a pagabohátan sa bisan onsa, sa mg̃a panápton, sa pothao,
 sa tesa, &c.
@@ -22748,7 +22748,7 @@ pagagamíton sa pagbóhat sa bisan onsa.
 
 Fornelo. = Bagahán ng̃a pothao ng̃a pagalotóan sa socolate.
 
-Fornicacion = Pagcasalá sa laláqui ug sa babáye ng̃a díli miño,
+Fornicacion. = Pagcasalá sa laláqui ug sa babáye ng̃a díli miño,
 paghiláoas.
 
 Fornicador. = Ang macasalá sa babáye ng̃a díli iang osáoa, ug sa laláqui
@@ -23141,7 +23141,7 @@ pagcapíso.
 
 Fricandó. = Guinisal sa mg̃a prancés.
 
-Fricasé = Idem.
+Fricasé. = Idem.
 
 Friega. V. Fricacion.
 
@@ -29994,7 +29994,7 @@ Invariabilidad. = Pagcaoaláy pagcabálhin, pagcaósob, pagcaópod.
 
 Invariable. = Ang díli mabálhin, ang díli maósob, ang díli maópod.
 
-Invariablemente = Sa oaláy pagcabálhin, pagcaópod, pagcaósob.
+Invariablemente. = Sa oaláy pagcabálhin, pagcaópod, pagcaósob.
 
 Invariado. = Ang oalá mabálhin, maópod, maósob, ang mao da sa guihápon.
 
@@ -31656,7 +31656,7 @@ Latinamente. = Sa pagcalinatín, sa linatín.
 
 Latinear. = Pagsácot sa mg̃a polong ng̃a linatín sa lain ng̃a pinamólong.
 
-Latinidad. * V. Latin.
+Latinidad. V. Latin.
 
 Latinismo. = Pagpamólong ng̃a ang̃ay sa pinamólong ng̃a linatín.
 
@@ -35044,7 +35044,7 @@ lugar ng̃a mahomód sa tagsa ca pagíhi.
 
 Meadero. = Lugar ng̃a ihiánan.
 
-Meados = Ihi.
+Meados. = Ihi.
 
 Meato. = Bohó ng̃a diótay uyámot sa mg̃a laoas sa mg̃a táuo: ang alaguían
 sa sing̃ot.
@@ -42735,8 +42735,9 @@ Pepino. = Tanóm ng̃a mobóng̃a sa mg̃a pepino usáb.
 
 Pepion. = Salapí ng̃a caráan, sa España.
 
-Pepita = Liso. * Ang binhi sa obán ng̃a mg̃a tanóm ug mg̃a bong̃a. * Saquét
-ng̃a guibáti sa mg̃a manóc, sa dila. * Ang bató ng̃a lonlon ng̃a buláoan.
+Pepita. = Liso. * Ang binhi sa obán ng̃a mg̃a tanóm ug mg̃a bong̃a. *
+Saquét ng̃a guibáti sa mg̃a manóc, sa dila. * Ang bató ng̃a lonlon ng̃a
+buláoan.
 
 Pepíta de S. Ignacio. = Igásod.
 
@@ -48787,7 +48788,7 @@ Quintar. = Papíli, pagripa sa mg̃a icalíma, sa usá sa tagsa ca lilíma. *
 Pagripa sa mg̃a táuo ng̃a manolód sa pagcasoldados. * Pagábot sa isip sa
 usá ca gatús.
 
-Quintería. Quinta hasta pagcapíli.
+Quintería. V. Quinta hasta pagcapíli.
 
 Quinterno. = Libro, cuaderno sa lilíma ca pliego. * Pagcaígo sa lilíma
 ca número sa lotería.
@@ -55692,7 +55693,7 @@ Segun. = Ing̃on, maíng̃on.
 
 Segundar. = Paghímo sa icadúha, pagsonód sa nahaóna.
 
-Segundariamente. M. Secundariamente.
+Segundariamente. V. Secundariamente.
 
 Segundario. V. Secundario.
 
@@ -56429,7 +56430,7 @@ cuaresma.
 
 Sexagésimo. = Ang macahíngpit sa isip sa caunúman.
 
-Sexángulo = Ang may onóm ca nauong.
+Sexángulo. = Ang may onóm ca nauong.
 
 Sexenio. = Pagcadúgay, cadugáyan sa unóm ca túig.
 
@@ -64125,7 +64126,7 @@ sa amahán.
 
 Utilidad. = Polós, caposlánan. * Pagcapolós.
 
-Utilizar. * Pagpolós.
+Utilizar. = Pagpolós.
 
 Utilmente. = Sa polós.
 
@@ -64653,7 +64654,7 @@ Veda. = Pagcadilí.
 Vedado. = Lugar ng̃a díli mahímo ng̃a pagasórlan cay guidilí sa mg̃a
 ponóan con sa batásan, sa mg̃a leyes.
 
-Vedamiento. V Prohibitorio.
+Vedamiento. V. Prohibitorio.
 
 Vedar. = Pagdilí. * Pagólang, pagbótang sa mg̃a cabilínggan, sa mg̃a
 caculían.
@@ -66757,7 +66758,7 @@ Báta, sologóon sa mg̃a baquero.
 Zagala. = Dalága. * Ang babáye ng̃a báta pa ng̃a magabántay sa mg̃a
 hayúpan.
 
-Zagalejo = Saya sa mg̃a babáye ng̃a guiibábao nila sa mg̃a naguas.
+Zagalejo. = Saya sa mg̃a babáye ng̃a guiibábao nila sa mg̃a naguas.
 
 Zaguan. = Ganháan, tugcálan sa baláy, silong.
 
