@@ -5,6 +5,8 @@
 
 
 
+
+
 ]>
 
 
@@ -98,12 +100,8 @@ distinguir las diferentes acepciones de los términos.
 
 
 
-
-
-
 DICCIONARIO
 ESPAÑOL-BISAYA.
-
 
 
 
@@ -3636,6 +3634,7 @@ Azuzar, incitar á los perros para que embistan. = Paghot, panghot.
 
 
 
+
 B
 
 
@@ -5459,6 +5458,7 @@ Buzo. = Tigsálom, ang mosálom.
 
 Buzon. = Alaguían sa tóbig sa mg̃a danao. * Ang bohó ng̃a pang̃abotáng̃an
 sa mg̃a sulat sa correo.
+
 
 
 
@@ -10652,6 +10652,10 @@ Cuyo. = Cansa.
 
 
 
+
+
+
+
 CH
 
 
@@ -11035,6 +11039,9 @@ Chusco. = Bisan onsa ng̃a ang̃áyan, baihónan.
 Chusma. = Cadaghánan, pagcadághan sa mg̃a táuo.
 
 Chuzo. = Cahoy ng̃a guitaólan sa usá ca pothao ng̃a matalínis.
+
+
+
 
 
 
@@ -15264,6 +15271,9 @@ Durmiente. = Ang matólog. * Balábag, sabláyan sa mg̃a baláy.
 Duro. = Matíga, quisol, bantoc, quinol, colínos, caguing, magáhi. *
 Mabáng̃is, mamomógos. * Daguinótan caáyo, hicáoan. * Maísog, táuo sa
 mabóg-at ng̃a boot ug gaoi.
+
+
+
 
 
 
@@ -21088,7 +21098,7 @@ Extrañeza. = Pagcaláin. * Bisan onsa ng̃a díli ang̃ay, díli oyon, ng̃a
 díli magamótang sa pagcahósay. * Pagcabólag sa mg̃a abian, pagáoay sa
 mg̃a higála. * Pagcating̃ála, bisan onsa ng̃a hibólng̃an.
 
-Extraño. V. Domolóong. * Ang díli caogalíng̃on, ang díli onta sacop sa
+Extraño. = Domolóong. * Ang díli caogalíng̃on, ang díli onta sacop sa
 Guinharían, sa longsod, sa calioátan, sa banay, ug díli opod apil sa
 oficio sa quinaádman, &c., ng̃a guihisgótan ug guisoguilánan. * Bisan
 onsa ng̃a cating̃aláhan, olosáhon, hibólng̃an. * Táuo sa gaoi ng̃a malisód.
@@ -23454,6 +23464,7 @@ Funesto. = Masolóbon. * Aláot, anógon.
 
 
 
+
 G
 
 
@@ -25605,6 +25616,8 @@ Guturalmente. = Sa pagcasagóngsong.
 
 
 
+
+
 H
 
 
@@ -27145,6 +27158,7 @@ Huso. = Bilícan.
 Huta. = Balong balong, payág.
 
 Hutia. = Mananáp sa América ng̃a maíng̃on ing̃on sa ilagá.
+
 
 
 
@@ -30357,6 +30371,7 @@ Izquierdo. = Bisan onsa ng̃a anáa sa dapit sa oála. * Táuo ug oálhon.
 
 
 
+
 J
 
 
@@ -31045,6 +31060,8 @@ sa isigcatáuo.
 Juzgante. = Ang magahócom.
 
 Juzgar. = Paghócom, pagsentensia. * Paghúna húna, pagtóo sa bisan onsa.
+
+
 
 
 
@@ -33195,6 +33212,9 @@ nagatórlo sa obán sa iang quinaárman.
 
 
 
+
+
+
 LL
 
 
@@ -33307,9 +33327,7 @@ Llevar. = Dala, hatud. * Pagtíng̃il.
 
 
 
-
 LLO
-
 
 Lloíca. = Langgam.
 
@@ -33356,6 +33374,8 @@ Lluvia. = Olan, pagólan, Pagcaólan. * Pagcadághan, cadaghánan sa bisan
 onsa.
 
 Lluvioso. = Taliúlan, túig ng̃a igaúlan, tangúlan.
+
+
 
 
 
@@ -37316,7 +37336,6 @@ Musa. = Dios dios ng̃a babáye sa mg̃a dioatáhan sa canhing tiempo.
 Musaraña. = Mananáp sa opát ca tiil. * Mananáp ng̃a diótay caáyo. *
 Bolog bolog sa mg̃a matá.
 
-
 Muscaria. = Langgam, (calaínan.)
 
 Muscipaca. = Langgam, (calaínan.)
@@ -37372,6 +37391,8 @@ Mútuo. = Bisan onsa ng̃a pagabuháton sa duhá ca táuo con capin ba. *
 Pagcaólus, pagcabáilo.
 
 Muy. = Oyámot, caáyo.
+
+
 
 
 
@@ -38381,6 +38402,7 @@ pagdógang.
 
 
 
+
 Ñ
 
 
@@ -38404,6 +38426,7 @@ pagdógang.
 tamboc sa baca, sa itlog, sa bino ug sa anís.
 
 Ñoño. = Tigúlang, ang̃o ang̃óhon, hing̃olíon.
+
 
 
 
@@ -39825,6 +39848,8 @@ sománhil.
 OY
 
 Oyente. = Ang magadóng̃og, ang magapatalínghog.
+
+
 
 
 
@@ -48441,6 +48466,7 @@ Puzolana. = Balás ng̃a maáyo sa pagsácot sa apog.
 
 
 
+
 Q
 
 
@@ -48875,6 +48901,9 @@ Quitasol. = Payong.
 Quito. = Pacaságang, pagcaólang.
 
 Quizá ó Quizás. = Cahá, ting̃áli.
+
+
+
 
 
 
@@ -54262,6 +54291,9 @@ Rutinario. = Ang guibúhat tong̃ód lamang sa batásan, sa pagcaánad.
 
 
 
+
+
+
 S
 
 
@@ -59002,6 +59034,9 @@ Suyo. = Ia, iya.
 
 
 
+
+
+
 T
 
 
@@ -63673,6 +63708,8 @@ Tuyo. = Imo.
 
 
 
+
+
 U
 
 
@@ -63692,6 +63729,7 @@ ng̃a managsóso pa.
 UC
 
 Ucencia. V. Vuecelencia.
+
 
 
 
@@ -64154,6 +64192,7 @@ Uvayema. = Tanóm sa ubas, paras ng̃a ihálas.
 dagoay sa panit sa ubas.
 
 Uvero. = Ang magabalígya sa ubas.
+
 
 
 
@@ -66543,6 +66582,7 @@ Vulva. = Boto sa mg̃a babáye. * Quinatáuo, quinaláoas, calaoásan.
 
 
 
+
 X
 
 
@@ -66556,6 +66596,10 @@ Xapurca. = Paglo-gó sa tubig ng̃a mahúgao.
 
 Xarro. = Táuo ng̃a tigsínggit caáyo, ug ng̃a hinuguilánan sa oaláy
 cahológan.
+
+
+
+
 
 
 
@@ -66677,6 +66721,7 @@ Yunto. = Ang nagatupál.
 Yusion. = Sogo, pagbúot.
 
 Yuxtaposicion. = Pagcatóbo sa bisan onsa ng̃a oaláy quinabúhi.
+
 
 
 
@@ -67496,6 +67541,16 @@ Zutano. = Coan.
 Zuzo. = Polong ng̃a igatáoag sa mg̃a iró.
 
 Zuzon. = Tanóm.
+
+
+
+------
+FIGURE
+
+FIN.
+------
+
+
 
 
 

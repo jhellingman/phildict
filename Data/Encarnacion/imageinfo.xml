@@ -1,3 +1,5 @@
 <images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/fin.png" filesize="7196" filedate="2023-02-04 13:16:57" width="262px" height="141px"/>
 <image path="images/new-cover.jpg" filesize="51821" filedate="2023-01-21 21:55:42" width="480px" height="720px"/>
+<image path="images/titlepage.png" filesize="10907" filedate="2023-02-04 13:16:59" width="479px" height="720px"/>
 </images>
