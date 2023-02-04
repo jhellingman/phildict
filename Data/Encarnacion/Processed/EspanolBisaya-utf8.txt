@@ -1,75 +1,26 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
 
 
 
+                              DICCIONARIO
+                            ESPAÑOL-BISAYA,
+
+                COMPUESTO, CORREGIDO Y AUMENTADO POR EL
+                R. P. Fr. JUAN FÈLIS DE LA ENCARNACION,
+
+        Provincial que ha sido dos veces de Agustinos descalzos,
+       de la provincia de S. Nicolàs de Tolentino, de Filipinas.
+
+                            SEGUNDA EDICION.
+
+                         CON SUPERIOR PERMISO.
+
+                                Binondo:
+                    Imprenta de MIGUEL SANCHEZ y CA.
+                                 1866.
 
 
 
-
-]>
-
-
-
-
-
-
-
-
-------
-FIGURE
-
-Cubierta frontal de nuevo diseño.
-------
-
-
-
-
-
-
-
-
-------
-FIGURE
-
-Página de título original.
-------
-
-
-
-
-
-
-DICCIONARIO
-
-ESPAÑOL-BISAYA,
-
-COMPUESTO, CORREGIDO Y AUMENTADO POR EL
-
-R. P. Fr. JUAN FÈLIS DE LA ENCARNACION,
-
-Provincial que ha sido dos veces de Agustinos descalzos, de la
-provincia de S. Nicolàs de Tolentino, de Filipinas.
-
-SEGUNDA EDICION.
-
-CON SUPERIOR PERMISO.
-
-Binondo:
-
-Imprenta de MIGUEL SANCHEZ y CA.
-
-1866.
-
-
-
-
-
-
-
-
-
-Es propiedad de la Provincia.
 
 
 
@@ -98,17 +49,11 @@ distinguir las diferentes acepciones de los términos.
 
 
 
-
-
 DICCIONARIO
 ESPAÑOL-BISAYA.
 
 
-
-
-
 A
-
 
 Á, artículo de nombres propios. = Cang, can. * Artículo de nombres
 apelativos. = Sa. * Mí. = Canáco.
@@ -202,7 +147,6 @@ Abejoncillo. = Boyog ng̃a diótay.
 Abejorro. = Boyog, guiao, biao.
 
 Abejuno. = Canhic, canhig potiócan.
-
 
 Abertura de boca ó dedos. = Sing̃í, guing̃i. * De camisa por el cuello. =
 Liab. * En tierra, tabla, pared, &c. = Bohó, bang̃ag, lotac, boong,
@@ -602,9 +546,7 @@ Dando en cara alguna cosa. = Boyboy.
 
 
 
-
 ACH
-
 
 Achacar, imputar, echar la culpa. = Pagsáng̃il, sang̃il, tap-il. *
 Falsamente, con mentira. = Butang butang.
@@ -760,9 +702,7 @@ Aechar. = Palíd, alíg-ig.
 
 
 
-
 AF
-
 
 Afabilidad. = Pagcalómo, maáyong búot, maáyong gaoi, pagcanáya náya.
 
@@ -1033,7 +973,6 @@ Airoso, tiempo de viento, de aire ó lugar de él. = Maháng̃in. * Garboso.
 Aislado. = Sía usá da, oaláy obán, binócot, bocot.
 
 Aislar. = Olang, libót, lipót.
-
 
 
 
@@ -1967,7 +1906,6 @@ Anverso. = Ang licód sa nauong.
 
 Anzuelo. = Taga, bíng-uit, quioal, Lambo, biloig, bilicógcog, bonit,
 cao-it.
-
 
 
 
@@ -3635,12 +3573,13 @@ Azuzar, incitar á los perros para que embistan. = Paghot, panghot.
 
 
 
+
+
+
 B
 
 
-
 BA
-
 
 Baba. = Laoay, tilágac.
 
@@ -5463,12 +5402,13 @@ sa mg̃a sulat sa correo.
 
 
 
+
+
+
 C
 
 
-
 CA
-
 
 Cabal, justo. = Toman, songcad, topóng.
 
@@ -7667,7 +7607,6 @@ Cetrino. = Color ng̃a molomaítom ug boloberde.
 
 Cetro. = Cahoy sa salapí con sa boláoan, ng̃a linabráhan ug maáyo, ng̃a
 timáan sa pagcahalángdon sa mg̃a hari.
-
 
 
 
@@ -10656,8 +10595,8 @@ Cuyo. = Cansa.
 
 
 
-CH
 
+CH
 
 
 CHA
@@ -11045,12 +10984,12 @@ Chuzo. = Cahoy ng̃a guitaólan sa usá ca pothao ng̃a matalínis.
 
 
 
+
+
 D
 
 
-
 DA
-
 
 Dable. = Ang masáyong boháton, ang arang himóon, gamon, boloháton.
 
@@ -15278,12 +15217,11 @@ mabóg-at ng̃a boot ug gaoi.
 
 
 
+
 E
 
 
-
 EA
-
 
 Ea. = Nan, na, da, harao, ta, ta la.
 
@@ -15358,10 +15296,7 @@ pagcadáot sa tiempo ug cahorós sa hang̃in.
 
 
 
-
-
 ED
-
 
 Edad. = Edad, túig, socad, cutob sa pagcatáuo sa bisan cansa. *
 Cadaghánan sa mg̃a túig con sa mang̃a catoígan.
@@ -20478,7 +20413,6 @@ ilang guitaláyan, sa pagdámag ug pagpang̃óbat sa ilang mg̃a caáoy.
 
 
 
-
 EX
 
 Ex abrupto. = Mg̃a polong ng̃a linatín: silbi sa pagásoy sa pagcadalí sa
@@ -21170,12 +21104,14 @@ Exultacion. = Pagcalípay, paghimáya.
 
 
 
+
+
+
+
 F
 
 
-
 FA
-
 
 Fábrica. = Balay, cota, Singbahán, &c., ng̃a binóhat sa bató, sa papán,
 &c. * Lugar ng̃a guitagána sa pagbóhat sa bisan onsang baláy, baluarte,
@@ -23465,12 +23401,12 @@ Funesto. = Masolóbon. * Aláot, anógon.
 
 
 
+
+
 G
 
 
-
 GA
-
 
 Gabacho. = Ang mg̃a táuo sa obán ng̃a mg̃a longsod sa Prancia ug ang
 nahatong̃ód caníla.
@@ -25618,8 +25554,8 @@ Guturalmente. = Sa pagcasagóngsong.
 
 
 
-H
 
+H
 
 
 HA
@@ -26207,11 +26143,7 @@ Hez. = Lalog, lonoc, nalog, bas-og.
 
 
 
-
-
-
 HI
-
 
 Híadas. = Tapoc sa mg̃a bitóon sa timáan sa Lang̃it ng̃a guing̃álan ug
 Tauro.
@@ -27164,15 +27096,14 @@ Hutia. = Mananáp sa América ng̃a maíng̃on ing̃on sa ilagá.
 
 
 
-I
 
+
+I
 
 
 ID
 
-
 I. = Ug.
-
 
 Ida. = Pagádto sa bisan diin. * Pagbóhat, pagpamólong sa oalá húna
 hunáon ug maáyo, guícan lamang sa capong̃ót.
@@ -30372,12 +30303,12 @@ Izquierdo. = Bisan onsa ng̃a anáa sa dapit sa oála. * Táuo ug oálhon.
 
 
 
+
+
 J
 
 
-
 JA
-
 
 Jabali. = Baboy ng̃a ihálas.
 
@@ -30671,6 +30602,7 @@ Jetar. = Paglínis sa bisan onsa sa tobig, sa bino, &c.
 Jetudo. = Ang guidagcóan sa mg̃a ng̃abil.
 
 
+
 JI
 
 Jiba. = Pagcabóctot, boctot. * Casámoc, pagcabórlay.
@@ -30777,10 +30709,7 @@ Joyero. = Tauo ng̃a magabalígya sa mg̃a hias.
 
 
 
-
-
 JU
-
 
 Juan. = Cajon cajon ng̃a guibótang sa mg̃a Singbahán ng̃a pagasórlan sa
 mg̃a limos.
@@ -31066,12 +30995,12 @@ Juzgar. = Paghócom, pagsentensia. * Paghúna húna, pagtóo sa bisan onsa.
 
 
 
+
+
 L
 
 
-
 LA
-
 
 La. = Ang.
 
@@ -33215,12 +33144,11 @@ nagatórlo sa obán sa iang quinaárman.
 
 
 
+
 LL
 
 
-
 LLA
-
 
 Llaga. = Samad. * Saquét sa calág.
 
@@ -33326,7 +33254,6 @@ Llevar. = Dala, hatud. * Pagtíng̃il.
 
 
 
-
 LLO
 
 Lloíca. = Langgam.
@@ -33380,12 +33307,12 @@ Lluvioso. = Taliúlan, túig ng̃a igaúlan, tangúlan.
 
 
 
+
+
 M
 
 
-
 MA
-
 
 Maca. = Samad sa mg̃a bong̃a. * Pagcadáot sa bisan onsa. * Limbong,
 bacac.
@@ -37397,8 +37324,9 @@ Muy. = Oyámot, caáyo.
 
 
 
-N
 
+
+N
 
 
 NA
@@ -38403,8 +38331,8 @@ pagdógang.
 
 
 
-Ñ
 
+Ñ
 
 
 ÑA
@@ -38416,7 +38344,6 @@ pagdógang.
 ÑI
 
 Ñiquiñaque. = Bisan quinsa ug bisan onsa ng̃a talamáyon.
-
 
 
 
@@ -38432,12 +38359,12 @@ tamboc sa baca, sa itlog, sa bino ug sa anís.
 
 
 
+
+
 O
 
 
-
 OB
-
 
 Obcecacion. = Pagcabóta sa húna húna. * Pagpadáyon sa bisan onsang
 bohat sa oaláy tagád sa mang̃a cabilínggan.
@@ -39051,7 +38978,6 @@ pagcacuguíhan.
 
 
 OLL
-
 
 Olla. = Colon. * Ang can-on ng̃a magáma sa carne, sa baboy, sa
 garbansos, &c.
@@ -39854,12 +39780,12 @@ Oyente. = Ang magadóng̃og, ang magapatalínghog.
 
 
 
+
+
 P
 
 
-
 PA
-
 
 Pabellon. = Pabeyon, tabil, cobong cobong. * Bandelang dagcó.
 
@@ -48467,12 +48393,12 @@ Puzolana. = Balás ng̃a maáyo sa pagsácot sa apog.
 
 
 
+
+
 Q
 
 
-
 QUE
-
 
 Que. = Ng̃a, ug.
 
@@ -48908,12 +48834,11 @@ Quizá ó Quizás. = Cahá, ting̃áli.
 
 
 
+
 R
 
 
-
 RA
-
 
 Rabadan. V. Mayorál.
 
@@ -54294,8 +54219,8 @@ Rutinario. = Ang guibúhat tong̃ód lamang sa batásan, sa pagcaánad.
 
 
 
-S
 
+S
 
 
 SA
@@ -59037,12 +58962,11 @@ Suyo. = Ia, iya.
 
 
 
+
 T
 
 
-
 TA
-
 
 Ta! = Bantay!
 
@@ -63710,12 +63634,11 @@ Tuyo. = Imo.
 
 
 
+
 U
 
 
-
 UB
-
 
 Ubérrimo. = Ang guidaghánan. * V. Feraz.
 
@@ -63732,9 +63655,7 @@ Ucencia. V. Vuecelencia.
 
 
 
-
 UE
-
 
 Uesnorueste. V. Oesnorueste.
 
@@ -64198,12 +64119,12 @@ Uvero. = Ang magabalígya sa ubas.
 
 
 
+
+
 V
 
 
-
 VA
-
 
 Vaca. = Baca. * Ang onór sa baca ng̃a ibalígya. * Pagcacorámbos sa
 sugál. * Ang salapí ng̃a guiípon sa duhá ca táuo sa pagsugál nila. * Ang
@@ -66583,12 +66504,11 @@ Vulva. = Boto sa mg̃a babáye. * Quinatáuo, quinaláoas, calaoásan.
 
 
 
+
 X
 
 
-
 XA
-
 
 Xapoipa. = Tinápay ng̃a pagapritóhon sa caláha.
 
@@ -66603,12 +66523,11 @@ cahológan.
 
 
 
+
 Y
 
 
-
 YA
-
 
 Y. = Ug.
 
@@ -66728,12 +66647,11 @@ Yuxtaposicion. = Pagcatóbo sa bisan onsa ng̃a oaláy quinabúhi.
 
 
 
+
 Z
 
 
-
 ZA
-
 
 Za. = Polong ng̃a icabúgao sa mg̃a iró.
 
@@ -66889,7 +66807,6 @@ onsa ng̃a guitáng̃ag sa mg̃a iró. * Paghámpac sa bisan cansa, sa pagsonód
 sonór canía sa luyo ug sa luyo.
 
 Zamarrilla. = Tanóm ng̃a italámbal.
-
 
 Zamarro. = Bisti sa mg̃a panit sa mg̃a carnerong diótay sa mohómoc ng̃a
 balahíbo; V. Zamacuco.
@@ -67054,8 +66971,6 @@ buhat ng̃a dili maáyo, sa daútan ng̃a pagbúhat.
 
 Zaparrazo. = Pagcahágbong; calisód ng̃a muábot sa bisan cansa
 
-
-[**ERROR: Contains unhandled entity &c.;]
 Zapata. = Panit ng̃a mabága, ng̃a ibútang sa ilálom sa quisio sa mg̃a
 pultahán, arón dili unta cagdan ang quisióhan; pinótol ng̃a cahoy ng̃a
 ibútang ug ipahaáng̃ay sa tomóy sa mg̃a halígue, ng̃a mulábao sa luyo ug
@@ -67084,8 +66999,6 @@ Zapatero. = Magbubúhat, tigbúhat, ang magabúhat sa mg̃a sapín.
 Zapateta. = Pagcabánha sa salog, sa mg̃a sapín, sa paglócso sa timáan sa
 calípay.
 
-
-[**ERROR: Contains unhandled entity &c.;]
 Zapatilla. = Panit ng̃a isápao sa mg̃a bató ng̃a santícan sa mg̃a pusil,
 &c.; sapín ng̃a pino ug sa maáyong pagbúhat; sinelas; cocó sa mg̃a
 mananáp.
@@ -67167,8 +67080,6 @@ Zaraza. = Panápton ng̃a maputí, pino ug halagpád caáyo; minása ng̃a
 sináctan sa mg̃a dagom, sa salamín ng̃a dinócdoc ug sa hiló, ng̃a icapatáy
 sa mg̃a iró.
 
-
-[**ERROR: Contains unhandled entity &c.;]
 Zarcear. = Paghúgas sa mg̃a alaguían sa tubig, sa mg̃a ihi, &c.; paglacát
 ng̃adto ng̃adto, sa madalí caáyo; paglacáo sa pagpaíng̃on ng̃adto ug sa
 pagpaíng̃on ng̃anhi sa masóbsob.
@@ -67251,7 +67162,6 @@ Zato. = Tipac ng̃a pan.
 
 
 
-
 ZE
 
 Zeca. = Baláy ng̃a pagabuhátan sa salapí: sa pisos, sa caháte, &c.
@@ -67276,7 +67186,6 @@ Zénzalo. = Namóc.
 
 
 
-
 ZI
 
 Zilórgano. = Tolónggon ng̃a caráan.
@@ -67290,16 +67199,12 @@ caáyo.
 
 Ziszas. V. Zas.
 
-
-[**ERROR: Contains unhandled entity &c.;]
 Zizaña. = Sagbot, dagámi, bungláyon ng̃a muturóc ug mutóbo sa yota ng̃a
 guipugásan sa trigo, sa humáy, &c.; pagcabiquil biquil sa mg̃a
 cabobót-on; bisan onsa ng̃a macadáot.
 
 Zizañar. = Pagsámbag arón magaáoay ang mg̃a tauo; pagdála dala sa mg̃a
 suguílon ng̃a icabíquil biquil sa mg̃a cabobót-on.
-
-
 
 
 
@@ -67384,8 +67289,6 @@ matahápon; ang sonód sa lain, ang naoláhi; calaínan sa iró ng̃a dagcó ug
 maáyo sa pagpang̃áyam; ang tauo ng̃a sinohólan sa mg̃a solóp ng̃a hariánon,
 sa pagpatáy sá mg̃a mananáp ng̃a daótan.
 
-
-[**ERROR: Contains unhandled entity &c.;]
 Zorro. = Zorra ng̃a laqui, ang laqui sa zorra; ang magapacalúya arón
 dili sia papagbuháton; ang icog sa zorra ng̃a igapáhid sa mg̃a cuadro,
 &c.; ang panit sa zorra ng̃a quinórti laquip ang balahíbo, V. Zorrero
@@ -67414,8 +67317,6 @@ Zozobrante. = Ang guicalísdan; ang anáa sa catáhap sa icadáot.
 
 Zozobrar. = Paglonód, paglánas sa mg̃a sacayán; pagpuyó sa may catáhap
 sa icadáot; pagsáquet, pagyógot, paglisód.
-
-
 
 
 
@@ -67544,130 +67445,7 @@ Zuzon. = Tanóm.
 
 
 
-------
-FIGURE
-
-FIN.
-------
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-[**ERROR: unhandled comment start]
-
-CHECKLIST (X = done; / = not applicable)
-
-Initial cleanup
-
-[ ] Check all pb-tags, and join lines
-[ ] Move all footnotes in-line
-[ ] Tag headers
-[ ] Fix all [**Proofer comments]
-[ ] Start all paragraphs with the p-tag
-[ ] Change b, sc, g tags to hi tags with correct attributes.
-[ ] Change tb tags to milestone tags.
-[ ] Fix multiple spaces in a row
-[ ] Verify all paragraphs start with p-tag, also those starting with a
-tag.
-
-TEI header
-
-[ ] Add TEI header.
-[ ] Fill in details in TEI header
-[ ] Verify Author dates and add to TEI header.
-[ ] Document on-line scan sources.
-[ ] Fill in description in noteStmt.
-[ ] Fill in keywords / Subjects
-[ ] Add auto-generated colophon divGen tag.
-[ ] Fill in reference to LOC record (https://catalog.loc.gov/).
-[ ] Fill in reference to OpenLibrary record (https://openlibrary.org).
-[ ] Fill in reference to WorldCat record (source and work)
-(https://www.worldcat.org).
-[ ] Generate unique epub-id. (https://www.guidgenerator.com/)
-
-Verse
-
-[ ] Tag all verse.
-[/] Apply proper indentation: rend="indent(2)"
-
-Lists
-
-[ ] Tag all lists.
-
-Tables
-
-[/] Format tables
-[/] Apply ditto-tags.
-
-Table of Contents
-
-[ ] Format table(s) of contents
-[ ] Link entries in table of contents
-[ ] Verify each link
-[ ] Compare with generated table of contents
-
-Images
-
-[ ] Include all illustrations
-[ ] Verify positioning of images makes sense.
-
-Spelling
-
-[I] Verify generated wordlist (Retrograd also upto H)
-[X] Tag language usage
-
-Tools
-
-[ ] Verify Gutcheck
-[ ] Verify jeebees
-
-Miscellany
-
-[ ] Check for [Greek: ...] notation
-[ ] Curlify quotes
-[ ] Check for wrong quotes
-[ ] Disambiguate single quotes, apostrophes, and primes.
-[ ] Unwrap lines
-[ ] Check for lines not unwrapped
-[ ] Verify sequence of page-numbers
-[ ] Handle fractions, such as 1/2. ([0-9])\–([0-9])/([0-9]) becomes
-\1\&frac\2\3;
-[ ] Converted all fragments in uppercase to mixed case.
-
-Text Version
-
-[ ] Remove FIGURE notations
-[ ] Verify empty lines between chapter headings
-[ ] Verify empty lines around poetry and lists
-[ ] Center poetry
-[ ] Format title page
-[ ] Remove Ads
-[ ] Format Tables
-[ ] Verify Greek and other transliterations
-
-Additional Checks and Edits (Add as needed for a specific book)
-
-[ ] ....
-
-Post-Posting
-
-[ ] Update status to 1.0 (i.e. Posted).
-[ ] Include PG number and posting date in metadata
-
--->
-
-
-NOTES
 
